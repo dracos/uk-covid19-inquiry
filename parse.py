@@ -115,16 +115,15 @@ def strip_line_numbers(text):
 
 def remove_left_indent(data):
     # Work out how indented everything is
-    min_indent = 999
+    min_indent = {}
     for page, num, line in data:
         left_space = len(line) - len(line.lstrip())
         if left_space:
-            min_indent = min(min_indent, left_space)
+            min_indent[page] = min(min_indent.get(page, 999), left_space)
 
     # Strip that much from every line
-    left_space = ' ' * min_indent
     data = [
-        (page, num, re.sub('^' + left_space, '', line))
+        (page, num, re.sub('^' + (' ' * min_indent[page]), '', line))
         for page, num, line in data
     ]
     return data
@@ -258,7 +257,7 @@ def parse_transcript(url, text):
             continue
 
         # New paragraph if indent at least 8 spaces
-        m = re.match('        ', line)
+        m = re.match('    ', line)
         if m:
             speech.add_para(line.strip())
             continue
