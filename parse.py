@@ -155,13 +155,18 @@ def parse_transcript(url, text):
             continue
 
         if state == 'adjournment':
-            state = 'text'
             if re.match(' *(.*)\)$', line):
+                state = 'text'
                 speech.add_text(line.strip())
                 continue
             if re.match(' *(MODULE 2[ABC])$', line):
+                state = 'text'
                 speech.heading += ' ' + fix_heading(line)
                 continue
+            if not re.match(' *[A-Zc -]*:', line):
+                speech.heading += ' ' + fix_heading(line)
+                continue
+            state = 'text'
 
         # Time/message about lunch/adjournments
         m = re.match(' *(\(.*\))$', line)
@@ -183,7 +188,7 @@ def parse_transcript(url, text):
             continue
 
         # Multiline heading
-        m = re.match('(?i) *Response statement by LEAD COUNSEL TO THE INQUIRY FOR$', line)
+        m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Submissions on behalf of)', line)
         if m:
             yield speech
             state = 'adjournment'
