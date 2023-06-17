@@ -118,6 +118,8 @@ def remove_left_indent(data):
     for page in data.keys():
         min_indent = 999
         for num, line in data[page]:
+            if re.match('\s*$', line):
+                continue
             left_space = len(line) - len(line.lstrip())
             if left_space:
                 min_indent = min(min_indent, left_space)
@@ -139,6 +141,12 @@ def parse_transcript(url, text):
     state = 'text'
     date = None
     for page in data.keys():
+        new_para_indent = 4
+        for num, line in data[page]:
+            m1 = re.match(' *((?:[A-Z -]|Mc)+): (.*)', line)
+            m2 = re.match('([QA])\. (.*)', line)
+            if m1 or m2:
+                new_para_indent = 7
 
         for num, line in data[page]:
             # Okay, here we have a non-empty, non-page number, non-index line of just text
@@ -199,7 +207,7 @@ def parse_transcript(url, text):
                 continue
 
             # Questions
-            m = re.match('(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
+            m = re.match(' *(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
             if m:
                 yield speech
                 speech = Section( heading=fix_heading(line), level=2)
@@ -207,7 +215,7 @@ def parse_transcript(url, text):
                 continue
 
             # Headings
-            m = re.match('(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
+            m = re.match(' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
             if m:
                 yield speech
                 speech = Section( heading=fix_heading(line) )
@@ -242,7 +250,7 @@ def parse_transcript(url, text):
                 continue
 
             # Question/answer (speaker from previous lines)
-            m = re.match('([QA])\. (.*)', line)
+            m = re.match(' *([QA])\. (.*)', line)
             if m:
                 yield speech
                 if m.group(1) == 'A':
@@ -265,7 +273,7 @@ def parse_transcript(url, text):
                 continue
 
             # New paragraph if indent at least some spaces
-            m = re.match('    ', line)
+            m = re.match(' ' * new_para_indent, line)
             if m:
                 speech.add_para(line.strip())
                 continue
