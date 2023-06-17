@@ -139,6 +139,7 @@ def parse_transcript(url, text):
     speech = None
     interviewer = None
     state = 'text'
+    skip_lines = 0
     date = None
     for page in data.keys():
         new_para_indent = 4
@@ -151,6 +152,10 @@ def parse_transcript(url, text):
         for num, line in data[page]:
             # Okay, here we have a non-empty, non-page number, non-index line of just text
             #print(f'{page},{num:02d} {line}')
+
+            if skip_lines > 0:
+                skip_lines -= 1
+                continue
 
             # Empty line
             if re.match('\s*$', line):
@@ -240,7 +245,19 @@ def parse_transcript(url, text):
                     narrative = '%s%s.' % (m.group(1), m.group(2))
                 spkr = speech.speaker
                 yield speech
-                yield Section( heading=heading )
+
+                witness_heading = Section( heading=heading )
+                if re.match(' *and$', data[page][num][1]):
+                    witness_heading.heading += ' and '
+                    if re.match(' *and$', data[page][num][1]):
+                        next_witness = data[page][num+1][1]
+                        m4 = re.match(" *((?:[A-Z0-9' ,-]|Mc|Mr)+?)(,?\s*\(.*\)|, (?:sworn|affirmed))$", next_witness)
+                        if m4:
+                            witness_heading.heading += fix_name(m4.group(1).strip())
+                            narrative += '*\n\n*%s%s.' % (m4.group(1), m4.group(2))
+                            skip_lines = 2
+                yield witness_heading
+
                 yield Speech( speaker=None, text=narrative )
                 if m1 and m.group(3):
                     speaker = fix_name(m.group(3))
