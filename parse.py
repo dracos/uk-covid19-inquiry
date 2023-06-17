@@ -74,7 +74,7 @@ def parse_transcripts():
 def strip_line_numbers(text):
     page, num = 1, 1
     state = 'text'
-    data = []
+    data = {}
     for line in text:
         line = line.rstrip('\n')
 
@@ -108,24 +108,25 @@ def strip_line_numbers(text):
         line = re.sub('^ *%d' % num, '', line)
 
         # Okay, here we have a non-page number, non-index line of just text
-        data.append((page, num, line))
+        data.setdefault(page, []).append((num, line))
         num += 1
 
     return data
 
 def remove_left_indent(data):
     # Work out how indented everything is
-    min_indent = {}
-    for page, num, line in data:
-        left_space = len(line) - len(line.lstrip())
-        if left_space:
-            min_indent[page] = min(min_indent.get(page, 999), left_space)
+    for page in data.keys():
+        min_indent = 999
+        for num, line in data[page]:
+            left_space = len(line) - len(line.lstrip())
+            if left_space:
+                min_indent = min(min_indent, left_space)
+        # Strip that much from every line
+        data[page] = [
+            (num, re.sub('^' + (' ' * min_indent), '', line))
+            for num, line in data[page]
+        ]
 
-    # Strip that much from every line
-    data = [
-        (page, num, re.sub('^' + (' ' * min_indent[page]), '', line))
-        for page, num, line in data
-    ]
     return data
 
 def parse_transcript(url, text):
@@ -137,138 +138,140 @@ def parse_transcript(url, text):
     interviewer = None
     state = 'text'
     date = None
-    for page, num, line in data:
-        # Okay, here we have a non-empty, non-page number, non-index line of just text
-        #print(f'{page},{num:02d} {line}')
+    for page in data.keys():
 
-        # Empty line
-        if re.match('\s*$', line):
-            continue
+        for num, line in data[page]:
+            # Okay, here we have a non-empty, non-page number, non-index line of just text
+            #print(f'{page},{num:02d} {line}')
 
-        line = line.replace('MAPEC_', 'MAPEC)')
-        line = line.replace('**', '\*\*')
+            # Empty line
+            if re.match('\s*$', line):
+                continue
 
-        # Date at start
-        m = re.match(' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd)? (August|September|October|November|December|January|February|March|April|May|June|July) 202[123]$', line)
-        if m:
-            date = line.strip() # datetime.strptime(line.strip(), '%A, %d %B %Y')
-            continue
+            line = line.replace('MAPEC_', 'MAPEC)')
+            line = line.replace('**', '\*\*')
 
-        if state == 'adjournment':
-            if re.match(' *(.*)\)$', line):
+            # Date at start
+            m = re.match(' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd)? (August|September|October|November|December|January|February|March|April|May|June|July) 202[123]$', line)
+            if m:
+                date = line.strip() # datetime.strptime(line.strip(), '%A, %d %B %Y')
+                continue
+
+            if state == 'adjournment':
+                if re.match(' *(.*)\)$', line):
+                    state = 'text'
+                    speech.add_text(line.strip())
+                    continue
+                if re.match(' *(MODULE 2[ABC])$', line):
+                    state = 'text'
+                    speech.heading += ' ' + fix_heading(line)
+                    continue
+                if not re.match(' *[A-Zc -]*:', line):
+                    speech.heading += ' ' + fix_heading(line)
+                    continue
                 state = 'text'
-                speech.add_text(line.strip())
-                continue
-            if re.match(' *(MODULE 2[ABC])$', line):
-                state = 'text'
-                speech.heading += ' ' + fix_heading(line)
-                continue
-            if not re.match(' *[A-Zc -]*:', line):
-                speech.heading += ' ' + fix_heading(line)
-                continue
-            state = 'text'
 
-        # Time/message about lunch/adjournments
-        m = re.match(' *(\(.*\))$', line)
-        if m:
-            spkr = None
-            if speech:
-                spkr = getattr(speech, 'speaker', None)
-                yield speech
-            yield Speech(speaker=None, text=line)
-            speech = Speech( speaker=spkr, text='' )
-            continue
-
-        # Multiline message about adjournment
-        m = re.match('(?i) *\((The (hearing|Inquiry) adjourned|On behalf of)', line)
-        if m:
-            yield speech
-            state = 'adjournment'
-            speech = Speech( speaker=None, text=line.strip() )
-            continue
-
-        # Multiline heading
-        m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Submissions on behalf of)', line)
-        if m:
-            yield speech
-            state = 'adjournment'
-            speech = Section( heading=fix_heading(line) )
-            continue
-
-        # Questions
-        m = re.match('(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
-        if m:
-            yield speech
-            speech = Section( heading=fix_heading(line), level=2)
-            interviewer = fix_name(m.group(1))
-            continue
-
-        # Headings
-        m = re.match('(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
-        if m:
-            yield speech
-            speech = Section( heading=fix_heading(line) )
-            if m.group(6):
-                yield speech
-                speech = Speech( speaker=fix_name(m.group(6)), text='' )
-            continue
-
-        # Witness arriving
-        m1 = re.match(" *((?:[A-Z]|Mr)(?:[A-Z0-9' ,-]|Mc|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
-        m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
-        m3 = re.match(" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
-        if m1 or m2 or m3:
-            m = m1 or m2 or m3
-            if m3:
-                heading = m.group(1) + fix_name(m.group(2).strip())
-                narrative = '%s%s%s.' % (m.group(1), m.group(2), m.group(3))
-            else:
-                heading = fix_name(m.group(1).strip())
-                if 'statement' not in line:
-                    Speech.witness = heading
-                narrative = '%s%s.' % (m.group(1), m.group(2))
-            spkr = speech.speaker
-            yield speech
-            yield Section( heading=heading )
-            yield Speech( speaker=None, text=narrative )
-            if m1 and m.group(3):
-                speaker = fix_name(m.group(3))
-                speech = Speech( speaker=speaker, text='')
-            else:
+            # Time/message about lunch/adjournments
+            m = re.match(' *(\(.*\))$', line)
+            if m:
+                spkr = None
+                if speech:
+                    spkr = getattr(speech, 'speaker', None)
+                    yield speech
+                yield Speech(speaker=None, text=line)
                 speech = Speech( speaker=spkr, text='' )
-            continue
+                continue
 
-        # Question/answer (speaker from previous lines)
-        m = re.match('([QA])\. (.*)', line)
-        if m:
-            yield speech
-            if m.group(1) == 'A':
-                assert Speech.witness
-                speaker = Speech.witness
-            else:
-                assert interviewer
-                speaker = interviewer
-            speech = Speech( speaker=speaker, text=m.group(2) )
-            continue
+            # Multiline message about adjournment
+            m = re.match('(?i) *\((The (hearing|Inquiry) adjourned|On behalf of)', line)
+            if m:
+                yield speech
+                state = 'adjournment'
+                speech = Speech( speaker=None, text=line.strip() )
+                continue
 
-        # New speaker
-        m = re.match(' *((?:[A-Z -]|Mc)+): (.*)', line)
-        if m:
-            yield speech
-            speaker = fix_name(m.group(1))
-            if not interviewer:
-                interviewer = speaker
-            speech = Speech( speaker=speaker, text=m.group(2) )
-            continue
+            # Multiline heading
+            m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Submissions on behalf of)', line)
+            if m:
+                yield speech
+                state = 'adjournment'
+                speech = Section( heading=fix_heading(line) )
+                continue
 
-        # New paragraph if indent at least 8 spaces
-        m = re.match('    ', line)
-        if m:
-            speech.add_para(line.strip())
-            continue
+            # Questions
+            m = re.match('(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
+            if m:
+                yield speech
+                speech = Section( heading=fix_heading(line), level=2)
+                interviewer = fix_name(m.group(1))
+                continue
 
-        # If we've got this far, hopefully just a normal line of speech
-        speech.add_text(line.strip())
+            # Headings
+            m = re.match('(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
+            if m:
+                yield speech
+                speech = Section( heading=fix_heading(line) )
+                if m.group(6):
+                    yield speech
+                    speech = Speech( speaker=fix_name(m.group(6)), text='' )
+                continue
+
+            # Witness arriving
+            m1 = re.match(" *((?:[A-Z]|Mr)(?:[A-Z0-9' ,-]|Mc|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
+            m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
+            m3 = re.match(" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
+            if m1 or m2 or m3:
+                m = m1 or m2 or m3
+                if m3:
+                    heading = m.group(1) + fix_name(m.group(2).strip())
+                    narrative = '%s%s%s.' % (m.group(1), m.group(2), m.group(3))
+                else:
+                    heading = fix_name(m.group(1).strip())
+                    if 'statement' not in line:
+                        Speech.witness = heading
+                    narrative = '%s%s.' % (m.group(1), m.group(2))
+                spkr = speech.speaker
+                yield speech
+                yield Section( heading=heading )
+                yield Speech( speaker=None, text=narrative )
+                if m1 and m.group(3):
+                    speaker = fix_name(m.group(3))
+                    speech = Speech( speaker=speaker, text='')
+                else:
+                    speech = Speech( speaker=spkr, text='' )
+                continue
+
+            # Question/answer (speaker from previous lines)
+            m = re.match('([QA])\. (.*)', line)
+            if m:
+                yield speech
+                if m.group(1) == 'A':
+                    assert Speech.witness
+                    speaker = Speech.witness
+                else:
+                    assert interviewer
+                    speaker = interviewer
+                speech = Speech( speaker=speaker, text=m.group(2) )
+                continue
+
+            # New speaker
+            m = re.match(' *((?:[A-Z -]|Mc)+): (.*)', line)
+            if m:
+                yield speech
+                speaker = fix_name(m.group(1))
+                if not interviewer:
+                    interviewer = speaker
+                speech = Speech( speaker=speaker, text=m.group(2) )
+                continue
+
+            # New paragraph if indent at least some spaces
+            m = re.match('    ', line)
+            if m:
+                speech.add_para(line.strip())
+                continue
+
+            # If we've got this far, hopefully just a normal line of speech
+            speech.add_text(line.strip())
 
     yield speech
 
