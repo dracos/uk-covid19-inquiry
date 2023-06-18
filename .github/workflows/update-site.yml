@@ -3,8 +3,8 @@ run-name: Scrapes/parses for new Covid-19 Inquiry data
 
 on:
   workflow_dispatch:
-# schedule:
-#   - cron: '11 9,12,15,18,21 * * 1-5'
+  schedule:
+    - cron: '13 9,12,15,18,21 * * 1-5'
 
 permissions:
   contents: write
