@@ -88,8 +88,8 @@ def convert_four_up_pdf(text):
     for line in text:
         #print('*', line)
         if re.match('\s*$', line): continue
-        if re.match(r'(1) .*? +\1 .*INDEX$', line): state = 'index'
-        elif 'INDEX' in line: break
+        if re.match(r' ?1 +INDEX', line): break
+        elif 'INDEX' in line: state = 'index'
         elif re.match(' *Statement by LEAD COUNSEL TO THE INQUIRY \. 2$', line): break
 
         m = re.match(r' +(\d+)(?: +(\d+))? *$', line)
@@ -111,8 +111,7 @@ def convert_four_up_pdf(text):
             line_l = '       %s' % m.group(2).rstrip()
             line_r = '       %s' % m.group(3) if m.group(3) else ''
             text_l.append('%2d%s' % (line_n, line_l))
-            if state != 'index':
-                text_r.append('%2d%s' % (line_n, line_r))
+            text_r.append('%2d%s' % (line_n, line_r))
             continue
 
         # Just left page at the end

@@ -21,7 +21,7 @@ In relation to Mr Osborne, we said that no core participant group had sought to 
 
 Ms Blackwell.
 
-**Mr Keith**: Good morning, my Lady. I call Sir Mark Walport.
+**Ms Blackwell**: Good morning, my Lady. I call Sir Mark Walport.
 
 Sir Mark Walport
 ----------------
@@ -243,13 +243,13 @@ So what you have -- and so I think actually it's a relatively clean structure wh
 
 **Lady Hallett**: Can we just go back, because I think there was some overspeaking as well.
 
-You said, Sir Mark, it was a relatively clean structure. Ms Blackwell interrupt and you agreed, so far as the science is concerned, and then you were moving on to the series of committees and bodies.
+You said, Sir Mark, it was a relatively clean structure. Ms Blackwell interrupted, and you agreed, "so far as the science is concerned", and then you were moving on to the series of committees and bodies.
 
 **Sir Mark Walport**: Yeah.
 
 **Ms Blackwell**: All right.
 
-Can we start, please, with the JCVI, I think they are on the left-hand side, now highlighted in blue, the Joint Committee on Vaccination and Immunisation . Who do we expect to see on that committee and what is their role?
+Can we start, please, with the JCVI, I think they are on the left-hand side, now highlighted in blue, the Joint Committee on Vaccination and Immunisation. Who do we expect to see on that committee and what is their role?
 
 **Sir Mark Walport**: So the first thing to say is that the Government Chief Scientific Adviser does not attend the JCVI, or indeed the other specific committees within the Department of Health. So I perhaps know a little bit more about them because I do have a medical background, and so I can help in that respect, but not qua being Government Chief Scientific Adviser.
 
@@ -757,7 +757,7 @@ My Lady, is that a convenient time to break?
 
 **Ms Blackwell**: Not at all, my Lady.
 
-Please could we have on screen INQ0001 47769 and go to page 48, please. Could we zoom in on the top part of the page.
+Please could we have on screen INQ000147769 and go to page 48, please. Could we zoom in on the top part of the page.
 
 This is the equivalent page for emerging infectious diseases, and on the right-hand side, using the same axes on the table, we can see that emerging infectious diseases are placed by a star at moderate impact and medium to high likelihood/plausibility, with an arrow showing an upper range and an arrow showing a lower range in the column of medium likelihood/plausibility.
 
@@ -1181,9 +1181,9 @@ So this was -- this was in the context of what I was familiar with, which is the
 
 INQ000145721 is a 10 January 2019 submission to David Lidington MP, who was then, as you will recall, Chancellor of the Duchy of Lancaster, and therefore the senior minister. You were at that stage still the parliamentary secretary, and Minister for Implementation.
 
-This is a memo entitled "Delivery of NSC [that's the National Security Council] (THRC) [Threats, Hazards, Resilience and Contingencies ] programmes".
+This is a memo entitled "Delivery of NSC [that's the National Security Council] (THRC) [Threats, Hazards, Resilience and Contingencies] programmes".
 
-To remind ourselves , the NSC(THRC) committee was the committee which was taken out of committee structure in July 2019 when, as is customary, the incoming government changed the committee structures associated with the Cabinet and its subcommittees.
+To remind ourselves, the NSC(THRC) committee was the committee which was taken out of committee structure in July 2019 when, as is customary, the incoming government changed the committee structures associated with the Cabinet and its subcommittees.
 
 "Delivery of work programmes commissioned by NSC(THRC) on pandemic influenza ... are expected to be affected by the step-up in planning for a no-deal exit from the European Union."
 
@@ -1457,7 +1457,7 @@ In theory, I guess, health would sit within it, but manifestly given the actual 
 
 **Mr Oliver Dowden**: Yes, it was, and that's -- but the role of Cabinet -- the reason I think Cabinet Office had this allocated to it is the fact that dealing with all the other government departments that were not represented at this board would have required the usual role of Cabinet Office to facilitate and liaise with them. There would have been a need for the Cabinet Office to facilitate and lead with the Department of Health, since they were sat round the table when they went through all these other actions.
 
-**Lead Inquiry**: The only official whose name appears on this document, in the first column, is of the senior resilience officer, [redacted], at the Civil Contingencies Secretariat within the Cabinet Office, which was your department?
+**Lead Inquiry**: The only official whose name appears on this document, in the first column, is of the senior resilience officer, [name redacted], at the Civil Contingencies Secretariat within the Cabinet Office, which was your department?
 
 **Mr Oliver Dowden**: Yes, that's correct.
 
@@ -1535,7 +1535,7 @@ The Cabinet Office at no time absolved itself of the obligation to ensure that t
 
 Where is the material which shows that, ministerially, the Cabinet Office was trying to drive this process forward, and saying, "There are gaps here, there have been pauses in the workstreams, we, the civil contingencies department, must try to resolve this"?
 
-**Mr Oliver Dowden**: Well, I think there's -- I sort of make two reflections on this. So, first of all, this is important that we have a lead government department al model, and that each department takes its responsibility -- and by the way, it's not as if this thing sort of sits there. That is a clear action that is allocated to a senior responsible officer, basically a lead civil servant in that department. They then fit in a structure where they will, no doubt, report to a director general or a -- probably a director general Or a director and then in to a permanent secretary. Those -- and then ministers in that department have accountability for that and oversee it and drive it.
+**Mr Oliver Dowden**: Well, I think there's -- I sort of make two reflections on this. So, first of all, this is important that we have a lead government departmental model, and that each department takes its responsibility -- and by the way, it's not as if this thing sort of sits there. That is a clear action that is allocated to a senior responsible officer, basically a lead civil servant in that department. They then fit in a structure where they will, no doubt, report to a director general or a -- probably a director general Or a director and then in to a permanent secretary. Those -- and then ministers in that department have accountability for that and oversee it and drive it.
 
 The separate role of the Cabinet Office is to say, "Right, how do we make sure all the different bits of government work together?" So, for example, if it was the case that the Department of Health came to us, either at ministerial level or through officials, and said, "Look, we've got a problem trying to deliver this strategy, we need to get" -- I don't know -- "Department for Transport", or some other department, "in order to make this happen, we're not getting the movement we require", then they would come to officials in my department, potentially ministers would come to me, and say, "Look, can you unblock this, can you help make this happen?"
 
