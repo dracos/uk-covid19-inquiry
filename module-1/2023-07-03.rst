@@ -1,0 +1,1515 @@
+Transcript of Module 1 Public Hearing on 03 July 2023
+=====================================================
+
+*(2.00 pm)*
+
+**Mr Keith**: Good afternoon, my Lady.
+
+**Lady Hallett**: Good afternoon.
+
+**Mr Keith**: The first witness today is Sir Frank Atherton, currently the Chief Medical Officer for Wales.
+
+Sir Frank Atherton
+------------------
+
+*SIR FRANK ATHERTON (sworn).*
+
+Questions From Lead Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Could you commence, please, by giving your full name.
+
+**Sir Frank Atherton**: Yeah, I'm Dr Sir Frank Atherton, and I'm the Chief Medical Officer for Wales.
+
+**Lead Inquiry**: Sir Frank, thank you very much for your assistance to the Inquiry. As you give evidence, could you please remember to keep your voice up so that we may hear you clearly, and also so that your evidence may be recorded by the stenographer.
+
+You have provided a witness statement dated 20 April 2023; is that correct?
+
+**Sir Frank Atherton**: That's correct, yeah.
+
+**Lead Inquiry**: There we have it on the screen, and it's a statement to which you've appended your signature, thereby agreeing to the statement of truth. There we are.
+
+You are currently the Chief Medical Officer for Wales, but before that were you Deputy Chief Medical Officer for Health in Nova Scotia and before that president of the Association of Directors of Public Health? So you have a long and distinguished career in the field of public health and medicine.
+
+I'd like to start, please, by asking you some questions about the position of the Chief Medical Officer, and the officials who assist you within the government of Wales.
+
+May we please have up the organogram INQ000204014 at page 10.
+
+It's a diagram, Sir Frank, which is difficult to take stock of at first, but you will see your position, Chief Medical Officer, halfway down the left-hand side of the large blue box in the middle: "Population Health Directorate Chief Medical Officer".
+
+Just above that box and to the right, there is:
+
+"Director General, Health and Social Services and the Chief Executive of [the] NHS ..."
+
+Is that the post, the Director General of Health and Social Services Group, to whom or to which you report as Chief Medical Officer?
+
+**Sir Frank Atherton**: Yes, it is.
+
+**Lead Inquiry**: That post, Director General, reports, does he not, to the Permanent Secretary of the Welsh Government?
+
+**Sir Frank Atherton**: That's correct, yes.
+
+**Lead Inquiry**: We're hearing from the Permanent Secretary to the Welsh Government, Dr Goodall, next.
+
+As the Chief Medical Officer, are you essentially the core or the central adviser to the Welsh ministers and the Welsh Government in relation to public health matters, as part of which are you also the medical director to the NHS in Wales?
+
+**Sir Frank Atherton**: Yes. I often think of my role as CMO in three domains, actually, rather than two, but the first one, as you rightly say, is to provide advice to the Welsh ministers and the Welsh Assembly. The second one, I'm the medical director of the NHS, so I work closely with the medical directors on their efforts to deliver high quality health services. The third element, which I take as a public health specialist, is to be an advocate on behalf of the health of the population. So three roles, really.
+
+**Lead Inquiry**: If we look at the box, we can see that the box into which your post falls, as Chief Medical Officer, includes also "Population Health Directorate". Is that a nod to the fact that one of the important aspects of the Chief Medical Officer's role is to be concerned with the health of the Welsh population?
+
+**Sir Frank Atherton**: So in Wales, the CMO role has not been purely advisory, it also has a directorate function, so a policy function, within the Health and Social Service Group which is chaired by the Director General, Health and Social Services.
+
+So the population health directorate delivers on health policy and that's health policy in terms of public health, as you rightly say, but formerly it also included primary care, and of course it includes health protection. So public health, health protection.
+
+It also encompasses the function of research and development within health. So there are a number of functions within the directorate.
+
+**Lead Inquiry**: Is that directorate, population health, what was formerly known as the health policy directorate until 2018?
+
+**Sir Frank Atherton**: Correct.
+
+**Lead Inquiry**: To which there are multiple references in the paperwork?
+
+**Sir Frank Atherton**: Correct, yes.
+
+**Lead Inquiry**: So as part of your function, then, you are concerned, as the director of that part of the Welsh Government, the health policy directorate or the population health directorate, concerned with primary care, healthcare quality, major health conditions, public health, and research and development in that field?
+
+**Sir Frank Atherton**: Indeed.
+
+**Lead Inquiry**: All right.
+
+To what extent are you responsible also for health emergency planning?
+
+**Sir Frank Atherton**: So within the directorate, there is a Health Emergency Preparedness Unit, and I am the lead director for the Health and Social Service Group in terms of emergency preparedness, so I report, I -- the Health Emergency Preparedness Unit reports to me and I report to the Director General.
+
+**Lead Inquiry**: So just pausing for a moment then on that, within your directorate or, rather, within the directorate of population health, of which you are the director, there is a unit called Health Emergency Preparedness Unit, HEPU?
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: We will see a lot of that later. And through you, that unit reports up to the Director General of Health and Social Services?
+
+**Sir Frank Atherton**: Indeed, yes.
+
+**Lead Inquiry**: All right. Which is the box above you in the chart.
+
+Are you or to what extent does the role of being the Chief Medical Officer in Wales differ from being a civil servant?
+
+**Sir Frank Atherton**: Well, I am a civil servant, so I subscribe and follow the Civil Service code. I'm also a doctor, so I have a medical code that I follow. But the role of the CMO is slightly different from that of any other civil servant in that we have, by custom and practice, a degree of independence, and so I am expected to independently give advice to ministers. That's not enshrined, I don't think, in law anywhere, but it's a custom and practice that -- and an expectation that I will give my advice freely and impartially.
+
+**Lead Inquiry**: So, by virtue of being the CMO, although nominally a civil servant, you are in fact in practice afforded a high degree of independence when you come to report to the Welsh Government and a high degree of separation from their day-to-day concerns?
+
+**Sir Frank Atherton**: Exactly so.
+
+**Lead Inquiry**: All right. And in your experience, have ministers in the Welsh Government generally been receptive to the advice which you have provided from time to time?
+
+**Sir Frank Atherton**: I would say they've always been receptive, they haven't always followed it diligently or entirely, but they've always listened very carefully to what I've had to say.
+
+**Lead Inquiry**: Is there a Chief Medical Officer Directorate or unit around you? We've heard evidence that, for example, in England there is an Office of the Chief Medical Officer which has a number of staff, and in Scotland within the director generalate(sic) in which the CMO sits in Scotland there are also a number of staff particularly concerned with being -- well, they're particularly concerned with the functions of the Chief Medical Officer.
+
+Do you have such a body around you?
+
+**Sir Frank Atherton**: Well, I do now. Going into the pandemic and before the pandemic, I would say I had, you know, some support around me, but it was really quite -- quite a small resource. That really is quite different now. So really it was an administrative support that was wrapped around me in the first instance. I now have an Office of the Chief Medical Officer which provides me with quite considerable support in the work I do.
+
+**Lead Inquiry**: Now we're going to look at the specialist groups or entities that sit within the Welsh Government.
+
+Could we have INQ000180757 up, please, at page 1. I don't know whether it's possible to do this, but perhaps have it alongside the organogram INQ000214014 at page 10.
+
+I should say that I haven't alerted our colleague who does this to that. If it's not possible, it's not possible.
+
+There we have a planning group structure as at September 2018 which sets out the main bodies in the Health and Social Services Group.
+
+The Health and Social Services Group, in the top line of this document, is that the group in the blue box that we were looking at a few moments ago within the Welsh Government?
+
+**Sir Frank Atherton**: I don't believe so.
+
+**Lead Inquiry**: It was just to the left, in fact, and above the directorate of --
+
+**Sir Frank Atherton**: The Emergency Planning Advisory Group, as I understand it, it's a group chaired by the Welsh Government health emergency planning adviser, as it says, but that brings together the emergency planning leads from across all the NHS bodies in Wales. So it's --
+
+**Lead Inquiry**: All right.
+
+**Sir Frank Atherton**: -- not within the health and social care structure, it's -- it sits between health and social care and the NHS.
+
+**Lead Inquiry**: Yes, indeed. In fact, my question wasn't about the Emergency Planning Advisory Group, it was about the wording at the top:
+
+"Welsh Government Health & Social Services Group ..."
+
+That is the body that we were looking at a few moments ago on the --
+
+**Sir Frank Atherton**: It is indeed, yes.
+
+**Lead Inquiry**: Right -- on the other chart.
+
+So this is the Emergency Planning Advisory Group, which is an independent group which nominally sits within the Welsh Government, but it includes a number of different groups. Will you take it from me that the Major Incident Response Partnership, on the left, and then the Wales Mass Casualty Group, the Wales T&E Group and the Pan Flu Preparedness Group are all bodies which are on our main organogram, along with the Health Countermeasures Group, although that's in another part of the chart.
+
+**Lady Hallett**: Where does HEPU fit in?
+
+**Sir Frank Atherton**: The HEPU, Health Emergency Planning Unit, co-ordinates the activities of the EPAG, the -- as I said, the EPAG sits between the Welsh Government and the local health boards, and the -- HEPU is the co-ordinating body of that.
+
+**Mr Keith**: If I may assist, HEPU is formally within the Health and Social Services Group, which is itself part of the Welsh Government, whereas this structure is a semi-independent structure that reports in to the Welsh Government.
+
+One of the reasons, my Lady, for producing this document is that it is a remarkably complex labyrinthine system.
+
+We will come back to HEPU in more detail later, but essentially was HEPU -- is HEPU the body with primary oversight over pandemic preparedness for the purposes of the health bodies in Wales?
+
+**Sir Frank Atherton**: It certainly co-ordinates the health components of preparedness, yes.
+
+**Lead Inquiry**: All right. What relationship did you have or do you have as CMO with HEPU?
+
+**Sir Frank Atherton**: Really my relationship is with the health emergency planning adviser, so David Goulding reports to me and he's the -- he leads the HEPU.
+
+**Lead Inquiry**: All right. So HEPU is within the Welsh Government, it's part of the Health and Social Services Group, that directorate which we looked at earlier, but its lead planner, David Goulding, reports to you as the CMO because one of your hats is a Welsh Government hat, as Chief Medical Officer to the Welsh Government?
+
+**Sir Frank Atherton**: Yes. Yes.
+
+**Lead Inquiry**: All right.
+
+Could we have INQ000204014, the organogram, at page 10, please.
+
+So that we can get our bearings, if you go to the large blue box in the middle and the left-hand side, you will see "Health and Social Services and the Chief Executive of NHS Wales", I think at one stage Dr Goodall, but above that it says "Health and Social Services Group". That is the group that we saw on the other chart, and you can see on the far right-hand side of the page, the names: Wales Mass Casualty Group, Training And Exercise Group and Pre-Hospital Major Incident Response Partnership Group. They're three of the bodies that we saw in the other chart.
+
+If you look on the very far left-hand side, you will see the Welsh Government Countermeasures Policy Group, that was one of the other bodies we saw on the chart, and then finally HEPU is on this chart under the blue box on the left-hand side:
+
+"Health Emergency [Preparedness] Unit."
+
+But the line goes generally to the blue box, but it actually should go directly through the Chief Medical Officer, through you, to the Health and Social Services Group at the top of the box. Is that all correct?
+
+**Sir Frank Atherton**: I can't disagree with anything you say.
+
+**Lead Inquiry**: All right. Well, I'm very pleased to hear that, Sir Frank, because I simply couldn't do that again.
+
+There is on this chart, you will see, on the top right-hand corner of the right-hand large blue box in the middle, Chief Scientific Adviser. What relationship do you have within the Welsh Government with the Chief Scientific Adviser?
+
+**Sir Frank Atherton**: So the Chief Scientific Adviser sits alongside me. He -- he provides science advice into the health and social care system. I was involved in supporting the recruitment of that post. I think that post originally reported through me to the Director General, but now reports directly to the Director General.
+
+Oh, I do beg your pardon, that's -- I'm talking about the Chief Science Officer for Health, this is the Chief Scientific Adviser for the Welsh Government?
+
+**Lead Inquiry**: Yes.
+
+**Sir Frank Atherton**: I do beg your pardon. So that's a completely separate post, which is employed by the Welsh Government and would be on a similar level to the CMO, expected to provide scientific advice to the Welsh Government, impartial scientific advice.
+
+**Lead Inquiry**: You're quite right, and underneath "Chief Scientific Adviser" you can see, within the box, "NHS Wales", "Chief Scientific Officer".
+
+**Sir Frank Atherton**: Yeah.
+
+**Lead Inquiry**: Is that a post which is concerned, self-evidently, with health, because it's an NHS Wales post, and the scientific angle of health?
+
+**Sir Frank Atherton**: That's exactly the post I was just --
+
+**Lead Inquiry**: Describing?
+
+**Sir Frank Atherton**: -- describing, exactly so.
+
+**Lead Inquiry**: Thirdly, if you go to the left and down a bit, we can see "Chief Scientific Adviser, Health". Is that a different post altogether or have we mistakenly duplicated the Chief Scientific Officer within NHS Wales?
+
+**Sir Frank Atherton**: Yeah, I believe you've mistakenly -- or it has been mistakenly duplicated, I believe.
+
+**Lead Inquiry**: That's very good, because we can then cross that through and simplify, marginally, the chart. All right.
+
+There are a number of other bodies with which the CMO works which I'd just like you identify, please.
+
+On the top left-hand corner of the organogram, is there the "UK Chief Medical Officers Group"? Are you one of the UK Chief Medical Officers?
+
+**Sir Frank Atherton**: I am.
+
+**Lead Inquiry**: Therefore, do you have regular meetings with and a fairly close working relationship with the other Chief Medical Officers in the United Kingdom through that group?
+
+**Sir Frank Atherton**: Yes, we do. Prior to the pandemic -- of course I've worked with two UK Chief Medical Officers, Dame Sally and, more recently, Professor Chris Whitty, and with both those individuals we've -- as Chief Medical Officers across the four nations, we've always met on a quarterly basis in -- usually in person, and then more frequently on an informal basis as needed.
+
+**Lead Inquiry**: To the right of the UK Chief Medical Officers group we have NERVTAG, about which we've heard a great deal. Is that a body which liaises with the CMO in Wales as with the other CMOs across the United Kingdom, in relation to specifically the threats from respiratory viruses?
+
+**Sir Frank Atherton**: Well, it is as you say. I don't believe that Wales has a role or a person on NERVTAG, but it is supposed to be a UK advisory body, yeah.
+
+**Lead Inquiry**: All right.
+
+In the witness statement of Mr Vaughan Gething -- and he, of course, is a senior Welsh minister, and he was at one stage, I think, I believe, Minister for Health and Social Services -- he says the relationship with the other Chief Medical Officers insofar as Wales was concerned was complicated by the fact that the CMO in England is not just a UK CMO but he or she advises the United Kingdom Government particularly in relation to areas in which there are UK-wide ramifications.
+
+So to some extent he or she may wear two hats: English CMO and UK adviser.
+
+Have you encountered at any stage any difficulties in the relationship with the English CMO by virtue of that complicating feature of the need to discharge UK responsibilities?
+
+**Sir Frank Atherton**: Personally I haven't, no. The two CMOs I've worked with have always been very astute to the fact -- alert to the fact that there are devolved competencies and non-devolved competencies. I suppose a good example would be in international development work, where it's quite clear that, because it's a non-devolved function, the UK Chief Medical Officer sits on the WHO board and has primacy in the international development agenda, but that doesn't preclude the other CMOs from having international relations with other countries, for example. So it's never been a particular problem for me. It's one that we clearly understand the respective roles, yeah.
+
+**Lead Inquiry**: So maybe an issue more of form than substance?
+
+**Sir Frank Atherton**: I would think.
+
+**Lead Inquiry**: All right.
+
+**Sir Frank Atherton**: Yeah.
+
+**Lead Inquiry**: SAGE is another important body to which much evidence has been devoted. We can see it towards the top of the page, the Scientific Advisory Group for Emergencies.
+
+Over time, and bearing in mind that you have been the CMO since August 2016, have you much involvement with SAGE yourself?
+
+**Sir Frank Atherton**: I haven't had engagement with SAGE. When SAGE has been active, and it becomes active during emergencies of course, the CSA Health, Chief Scientific Adviser for Health, has been our representative on SAGE.
+
+**Lead Inquiry**: All right. We'll come back to this issue a little later, for reasons that will become plain.
+
+Did it become apparent when the pandemic struck that because the SAGE arrangement is a UK arrangement, there was a need within the Welsh Government for tailored scientific advice to be given to Welsh ministers, and therefore the Welsh Government set up a different body -- I don't believe we've got it on the screen -- called the Technical Advisory Group, TAG, along with an advisory committee called TAC, Technical Advisory Committee(sic). Were you instrumental in the setting up of those two bodies? Was that something with which you were concerned?
+
+**Sir Frank Atherton**: So, yes, it was. I discussed that with our Chief Scientific Adviser for Health, and the reason for setting up TAC, which I think is a Technical Advisory Cell rather than committee, and TAG, which is the broader network of advisers, the reason for setting those up was that we felt that, although it was very useful to have a position on SAGE, we needed to have a scientific forum where we could ask our own questions and where we could get detailed -- at that time, modelling of course was quite important to us and we needed more specific detailed modelling with regard to Wales. So for those two reasons we set up the TAC and the TAG.
+
+**Lead Inquiry**: All right. Those, therefore, are two bodies that we should really have or should be deemed to be on this chart, going forward? This --
+
+**Sir Frank Atherton**: Indeed.
+
+**Lead Inquiry**: -- attempts to represent the position at 2019?
+
+**Sir Frank Atherton**: It didn't exist in --
+
+**Lead Inquiry**: Didn't exist then but, going forward, they are important committees -- or at least one is a cell, one is a group, because they provide for a Welsh perspective on matters that may otherwise be dealt with by SAGE?
+
+**Sir Frank Atherton**: Well, in fact, going forwards, they will continue, they are continuing, but they've been renamed as Science and Evidence Group -- Science Evidence Advisory Group --
+
+**Lead Inquiry**: I was about to come to that.
+
+The third body to which it should make reference is STAC. Is that a further body which represents perhaps a tweak, if you like, on TAC and TAG?
+
+**Sir Frank Atherton**: I'm sorry to get lost in the acronyms, but I don't recognise STAC, I recognise SEA, Scientific Evidence and Advisory group. So we might need to provide further clarity on that.
+
+**Lead Inquiry**: Thank you.
+
+My Lady has heard a great deal of evidence about the risk assessment process, by which risks are identified, owned, managed, and addressed and planned for in Westminster, of course in relation to the United Kingdom, and in Edinburgh in relation to Scotland.
+
+As the CMO, did you have a hand in the drawing up of Welsh-centric risk assessment plans or commenting at any rate on the United Kingdom risk assessment process?
+
+**Sir Frank Atherton**: So within the Health and Social Service Group there was a risk register that we contributed to, and the -- HEPU would have provided the input into the overall HSSG risk register. Then the HSSG risk register would be -- would form a part or would merge into the overall Welsh Government risk register.
+
+As regards the UK risk register, I don't recall ever having any personal input into the National Risk Register, if that's your question.
+
+**Lead Inquiry**: Can we just break that down a bit, please? So in Scotland, there is a Scottish Risk Assessment, which is a separate document. It's a variant, perhaps, of the United Kingdom risk assessment policy or document. There is no analogous document for Wales, is there? There is no Welsh risk assessment. But what there is is a governmental risk register, to which we'll look in a moment, and also a risk assessment within the Health and Social Services Group, the HSSG body; is that correct?
+
+**Sir Frank Atherton**: Well, it is correct that the risk assessments are exactly as you describe, whether there is an overall risk -- what was the other term you used? Risk ...
+
+**Lady Hallett**: Register.
+
+**Sir Frank Atherton**: The analogous one to the Scottish one.
+
+**Mr Keith**: Scottish Risk Assessment.
+
+**Sir Frank Atherton**: I couldn't tell you. You'd probably be better asking that of our civil contingencies colleagues perhaps later.
+
+**Lead Inquiry**: All right. Could we have INQ000215556, please, the corporate risk register. I believe this is the governmental corporate risk register, so not the Welsh risk assessment, but the government's own corporate risk register, which in this form, January 2016, was about six months before you were appointed as the CMO. We can see in the second column "Resilience (Major Emergencies):
+
+"If we fail to provide effective leadership and co-ordination in ensuring that Wales is prepared for and resilient to the full range of national hazards and threats which it faces then there is a risk to the health and well-being of its citizens."
+
+There are then a number of mitigating actions in the large column in the middle, "Controls in place", referring to governance structures, co-ordination role of the Welsh Government under the Pan Wales Response Plan, physical infrastructure, corporate Welsh Government response, multi-agency training programmes and so on, and, importantly, what lessons may be learned from incidents and development of internal planning.
+
+As the CMO, were you aware of this report corporate risk register for the Welsh Government? Was this something which, when you were appointed, you were made aware of or to which you contributed in later variants?
+
+**Sir Frank Atherton**: It's certainly something I would have been aware of. I would probably have had more input to the Health and Social Service risk register, which obviously fed into this, so --
+
+**Lead Inquiry**: Yes.
+
+**Sir Frank Atherton**: -- that would be my main route of input, I would say.
+
+**Lead Inquiry**: On its face, Sir Frank, there appears to be very little detail concerning the risk of pandemic influenza or of mitigating actions specifically directed towards the risk of pandemic influenza.
+
+Can you recall, going back to 2016, the extent to which that was a risk which was specifically thought about and addressed in the policy guidance and the registers with which you were familiar?
+
+**Sir Frank Atherton**: Well, I can't recall, obviously I wasn't here in January 2016, but in subsequent iterations, certainly within the Health and Social Service risk register, I would expect there to be more detail, and as, of course, you go up through the Welsh Government then the detail perhaps gets lost. But certainly within the Health and Social Services Group, pandemic influenza was recognised as a material risk.
+
+**Lead Inquiry**: Would you give me one moment, please, Sir Frank?
+
+*(Pause)*
+
+**Lead Inquiry**: My Lady, that health and social services risk register is a specific document that we've sought but we've yet to be provided with it.
+
+The statement from Mr Vaughan Gething to which I referred earlier also says that, in a general sense, over the last five years, and particularly until he personally was briefed in Exercise Cygnus, there had been a lack of focus or interest upon preparedness in the Welsh Government. He says:
+
+".... preparedness was not a particular focus of interest or concern in the government ... and I do not remember any significant questioning on the topic either in the government, the Senedd, the media or elsewhere."
+
+Was it your experience that there was an insufficient focus or attention paid to preparedness as a single issue?
+
+**Sir Frank Atherton**: No, I would have -- the way I would articulate that would be that, certainly at official level, there was quite a lot of work going on around preparedness. As ever, you know, you can say, "Well, could more have been done?" And that may be a valid question. But there was, certainly at official level, quite significant work going on around preparedness, but it wasn't escalated to ministers, perhaps suggests that -- you know, things get elevated to ministers when there's a decision to be made or when there's a problem or an intergovernmental problem. So it may not have come to the ministers' attention for that reason, but certainly at official level there was activity going on, through the HEPU, through the Emergency Planning Advisory Group, through the local resilience fora, all of those structures were working on emergency preparedness.
+
+**Lead Inquiry**: You have made reference to the United Kingdom pandemic influenza preparedness strategy of 2011. Was that the strategy which formed the genesis for the Welsh Government's own strategies or frameworks for managing major infectious disease emergencies and also health and social care influenza pandemic preparedness?
+
+**Sir Frank Atherton**: Well, partly. There are two different kind of things you mentioned there. First of all, the major -- the major infection framework.
+
+**Lead Inquiry**: Infectious diseases emergency framework?
+
+**Sir Frank Atherton**: Yes. It's quite the mouthful, isn't it?
+
+**Lead Inquiry**: Yes, indeed.
+
+**Sir Frank Atherton**: That really sprang from the fact that we had -- we have in Wales had, for a long time, an outbreak control plan, which is the thing that we use as the kind of bread and butter to manage any outbreak of infectious disease at local level.
+
+Going beyond that, when you get bigger outbreaks, which affect more than one region or which are not manageable through the outbreak control plan, the control framework that you just described is an attempt to describe how the system would respond to those kinds of emergencies.
+
+The 2011 pandemic flu plan was a UK-wide document, which we agreed to in Wales, it informed our planning as well in Wales, but I would say that sits alongside rather than hierarchically around the framework.
+
+**Lead Inquiry**: The same strategic approach, however, was adopted in the major infectious disease emergencies framework, and in the influenza pandemic preparedness and response guidance, as formed the basis for the 2011 UK document; correct?
+
+**Sir Frank Atherton**: I think the responses would have been consistent, yes.
+
+**Lead Inquiry**: Yes. So the first one, the first document to which I've made reference, let's have that up, it's INQ000183456, the Wales Framework for Managing Major Infectious Disease Emergencies.
+
+It's dated October 2014. If we could just scroll forward through, thank you, to the contents page, we can see that it deals with a major infectious disease emergency, it provides for a number of planning assumptions, the management of initial cases, isolation and treatment facilities, treatment in the community, data collection, and countermeasures.
+
+To the extent that it did address the possible outcomes of a major infectious disease emergency, or of a pandemic influenza, was the approach of this framework the assumption that the greatest risk was a pandemic influenza, the risk of a new and -- of a high-consequence infectious disease was less, and the most likely catastrophic consequences would ensue from a pandemic influenza, so the broad approach from the 2011 strategy?
+
+**Sir Frank Atherton**: Well, I don't think the framework was predicated on pandemic influenza, because we already had the 2011 pandemic flu plan. The framework that we're looking at was really designed to cover a range of infectious diseases which would not be manageable through the normal application of the outbreak control plan. So I don't think they're quite the same thing. I mean, certainly flu would fall within the scope of this framework, I would agree with that, and certainly pandemic flu -- you know, in terms of pandemics, flu was seen as the most likely infectious agent to cause a pandemic.
+
+**Lead Inquiry**: Indeed, and if you look at countermeasures, 14, on page 15 -- I'm not suggesting we go to it -- but you can see in the index:
+
+"Infection Control and PPE
+
+"Vaccination
+
+"Antibiotics/Antivirals"
+
+The presumption, the working presumption was, wasn't it, that the countermeasures would be those usually associated with dealing with an influenza outbreak, namely the existence of antivirals, Tamiflu, vaccination, because there is a flu vaccine, of course, and the infectious control and PPE would be hand washing and sensible personal hygiene methods, as well as the PPE required for the treatment of flu. That was how the document approached it; would you agree?
+
+**Sir Frank Atherton**: Well, I would say it's true but you could equally apply those to cholera or measles or a wide range of other infectious diseases. I don't think it was specific to flu, the framework we're looking at.
+
+**Lead Inquiry**: There was no debate, was there, Sir Frank, or any discussion of the sort of countermeasures that might be suitable for dealing with a high-consequence infectious disease with catastrophic consequences that was not pandemic influenza, for example, mass diagnostic testing, mass contact tracing, how to deal with an HCID that had no antiviral and no vaccine?
+
+**Sir Frank Atherton**: No, you're correct, and those countermeasures were not considered within this framework or indeed within the 2011 plan, yeah.
+
+**Lead Inquiry**: Precisely. Could we have --
+
+**Sir Frank Atherton**: I say they were not -- may I, my Lady?
+
+**Mr Keith**: Of course.
+
+**Lady Hallett**: Of course.
+
+**Sir Frank Atherton**: I say they were not dealt with. I mean, they had been considered, of course, but discounted for various reasons, and, with the benefit of hindsight, discounted without sufficient consideration.
+
+**Mr Keith**: Thank you.
+
+INQ000116503 is the response guidance of 2014. It itself avowedly refers, of course, to "Influenza Pandemic Preparedness". If we look at page 3, please, we can see "Pandemic Countermeasures" in box 4:
+
+"Antivirals
+
+"National Pandemic Flu Service
+
+"Antibiotics
+
+"Facemasks and respirators
+
+"Consumables
+
+"Vaccination
+
+"Specialist respiratory support ..."
+
+So, self-evidently and sensibly, given that this is an influenza pandemic document, those are the sorts of countermeasures that are associated with an influenza pandemic.
+
+A third important document to which you've already made reference is the pan-Wales response plan of 2019. What was that?
+
+**Sir Frank Atherton**: Well, the pan-Wales response plan is an overarching -- as I understand it, it's an overarching plan for dealing with any civil emergency in Wales, and it's the part of the civil contingencies approach of working with partners across Wales to respond to anything, whether it be an infectious disease, flooding, fires, any threat to the public's health, the public.
+
+**Lead Inquiry**: All right. That was a document which, as you say, deals generally with civil contingencies, it's concerned with emergency response and recovery; is that correct?
+
+**Sir Frank Atherton**: Mm.
+
+**Lead Inquiry**: So if we may put that to one side on the basis it wasn't concerned with pandemic influenza or high-consequence infectious disease, the two main guidance documents remain those two documents to which you've referred us, the Wales framework of October 2014 and the guidance document of February 2014.
+
+Do you know whether either of those two documents was updated after 2014, or the subject of consideration for the purposes of being updated or rewritten?
+
+**Sir Frank Atherton**: I don't recall them being updated. I think when we updated the outbreak control plan, there was a question raised by Public Health Wales as to whether -- what the status of the framework for infectious disease major emergencies would be, and at that time it was not updated, but ... so I don't believe that there has been a process to update them.
+
+**Lead Inquiry**: Now, in the history of United Kingdom emergency preparedness, the swine flu of 2009 was crucial, wasn't it, because of course, as a result of that swine flu outbreak, there were a number of reports, outcome documents as they're called, both in Westminster but also in the devolved administrations?
+
+There was one in Wales, a report produced after the event by Mr Goulding, who was, I think, the head or maybe now is the head of HEPU, to which you've referred.
+
+Could we have that, please, INQ000089599, page 4, paragraph 5.2.
+
+So as part of the morning session, a presentation was made by Dr John Watkins on the risks and effects of pandemic influenza:
+
+"Current threats were described as --
+
+"Genetic reassortment ..."
+
+And then over the page, please.
+
+"Novel virus
+
+"... natural reservoir[s] ...
+
+"Return of old enemies ...
+
+"Planning assumptions to consider:-
+
+"Virus will arise somewhere else
+
+"Novel virus with little background immunity
+
+"Traditional groups for seasonal vaccine [not applying]."
+
+Issues about:
+
+"Virulence and transmissibility ...
+
+"Vaccine not [being] immediately available"
+
+And:
+
+"Antivirals [having] some role but not major impact
+
+"Role of - Masks, social distancing, school closure, banning mass gatherings etc -- little evidence of effectiveness"
+
+So this document in October 2013, after the swine flu pandemic, shows that at this presentation or workshop there was some debate revolving around the inherent unpredictability of a respiratory virus, of the possibility that there would be an outbreak for which there would be no vaccine immediately available, for which antivirals would have no major impact, and in which there would have to be consideration of some of the additional countermeasures not normally associated with pandemic influenza: social distancing, school closure, banning mass gatherings.
+
+I wanted to ask you, Sir Frank, to what extent when you took office in -- or you took your post in 2016, do you recall there being any general debate about these topics in the Welsh Government?
+
+**Sir Frank Atherton**: No, I don't recall there being any. I think this document is a summary from a workshop that was held, the health emergency planning advisory group that we talked about earlier, which is the NHS bodies coming together with Welsh Government, Health and social care, has an annual conference, and I think in 2013 their annual conference was focused on pandemic flu, and I think this is probably a record from that, from that meeting.
+
+But -- and this clearly, the lines you're showing here clearly are part of a presentation given at that thing.
+
+I suppose, you know, what to me it says is that that was the understanding at the time, that, you know, different viruses could emerge and could cause a pandemic. I think it was clear -- that was clear in the 2011 -- the assumptions of the 2011 pandemic flu. Although it was largely based on pandemic flu, it was stated I think in the 2011 strategy that other viruses could cause -- other respiratory pathogens could cause pandemics as well.
+
+But the understanding at the time was that those final assumptions, you know, the mass social distancing, there was a predisposition against those, which I think is being reflected in this document.
+
+**Lead Inquiry**: So to draw the threads together, the two frameworks, the Wales Framework for Managing Major Infectious Disease and the Wales Health and Social care Influenza Pandemic Preparedness and Response Guidance, both of 2014 were never updated, they were based upon or at least consistent with the UK 2011 strategy?
+
+**Sir Frank Atherton**: Mm.
+
+**Lead Inquiry**: Whilst there was some debate at some levels of the Welsh Government about these planning assumptions and the possibility that they might require being challenged, that they might not necessarily hold true, neither the guidance nor the challenge to those planning assumptions were ever taken forward in a significant sense prior to the pandemic hitting Wales; that's the position, is it not?
+
+**Sir Frank Atherton**: Well, as I read what's in front of me, it's not a challenge to the -- it's stating that the role had very little -- the role of these countermeasures had very little evidence.
+
+You know, with the benefit of hindsight I think we could and should have paid more attention to the "what if" questions. You know, what if the virus was so different that we needed to go down some of these. But at the time I think it's fair to say that those measures had been considered and somewhat prematurely dismissed.
+
+**Lead Inquiry**: There was, as it turned out, a distinct and important role for face masks, for mass diagnostic testing, for mass contact tracing and, as we all discovered to our cost, mandatory quarantines. So it wasn't just a question of these measures having no efficacy, the thinking was never developed, there were no papers or policies drawn up to examine any of them in detail, and it was just assumed that there was nothing here to be seen or to be further thought about?
+
+**Sir Frank Atherton**: That was --
+
+**Lead Inquiry**: The thinking went into the ground?
+
+**Sir Frank Atherton**: I accept your point, that was the assumption in the 2011 strategy and it was the assumption in the Hine report before that, so yes, that is true.
+
+**Lead Inquiry**: And the overarching guidance documents for pandemic influenza and HCIDs were never updated alongside this?
+
+**Sir Frank Atherton**: Yeah, exactly, and they were based on the 2011 flu --
+
+**Lead Inquiry**: And they themselves were based on --
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: -- the thinking from 2011?
+
+**Sir Frank Atherton**: I'd agree with that.
+
+**Lead Inquiry**: All right.
+
+Exercises and institutional learning. Before your tenure as Chief Medical Officer of Wales commenced in August 2016, an exercise had taken place in Wales, had it not, in October 2014, namely the Welsh part of Exercise Cygnus. Was it the Welsh part because Exercise Cygnus for the United Kingdom was planned for 2014 but, for a variety of reasons, never took place other than in Wales?
+
+**Sir Frank Atherton**: That's my understanding, that it was planned as a UK-wide exercise, but I think Ebola got in the way in terms of UK participation, but there was a decision taken, as you say before my time, to run it in Wales just to test the local arrangements.
+
+**Lead Inquiry**: Could we have, please, INQ000107136.
+
+These are the recommendations from the Welsh part of Exercise Cygnus, the part that took place in 2014. WRPT, the acronym at the top right of the page, is, I think, in reference to the Wales resilience ...
+
+**Sir Frank Atherton**: Partnership team.
+
+**Lead Inquiry**: Thank you, Sir Frank, I knew you'd get there ahead of me.
+
+"Exercise Cygnus -- Recommendations
+
+"Background
+
+"As a result of the ongoing high risk of an influenza pandemic, it was agreed that a Tier 1 UK exercise should be held in October 2014 -- Exercise Cygnus -- to assess preparedness at both a national and local level."
+
+But, as you say, the UK exercise never took place.
+
+"There were initially 11 Local Resilience Forums ... scheduled to participate at the local level in England whilst Wales, all 4 [local resilience forums] agreed to take place.
+
+If we could just scroll back out we could see the strategic objectives there set out, and further down the page the reference to the postponement of the UK Exercise Cygnus.
+
+Then over the page, page 2, issues raised:
+
+"The following are the issues and recommendations to emerge from the Strategic Co-ordinating Groups and the Wales Civil Contingencies Committee."
+
+Pausing there, as you understood it, was the position this: that because it was only the Welsh part of Exercise Cygnus that took place in 2014, the exercise focused on the local level, the local resilience forum, the strategic co-ordinating group level, rather than being a test of the entirety of Welsh civil contingency structures?
+
+**Sir Frank Atherton**: Well, it's my understanding, but it was two years before I took up post, so I can't really comment a huge amount on that.
+
+**Lead Inquiry**: No.
+
+Sir Frank, you're plainly aware of that from the face of the document, because it is only concerned with local resilience forums and --
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: -- strategic co-ordinating groups, and presumably once you became Chief Medical Officer you were briefed about Exercise Cygnus in 2014 and the extent to which the recommendations to which we're about to return were being implemented, were you not?
+
+**Sir Frank Atherton**: I don't remember a specific briefing about it, but I would have been aware of it as we went into 2016, a Cygnus exercise, yes.
+
+**Lead Inquiry**: Because that was the delayed United Kingdom exercise to which the Welsh Government was a participant?
+
+**Sir Frank Atherton**: Yeah.
+
+**Lead Inquiry**: You were no doubt informed, and you probably asked, to what extent had the recommendations from the first part of Cygnus been put in place by now?
+
+**Sir Frank Atherton**: Yeah. I can't remember the discussion about that, but yes.
+
+**Lead Inquiry**: On this page we can see the issues being raised: excess deaths, just the practical problems associated with dealing with large numbers of fatalities; communication; regulation, the reduction -- and there is an example, the need for two signatures on a death certificate; resources, a reference to a national stockpile of resources; school closures; demands for data collection; and concern being expressed by one strategic co-ordinating group about the national pandemic flu service.
+
+Then, over the page, if you could scroll back out, please, "Vulnerable People".
+
+So those were the list of concerns raised. Then scrolling back out, please, again, the recommendations that are made towards the bottom of that page, you can see recommendations 1 through to 9, concerning: antiviral collection points; the legal position of staff movement in health board needs; a reference to the need for decisions at a national level to be made by the Welsh Government in respect of the NHS rather than at local level; criteria -- I'm so sorry, when it moves it's quite difficult to follow it -- for declaring a flu pandemic; 5, Welsh Government Department for Education and Skills to update guidelines; 6, LRF co-ordinators group; 7, working arrangements for the Wales Pandemic Flu Group and Wales Warning and Informing Group; 8 and 9, Welsh Government Social Services and Wales Mass Fatalities Group.
+
+To what extent do you recall, Sir Frank, those recommendations being implemented by the Welsh Government by the time that you took office in 2016?
+
+**Sir Frank Atherton**: Well, there's quite a complex range of them. We'd have to go down perhaps individually. But I ... the way in which, from exercises, the various exercises that we had, and this was one of several, of course, before my time and during my time, the way in which those recommendations were being managed was that there was a database, a spreadsheet, which was maintained by the HEPU and that did log the recommendations and regularly track the progress against them. So somewhere in the system there will be a document which says at that point in time, in 2016, when I took up post, to what extent they were met and then subsequently they would have been updated.
+
+**Lead Inquiry**: Can you recall in a general sense whether all the recommendations from the first part of Cygnus were implemented?
+
+**Sir Frank Atherton**: I can't.
+
+**Lead Inquiry**: All right. The recommendations did not cover or consider some of the areas which have turned out to be vital to the response, of course, to the Covid pandemic. For example, surge capacity or any need to stockpile or provide for PPE in the sorts of quantities which proved to be necessary, or any of those other areas of countermeasures to which you were referred.
+
+Was that because the first part of Exercise Cygnus was only concerned with relatively quite a low level in the civil contingencies order down that tree of civil contingencies?
+
+**Sir Frank Atherton**: I think it's partly that.
+
+**Lead Inquiry**: Right.
+
+**Sir Frank Atherton**: And partly that it's back to the point that it was predicated on what had happened in 2009 and the pandemic that we'd been through, so there's a lot of consideration in there about the distribution system for antivirals. In 2009 we had to set that up from zero, as indeed subsequently we had to set up a lot of structures for Covid from zero. But that -- those are the two reasons I think why it is what it is, why the recommendations are what they are.
+
+**Lead Inquiry**: Right, that's very clear.
+
+Then moving forward to the main United Kingdom Exercise Cygnus in 2016, it was in October, so you would have been in post, you were appointed in August. Was the Welsh Government a full participant in the exercise, do you recall?
+
+**Sir Frank Atherton**: Well, it was a participant, and ministers were involved, officials were involved, and so, yes, we were a participant in that.
+
+**Lead Inquiry**: In terms of which parts of the Welsh civil contingencies structure came under examination, and were called upon to take part in the exercise, was the Welsh participation more limited than the Scottish participation because it had had its own, albeit quite local, Exercise Cygnus in 2014 already?
+
+**Sir Frank Atherton**: That may well be the case. I don't recall the details, but I don't recall that we tested the LRF structures in the -- quite the same way, and probably because we had done that in 2014.
+
+**Lead Inquiry**: Or the strategic co-ordinating groups, one presumes, because they had also been the subject of examination in 2014?
+
+**Sir Frank Atherton**: I can't recall them being tested.
+
+**Lead Inquiry**: All right.
+
+Can you recall the extent to which those two documents, the Wales Framework for Managing Infectious Disease Emergencies or the Wales Health and Social Care Influenza Pandemic Preparedness and Response Guidance, were tested in the course of the 2016 Exercise Cygnus?
+
+**Sir Frank Atherton**: I think they would have been background documents, but really my role in Cygnus was at the officials level, meeting with the CMOs, and supporting the ministers. So that was the kind of level I was working at. There may well have been further consideration, you know, further into the system. There were officials' groups meeting in Wales, as I recall, and they would have certainly had access to all of those documents.
+
+**Lead Inquiry**: After Exercise Cygnus, my Lady's heard evidence that the NSC(THRC), a ministerial committee in London, in 2017 ordered the setting up of a Pandemic Flu Readiness Board in London, and also one followed in Scotland. Are you aware of the extent to which or how the Welsh Government responded to that direction from the NSC(THRC) in Wales? What body was set up by way of a pandemic flu preparedness group in Wales to deal with the aftermath of Exercise Cygnus?
+
+**Sir Frank Atherton**: So the pandemic flu readiness group at UK level was set up, and Wales had an input into that, again through the HEPU, it was the prime relationship with Wales, and then in 2017 an influenza pandemic preparedness group was established, again by the HEPU, to tie in to the recommended -- to the workstreams, let's say, that were being run through the UK group.
+
+**Lead Inquiry**: So the same Wales Pandemic Flu Preparedness Group to which I referred, that is the body that responded in Wales?
+
+**Sir Frank Atherton**: It is, yes.
+
+**Lead Inquiry**: Could we have INQ000107112, please. These are the minutes from the first meeting of the Wales Pandemic Flu Preparedness Group in September of 2017.
+
+We can see that there are a number of attendees from the Welsh Government and Public Health Wales, and there is HEPU at the top, Health Emergency Planning Unit.
+
+Although I believe that HEPU formally is known as the "Preparedness Unit", but in any event maybe that's an earlier emanation.
+
+But we can see a number of officials from the Health and Social Services Group (HSS), Public Health Wales and apologies from three further officials.
+
+Further down the page, paragraph 1.4, an official -- and the official, for your information, Sir Frank, is a senior member of HEPU:
+
+"... said that he had called this Group together to co-ordinate any outputs from the UK review structure and consider what may need to be undertaken in Wales to implement the review outcomes."
+
+So that is what you said a few moments ago, the group was formed in order to consider what should be done in Wales.
+
+1.5, the same official:
+
+"... added that he thought there were a number of strategic documents that may need to be changed, following the review, including the UK Pan Flu Framework 2011 [that's our old friend from 2011], the [local resilience forum] Pandemic Flu Guidance, the Wales Response Plan, the Wales [Health and Social Service] Pandemic Preparedness and Response Plan [and] the UK/Wales Pan Flu Communications Strategy and [the] operational pandemic flu guidance [relating] to ... NHS and social care.
+
+Do you know the extent, Sir Frank, to which any or all of those documents did get updated in the fullness of time?
+
+**Sir Frank Atherton**: Yeah, I don't think any of them were finally updated. I think that the whole process was to -- of the UK process was to update the suite of guidance. So the pandemic flu framework was being -- and that was the pandemic flu plan, wasn't it, 2011?
+
+**Lead Inquiry**: Yes.
+
+**Sir Frank Atherton**: -- was being updated through the group we just talked about. There was an expectation or a hope, I think, that the LRF pandemic flu guidance, which I think was 2013, was going to be led by Wales, and the others I don't think have been updated since then, no.
+
+**Lead Inquiry**: If you could turn, please, to page 4 and paragraph 7.1.
+
+We can see that the group decided that:
+
+"... future meetings ... would be convened as and when substantial progress had been made at a Board or Workstream level."
+
+Is that a reference to the point that you've already made, which is -- or you've made a few moments ago -- that this committee or group decided that it couldn't progress the updating of the Welsh plans in these various areas unless and until the United Kingdom group had updated the United Kingdom plan, the 2011 strategy? Was that the roadblock?
+
+**Sir Frank Atherton**: Well, that's my understanding. This group essentially was shadowing the UK preparedness group, yeah.
+
+**Lead Inquiry**: But this group, Sir Frank, was convened in order to be able to progress civil contingency emergency preparedness planning in Wales. What was the point of it convening at all if it was only ever going to do something once the United Kingdom had acted first?
+
+**Sir Frank Atherton**: Well, it was to provide input as well into that -- into the UK process. So the meeting of the group, you know, I think further up the minute there, talks about which members of the Welsh Government were to be linked in to the various strands of UK preparedness. So it wasn't just waiting, it was actually looking to how we in Wales could support the overall development of pandemic preparedness.
+
+**Lead Inquiry**: If you go up to 6.1, please, there's a reference to a strategic approach being applied:
+
+"... members of the group should take the opportunity to look at the operational guidance currently in place and review whether revisions or new pieces of guidance would be needed following proposals from the Readiness Board. He added that he was taking a strategic approach to the task and that any concept of operations developed would need to be reflected in Wales and at a local level."
+
+What do you understand that reference to "taking a strategic approach" to mean?
+
+**Sir Frank Atherton**: I don't really understand that at all, no.
+
+**Lead Inquiry**: This was the position, wasn't it: that although that group was convened in order to progress Welsh civil contingencies work, none of the pieces of work that were identified as requiring updating, refreshment, whatever you call it, was done, even though some of it plainly included guidance that was Welsh only, so not just United Kingdom documents or policy but Welsh documents, none of it was done because the view appears to have been taken that nothing should be done until the United Kingdom Pandemic Flu Readiness Board had acted first in relation to its own 2011 strategy?
+
+**Sir Frank Atherton**: I think it's fair to say that a lot of the subsequent actions were predicated on hanging off the revision of the 2011 plan strategy, yeah.
+
+**Lead Inquiry**: So the board, this group, decided it wouldn't convene again until further progress had been made at the UK level. Those are minutes from a meeting in September 2017. In January 2018, were you contacted by the United Kingdom Pandemic Flu Readiness Board and asked to agree to a meeting to see what progress was being made?
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: Did that meeting not take place for a further six months, until June of 2018?
+
+**Sir Frank Atherton**: I think that's correct.
+
+**Lead Inquiry**: Could we have INQ000180482, please.
+
+"... Senior Officials Meeting with Welsh Government, DHSC and Cabinet Office -- Cardiff, 14 June ..."
+
+We can see that you are named as the first attendee from the Welsh Government.
+
+**Sir Frank Atherton**: Mm.
+
+**Lead Inquiry**: Mr Kilpatrick, about whom we've heard and about whom we'll hear a little bit more in a moment, director for local government, and David Goulding, to whom you've referred, emergency planning adviser, a major constituent part of HEPU. And Ms Hammond, from whom my Lady has heard, director of Civil Contingencies Secretariat.
+
+Page 2, please:
+
+"[An official] asked whether any vulnerability mapping had been conducted as part of the sector resilience work."
+
+There was some discussion about "challenge panels".
+
+"DG [Mr Goulding] noted that in the Welsh Government ... a group [had been established] to consider the outcomes of the UK review and [to] co-ordinate Wales actions to implement any necessary changes in Welsh planning."
+
+So Mr Goulding makes reference to the point you've made, which is that nothing was going to be done until the United Kingdom had acted first.
+
+But what about documents which were only Welsh documents as opposed to United Kingdom documents? Did that approach affect guidance across the board in the field of pandemic planning? There was no document that could be worked on and improved or updated because of this strategic approach?
+
+**Sir Frank Atherton**: I think the master document was the -- was seen and was always seen as the 2011 strategy, really. So I think -- this is just my recollection -- I think that everything else was seen to be hinging on that.
+
+Having said that, you know, there were groups through the Emergency Planning Advisory Group, that we talked about earlier, which were trying to progress the work on excess mortality, et cetera, so some of the work was continuing, but there was no updating of the overall strategy documents, that was -- all hinged on the 2011 strategy update.
+
+**Lead Inquiry**: And the 2011 strategy itself hinged on whether or not the UK Pandemic Flu Readiness Board would have the resources or the inclination to do that first step of updating itself, didn't it?
+
+**Sir Frank Atherton**: I can't disagree with that.
+
+**Lead Inquiry**: If you look at the second bullet point under "Products":
+
+"The 2011 Strategy refresh is a scheduled year 2 [Pandemic Flu Readiness Board] product."
+
+I think "product" there is a piece of jargon meaning work.
+
+"While a refresh of the 2013 [local resilience forum] guidance is needed, this is not currently scheduled in year 2 of the programme primarily due to resource availability. In terms of timing, there would be limited benefit in refreshing it ahead of the strategy given the cross-references needed between the two documents."
+
+So the UK Pandemic Flu Readiness Board was unable to get on with its own refresh of the 2011 strategy because it was, for different reasons, tied to another document which wasn't even going to be addressed until the following year because of resource problems.
+
+So following that meeting, what concern did you have that the entire process of bringing these important HCID and pandemic influenza pan-Wales documents up to date was being frustrated?
+
+**Sir Frank Atherton**: Well, I think there was an exchange, a subsequent exchange between the HEPU and the Civil Contingencies Group, and a note went to the minister to advise that, although progress was being made, it wasn't as fast as we had anticipated and that there was a likely ask for additional resources, not least around the refresh of the 2013 LRF guidance which, as I say, I think there was -- my recollection of the meeting was that there was an expectation that Wales was going to provide some leadership and some resource into that particular piece of work. So the note went up to the minister about that, yeah.
+
+**Lead Inquiry**: But that expectation was never realised, was it?
+
+**Sir Frank Atherton**: What expectation?
+
+**Lead Inquiry**: The expectation that you've just referred to, which is that there would be local resilience forum guidance updated nevertheless?
+
+**Sir Frank Atherton**: No, I think events kind of overtook things, yes.
+
+**Lead Inquiry**: So that never happened either?
+
+**Sir Frank Atherton**: It did not.
+
+**Lead Inquiry**: Right. Could we have, please, INQ000180484. This is the email string to which you've referred, Sir Frank. It's an email string from July 2018.
+
+It's going to be a bit difficult to find the relevant emails, because it's all on a single page, but if our excellent technician can find his way down to 6 July 2018, which is probably two or three screenshots lower.
+
+*(Pause)*
+
+**Lead Inquiry**: 6 July, and then 04.13, so 13 minutes past 4 in the afternoon -- it will be two or three emails down. There we are.
+
+From Reg Kilpatrick to Frank Atherton, yourself, and David Goulding, copying in Andrew Goodall, who was then the NHS Wales Chief Executive but is now the Permanent Secretary.
+
+Was this an email in which between you all, because you were all concerned with this issue, concern was being expressed about the fact that the review and the guidance was simply not being processed?
+
+If you look down at the third paragraph, Mr Kilpatrick said to you:
+
+"Given that this is a UK review, they [that's the United Kingdom Government] asked specifically for some resources to help in that task which seems a reasonable request. In view of the total emergency planning capacity across the NHS Wales, I would expect us to be more co-operative than we currently are. The pace of development of the review and guidance is therefore at risk, so this needs to be exposed to ministers along with the resource issues."
+
+It was brought to ministers, was it not?
+
+**Sir Frank Atherton**: It was. It was indeed, yeah. So that was the -- this all refers to a minute of that meeting which was being sent up to -- being prepared to be sent up to the minister, yeah, and --
+
+**Lead Inquiry**: Mr Vaughan Gething, to whom we have referred earlier, who was then the Cabinet Secretary for Health and Social Services?
+
+**Sir Frank Atherton**: Indeed, yes, yes.
+
+**Lead Inquiry**: So this email correspondence was at official level, where you were debating your concerns about the fact that there had been no progress, and that there was an issue about resources, and a risk administratively or politically --
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: -- which needed to be brought to the attention of Mr Gething? Is that a fair summary?
+
+**Sir Frank Atherton**: That is a fair summary, yes.
+
+**Lead Inquiry**: The email string ends on 10 July, if we go back to the top of the page, where you wrote this, after there had been quite a difficult debate between the three of you, Sir Frank, about what should be done. I don't think we need to go into the detail of what became quite a personal debate further down the email chain, but you said:
+
+"Signal that we have reached a compromise; There is considerable work remaining and we need to deepen liaison with the [local resilience forum] mechanism but I am assured that we have good engagement with [Department of Health] on this."
+
+So your position was: why don't we tell the minister that a compromise has been reached in terms of the extent to which the United Kingdom can call upon the Welsh official structure for assistance, but there is considerable work remaining on the Welsh side, we need to deepen liaison, but we've got good engagement; is that a fair summary of what you were saying?
+
+**Sir Frank Atherton**: Well, it partly is. The compromise was, dare I say, you know, between members of our team really within Welsh Government, because there was a -- something of a disagreement about the advice that we were giving to the minister, so there was a feeling from the civil contingencies side, Reg Kilpatrick, that the view we were giving to the minister in David Goulding's original email -- message to the minister was unduly optimistic and that we weren't signalling sufficiently the need for additional resource or the request that was coming from the United Kingdom Government for additional Welsh resource and where that resource would come from.
+
+So the compromise was to change the advice that was going up to make it much clearer to the Health Minister that those were salient issues.
+
+**Lead Inquiry**: So presumably some advice or a message was sent to the Minister for Health. In the event, Sir Frank, is this the position, though: that no further resources were, as far as you understood it --
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: -- committed to pandemic planning; the risk that you'd identified remained, which is that the Welsh Government would be exposed to the accusation that no further resources were being devoted to this issue; no further work was done in relation to any aspects of the Welsh pandemic planning guidance because of the roadblock in, as you saw it, in London; and this particular body, which had been set up in order to progress work, the Wales Pandemic Flu Preparedness Group, met for the last time in September 2018 and didn't sit again?
+
+**Sir Frank Atherton**: I agree with all of those points, and of course the reasoning behind that was that -- the reason for that and for progress then to stall was that resources were moved to other issues.
+
+**Lead Inquiry**: Yes. Is that a euphemistic reference to the impact of the necessary preparations for a no-deal EU exit?
+
+**Sir Frank Atherton**: Or Operation Yellowhammer, if you like, yes.
+
+**Lead Inquiry**: Yes. So not only were no resources developed, not only did no work continue on the guidance, not only did the main committee dealing with this issue not sit again, but whatever workstreams were being pursued were then interfered with by Operation Yellowhammer; is that a fair summary?
+
+**Sir Frank Atherton**: The work all stalled.
+
+**Lead Inquiry**: So it stalled for additional reasons?
+
+**Sir Frank Atherton**: Yes.
+
+**Lady Hallett**: Mr Keith, it looks like we're not going to finish Sir Frank before the break?
+
+**Mr Keith**: My Lady, if that's a convenient -- that may very well be a very convenient moment, but yes, I'm afraid that may well be the reality.
+
+**Lady Hallett**: Sorry to break off your evidence, Sir Frank. I shall return at 3.30.
+
+*(3.15 pm)*
+
+*(A short break)*
+
+*(3.30 pm)*
+
+**Mr Keith**: Sir Frank, in May 2018, according to your witness statement, you re-established a body known as the Health Protection Advisory Committee.
+
+**Sir Frank Atherton**: I did.
+
+**Lead Inquiry**: And it had representatives from the Welsh Government, local health boards, Welsh local authorities, the Food Standards Agency, Public Health Wales, Natural Resources Wales and a couple of other entities.
+
+It plainly covered a range of public health matters or was designed to cover a range of public health matters and not just influenza pandemic preparedness or even HCID preparedness. But why did you do that? What need did you perceive was not being met in the absence of such a committee, or what concerns did you have, if any, that led you to want to re-establish that committee?
+
+**Sir Frank Atherton**: Yeah. So there had been a committee, a Health Protection Committee, previous to my taking up the role of CMO, and that was disestablished for reasons I don't really understand, but my desire with it was really to have a forum where we could look at the broad sweep of health protection issues which affected a range of organisations. The reasoning for that was that health emergencies, health issues, health -- threats to health, are so wide-ranging that you need to have a lot of different organisations involved and engaged. So although I had very good contact with health counterparts in social care to some degree, I didn't feel we had a strong enough input to local authorities, to Natural Resources Wales, to the Health and Safety Executive, to the Food Standards Agency. So I set the committee -- the group up to bring together those groups. It was really a stakeholder group to help to understand the threats, and so that they could bring to the table and to my attention any threats from their particular domains as well.
+
+**Lead Inquiry**: Does it follow, Sir Frank, that the need for that committee was born from the recognition that there was no other pre-existing committee which was convened, was being convened, to address such threats or to look at those health protection issues?
+
+**Sir Frank Atherton**: There was nothing looking across the broad sweep that I've just described, yes.
+
+**Lead Inquiry**: In the course of the 18 months from May 2018 to the onset of the pandemic, did that health protection advisory group look at a number of threats or issues or matters of concern?
+
+**Sir Frank Atherton**: It did, yes.
+
+**Lead Inquiry**: One of the ones that we've noted was the areas in which hospital isolation facilities may have been deficient, I'm not going to ask you questions about that, but there was an issue about the improvement in compliance and what the substantive provision of facilities amounted to.
+
+But another important area which followed on from that was the issue of high-consequence infectious disease outbreak control.
+
+Did you have a concern that the position in Wales, the structure, the personnel and the people and the systems for dealing with HCID, high-consequence infectious disease, outbreak was deficient?
+
+**Sir Frank Atherton**: So they are, as you rightly say, two different things. An isolation rooms issue had gone back quite a long time and I had tried to make sure that in Wales we had sufficient isolation room availability in all of our hospital stock so that we could deal with significant infections and to help to control communicable diseases within hospitals.
+
+The HCID issue, high-consequence infectious disease issue, came to my attention particularly when we had cases of monkeypox, now Mpox, and Ebola occurring in the UK, and it was clear to me that having high-consequence infection units only in London and Newcastle, as I think existed at the time, we had a gap in Wales, and I felt that we ought to have some provision in Wales, and so we embarked on a process to develop that provision as part of the UK network.
+
+**Lead Inquiry**: What provision, the provision for dealing with high-consequence infectious disease?
+
+**Sir Frank Atherton**: Yes, exactly, yes.
+
+**Lead Inquiry**: So there was no or at least no adequate provision for the management of a high-consequence infectious disease in Wales until you directed the committee which you re-established to look at that issue?
+
+**Sir Frank Atherton**: No, there was provision, the provision was predicated though on the use of hospital beds in London or in Newcastle, so any high-consequence infectious disease in Wales would have had to have been transported to those places, and so in fact --
+
+**Lead Inquiry**: Sorry, just pause there. There was in Wales, territorially, no provision for the management of high-consequence infectious disease? If you became infected in Wales with a high-consequence infectious disease, your management, the treatment and the public health consequences would all be transferred across the border?
+
+**Sir Frank Atherton**: Just to be clear, we're talking about very unusual infections, Ebola infections, for example, where highly specialised contained facilities are required at a level that we did not have in Wales. We had and have the ability to treat most infectious disease, most outbreaks, et cetera, but HCIDs is a separate -- it's a higher tier provision of service which currently exists only in those two places I've mentioned.
+
+What we had done of course in Wales is to make sure that if we did have such a case, if we had a case of Ebola, that we were able to identify it, isolate it -- the person who was affected, and transport them safely to one of those units. And we'd actually invested, through the Welsh Ambulance Service in the arrangements to make that happen.
+
+**Lead Inquiry**: But the arrangements were not adequate, were they? That was the concern that was expressed at the committee that you set up?
+
+**Sir Frank Atherton**: That's why I was concerned that we should have such an establishment in Wales, exactly.
+
+**Lead Inquiry**: So it's no answer to say, "Well, it's all right, there were perfectly adequate arrangements in England for dealing with HCID", the committee became aware that "we [in Wales] were not adequately prepared for such an incident", and that was a reference to two Welsh residents from west Wales who had been low risk contacts of, I suppose, a sort of ground zero, the zero monkeypox case?
+
+**Sir Frank Atherton**: Yeah, so --
+
+**Lead Inquiry**: So the Welsh system was unable even to deal with a case involving just two contacts from a monkeypox infection?
+
+**Sir Frank Atherton**: Well, I accept your point that it was the case that any high-consequence infectious disease that was identified in Wales or indeed large swathes of England would have had to be treated in either London or Newcastle, those were the only two sites, and I felt it was important to establish that.
+
+That's not to say that the arrangements were not there. There were arrangements. But I wanted to strengthen those arrangements.
+
+**Lead Inquiry**: But the email thread between you and some of the officials on the committee, including Mr Goulding, of 31 December 2019 says:
+
+"... it became clear that we were not adequately prepared for such an incident."
+
+So it wasn't a question of the committee saying, "We are adequately prepared because we can make arrangements for contacts to be traced in England or for somebody infected with monkeypox to be treated or managed in England", the Welsh response was not adequate; isn't that the reality?
+
+**Sir Frank Atherton**: Well, it was adequate in that if we had somebody we would -- we had the arrangements to get them to an HCID facility. That was -- that would have solved the issue, that would have provided the support to that person. But it would be a better system -- perhaps a strengthened system might be a better way of putting it than an inadequate system -- we were trying to strengthen our system.
+
+**Lead Inquiry**: Well, could we have, please, INQ000177379 up, please, on page 1.
+
+You can see that the email is addressed to David, so David Goulding.
+
+If you could just cast your eyes down, please, the page, Sir Frank, to the reference to monkeypox case.
+
+**Sir Frank Atherton**: Yes.
+
+**Lead Inquiry**: So in the context of how the system had been tested by recent events where two Welsh residents from west Wales who were low risk contacts had come to the attention of the NHS:
+
+"... at the planning meeting ... to confirm how we would respond to one or both residents becoming unwell it became clear that we were not adequately prepared for such an incident."
+
+So this debate was not phrased in terms of "Well, we're doing fine but we can do even better", it was "We are not adequately prepared"; that's not the same, is it?
+
+**Sir Frank Atherton**: Well, I accept your point, but you know, I -- perhaps it was an inelegant wording on my part. We could certainly have responded to those patients, because we had robust plans to get them to an HCID unit. What I perhaps should have said is "adequately resourced to manage such an incident in Wales", which is what we were trying to set up.
+
+**Lead Inquiry**: Well, let's have a look at the minutes, INQ000177380, please.
+
+At page 3, at paragraph 4.2, there is a reference to an issue relating to care homes.
+
+**Sir Frank Atherton**: Yes. Which paragraph, please?
+
+**Lead Inquiry**: 4.2:
+
+"CMO ..."
+
+Is that you?
+
+**Sir Frank Atherton**: That's me, yes.
+
+**Lead Inquiry**: "... expressed concerns [about] the preparedness of care homes and in particular the arrangements for antivirals."
+
+This was in the context of seasonal flu, was it not?
+
+**Sir Frank Atherton**: It was, yes.
+
+**Lead Inquiry**: So in relation to seasonal flu, for which there is necessarily antiviral in existence and vaccines and a national flu service, you were expressing concerns about the ability of care homes and the arrangements for antivirals in that limited context?
+
+**Sir Frank Atherton**: Yes. Can I expand on that, my Lady? Would that help?
+
+**Lead Inquiry**: Please.
+
+**Sir Frank Atherton**: So, in Wales, we do have arrangements for provision of antivirals into care homes when we have seasonal flu. It's rather a laborious process, in that it involves getting general practitioners involved and that is a real draw on their time. I had come across from Canada where I'd been working in similar environments, but in Canada we had a much more robust system, I felt, where care homes had pre-authorisation to distribute antivirals on the say-so of a CMO or a medical officer, and it was a much, much more streamlined process, and I had discussed with ML, the -- bringing that process into Wales. So that was the nature of the discussion at the HPAG meeting. Thank you.
+
+**Lead Inquiry**: All right. That's care homes.
+
+In relation to infections, page 4, paragraph 5.2, please, "High Consequence Infections (Presentation)":
+
+"CMO ..."
+
+Is that you?
+
+**Sir Frank Atherton**: I think we've established that.
+
+**Lead Inquiry**: "... acknowledged there were significant questions around the preparedness of NHS Wales to deal with a similar situation ..."
+
+One monkeypox case and two contacts.
+
+"... and to be able to manage an infected case at one of our acute hospitals for at least 24 hours."
+
+So you weren't saying there, "It's all fine, may we please have more robust plans", which is the phrase you used a few moments ago, you acknowledged there were significant questions about the preparedness of NHS Wales, of the Welsh NHS, to deal with this limited case of a monkeypox infection?
+
+**Sir Frank Atherton**: Purely -- yeah, I accept the point absolutely, but it was because monkeypox was defined as a high-consequence infectious disease and we were not geared up to provide all the facilities needed, all the staffing, all the arrangements to provide treatment for an HCID in Wales, and I felt that was a gap in our armour which we should improve.
+
+**Lead Inquiry**: So by contrast to the catastrophic consequences of Covid, which in essence is a highly infectious disease, just not, terminologically, a high consequence one, with catastrophic consequences, there wasn't just a gap, there was a yawning chasm in terms of preparedness; the Welsh NHS couldn't even deal with a single limited contact HCID case?
+
+**Sir Frank Atherton**: Well, I think they're very different things, the -- if you remember, to go back, at the start of the pandemic, because we knew very little about coronavirus, the novel coronavirus, it was managed initially as a high-consequence infectious disease and patients were transferred to London or Newcastle, the first few patients. Beyond that, of course, it became downgraded from a high-consequence infectious disease to a disease which should be able to be managed and could be managed within hospitals that had adequate infection control procedures and normal hospital secondary and tertiary care facilities.
+
+So there is a very significant difference between the one case of Ebola or monkeypox and a large number of flu cases, which we were absolutely geared up to deal with, or indeed, subsequently, the coronavirus cases.
+
+So I accept your point that we were not adequately prepared for high-consequence infectious diseases, which is why I raised it with the HPAG and tried to move that to -- and in fact we've made some investment through the national health protection system to actually start to address that.
+
+**Lead Inquiry**: What general concerns did the committee express about the absence of testing capacity in Wales and its current microbiology estate, that is to say the structural, the system for dealing with new testing technologies and testing diagnoses and frontline support?
+
+**Sir Frank Atherton**: Well, I don't think the committee commented specifically on that. Remember the committee was to give advice to me. But I had had discussions with Public Health Wales colleagues about our adequacy in those regards, and we'd sought some additional investment to try to strengthen again those processes in Wales. I think we sought extra resources from the minister in 2019 and then subsequently in 2020 when the pandemic hit.
+
+**Lead Inquiry**: Could we have INQ000177362, please.
+
+This was a paper prepared for the committee in July 2019, six months before the pandemic struck. Page 1, at paragraph 4:
+
+"The current microbiology/infection services in Wales are fragile and are struggling to deliver on a day to day basis the prevention, early diagnosis and frontline support that professionals and the public require."
+
+Is that not a major concern?
+
+**Sir Frank Atherton**: It was a major concern. That's why I was raising it so that we could get extra, additional investment to address it.
+
+**Lead Inquiry**: Was additional investment provided within the six months following this paper?
+
+**Sir Frank Atherton**: I believe it was. We provided -- we put advice to the minister and the minister provided some additional resources. We also moved some resources within Public Health Wales. So I think an additional 1.5 to Â£2 million was invested in our laboratory capacity and in the workforce capacity needed to deal with major outbreaks and incidents.
+
+**Lead Inquiry**: Sir Frank, that money may well have been attributed -- directed towards the fragile microbiology infection services in Wales; were any additional testing processes or personnel for testing made available by the end of December 2019?
+
+**Sir Frank Atherton**: Well, I don't know about the recruitment process that went through, but certainly the funding was -- in 2019 was put in -- was intended to improve the testing specifically around genomic testing of pathogens.
+
+**Lead Inquiry**: By the onset of the pandemic, the entire testing provision, the microbiological, the genomic, the diagnostic testing system in Wales remained fragile, as we can see here, did it not?
+
+**Sir Frank Atherton**: There was a fragility that we had to address, and that's why in 2019 we tried to start to address it.
+
+**Lead Inquiry**: Final questions, please.
+
+In relation to inequalities and appreciating, of course, that as the Chief Medical Officer Wales you are not the minister for health and social services, can you recall any focus being paid at any time, either in terms of the guidance or the policy documentation or the procedures which came before you, upon -- the impact on those who suffer from societal or ethnic inequality of all this planning, other than in relation to the obvious point that there will always be clinical risk involved, and obviously pandemics and disease outbreaks affect everybody differently, clinically?
+
+Can you recall any debate at all about a wider consideration of societal or ethnic inequality?
+
+**Sir Frank Atherton**: So the one I can recall there being quite a bit of discussion about was about how we -- and this is not specific to pandemics, but how we in any civil contingencies issue, whether it's flooding or flu or anything, how we kind of identify vulnerable people and target resources towards those vulnerabilities.
+
+So there had been quite a bit of work in Wales about how we map vulnerabilities and how we -- and in fact what transpired, as I recall from the discussions, is that every different organisation had different methods of doing it. And where I think we landed was that there was a need for a common approach to vulnerability mapping of vulnerable individuals and vulnerable groups in society who might need additional support on top of the support you give through any major incident.
+
+**Mr Keith**: All right, thank you.
+
+My Lady, those are all my questions. You have granted permission for a number of areas to be explored by the legal representative for Covid-19 Bereaved Families for Justice Cymru.
+
+**Lady Hallett**: Thank you. Ms Heaven.
+
+Questions From Ms Heaven
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Heaven**: Thank you, my Lady.
+
+Sir Frank, I'm just over here, right of the pillar. My name is Kirsten Heaven and I represent the Covid-19 Bereaved Families for Justice Cymru.
+
+I just want to explore two topics with you, the first one is a bit more, please, in relation to infection control. Obviously you'll understand that this is a matter close to the heart of many of those whom I represent, particularly in the context of those who contracted Covid-19 and went on to die in the context of hospital-acquired infection.
+
+I first want to ask you in particular about a document, so can we bring up, please, INQ000145726.
+
+So if we just scroll down, we can see this is a document entitled "Healthcare Associated Infections -- A Strategy for Hospitals in Wales", and we can see it's a Welsh Assembly government document.
+
+Now, just to give you a bit of background, we know that this is a document from 2004, so clearly it's a very long time before you come into post in 2016. But if we just look, if we just turn to the first page, please.
+
+*(Pause)*
+
+**Lady Hallett**: We've got it on our screen.
+
+**Ms Heaven**: Have you? Sorry, it's not showing on my screen.
+
+Okay.
+
+So we can see that there is a foreword here and it's explaining that there is a healthcare-associated infection, some patients will become infected as a major consequence of another illness, and it's talking about a strategy being developed by the Welsh Healthcare Associated Infection sub-group of the Committee for the Control of Communicable disease, and essentially it's setting out a strategy to be applied in local NHS trusts in Wales, to essentially improve infection control in Welsh hospitals.
+
+First question: did that subgroup on -- the Committee for the Control of Communicable disease, did that exist in 2016, do you know?
+
+**Sir Frank Atherton**: I don't recall it. I don't recall a group of that name, but we did have various groups look at healthcare-associated infections, yes.
+
+**Ms Heaven**: If we just scroll down then briefly to internal page 4, do you have that there?
+
+**Sir Frank Atherton**: Okay.
+
+**Ms Heaven**: So we can see there that in the basic introduction:
+
+"Healthcare associated infections continue to cause substantial patient morbidity and cost to the health service."
+
+It's explained in the second paragraph that there is a reference there to an Improving Health in Wales document from 2000, which is essentially the inspiration for this document in order -- setting out clinical tools for the management of infection control.
+
+So if we can turn then internally to page 25, do you have that there?
+
+**Sir Frank Atherton**: I have a page, I can't tell what number it is, but yes.
+
+**Ms Heaven**: So page 25, this is what I want to ask you about, is "Some lessons from the Severe Acute Respiratory Syndrome (SARS) outbreak", paragraph 1.5. Do you see that there?
+
+**Sir Frank Atherton**: Yeah.
+
+**Ms Heaven**: Okay. So what this document essentially is saying is that some lessons needed to be learnt as a result of the SARS outbreak in 2004, and I'm not going to read it all out because the Inquiry has it there before them, but what it makes clear is:
+
+"The SARS outbreak has thus provided us with a timely reminder that not only should sound and evidence-based infection control policies be in place but considerable attention must be paid to ensuring that they are rigorously and consistently applied. This requires a sound understanding and commitment to effective infection prevention and control practice among staff [in] the healthcare system. This strategy focuses on the development of systems to achieve this objective."
+
+So that was the clear recommendation coming out in 2004, that there needed to be systemic policies developed within infection control.
+
+Now, just fast forwarding then to 2014, you have been taken to the Wales Framework for Managing Major Infectious Disease Emergencies, so just to complete the picture if we could get that document up, please.
+
+It's INQ000184289, and it's page 13.
+
+So it's internal page 13. Now, you have been asked in detail about this document. I want to focus on the very last bullet point, which says this:
+
+"All hospitals need to establish ways of caring for large numbers of infectious patients on a scale outside their normal experience, including those requiring high dependency care."
+
+Can you see that there?
+
+**Sir Frank Atherton**: Yes, yes.
+
+**Ms Heaven**: So you have been asked about the adequacy of Wales' ability to respond to one or two cases of an HCID, but in 2014, following on from the SARS recommendations, it was recognised, wasn't it, that there was a need for hospitals to deal with large numbers of infectious patients, not just one or two?
+
+**Sir Frank Atherton**: That's certainly the case, and of course we see that every year with pandemic -- with seasonal flu outbreaks, indeed.
+
+**Ms Heaven**: So when you came into your post in 2016, can you just assist the Inquiry with what personal steps, if any, did you take to ascertain the state of infection control generally in Welsh hospitals?
+
+**Sir Frank Atherton**: So when I arrived quite early on I actually chaired a group which was looking at antimicrobial resistance, and also healthcare-associated infections. I co-chaired that with one of the medical directors from one of the local health boards, and that group was subsequently taken over by the Deputy Chief Medical Officer, who was reporting to me.
+
+So we did have, through all of the time that I've been the Chief Medical Officer, and continue to have, a very strong focus, I would say, on HCAIs, healthcare-associated infections. We have the structures in place, we have the guidance in place to hospitals as to what they should be doing around HCAIs and infection prevention. We monitor that as Welsh Government, the Health and Social Services Group monitored it very carefully through the monthly returns from health boards and from -- through a process called the JET, that's the joint executive team meetings, where we meet with the executive of each health board twice a year and we look at -- well, a range of issues but including infection control issues.
+
+And it's why I in 2016, when I saw the lack of total provision of infection control isolation rooms across Wales, why I personally put so much time and effort into trying to get the resources to be able to make sure that every hospital and every health facility had the ability to deal with those.
+
+But more fundamentally, I was regularly in contact with -- in common with my colleague, the Chief Nursing Officer, at the time, and we wrote repeatedly I think to chief nurses, to medical directors, reminding them of their responsibilities, and we actually established -- I think it was in 20 -- I can't remember which year, but we established a workshop, probably it was early 2019 actually, to look at the issue of HCAI and our health protection system, and that's what led to the investment that we've just been talking about with Mr Keith.
+
+So, you know, you ask what personally I've done, I think I've tried very hard to make sure that HCAI remains an important consideration within the health system and that we have the ability to deal with it.
+
+**Ms Heaven**: But we've seen that the recommendation in 2004 was in relation to SARS, that was an HCID, wasn't it?
+
+**Sir Frank Atherton**: It would have been an HCID, yes.
+
+**Ms Heaven**: Yet it was only in 2019 that you were raising concerns in relation to monkeypox and other HCIDs?
+
+**Sir Frank Atherton**: Yeah, so --
+
+**Ms Heaven**: Quite a delay, wasn't it?
+
+**Sir Frank Atherton**: Well, I'm talking about the generality of infection control in hospitals and that's a really important issue, and I thought that's what you were referring to. But if your point is that we didn't have an HCID facility in Wales until, you know, up until 2019, that is correct. Correct. But we did have, of course, as I've previously outlined, arrangements for patients with HCIDs to be safely transferred to English facilities for treatment.
+
+**Ms Heaven**: Just one final point in relation to NERVTAG, please. You've just explained a moment ago that Wales didn't have a role in NERVTAG. I think we understand from the evidence that we're likely to hear from Andrew Goodall that Wales played an observer status.
+
+We can see in documents in 2016 NERVTAG are making recommendations about the need for FFP3 masks, and more general masks, to be available in all hospitals, communities and ambulance and social care staff services.
+
+In 2016 and onwards, were you personally aware, then, of the recommendations that were being made by NERVTAG in particular in relation to masks that I've just described?
+
+**Sir Frank Atherton**: Well, I don't recall seeing that recommendation. I'd have to have a look at it.
+
+**Ms Heaven**: But don't you need to know, in your role as CMO, if NERVTAG are making recommendations? Isn't that something you need to know?
+
+**Sir Frank Atherton**: I would expect to have been informed of that, and I would expect that the systems in Wales would have picked that up and would know about that. As to whether we were a member or had observer status, I can't recall. Some of the groups in the UK we had observer status, and it may well be the case that we did have observer status in NERVTAG, in which case, my Lady, I apologise for my earlier statement, but we can check that.
+
+**Ms Heaven**: But, to be clear, you never attended a NERVTAG meeting directly yourself?
+
+**Sir Frank Atherton**: I did not, no.
+
+**Ms Heaven**: Thank you very much, my Lady.
+
+Questions From The Chair
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Thank you, Ms Heaven.
+
+One question from me, Sir Frank. You described almost at the very beginning of your evidence that the Office of the Chief Medical Officer when you first started sounded like it was pretty under-resourced.
+
+**Sir Frank Atherton**: Yes.
+
+**Lady Hallett**: It got the resources when we went into the pandemic, so what did it go from to?
+
+**Sir Frank Atherton**: Well, essentially, my Lady, I had secretarial support and personal administration support, you know, but what transpired at the start of the pandemic is things moved very, very quickly and we very rapidly realised that we were drowning under the sea of information, we couldn't manage the information flows, couldn't even manage emails. So that led to a process, over a period of time, with me working with the Director General, who you're about to speak to, to try to get some additional resource. So that was the process we went through.
+
+**Lady Hallett**: So basically the getting the additional resource was an acknowledgement you were under-resourced in the first place?
+
+**Sir Frank Atherton**: I would agree with that, thank you.
+
+**Lady Hallett**: Thank you.
+
+**Mr Keith**: My Lady, may I just correct one matter, which that I put to Sir Frank that we had not received the Health and Social Services Group risk register. The Welsh Government has kindly informed us that they did provide it, in fact, last Thursday, but I regret to say that it didn't pop out the far end of the material provider disclosure process in time for my learned friend, Mr Sharma, and myself to be aware of it.
+
+**Lady Hallett**: Thank you very much.
+
+Thank you, Sir Frank.
+
+**Mr Keith**: I should have said my learned friend Ms Spector, not Mr Sharma.
+
+*(The witness withdrew)*
+
+**Mr Keith**: My Lady, the next witness is Dr Andrew Goodall, the Permanent Secretary to the Welsh Government.
+
+Dr Andrew Goodall
+-----------------
+
+*DR ANDREW GOODALL (sworn).*
+
+Questions From Lead Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Good afternoon. Could you give the Inquiry, please, your full name.
+
+**Dr Andrew Goodall**: My name is Andrew Goodall.
+
+**Lead Inquiry**: Dr Goodall, could you remember to keep your voice up as you give evidence, please, for our purposes and also for our hard-working stenographer. I believe, my Lady, we'll be sitting until shortly before 5 o'clock, so there won't be a break this afternoon of which you can take advantage but there may be tomorrow. You will, I'm afraid, be giving evidence tomorrow morning as well. It's impossible to conclude your evidence tonight.
+
+You have provided three witness statements, have you not, variously dated 14 March 2023, 20 April 2023 and 20 April 2023?
+
+**Dr Andrew Goodall**: Yes, I have.
+
+**Lead Inquiry**: I think it's fair to say, Dr Goodall, you have strained every sinew to provide us with as much information as you can about the workings of the Welsh Government. Each of those statements is true, is it not, and you have appended your signature to each of them?
+
+**Dr Andrew Goodall**: It is true, and I've appended my signature.
+
+**Lead Inquiry**: Thank you.
+
+You are currently the Permanent Secretary, the sole Permanent Secretary to the Welsh Government, are you not?
+
+**Dr Andrew Goodall**: I am. I took up that post in November 2021.
+
+**Lead Inquiry**: Before that, were you Director General of Health and Social Services, and therefore also the Chief Executive of NHS Wales, posts which you held between June 2014 and November 2021?
+
+**Dr Andrew Goodall**: Yes, that's correct, and I was discharging that role during this particular period, yes.
+
+**Lead Inquiry**: Which is why, of course, the previous witness, Sir Frank Atherton, referred to you in the run-up to the pandemic as being the Director General of Health and Social Services.
+
+**Dr Andrew Goodall**: Indeed, that's correct.
+
+**Lead Inquiry**: Could we start, please, with a crash course in Welsh constitutional matters, and the role of the Welsh Parliament, formerly the National Assembly for Wales, the role of the Welsh Government, formerly the Assembly Government, and where health, public health and civil contingencies come in the devolved nature of things.
+
+So, there was, under the Government of Wales Act 1998, a National Assembly for Wales established; is that correct?
+
+**Dr Andrew Goodall**: Yes, that's correct.
+
+**Lead Inquiry**: Within that National Assembly, was there an executive known as a cabinet or an executive committee which comprised members of the Assembly?
+
+**Dr Andrew Goodall**: Yes, that's correct.
+
+**Lead Inquiry**: In 1999, a broad range of functions previously exercised by ministers of the Crown for the United Kingdom in London, were transferred by way of a series of Orders in Council to the executive, the cabinet or the executive committee in Wales; is that correct?
+
+**Dr Andrew Goodall**: Yes.
+
+**Lead Inquiry**: And were they the (Transfer of Functions) Order -- or orders -- of 1999 and following?
+
+**Dr Andrew Goodall**: Yes, they were.
+
+**Lead Inquiry**: In 2014, under the Wales Act, did the name of the Welsh Assembly government become changed or get changed to the Welsh Government?
+
+**Dr Andrew Goodall**: Yes, it did, it changed to Welsh Government.
+
+**Lead Inquiry**: In 2020, did the name of the National Assembly for Wales change to the Senedd or Welsh Parliament?
+
+**Dr Andrew Goodall**: Yes, those changes happened in 2020.
+
+**Lead Inquiry**: So, over the course of time, the nomenclature as well as the functions of the cabinet or the executive committee, in essence the Welsh Government, have changed quite considerably, have they not?
+
+**Dr Andrew Goodall**: Yes, indeed, they have changed significantly, in particular when the opportunity to be able to make its own legislation came through.
+
+**Lead Inquiry**: Was that because until the Government of Wales Act 2006, the National Assembly for Wales was unable to make its own primary legislation?
+
+**Dr Andrew Goodall**: Yes, that's correct.
+
+**Lead Inquiry**: So the current position is this: that in the Welsh Government there is a First Minister who leads the Welsh Government; is that correct?
+
+**Dr Andrew Goodall**: Yes, that's correct.
+
+**Lead Inquiry**: There are a number of Welsh ministers equivalent to what one might call senior ministers in the United Kingdom Government in London and deputy Welsh ministers equivalent to junior ministers in the United Kingdom Government?
+
+**Dr Andrew Goodall**: Yes, that's correct. Their names have changed over the years but broadly it will be the same, yes.
+
+**Lead Inquiry**: There is at the apex of the administration of the Welsh Government a permanent secretary, and that is you?
+
+**Dr Andrew Goodall**: Yes, I lead and manage the civil service, yes.
+
+**Lead Inquiry**: So you're, I suppose, one might call the equivalent amalgamation, perhaps, of head of the civil service in Wales, the Cabinet Secretary, the administrative chief executive, you are the permanent secretary who is subject only to ministerial control?
+
+**Dr Andrew Goodall**: Yes, that would be true of my successors, myself from 2021 of course and, yes, my role would include acting as the principal accounting officer for the organisation, and also acting as the first adviser to the First Minister and the cabinet as well.
+
+**Lead Inquiry**: We've seen from the relevant paperwork that Wales does not have ministries. It has, for the purposes of carrying out its functions, a number of departments known as directorates?
+
+**Dr Andrew Goodall**: Yes.
+
+**Lead Inquiry**: Is that why we've seen, of course, from the context of health emergencies, repeated references to the Health and Social Services directorate?
+
+**Dr Andrew Goodall**: Indeed, the Health and Social Services Group, and I was the Director General of that group.
+
+**Lead Inquiry**: Indeed, until you became the permanent secretary.
+
+In your witness statement, one of your witness statements, you say this:
+
+"Despite the range of responsibilities, the Welsh Government is, and in my experience always has been, a compact administration. Welsh Ministers and senior officials are 'under one roof' and frequently in the same room together."
+
+What consequences have flowed from that, Dr Goodall, in terms of the way in which the Welsh Government has been able historically to make decisions?
+
+**Dr Andrew Goodall**: As I've experienced it, through this particular period but of course subsequently as well, I think it allows for a closer contact amongst both officials and also amongst ministers. It means that irrespective of working in an individual portfolio, for example in health, you have an awareness of the broader workings of government, including on other policy matters. I think it does create a network of confidence and trust, colleagues get to know each other. It also extends out beyond just the workings within Welsh government, because it translates into the way in which we work across other agencies and other networks in Wales as well. So there is a intimacy about that system internally for Welsh government, as well as outside.
+
+**Lead Inquiry**: Dr Goodall, you speak very fast, and I didn't in fact ask you at the beginning to speak more slowly or to ensure that you speak slowly. Could you please do so, however.
+
+**Dr Andrew Goodall**: Of course.
+
+**Lead Inquiry**: It's very difficult for the very skilled stenographer to keep up with that level of speech.
+
+Just to identify the major moving parts at the highest level of the Welsh Government, is there a Welsh Government board which provides strategic advice and assurance to you, the permanent secretary?
+
+**Dr Andrew Goodall**: Yes, I would distinguish its role, aside of course from the cabinet and the political oversight, which also will oversee the delivery of civil service priorities in Wales, but the Welsh Government board has a role to help me discharge my principal accounting officer role. It provides assurance, it helps us with the outlook and the strategic direction of the organisation. In simple terms, it allows me to lead and manage the organisation.
+
+**Lead Inquiry**: Do you also have the benefit of an executive committee, which is both an operational and strategic decision-making body within the civil service in Wales, no doubt staffed by heads of the directorates, and other officials, and chaired by you?
+
+**Dr Andrew Goodall**: Yes, we have an executive committee, I chair it, and that really acts as the decision-making mechanism for the civil service.
+
+**Lead Inquiry**: Finally, is there -- and this will become relevant later -- something called ARAC, the Audit and Risk Assurance Committee, which assists you to discharge the functions to which you made reference a moment or two ago as the principal accounting officer to the Senedd. You are responsible to the Senedd as the principal accounting officer for the entirety of the Welsh non-ministerial administration?
+
+**Dr Andrew Goodall**: Yes, the audit and risk committee supports the, again, discharge of the risk areas in the organisation, the annual accounts process, and brings together non-executive members alongside directors and officials in the organisation.
+
+**Lead Inquiry**: Devolution.
+
+The Inquiry is now very familiar with the distinction between devolved and reserved matters. Are health services in Wales almost entirely devolved, which means that they are within the responsibility of the Welsh ministers and the Welsh civil service?
+
+**Dr Andrew Goodall**: Yeah, yes, they are almost entirely devolved, I would describe them as devolved. There are some exceptions around some specialist areas which will occur on a UK basis but, yes, they are devolved responsibilities.
+
+**Lead Inquiry**: By contrast at the beginning civil contingencies were not all devolved, were they?
+
+**Dr Andrew Goodall**: No, they weren't all devolved. Clearly there were Welsh responses from first responders through to government, but they weren't all devolved responsibilities at the time back in 2004.
+
+**Lead Inquiry**: That is a reference, isn't it, to the Civil Contingencies Act of 2004 of that year, because that was a single legislative framework or provided for a single legislative framework for both England and Wales along with the statute itself, the provisions in the statute, and also the statutory and non-statutory guidance which was produced alongside the Act?
+
+**Dr Andrew Goodall**: Yes, that's correct, and it also gave us equivalence around support arrangements like local resilience fora.
+
+**Lead Inquiry**: Historically under that Act were a number of regulations made, by way of secondary legislation, which applied to both England and Wales?
+
+**Dr Andrew Goodall**: Yes, they were.
+
+**Lead Inquiry**: In the fullness of time, however, and following a number of reports into civil contingencies in Wales and notably a commission on devolution in Wales, the Silk Commission in 2014, was there a major change in 2018, primarily through the Welsh Ministers (Transfer of Functions) Order which gave -- at least for the purposes of the first part of the Civil Contingencies Act, part 1, the 2004 Act -- powers exclusively by way of devolved matters to the Welsh Government?
+
+**Dr Andrew Goodall**: Yes, whilst it left part 2 arrangements still at the UK level, those were the arrangements that came over for part 1 in 2018, and reflected a lot of support to want to be able to transfer over those functions very clearly into Wales, because the previous arrangements probably had Welsh Government acting in a de facto leadership function and role, but actually the legislation was able to make that very clear.
+
+**Lead Inquiry**: By that, do you mean that from 2010 onwards and until 2018 the Welsh Government appreciated that, because it was the government on the ground, so to speak, dealing with public health, dealing with local emergencies -- because of course they arose locally -- it had to take up the role of acting de facto as a responder under the Civil Contingencies Act, even though that was a piece of UK legislation and even though it wasn't formally a devolved matter?
+
+**Dr Andrew Goodall**: Yes, it would have a co-ordination and support role, but because of its discharge of devolved responsibilities through ministers, it needed to have clarity on its involvement. In many respects, a lot of that leadership had been discharged in the Wales resilience fora from at least 2003, so Welsh Government was trying to ensure that it was able to give that co-ordination role, but again we needed to make sure that the powers were much clearer, which is what happened in 2018.
+
+**Lead Inquiry**: Could we look, please, just at one of those reports to which I have referred, the reports on civil contingencies which preceded the Transfer of Functions Order. It's a report dated 6 December 2012, INQ000107113. Perhaps we could pick it up at page 4, please.
+
+Dr Goodall, I'm putting this page to you because, although this is dated 6 December 2012, over ten years ago, I'm going to suggest in due course that some of the problems and concerns identified back then are still relevant to this Inquiry's consideration of the run-up to the pandemic, even though this report was prepared at a time when the Welsh Government had, pre-transfer of devolved functions, a very different role.
+
+The recommendations were these:
+
+"Many of the arrangements to deliver the Civil Contingencies Act 2004 work well but the role of the Welsh Government is unclear and there are opportunities for increased efficiency in local delivery.
+
+"Complex leadership arrangements have not prevented the Welsh Government from providing effective support for the partners delivering the Civil Contingencies Act 2004."
+
+Is that the de facto role to which you've referred?
+
+**Dr Andrew Goodall**: Yes, that's what I would have been describing.
+
+**Lead Inquiry**: But:
+
+"Too many emergency planning groups and unclear accountabilities add inefficiency to the already complex Resilience Framework."
+
+Could I perhaps go straight to the heart of the line of questioning, which I'll develop over the next two or three hours, and ask you this, which is: do you believe, looking back, that that problem identified in 2012 was adequately addressed? By 2020 had that inefficiency and overcomplexity been rooted out of the Welsh civil contingencies structures, or do you think they remained?
+
+**Dr Andrew Goodall**: I think we had addressed that in part in terms of allowing the Welsh Government role to be much clearer, particularly where ministers would have expectations to oversee public services and discharge their responsibilities. I think that there is an inevitable complexity about bringing agencies around the table who have a series of different reporting arrangements up and through to UK departments -- there are non-devolved responsibilities, for example the police -- and I don't feel that any of that has got in the way of creating partnerships and relationships in Wales.
+
+But, in simple terms, we rely on an emergency response that is driven from a Wales Resilience Forum structure and is supported by for local resilience fora areas. I think the complexity, of course, is every first responder having their own statutory responsibility -- which means 22 local authorities, four police forces, ten health organisations -- and I think that probably does start to steer some other difficulties. But I think we were at least able to address an understanding of Welsh Government's role, but I do think that some of the supporting arrangements in place up through local resilience fora arrangements would still need to have been worked through.
+
+**Lead Inquiry**: Your answer appears to address primarily the arrangements at local level, the local resilience forums and the strategic co-ordinating groups and the resilience partnerships and so on, but is that -- isn't that conclusion on that page of more general application, that there are too many emergency planning groups and unclear accountabilities in the resilience framework, so across the board, so not just at local forum and strategic co-ordinating group level but within what has now become a more crystallised part of the Welsh Government?
+
+**Dr Andrew Goodall**: I think there are arrangements that work differently when planning and preparing, which turn into something different in a response mode. So I would say that we need to have an understanding of the difference between those two areas.
+
+I think that some of the individual points of working arrangements that take place and some of the detailed level of work has inevitably needed a level of expertise and experience to be applied.
+
+So I would have some concerns about the range of sub-groups that can appear, that can be used constructively, but we would have needed to have made sure they had a task and finish focus rather than just become an embedded part of our machinery.
+
+I think the interrelationship between the use of different frameworks and plans at different times for me would be an issue. We actually had tidied up some of those arrangements, even back I think in around 2012 -- because the infectious disease framework, as an example, was an amalgam of four previous plans -- but nevertheless I think that the interrelationship between pandemic health and social services responsiveness and preparedness guidance alongside the infectious disease plan, alongside the pan-Wales response plan, we still I think need to make very clear about what parts of those are working at which moments, and certainly -- in my own understanding, just to help with the clarity of the issue -- it's the pan-Wales response plan which is the overall co-ordinating and guiding hand, if you like, on the arrangements in Wales.
+
+**Lead Inquiry**: Dr Goodall, the paperwork demonstrates that there are a plethora of different bodies from the Wales Resilience Forum, the Wales Resilience Partnership Team, the civil contingencies group, the Welsh Civil Contingencies Committee, the resilience steering group, STAC, the tactical(sic) advisory cell, the tactical(sic) advisory group, the Emergency Coordination Centre, the civil contingencies and incident response room, the Joint Emergency Services Group, HEPU -- to which we've just had some evidence directed -- you have the pan-Wales response plan, there are a multitude of guidance documents. There was a swine flu, a Wales pandemic influenza response arrangement, swine flu task and finish group, a Wales pandemic flu task and finish group, Wales Pandemic Flu Preparedness Group. I haven't covered them all.
+
+For an administration which prides itself on its efficiency of movement because of the relative lack of scale and an administration that operates effectively under one roof, are there not in fact a plethora of bodies in this labyrinthine system?
+
+**Dr Andrew Goodall**: There are many bodies. I think some of those relationships are probably clearer to me about how they would work. I think some of them would feel as though that they were duplicating some of the tasks and activities, and certainly the balance of what is discharged nationally as opposed to what is discharged within those sort of local responders and in the regional arrangements or the local resilience fora would also be an issue.
+
+But, yes, that's a very significant list of areas, and looking forward in our "safe and secure Wales" of course we need to make sure that that is very explicitly set out, that it is clear and it is also efficient.
+
+What I also don't want to lose within our assessment, though, is the times when we do need to, of course, deal with issues that are a matter of detail. But again, as I said earlier, I think that needs to be a philosophy of task and finish rather than ongoing arrangements.
+
+**Lady Hallett**: Sorry, I don't follow -- task and finish. I think I do.
+
+**Dr Andrew Goodall**: Yeah, task and finish groups really just to make sure that they quickly handle an issue. They may have a cycle of two or three meetings with experience and expertise around the table, and then come out with a solution which can be implemented, rather than an ongoing set of meetings.
+
+**Lady Hallett**: So it's a response?
+
+**Dr Andrew Goodall**: A response, so as an example, if one is working through a response about excess deaths in the context of pandemic flu, to ensure that there is a timescale that is given in order to achieve those and deliver them, and not just be an ongoing contact point between those experts.
+
+**Mr Keith**: Task and finish. Following swine flu, the Wales Resilience Partnership Team agreed that a Wales pandemic flu task and finish group be established; correct?
+
+**Dr Andrew Goodall**: Yes.
+
+**Lead Inquiry**: Following Exercise Cygnus, the Wales Resilience Partnership Team delegated overall responsibility to the Wales Pandemic Flu Preparedness Group, and following Exercise Cygnus the Pandemic Flu Readiness Board was promulgated, instituted for the purposes of making sure that that, those recommendations were identified and finished.
+
+But would you agree that, despite those three instances of task and finish functions being identified, not all the recommendations from any of those reviews or exercises were, in the event, implemented?
+
+**Dr Andrew Goodall**: Not all of those were implemented, so --
+
+**Lead Inquiry**: And those committees, those task and finish bodies, took in some cases a very long time to attempt to ensure that the relevant recommendations were implemented, did they not?
+
+**Dr Andrew Goodall**: In my view, they took too long to make sure that the recommendations were implemented, even if there had been progress on some of those activities and matters and they were completed.
+
+**Lead Inquiry**: So despite your recourse to the benefit of task and finish bodies, history and the reality has shown that they themselves have not really performed terribly well, have they?
+
+**Dr Andrew Goodall**: They haven't been able to discharge the outcomes on all of those areas, and we need to understand how, if we have got to a better place, that we need to be able to update the guidance at that point rather than try to keep searching.
+
+**Lead Inquiry**: Please may we not have a terminological debate. They have not done very well, have they?
+
+**Dr Andrew Goodall**: The task and finish groups did not deliver all of the objectives, they didn't achieve them, no, I agree.
+
+**Lady Hallett**: They were given the task but they didn't finish.
+
+**Dr Andrew Goodall**: They didn't achieve all of the tasks, my Lady, yes.
+
+**Mr Keith**: Rather defeats the purpose of a task and finish group, does it not?
+
+**Dr Andrew Goodall**: (Witness nods)
+
+**Lead Inquiry**: Could we go back to INQ000107113, please, page 9, paragraph 13. This is the paragraph which underpins that conclusion, which is in red at the top of the page, which I read out from the index page, that the role of the Welsh Government was unclear and there were opportunities for increased efficiency in local delivery.
+
+So in 2012, one of the concerns expressed in this Welsh Audit Office report concerning civil emergencies in Wales was that there was a distinct need for increased efficiency in local delivery, that is to say in the practical application of civil contingencies arrangements, and that there was a confusion about the role of the Welsh Government.
+
+I asked you what your view was on this a little earlier, but we've now had the debate about the task and finish committees. Would you now perhaps reassess that some of the problems identified in this report from 2012 continued right up until the onset of the pandemic because the committee process, the group process, the structures in the Welsh Government, continued to be in significant respect inefficient?
+
+**Dr Andrew Goodall**: Yes, I would agree with you that there were too many arrangements in place at that time that may have changed our focus and what was needed. As I said earlier, I do think that some of those mechanisms occur because of preparedness as opposed to the response itself. But, yes, I would agree that there is an ongoing need to make sure that we can have a less complex system, yes.
+
+**Lead Inquiry**: Thank you.
+
+Page 10, paragraphs 17 and 18:
+
+"Too many emergency planning groups and unclear accountabilities add inefficiency to the already complex resilience framework."
+
+That's the summary I read out earlier.
+
+Paragraph 17 generally says the current structures lead to inefficiencies at a local level, unnecessary complexity and unclear accountabilities; and at 18:
+
+"Complex reporting arrangements are leading to confusion about the roles and responsibilities of the numerous emergency planning groups and organisations. The complexity risks fragmentation of resilience activity with potential overlaps or gaps in the arrangements for resilience."
+
+That is an astute and precise summary, is it not, of the Welsh Government's civil contingencies arrangements between 2012 up to the time of the pandemic?
+
+**Dr Andrew Goodall**: I believe we had addressed some of that complexity but, to take your point, I do agree that we have had too many examples of duplication and activities happening. Even as we adopted the Welsh Government responsibilities in 2018, we have probably still not worked our way through the implications of that transfer of responsibilities by the time we'd hit the pandemic as well.
+
+**Lead Inquiry**: In essence the Welsh Government was faced with a very complex strategic conundrum, which was: having been given a multitude of what had, up to then, been reserved functions by virtue of the Transfer of Functions Order in 2018, somehow those new responsibilities had to be discharged, and that of course required a great deal of thought to be given to the best way of setting up the system, the committees, the groups, the entities, the responders and so on, to be able to do those new functions?
+
+**Dr Andrew Goodall**: Indeed that's correct, and we had just in 2018 started to do some of the resilience assurance within the system in Wales at that point, but were unable to continue with that as a cycle as we had originally intended, but that was very early on in the transfer of responsibilities.
+
+**Lead Inquiry**: As a result of, inevitably with all governments, resource issues, as a result of the diversion of attention away from civil contingencies planning to the consequences of a no-deal EU exit, and of course the impact of the catastrophic pandemic, work was never allowed to get very far?
+
+**Dr Andrew Goodall**: Yes, we haven't yet passed regulations that would discharge those part 1 responsibilities, as an example, but certainly, as you say, the EU exit arrangements ended up being a priority over and above some of the underlying resilience activities. That's correct.
+
+**Lead Inquiry**: May we now then look at some of the bodies, and see to what extent that proposition in that paragraph was justified in terms of unnecessary overlap and at the same time gaps.
+
+The first body to which you refer, or the first part of the Welsh Government to which you refer in your statement is the Welsh Government resilience team.
+
+Could we have, please, the organogram at page 10. Somewhere -- ah, yes, on the far left of the page, please, of the diagram, halfway down, Welsh Government resilience team. Although on this representative diagram the Welsh Government resilience team is shown as being outside the Welsh Government box -- the First Minister's box in the middle of the page, and the directorate for health and social services, the Welsh Government resilience team is, we presume, within the Welsh Government?
+
+**Dr Andrew Goodall**: It is within the Welsh Government and it helps the Wales Resilience Forum to co-ordinate its role, and works with the other agencies in Wales.
+
+**Lead Inquiry**: Is it within a directorate within the Welsh Government, or is it a self-standing separate entity?
+
+**Dr Andrew Goodall**: It's not self-standing, it's within one of our directorate structures.
+
+**Lead Inquiry**: Was it originally located within the community safety division in the human resources group and then transferred to the community safety division in local government, then moved to education and public services?
+
+**Dr Andrew Goodall**: Yes, that's correct, it stayed in consistent arrangements linked to the local government roles in particular, yeah.
+
+**Lead Inquiry**: Is it going to stay where it is now or might it move again, Dr Goodall?
+
+**Dr Andrew Goodall**: That team, including an expansion of that team as well, is still currently located within the same Director General arrangements, and is still associated around those public services and local government areas.
+
+**Lead Inquiry**: Do you think it likely that it will remain in the education and public services group and then within the sub, community safety division, or is it going to move again?
+
+**Dr Andrew Goodall**: It will be staying within those group arrangements.
+
+**Lead Inquiry**: All right.
+
+There is evidence before my Lady that that resilience team attempted to procure, or at least the Welsh Government attempted to procure additional resources and funding from the United Kingdom Government in order to better enable the Welsh Government to discharge those functions, which were transferred -- formerly being reserved functions -- to the Welsh Government under the (Transfer of Functions) Order 2018.
+
+Are you aware of whether or not those requests for further resources and funding to deal with these additional issues were successful?
+
+**Dr Andrew Goodall**: The transfer of responsibilities happened, but there was no funding that came across with those responsibilities from UK Government, so we had to review those arrangements ourselves at the time.
+
+**Lead Inquiry**: I believe there's a witness statement before my Lady from Mr Kilpatrick, who's a senior official in the Welsh Government, in which he compares unfavourably the amount of funding and the staffing levels for the Welsh Government resilience team to the analogous organisation in the Scottish Government.
+
+Does the Welsh Government acknowledge that that resilience team is, even by the standards of pre-pandemic and post pandemic civil contingencies planning, under-resourced and undermanned?
+
+**Dr Andrew Goodall**: It was under-resourced at the time, and it expanded and it has continued to expand, but there are lots of examples in our discharge of our responsibilities in Welsh Government where, irrespective of having a wide range of responsibilities, we still however remain a compact organisation. So I know at the time we did expand the resources for that team. They have subsequently been expanded on the back of experiences including, of course, during the pandemic itself.
+
+**Lead Inquiry**: I believe that in 2022 a new directorate was formed within the Welsh Government called the Risk, Resilience and Community Safety Directorate; is that correct?
+
+**Dr Andrew Goodall**: Yes, that's correct.
+
+**Lead Inquiry**: Are all resilience functions in the Welsh Government now within that single directorate, for the better purposes of transparency and accountability, or are they still diffusely arranged across the broad spectrum of the government?
+
+**Dr Andrew Goodall**: They are mainly located there but it doesn't remove the individual responsibilities that are held by ministers and also by directors general for other sectors across Wales. But, as an example, the Health Emergency Planning Unit would still be sat within the health structures as part of supporting the co-ordination of those responses, but that unit has expanded to include areas like cyber security, response, and does act now as the sort of expert facility within the organisation.
+
+**Lead Inquiry**: So there is now a primary risk and resilience directorate within the Welsh Government -- so that everybody may know, that is the directorate in charge generally of civil contingencies -- but in the context of health emergencies and civil contingencies, plainly there needs to be another body dealing with health resilience and emergency planning and that is elsewhere in the Welsh Government?
+
+**Dr Andrew Goodall**: Yes, we line manage the NHS in Wales and it would form part of those responsibilities, but of course there would need to be, you know, very close liaison and co-ordination in the Welsh Government context.
+
+**Lead Inquiry**: There is in Wales a Wales Resilience Forum, which was created in 2003, and I think at least at some stage chaired by the First Minister and made up of senior leaders or partners in the civil contingencies field in Wales, similar to what we've heard is the Scottish Resilience Partnership.
+
+Does that Wales Resilience Forum, which is obviously a wider body, still function?
+
+**Dr Andrew Goodall**: It does still function. Whilst there may on occasion be deputising arrangements for the First Minister, in my experience the First Minister has been the lead minister for that arrangement and has been a routine mechanism for meetings and discussions in Wales, in preparedness and planning mode.
+
+**Lead Inquiry**: Our genius technician has flagged up Wales Resilience Forum on the screen. Does that body give direction to another body called the Wales Resilience Forum -- sorry, does the Wales Resilience Forum give strategic direction to what is known as the Wales Resilience Partnership Team?
+
+**Dr Andrew Goodall**: The Wales Resilience Partnership Team are there to support the function of the Wales resilience fora, so it's where the civil servants are located who will act as the secretariat and who will oversee the arrangements by linking out with the wider system in Wales.
+
+**Lead Inquiry**: Can't it just be a single body, Dr Goodall?
+
+**Dr Andrew Goodall**: The Wales Resilience Forum --
+
+**Lead Inquiry**: Forum and the Wales Resilience Partnership Team; if that is simply the operational mirror of the strategic forum, do there have to be two separate bodies?
+
+**Dr Andrew Goodall**: The Wales Resilience Forum is a meeting which is supported by the team, so it discharges a range of responsibilities, but that is just the supporting team. But they do have a role beyond the secretariat: they of course act to link out to partners and agencies in Wales as well.
+
+**Lead Inquiry**: What, then, is the Wales Civil Contingencies Committee on the top right?
+
+**Dr Andrew Goodall**: The civil contingencies committee will actually meet in the early phase of an emergency response. Rather than being chaired by the First Minister or a designated minister, it will be chaired by a senior official, and that allows it to understand its responsibilities within a response phase of a major incident or an emergency planning issue.
+
+**Lead Inquiry**: So what's the difference between the Civil Contingencies Group, which is the box in the middle of the yellow box in the middle, and the Wales Civil Contingencies Committee?
+
+**Dr Andrew Goodall**: The Civil Contingencies Group establishes itself in the early stages of an emergency response. The Wales Civil Contingencies Committee is when the triggers have been identified and when we are moving into a proper emergency response, and it acts as a liaison point with Cabinet Office and the UK government arrangements, including, where needed, to give advice up to the COBR arrangements of course.
+
+**Lead Inquiry**: What, then, is the resilience steering group, which we may or may not have on the chart?
+
+**Dr Andrew Goodall**: The resilience steering group is just a smaller subset of colleagues. Because the Wales Civil Contingencies Committee inevitably involves a range of agencies and other colleagues around the table, it's just a small interface that allows the activities from that group just to be taken up to support some of the liaison as well. So the Wales Civil Contingencies Committee is a wider group of colleagues who act to give advice when we are in response mode.
+
+**Lead Inquiry**: Coming back to what you said earlier about, I don't know, the doctrinal or theoretical difference between preparedness and response, is this duplication of bodies in part the result of a need to be seen to be having a separate committee that deals with preparedness than that which deals with response?
+
+**Dr Andrew Goodall**: I mean, generally the approach is --
+
+**Lead Inquiry**: My Lady, this is the point that you'll recall Mr Mann and Professor Alexander addressed, what now seems some time ago.
+
+**Dr Andrew Goodall**: Yes, indeed. For example, the Wales Resilience Forum didn't have a role to discharge within the pandemic response because it was there to prepare and to bring agencies together under the auspices of the First Minister, but, yes, it's to separate out the preparedness from the response arrangements that are operationally occurring at the time.
+
+**Lead Inquiry**: There is, in the bottom left-hand corner, a body known as Scientific and Technical Advice Cell, STAC. Are you familiar with that body?
+
+**Dr Andrew Goodall**: Yes.
+
+**Lead Inquiry**: We believe that was set up or at least radically changed in July 2019. Why was that?
+
+**Dr Andrew Goodall**: Just to try and ensure that, whilst needing to rely on of course advice, science and advice and use the networks at the UK level, that there may well be areas and there were experiences that showed that there was a need to translate advice directly into the Welsh context. That wouldn't necessarily happen in every arrangement, but on the basis of the emergency that was under consideration, there may be the need to draw in some more specialist advice at that time, which is when those arrangements came into play.
+
+**Lead Inquiry**: But, Dr Goodall, we've heard evidence already this afternoon from Sir Frank Atherton, the CMO, who pointed out to my Lady that there is already a Chief Scientific Adviser for Wales, a Chief Scientific Officer in NHS Wales, a Chief Scientific Adviser, Health, within the Health and Social Services Group, Wales has the benefit of NERVTAG, any learning that comes from SAGE. Why was there a need for yet another body?
+
+**Dr Andrew Goodall**: To make sure that those experiences could be brought to bear and it would also allow us to use those science experts within Welsh Government as well. So it was just a connecting point, not on every occasion or for every emergency, but when needed.
+
+**Lead Inquiry**: But it has a secretariat, it requires funding, it requires people to fill the posts on that cell, and has it not in fact also transmogrified over time because there is now a tactical advice cell and a tactical advice group, both born from and having their genesis in the Scientific and Technical Advice Cell; is that correct?
+
+**Dr Andrew Goodall**: Yes, the technical advice cell that was introduced basically is in line with that particular mechanism and was able to discharge advice and support for the areas that were under consideration in Wales during the pandemic response and, yes, it did bring to bear that sort of closer understanding of modelling data and evidence in the Welsh context and in the context of discharging devolved responsibilities.
+
+**Lead Inquiry**: But Wales attends SAGE, so why wasn't SAGE and NERVTAG together sufficient? And, if it wasn't, why wasn't STAC sufficient? Why was there a need to have yet a third level of new bodies, the Technical Advisory Cell, TAC, and the Technical Advisory Group, in order to provide a forum for scientific and technical advice which was already being provided by Welsh Government advisers and available from UK entities?
+
+**Dr Andrew Goodall**: So Welsh Government had an observer status on SAGE, I know that changed over time and during the pandemic, which was helpful in clarifying some of the responsibilities. We did end up converting this arrangement into the technical advice arrangements in Wales through the pandemic response, and I do believe that that allowed us to understand the discharge of responsibilities in the Welsh context, not to recreate all of the SAGE mechanisms but to allow us to just simply translate the implications of that into the Welsh context, including the data and the evidence.
+
+**Lead Inquiry**: Finally, what is the difference between the Emergency Coordination Centre, which we understand is a Welsh Government -- well, as it says on the tin -- emergency co-ordination centre, and the Civil Contingencies and Incident Response Team?
+
+**Dr Andrew Goodall**: The emergency co-ordinating centre is a physical response which involves the co-ordination activities and is located within Welsh Government, and that can be set up fully or in part on a 24-hour basis if needed during any emergency response. But it is a physical entity. In our local resilience fora arrangements across Wales there are also physical locations where colleagues and staff do come together to actually oversee and co-ordinate the different activities.
+
+**Lead Inquiry**: But isn't that what the Civil Contingencies and Incident Response Team does? It comes together as an incident response team, and I read from your statement, to "[lead and facilitate] the Welsh Government's response to civil emergencies". Well, what's the difference?
+
+**Dr Andrew Goodall**: The ECC(W) is the physical establishment of the centre --
+
+**Lead Inquiry**: It's the building?
+
+**Dr Andrew Goodall**: It's the building --
+
+**Lead Inquiry**: Ah.
+
+**Dr Andrew Goodall**: -- plus where the desks and individuals will be sat, and discharges that co-ordinating focus within the building. So it's a physical establishment and was physical during the pandemic, irrespective of course of other virtual arrangements.
+
+**Lead Inquiry**: So is the short answer that the Civil Contingencies and Incident Response Team work in the Emergency Coordination Centre?
+
+**Dr Andrew Goodall**: Indeed.
+
+**Lady Hallett**: I think that's plenty for today.
+
+**Mr Keith**: My Lady, that's, I think, about as far as I think any of us can go today. Is that a convenient moment?
+
+**Lady Hallett**: That's plenty.
+
+I'm sorry we have to break off, Dr Goodall, but I think you're prepared for it.
+
+**The Witness**: No, my Lady, I understand.
+
+**Lady Hallett**: I shall return at 10 o'clock tomorrow, please.
+
+*(4.53 pm)*
+
+*(The hearing adjourned until 10 am on Tuesday, 4 July 2023)*
+
