@@ -1,0 +1,1843 @@
+Transcript of Module 1 Public Hearing on 5 July 2023
+====================================================
+
+*(10.00 am)*
+
+**Lady Hallett**: Good morning.
+
+**Mr Keith**: Good morning, my Lady. The first witness this morning is Dr Catherine Calderwood.
+
+Dr Catherine Calderwood
+-----------------------
+
+*DR CATHERINE CALDERWOOD (sworn).*
+
+*(Evidence via videolink)*
+
+Questions From Lead Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Could you please provide your full name.
+
+**Dr Catherine Calderwood**: Dr Catherine Jane Calderwood.
+
+**Lead Inquiry**: Dr Calderwood, thank you very much for your assistance in this Inquiry so far. As I ask you questions and you give evidence could you please remember to keep your voice up so that we may clearly hear you and also so that your evidence is recorded for the stenographer.
+
+You have kindly provided a witness statement, INQ000182605, to which you have appended your signature, and a statement of truth. Is that correct?
+
+**Dr Catherine Calderwood**: Yes, that's correct. Just before we begin, Mr Keith, I would like permission just to say a few words, if my Lady would allow that.
+
+**Lady Hallett**: Certainly.
+
+**Dr Catherine Calderwood**: Thank you. I just wish to express my sincere condolences, my Lady, to the bereaved families, both represented in the rooms and also in wider society. I'd also like to perhaps on this day, the 75th birthday of the NHS, to pay tribute to my NHS many friends and colleagues who worked tirelessly during the pandemic and of course for whom some suffered and have also lost their lives. Thank you.
+
+**Mr Keith**: Dr Calderwood, you were the Chief Medical Officer for Scotland between April 2015 and 5 April 2020, were you not?
+
+**Dr Catherine Calderwood**: Correct.
+
+**Lead Inquiry**: As the Chief Medical Officer, were you the most senior medical adviser to the Scottish Government and to NHS Scotland?
+
+**Dr Catherine Calderwood**: Yes, that's correct.
+
+**Lead Inquiry**: In essence, did that mean that you were the responsible officer for all of Scotland's 15,000 doctors, as well as an important part of the health and social care structure in Scotland because you reported to the Director General for Health and Social Care within the Scottish Government?
+
+**Dr Catherine Calderwood**: Yes, that's correct.
+
+**Lead Inquiry**: So were your duties owed, therefore, to the Scottish Government, to NHS Scotland, as well as, of course, to the doctors for whom you were the responsible officer?
+
+**Dr Catherine Calderwood**: So my duties were quite separate towards Scottish Government as an adviser, which then does not have the same level of responsibility as my duties as the responsible officer for -- to the General Medical Council for Scotland's doctors as their responsible officer.
+
+**Lead Inquiry**: All right.
+
+Could you just tell us something of the broad nature of the duties of the Chief Medical Officer in Scotland, in terms of the advice that you give to ministers, the responsibility that you carry, or carried, for public health and medical issues?
+
+**Dr Catherine Calderwood**: So I always would describe it to people as almost a translation service. What I felt that I did was took the science, took the medical advice, took the up-to-date clinical evidence, and described that in a way that politicians and ministers could understand, but that also was able to help them form policy.
+
+I also interacted, of course, with many civil servants from not only Health and Social Care but throughout Scottish Government, as health touches, as you know, on all aspects of society.
+
+So it was an advisory role, sometimes my advice wasn't taken, but very often it was, and I was able also to pull in advice from the other three nations in the UK, but also from a wider pool of scientific and medical advice across the world.
+
+**Lead Inquiry**: You've referred to your advisory role in relation to the production and promulgation of policy. Did you also provide clinical advice on medically related matters?
+
+**Dr Catherine Calderwood**: Yes, of course.
+
+**Lead Inquiry**: Were you in fact or did you continue to be concerned in clinical practice right up to the onset of the pandemic in November 2019, alongside your duties as Chief Medical Officer?
+
+**Dr Catherine Calderwood**: Yes, that's correct. I continued to do an antenatal clinic as a consultant obstetrician until that time.
+
+**Lead Inquiry**: Does the CMO also play a role in relation to giving advice on research or for the future development of the medical structures and the clinical structures in Scotland?
+
+**Dr Catherine Calderwood**: The close relationship with my Chief Scientist has -- means that the CMO office holds the budget for the research and development within NHS Scotland. So yes, there is a responsibility there, and there is scientific advice that's readily available but also funding for that research and development in NHS Scotland.
+
+**Lead Inquiry**: We've heard evidence that there is in England an Office of the Chief Medical Officer. Is there an analogous directorate or entity or body of people around the Chief Medical Officer in Scotland?
+
+**Dr Catherine Calderwood**: So it would be a very small office: myself, at that time, one Deputy Chief Medical Officer, who at that time was Gregor Smith, and then we had personal assistants and perhaps three members of staff, not all of whom were full-time. So a very small team -- and a clinical leadership fellow who was a doctor in training who came to have some experience working with us.
+
+**Lead Inquiry**: Is that Professor Sir Gregor Smith, who became acting CMO after you, and then full-time or full CMO in December 2020?
+
+**Dr Catherine Calderwood**: That's correct.
+
+**Lead Inquiry**: In terms of the working relations with other parts or other persons in the world of medicine and public health, what links did you have and how frequently did you discuss relevant matters with the other Chief Medical Officers in the United Kingdom?
+
+**Dr Catherine Calderwood**: So we had a very, very good relationship. There was a -- formal and informal meetings on a very regular basis throughout the year. We tended to have dinner the night before and we also then had an informal part to that more formal meeting when we discussed matters that affected all four countries. But in between those meetings I would be very easily able to lift the phone to any of the other CMOs to ask advice or because there was something that I knew they had already experienced in their own country that I wanted to talk to them about, and we did that extremely frequently.
+
+**Lead Inquiry**: What about directors of public health, to what extent does the position of the Chief Medical Officer engage with them?
+
+**Dr Catherine Calderwood**: In Scotland I was very keen, as CMO, to have a very good relationship with them. There are directors of public health in all of our health boards. I met with them very regularly but also would have interacted with them frequently by telephone or email should there be issues within their health boards that arose. So, again, I got to know them as individuals and they would have, I hope, felt they could have lift the phone to me for advice should that be needed.
+
+**Lead Inquiry**: What about the local authority levels, so links to local resilience partnerships, the important bodies which exist at local level to plan for and then respond to emergencies?
+
+**Dr Catherine Calderwood**: I didn't have personal relationships with the local authorities but would have been able to interact with them through those directors of public health, who of course worked very closely with the local authorities.
+
+**Lead Inquiry**: May I then turn to the question of the strategy which underpinned the approach from all four nations to influenza preparedness, namely the UK influenza preparedness strategy of 2011.
+
+To what extent were you aware of that strategy document as CMO, and of the doctrinal thinking in the approach which underpinned it?
+
+**Dr Catherine Calderwood**: I came into position some years after it was written. Had I needed to find it, I would have known who to ask and which parts of government were responsible, but I myself had no real detailed knowledge or understanding of that document while I was CMO.
+
+**Lead Inquiry**: Whilst you were CMO, do you recall any debate about the need to revise that document, bring it up to date, redraft it?
+
+**Dr Catherine Calderwood**: No, I don't recall.
+
+**Lead Inquiry**: Could we have on the screen, please, document INQ000148759. This is a draft document prepared by the Scottish Government for consultation in July of 2019, and I just wanted to ask you, Dr Calderwood, whether or not you had contributed to this draft:
+
+"Influenza Pandemic Preparedness.
+
+"Guidance for Health and Social Care Services in Scotland."
+
+There is evidence that, having been prepared, the publication of this document was delayed by the onset of the pandemic itself, of course, and therefore it never reached fruition.
+
+Are you aware of that document? Did you contribute to it at all?
+
+**Dr Catherine Calderwood**: So I am aware of that document. I didn't contribute myself as an individual directly, but there were various members of the civil service and others who would have been delegated to be part of that. But no, myself I was not personally involved.
+
+**Lead Inquiry**: Do you recall any debate from the position of the CMO about the wisdom of Scotland devising its own influenza preparedness strategy and therefore departing from the UK strategy, particularly that of 2011?
+
+**Dr Catherine Calderwood**: I was not party to any debate of that nature, no, I don't recall being part of that.
+
+**Lead Inquiry**: Turning to SAGE, the scientific advisory group about which the Inquiry has received a great deal of evidence already. There was, at the onset of the pandemic, no Scottish SAGE, was there?
+
+**Dr Catherine Calderwood**: No, that's correct.
+
+**Lead Inquiry**: The SAGE which convened in London was a body which could be convened by the governmental Chief Scientific Adviser and it is generally chaired by the governmental Chief Scientific Adviser or, if it has been convened to deal with a health emergency, jointly by the governmental Chief Scientific Adviser and the Chief Medical Officer.
+
+Is that a body from which the Scottish Government and its own advisers may draw intelligence and learning and whatever it is that they need to be informed about?
+
+**Dr Catherine Calderwood**: Yes, absolutely. I think that was a committee that I would have been aware of. There would -- there were Scottish representation -- or Scottish invitations to that. I think in quieter times the flow of information from that committee was very good, but as we got into the pandemic with very regular meetings, very regular remote calls with Scotland dialling in to those, that communication became much more difficult because that was based and London and Scotland was not fully part of that.
+
+**Lead Inquiry**: You attended, therefore, some of the SAGE meetings as the pandemic struck?
+
+**Dr Catherine Calderwood**: Correct.
+
+**Lead Inquiry**: Did you find that an easy form of communication? Were there difficulties in, literally in hearing what was being said and in understanding the flow of the information which was being fed into that committee and then being relayed out of it?
+
+**Dr Catherine Calderwood**: Yes, very much so. Unfortunately there were a large number of people dialed in to meetings. Of course our infrastructure for remote working was nothing like it is now, and so we would -- I would have attended or my deputy attended or -- with several other people from Scotland. But very often the quality of the line was poor, it dropped out very frequently, and there was often not really a fully fluent read-out from some of those very important meetings in the early days of the pandemic.
+
+**Lead Inquiry**: What other scientific posts or medical posts are there within the Scottish Government which may provide advice to the government in the event of a public health emergency?
+
+**Dr Catherine Calderwood**: We have our Health Protection Scotland colleagues, now within Public Health Scotland, and I had my -- the Chief Scientific Officer, with whom I've described a very good relationship. He, Professor David Crossman, latterly followed on from Professor Andrew Morris, had very -- both of them had very good networks which extended across the UK and beyond and were, therefore, very, very solid and robust advisers to me, and to the rest of government.
+
+**Lead Inquiry**: Are there also healthcare and scientific advisers within the Health and Social Care Directorate within the Scottish Government?
+
+**Dr Catherine Calderwood**: So there is an overall Chief Scientist in Scotland and then there is Chief Scientist, Health, and the second Chief Scientist for the environment.
+
+**Lead Inquiry**: Is there a science advice team within the Health and Social Care Directorate also?
+
+**Dr Catherine Calderwood**: So within the Chief Scientist office there was a small team which sat on various committees. A lot of those, though, would have been outside Scottish Government and actually placed within the NHS.
+
+**Lead Inquiry**: We have before us an organogram which sets out some of the public health and civil contingencies bodies in the Scottish set-up. Two such bodies are the Scottish Science Advisory Council and, although I'm not sure the second one is actually on the screen, the Scottish Health Protection Network: Infectious Diseases sub-group. Were they bodies with which you were familiar and with which you worked as CMO?
+
+**Dr Catherine Calderwood**: It's very small on the screen, but listening to what you said, I would have worked with them either directly or indirectly, yes.
+
+**Lead Inquiry**: All right. Did there come a point in March of 2020 when you appreciated that the source of scientific and medical advice from SAGE -- or particularly, I should say, scientific advice from SAGE was inadequate for the purposes of the Scottish Government, in part for the practical reasons which you've identified, and therefore you set up, together with a colleague, Professor Andrew Morris, the Chief Scientific Adviser, a new group, the Covid-19 Advisory Group?
+
+**Dr Catherine Calderwood**: Yes. So just to be clear, Professor Andrew Morris had been my Chief Scientist prior to the current Chief Scientist at the time, so I went back to my colleague, Andrew Morris, and asked him to set up a Covid-19 Advisory Group for Scotland, that's correct, in March 2020.
+
+**Lead Inquiry**: What was the membership of that group?
+
+**Dr Catherine Calderwood**: He pulled together a very wide-ranging group of people, actually, which in fact, and at my insistence, some of those people were people who had been quite openly, particularly in social media, critical of some of the responses to the pandemic up until that point, and I was very keen to have a very broad range of people, not just to have people who agreed with the government and the current thinking. I think that to be challenged and to have the opportunity for lively and -- particularly lively scientific debate is very important.
+
+**Lead Inquiry**: Turning to the risk assessment process in Scotland, the evidence shows that whilst at UK level there is, now, an NSRA -- a National Security Risk Assessment -- process, that document and that process is recalibrated for Scottish purposes and from that process is drawn a Scottish Risk Assessment. Do you recall, as the CMO, having a hand in the drawing up, the drafting of that Scottish Risk Assessment?
+
+**Dr Catherine Calderwood**: I would have been aware of that Scottish Risk Assessment but I did not have any hand in drawing that up, no. That would have been for civil servants.
+
+**Lead Inquiry**: Are you surprised that, as the CMO, you weren't approached for your views in relation to how risks relating to health emergencies should be identified, managed and dealt with?
+
+**Dr Catherine Calderwood**: I'm tempted to say a number of things in government surprised me, Mr Keith, but the -- on reading that risk assessment more clearly now, and with the benefit of hindsight, yes, I think that the CMO should not just have been copied in to documents of that sort of nature.
+
+**Lead Inquiry**: You would expect now that the CMO is directly invited to comment on the substance of that process?
+
+**Dr Catherine Calderwood**: Very much so.
+
+**Lead Inquiry**: All right.
+
+Exercise Iris in 2018 was an exercise with which you were familiar. It was a one-day tabletop exercise conducted in Scotland, and you refer to it in your witness statement at paragraph 7.
+
+To what extent were the recommendations which came out of Exercise Iris implemented; do you recall?
+
+**Dr Catherine Calderwood**: So I have had a chance to look at those, and my understanding is that several -- whilst several recommendations were implemented, there were several that were not, and then, perhaps ironically, some of those were in fact not continued with because staff were taken away from that implementation process in order to move into Covid-19 pandemic work.
+
+**Lead Inquiry**: There were 13 actions which came out of Exercise Iris. Do you recall which of them, in broad terms, were the ones that were not ultimately implemented?
+
+**Dr Catherine Calderwood**: The most important ones I believe, if I'm remembering correctly, were the information to boards about PPE and the distribution and also the fitting of FFP3 masks, and the encouragement that health boards would ensure that staff -- that they had not only had supplies of PPE but they also had done FFP mask fitting.
+
+**Lead Inquiry**: Exercise Iris was designed to test Scotland's readiness for a MERS coronavirus outbreak. Do you recall whether or not those actions which came out of the exercise which were concerned with the drawing up of guidance for the HCID that is MERS coronavirus were dealt with? Do you recall whether that was an area that was also not fully implemented?
+
+**Dr Catherine Calderwood**: In my subsequent -- I wouldn't recall at the time, but in my reading subsequently, that's correct, that those -- that guidance was not fully implemented.
+
+**Lead Inquiry**: I want to ask you some questions now, please, about your understanding generally of the United Kingdom science advisory system and the scientific and research base from which we benefitted on the onset of the pandemic.
+
+Is it your view that, in order to be as well prepared as we may be for the future, it's vital that our research base, our scientific advisory structure, is not unravelled in any way, but is maintained in order to prepare for the next pandemic?
+
+**Dr Catherine Calderwood**: I think that there are many things that we have learned already in what was done: our extraordinary vaccine production in this country, our incredibly rapid assimilation of data, of studies that have continued, and our much, much better co-operation and collaboration across the UK but also, very importantly, with other countries across the world. There is, and there is already in my view, a tendency to move back to type, and that is happening to some extent within the NHS already, so that some of the improvements that were made and practical changes are gradually already slipping back to the old ways. I think it would be of paramount importance that we do not slip backwards in those scientific advances that you have discussed, in particular those -- the data collection, the digital infrastructure, the innovation and the co-ordination and, in particular, collaboration with other countries, because certainly my feeling is that we didn't learn from countries where SARS and MERS had been an issue, we were late and slow and there wasn't a co-ordinated or formal way in which to communicate with other countries where we could have learned more rapidly.
+
+So to untangle that -- or, sorry, unravel that at this stage, I think would make a big difference in our -- to our detriment if there was to be another pandemic.
+
+**Lead Inquiry**: Just identifying and looking for a moment at each of those broad areas, Dr Calderwood, in relation to data, it's apparent that during the course of the pandemic a significant number of very sophisticated data gathering exercises or processes were put into place, from the SIREN study of healthcare workers, the ONS COVID-19 Infection Survey, the Vivaldi survey in relation to care homes, there was then also the COVID Symptom Study, there was the whole process by which the RECOVERY Trial process was put in place which led to the discovery of the benefits of dexamethasone.
+
+Are those surveys or at least the structures which underpin those surveys and that trial work being started to be unravelled or are they all still in place, do you know?
+
+**Dr Catherine Calderwood**: I would sincerely hope they are all still in place. I don't know the detail. I wouldn't be close enough to say if there's a concern there about those being unravelled.
+
+**Lead Inquiry**: All right. You mentioned research and the research base in the United Kingdom. What about the clinical advances which have been made? Presumably the clinical developments which took place during the course of Covid are still in place, because that learning and that knowledge continues to exist. Is there anything you want to say about that aspect of it?
+
+**Dr Catherine Calderwood**: I think that even us here speaking remotely, that has been a huge advantage to people being able to be consulted. If you look at a country like Scotland, with a lot of long distances for people to travel, that's made a huge difference. The risk -- risks that we believed in not seeing people face to face have probably to some extent been mitigated against, and I would like to see that our advances that we've done, both in this sort of remote working but also in some of the less invasive testing that can be done and interpreted remotely, that we continue in our NHS to use where we were forced, I suppose, into situations by the pandemic, that actually some of these have ended up being huge improvements in patient care, and that those continue.
+
+**Lead Inquiry**: It is obvious that, along with all your colleagues, one of the greatest problems faced by scientists and healthcare specialists and administrators during the onset of the pandemic was the need to scale up the diagnostic testing and the contact tracing systems in light of the pandemic. Practically, what capabilities, in your view, need to be maintained to ensure that in future there can be a much better process by which our facilities and our procedures can be scaled up to deal with the likely numbers from the next severe pandemic?
+
+**Dr Catherine Calderwood**: I suppose if -- and if I can give you then the example I've alluded to, are other countries. So eventually, in March of 2020, I had a very, very helpful meeting with the Chief Medical Officer of Singapore, who I happen to know, so that was through an informal contact. He and many of his staff and our staff in the Scottish Government met together remotely, and what really struck me was that they had had a taskforce which had sat dormant following their outbreaks -- outbreak of SARS, and that taskforce had within it the capabilities similar to what you are discussing here. They were able to immediately mobilise that and did so way back in November 2019. It is that sort of example and that sort of, I suppose, capability that we could easily keep dormant, that we could easily have exercises that enabled those to be immediately re-instigated and that the capabilities could then be spread, mitigating, to some extent, against another pathogen which spreads as rapidly as Covid-19.
+
+**Lead Inquiry**: In your field of clinical medicine, how does one ensure that healthcare specialists and the health system remains well prepared for a future unknown contingent hazard whilst at the same time having to deal with the more immediate, the more practical day-to-day demands and health emergencies which all clinicians are faced with? How can you keep the system at a high state of readiness when it has to deal with the day-to-day reality of running a healthcare system? How do we deal with that?
+
+**Dr Catherine Calderwood**: I think that's extremely, extremely difficult. Our NHS is at the moment working at or if not beyond full capacity at all times. If you take my own area, the labour ward, the babies keep coming, day and night, and we don't have the luxury of saying, "There's going to be an exercise, we're going to send six of you for mask fitting", for example. We haven't got the luxury of being able to have six spare midwives who could then go off to do that exercise. What we do do is exercises that are relevant and pertinent to the emergencies that might happen on a labour ward. Very engaged staff, those drills happen extremely frequently because we need to be slick, but it's very difficult, without increased capacity within the NHS, to think how we could ever have exercises that would be -- well, able to free up staff for a start, but also that we would be able to run exercises where staff could become engaged, because they are unable, certainly at the moment, to leave work that is prescient and the emergencies that are sitting facing them that minute, that day, especially when it's something that's, one, an unknown, and, secondarily, the timing is unknown. To engage people in something that may or may not happen in several years' time is always going to be very, very difficult in a hard-pressed system.
+
+**Lead Inquiry**: As the CMO, Dr Calderwood, you must have given that conundrum a great deal of anxious consideration.
+
+**Dr Catherine Calderwood**: Absolutely.
+
+**Lead Inquiry**: You are, of course, aware of the need to ensure that Scotland was prepared for whatever health emergency might eventuate for pandemic outbreak and so on and so forth. Where does the answer lie? Is it in having an obvious, clear, transparent process by which the right people are made to exercise and to train for the relevant and correct future risks?
+
+**Dr Catherine Calderwood**: Again, if I take you back to Singapore, they have some flex in the system. There's some slack, some flex, so that the taskforce -- which is run by different people with different skills, but that there would then be exercises, who would be able to take, for example, midwives from the labour ward, because not every midwife is needed at every second for their own emergencies.
+
+So I think the planning there and the potential needs to be built into our capacity in the NHS in Scotland.
+
+**Mr Keith**: Thank you very much.
+
+My Lady, you have you've granted permission --
+
+**Lady Hallett**: Just before you do, I just have one question.
+
+**Mr Keith**: Yes, I'm so sorry.
+
+Questions From The Chair
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Dr Calderwood, you mentioned that there's a tendency to slip back into old ways, and I think you suggested there were examples of it happening in the NHS. Do you have any examples of where, instead of learning from the pandemic, we've slipped back into old ways?
+
+**Dr Catherine Calderwood**: So, for example, in the pandemic 60% of orthopaedic outpatients were either not done at all in fact or done remotely. That suited everybody. It suited the patients, who didn't want to come to hospital just to be told they were all right, because they already knew they were all right, and it also suited the hospital capacity. We're already seeing signs of the, "Well, we'll just see them this once", or ... so there's a drift where actually we had -- risks were mitigated against, people could telephone if they were concerned, it wasn't that people weren't being seen who needed to be, and I see that that gradual drift will move into other areas. But it's already happening.
+
+**Lady Hallett**: Thank you.
+
+**Mr Keith**: My Lady, you've granted permission to Covid-19 Bereaved Families for Justice United Kingdom to ask five minutes' worth of questions, and five minutes also to Scottish Covid-19 Bereaved Families for Justice.
+
+**Lady Hallett**: Thank you.
+
+**Mr Keith**: Two topics.
+
+**Lady Hallett**: Ms Munroe.
+
+Questions From Ms Munroe KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Munroe**: Thank you, my Lady.
+
+Dr Calderwood, can you hear and see me?
+
+**Dr Catherine Calderwood**: I can hear you, I can't see you at the moment, no. I can see you now.
+
+**Ms Munroe KC**: Thank you very much. My name is Allison Munroe and I ask questions on behalf of Covid-19 Bereaved Families for Justice UK. Just a few questions, please, Dr Calderwood, in relation to data collection and analysis in Scotland.
+
+Now, to put those into context for you, the Inquiry has heard some evidence already about the importance of data collection, in particular from professors Sir Chris Whitty and Sir Patrick Vallance. I don't know, Dr Calderwood, have you had an opportunity to see or read their evidence?
+
+**Dr Catherine Calderwood**: No, I'm afraid I haven't.
+
+**Ms Munroe KC**: Well, literally in a few sentences, the important takeaways for Professor Sir Patrick Vallance were that data is important for decision-making, ie the planning phases, and that the paucity of data at the start of the pandemic led to problems, "you were flying more blind than [one] would [like] to", and for both of them an important takeaway was that the gathering of basic data, such as how many people are in hospital and how many are in intensive care, assist in order to evaluate the spread and who is likely to be most at risk, and that is of fundamental importance during the course of a pandemic.
+
+Would you agree with all of that?
+
+**Dr Catherine Calderwood**: It's absolutely true to say that our data was -- there was a paucity of data, absolutely, and that very, very clear -- at the beginning, when we were struggling with our decision-making, that lack of data really, really affected how rapidly and also how effectively we could make those decisions.
+
+**Ms Munroe KC**: Thank you.
+
+Professor Woolhouse, who will be giving evidence in fact later today, makes reference to the Early Pandemic Evaluation and Enhanced Surveillance of Covid-19, better known as the EAVE study, which was led by Professor Aziz Sheikh, at Edinburgh University. He references that, Professor Woolhouse, in his statement, saying that it was one of the notable success stories that came out of the pandemic, and that effectively Professor Aziz and his team linked demographic and near realtime clinical data from almost the entire population of Scotland and monitored it on a daily, weekly basis, looking at the progress of Covid, and evaluated the effectiveness of therapeutic interventions in approximately 5.4 million individuals registered in general practices across Scotland.
+
+Professor Woolhouse also says this, though, at paragraph 21 of his statement, and there is no need to bring it up:
+
+"Issues with data access had been raised repeatedly by me and others prior to 2020. For example, as part of a correspondence with the office of the then CMO Scotland, I wrote in May 2018: 'My personal view is that the system for accessing health data in Scotland is terminally dysfunctional ... This is a hugely disappointing state of affairs and one that urgently needs attention. I dread to think of the consequences if we ever find ourselves facing a health emergency such as pandemic influenza'."
+
+Dr Calderwood, do you accept that Professor Woolhouse repeatedly raised that particular issue before 2020?
+
+**Dr Catherine Calderwood**: I'm interested to hear of that email. I'm afraid at the moment I don't recall receiving and reading that, but I would be absolutely very, very happy to have that email looked at and see what my response to that was at the time and what actions I took when Professor Woolhouse wrote to me.
+
+**Ms Munroe KC**: That sort of answers my next question, then, whether it had been raised personally with you. You don't recall the email; do you recall any occasions when Professor Woolhouse raised this issue personally with you?
+
+**Dr Catherine Calderwood**: Professor Woolhouse emailed in, I think, February of 2020 and did visit me personally in my office, I think in February or March 2020, I do recall those meetings.
+
+**Ms Munroe KC**: Was this issue of data, the paucity of data collection and analysis, raised with you, and if so what was your response?
+
+**Dr Catherine Calderwood**: I don't recall the specifics of the paucity of data being raised. I do recall that he talked to me about modelling of the coronavirus and what that -- effects that might have in the community and how we might need to react to it.
+
+**Ms Munroe KC**: Thank you.
+
+Finally, then, another reference, Professor Crossman, you've mentioned him already today. My Lady, for reference purposes, we don't need to bring it up, but his statement is INQ000185342, paragraph 14 of that statement, Professor Crossman says that data collection and analysis was distributed between Public Health Scotland, Scottish Government analysts and the Chief Statistician in Scotland, and he suggests that "a single unified data source for information, analysis and research might be a desirable aim".
+
+My question, Dr Calderwood, is this: to what extent was this issue of data collection and analysis considered prior to the formation of Public Health Scotland?
+
+**Dr Catherine Calderwood**: So, again, I wouldn't have been personally involved in those conversations but I have to say that I agree with Professor Crossman, and one of the frustrations I think, as CMO, and in talking to him, was that complexity of data access and data collaboration in a small country. We should be able to use, as you've quite rightly illustrated with the EAVE study -- and which then of course was very rapidly mobilised into the EAVE II study -- and I know that was a frustration not only from myself and my Chief Scientist at the time but from many people in research and development in the NHS in Scotland.
+
+**Ms Munroe**: Thank you very much, Dr Calderwood.
+
+My Lady, thank you, those are my questions.
+
+**Lady Hallett**: Thank you very much, Ms Munroe.
+
+Ms Mitchell.
+
+Questions From Ms Mitchell KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Mitchell**: My Lady, I hesitate to contradict my learned friend, but I think we have been given ten minutes. I don't think we'll take that long, but lest anyone thinks that I'm overstaying my welcome asking questions.
+
+Dr Calderwood, can you hear me and see me?
+
+**Dr Catherine Calderwood**: Yes, I can, thank you, Ms Mitchell.
+
+**Ms Mitchell KC**: Dr Calderwood, in your statement, we don't need to bring it up, but for purposes of the record it's INQ000182605, page 3, paragraph 8, you say:
+
+"These regular pandemic preparedness exercises are key policies in this context and formed the roadmap for dealing with a pandemic. These policies were part of a four-nation approach to the threat of a pandemic to ensure that expert knowledge and experience was shared across the four nations ..."
+
+Now, what I want to ask you about really is two particular areas of the four nations approach. One, the experience and the sharing of that experience; and, two, the sharing of expert knowledge.
+
+First, I understand from reading the disclosure that you delegated Professor Sir Gregor Smith, the Deputy CMO, to attend Exercise Cygnus; is that correct?
+
+**Dr Catherine Calderwood**: Yes, that's correct.
+
+**Ms Mitchell KC**: Presumably, given the importance of that, after he went to that he would come back and debrief you, talk about the issues, that sort of thing?
+
+**Dr Catherine Calderwood**: So that's not my recollection, Ms Mitchell. What -- with the CMO, I suppose, the delegation to somebody as competent as Professor Sir Gregor Smith, had there been any particular issues or concerns I would have expected to have a briefing on that, but when I was delegating him to attend such a meeting, I would not necessarily have had a detailed read-out, no.
+
+**Ms Mitchell KC**: Do you recall any issues being raised with you in that manner?
+
+**Dr Catherine Calderwood**: I don't, no.
+
+**Ms Mitchell KC**: I wonder if we can have a look at, on the screen, Inquiry statement INQ000006210 and that's a one-page document.
+
+I'm just waiting until it comes up on the screen.
+
+**Dr Catherine Calderwood**: Could I have that zoomed a little larger? I can't see that. Thank you.
+
+**Ms Mitchell KC**: Yes, certainly.
+
+**Dr Catherine Calderwood**: Thank you.
+
+**Ms Mitchell KC**: What I'm going to ask you to look at is the paragraph which starts:
+
+"Whilst DAs found the discussions on the escalation ..."
+
+Thank you very much, it's been highlighted for you.
+
+"Whilst DAs found the discussions on the escalation of contingency plans useful, there was a feeling that the issues raised, particularly in population-based triage, were rushed and not widely shared prior to the exercise. As a result, DAs felt they were not able to contribute as much as they would have liked."
+
+Now, this is a document which is a Civil Contingencies Secretariat round table with devolved administrations post Exercise Cygnus. Do you recognise any of the views shared there in respect of Exercise Cygnus?
+
+**Dr Catherine Calderwood**: Not in respect of Exercise Cygnus, no, I don't, Ms Mitchell.
+
+**Ms Mitchell KC**: Would you have expected that to be shared with you, had it been the view of those representing Scotland, ie Professor Sir Gregor Smith?
+
+**Dr Catherine Calderwood**: So if I may answer with a slightly longer ... so sometimes these large four nation meetings, with a lot of people attending them, and depending on how many people are in the room or how much is done remotely, I think that that sentence about the DAs feeling that they couldn't contribute or that there was rushed ... what's the word? That there was rushed -- a shorter time left for the DAs often at the end of the meeting or that they didn't feel always that they would have their voices heard. So that is my experience of some, not all, very much not all, of some meetings of this nature.
+
+I don't, as I've said already, recall this specifically, reading this or this being alerted to me about Operation Cygnus, no.
+
+**Ms Mitchell KC**: Thank you.
+
+Moving on, we've heard about your close working relationship with the CMOs for the nations. I want to ask you about sharing expert knowledge with the devolved administrations in relation to Exercise Cygnus.
+
+I wonder if I could have on the screen INQ000006129, Inquiry document. This is a COBR meeting notice, and in that at bullet point 4 it was noted that:
+
+"Public Health England and GO-Science to share modelling on the projected use of antivirals with the Devolved Administrations."
+
+Were you aware of that sharing process going to happen?
+
+**Dr Catherine Calderwood**: No, I'm not aware of the detail.
+
+**Ms Mitchell KC**: Okay.
+
+We've heard that you've given indication of practical difficulties in communication with SAGE, literally our wifi, which even in this Inquiry doesn't seem to have necessarily held up so well from Scotland.
+
+What I would like to know, Dr Calderwood: was there a formal system for sharing the knowledge and information, to share that expertise and knowledge, as between the UK and devolved administration?
+
+I understand you had a good relationship with other CMOs, but what I'm wondering was: was there a structure underlying that where we could be sure we were getting the relevant information?
+
+**Dr Catherine Calderwood**: I do believe so. So I believe that after these sort of UK exercises that civil servants would have taken that, the outputs, and those would be shared with civil servants in the other nations, yes.
+
+**Ms Mitchell KC**: Were you the recipient of that sharing?
+
+**Dr Catherine Calderwood**: I may have been copied in, I may not have been, I'm afraid I don't recall.
+
+**Ms Mitchell**: No further questions.
+
+**Lady Hallett**: Thank you very much, Ms Mitchell.
+
+Thank you very much, Dr Calderwood, thank you for joining us.
+
+**The Witness**: Thank you.
+
+*(The witness withdrew)*
+
+**Mr Keith**: My Lady, the next witness is Professor Jim McManus, please.
+
+Professor Jim McManus
+---------------------
+
+*PROFESSOR JIM McMANUS (sworn).*
+
+Questions From Lead Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Good morning. Could you give the Inquiry your full name, please.
+
+**Professor Jim McManus**: My name is Jim McManus.
+
+**Lead Inquiry**: Mr McManus, you have provided a statement, INQ000183419, to which you have appended your signature and signed the declaration of truth. Is that correct?
+
+**Professor Jim McManus**: That is correct.
+
+**Lead Inquiry**: Professor, thank you for your assistance.
+
+You have provided that statement. The Association of Directors of Public Health of which you are the president is a core participant in these proceedings, and you've also very helpfully provided for a survey, which was requested in the January of this year, to be sent to Directors of Public Health and the results of that survey have been communicated to the Inquiry, and for that we are very grateful to you.
+
+You're giving evidence today because, as I say, you are the president of the ADPH. Is that body the representative body for directors of public health in the United Kingdom?
+
+**Professor Jim McManus**: Yes, that's correct, we represent the professional voice of directors of public health.
+
+**Lead Inquiry**: Does every director of public health have the right to be a member of your association?
+
+**Professor Jim McManus**: Yes.
+
+**Lead Inquiry**: Does that include deputy directors of public health and consultants or just directors of public health?
+
+**Professor Jim McManus**: Deputy directors and consultants can become associate members. They don't have quite the full rights of members but they do have access to training and policy advice and the other services we provide.
+
+**Lead Inquiry**: Roughly how many members are there in the ADPH?
+
+**Professor Jim McManus**: We have about just under 200 full members and not quite the same level of associate members. The detail is in our pack, which I can refer to, but that's about that number.
+
+**Lead Inquiry**: That's all right, we only wanted the broad number.
+
+The association doesn't, and this is the relevancy of my question, represent, for example, local authority officers generally or local resilience forums; you are, as it says on the tin, concerned with directors of public health?
+
+**Professor Jim McManus**: Yes, absolutely.
+
+**Lead Inquiry**: All right.
+
+Directors of public health are individual trained, accredited, registered specialists in public health, are they not?
+
+**Professor Jim McManus**: Indeed.
+
+**Lead Inquiry**: The first Medical Officer of Health in the United Kingdom, according to your witness statement, was appointed in 1847 in Liverpool?
+
+**Professor Jim McManus**: That's right, yes.
+
+**Lead Inquiry**: So they have a long and glorious history in these islands.
+
+Could you just tell us, please, today what their primary functions are, with reference to their statutory position in a local authority, their responsibility for the health of the community, and also dealing with outbreak management, so with those three pillars in mind.
+
+**Professor Jim McManus**: So in England directors of public health are placed in upper tier local authorities, that's county councils and unitary authorities, and they have a set of responsibilities including assessing the health needs of the population, advising the NHS and the local authority on commissioning functions, they have a series of commissioning responsibilities for services like sexual health, drugs and alcohol, and a variety of other things. There's about 142 individual things that they do. They also have functions in terms of health protection planning and assurance, and they have a duty to be assured and to assure the Secretary of State that the health protection system is working. They also have a duty to improve and protect and promote the health of the population which they serve.
+
+**Lead Inquiry**: So just to pause for a moment on some features of those functions, they are what is known as the statutory chief officer in a local authority, and you've just referred to upper tier local authorities; are directors of public health located in what is known as upper tier local authorities, and they have been, I think, since around about 2013, does that mean county councils, unitary authorities, metropolitan councils and London boroughs?
+
+**Professor Jim McManus**: Yes, correct, and that's in England. In Wales and Scotland they're in the NHS and Northern Ireland they're in the Northern Ireland public health service.
+
+**Lead Inquiry**: We'll come to them in a moment.
+
+**Lady Hallett**: More slowly, please.
+
+**Mr Keith**: In relation to England, that is where they operate?
+
+**Professor Jim McManus**: Yes.
+
+**Lead Inquiry**: They are not, so that we may be clear, environmental health departments, they are statutory directors of public health, and they're also not public health consultants within the NHS, the NHS has its own public health structures?
+
+**Professor Jim McManus**: That's correct. What you may find, because directors of public health have a duty to advise the NHS, many of us may have honorary contracts with the NHS where we advise the NHS.
+
+**Lead Inquiry**: Right.
+
+**Professor Jim McManus**: And apologies for speaking too fast.
+
+**Lady Hallett**: Don't worry, lots of us do it.
+
+**Mr Keith**: You may speak louder, however, if you wish.
+
+Are there around 350 directors of public health in England?
+
+**Professor Jim McManus**: There's about 151 in England in terms of local authority chief officers in every local authority. The 350 number is more like to be environmental health officers.
+
+**Lead Inquiry**: Ah.
+
+**Professor Jim McManus**: Because you will find environmental health officers are in district councils -- chief environmental health officers are in district councils as well. It can be confusing, I appreciate that.
+
+**Lead Inquiry**: In Scotland, do the directors of public health sit within the Scottish Government, local authorities or NHS boards?
+
+**Professor Jim McManus**: NHS boards.
+
+**Lead Inquiry**: How many are there of them in Scotland?
+
+**Professor Jim McManus**: There's one for each NHS board, so that would be eight, if I remember the number of NHS boards correctly.
+
+**Lead Inquiry**: Then, separately, there are a number of environmental health functions which are discharged within the local authorities, but that's not the matter -- the concern of directors of public health?
+
+**Professor Jim McManus**: Correct.
+
+**Lead Inquiry**: Then in Wales, where does the director of public health sit?
+
+**Professor Jim McManus**: Again, they sit in local health boards, so the seven local health boards in Wales, rather than the 22 Welsh unitary authorities.
+
+**Lead Inquiry**: Northern Ireland, how many directors of public health are there?
+
+**Professor Jim McManus**: One in the Northern Ireland public health service.
+
+**Lead Inquiry**: So in Northern Ireland, the sole director of public health is not attached to a local authority but sits within the public health structure generally?
+
+**Professor Jim McManus**: Yes.
+
+**Lead Inquiry**: Within the NHS in Northern Ireland or within the Executive Office, do you know?
+
+**Professor Jim McManus**: The Northern Ireland public health office is part of the -- their version of the Department of Health and Social Care, so it's an executive agency rather than purely NHS provider.
+
+**Lead Inquiry**: So it's an arm's length body, one might call it, attached to the Executive Office, the governance, the governmental system in Northern Ireland?
+
+**Professor Jim McManus**: Yes.
+
+**Lead Inquiry**: All right.
+
+You've referred rather more prosaically perhaps to some of the matters with which directors of public health are concerned: drugs and alcohol-related issues, obviously mental health-related issues, illicit tobacco, public health aspects of crime and disorder. Are those all areas with which directors of public health become concerned because they all relate, to a greater or lesser extent, to the need, the statutory requirement to improve the public health of the populus?
+
+**Professor Jim McManus**: Yes. If you take mental health, the duties of commissioning services to provide mental health sit largely with the NHS and with social services and social work departments, whereas the director of public health is more of a public mental health role, which is suicide prevention -- suicide reduction, my Lady. So there are complexities and nuances which can sometimes be puzzling.
+
+**Lead Inquiry**: So --
+
+**Lady Hallett**: Nothing new there then, I'm afraid.
+
+**Mr Keith**: We have been looking at, in the last few minutes, the issue of health improvement. Now turning your focus, please, to outbreak management plans, the second pillar of a director of public health's functions concerns, does it not, the obligation to ensure that there is proper training for outbreaks, proper processes in place to monitor outbreaks, and to deal with all the ancillary obligations which might be engaged, public health campaigns arising out of a health emergency, giving advice to emergency response services, and liaising with the local council and those services as to how best to respond?
+
+Are these functions provided for by statute?
+
+**Professor Jim McManus**: Some in statute, some in guidance to the directors of public health in different nations, some are derived from good practice sources which are consensus statements between the various organisations, and some, frankly, are custom and practice of good health protection which is put into our training.
+
+So there is a hierarchy, if you like, of responsibilities, my Lady.
+
+**Lead Inquiry**: Is every local authority obliged to have a specialist director of public health?
+
+**Professor Jim McManus**: Every local authority in England must have a specialist director of public health as their chief officer, and the statutory guidance was issued in 2013, but revised last week.
+
+**Lead Inquiry**: It's important we don't lose sight of the public health agencies in the four nations.
+
+Perhaps we could have up your statement, which is INQ000183419, please, paragraph 94. I'm sorry to say that it's not paginated, and I therefore can't tell you, I'm afraid, which page paragraph 94 appears on.
+
+**Professor Jim McManus**: I have it open here.
+
+**Lead Inquiry**: Do you have a copy of your statement with the page numbering on it, Professor?
+
+**Professor Jim McManus**: I don't have the page numbers, unfortunately, no.
+
+**Lead Inquiry**: No, we have the paragraph numbering, we just don't have the page numbering.
+
+There we are, thank you very much.
+
+So in the United Kingdom, there are, of course, a number of public health agencies. If we could commence at paragraph 95, in England, there are two, of course, the UK Health Security Agency and the Office for Health Improvement and Disparities. You set out there their broad functions: OHID's function is to improve public health and reduce health inequalities and the UKHSA's is for health protection.
+
+To what extent would an individual director of public health engage with the national public health agencies, in this case in England?
+
+**Professor Jim McManus**: On a reasonably regular basis. So engaging with UKHSA would be for outbreaks because UKHSA bear health protection responsibilities, they receive the reports, they will be part of incident management teams, say, for example, if you have a measles outbreak in your area. So there will be regular and ongoing liaison.
+
+With OHID, the regional directors would be people who would have direct lines to directors of public health and back, so most directors of public health come together in regional groups in England, and UKHSA and OHID are usually part of those regional groups. So the liaison is quite frequent.
+
+**Lead Inquiry**: That's very clear, thank you.
+
+Paragraph 96, Northern Ireland, there is a Public Health Agency established in 2009. Are you able to say whether or not the links are analogous to those that you've described in relation to England?
+
+**Professor Jim McManus**: The Northern Ireland links will be slightly different and various, so there will be links to the various local authorities, my Lady, for different functions like environmental health and other functions, care homes. There will also be links to the health and social services boards and general public campaigns. This is a pattern you will see repeated across the United Kingdom. Everyone does it slightly differently.
+
+**Lead Inquiry**: Scotland, there is the Public Health Scotland agency, with comparable functions to those of its brother and sister agencies.
+
+**Professor Jim McManus**: Indeed, and they meet regularly, the directors of public health in Scotland, with Public Health Scotland on a reasonably regular basis.
+
+**Lead Inquiry**: Then Wales, finally, there is a Public Health Wales body established in 2009, and therefore we presume there are links between that public health agency and the NHS health boards which, in Wales, employ the directors of public health and their teams?
+
+**Professor Jim McManus**: Indeed, and they meet regularly too.
+
+**Lead Inquiry**: All right.
+
+Remaining focused on some of the structural links, please, in your witness statement at paragraph 201 -- you don't need to turn to it -- you say that directors of public health do not routinely sit on local resilience forums. Local resilience forums are those important bodies at local level primarily engaged to deal with planning and preparedness and also, through strategic co-ordinating groups, responses.
+
+They obviously have a major role in emergency preparedness. To what extent can LRFs draw upon the expertise of directors of public health when planning and responding to public health emergencies?
+
+**Professor Jim McManus**: So when LRFs are planning for emergencies, the director of public health is at their disposal. So I, for example, am often asked by our local resilience forum to input into the risk register and to plans.
+
+I think the important thing perhaps to assist my Lady is that health protection and civil resilience have significant overlaps but there are also significant distinctions. So, for example, if you were taking a flood, there are obviously significant health issues that arise because of a flood, not least from contaminated water, and the advice and the guidance of the director of public health will be important then. But, similarly, having a health protection plan or at least a list of things that need to be done during those issues will be important. The resources of the LRF such as the mobilisation of equipment and assets will be crucial. They're not under the direct control of the director of public health, but a director of public health will need them to achieve health protection outcomes in a flood, for example.
+
+**Lead Inquiry**: So, Professor, very practically, imagine that there is a health emergency in a local area, perhaps a modest pathogenic outbreak or, I don't know, a particularly serious incidence of food poisoning. Who leads the emergency response? Is it the local resilience forum comprising Category 1 and Category 2 responders? Is it a strategic co-ordinating group comprising Category 1 and 2 responders and led by the police or the emergency services? Or would it be a director of public health leading an outbreak control committee or some such body? Who is in charge?
+
+**Professor Jim McManus**: It will depend entirely on the nature of the incident. So if you have a measles outbreak, it will be an incident management team with the director of public health, the relevant national agency, in the case of England UKHSA, local environment, mental health, and anybody else we need, for example, such as school headteachers. If it were a flood, then it would be more likely to be led by the LRF. If you had a significant blood-borne virus outbreak, it wouldn't be led by the SCG or the LRF, for example, because you're not going to be deploying cordons and fire engines and other pieces of equipment.
+
+So it depends entirely on the nature of the incident. Health protection incidents will be led by the director of public health and local environmental health in partnership with UKHSA.
+
+**Lead Inquiry**: Who calls who to say, "In the context of this particular health emergency, it must be the director of public health that takes the lead", or who calls the director of public health to say, "In this emergency we would like you, please, to attend the local resilience forum or the strategic co-ordinating group and take charge"? Who has that power?
+
+**Professor Jim McManus**: Essentially any Category 1 responder has the power to kind of call an incident, but if it's a health protection issue, in practice if I know about it first, I will call UKHSA and the environmental health department and convene a team. If they know about it first, they will convene a health protection team, and we will meet together. So an incident management team will occur. So if you have an outbreak of measles in a school, for example, then usually the call will come through the UKHSA and the meeting will convene with the director of public health.
+
+**Lead Inquiry**: Does it work well in practice, Professor? There is obviously a world of difference between flexibility and confusion. Is there an argument for having the director of public health in a local authority area an ex officio member of the local resilience forum, so that he or she may never be left out of account?
+
+**Professor Jim McManus**: I would say yes. I think many of our members would say yes, my Lady. In some places directors of public health have exceptionally good relationships with their LRF. We are dependent on culture relationships and partnership, and in my personal experience those work, but it does no harm for that to be underpinned by exceptionally clear guidance and rules.
+
+One of the difficulties, I think, is that the Civil Contingencies Act 2004 and the Public Health Act 1984 perhaps do not always align in their expectations of systems, and people do not always understand the complexities and the interrelationships when they create national guidance.
+
+**Lead Inquiry**: Just to add yet further complexity, Professor, and you know what's coming, there is something also called a local health resilience partnership, which we believe comprises local health organisations, regional representatives of public health agencies -- you have referred to the regional representatives of the PHE a few moments ago, or UKHSA as it now is, and others.
+
+Do directors of public health sit on that body, the local health resilience partnership?
+
+**Professor Jim McManus**: Yes, and by law they are expected to co-chair the local health resilience partnership. The complexity comes in because some LHRPs, my Lady, span multiple areas, such as in London. In other areas the LHRP is coterminous with the geographical area of the director of public health. So you may find a single LHRP covering the area of four, five or more directors of public health in England or one director of public health.
+
+I would put that down to a need to better understand local variation when planning national guidance.
+
+**Lead Inquiry**: Are local health resilience partnerships only ever regional, so do they sit above geographically local resilience forums, or do they both occupy broadly the same space?
+
+**Professor Jim McManus**: They are not always coterminous, so if you may take, for example, a local resilience forum that covers the entire area for one police force, you may find more than one police force. You may find there is more than one local health resilience partnership in that, because currently the local health resilience partnership may follow the geographical boundaries of the integrated care system.
+
+So some of us have a local resilience forum and a local resilience partnership that is the same, and others find we have more than one local resilience forum or one local resilience forum and more than one local health resilience partnership. It is something which could be tidied up.
+
+**Lead Inquiry**: It's a recipe for confusion and duplication, is it not?
+
+**Professor Jim McManus**: I think it can be if you don't have the good relationships and good understanding, I would agree.
+
+**Lead Inquiry**: All right.
+
+Turning to another part of the structure, a health emergency may well have an impact not just on the healthcare services in a locality but on the adult social care sector. To what extent do directors of public health work with local authorities in their provision of social care and with the private, largely private, care providers?
+
+**Professor Jim McManus**: There are several ways. The first way of interest to this Inquiry, my Lady, might be infection control guidance and infection control in care homes, which is often shared between directors of public health and the local NHS.
+
+The second route may be in terms of providing training and advice.
+
+The third route is that directors of public health have a legal responsibility to provide advice and guidance to NHS commissioners, and many of us also take that duty seriously with social care in terms of providing evidence for effective care, prevention services in care homes and so on, and a number of us provided, during the pandemic, trauma training for care workers. In fact I went into care homes personally and did some -- delivered some of that training. So there are links.
+
+I think it would be fair to say that those responsibilities could be clarified better, particularly in relation to infection control, because some of those responsibilities overlap somewhat.
+
+**Lead Inquiry**: All right.
+
+**Lady Hallett**: Pause there? 11.15.
+
+**Mr Keith**: Ah, thank you. Saved by the bell. Thank you.
+
+**Lady Hallett**: We take a break for everybody's sake but particularly our wonderful stenographer. Back at 11.30.
+
+*(11.15 am)*
+
+*(A short break)*
+
+*(11.30 am)*
+
+**Mr Keith**: Professor, it is obvious from your witness statement that the Health and Social Care Act 2012 was a seminal moment in the life of public health functions, because it transferred most public health functions to local government from the NHS in England.
+
+Could you just outline for us, please, the major challenges which that transfer gave rise to in terms of the cultural organisational differences, the lack of understanding as to what was expected of directors of public health, and the problems with data flows?
+
+**Professor Jim McManus**: Certainly. I think there were multiple, so I'll necessarily summarise.
+
+There was the difference in local authority and NHS structures and cultures. There was the fact that directors of public health retained some functions in relation to the NHS after transfer, my Lady, so the LHRP we've heard, but there was also a duty to advise and assist the NHS commissioners. There were even issues of pay structure --
+
+**Lead Inquiry**: Would you go a bit slower, please, Professor.
+
+**Professor Jim McManus**: Sorry, I do apologise.
+
+**Lead Inquiry**: It's quite all right.
+
+**Professor Jim McManus**: There were also issues of pay structures. There were issues of budgets and financial transfers and responsibilities and even down to discussions of who paid for what. So, for example, if you look at sexual health, paying for HIV testing is the responsibility of directors of public health, paying for HIV treatment is a responsibility of the NHS. But NHS clinicians delivering HIV services outside London often work in premises paid for by the director of public health to deliver sexual health services. So the complexity is a fact of our life, and those complexities came.
+
+There were also, I think, other -- there were huge opportunities. The ability to work with communities in ways we didn't. And forgive me, I may not have answered the last two parts of your question.
+
+**Lead Inquiry**: The cultural differences, the lack of understanding on the part of local authorities as to what directors of public health do, and, secondly, accessibility to data flow, because of course directors of public health were receiving data and transmitting data from a different environment, from within local authorities as opposed to the NHS.
+
+**Professor Jim McManus**: Yes. So data has always been very challenging and data flows have been challenging, even with data agreements, and data agreements eventually have become more sophisticated, but certainly in the early days some of us got access to data by things like honorary contracts with the NHS, or data sharing agreements, which were very complex, and I think are a subset of the entire data sharing challenge that we have as a public sector in terms of sharing data.
+
+Culturally, local authorities and the NHS are exceptionally different. In local authorities, elected members are essential if you want to be successful in public health. So there was a significant change exercise required in most areas. Some authorities did it exceptionally well, as the King's Fund report, the second King's Fund report, in the bundle, concludes, others found some challenges.
+
+My view, looking back on it, is it has brought many more assets than challenges and is the right place for us to be, but there are things that could be clearer.
+
+The particular point, I think, Mr Keith, is the guidance. The guidance in 2013 was perhaps somewhat hastily written, and there were a number of areas which were unclear -- that had been unclear before 2013, my Lady. So perhaps the crystallisation of the functions of directors of public health in England has happened in some ways, I would say, since transfer rather than before.
+
+**Lead Inquiry**: All right, thank you.
+
+Budget. The public health grant is paid to local authorities by the DHSC, is it not?
+
+**Professor Jim McManus**: Indeed.
+
+**Lead Inquiry**: That grant of public money is then used by local authorities to discharge its public health functions through, primarily, the role of directors of public health. Has DHSC spend on NHS England increased or decreased in real terms since that transfer?
+
+**Professor Jim McManus**: On NHS England it has increased.
+
+**Lead Inquiry**: What about in relation to the block payment, the grant to local authorities?
+
+**Professor Jim McManus**: It has decreased. There were a series of cuts starting in the financial year 2015 to 2016 which has cut between, depending on which estimate you read, 26% and 33% in real terms out of the public health budget.
+
+The Health Foundation estimates that Â£1 billion is missing from the public health grant from where it should be.
+
+**Lead Inquiry**: We are not here to debate the merits of public sector cuts, funding cuts, but has the impact of those reductions in funding fallen equally across the four nations and the constituent parts of the four nations, or have some areas in fact, as it has transpired, been the subject of greater cuts?
+
+**Professor Jim McManus**: So the public health grant is an England-only grant, and some areas -- there is analysis which shows that some areas have fared worse per head of population. So northern areas and areas of greater deprivation have seen a greater per capita reduction in spending power on the public health grant than some areas in the south.
+
+**Lead Inquiry**: All right.
+
+Now I'd like to turn you, please, to the specific issue of emergency preparation and preparedness. In your witness statement at paragraph 100 -- that's INQ000183419 again, please, thank you very much -- you've set out a number of categories or headings: preparation, prevention, prioritisation, collaboration and advice.
+
+In the context of dealing with outbreaks, so outbreak management, do and did, in the context of the Covid-19 pandemic, directors of public health work in relation to taking a proactive approach to sourcing personal protective equipment, recalibrating their services, so that's to say services in relation to sexual health, drug treatment services and the like, co-ordinating and dealing with the local systems for testing and tracing, and, consistent with what you've said already, providing a primary source of knowledge and advice and information for all the numerous people who take part in the emergency response system at local level?
+
+**Professor Jim McManus**: Indeed, and I think -- it, I think, could have been better had the cuts and the impact of austerity not happened, and I think could have been better had we had some better working with aspects of national government.
+
+**Lead Inquiry**: I'll come on to that issue in a moment, but is that a broad summary of the areas that directors assisted with? I should add to those, while you think of the answer to that question, that your statement deals: at paragraph 117, with the help that was given in relation to the provision of food banks and parcels and the delivery of prescription medicine; paragraph 119, the assistance that you gave to schools and the advice that you gave in relation to the closure of schools and the impact of the closure of schools; and at paragraph 120, elsewhere in your statement, the assistance that the directors of public health gave to directors of adult social care services who were concerned, of course, with the public health elements of decisions to shut, open or restrict access to care homes?
+
+**Professor Jim McManus**: I think that is a very fair summary, yes.
+
+**Lead Inquiry**: All right.
+
+You've just mentioned the difficulty that directors encountered in dealing with central government. Obviously directors have to work with a range of government bodies, and particularly in central government, so not just the UKHSA and the local -- the national public health bodies and the OHID, but with civil servants in central government, with the CMOs, of course with other devolved administrations, as well as the NHS and the local authorities.
+
+What were the problems that were generally encountered in dealing with, communicating strategically with, central government?
+
+**Professor Jim McManus**: I think there were several. The first was that there was very much a top-down approach taken, which ...
+
+The second was that it was often apparent that the departments we were dealing with had not read their own guidance about the role of the department, the director of public health, and were quite -- not clear about what we could and should do.
+
+The third was setting up parallel systems when we could have used local capabilities to set up local capabilities for test and trace, for example.
+
+I think the fourth challenge was sometimes we had no response or communication, and we found out at the same time as the rest of the population, on the 5 pm bulletin, about the new guidance.
+
+If there was another challenge, I think it would be perhaps lack of understanding of the fact that directors of public health have to rely very heavily on their local communities and the voluntary sector, who have been amazing and without whom we would not have been able to do our role, and the same with environmental health officers.
+
+And I think generally communication and lack of understanding of what our role is, and sometimes, actually, a lack of understanding of local authority capabilities, significantly.
+
+**Lead Inquiry**: Now, that latter issue particularly, why does that matter? I mean, it is in the way of central government to want to impose things by way of diktat, top-down communication, as you've described it, and it may well be that even in the best ordered systems relevant parts are left out of key communications or guidance. But insofar as directors of public health are, in their essence, local directors of public health, why does and why did it, in the course of the pandemic -- why did leaving them to some extent out of the loop matter when it came to the provision of public health countermeasures locally?
+
+**Professor Jim McManus**: Firstly, because we are trained and expert in some of these, such as contact tracing. Secondly, we have a range of services, such as sexual health, which are equally expert in contact tracing. Third, we know our local areas and our local communities. So if I may give an example, my Lady, putting a vaccine centre in a golf club in a deprived area a mile and a half from the deprived area with no public transport is something we could help areas avoid.
+
+I think the fourth reason I would give is that we have capabilities that we could mould and shape rapidly, such as test and trace, and it was pretty obvious when local directors of public health and local authorities took on test and trace additional work, that the improvement in test and trace was marked nationally in multiple reports.
+
+**Lead Inquiry**: Was that the position throughout the pandemic, or with the passage of time did the communications between central government and local directors improve, and was there a greater understanding latterly of the huge significance of local public health advice and reliance upon local facilities for the purposes of test and trace, contact tracing and so on?
+
+**Professor Jim McManus**: In part. I think it grew. It certainly became much better. The support of the Chief Medical Officer in working very closely with directors of public health from January onwards was helpful. What I think was still a problem was some departments still didn't understand what we did. In around May to June 2020, we produced, as a group of agencies with ADPH, the first guidance on local outbreak plans, and I was one of the people who wrote that guidance, and we identified the role of local directors of public health.
+
+So it grew and it became clearer and communication improved and mechanisms improved dramatically, but for the first few months of the pandemic there were parts of central government that did not have a mailing list to reach out to directors of public health, they physically couldn't contact us.
+
+**Lead Inquiry**: There was nevertheless good contact arranged in part through the ADPH with Professor Sir Chris Whitty, of course the CMO, and were there regular discussions between the Office of the CMO in England and counterparts in the four nations and directors of public health through the ADPH?
+
+**Professor Jim McManus**: Indeed, and I think the communication from Sir Chris to us was exemplary, at times we were meeting weekly, and similarly our liaison with the other CMOs was extremely helpful, my Lady.
+
+**Lead Inquiry**: So we've been discussing, Professor, the structural system and whatever inadequacies there were, as my Lady find them to be, that pre-existed the pandemic.
+
+When it came to the impact of the pandemic itself, was the public health and the local public health system ready for or capable of dealing with the sheer scale and severity of the pandemic that in fact ensued?
+
+**Professor Jim McManus**: I have to say partly yes and partly no, and the reason for partly no was partly because of funding. I think the national plan was unclear. We seemed to prepare for flu when a coronavirus, I would have thought, would have been a perfectly plausible scenario. A range of scenarios nationally were not explained. Some of the communication from national government was lacking. Participation in national exercises was unclear. And I don't believe we learned the lessons from the 2009 pandemic. I think the lack of resourcing was unhelpful.
+
+I think there was also a view that government would create parallel systems rather than working with the capabilities we already had.
+
+If I might make one final issue, this was seen as an NHS challenge, which meant -- which in some ways put a burden on the NHS, my Lady, to be in charge of something that was a public health challenge, not an NHS capacity challenge. So the roles about -- from the beginning, were about the NHS.
+
+If I may give one example, we were informed by some bits of NHS England that they were going to take workforces that we commissioned and redeploy them on to wards, and by that I mean health visitors particularly, among others. Health visitors do vitally important work to protect very vulnerable children. If you had removed every health visitor in England and deployed them in a Covid ward, there would be significant safeguarding risks and children could be harmed.
+
+So the culture of partnership ought to have been better where each part of the system values the other.
+
+**Lead Inquiry**: My question was in fact directed more towards the impact of the sheer scale and size of the pandemic, but you've addressed many of the areas where, in your professional opinion, the system was not adequate and the reasons for that. I'd just like to pick up some of the points from that answer.
+
+Firstly, your witness statement makes plain that national guidance and planning for emergencies needed to have done more to address health inequalities. Why, in the discharge of functions by directors of public health, is a better understanding of health inequalities necessary?
+
+**Professor Jim McManus**: I think there are several reasons. Firstly, because people who are least -- have least access to health services and are least well are least able to withstand the multiple impacts of a pandemic on physical and mental health and economic impacts. They come off worse, as, for example, many reports have shown.
+
+I think the second issue is that they are often most vulnerable for protective measures. So black men working in manual roles where they had to have contact with the public were at far more risk than people in professional roles who could work from home.
+
+From time immemorial, every pandemic has hit those worst who have been least able to bear the burden. So health inequalities have to be at the centre, and I don't think -- and forgive me for perhaps not answering your question earlier -- that we did not anticipate the severity of this virus in the early stage, to which we were largely naive, and therefore I don't think our plans were sufficient nationally at any level of the system.
+
+**Lead Inquiry**: All right. Exercises. You say that the survey, to which you have made reference, reported that many directors of public health stated that they had never been involved in nationwide exercises. Is there an overwhelming case for bringing directors of public health more formally into nationwide exercises for emergency planning?
+
+**Professor Jim McManus**: Undoubtedly, so that you understand local capabilities and can use them effectively before the pandemic happens and can deploy them.
+
+**Lead Inquiry**: The survey also reported that many directors of public health felt that there was insufficient data sharing arrangements between local NHS facilities and the local authorities, so in essence two vital parts of healthcare and social care response at a local level were not always aware of what each other was doing.
+
+Is there now an equally strong case for examining the data sharing arrangements between the NHS and local authorities when it comes to emergency responses?
+
+**Professor Jim McManus**: Undoubtedly. You will be aware, my Lady, that the Civil Contingencies Act has a power for information sharing, but there is a view among some agencies that that is overridden by data privacy and data security. We do not have information and data governance right for an emergency in any part of the United Kingdom in the way it needs to be to save lives.
+
+**Lead Inquiry**: Next, the King's Fund report, to which you again referred earlier, stated that not enough public health consultants had the necessary training, skill sets and experience. Is there now also a case for a more regularised and formalised structure of training of public health consultants along with directors of public health?
+
+**Professor Jim McManus**: I would agree, very much so. There is health protection training and experience included in the requirements for training to become a consultant in public health or a registered specialist, but training beyond the minimum is vital in these roles, and should be continuous and indeed should be continuously assessed.
+
+**Lead Inquiry**: In your statement, finally, at paragraph 253, you set out a number of reflections on the UK's preparedness and resilience nationally and locally. We've picked up many of these already in the course of your evidence, but just to focus on those few that remain.
+
+So paragraph 253, it is the pre-penultimate page in the document, if that assists, electronically. Thank you very much.
+
+Is this what you suggest and recommend, Professor? At paragraph 253, in terms of the planning, the risk assessment process, the planning assumptions which underpinned the national response, there needs to be greater flexibility to respond to the different types of viruses and the ranges of scenarios which might eventuate. I'm not really asking you to address that in detail because my Lady has heard a great deal of evidence about that, but you would concur in the proposition that there needs to be more imagination and more flexibility when it comes to planning for future hazards?
+
+**Professor Jim McManus**: Indeed. Indeed.
+
+**Lead Inquiry**: 255 and 256, you believe that the role of the directors of public health should be clarified and strengthened, and we've debated this in relation to the links at a local level to local resilience forums and resilience partnerships, and that the links between the local resilience forums and the local health resilience partnerships structures need to be reviewed and clarified for the reasons that you've given already.
+
+258, there needs to be more thought given to a better standing and reserve capacity in terms of the health protection functions or abilities of directors of public health, and that necessarily brings in the question of resources and budgets, to which you've already made reference.
+
+260, there needs to be a better cross-government approach to responding to pandemics, with a recognition, you would say, more formally of the directors of public health as a local system leader; that is the issue we debated at the start concerning who is in charge when it comes to a local health emergency.
+
+Then 262, finally, but no less importantly, the need to tackle inequalities in order to provide a better foundation for future public health response.
+
+**Professor Jim McManus**: I would agree strongly with all of those points, yes.
+
+**Mr Keith**: I am very pleased to hear that, since they are your recommendations.
+
+My Lady, has granted permission to my learned friend Ms Munroe King's Counsel to ask questions.
+
+**Lady Hallett**: Ms Munroe.
+
+Questions From Ms Munroe KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Munroe**: Thank you, my Lady.
+
+Good morning, just still, Professor McManus. My name is Allison Munroe and I ask questions on behalf of Covid-19 Bereaved Families for Justice UK.
+
+In your statement, Professor McManus, at paragraph 46, you talk about the need for discussions and consultation between relevant bodies, sectors and professionals early and regularly as being key and one of the key things to learn from the pandemic. Also, about 10, 15 minutes ago you talked about the very good communications between yourselves and Professor Sir Chris Whitty and other CMOs.
+
+My question to you, Professor McManus, bearing that all in mind, is: could you assist us, please, in terms of describing, in your view, the adequacy or not, as the case may be, of the communications between public health directors across the four nations?
+
+**Professor Jim McManus**: Forgive me, do you mean how directors of public health communicated with one another?
+
+**Ms Munroe KC**: Yes.
+
+**Professor Jim McManus**: I think it is fairly complex. So the Association of Directors of Public Health brought directors of public health regularly together, usually with government, for pan-UK webinars or seminars. Some of those would be England only. We have an ADPH council which includes representatives of all four nations and the members of that council then feed back to the directors of public health in their constituent nations and they advise us on policy.
+
+So, for example, we found ourselves comparing how test and trace was run in the different nations and looking to learn from one another, from examples -- I'll take Sandwell, in the West Midlands, I know that some of our Welsh and Scottish directors of public health looked to compare lessons from Sandwell. It's a challenge because the different four nations each have a different public health system, but the level of principles, the level of good practice, the level of the science, the level of common challenges, those often can be shared across the four nations.
+
+Am I answering your question?
+
+**Ms Munroe KC**: Yes. Yes, you are. You've mentioned the different structures that exist between the four nations and the public health offices. Did that pose any particular difficulties or problems or was that something that you felt was adequately addressed in terms of the communications?
+
+**Professor Jim McManus**: I think one can always do better. The level of complexity in this system relies on exceptionally good communication across every player. I think it is a regret on the part of directors of public health, my Lady, that communication between national governments and local directors of public health, certainly in England, was sometimes less than optimal, and could have been improved. Which made us look to share communications amongst ourselves by setting up fora where we could share information. So, for example, there was a mental health impact collaborative group set up by ADPH for directors of public health in four nations specifically to enable us to share information when it wasn't flowing from national to local.
+
+Does that help you?
+
+**Ms Munroe KC**: It does. Finally, Professor McManus, again, in your statement -- we don't need to go to it, but it's paragraphs 41, 42 and 43 -- you make reference or you note that there were no records of any ADPH reps attending meetings with the United Kingdom Government or with the devolved nations specifically to discuss Covid-19 prior to 21 January 2020.
+
+**Professor Jim McManus**: That's correct.
+
+**Ms Munroe KC**: Is that correct?
+
+**Professor Jim McManus**: Yes.
+
+**Ms Munroe KC**: Do you know why that was, there were no meetings? Or no records, rather, I should say, of meetings.
+
+**Professor Jim McManus**: I think the top-down culture of communicating. If you cast your mind back to the somewhat bewilderingly complex diagram that Mr Keith showed at the start of the Inquiry for each nation, what becomes very apparent is that there were missing lines in communication, and if -- I remember distinctly the England one: the lines of communication to directors of public health and to some local fora were very dependent on one or two lines only, my Lady, and if they didn't work, we didn't know what was going on, we found out by looking at the television or reading the papers.
+
+I think it's partly that I would say that the three nations other than England have a greater -- had a greater awareness of the role of directors of public health, and a greater understanding and a greater willingness to work with them, than was apparent in England prior to the first wave of Covid on pandemic preparedness. It felt top-down, and that should be one of our chief lessons.
+
+**Ms Munroe**: Thank you very much, Professor McManus.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Ms Munroe.
+
+Thank you very much indeed, Professor McManus. Thank you very much for your help.
+
+**The Witness**: Thank you, my Lady.
+
+*(The witness withdrew)*
+
+**Mr Keith**: Ms Blackwell will be calling the next witness.
+
+*(Pause)*
+
+**Ms Blackwell**: My Lady, please may I call Professor Kevin Fenton.
+
+Professor Kevin Fenton
+----------------------
+
+*PROFESSOR KEVIN FENTON (affirmed).*
+
+Questions From Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Blackwell**: Is your name Professor Kevin Fenton?
+
+**Professor Kevin Fenton**: Yes, it is.
+
+**Counsel Inquiry**: Thank you.
+
+Professor Fenton, thank you for coming to give evidence today and thank you for the assistance you've already given. You've provided a witness statement which is at INQ000148405. If we can go to page 15, please, we can see that you signed it on 13 April of this year. Is it true to the best of your knowledge and belief?
+
+**Professor Kevin Fenton**: It is true.
+
+**Counsel Inquiry**: Thank you.
+
+We can take that down.
+
+During your evidence, please speak into the microphone so that the stenographer can hear you for the transcript, and if you need a break at any time just let me know.
+
+Professor, you are president of the United Kingdom faculty of health, you are a senior public health expert and infectious disease epidemiologist, who has worked in a variety of public health executive leadership roles across government and academia in the United Kingdom and internationally, including taking a leading role in London's response to the Covid-19 pandemic; is that right?
+
+**Professor Kevin Fenton**: That's correct.
+
+**Counsel Inquiry**: You also became the regional director for London in the Office for Health Improvement and Disparities within the Department of Health and Social Care in October of 2021, having previously held the same position within Public Health England from April of 2020?
+
+**Professor Kevin Fenton**: That's correct.
+
+**Counsel Inquiry**: You are the statutory public health adviser to the Mayor of London and the Greater London Authority and the Regional Director for Public Health for NHS England?
+
+**Professor Kevin Fenton**: That's correct.
+
+**Counsel Inquiry**: But it is in your guise as president of the United Kingdom faculty of health that you give evidence to the Inquiry today?
+
+**Professor Kevin Fenton**: That is correct.
+
+**Counsel Inquiry**: The faculty is the professional standards body for public health specialists and practitioners with other than have around 4,000 members in the four nations of the United Kingdom and overseas; is that right?
+
+**Professor Kevin Fenton**: Yes, that's correct.
+
+**Counsel Inquiry**: Is membership open to any public health specialist and practitioner?
+
+**Professor Kevin Fenton**: Those that have completed their postgraduate training in public health are eligible for membership of the faculty and fellowship of the Faculty of Public Health. We do have other accreditations and designations depending on where you are in your postgraduate training and the examinations which you've taken on your way to specialisation.
+
+**Counsel Inquiry**: All right. It's a registered charity, isn't it, and a joint faculty of the three royal colleges of physicians in the United Kingdom?
+
+**Professor Kevin Fenton**: That's correct, we were established in 1972, so we're just over 50 years of age.
+
+**Counsel Inquiry**: What is the aim of the faculty?
+
+**Professor Kevin Fenton**: Our objects articulate three areas, my Lady, where we have an essential role in the training and accreditation of public health practitioners. First, in setting standards for training, and, as I said, this is a competency-based postgraduate training programme open to doctors and other professionals to become public health specialists. We also look, my Lady, at the standards for public health practitioners across the country. This includes the appointment of specialists and consultants to their senior roles, as well as their continuing professional development, accreditation and revalidation as practitioners. And we have a third critical function which is that of advocacy for the public's health, looking at the public health system and its functioning and advocating for, on behalf of our members, effective delivery of the public health system and public health, and improving the public health of the population.
+
+**Counsel Inquiry**: Is addressing health inequalities and the wider determinants of health central to the faculty's existence and work?
+
+**Professor Kevin Fenton**: It is. Health inequalities are foundational for us to both improve and protect the health of populations. Health inequalities are essential in understanding individual and community resilience to shocks such as pandemics. As a result, we have a strong focus on health inequalities, my Lady, both in the training and capacity development, in the accreditation of our practitioners, when we assess them for their competence, and we have a strong programme of advocacy on issues and matters related to health inequalities.
+
+**Counsel Inquiry**: Thank you.
+
+In your witness statement, you say that prior to January of 2020 there was limited communication from the government on the state of the United Kingdom's preparedness and pandemic planning with the faculty?
+
+**Professor Kevin Fenton**: That's correct.
+
+**Counsel Inquiry**: I see you're agreeing with that. But in relation to one strategy, the 2011 United Kingdom Influenza Pandemic Preparedness Strategy, about which my Lady has heard quite a lot already, there was a level of communication, wasn't there? You were invited to provide comments on that strategy.
+
+Was that invitation issued to the faculty before the strategy was published or afterwards?
+
+**Professor Kevin Fenton**: I believe it was done afterwards as part of the general consultation on the 2011 strategy, and this highlights, I think, a key -- it's a challenge, but both opportunity as well. While it is fantastic to be invited to participate in consultations on strategies, it is often better to be at the table at the time when the strategies are being developed, to help shape the content and the paradigms within which the strategies are developed. So on this occasion we provided input at the consultation level.
+
+**Counsel Inquiry**: Right. You commented on the importance of sharing scientific information between countries, didn't you?
+
+**Professor Kevin Fenton**: (Witness nods)
+
+**Counsel Inquiry**: Why is that so important?
+
+**Professor Kevin Fenton**: In the management and response to any pandemic, because of the global nature of the infectious disease and infectious disease threat, it is absolutely essential that we work in partnership both with the WHO and we learn from other countries which are also experiencing the infectious disease threat, sharing best and promising practice, sharing data, scientific advances, but also understanding what tools are available for intervention in the pandemic. So that sharing of information is critical.
+
+**Counsel Inquiry**: Do you know whether or not your comments and concerns in that regard were taken on board and fed into the strategy at any point?
+
+**Professor Kevin Fenton**: No, not on this occasion, no.
+
+**Counsel Inquiry**: Right. You will be aware that, as part of the strategy and appended to it is the equality impact assessment which was published at the same time. Did you provide any comments or did you have any consideration of that document at the time that you sent your response to the strategy?
+
+**Professor Kevin Fenton**: So this would have been done under previous administration for the Faculty of Public Health and my understanding is that there was a reflection on the equality impact assessment, but we recognise with hindsight that the EIA -- and given our experience with the Covid pandemic -- was not perhaps as thorough or as detailed as it could be, given the nature of pandemics and how they express themselves in terms of inequalities in populations. But we did recognise that the EIA was undertaken.
+
+**Counsel Inquiry**: Right. Well, we asked Professors Marmot and Bambra to comment on the EIA, as you refer to it, and their view was that the analysis provided the most thorough consideration of equality issues across the strategy, but that it was fairly limited in terms of identifying the multiple issues faced by different social groups, and there was little provided on what actions should be undertaken to mitigate any differential impacts, and that the analysis did not discuss potential inequalities in mortality or morbidity from a pandemic point of view.
+
+Do you agree with those concerns?
+
+**Professor Kevin Fenton**: Yes, we do. Again, on reflection and on re-review of the equality impact assessment, and again with the knowledge and experience of having gone through the Covid-19 pandemic, it is clear that there are missed opportunities there for us to both understand the impact on groups with protected characteristics but, in a sense, to go further, to understand those wider determinants which are going to have a material impact on increasing risk for those groups but also resulting in adverse outcomes as well.
+
+**Counsel Inquiry**: Thank you.
+
+You say in your witness statement that throughout the planning and response to the pandemic there was, in your view, a lack of executive awareness across responder organisations around the level of societal risk for pandemic events.
+
+Can you explain what you meant by that, please?
+
+**Professor Kevin Fenton**: Yes. So one of the challenges of the pandemic influenza plan was that it was exactly that, that there was no space for considering other respiratory infections or a Disease X, another kind of pandemic that would have occurred, and the frame or the mental model in which the pandemic plan was being developed would have suggested that we would build upon the lessons of how we responded to seasonal influenza epidemics, which would largely be related to the health service response, mitigating the impact especially on older people and young adults and children, and ensuring that there is capacity to deliver, for example, antivirals and vaccines.
+
+Now, that --
+
+**Lady Hallett**: Just pause. Slower, please. We're doing this a lot, but you speak very quickly.
+
+**Professor Kevin Fenton**: Okay, thank you, my Lady.
+
+So that provided a frame where the locus and the focus of the response would be largely around the NHS and protecting the NHS, but also looking at other government departments which would be important in that frame.
+
+That does mean that the wider range of executive engagement at different levels of government would be limited because we're not thinking of the range of pandemic possibilities or the range of interventions which may be beyond the health service which would be required to control or manage those other eventualities.
+
+So if we take an example such as the Covid pandemic, we realised very quickly that we needed to move beyond clinical interventions to look at social interventions, and that then required a wider range of executive leaders at different levels, at national, regional and local, to be engaged in responding, and it was that engagement that we felt was lacking.
+
+**Ms Blackwell**: Right.
+
+You also say that that difficulty that you perceived in the level of executive awareness was exacerbated by a legislative framework for health protection which you describe in your witness statement as "complex, archaic, and not fit for purpose to address current and future hazards and threats". Why do you describe the legislative framework in those terms?
+
+**Professor Kevin Fenton**: For a number of reasons. First, since the Civil Contingencies Act was developed, there have been a number of threats that we had to respond to as a nation, and learning from those responses that needed to be updated and reflected in the legislation.
+
+**Counsel Inquiry**: Just to remind ourselves, that was the Civil Contingencies Act that was brought into force in 2004; yes?
+
+**Professor Kevin Fenton**: That's correct. Second, we had had a significant number of reorganisations of the health and care system with new organisations, new players, with new responsibilities for health protection and pandemic response, and there had to be clarification of the roles, responsibilities, the governance for responding to pandemics in that -- in the new environment that we were operating in.
+
+So the legislation also had to be updated to reflect that.
+
+Thirdly, armed with the knowledge that we now have, and that we had at that time in terms of the range of interventions that would be required to manage potential infectious disease threats, we needed to ensure that we were -- the legislation would have allowed for the use of a wider range of tools for intervention, and again we saw, my Lady, the importance of this with the Covid-19 pandemic, where we had to move beyond the sort of interventions which were planned for pandemic flu to include a wider range of strategies to control the infection.
+
+**Counsel Inquiry**: All right.
+
+The Inquiry has heard evidence about the huge changes brought about when the Health and Social Care Act of 2012 became brought into force.
+
+What do you say were the concerns from your organisation in terms of the assurance role that was taken forwards without specific funding being ringfenced and whether or not the changes that the Health and Social Care Act implemented led to a lack of clarity in terms of an understanding of roles from one public health worker to another.
+
+**Professor Kevin Fenton**: So the 2012 Act has been described as one of the most significant changes and reorganisations of the health service since its creation 75 years ago. For public health practitioners, it meant that we had public health practitioners now operating in many different organisations, in Public Health England, in local government, in the NHS, and elsewhere. So the need post reorganisation to bring that public health family together, to clarify roles, responsibilities, the governance, ways of working, for example, for pandemic response, was critical, and Public Health England played a very important role, in its inception, in helping to knit the system together and ensure that there was an understanding of how different parts of the system work.
+
+Now, the challenge there is that the assurance functions and the capacity to do assurance also changed as a result of the reorganisation. So because we had staff moving to different -- in different directions to different organisations, we know that health protection capacity, for example in local government, was perhaps not as well invested in as it needed to be to do some of the assurance functions, although it existed.
+
+Similarly, infection prevention and control responsibilities and assurance, that was a core function and competence that we knew that we had challenges with capacity across the system, in part because of the reorganisation and different functions.
+
+**Counsel Inquiry**: One of the problems that you identify in your report is the professional exposure of NHS staff to community settings and the reduction of that once the Health and Social Care Act had really taken force. Why was that a problem, and does it still persist?
+
+**Professor Kevin Fenton**: So prior to the 2012 change, public health staff were embedded within the PCTs within the NHS. That provided both NHS staff to be exposed in a much more hands-on and much more comprehensive way to their public health roles and responsibilities.
+
+Post 2012, as staff moved to different organisations, the NHS lost to some extent that close relationship with public health expertise and public health functions, and that over time had to be rebuilt. In fact we often speak about public health coming back to the NHS, over the subsequent years, by virtue of regional public health directors holding joint appointments with the NHS, the regional teams of Public Health England and UKHSA now working more closely with the NHS, but that had to be rebuilt.
+
+So the reorganisation and the shifting of public health capacity to different organisations meant that that exposure, that ongoing learning, but also some of the partnerships which were key prior to 2012 were ruptured initially and then had to be rebuilt.
+
+**Counsel Inquiry**: Right.
+
+You describe that the public health specialist generalist workforce had reduced exposure to health protection duties. Now, can you help us, please, Professor Fenton, with that phrase, "specialist generalist"? The Inquiry has already heard of it, I think when we quoted a passage from your witness statement to another witness, but we were not able to find a clear definition of it. So can you help us with that first of all, please?
+
+**Professor Kevin Fenton**: Absolutely. So, my Lady, if I may use myself as an example, I'm a public health specialist because I have completed my five years of postgraduate training in public health, and I operate at the level of a consultant for public health medicine. I'm a generalist because I have been trained and demonstrated my competences in all of the key pillars of public health practice, which include health protection, health improvement, healthcare public health, with a strong focus on data knowledge and intelligence. So I'm a generalist because I have competencies in all of those areas and I'm a specialist because I have been accredited.
+
+**Counsel Inquiry**: Right. When you say that public health specialist generalist workforce had a reduced exposure to health protection duties, is that what you've just explained to the Inquiry?
+
+**Professor Kevin Fenton**: Yes, and a really good example of this is if you have a specialist organisation which is focused, for example, on health protection and you have other public health practitioners in other organisations which do not have that as their core function, then the ability of those practitioners to get exposure to and experience in health protection diminishes.
+
+**Counsel Inquiry**: Right.
+
+**Professor Kevin Fenton**: That can only been overcome by creating strong links in place at local levels where you share and you continue to build and train together in your public health practice.
+
+**Lady Hallett**: Professor Fenton, I'm afraid I'm still not getting this generalist specialist, specialist generalist.
+
+What is wrong with just being a specialist in public health?
+
+**Professor Kevin Fenton**: Because you can be a specialist, the term can be used as a specialist, if you do not have your competencies in all of the domains. So, for example, there are colleagues who may have done many years of training in health improvement or health protection and have become specialists in those areas, but they're not generalist specialists because they don't have the competencies in other areas of practice. We therefore call them defined specialists because that shows that they have --
+
+**Lady Hallett**: I shouldn't have asked.
+
+**Ms Blackwell**: I was going to say.
+
+**Professor Kevin Fenton**: Well, defined specialists have expertise in one domain or one area of public health practice, and they're specialists in that domain only.
+
+**Counsel Inquiry**: So can I attempt to use a slightly different way of describing it: so a specialist only has a specialism in one area of public health, a specialist generalist or a generalist specialist has that specialism but also a much wider experience of other aspects of general health?
+
+**Professor Kevin Fenton**: If I may quickly add to that.
+
+**Counsel Inquiry**: I'm sorry, I think I made it even worse. I'm sorry.
+
+**Professor Kevin Fenton**: You're a specialist by virtue of having trained and developed a certain level of competency in a domain in public health. Okay? And the specialist would be the equivalent of a consultant practising in cardiology or nephrology. So that's a specialist.
+
+Now, you can be a generalist specialist if, like me, you've trained in all of the domains in public health practice and you have been accredited to practice in those domains. That's a generalist specialist.
+
+You can be a defined specialist if you have only worked in and trained in one area, and that means that you're not generalist, you're just defined, so you're a defined health protection specialist. You may be a defined specialist in health improvement where you're doing work on health promotion and tackling inequalities.
+
+**Counsel Inquiry**: All right. My Lady, I hope that's clearer?
+
+**Lady Hallett**: I think we'll leave it there.
+
+**Ms Blackwell**: Good.
+
+What was the effect on public health of the abolition of the government offices of the regions in 2010?
+
+**Professor Kevin Fenton**: So the regional tier in any health system, especially one as complex as what we have in England, is really important, because it provides the connection between place, which is where you do a lot of the delivery of your prevention programmes, your clinical services and services to the population.
+
+**Counsel Inquiry**: The locality?
+
+**Professor Kevin Fenton**: The locality.
+
+**Counsel Inquiry**: Yes.
+
+**Professor Kevin Fenton**: And, of course, national government, where policies develop, where programmes are funded and where you may have that drive for particular programmes. So the regional tier is important to connect, it's important to assure, it's important to train and it's important to share best and promising practices.
+
+So the government regional offices had that really important function before they were abolished.
+
+With their abolition and with the creation of Public Health England, then the regional tier of Public Health England took on and had some of those responsibilities to ensure that for public health practice there was that connectivity between national to local.
+
+**Counsel Inquiry**: Right, and was there any problem with Public Health England taking over that regional level of responsibility and assistance?
+
+**Professor Kevin Fenton**: Not necessarily problems, but because of the nature and scale of change that occurred in 2012/13 there was a lot of forming and developing new relationships, ensuring that the capacity to do that co-ordination was in place, and ensuring that we had the mandate as well as the authority to do some of the pulling together in different areas of public health practice, bearing in mind that at local level, at regional level and at national level, there are defined authorities in the legislation and in what organisations had to do. So it was important for Public Health England to create that space where it was able to operate effectively at the regional tier.
+
+**Counsel Inquiry**: Has that been done successfully, in your view?
+
+**Professor Kevin Fenton**: Well, as you know, Public Health England doesn't exist anymore, but I believe that over time that regional role demonstrated itself to be a very effective tier in supporting the work and leadership of local government, and we've seen it replicated with both OHID, in the Department of Health and Social Care, as well as UKHSA having regional tiers as well.
+
+**Counsel Inquiry**: All right, so that regional level that you describe hasn't been completely lost, it's just been subsumed or taken over by other organisations?
+
+**Professor Kevin Fenton**: Yes.
+
+**Counsel Inquiry**: Yes. All right.
+
+Inequalities and community resilience. You say in your witness statement that in terms of the role of inequalities in pandemic planning:
+
+"... interventions were largely universal and there is a lack of evidence that health inequalities in impact and outcome were key considerations."
+
+What is problem with an intervention being universal?
+
+**Professor Kevin Fenton**: So while universal interventions are able to give you the reach and coverage that you seek in order to have an effective public health approach, it often does so at the expense of those who are hard to reach, hard to engage, or those who may not trust health services and therefore will not take up the universal offer.
+
+So in general in public health practice, my Lady, we try to ensure that we have a combination of universal approaches to delivery and what we call targeted approaches, where we're able to both fund and invest in specific programmes that are able to engage those who are hard to reach, hard to engage or furthest from clinical services, preventative services.
+
+**Counsel Inquiry**: Is that an important aspect of pandemic planning, or should it be?
+
+**Professor Kevin Fenton**: It's an important part of all public health practice which also includes pandemic planning and preparedness and response.
+
+**Counsel Inquiry**: Right.
+
+The Inquiry has heard evidence from Sir Chris Wormald, who is the permanent secretary of the Department of Health and Social Care, and when asked about whether pandemic planning should include consideration of inequalities and vulnerabilities, he expressed a view that such planning would only take matters so far until the precise nature of the emergency became known, and that that level of uncertainty, of what might be coming down the line as the next pandemic, necessarily carries a degree of imprecision.
+
+That evidence was echoed by Roger Hargreaves, currently the director of the COBR unit, and indeed yesterday by the First Minister of Wales.
+
+Do you agree that there is only so much that can be anticipated in terms of pandemic planning of those who are likely to be affected in a certain way by dint of their inequalities or vulnerabilities?
+
+**Professor Kevin Fenton**: You won't be able to do everything in planning to mitigate the impact of inequalities, but there is still a lot that can be done.
+
+**Counsel Inquiry**: Tell us what that might be, please.
+
+**Professor Kevin Fenton**: For example, co-production with -- in the plans, and ensuring that in the development of the plans you have due regard to tackling inequalities, which go beyond the equality impact assessment, but co-producing, for example, with local partners who are in contact with local communities or vulnerable communities to ensure those perspectives are included in your plans and your plans are tested against those perspectives.
+
+Second, you can ensure that you have the mechanisms in place to engage with and to access those communities which are at greatest risk, either through -- understanding your communication channels, for example. How do you reach out to and engage with vulnerable communities? How are you working with the voluntary and community sector, and what mechanisms are in place either in local government to assure ourselves that we have the routes of communication and outreach to engage with vulnerable communities? Then, finally, ensuring that data and the infrastructure for data and data sharing are available and are designed before the pandemic or before the shock, so that you're able to capture the information that you need to characterise and to understand the impact on vulnerable populations.
+
+So those are things that can be done prior to an event which then set a stronger foundation for your response for equity in the event.
+
+**Counsel Inquiry**: All right.
+
+The Inquiry has received a witness statement from Ade Adeyemi, who is from the Federation of Ethnic Minority Healthcare Organisations, and he has told the Inquiry that addressing health inequality has thus far suffered from an unsustainably hodgepodge approach. A pattern of infrequent and short-term funding for healthcare strategies targeted at supporting those from ethnic minority backgrounds may have harmed emergency planning for the pandemic.
+
+Do you agree with his concern?
+
+**Professor Kevin Fenton**: I do.
+
+**Counsel Inquiry**: How do you think that the rather scattergun approach that's been adopted thus far can be more streamlined and focused in order to achieve what you've just set out as being necessary for the planning of pandemics and taking into account inequalities and vulnerabilities?
+
+**Professor Kevin Fenton**: Well, I must, first of all, my Lady, reflect that things have significantly improved as we have exited the pandemic, given our experience with seeing these inequalities emerge and the detrimental impact that the inequalities have had on communities across the country. But there are a few things which must be in place if we're going to do this better.
+
+First, there has to be leadership commitment from highest levels of government and at all levels of government to address these inequalities, recognising the detrimental impact it has on overall population health.
+
+Second, we need to ensure that we're investing in programmes which are culturally competent, co-produced with our communities, and ensuring that we're using the assets that we have to deliver those programmes effectively.
+
+Third, I've already mentioned the importance of having good data that enables us to both understand where inequalities occur and to be able to evaluate the impact of our interventions. Right? So the data's really important to understand are we making the right difference.
+
+Fourth, ensuring that we have ways in which we are communicating and engaging with communities. What are those channels and how do we access them and leverage them so that we're both bringing communities in, co-producing and developing with our communities.
+
+Then, finally, we know that for a number of the inequalities that we observed, the experience of our communities on poor trust, stigma, discrimination, including structural racism, has repeatedly come up as a huge issue that our communities need us to confront and address, and I think that, and I believe that organisations working in health and care have a responsibility to visibly state and to visibly act on these inequalities in a much more comprehensive way.
+
+**Counsel Inquiry**: How do those who are charged with the responsibility of creating guidance and documentation that is designed to assist going forwards in terms of pandemic planning harness that sort of information which you've just set out, Professor Fenton?
+
+**Professor Kevin Fenton**: So this is really an opportunity for us, as we emerge from the pandemic, not just to learn lessons but to create enduring legacies that enable us to act differently to achieve different outcomes.
+
+I've already mentioned the importance of ensuring that at the planning stage that we're doing our planning of all of our responses through an equity lens.
+
+**Counsel Inquiry**: What does that mean?
+
+**Professor Kevin Fenton**: Asking the question: who are the ones who are most likely to be negatively impacted by this incident or pandemic or event, and what are the ways in which we both need to engage and help to mitigate those impacts from upfront? So start with that planning for equality.
+
+We often say in public health, my Lady, if you plan for those that are furthest and hardest to engage, then automatically you have been able to design a system or programme that will engage everybody.
+
+So the first is ensuring that we have that strong focus on equity and redesigning through an equity lens.
+
+Second, there needs to be training and capacity building around this issue, because we have to leverage the experience of the pandemic to ensure that our leaders as well as those delivering programmes have the tools and the training they need to do this.
+
+Then third, recognising the importance of the communities' voice in this space is critical, and using ways in which we're bringing communities to help to design, or research programmes, or prevention programmes, or policies, by co-production and engagement we will end up with much richer programmes and richer strategies. So those are three ways in which we could do things differently.
+
+**Counsel Inquiry**: Having a clear line of contact and communication between those who are involved in making the decisions about the creation of these strategy and guidance documents, with your organisation and with voluntary organisations who exist to promote the better understanding of those who suffer from health inequalities, other inequalities and vulnerabilities is vital, in your view, in taking this forwards?
+
+**Professor Kevin Fenton**: That's correct. One of the learnings of our experience must be that there needs to be a widening of the tent, a diversity of thought, experience, and perspectives that is brought to bear in designing plans and policies which are geared towards pandemic planning and pandemic response, but to use that discipline of engagement and partnership in everything that we're doing in our public health programmes.
+
+Now, I should say that this is part of the modus operandi for local government. Right? So the closer you are to the community is the more this is being done. The challenge is for national government partners to say: can we go further and can we do more in this space?
+
+**Counsel Inquiry**: Finally, Professor Fenton, I just want to ask you about the strength of the public health workforce and that being a necessity for an ability to react to the next pandemic as it may be coming down the line.
+
+How do we ensure that the public health workforce is strong enough and has sufficient capacity in order to be able to react in an appropriately resilient way?
+
+**Professor Kevin Fenton**: Well, I think first it's recognising the -- and valuing the importance of the public health workforce and the public health system as a key part of our national infrastructure for resilience. We would not have been able to get through the pandemic had it not been for the phenomenal work of public health practitioners working at national, regional and local level, in academia, in lots of other sectors. So recognising that asset and valuing that asset and investing in that asset now and for the future will be critical.
+
+Second, ensuring that you have the voice of practitioners, generalist specialists, engaged in planning and policy development at every level of government; and that ensures that the key skills which are required for effective pandemic planning and response are integrating that experience of public health practitioners.
+
+Then thirdly, in addition to investing in a strong workforce and ensuring that we continue to invest in the numbers required to deliver, to think about opportunities for continued partnership both with public health practitioners and those developing policies, again at every level of government.
+
+So there are things that we have to do, but it really does begin with understanding the public health system, valuing the assets that we have in our public health workforce, and ensuring that it's fully integrated into our planning and response at every level.
+
+**Ms Blackwell**: Thank you.
+
+My Lady, you have provisionally provided permission for five minutes of questions to Covid-19 Bereaved Families for Justice UK, so I will hand over, if my Lady agrees, to Ms Munroe.
+
+**Lady Hallett**: I think you may have deprived Ms Munroe of five minutes too, I think it was ten.
+
+**Ms Blackwell**: Oh, was it? I'm so sorry.
+
+**Ms Munroe**: I was about to say, my Lady. Thank you.
+
+Questions From Ms Munroe KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Munroe**: Good afternoon, Professor Fenton. My name is Allison Munroe, and I ask questions on behalf of Covid-19 Bereaved Families for Justice UK.
+
+The first question, you have already touched upon this in answer to questions from Ms Blackwell King's Counsel, it's about data gathering. I preface it by, if I may, reading just a short passage from a statement from Ade Adeyemi -- you're nodding at somebody that you've heard of, obviously -- he is a healthcare professional from FEMHO, which is the Federation of Ethnic Minority Healthcare Organisations, a coalition of over, I think, 50,000 healthcare professionals.
+
+We don't need to bring up his statement, but, my Lady, for reference, it's INQ000174832.
+
+Mr Adeyemi in his statement on behalf of FEMHO has expressed their deep concern as to how socio-economic factors exposed essentially the existing fault lines that were there in terms of disparities for poorer communities in the country generally but particularly for those ethnic minority communities from the Indian, Pakistani, Bangladeshi, black African and black Caribbean diaspora.
+
+He says in paragraph 15 of his statement:
+
+"FEMHO believes that that planning, forecasting and preparatory work for a high-consequence infectious disease such as Covid-19 did not properly consider the context of a multicultural UK and a global diverse health and care workforce. UK laboratory, field modelling and case studies prior to Covid-19 did not include references to race and/or ethnicity. The absence of a national system of data capture regarding race and ethnicity may well be one of the biggest system failures in emergency planning from the Covid-19 pandemic."
+
+Now, Professor Fenton, do you share Mr Adeyemi's view that that absence of a national system of data capture was a huge system failure?
+
+**Professor Kevin Fenton**: Well, I do agree, and as I mentioned earlier that one of the lessons and, I hope, legacies which emerges from our experience of the pandemic will be to understand and to utilise data better, especially data that can allow us to understand these differences across groups, population sub-groups, and that allow us to evaluate the impact of the interventions that we're putting in place. So that has to be a core lesson from this.
+
+In many parts of health and understanding health disparities in the UK, we have been calling for greater disaggregation, separation of the data, to help us to understand these racial and ethnic disparities, but also disparities by other protected characteristics. So it is vitally important that as we emerge from the Covid pandemic we do learn the lessons and invest in systems, data systems, that allow us to understand these effects much better.
+
+**Ms Munroe KC**: Thank you, Professor Fenton. You have in large part answered my next question, but if I may just ask sort of supplementary to that: presumably different parts of the NHS and other health authorities and government and local authorities have different systems, some are more effective and some are more efficient than others in terms of data capturing. How does one sort of bring that all together so that in fact you've got a consistent system of data capturing? Because it's no good if some people are doing it well and others are not doing it well. It's going to lead to inaccuracies.
+
+**Professor Kevin Fenton**: That's right. You know, and with the most recent organisation of the health and care systems, where we now have the creation of integrated care systems, ICBs, and stronger working between local government and the NHS, I believe we have an amazing opportunity to look at data differently, how we share data, to understand and improve population health, and how we use those data to tackle inequalities.
+
+So I believe the building blocks are there for us to do things better, but it does require additional resources, capacity, training and those data sharing agreements that allow organisations to share their information more effectively.
+
+Now, at the national level, organisations such as the UKHSA and OHID, in the Department of Health, also have a role to play to ensure that the data that they're routinely collecting from health and care systems are not only reported showing overall trends but that the discipline in ensuring that we're unpacking those data and describing the characteristics of epidemics or health challenges by a range of characteristics, that also has to be part and parcel of what's done at the national level as well.
+
+So wherever you are in the system, the discipline of using data differently and better must be a lesson from the pandemic.
+
+**Ms Munroe KC**: Presumably, Professor Fenton, part of that training that you've described is a realisation, perhaps, that data capture is important, and culturally to understand why it's important?
+
+**Professor Kevin Fenton**: Well, you know, as a public health practitioner I would definitely agree with you, and my Lady, this is the core currency of what we have to do to improve the health of populations. Because if you don't have data and if you're not able to describe the health needs of your population, then you will forever be limited in meeting the needs of those populations or in being able to evaluate the impact of your efforts on whether or not you're making a difference in the lives of those communities. So data are important.
+
+**Ms Munroe KC**: Thank you, Professor Fenton.
+
+The next question doesn't arise explicitly from your statement but more perhaps from a Public Health England report entitled Beyond the data: Understanding the impact of COVID-19 on BAME groups, of which you're the first name in the foreword of that report.
+
+Again for reference, my Lady, it's INQ000120838.
+
+Professor Fenton, do you think that the lack of data has been an impediment or a block, perhaps, to challenging and combating structural and/or institutional racism and, if so, how?
+
+**Professor Kevin Fenton**: So in the report -- and I'd like to just acknowledge, we engaged 4,000 people over a six to seven-week period to develop this report in the first wave of the pandemic, and I want to acknowledge both my colleagues in Public Health England and of course the CMO and the then Secretary of State for Health for commissioning this report, because we needed to understand the patterns of disease and its impacts that we were observing.
+
+Having data by race ethnicity is critical both to understand how the disease is manifesting itself across different groups but it is important to recognise that data by race ethnicity only tell you a part of the story. Many of the differences that we observe when we describe these racial disparities are a function of other things, for example the social and economic background and status of the individuals and the communities. It may also reflect, as we now know, those communities' experience of structural racism.
+
+So it's important that not only we have comprehensive data that enables us to describe the differences but we need to look beyond the data, which is why in this report we also engaged and heard the stories, my Lady, of communities across the country, of networks of professionals, so that we're able to, in addition to the quantitative data, ensure that we have the stories and the qualitative data of the impacts that were being seen at that time.
+
+**Ms Munroe KC**: Thank you.
+
+Professor Fenton, is a lack of any such sort of national or a really structured organisational way of gathering data in a data gathering system itself indicative or evidence of structural and institutional racism?
+
+**Professor Kevin Fenton**: I can't comment to that, I know that it is very difficult in general to move beyond the sort of routine elements in data collection for a variety of reasons, and yes, as an epidemiologist, I'd love to have not only data on race ethnicity but certainly sexual orientation, disability status, I'd love to know the neighbourhood that you're living in, to understand the sort of social and economic challenges that you may experience. But in health data you may be extremely limited to be able to collect that on a routine basis.
+
+So what national organisations can do is to provide the frameworks that allow for data sharing, so that you can combine different datasets to get a better understanding of the patterns that you're observing and that we can -- national organisations can facilitate that data sharing and that collaboration which is necessary for a richer understanding of the patterns of the disease that we observe.
+
+So it's really important that -- this is a very difficult area of practice to get the sort of data that we need, but there are ways in which you can partner differently, work differently, to tell that story as well.
+
+**Ms Munroe KC**: You've mentioned other protected characteristics and other groups such as disabled people, LGBTQ+ community; the issues that we're talking about in relation to ethnic minority communities equally apply?
+
+**Professor Kevin Fenton**: They do, and that's why we say if you're able to set the systems up that allow you to collect that sort of information, then you're able to have a richer dataset to allow you to understand inequalities in different domains as well.
+
+**Ms Munroe KC**: Thank you.
+
+Finally, Professor Fenton, again returning where we began with Mr Adeyemi's statement, paragraph 17 of his statement, at page 5, he makes reference to one of his members, a Dr Ananta Dave, who is a chief medical officer for NHS Black Country Integrated Care Board and president of the British Indian Psychiatric Association, and she states:
+
+"There was a lack of planning around risks to vulnerable groups such as BAME and older adults in care homes. It was a combination of ignorance and apathy. The government should have been gathering this data because the awareness would have been there about the impact on the vulnerable and the planning about the early stages."
+
+Do you share that view, Professor Fenton?
+
+**Professor Kevin Fenton**: So earlier I spoke about the mental model or the paradigm within which the pandemic -- pandemic influenza planning was taking place, and I think that mental model, given our experience with seasonal influenza, meant that there may have been less of a concern with inequalities because of the patterns that we see on a seasonal basis, and our prior experience with the H1N1 pandemic.
+
+So there's a -- we can understand why this occurred, but I do think that actually moving forward, especially armed with our experience with Covid-19, we now have both the rationale and the opportunity to do things differently, to ensure we understand those populations which are going to be at greater risk, that we have data systems, my Lady, that enable us to characterise and understand where those communities are, and we have the ability to both deliver programmes and evaluate the impact of those programmes on those communities. So that has to be a legacy moving forward from our experience.
+
+**Ms Munroe**: Thank you very much, Professor Fenton, you have answered again in anticipation the next part of the question. So thank you very much.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Ms Munroe.
+
+**Ms Blackwell**: That concludes Professor Fenton's evidence.
+
+**Lady Hallett**: Professor Fenton, thank you very much.
+
+**The Witness**: Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much for your help, it's been extremely interesting.
+
+**The Witness**: Thank you very much.
+
+*(The witness withdrew)*
+
+**Ms Blackwell**: Is that a convenient moment for the break?
+
+**Lady Hallett**: It is. 1.55.
+
+**Ms Blackwell**: Thank you very much.
+
+*(12.55 pm)*
+
+*(The short adjournment)*
+
+*(1.55 pm)*
+
+*(Proceedings delayed)*
+
+*(2.00 pm)*
+
+**Mr Keith**: My Lady, this afternoon's witness is Professor Mark Woolhouse, please.
+
+Professor Mark Woolhouse
+------------------------
+
+*PROFESSOR MARK WOOLHOUSE (affirmed).*
+
+Questions From Lead Counsel To The Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Could you give the Inquiry, please, your full name.
+
+**Professor Mark Woolhouse**: Mark Edward John Woolhouse.
+
+**Lead Inquiry**: Professor, thank you for your assistance to the Inquiry. You've provided a 15-page statement dated 27 April 2023. Have you appended your signature to that statement and the statement of truth at its conclusion?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Lead Inquiry**: Thank you very much.
+
+Professor, you are by profession a professor of infectious disease epidemiology, you have a multitude of qualifications, you have worked as an academic researcher, you have worked in the field of infectious diseases and global health for many years, and you are an expert on the particular topic of emerging pathogens, which is of great interest to this Inquiry, of course. You're currently the principal investigator at the Epigroup, the Epidemiological Research Group, which enquires into novel emerging pathogens; is that correct?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Lead Inquiry**: You have published more than 400 scientific papers on the issues of emerging infectious diseases and antimicrobial resistance. You've advised governments and national and international agencies over the years.
+
+Of even more central importance, during the United Kingdom response to Covid, were you a member for a time of SPI-M, that's the Scientific Pandemic Influenza Group on Modelling?
+
+**Professor Mark Woolhouse**: I was.
+
+**Lead Inquiry**: Did you attend a meeting of NERVTAG in December 2021?
+
+**Professor Mark Woolhouse**: I did.
+
+**Lead Inquiry**: We've heard evidence from Dr Calderwood that there was, in April 2020, set up in Scotland the Scottish Covid-19 Advisory Group; were you a member of that also?
+
+**Professor Mark Woolhouse**: I was.
+
+**Lead Inquiry**: You're a fellow of the Royal Society of Edinburgh and a number of other renowned institutions. You're also a published author because you wrote a book on the pandemic entitled The Year the World Went Mad.
+
+**Professor Mark Woolhouse**: I did.
+
+**Lead Inquiry**: I'd like to start, please, with the issue of the United Kingdom's ranking in the Global Health Security Index. My Lady has heard evidence that in 2019 the United Kingdom was ranked with an overall score of second in the Global Health Security Index, which is a joint endeavour between a number of US and UK bodies.
+
+Did that overall score reflect different or varying marks or outcomes in a range of areas such as prevention of the emergence of release of disease or rapid response and mitigation, various different aspects to how a country might respond to a pandemic?
+
+**Professor Mark Woolhouse**: It did, and the category "rapid response and mitigation of the spread of an epidemic" in that report was a separate category, obviously very relevant to the work of this Inquiry, and the UK scored highest in that category, by a considerable margin.
+
+**Lead Inquiry**: So it was first in that category, "rapid response to and mitigation of the spread of an epidemic"?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Lead Inquiry**: I think I may be permitted to suggest without much chance of contradiction that things didn't quite turn out in that regard as well as might be thought from that ranking.
+
+Was that a failure in the ranking, or was -- is there or was there a danger that countries which do well in such international rankings may fall into the perennial trap of complacency, or failing to notice that doing well in rankings and in terms of preparedness doesn't necessarily mean that that particular country may not remain very vulnerable in certain areas of response to pandemic outbreaks?
+
+**Professor Mark Woolhouse**: So I think that's a reasonable interpretation. The global health community, compares health responses across the world, is clearly very exercised about this lack of predictive power, not only actually of the Global Health Security Index but a number of other indices that relate, health systems, resilience and so on, and there has been a number of scientific papers published on exactly what you say, that -- the very poor relationship between the two. We've done work of our own on that in Africa, where a particular index was, again, an extremely poor predictor of actual outcomes during the Covid-19 pandemic.
+
+The designers of those indices, which is on the face of it are pretty sensible, they have very sensible criteria, I think they were defended on the grounds they weren't intended to be predictive, in that very clear sense. But if they weren't, what are they for?
+
+**Lead Inquiry**: I'm just going to pause you there, Professor, just because you're speaking quite fast and our excellent stenographer is obliged to keep up with you, as are we all. Could you just go a little bit slower, please.
+
+So the question then arises: for what purpose are they produced if they are both, by turn, not particularly predictive and possibly causative of complacency or the taking of one's eye off the ball?
+
+**Professor Mark Woolhouse**: I agree, and, as I said, this is a question with which the global health community -- research community is very exercised at the moment.
+
+**Lead Inquiry**: Since Covid-19, have any comparable international indices been published in which the United Kingdom has appeared?
+
+**Professor Mark Woolhouse**: I'm not sure if there was actually rankings done, I mean, there have been a number of studies of the pandemic response, but whether they've ranked them -- if you're thinking of a particular example, please ...
+
+**Lead Inquiry**: No, I was just wondering whether or not post-Covid that such rankings may have had introduced into them a greater degree of reality?
+
+**Professor Mark Woolhouse**: No. Well, if they had I would say at the moment that is premature. I think we have to deconstruct what these rankings were and weren't telling us and understand that much better.
+
+You put your finger on it, I think, when you asked me: is there some mix-up between preparedness or having the capacity, the health system capacity, to respond, and also actual vulnerability to any particular pandemic agent? And a very good example of this is one of the biggest risk factors for a severe Covid-19 pandemic around the world is having a more urbanised population. This virus spreads particularly well in cities. Well, that wasn't part of the pandemic preparedness indices. That's a marker of vulnerability.
+
+Another marker of vulnerability would be having an ageing population. For Covid-19 that had enormous effects on the vulnerability of countries. So the UK was very vulnerable in that particular criteria. But that wasn't included in the pandemic preparedness indices.
+
+So -- and I believe the ex CMO, Sally Davies, has already given evidence about the possible role of poor population health. So in the UK we have a number of population health problems, including obesity, and they have an impact.
+
+So those are all about vulnerability, and the preparedness indices are trying to get some indicator of what our level of preparedness is, and clearly those two are not the same thing and when they combine, they combine in the unpredictable way that we saw in 2020.
+
+**Lady Hallett**: Forgive me for interrupting, Mr Keith. Are there any examples of a country that gets a low ranking and then performed well?
+
+**Professor Mark Woolhouse**: Yes, there are. A number of countries in Africa -- so we went over my qualifications. I'm actually director of a global health partnership that works in Africa, worked on pre-pandemic planning in Africa and also then, of course, during the pandemic as well. The point I just made to you there was about urbanisation, so by far the worst affected country in Africa was South Africa, which has by far the strongest health system. So countries with more outdoor lifestyles, more rural populations were actually much less affected.
+
+That's, I think -- I believe that's true globally as well.
+
+**Mr Keith**: So would it be fair to say that there are two core weaknesses or dangers associated with placing too great a reliance on any system of international reliability? Firstly, we are dealing here, are we not, with the field of pathogenic outbreaks, and certainly respiratory viruses but perhaps all pathogenic outbreaks are inherently unpredictable and, therefore, there is a degree -- a very distinct limit on how well one can predict outcomes.
+
+Secondly, systems that focus about governmental and structural preparedness may fail to pay sufficient account to the vulnerability that any particular country may have within its system because of comorbidities and the like, and so on.
+
+Are those two propositions fair?
+
+**Professor Mark Woolhouse**: Yes, I think that's fair, and perhaps there wasn't enough awareness of just how important those vulnerabilities were, but with the very important caveat that the ones I listed just then were, because they were relevant to Covid-19, and of course if we did have a pandemic of a very different infectious nature -- infectious agent with a very different nature, very different problem that it presented, the vulnerabilities may be different vulnerabilities.
+
+**Lead Inquiry**: Indeed.
+
+**Professor Mark Woolhouse**: For example, the UK is not thought of as particularly vulnerable to a vector-borne disease outbreak.
+
+**Lead Inquiry**: Just pause there, vector-borne, please?
+
+**Professor Mark Woolhouse**: Carried by biting insects or arthropods, so a mosquito-borne one like dengue --
+
+**Lead Inquiry**: Or a flea or --
+
+**Professor Mark Woolhouse**: -- good example. Could be, a flea or a tick. Ticks are also common. But -- sorry, I've lost my train of thought.
+
+**Lady Hallett**: UK not vulnerable --
+
+**Professor Mark Woolhouse**: Yes, so we're not thought to be vulnerable to something like Zika virus because we don't have enough of the right kind of mosquitoes to transmit that particular disease. So vulnerability is very, very context dependent, and what makes us vulnerable to Covid-19 may not make us vulnerable to other kinds of pandemic.
+
+**Lead Inquiry**: On that theme, I now want to ask you about the degree to which the risk of non-influenza new and emerging pathogenic outbreaks was recognised pre-Covid.
+
+Could we have INQ000149116, please.
+
+This is a draft of a high level summary of a paper -- well, a paper called High Level Summary of Emerging Viral Threats to Human Health, prepared by yourself and colleagues and referenced to the University of Edinburgh in March 2015.
+
+In this summary, Professor, you address the sources, the genesis of particular types of threats facing the United Kingdom, and you divide them up into threats from viruses which present either a clear and present danger, or are matters of concern, or where you felt there were gaps presumably in the systems in place in order to be able to identify those viruses and to respond to them.
+
+On page 2, in the first category, "Clear and present danger", you said this:
+
+"This category covers taxa containing viruses that are well-recognised public health threats and where (better) vaccines are needed."
+
+Was it the purpose of this paper to identify the greatest threats and therefore also what may need to be done in order to better prepare ourselves for meeting those threats?
+
+**Professor Mark Woolhouse**: The paper was prepared as part of the background documents for a meeting chaired by the then CMO, Sally Davies, for something called the UK -- what became, I think, out of that meeting, the UK Vaccine Network, so the aim was to identify what kind of threat the UK should be concerned with in terms of building the capacity to produce a vaccine. Work that's been carried on since in other forum as well. So that's the context --
+
+**Lead Inquiry**: That was the reason why.
+
+You identify three broad categories of virus: Filoviridae, which includes Ebola and the Marburg virus, they cause haemorrhagic fever; and then this second category, Coronaviridae, including the severe respiratory infections Severe Acute Respiratory Syndrome coronavirus -- we know it as 1, I suppose -- and MERS, the Middle East Respiratory Syndrome coronavirus.
+
+"We note that although there are not currently any vaccines available against human coronaviruses there are vaccines for animal coronaviruses ..."
+
+Then a third category, which we needn't concern ourselves with for present purposes.
+
+Were you, in essence, identifying that the broad genus of coronavirus viruses presented a clear and present danger and that, by implication, this was something that needed to be addressed in terms of response, vaccine response of course, but presumably generally?
+
+**Professor Mark Woolhouse**: That was our view then, yes.
+
+**Lead Inquiry**: To what extent was the risk or the danger presented by coronaviruses recognised at the international level, for example by the WHO and its prioritisation of diseases?
+
+**Professor Mark Woolhouse**: I didn't become involved in the WHO prioritisation exercises until two years later, in 2017.
+
+**Lead Inquiry**: Is that the WHO Research and Development Blueprint exercise?
+
+**Professor Mark Woolhouse**: Correct.
+
+**Lead Inquiry**: We'll have a look at that, then, straightaway. INQ000149108.
+
+Did the WHO, for our purposes in 2017 and 2018, produce an annual review of diseases which, in its opinion, were required to be prioritised because of the risk that they posed?
+
+**Professor Mark Woolhouse**: That's correct. Specifically, the aim of this exercise, as I understood it, was to identify gaps in R&D, in research and development, and so clearly recognised threats such as influenza were not included in this exercise. They were felt by the WHO that this was already covered. So the exercise was quite deliberately to look beyond influenza and other established threats, such as HIV/AIDS, to those where there hadn't been enough attention from the research and development communities.
+
+**Lead Inquiry**: Influenza or at least in the form in which it might strike the United Kingdom, can be met with antivirals. There is a well known brand, Tamiflu, antiviral, there are vaccines in place, are there not, for influenza and if a seasonal influenza comes around that an existing vaccine cannot address, it's not overly difficult to modify the vaccine in order to ensure that it's an appropriate vaccine for that new seasonal variety; is that all correct?
+
+**Professor Mark Woolhouse**: That's all correct. I wouldn't want to leave you or the room with the impression that that doesn't mean influenza is not a danger.
+
+**Lead Inquiry**: No, no, no. I think there has been plenty of evidence on that, Professor.
+
+**Professor Mark Woolhouse**: Okay.
+
+**Lead Inquiry**: The point is, though, that influenza is a pathogenic -- well, it's a pathogen for which there is already in existence a well known and quite well travelled countermeasure in the form of antivirals and vaccines.
+
+But for coronavirus, there was none; is that correct?
+
+**Professor Mark Woolhouse**: Well, too little would be the WHO's view, yes.
+
+**Lead Inquiry**: All right.
+
+If we look at page 16, we can see that you were on the Prioritization Committee. You will see your name towards the bottom of that list, alphabetically.
+
+If we go to page 2, we can see the aims of the annual review set out.
+
+So in essence, I think this process had started around May 2015, a research and development blueprint was drawn up to try to reduce the time lag between the identification of nascent pathogenic outbreaks and the approval that might be given to an antiviral or vaccine or some countermeasure.
+
+An interim list was drawn up, and then in 2017 that original list was triaged or reduced so that you could produce a list of those viruses which really did present the greatest concern in this way.
+
+Is that a correct summary?
+
+**Professor Mark Woolhouse**: It is, yes.
+
+**Lead Inquiry**: So we can see that in the middle of the page, this summary:
+
+"The 2017 annual review determined there was an urgent need for research and development for:
+
+"- ...haemorrhagic fevers ...
+
+"- Crimean-Congo Haemorrhagic Fever ...
+
+"- Filoviral diseases ...
+
+"- Middle East Respiratory Syndrome Coronavirus ..."
+
+There is our old friend MERS.
+
+"- Other highly pathogenic coronaviral diseases (such as Severe Acute Respiratory Syndrome, (SARS) ..."
+
+Then references to the well known diseases of Nipah, Rift, SFTS and Zika.
+
+Is this the position, then, that this senior and august body and its committee, of which you were a member, was identifying that because of the risk posed by coronaviral diseases generally, so not just MERS and SARS, there was an urgent need for research and development?
+
+**Professor Mark Woolhouse**: Yep, that was the conclusion of the committee, yes.
+
+**Lead Inquiry**: If we go to page 13, we can see then the final report, if you like, or the determination of the committee, the list of diseases is then set out, and in addition some of the thinking and some of the discussion about why some diseases have made it on to that list and why others had not.
+
+May we take it, then, Professor, from the fact that this prioritisation committee had identified coronaviral diseases as presenting the threat that it does, that there was a general acknowledgement in the scientific world, perhaps not yet politically but certainly in the scientific world, of the threat posed by coronaviral diseases?
+
+**Professor Mark Woolhouse**: Yes, that's right, and you made the point of the contrast with influenza at the beginning.
+
+**Lead Inquiry**: Was the position the same the following year in 2018, do you recall? Were MERS and SARS and, by then, something called Disease X on the list?
+
+**Professor Mark Woolhouse**: So I wasn't a member of the same committee in 2018. I only sat on it in January 2017. Yes, they still had MERS and SARS, as I recall. They'd actually combined them into one category of the severe coronaviruses. They had at that stage added the category Disease X, although it also emerged from this 2017 meeting, and I remember it very well. It's there at the bottom of the piece of paper we have in front of us now:
+
+"In addition to any disease identified by the Blueprint's decision instrument for new diseases."
+
+That was taken by the WHO and developed into Disease X concept, and that actually, I believe, appeared on their website as early as March 2017 as Disease X, and we had a lot of discussions in the room in 2017 about the concept of Disease X without actually attaching that label to it.
+
+**Lead Inquiry**: What is the concept of Disease X? My Lady heard evidence from Professor Whitworth and Dr Hammer on why this concept, Disease X, has utility and why it has come to light and why it's being pursued.
+
+Is it in essence emblematic or reflective of the need to make sure that we never take our eye off the existence or the possible existence of a hypothetical disease that will take us all by surprise? It may not necessarily be zoonotic, it could be a different type of disease, but we need always to be aware of the need to focus upon that possibility?
+
+**Professor Mark Woolhouse**: Yes, I think the wording in the report of the 2018 committee is slightly different from the one you used just now, but it is there as a marker to acknowledge that the next pandemic might be caused by a pathogenic agent that we are not currently aware of, in other words something new.
+
+It's a very simple concept, obviously, but we felt it was important that it was explicitly recognised, so that the -- and remember, this is targeted at the research and development community, so it's a marker that the research and development community did not forget to think about: what do we do if it's an unknown pathogen? What if it's something we haven't encountered before? What are the R&D requirements in that scenario?
+
+**Lead Inquiry**: May Disease X be either a wholly unknown pathogen or may it be an existing pathogen but with variant characteristics, so a known disease but with significantly different characteristics?
+
+**Professor Mark Woolhouse**: Yes, that's a little bit of a nuanced point. So you could take that from new strains of seasonal influenza which we get every year, so those are new, but generally we're able to handle those, to something completely out of the blue. The example I give on that is variant CJD, which is the causative agent of Mad Cow Disease, which was a very worrying pandemic -- or epidemic in the UK, fortunately a small one, in the mid-1990s. That was completely unanticipated, that -- well, not completely, there were one or two scientists who had been working on those sorts of agents, but it was very surprising to the majority of us.
+
+Whereas something like, for example, a new strain of coronavirus would not be a complete surprise but it would be new. Again, the point of this exercise is it might need significant R&D attention as to how you would deal with something like that if it did arise.
+
+**Lead Inquiry**: It is self-evident that the prioritisation committee were thinking about the possibility of a novel pathogenic outbreak, a new disease, and by implication expressing concern about that possibility in a way that governments perhaps were not. The structural, the preparedness, the governmental paperwork which has been adduced before my Lady shows that at that same time there was not the same degree of attention being paid to non-influenza pandemics. Why was that, do you think?
+
+**Professor Mark Woolhouse**: That's a very big question.
+
+So there was -- undoubtedly you're correct, there was a focus on influenza in terms of thinking about pandemic threats and preparedness for them, but also again, as highlighted in this, the research being done on infectious agents, you could argue that was also very focused on influenza.
+
+I can give you an analogy, possibly, if you would like a horseracing analogy, but the situation is this: if you're deciding whether to invest your budget and bet on a single horse running in the Grand National and you brought a committee of horseracing experts together to decide which one you should put your money on, they would pretty likely end up with the favourite, they would say put your money on the favourite, and there is no question at the time that pandemic influenza was the favourite.
+
+The problem with that, it sounds a very rational strategy, but the problem is there's an awful lot of horses in the Grand National, and the chance of the favourite winning is actually quite small. 4 to 1 would be very, very short odds for the favourite for a Grand National. But the chance of the horse winning with the 4 to 1 odds is only 20%. If you bet on the favourite, you are very likely to lose your money. I think that's a fair analogy to how we were viewing threats, pandemic threats at the time.
+
+**Lead Inquiry**: The sheer number of riders and racers in the Grand National is reflective of the inherent unpredictability of pathogenic outcomes and viruses, and it is folly to assume a given outcome?
+
+**Professor Mark Woolhouse**: Yes. But if you'd asked me at that time, at that stage, which was the favourite in the race, I would have said pandemic influenza, but I would not and did not at the time favour putting all my money on that one bet. The correct strategy, in my view, is to hedge your bets.
+
+**Lead Inquiry**: An each way bet on other possible finishers.
+
+At the same time as this thinking was going on, the MERS and SARS epidemics had taken place --
+
+**Professor Mark Woolhouse**: Yes.
+
+**Lead Inquiry**: -- and particularly so in the Far East.
+
+At INQ00018793 there is an article entitled Lessons learned from SARS: The experience of the Health Protection Agency, England, dated -- if we go forward one page -- 16 November 2005.
+
+If we could go to page 5, I should say that this report reports on the experiences of what was then the Health Protection Agency in England on how the United Kingdom had coped with the limited way in which SARS had impacted, relatively speaking, upon the United Kingdom.
+
+If you could scroll back out, please, the last paragraph in the section headed "Surge capacity within the HPA", so the right-hand side, the right-hand column, thank you:
+
+"There is currently limited surge capacity to respond to an incident such as SARS that requires a large team over a prolonged period of time to prevent fatigue and potential burn-out of key staff involved in the response."
+
+Then if we could go to page 6 the last paragraph refers to:
+
+"Data from countries with substantial outbreaks ..."
+
+So the bottom right-hand corner, thank you.
+
+"... demonstrated that basic public health and infection control measures such as contact tracing, infection control procedures, quarantine and voluntary home isolation were effective in controlling the outbreaks in the absence of a rapid diagnostic test, a vaccine or effective treatment. The outbreak highlighted that all levels of the healthcare system in the UK need to be prepared to respond; especially as the level of threat remains ever present ..."
+
+Then, of course, there is the reference to the possibility of there being further influenza outbreaks and the "potential emergence of a strain of the ... virus with pandemic potential".
+
+Then there is another reference the following page to the need to respond to any large outbreak by way of substantial surge capacity.
+
+So it is obvious that in the scientific world and the academic world, and perhaps to some extent in the political world, there was a recognition by the years after SARS, so 2005, that a future pathogenic outbreak with severe potential, a pandemic, would require surge capacity to deal with the sheer numbers and also to deal with the fact that the inherent unpredictability of the characteristics of a pandemic or the virus meant that having a surge capacity in place was part of the necessary -- would be part of the necessary countermeasures.
+
+Why do you think that national governments did not expand their surge capacity to deal with the possibility of a novel or a new emerging pathogen? Would it have been for budgetary reasons only or do you think there wasn't a sufficient understanding of the risk?
+
+**Professor Mark Woolhouse**: I can't answer that question for government and say what their thinking on it was. I can give you a little bit more context.
+
+**Lead Inquiry**: Please.
+
+**Professor Mark Woolhouse**: So SARS was a very worrying incipient pandemic, but through what was essentially outbreak control in the affected countries, it was brought under control, and in the end the virus was actually eradicated, it was not continued. So it didn't actually develop into what we would now call a pandemic.
+
+Scientists at the time were very clear that it had a good potential to do that, so it was an extraordinary success story, led particularly by the World Health Organisation, to bring that potential pandemic not only under control but actually to eliminate the virus, but it never actually developed into a wide-scale population problem of the sort that we would see, say, we'd expect to see with influenza.
+
+And MERS was the same, MERS was never -- it has produced lots of outbreaks and very concerning ones, but it's not gone into community transmission, it's not spread through whole populations.
+
+So I think even despite experience of SARS, there was probably a little bit of thinking that this was still a theoretical possibility. In the event, SARS didn't start major epidemics.
+
+**Lead Inquiry**: Was that because of the lower rates of transmission as opposed to the fact that certain countries had been well placed to bring it under control and did so?
+
+**Professor Mark Woolhouse**: So I'm not sure how well placed other countries were to respond to SARS. So the SARS outbreak was 2003, and it was new, it was the first severe coronavirus. We knew of other human coronaviruses, they have been around a long time, but they cause colds, basically. So SARS was the first severe one, so I can't say how countries such as China, who are at the epicentre of the outbreak, how well prepared they felt they were for it, but they responded well, and the way they responded to SARS was by this rapid detection of cases and the isolation of cases and in some cases their -- in some instances their contacts, and this was sufficient to bring that particular -- those particular set of outbreaks under control. Coupled -- I should, because this is important -- with very rigorous infection control in healthcare settings, because both SARS and MERS have a propensity to spread within healthcare settings. So they were able to bring it under control and did so, as I say, remarkably effectively.
+
+**Lead Inquiry**: There were in the United Kingdom a number of exercises between 2015 and 2018 concerned with testing our capabilities to deal with high-consequence infectious diseases. So there was an Ebola surge capacity exercise, a coronavirus-related exercise, Exercise Valverde, the MERS exercise which you'll recall, Exercise Alice, and then, more recently, an HCID related exercise called Exercise Broad Street.
+
+All those exercises, though, focused, did they not, upon HCIDs? Were HCIDs generally regarded, as perhaps the name identifies, as being high consequence, so very high levels of fatality, high-consequence diseases, but diseases which would be associated with limited spread, perhaps confined to healthcare settings, close contacts, patients and the like, and not susceptible to widespread transmission such as influenza or, as we now know, Covid?
+
+**Professor Mark Woolhouse**: So I'm not familiar with all the exercises you listed there, but I'm familiar with some, and I would absolutely support the strategy of conducting exercises that look at high-consequence infectious disease outbreaks, so ones that don't generate into full-blown epidemics. I mean, that's clearly something that government should be doing and was doing.
+
+The question then is whether or not people should have been looking also at the possibility that these would move beyond outbreaks into major epidemics that would affect the community.
+
+Now, this isn't a report of one of the exercises, but I think it comes out of it, so some of the risk assessments on SARS, one of the papers you gave me, is very clear that they do have a scenario there, they have the scenario you described, where there's a major outbreak but it is containable, the exercise is about containing it, but they do also allow the possibility of a community-wide outbreak. So that is recognised within the risk assessment, but whether it was explored as an exercise I have no knowledge of that myself.
+
+**Lead Inquiry**: But at the same time the risk assessment process divided up, by way of pigeon-holing these pathogenic outbreaks, the diseases into two categories. You had influenza pandemic, which is of course regarded as a mass event, and then, by contrast, new emerging disease, which was assumed to be confined to healthcare settings, to have a small number of casualties, in the tens or hundreds, and then casualties, those who are falling sick, in the thousands.
+
+But there was no middle ground, it was either influenza pandemic with massive widespread transmission and pandemic potential, with hundreds of thousands of deaths, or very limited low number of deaths, HCID. There was no consideration given as a separate category to an HCID or a pathogen, a novel pathogen, with widespread potential, pandemic potential.
+
+**Professor Mark Woolhouse**: So I agree, that is how it looks.
+
+**Lead Inquiry**: Were you aware, was the scientific community aware of that approach being adopted in the risk assessment process at the time and also in what is now known to be the 2011 UK strategy on pandemic influenza?
+
+**Professor Mark Woolhouse**: Were we aware, sorry?
+
+**Lead Inquiry**: Were you aware of that approach being adopted and applied in the government's strategic approach, its pandemic planning, or in the risk assessment procedures which the government applied?
+
+**Professor Mark Woolhouse**: So, yes, but there are different phases here. So in the immediate aftermath of 2003/4, when the SARS epidemic, let's describe it as, happened there was a lot of thinking about SARS-like events. But then there was the swine flu pandemic of 2009/2010, and that reignited interest in influenza pandemic. So we tend to be rather reactive, I think, in our thinking.
+
+**Lead Inquiry**: Does it follow from the fact that that 2011 strategy was concerned only with pandemic influenza that aspects of that strategic approach were going to be inappropriate and ineffective for a coronavirus?
+
+**Professor Mark Woolhouse**: Well, we all know that to be the case now, and I would say yes, it was visible at the time, if anyone was looking at it through that particular lens, but it was, and it says so at the top of the document, a pandemic influenza preparedness plan and not a pandemic preparedness plan, and I would regard those as different things. The pandemic -- the influenza pandemic preparedness plan has not been fully tested yet, thank goodness, so we wouldn't know. But we weren't -- what's the phrase? We'd done our homework but it turned out we'd prepared for the wrong exam.
+
+**Lead Inquiry**: Was it generally understood or was the scientific community conscious that there was, relatively speaking, very little debate in governmental terms of, flowing from the risk of differences in incubation period, differences in levels of transmission, differences in the R0 number, differences in the type of infection, whether it might be asymptomatic or symptomatic, that there was no widespread debate about what possible countermeasures could be devised, thought of, debated and analysed to meet a different type of pandemic outbreak, so no debate of the countermeasures of mass contact tracing, mass diagnostic testing, the impact upon schools of long-term closures, the impact upon marginalised sectors of society, the impact of mandatory quarantining? That debate in a general sense doesn't appear ever to have taken place pre-Covid.
+
+**Professor Mark Woolhouse**: Again, those two phases, the post SARS phase and the post swine flu phase, are relevant. In the academic and the research communities there was always a tremendous amount of interest and work on the best ways that we might come up with to control those particular challenges, but scientists are like everyone else, we also follow what happens, so we were focusing a lot on SARS-like ones in the early 2000s and then shifted more to pandemic influenza later. But not exclusively so, there was still work on that. So there's a lot of research going on about what the right ways are to respond to these different types of threat, and, as you explored with me at the beginning of this, there was also some talk about the diversity of threats, what those other types of threats might look like. But it was always apparent to me, and I'm sure to many other colleagues at the time, that by the time it got into government and Department of Health and ... influenza had somehow risen to the top again, and a lot of this other work, sort of supporting work for other types of threat, got less attention and didn't appear, as you quite rightly say, in the plans that were written in that period.
+
+**Lead Inquiry**: I think my Lady heard from a witness a couple of weeks ago who observed that it's a necessary part -- or it's an unintended consequence, perhaps, from governance and from systems of government that officials and politicians like to be able to have a piece of paper that identifies the problem and the answer, and therefore there was a tendency to say, "We have correctly identified the greatest threat as pandemic influenza, we can focus on that", and because other threats are lesser in form they just tended to slip out of the side?
+
+**Professor Mark Woolhouse**: I think that's exactly right, and I have experience going back over 20 years working as an adviser to various government departments and agencies, and yes, I would say that was fair. Once the main threat had been identified, that became the priority.
+
+Again, this is maybe a job for the Inquiry, but we had a pandemic influenza preparedness plan, and even if it was, by the time the pandemic arrived, nine years old, but we had it, but it would have been an awful lot of work by an awful lot of people to prepare pandemic preparedness plans for a SARS-like pandemic, that we're just describing, or a haemorrhagic fever threat, or a vector-borne, that is the mosquito-transmitted threat, or a food-borne threat like Mad Cow Disease. It would have been an awful lot of effort for the relevant government departments to prepare for all those separately.
+
+**Lead Inquiry**: But a lot of lives potentially saved, of course?
+
+**Professor Mark Woolhouse**: As you say, an important exercise.
+
+**Lead Inquiry**: Are you aware that following the pandemic the Royal Academy of Engineering reported upon the risk assessment process operated by the United Kingdom Government and identified that there had been too great a focus on pandemic influenza and reported that there had to be a wider consideration of the range of possible scenarios which might ensue?
+
+**Professor Mark Woolhouse**: Yes, I am, and my understanding is that is now being built into current cross-government risk assessments, but I haven't seen a final draft of that assessment yet.
+
+**Lead Inquiry**: One separate but related point, in the scientific world there was therefore, we can see from your evidence, extensive debate about possible countermeasures that could be relied upon to meet the particular range of scenarios which might emerge. Was there extensive debate at academic and scientific level of the benefits of wearing masks? Putting aside whether or not they did prove to have significant benefit, was there nevertheless a debate taking place about the degree of benefit pre-Covid?
+
+**Professor Mark Woolhouse**: I am aware of that issue being discussed. It wasn't one that I had personally got particularly involved in, but it has long been an issue as to whether masks are effective or not effective and that has been discussed in scientific and health circles for many years now.
+
+**Lead Inquiry**: A separate topic, please, Professor, data collection.
+
+In March of 2017 you started engaging in a course of correspondence with the then Chief Medical Officer of Scotland, Dr Catherine Calderwood, from whom my Lady heard this morning, about the problems that you had encountered in getting access to data to allow you to carry out a study that you were then engaged in.
+
+With your vast experience, is there anything that you would like to say about the inherent or strategic difficulties placed in the way of efficient data gathering across nations, in your case Scotland? Pre-Covid, was the system of data gathering for the purposes of research and healthcare an efficient one?
+
+**Professor Mark Woolhouse**: It was not, but again, just to slightly correct the context, we're not talking about the actual gathering of data here -- although there may be issues connected with that too --
+
+**Lead Inquiry**: It was the access?
+
+**Professor Mark Woolhouse**: -- we're talking about the access to that, in this particular context that you raised, for health research purposes, and the procedures for accessing data in Scotland had become so extraordinarily onerous that in what I would have thought was a fairly standard, routine, non-demanding research project that used anonymised data, so there was no risk of patient confidentiality or anything, the process of accessing those data took over a year, hundreds of person hours, and was the main job that one of my graduate students assigned to this particular project did for the whole year.
+
+We got access to the data finally, but only because our colleagues in the various aspects of the process that were required to deliver the data were extraordinarily helpful and were working with us. But it was extremely onerous, and I have made the decision now, and I stick by it, that I will not put graduate students on that kind of research again in Scotland until this is fixed. It's just far, far too onerous.
+
+Presumably one of the things you're referring to in that email correspondence is I wrote that I was very concerned about the implications of having such an onerous data access system in the event of an emergency like an influenza pandemic.
+
+**Lead Inquiry**: You said:
+
+"There is a compelling case that Scottish lives are being put at risk because research that needs to be done is not being done ... I dread to think of the consequences if we ever find ourselves facing a health emergency such as pandemic influenza."
+
+**Professor Mark Woolhouse**: That's correct.
+
+**Lead Inquiry**: You called upon Dr Calderwood to assist and the email correspondence shows that she responded to you offering to lend her support and inviting you to contact I think some particular officials who she thought might break the logjam.
+
+Was this the position, that it appeared to you that there was too great a weight placed upon privacy rights and, in the balance between proper medical research and data protection, the balance was out of kilter?
+
+**Professor Mark Woolhouse**: Completely out of kilter. The hurdles put before us in the interests of data protection were, in my view, entirely disproportionate and were a serious impediment to getting potentially life-saving research done.
+
+**Lead Inquiry**: Are you able to say whether or not post-Covid there has been an improvement in that balance and whether or not access to proper data for the purposes of serious research is now easier?
+
+**Professor Mark Woolhouse**: It became easier during Covid. I realise that's not the phase you're talking about. I think it remains to be seen what the legacy of that is. I have in the past experienced this exact problem. I advised the then chief scientist, Sir David King, on the foot-and-mouth disease outbreak of 2001, advising him directly, and we had exactly the same issues there, that he wanted -- you know, this particular problem, he wanted mathematical models of how that epidemic might develop. We couldn't provide them at the time because we didn't have key data we needed from what was then the Ministry of Agriculture, Food and Fisheries, because of alleged data confidentiality issues. During the pandemic -- epidemic, foot-and-mouth epidemic, once it had started, data we had been seeking for several years suddenly arrived on my desk.
+
+So during an emergency, things change. And what became -- what were barriers there -- but it would have been much more useful then to have had the data in advance, we would have been months ahead, and it would have been much more useful in the Covid pandemic to have all these arrangements sorted out in advance because we would have been months ahead.
+
+So we were left in the position of having to deal with these data access issues in the face of a pandemic.
+
+**Lady Hallett**: And are the issues the same for data access around the United Kingdom? You're talking about what happened to you in Scotland.
+
+**Professor Mark Woolhouse**: No, I think they're not exactly the same, the procedures are not exactly the same, but I suspect many of my colleagues in England would share my views that this is not an easy logjam to break, as Mr Keith put it.
+
+**Lady Hallett**: All right.
+
+**Mr Keith**: I think the Data Protection Act and the GDPR apply across the United Kingdom, but --
+
+**Professor Mark Woolhouse**: Yes, but the processes --
+
+**Lead Inquiry**: -- the processes for accessing data in Scotland ...
+
+During the pandemic in fact -- well, my Lady's heard evidence that there were a number of remarkable surveys and data-driven projects put into place, from the ZOE project, Vivaldi, the Covid-19 survey and so on. There was one in Edinburgh, the EAVE data analysis project, which I think was able to secure access to data from general practitioners in healthcare settings relating, obviously anonymously, to over 5 million people in the population for the purposes of carrying out modelling and research and the like.
+
+So is the lesson, if there is a lesson to be drawn from this, Professor, that we cannot allow ourselves to slip back? Having, under the exigencies of the emergency, been able to access such data to save lives, we must make sure that for research purposes data access is allowed to continue?
+
+**Professor Mark Woolhouse**: So I think there were actually two lessons --
+
+**Lead Inquiry**: Please.
+
+**Professor Mark Woolhouse**: -- one might draw from that. So first of all the EAVE project was led by my colleague Sir Aziz Sheikh at the University of Edinburgh, and a very dedicated team that worked extraordinarily hard on it. It produced some tremendously important information very quickly, for the reason you suggested, because we were able to access health records and link health records, which is crucial. The linkage of health data is particularly difficult, particularly onerous in terms of data protection.
+
+But we were able to do it, and that provided invaluable information very quickly on the efficacy of vaccines shortly after the mass vaccination programme began and also on the severity of the different variants of Covid. So this was extraordinarily important information, and the team did remarkable work on this.
+
+But they didn't produce their first outputs until June 2020. If we'd had that in place in January, February and March 2020, we could well have produced extremely valuable data that would have informed the early response. But we didn't have it in place, and one of the reasons we didn't have it in place is we didn't have the permissions set up.
+
+There are other reasons too, I wouldn't say that was the only one. So that's absolutely one lesson: you need all this -- sorry, I beg your pardon -- we need all this in place in advance.
+
+The second lesson is, as I've just explained, EAVE wasn't in place ready to go in place in January 2020, it had to be set up, and the set-up included all these data access protocols that had to be -- that took months to work our way through. But it wasn't set up, nor were some of the other ones you mentioned, nor was Zoe, nor was QCovid, nor was COG-UK, the genome wide ... all of these things, and there's many other initiatives -- CoMix, you mentioned CoMix -- all of these had a tremendous impact, positive impact, on how we managed the pandemic. None of them were set up in advance. We would have been so much further forward if they had been.
+
+If I may add one further level to this story, we, in the Royal Society of Edinburgh, which you mentioned I'm a fellow of, we produced a report saying how important it was to have this sort of data collection systems, the data pipelines, the information flows, the permissions set up in advance, but we put this in a report that was published in the wake of the swine flu pandemic, and these things weren't done, and so it was a cause of great frustration to me and many other colleagues, including in EAVE, that we were reliving, in a way, the frustrations we'd had ten years before, almost ten years before, and we were going through this again. They hadn't been set up in advance.
+
+**Lead Inquiry**: During that time you had been lone voices in the wilderness, I expect?
+
+**Professor Mark Woolhouse**: In terms of the need for data during pandemics, I would say not, but -- I would say there was a small chorus of voices, but they weren't heard. Data protection had complete sway over this. That was the priority at the time and not access to researchers or to research programmes that might turn out to be useful if there was a pandemic. That was very, very low, I think, on the list of priorities people had. But as you say, I did object to that prioritisation in writing to the then Chief Medical Officer of Scotland.
+
+**Lead Inquiry**: Three final topics, please, briefly, Professor.
+
+Firstly, you are now a member of the Standing Committee on Pandemic Preparedness, the body in Scotland set up by the Scottish Government, about which my Lady heard evidence from Caroline Lamb, the Director General for Health and Social Care in Scotland, and from Dr Calderwood, the former Chief Medical Officer.
+
+Does the existence of such a body on -- a Standing Committee on Pandemic Preparedness mean that, at least insofar as Scotland is concerned, there is less risk of a loss in institutional memory? That is to say if there is a body with political clout able to keep the pot boiling, then the learning, the incredibly valuable understanding and knowledge which has been gained as a result of having to deal with a pandemic is less likely to be lost; would you agree?
+
+**Professor Mark Woolhouse**: I think that's exactly right, and my understanding is that's one of the primary purposes of the committee.
+
+**Lead Inquiry**: Secondly, you call in your witness statement for further focus to be paid on the less notable or perhaps the less well known disciplines of epidemiology, clinical medicine, diagnostic medicine and public health research, as opposed to other perhaps more famous areas, genomic testing perhaps. What did you mean by that? Why is there a need for greater focus on those areas of medicine?
+
+**Professor Mark Woolhouse**: I think this is a tremendously important point for the scientific community, the health research community, to bear in mind. During the pandemic and since the pandemic, there has been quite rightly tremendous focus on the technological innovations, particularly, for example, the development of vaccines, and greater claim to the underpinning science, the science of -- decades of science that underpin that, and that is, as you well know, an extraordinary success story that we should all celebrate, so I'm in no way putting that to one side. But for the first year of the pandemic, slightly less -- mass vaccination in the UK started on, I think it was, December 8, 2020, remarkably fast, quite extraordinary. But up to that point, other than trials, the vaccines had not saved a single life. They weren't there, we didn't have them. So what saved lives were those disciplines you just listed, the much less glamorous and well funded and well regarded disciplines of patient care, epidemiology, working out what public health interventions work. They haven't, I think, received the same attention, they haven't been put on a pedestal to the level that -- quite rightly -- the vaccine development has been, and we will need them next time.
+
+There is, as you're well aware, a very ambitious -- but ambition is good -- but a very ambitious plan from the G7 to deliver a vaccine within 100 days of a public health emergency being declared, and that's fine, but while we're waiting for the vaccine, we will need to control the next pandemic in other ways, and that will require knowledge from the disciplines that I've just mentioned; and it's not just 100 days, because after the roll-out started in the UK of the vaccine, that was not the end of the UK's pandemic. More than half the people who died in the UK died of Covid after the vaccination programme began.
+
+It takes time to roll out a vaccination programme, and when you learn during that process that you actually need two doses or more, it takes more time and, while that is happening and the vaccine has yet to do its work, we're going to need all those inputs, and I really hope that is not lost in -- not just by this Inquiry but by the scientific and health communities as a whole; that we recognise we are going to need them next time.
+
+**Lead Inquiry**: And the government?
+
+**Professor Mark Woolhouse**: And the government.
+
+**Lead Inquiry**: Finally this: a number of your colleagues in the scientific world and professional world of medicine and epidemiology have said, have observed: don't be fooled into thinking that the next pandemic will be like the last one. What could the next pandemic be? Will it necessarily be a coronaviral pandemic, or something else?
+
+**Professor Mark Woolhouse**: There are many different candidates. In the document you referred to early on we identified 22 categories of virus that we -- 22 -- were concerned about that were potential threats. The ones we've talked about in the hearing today include not only SARS-like ones but Ebola, Zika, BSE or Mad Cow Disease, these are very, very, very different threats. And a preparedness plan that prepares you for another SARS-like event will not prepare you for another Mad Cow Disease-like event or any stretch of the imagination. There may be some commonalities, but they are very, very different. So one obvious lesson is: don't just prepare for the pandemic you've just had.
+
+And the other point I would make, and I hope this doesn't sound too shocking, but it's: on the scale of potential pandemics, Covid-19 was not at the top and it was possibly quite far from the top. It may be that next time -- and there will be a next time, I don't know when, it may be quite some time in the future, but I don't know when -- but there will be a next time, and it's possible that next time we are dealing with a virus that is much more deadly and is also much more transmissible, in which case actually the things we did to control Covid-19 wouldn't have worked anyway, at least not without society completely falling apart.
+
+Now, I'm not sitting here as a doom-monger saying "This is going to happen" or "This is going to happen soon", but I am confident enough to tell government that this is something you should be concerned about, you should be prepared for. The next pandemic could be far more difficult to handle than Covid-19 was, and we all saw the damage that that pandemic caused us.
+
+**Mr Keith**: Thank you, Professor.
+
+My Lady, you have granted permission to Covid-19 Bereaved Families for Justice United Kingdom to ask some questions on the Scottish Government's Standing Committee on Pandemic Preparedness, the body to which the professor has already referred.
+
+**Lady Hallett**: Mr Weatherby.
+
+Questions From Mr Weatherby KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Weatherby**: Thank you very much.
+
+Just a very few questions from me, Professor, and as Mr Keith has said I'm asking questions on behalf of Covid Bereaved Families for Justice United Kingdom.
+
+I just want to ask you a small number of questions about the SCoPP, the Standing Committee on Pandemic Preparedness in Scotland, of which you're a member.
+
+**Professor Mark Woolhouse**: Yes.
+
+**Mr Weatherby KC**: Am I right that the standing committee, the nature of a standing committee is that it sits regularly?
+
+**Professor Mark Woolhouse**: Yes, we met a number of times.
+
+**Mr Weatherby KC**: Yes.
+
+**Professor Mark Woolhouse**: I mean, it's not just every month or something, we have met many --
+
+**Mr Weatherby KC**: But it's meant to be there permanently and going on into the future; is that right?
+
+**Professor Mark Woolhouse**: Yes, that's my understanding.
+
+**Mr Weatherby KC**: Its purpose is to maintain an overview of pandemic preparedness from the view of the scientist or from a technical point of view, and to co-ordinate the scientific advice on relevant issues and identify gaps in advice to government; is that right?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Mr Weatherby KC**: And it's primarily positioned to advise the Scottish Government --
+
+**Professor Mark Woolhouse**: Yes.
+
+**Mr Weatherby KC**: -- on pandemic preparedness?
+
+This is an approach that is post pandemic, isn't it, or brought in during the pandemic?
+
+**Professor Mark Woolhouse**: It's post pandemic, yes.
+
+**Mr Weatherby KC**: Yes, and is this a new approach to address the gap that I think you've identified in relation to the fact that scientists have been for some years, particularly yourself, talking about the hedging of bets, whereas governments have been focused -- or the United Kingdom Government has been focused on the backing the favourite model? Is a primary role of the SCoPP to try to bridge that gap?
+
+**Professor Mark Woolhouse**: I don't know if I can accurately describe it as a primary role, but certainly, yes --
+
+**Mr Weatherby KC**: Yes.
+
+**Professor Mark Woolhouse**: -- pandemic intelligence is one of our roles, yes.
+
+**Mr Weatherby KC**: Yes, okay.
+
+I think that SCoPP has already identified four key themes: the need for a centre of pandemic preparedness; data gathering and analysis to be considered as part of national infrastructure, and you've spoken a lot about that; the need to strengthen scientific advice and structures and engagement with citizens; and the fourth one, the need for collaboration within the UK and collaboration between the UK and global institutions for innovation and preparedness?
+
+**Professor Mark Woolhouse**: Yes, those four priority areas were arrived at after a number of consultations within the committee, and actually some beyond as well, but that's where we've arrived at.
+
+**Mr Weatherby KC**: That's very helpful.
+
+Finally this: in the committee's terms of reference, the committee is asked to respond to commissions from the Scottish Government, questions essentially from the Scottish Government, and to address things that have arisen there. But the terms of reference expressly indicate that SCoPP should address other issues of its own initiative where it feels necessary, so scientific autonomy. Yes?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Mr Weatherby KC**: Is that a very important feature for a body like SCoPP?
+
+**Professor Mark Woolhouse**: Thank you very much for that question. Yes, I think it is. The advisory groups that I have been on over many years for many different government departments, and also working with some in Scotland, have tended to be reactive. We haven't had that autonomy --
+
+**Mr Weatherby KC**: Yes.
+
+**Professor Mark Woolhouse**: -- to bring topics of concern to the table. I mean, informally, of course, they were a vehicle for doing so, but it's not been in the terms of reference of other advisory committees --
+
+**Mr Weatherby KC**: Yes.
+
+**Professor Mark Woolhouse**: -- I've sat on, and I'm very happy that it is in the terms of reference.
+
+**Mr Weatherby KC**: Yes, and perhaps a lesson for others?
+
+**Professor Mark Woolhouse**: Yes.
+
+**Mr Weatherby KC**: And this autonomy brings a diversity of input, it guards against groupthink, and it involves a challenge to orthodoxy and innovation of scientific advice; is that right?
+
+**Professor Mark Woolhouse**: Yes. I mean, one way I like to put it, you know, when you're a scientist or adviser in that role, is you can't trust government to ask the right questions.
+
+**Mr Weatherby KC**: Yes.
+
+**Professor Mark Woolhouse**: So that's hopefully going to enable the right questions to be asked in the future.
+
+**Mr Weatherby**: Professor, thank you very much.
+
+**Lady Hallett**: Thank you, Mr Weatherby.
+
+Thank you very much, Professor Woolhouse. You've finished my professorial day. Thank you very much for your help, it's been extremely interesting and helpful. Thank you.
+
+**The Witness**: Thank you very much.
+
+*(The witness withdrew)*
+
+**Mr Keith**: My Lady, that concludes the evidence for today.
+
+**Lady Hallett**: 10 o'clock tomorrow, please.
+
+*(3.12 pm)*
+
+*(The hearing adjourned until 10 am on Thursday, 6 July 2023)*
+
