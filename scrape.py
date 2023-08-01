@@ -27,9 +27,9 @@ def fetch_hearings():
             }
         })
         j = r.json()
-        for t in j[0]:
+        for t in j['posts']:
             fetch_hearing_page(t)
-        if j[1] == j[2]:
+        if j['current_page'] == j['total_pages']:
             break
         i += 1
 
