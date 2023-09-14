@@ -1,0 +1,1264 @@
+Transcript of Module 4 Preliminary Hearing on 13 September 2023
+===============================================================
+
+*(10.30 am)*
+
+**Lady Hallett**: Good morning, everyone. Welcome to the first preliminary hearing for Module 4 of the Covid UK Inquiry, which will be focusing on vaccines and therapeutics.
+
+Mr Richard Wald King's Counsel will be explaining how the module is going to work. There will be inevitably some overlap with other modules, as I knew would be the case when I decided on the modular structure, but Mr Wald will explain how that's going to work amongst other matters.
+
+I have received a number of submissions from core participants as well as Counsel to the Inquiry, and I'm grateful to everybody who has produced them. I have read them all and obviously will listen carefully to any of those who wish to make oral submissions to supplement the written submissions.
+
+Mr Wald.
+
+Statement By Counsel To The Inquiry
+-----------------------------------
+
+**Mr Wald**: Thank you, my Lady.
+
+This being the first preliminary hearing for Module 4, I will make, if I may, the following brief introductions. My Lady, you have kindly introduced me, and I won't do that again, but I appear today at this hearing along with my learned friends Ms Williams, Ms Blower, Mr Mansell and Ms O'Kane, who are, with me, the counsel team for Module 4, the focus of which, as your Ladyship has indicated, will be vaccines and therapeutics.
+
+Now, in accordance with the agenda for this first preliminary hearing, I will address you, my Lady, so far as this module is concerned, on the following areas.
+
+First, the designation of core participants or CPs.
+
+Second, the provisional outline of scope for Module 4.
+
+Third, evidence gathering.
+
+Fourth, disclosure to CPs.
+
+Fifth, the listening exercise, Every Story Matters.
+
+And finally, the dates for future hearings.
+
+There will then be an opportunity for those who have been designated as CPs for this module to make submissions if they wish to do so, and I know that a number of them, ten in fact, do intend to do so.
+
+These proceedings are, of course, being recorded and livestreamed to other locations. In making these arrangements, your Ladyship is fulfilling the obligation, pursuant to section 18 of the Inquiries Act of 2005, to take such steps as you consider reasonable to ensure that members of the public are able to attend or see and hear a simultaneous transmission of the proceedings. Livestreaming this hearing also allows the hearing to be followed by a greater number of people than would be able to be accommodated within the hearing room or any overspill rooms, and of course the fact that these hearings are recorded enables those who wish to, to review those recordings after the event.
+
+In addition to the Inquiry's counsel and solicitor teams, there are 20 CPs present in the hearing room today, with a further eight CPs in remote attendance. Four CPs are unable to attend today.
+
+The lead legal representatives for CPs present in the room are, in no particular order, as follows:
+
+Kate Stone, counsel for the Covid-19 Bereaved Families for Justice UK, Laura Shepherd, counsel for the Covid-19 Bereaved Families for Justice Cymru, Marie-Claire McDermott, counsel for the Northern Ireland Covid-19 Bereaved Families for Justice, Adam Wagner, counsel for the Clinically Vulnerable Families, Anna Morris KC, counsel for Covid Vaccine Adverse Reaction and Bereaved, comprising UK CV Family, Vaccine Injured and Bereaved UK and the Scottish Vaccine Injury Group.
+
+Shamik Dutta, solicitor for Disabled Peoples' Organisations, comprising Disability Rights UK, Disability Action Northern Ireland, Disability Wales and Inclusion Scotland.
+
+Elaine Banton, counsel for the Federation of Ethnic Minority Healthcare Organisations.
+
+Sonali Naik KC, counsel for the Migrant Primary Care Access Group.
+
+Marc Willers KC, counsel for the Traveller Movement.
+
+Brian Stanton, solicitor for the British Medical Association and National Pharmacy Association.
+
+Lucy Plumpton, counsel for the Medicines and Healthcare products Regulatory Agency.
+
+Claire Palmer, counsel for NHS England.
+
+Kenneth McGuire, counsel for the Scottish Ministers.
+
+Lucy McCann, Department for Science, Innovation and Technology.
+
+Neil Block KC, counsel for His Majesty's Treasury.
+
+Peter Skelton KC, counsel for the Cabinet Office.
+
+The lead legal representatives for the CPs attending remotely are, and again this is in no particular order, as follows.
+
+Kevin McCaffery, counsel for the Scottish Covid Bereaved, Rachel Spearing, counsel for the UK Health Security Agency, Brian Donnelly, solicitor for the Public Health Agency (Northern Ireland), Julie Ellison, counsel for the Right Honourable Baroness Arlene Foster of Aghadrumsee and Paul Givan, Rhiannon Holtham, solicitor of the Public Health Wales, Richard Pugh KC, counsel for the Scottish Health Boards.
+
+A full list of CPs in Module 4 and their recognised legal representatives has been published on the Inquiry website.
+
+As is routine in public inquiries where there may from time to time be matters mentioned of a potentially sensitive nature, the broadcasting of the hearing will be conducted with a three-minute delay. This provides the opportunity for the feed to be paused if anything unexpected is aired which should not be. We do not expect this to arise over the course of today, but I mention it so that those who are following proceedings from further afield can understand the reasons for any such short delay.
+
+My Lady, pursuant to Rule 5 of The Inquiry Rules, the following applicants, again in no particular order, were designated as CPs:
+
+Covid-19 Bereaved Families for Justice UK, Covid-19 Bereaved Families for Justice Cymru, Scottish Covid Bereaved, Northern Ireland Covid-19 Bereaved Families for Justice, Clinically Vulnerable Families, Migrant Primary Care Access Group, Traveller Movement, Covid adverse reaction and bereaved, Disabled Peoples' Organisations, Cabinet Office, Scottish Ministers, Welsh Government, the Right Honourable Baroness Arlene Foster of Aghadrumsee and Paul Givan. Department of Health and Social Care, Department for Science, Innovation and Technology, Secretary of State for Foreign, Commonwealth and Development Affairs, His Majesty's Treasury, Medicines and Healthcare products Regulatory Agency, National Institute for Health and Care Excellence, Northern Ireland Department of Health, NHS England, Scottish Health Boards, Office of the Chief Medical Officer, UK Health Security Agency, Public Health Agency (Northern Ireland), Public Health Scotland, Public Health Wales, British Medical Association, National Pharmacy Association, Federation of Ethnic Minority Healthcare Organisations.
+
+Finally, my Lady, for those who were either not granted CP status or for those who did not apply to be designated as CP, I wish to iterate that not being a CP in Module 4 in no way precludes any person, entity or group from applying for CP status in a later module, from bringing any matter to the attention of the Inquiry, from providing evidence and information, and from, where appropriate and relevant, giving evidence at a hearing, and finally, in the case of an individual affected by the pandemic, taking part in the Inquiry's listening exercise, in relation to which I will return in a few moments.
+
+Before I turn to the provisional scope of Module 4, it may assist to address you on where Module 4 sits in the overall framework of the UK Covid-19 Inquiry.
+
+By way of background, therefore, on 12 May 2021 the then Prime Minister made a statement in the House of Commons in which he announced that there would be a public inquiry under the Inquiries Act of 2005. He stated that it would examine the UK's preparedness for and response to the Covid-19 pandemic, and that it would learn lessons for the future. We are now, of course, engaged in that Inquiry.
+
+Following your appointment as Chair, in December 2021, the draft terms of reference were consulted upon and were then published on 10 March 2022. That consultation included the devolved administrations. It also included your Ladyship's recommendation to the Prime Minister that you would be able to publish interim reports so as to ensure that any urgent recommendations can be published and considered in a timely manner.
+
+Furthermore, your Ladyship expressed the view that the Inquiry would gain greater public confidence if it was open to the accounts that many people, including those who have been bereaved, would wish to give.
+
+You therefore suggested adding explicit acknowledgement of the need to hear about people's experiences and that the Inquiry remit should consider any disparities in the impact of the pandemic.
+
+A public consultation process on the Inquiry's draft terms of reference was launched, and your Ladyship consulted widely across all four nations and spoke in particular to a number of bereaved families. In parallel, the Inquiry team met with representatives of more than 150 organisations, covering themes such as equality and diversity, healthcare, business, and education and young people among others.
+
+In total, the Inquiry received over 20,000 responses to the consultation. An independent research consultancy was commissioned to analyse the responses and produce a comprehensive independent report on respondents' views.
+
+Following this, on 12 May 2022, your Ladyship recommended a number of significant changes to the draft terms of reference, which were subsequently accepted by the Prime Minister in full. The set-up date of the Inquiry was confirmed to be 28 June 2022, and on 21 July 2022 the Inquiry was formally opened. A fuller exposition of the background to the Inquiry has been provided to the CPs in a note by Counsel to the Inquiry, and for those following today's proceedings who would like to know more about the background to the Inquiry that information is available in the video recording and the transcript to the Module 1 preliminary hearing which was held on 4 October of 2022.
+
+Your Ladyship made the decision to conduct the Inquiry in modules, to be announced and opened in sequence. Those wishing to take a formal role in the Inquiry were invited to apply to become CPs within the meaning of Rule 5 of The Inquiry Rules 2006 for each module, rather than throughout the Inquiry as a whole.
+
+Module 1, which concerns preparedness for the pandemic, was opened on 21 July 2022. The public hearings in Module 1 began on 13 June 2023 and concluded on 19 July 2023.
+
+Module 2 concerns core political and administrative decision-making in relation to the pandemic, with Modules 2A, B and C addressing the strategic and overarching issues from the perspectives of Scotland, Wales and Northern Ireland respectively.
+
+Module 2 was opened on 31 August 2022. The public hearings in Module 2 will commence in three weeks' time, on 3 October 2023.
+
+Module 3, which concerns the impact of the pandemic on healthcare systems, was opened on 8 November 2022. The public hearings in Module 3 are expected to begin in the autumn of 2024.
+
+As mentioned, Module 4, this module, concerns vaccines and therapeutics. Modules 5 and 6 of the Inquiry concern government procurement and the care sector respectively. Later modules will address very broadly system and impact issues across the UK. The system modules will include testing and tracing and the government's business and financial responses.
+
+The impact modules will look at health inequalities and the impact of Covid-19 on education, children and young persons, and other public services, including frontline delivery of key workers. In due course the Inquiry will provide further detail about the order and provisional scope of those modules.
+
+I now turn, my Lady, to address the scope of Module 4.
+
+The emergence of Covid-19 in December 2019 fired a starting gun on a global race to develop an effective vaccine for that virus, with a view to saving as many lives as possible and preventing serious illness among the most vulnerable. The UK is viewed by many as having been a leader in that race. The first cases of Covid-19 in the UK were identified in January 2020. Less than a year later, on 2 December 2020, the Pfizer-BioNTech vaccine was approved for use in the UK.
+
+Six days after that, Ms Margaret Keenan made history as she became the first person in the UK and the world to receive the Pfizer-BioNTech vaccination outside of a clinical trial.
+
+Other vaccines followed, including the Oxford-AstraZeneca vaccine, which received approval on 30 December 2020 and the Moderna vaccine, approved on 8 January 2021.
+
+Hospitals, GP surgeries, community groups, voluntary organisations and others worked together to deliver a vaccine roll-out which was unprecedented in its scale. At its peak, the roll-out saw over 970,000 vaccine doses administered in a single day. By 28 June 2022, over 149 million doses had been administered in the UK: 125 million in England, 7.4 million in Wales, 12.9 million in Scotland, and 3.9 million in Northern Ireland.
+
+This equated to approximately 93% of the UK population aged 12 or older. Figures vary as to how many lives the vaccine has saved. One estimate is that, up to late September 2021, the roll-out of the initial two-dose regime had prevented approximately 261,000 hospitalisations and 127,000 deaths.
+
+Module 4 of the Inquiry will focus on, among other things, the innovations that were introduced to rapidly develop, procure, manufacture and approve vaccines during the pandemic, including as part of the work of the Vaccine Taskforce.
+
+We will also be scrutinising how the vaccines were delivered and, as part of that, roll-out procedures and public messaging. An important element of our work will involve asking why there was less uptake of vaccine among certain groups, including those from particular ethnic and other backgrounds. Were delivery processes adequately targeted at such groups? Was enough done to allay any concerns such groups had about the vaccine? Were broader barriers to vaccine uptake adequately addressed?
+
+We will also be looking at the impact of misinformation and disinformation about the vaccines and the steps taken to address these.
+
+Against this background of innovation and rapid deployment of the vaccine, it is right to note that certain individuals have experienced bereavement or illness following a vaccine, some of whom join us as CPs in this module. Accordingly, it is appropriate that a significant part of Module 4's work will also involve examining issues relating to vaccine safety, including the steps taken by safety regulators prior to authorising the Covid-19 vaccine and the systems in place to monitor any side effects post authorisation.
+
+We will be asking: what were the risks of taking a Covid-19 vaccine? How do those risks compare to the possible effects of contracting Covid-19? Where risks change with individual characteristics such as age, was the correct balance struck in terms of vaccination eligibility and priority decisions?
+
+We will also be examining whether the government's Vaccine Damage Payment Scheme is fit for purpose or requires reform in order to meet the needs of those who have suffered harm following a Covid-19 vaccination.
+
+A further important aspect of Module 4's investigation concerns therapeutics and in particular the way in which new therapeutics were developed and existing medicines repurposed to treat Covid-19 during the pandemic.
+
+The RECOVERY Trial was its largest of several trials for testing therapeutic drugs in the UK. It has so far recruited 47,000 participants in the UK from 166 hospital sites. Other trials included the principal trial, with over 11,000 participants, the PANORAMIC trial with over 27,000 participants, and the REMAP-CAP trial with over 10,000 participants.
+
+Such trials provided the evidence to ensure effective drugs were given to hundreds of thousands more NHS patients suffering from Covid-19. To take but one example, dexamethasone was the first therapeutic that was proved to reduce the risk of death from Covid-19. It is estimated that by March 2021 it has saved approximately 22,000 lives in the UK. In Module 4 we will be examining any obstacles that were encountered in relation to developing and repurposing therapeutics and asking how these can be avoided in the face of a future pandemic.
+
+The Module 4 public hearing is expected to take place over four weeks in the summer of 2024. By virtue of the timescales, the Inquiry must maintain a tight focus on the key issues. The Inquiry team's investigation in relation to Module 4 is already under way, with real progress having been made. We have started the process of gathering evidence and identifying areas for expert evidence, topics to which I will return in a few moments.
+
+The documents setting out the provisional outline of scope for Module 4 states that this module will consider and make recommendations on a range of issues relating to the development of Covid-19 vaccines and the implementation of the vaccine roll-out programme in England, Wales, Scotland and Northern Ireland. Issues relating to the treatment of Covid-19 through both existing and new medications will be examined in parallel. There will be a focus on lessons learned and preparedness for the next pandemic.
+
+Thematic issues relating to unequal vaccine uptake will be examined to include the identification of groups which were the subject of unequal uptake, potential causes of such unequal uptake, and the government response.
+
+The module will address issues of recent public concern relating to vaccine safety and the current system for financial redress under the UK Vaccine Damage Payment Scheme.
+
+In particular, this module will examine, first, the development, procurement, manufacture and approval of vaccines during the pandemic, including the effectiveness of UK-wide decision-making, in particular the role of the UK Vaccine Taskforce. What lessons can we learn from innovative practices that were successfully introduced during the pandemic for future pandemic preparedness?
+
+Second, the development, trials and use of new therapeutics during the pandemic in addition to the use of existing medications.
+
+Third, vaccine delivery in England, Wales, Scotland and Northern Ireland, including roll-out procedures such as arrangements on the ground and public messaging, Joint Committee on Vaccination and Immunisation recommendations on eligibility and prioritisation and decision taken by policymakers, the ethics of prioritisation decisions, and impact on particular groups such as those with comorbidities.
+
+Fourth, barriers to vaccine uptake, including vaccine confidence and access issues, and the effectiveness, timeliness and adequacy of government planning for and response to inequalities relevant to vaccine uptake.
+
+Vaccine safety issues including post-marketing surveillance, such as the Yellow Card monitoring and reporting system and a suggested correlation between Covid-19 vaccines and cardiovascular issues.
+
+Sixth, whether any reforms to the UK Vaccine Damage Payment Scheme are necessary.
+
+This scope is necessarily provisional. Although it introduces a wide range of topics, it is neither practical nor advisable to identify at this stage all the issues that will be addressed at the Module 4 public hearings.
+
+There is close interplay between modules 3 and 4, a point that your Ladyship referred to in opening remarks, particularly when it comes to the topic of therapeutics. As you know, my Lady, Module 3 concerns the impact of the Covid-19 pandemic on healthcare systems in the four nations of the UK.
+
+The provisional outline of scope for Module 3 explains that, amongst other things, Module 3 will be examining healthcare provision and treatment for patients with Covid-19, healthcare systems' response to clinical trials and research during the pandemic, as well as decision-making about the nature of healthcare to be provided for patients with Covid-19. Module 3 will therefore examine the use of therapeutics in practice. That is, how therapeutics were used once effective treatments had been identified and approved.
+
+Module 4, on the other hand, will focus on the preceding phases, the steps taken to enable the use of therapeutics. We will do this by examining the development and trial of new therapeutics and repurposed medications, as well as decisions around eligibility. It is important that this distinction is clear to CPs, as some of the submissions on scope concern the treatment of those with Covid-19, which is not a matter for Module 4.
+
+A number of the CPs have made suggestions for matters that should be included in the provisional outline of scope. It is not practicable for me to address all of those today. All require and are receiving careful consideration. It may be that some suggestions accord with our own understanding of the scope or planned refinements of the scope.
+
+There are, however, some specific matters relating to the scope that I would like to address today, and I turn to those now.
+
+In their joint submissions, Covid-19 Bereaved Families for Justice UK and Northern Ireland Covid-19 Bereaved Families for Justice point to paragraph 1 of the Module 4 provisional outline of scope, a paragraph which I have read out a few moments ago. This concerns the development, procurement, manufacture and approval of vaccines. That paragraph concludes:
+
+"What lessons can we learn from innovative practices that were successfully introduced during the pandemic for future pandemic preparedness?"
+
+CBFFJ UK and Northern Ireland CBFFJ suggest that when considering lessons that can be learned for future pandemics, the Inquiry should not be limited to those practices that it considers were innovative or were successfully introduced. We agree, and can assure those bereaved groups that the Inquiry team does not read paragraph 1 in that limiting way. Module 4 will cast a critical eye over the entire development, procurement, manufacture and approval process in order to glean what did not go well and could be improved upon in the future.
+
+Second, a number of CPs, including Covid-19 Bereaved Families for Justice Cymru, CBFFJ UK and Northern Ireland CBFFJ, stress the importance of Module 4 giving meaningful consideration to the processes adopted in Wales, Scotland and Northern Ireland, and the impact of the different decisions taken in those countries.
+
+The Inquiry team firmly agrees and has already started the process of seeking evidence from those jurisdictions and will continue to do so. It is obviously important to understand the issues relevant to Module 4 as they apply in respect of each of the four nations. It will also enable the Inquiry to compare any contrasting approaches that were taken and thus draw out lessons for facing a future pandemic.
+
+Third, in their submissions, Scottish Covid Bereaved helpfully set out a number of areas that the Inquiry may wish to explore during Module 4. These include how roll-out procedures affected uptake and the role played by social media in promoting misinformation about the Covid-19 vaccines. I can confirm that Module 4 does intend to explore those important issues, amongst others.
+
+Fourth, Clinically Vulnerable Families, or CVF, raises a concern that there may be insufficient focus on therapeutics during Module 4, particularly as the provisional outline of scope largely concerns vaccines. I can reassure CVF in relation to that. Module 4 will be looking with care and in detail at the decision-making around the development of therapeutics for Covid-19. This is an important topic, we are particularly interested in whether therapeutic research and development was prioritised to a sufficient degree, particularly when compared with the large amount of work that was done on the rapid development of vaccines.
+
+Fifth, CVF also raises the issue of the approval of the Covid-19 non-vaccine prophylactic Evusheld. I can confirm that Module 4 will be looking at the regulatory decision-making relating to Evusheld, including why a different approach seems to have been taken in respect of vaccines on the one hand and non-vaccine prophylactics on the other. The distinction is important, because vaccines are not suitable for everyone including the immunosuppressed.
+
+Sixth, the submissions on behalf of Covid Vaccine Adverse Reaction and Bereaved highlight the importance of the safety approval process for the Covid-19 vaccines and asks whether any steps might have been overlooked due to the urgent need to roll out a vaccine. The Inquiry team agrees that this too is an important topic and we will be exploring whether the appropriate balance was struck between speed and safety in that process.
+
+Seventh, a number of CPs including the Traveller Movement, Migrant Primary Care Access Group, and Disabled Peoples' Organisations, have raised issues as to whether vaccine roll-out procedures were sufficiently tailored to meet the needs of those from particular backgrounds and communities, as well as those with specific needs. This will be a central issue in Module 4.
+
+I turn now to the matters of evidence requests and a Rule 9 update.
+
+The Inquiry has already issued or is about to issue formal requests for evidence pursuant to Rule 9 of The Inquiry Rules 2006 to a number of individuals and organisations which appear to it to have played a central or significant role in matters relevant to Module 4. These include:
+
+- UK government departments such as the Department of Health and Social Care, the Department for Science, Innovation and Technology, the Department for Work and Pensions, the Treasury, and the Cabinet Office;
+
+- Groups and organisations representing specific areas of interest within the scope of Module 4, including Covid bereaved groups, vaccine injured and bereaved groups, and those representing minority or marginalised communities and individuals;
+
+- Key decision-makers in, and advisers to, the devolved governments in Wales, Scotland and Northern Ireland;
+
+- Executive agencies and non-departmental public bodies, including the Medicines and Healthcare products Regulatory Agency, the UK Health Security Agency and National Institute for Health and Care Excellence;
+
+- Key advisers and advisory groups such as the Chief Medical Officer and the Joint Committee on Vaccination and Immunisation;
+
+- Central figures in the Vaccine Taskforce and the Antivirals and Therapeutics Taskforce;
+
+- Pharmaceutical companies, researchers and academics, including those involved in the development of the Covid-19 vaccines and therapeutic trials.
+
+A number of CPs, in their submissions for this hearing, have suggested particular lines of enquiry for the Module 4 investigation and suggestions of people to whom Rule 9 requests could be sent. These submissions have been and will be given careful consideration, as the Inquiry continues its investigation into vaccines and therapeutics.
+
+As my Lady is aware, this Inquiry and the Scottish Covid-19 Inquiry are keen to avoid duplication between them, and so the Module 4 team is checking not only the requests made by other Inquiry modules within this Inquiry but also those made by the Scottish Inquiry. That process means inevitably that it takes a little more time to issue Rule 9 requests to Scottish bodies, but it is hoped that in the long run this approach will assist in minimising unnecessary repetition and thereby saving time and any wasted effort.
+
+In that regard, I should add that on 23 February 2022 the Inquiry published a memorandum of understanding setting out how this Inquiry and the Scottish Covid-19 Inquiry intend to work effectively together, and I'm also aware that your Ladyship has met with the Chair of the Scottish Inquiry, Lord Brailsford, to discuss the constructive ways in which the two Inquiries can collaborate and cooperate.
+
+In their submissions, CBFFJ UK and Northern Ireland CBFFJ and FEHMO reiterate requests they have made in previous modules that Rule 9 requests be disclosed to CPs. You may wish to rule on this issue as it applies to Module 4 in due course. However, you have ruled on this issue previously as part of Module 1 and decided that CPs will not be provided with copies of the Rule 9 requests made by the Inquiry. This was on the basis that disclosure to the CPs of the Rule 9 requests themselves, as opposed to the relevant documents and material generated by them, is neither required by the Rules nor generally established practice, established by past practice.
+
+CBFFJ UK and Northern Ireland CBFFJ also reiterate a request that they have made in earlier modules that state and organisational CPs and material providers submit position statements. Again, you may wish to rule on this issue as it applies to Module 4 in due course. However, it is right to point out that you have ruled on this issue previously as part of Module 1 and decided against ordering the provision of position statements. This was on the basis, amongst other matters, that the Inquiry had already requested the Rule 9 recipients to provide a corporate statement setting out a narrative of relevant events and of the lessons learned and that these will serve a similar purpose to position statements.
+
+Moving now to experts, Module 4 has already identified three areas where expert evidence is likely to be of assistance. At present, these include three broad issues.
+
+First, vaccine safety, including the regulatory regime for vaccine authorisation and the benefits and risks of the Covid-19 vaccines.
+
+Second, inequalities in vaccine coverage, including how these were or could have been addressed through roll-out processes and public messaging.
+
+Third, hesitancy around vaccine uptake, including trends concerning misinformation and disinformation about the Covid-19 vaccines.
+
+Other areas may be identified and explored as the Inquiry's work continues. A number of CPs in their submissions have made suggestions about areas of potential expert evidence for Module 4 and these have been and will be given careful consideration.
+
+The identities of instructed experts will be contained in the Solicitor to the Inquiry's update notes. Once experts are instructed, these notes will also provide further details of the topics which the experts will address in their reports, thereby enabling CPs to comment on those matters.
+
+So far as disclosure is concerned, in common with the approach taken in previous modules, Module 4 will adopt the following approach to disclosure: all CPs will receive all documents disclosed in Module 4, not just those documents relevant to them.
+
+Disclosure will be subject to three things.
+
+First, a relevance review so that only relevant documents are disclosed.
+
+Secondly, a de-duplication exercise.
+
+Third, redactions in accordance with the Inquiry's redactions protocol.
+
+A significant team of solicitors, barristers and paralegals is already in place to review for relevance the material that is received. Disclosure is likely to be in tranches made on a rolling basis. Disclosure will be made via the electronic data management and disclosure system known as Relativity.
+
+Disclosure updates will be provided by the Module 4 solicitors team, informing CPs of the progress which has been made in obtaining relevant documents. We will of course also provide these at the next preliminary hearing.
+
+The Inquiry is working to begin the process of disclosing materials to CPs as soon as possible. The process of disclosure to CPs is anticipated to begin in late autumn 2023. Each document provider is being asked to provide, amongst other matters, details of the key individuals who were involved in issues relevant to the Module 4 provisional outline of scope, the key meetings, and a summary of the categories of other material held and/or already provided to the Inquiry relating to that provisional outline of scope.
+
+This information will allow the Inquiry to understand the nature of relevant material held by the document provider and make targeted requests for further material if necessary.
+
+Where, as a result of the information provided, the Inquiry has any concerns about a provider's processes for providing relevant documents, it will raise and pursue them. And of course, as documents are reviewed and gaps identified, further documents will be sought.
+
+My Lady, you also have the power to compel the production of documents under section 21 of the Inquiries Act, and there are provisions in section 35 of the Inquiries Act which make it an offence during the course of an inquiry for a person to do anything to alter or distort a relevant document or prevent any relevant document being produced to the Inquiry or to intentionally destroy, suppress or conceal a relevant document.
+
+Covid Vaccine Adverse Reaction and Bereaved raise the relevance to Module 4 of documents disclosed to other modules. The Inquiry legal team is reviewing documents disclosed to other modules for relevance to Module 4, and such documents will be disposed to Module 4 CPs as part of the Module 4 disclosure process.
+
+I turn now to the listening exercise and Every Story Matters.
+
+Every Story Matters is the name given to the Inquiry's listening exercise. My Lady, the Inquiry's terms of reference make clear that although the Inquiry will not investigate individual cases of harm or death in detail, listening to the accounts and experiences of the bereaved families and others who suffered hardship or loss will inform the Inquiry's understanding of the impact of the pandemic and the response, and of the lessons to be learnt.
+
+Every Story Matters is therefore the process by which the public can contribute to the Inquiry so that the Inquiry will be able to not just hear the voices of the people of the UK and to reflect upon their experiences, but also to incorporate the emerging themes into its work.
+
+Everyone's contribution through Every Story Matters will be collated, analysed and turned into themed reports which will be submitted into each relevant investigation. These will be anonymised, disclosed to the Inquiry CPs and used in evidence. The reports will identify trends and themes and include illustrative case studies which may demonstrate systemic failures.
+
+Every Story Matters aims to obtain insights and information from anyone who wishes to contribute, that is from anyone who was impacted by the pandemic and wishes to share their experience. It has been designed so that anyone and everyone aged 18 and older in the UK can contribute if they wish to do so. For example, for Module 4 the Inquiry is particularly interested to hear from people who felt they were unable to access the vaccine and/or therapeutics in a timely manner, those who were hesitant about receiving Covid-19 vaccines, those who believe that they may have suffered damage as a result of a Covid-19 vaccine, and those who have positive experience connected with vaccines and therapeutics.
+
+These experiences will be analysed and reviewed by the Inquiry's research specialists based on key lines of enquiries, or, if my Lady will forgive yet another acronym, KLOEs, for Every Story Matters produced by the Inquiry team. The KLOEs are an important tool for setting out the way in which the Inquiry will gather and analyse experiences shared with Every Story Matters, in particular through the targeted research.
+
+The Inquiry's research specialists will conduct targeted qualitative research in relation to particular topics and particular groups of people based on the KLOEs. It is proposed in Module 4 that this research will focus on, among other things, listening to people from different communities and backgrounds where there was a relatively low uptake of Covid-19 vaccines.
+
+The experiences shared with Every Story Matters will be collated into themed reports. The resulting reports, which will synthesise and amalgamate the individual accounts, will be aligned with and fed into Module 4 and the Inquiry's later modules. They will be disclosed to CPs. The reports will be formally adduced in evidence so they can form part of the Inquiry's written record.
+
+In the coming weeks, the Inquiry legal team will work with its research specialists to identify research questions and priority audiences in relation to the following proposed KLOEs:
+
+First, experiences receiving information on the Covid-19 vaccines, including the key sources of vaccine related information obtained by participants; the experiences of receiving useful information or mis or disinformation; the clarity, consistency and ease of understanding of public messaging; the quality, ie clarity, appropriateness, persuasiveness, sufficiency and timeliness of targeted messaging for specific groups; perceptions surrounding whether public messaging was sufficiently inclusive and culturally sensitive; experiences of whether public messaging appropriately communicated the benefits and risks of vaccines, including efficiency, safety and adverse effects; drivers of trust, mistrust in government public messaging; and views on how to improve public messaging.
+
+Second, public trust in the safety of Covid-19 vaccines and the importance of being vaccinated, including: confidence - drivers and barriers to trust in safety of Covid-19 vaccines; complacency - perceptions of the purpose, value and necessity of Covid-19 vaccines; other drivers of vaccine hesitancy and unequal uptake, including how these differ for different groups and the causes of such disparities; how these factors affect vaccination decisions; and what reassurance people want to encourage them to be vaccinated and what could have been done to improve vaccine confidence and/or increase uptake.
+
+Third, practicalities of vaccine roll-out including: convenience and barriers in relation to vaccine roll-out; experiences and particular barriers to accessing vaccines for those from vulnerable or marginalised groups; perceptions of whether there was fair and equitable vaccine distribution and access across different parts of the country and/or devolved nations; how accessibility and convenience factors affected vaccination decisions and uptake; and which government measures people felt encouraged their vaccination uptake and which measures people felt were counterproductive in that they increased or exacerbated hesitancy or otherwise discharged uptake.
+
+Potential audience groups proposed for sampling in qualitative interviews include those categorised by: residency, in particular geographical locations with relatively low uptake of vaccines; ethnicity; socioeconomic circumstances, including level of education and homelessness; particular health concerns, such as amongst the immunosuppressed, pregnant and/or breastfeeding women, and/or those with fertility concerns.
+
+It is unlikely that the targeted research will be able to cover all of the areas I have listed and CPs were invited to file written submissions making suggestions in relation to the KLOEs for targeted qualitative research, in particular on: whether there are any specific areas which I have listed that CPs consider to be of particular importance for targeted research; whether there are any further topics that CPs consider important for targeted research and why, including whether or not this evidence could otherwise be obtained through the Rule 9 process or by another method; and any views on the proposed target populations for the targeted research, either in relation to the above three topics or further proposed topics.
+
+The Inquiry is grateful for the submissions it has received from CPs in relation to these matters. They will be reviewed in detail by the Inquiry team and will help inform work on the KLOEs. It is right to note that the ESM listening exercise, including its targeted research which focuses on specific groups, is but one of the Inquiry's broader considerations of the experiences of groups and individuals impacted by matters falling within the scope of the provisional outline of scope for Module 4. The experiences of many more groups and individuals, from a large range of different communities and backgrounds, will be collected by means of the accounts offered to the Inquiry through its Rule 9 investigatory powers. And we will provide more information on the process of gathering and analysing information obtained through Every Story Matters shortly.
+
+I turn now to the important issue of commemoration. My Lady, you have made clear your wish to recognise the very real and human suffering arising from the pandemic by ensuring that it is properly taken into account and reflected in the Inquiry's work. As you know, the Inquiry is producing a series of impact films, the first of which was screened at the first Module 1 public hearing in June, and has used images and artwork to try to represent elements of the loss and suffering caused by the pandemic to the people of the UK.
+
+Such was the scale of the tragedy, the grief and loss suffered by the bereaved and the lasting effect of the pandemic on the lives of so many millions of people, that no amount of commemorative activity could ever adequately reflect the depth of suffering experienced by so many.
+
+However, the Inquiry remains committed to listening to the voices of those most impacted by the pandemic and to continuing to deliver commemorative activity that recognises the scale of this tragedy and the effect it had and continues to have on people's lives.
+
+There will be a new impact film played at the start of Module 4, and although it will not be themed specifically on the content of Module 4, there will be opportunities for individuals linked to Module 4 CPs to contribute interviews. Further information about these opportunities will be provided in due course. These films are a powerful means of reminding ourselves of the impact of the pandemic and, although they don't constitute evidence, they do help to ground proceedings in the lived experience of those who have suffered hardship and loss.
+
+My Lady, finally, moving on to directions and other matters, I now turn to address you on some specific points raised in the written submissions provided by CPs.
+
+The joint submissions from CBFFJ UK and Northern Ireland CBFFJ express concern that the substantive hearing in Module 4 will take place before that of Module 3, because they had expected that the impact on healthcare systems would be examined after Module 2, which concerns core political and administrative decision-making.
+
+Module 3 will of course still come after Module 2 chronologically, allowing relevant issues raised in Module 2 to be explored in the context of Module 3.
+
+That the Module 4 evidence hearings will take place before those of Module 3 does not reflect a prioritisation of Module 4 over Module 3. Rather, it derives from the fact that time can be well spent hearing evidence about Module 4 while work continues in preparing for Module 3. The Inquiry is as keen as any CP group to hear evidence and draw appropriate lessons as quickly as possible, but investigations on this scale, particularly into matters as far-reaching as those which are the subject of this Inquiry, inevitably take time. If the investigations are not conducted in a thorough enough manner, then appropriate lessons cannot be learned. It is precisely because the Inquiry wanted to make recommendations as soon as possible that it has adopted a modular approach, allowing issues to be explored and relevant recommendations made on a rolling basis during the life of the Inquiry. The timing for the Module 3 and Module 4 hearings does not alter that fundamental approach.
+
+The joint submissions from CBFFJ UK and Northern Ireland CBFFJ request that CPs be consulted on the sequencing of the modules. Timetabling hearings in this Inquiry is an extremely complex process, which involves a number of different factors, including your Ladyship's other Inquiry commitments, the ability of material providers to provide evidence, the ability of the Inquiry to prepare the hearings and, of course, the importance of the issues in question. Timetabling involves your Ladyship's making procedural judgments on the basis of your wide discretion and bearing in mind your obligations under section 17 of the Inquiries Act.
+
+While the Inquiry will of course take into account any representations made about this, there is, in my submission, only a limited extent to which CPs can assist you with this, as it is inevitable that they cannot be sighted on all the complex issues involved.
+
+What I can say is that if Module 4 were not to be heard next summer as planned, it would not be possible to substitute hearings in other modules within the time set aside for it, and that that part of the Inquiry programme would therefore be wasted and your report and recommendations relating to this module would be delayed.
+
+Covid Vaccine Adverse Reaction and Bereaved ask that the Inquiry be mindful that its members are significantly health impacted and/or bereaved and will need support and appropriate accommodations from the Inquiry team to attend hearings and participate effectively. Specifically, Covid Vaccine Adverse Reaction and Bereaved request that significant dates be provided with at least a month's notice. The points raised by Covid Vaccine Adverse Reaction and Bereaved also apply to some other CPs, and the Inquiry is keen to ensure that all CPs can participate as fully as possible in the process. I will provide an outline of the forthcoming hearing dates for Module 4 in just a short moment, and can say that the Inquiry team will endeavour to ensure CPs have as much notice as possible about specific dates in the investigation and any relevant deadlines for submissions.
+
+My Lady, I know that once you have had an opportunity to consider the written submissions and those that are being made orally today, you will publish any appropriate directions in due course.
+
+I turn now then, as I indicated that I would, to next dates for Module 4.
+
+Turning then, a further two preliminary hearings for Module 4 will be held at Dorland House in Paddington and are currently scheduled for Thursday 8 February and 22 May of 2024.
+
+The public hearing in Module 4 is expected to take place over the course of four weeks in July 2024. The hearing will be held here at Dorland House in Paddington.
+
+My Lady, that concludes all of the matters upon which I wish to address you on behalf of Counsel to the Inquiry. A number of CPs wish to address you during the course of this hearing, and so, subject to any possible mid-morning break, can I invite you to hear from the first, Ms Stone on behalf of Covid-19 Bereaved Families for Justice UK.
+
+**Lady Hallett**: Thank you very much indeed, Mr Wald.
+
+Ms Stone, I think we can squeeze you in.
+
+For those who are new to the hearings, I take a break usually after an hour and a quarter, for the benefit of everyone but particularly our wonderful stenographer.
+
+Submissions On Behalf Of Covid-19 Bereaved Families For Justice Uk By Ms Stone
+------------------------------------------------------------------------------
+
+**Ms Stone**: Thank you, my Lady, and good morning.
+
+My Lady, as you know, I'm part of the team of counsel and solicitors representing the Covid-19 Bereaved Families for Justice, who number approximately 7,000 members from across the UK.
+
+My Lady, the group of families I represent look forward to assisting the Inquiry in this important module, and as Mr Wald has mentioned, we've made joint submissions in writing with Northern Ireland Covid Bereaved Families for Justice, and in preparing to address you I've liaised with Ms McDermott in an effort to avoid duplication.
+
+With that in mind, my Lady, may I address you briefly on five themes, please. They are: process, firstly, including sequencing of modules, to which Mr Wald has already alluded, transparency and confidentiality and practical arrangements for the hearings; secondly, scope; thirdly, evidence gathering; fourthly, Every Story Matters; and fifthly, family evidence.
+
+My Lady, taking those in turn, on process and sequencing of modules, I've listened carefully to what's been said this morning, and thank you to your team for addressing this issue which has been raised in our written submissions, but I do wish to address you further, if I may, to raise our clients' concerns in respect of this.
+
+It's something which has caused acute concern amongst them. They are troubled by the prospect of a significant lapse of time before the impact of the pandemic on those crucial areas of health and social care is examined by your Inquiry.
+
+Knowing what we do about the severe challenges faced by the NHS across the UK, the families are gravely concerned, my Lady, that on the current timetable a further two winters will pass, with all of the risks that that entails, before you're able to identify lessons and formulate recommendations which we would submit are clearly needed to safeguard the health of our communities.
+
+Similar concerns, my Lady, are shared by those whom I represent about the length of time which is currently expected to elapse before the impact of the pandemic on the care sector is examined.
+
+So, my Lady, without diminishing the importance of this module, and in appreciation of the scale of the Inquiry's task in the areas of both health and care sector, we would submit that the logical approach, both evidentially and in terms of prioritisation, would be to move from the Module 2 topics of political and administrative decision-making into those core areas of health and social care.
+
+My Lady, I conclude by saying we are mindful of what Mr Wald has told us this morning, but we do invite you to give further consideration as to whether the hearings in this module should in fact take place before those in Module 3, and also to consider the possibility of bringing forward the public hearings on the care sector in Module 6.
+
+My Lady, in terms of the second submission on process, that relates to the principle of transparency and openness.
+
+My Lady, those whom I represent welcome the decision to hold this and other preliminary hearings, to hear submissions in public and to publish transcripts and written submission on your Inquiry website. However, there are, of necessity, many other issues which are dealt with outside those hearings and decisions which are communicated to core participants in writing, and at present, my Lady, many of these issues are communicated on a confidential basis, meaning that the public are not aware of the processes and decision-making of the Inquiry in these respects, and that any concerns which we or others may have about those issues cannot be aired publicly.
+
+My Lady, you will have in mind the need for transparency and inclusiveness in this Inquiry, both as a matter of principle and in order to build public confidence in it, and to that extent -- or to that end, I should say, we submit that the default position should be that all communications with core participants and decision-making should be opened, unless confidentiality is absolutely necessary, and we would invite your team to adopt that approach in this module and throughout the Inquiry.
+
+My Lady, the third subtopic in respect of process is a practical matter. May I address you on a matter which relates to the ability of those whom we represent to participate in this Inquiry by attending the public hearings?
+
+My Lady, in short, our experience is that the current position whereby only two seats may be reserved for our members is having the effect of actively discouraging them from attending the hearings, and they find themselves understandably unable to make the necessary arrangements for attendance, long journeys in many cases, including paying for train tickets, without knowing whether they will be able to access the hearing room.
+
+My Lady, this is something that we have corresponded with your team on a number of occasions, and we raise this issue now to invite a review of the current system to reflect the wide client group that we represent.
+
+Just finally on this point, my Lady, we'd also invite you to give further consideration to the provision of a room connected with this one where a greater number of families could gather together to watch and listen to the hearings. That, in my submission, would make a real difference to many family members who would be able to benefit from that support of being with others, rather than being on their own while listening to very difficult and at times upsetting evidence.
+
+**Lady Hallett**: Sorry, Ms Stone, just so I follow that submission, there is a room down the end where people can follow; what exactly is the submission that you're making, so I understand?
+
+**Ms Stone**: It would be for further resourcing along those lines, my Lady, to enable a greater number of families to share in that experience, and also potentially for consideration of those sorts of venues outside of London, to enable those of our families who are spread across the UK to have a similar experience of gathering together to watch and listen to your hearings.
+
+**Lady Hallett**: I'm not quite following, sorry. So is it that you want more -- so we do have another room that is linked to the hearing room.
+
+**Ms Stone**: Yes.
+
+**Lady Hallett**: Is it that you want more space than that? Because I'm afraid that may just be a simple physical limitation.
+
+**Ms Stone**: Yes.
+
+**Lady Hallett**: So could you address that point, please, as to what exactly you're asking me to consider, because I'm perfectly prepared obvious to consider your submissions carefully, and also what you're asking me to consider for when we go round the country? I'm afraid I'm not following.
+
+**Ms Stone**: My Lady, thank you. We do appreciate that there is a room here. We appreciate the constraints of space. More room would be beneficial, if I can put it in that way, not necessarily in this physical building. We'd ask to you consider the provision of space outside of this building but also to consider satellite venues, if I can put it like that, across the UK, across the country, to enable family members to gather regionally and observe the hearings on that collective basis, which, as I say, has a real benefit in terms of support.
+
+**Lady Hallett**: I follow. Thank you.
+
+**Ms Stone**: Thank you.
+
+My Lady, could I turn to scope, then, please.
+
+We respectfully agree with the broad approach to scope and with the indication that this will be kept under review. I have just a few specific points, if I may, to make.
+
+Firstly, my Lady, while it's right to recognise the UK's achievements in the areas under consideration in Module 4, we welcome the assurance this morning that the Inquiry team's intention is to cast a critical eye over the issues in Module 4, and that will necessarily involve the same degree of rigorous scrutiny as in other modules, and we know that there can and will be no presumptions in respect of your findings or lessons for the future.
+
+Secondly, my Lady, on international co-operation and collaboration, this is something that we have raised in our written submission, as you will have seen, but in our submission an investigation into vaccines and therapeutics would be incomplete without consideration of the UK's role in international co-operation and collaboration and in ensuring global vaccine equity.
+
+As was reinforced by the evidence that you heard in Module 1, a global crisis such as Covid or the next pandemic calls for a collaborative international approach, including in the development and dissemination of vaccines and therapeutics. This is unquestionably the right thing to do, but it is also necessary if we're to minimise the risks posed by variants and prepare for the next pandemic. So we would submit that this is a crucial area for your consideration in Module 4.
+
+We welcome, my Lady, the inclusion of thematic issues relating to unequal vaccine uptake and whether enough was done to ensure fair and adequate access to vaccines and therapeutics, including for marginalised groups and communities. We also welcome the indication this morning that there will be expert evidence on inequalities and, as we have set out in writing, we submit that that will involve specific expert evidence on structural racism and discrimination to be obtained and called, building on the evidence which has been obtained for Module 2.
+
+Finally, I'm grateful, my Lady, for the indication this morning about the UK-wide focus of this module. As I mentioned at the outset, our group includes families from across the UK, and as has been recognised this is a matter of key importance for them and for the group as a whole.
+
+Topic 3, my Lady, is evidence gathering. As has been alluded to this morning, we have made submissions to you in relation to the evidence gathering process, and in particular disclosure of Rule 9 requests and directions for position statements.
+
+We are mindful, my Lady, of your previous rulings on these points, but we would invite you to reflect further on the processes, having regard to what we submit appear to have been real challenges which the disclosure process has posed in Modules 1 and 2. We note particularly that the apparent late production of materials to the Inquiry appears to have led to very late disclosure of relevant material to core participants.
+
+With that background in mind, we would submit that the use of position statements would enable your team to focus their investigation at an earlier stage by requiring material providers to assist them in narrowing the issues. That would lessen the burden on the Inquiry team and make it easier for this Inquiry to scrutinise the key issues, and in our respectful submission, it would be particularly helpful given the scale of your task in this Inquiry.
+
+Topic 4, my Lady, is Every Story Matters, and you are aware of the strength of feeling among those I represent in relation to the listening exercise. It's an issue of considerable importance to them, as it will be to many others who wish their diverse voices to be heard and their experiences to inform and assist your Inquiry.
+
+As we've outlined in the written submission, we continue to seek further information about the process for the benefit of those whom we represent, and in particular who will be tasked with undertaking the evidence gathering, analysis and compilation of reports, what expertise and experience will be required to work with vulnerable people, including the bereaved, and how the process will be overseen and assured.
+
+I know, my Lady, you will have in mind the submissions we've previously made in relation to the importance of transparency in connection with this exercise, and we thank Mr Wald for the indication this morning that further information will be provided shortly.
+
+Finally, my Lady, I turn to the evidence of the bereaved. I won't repeat our previous submissions, save to emphasise the value that we consider will be added to your Inquiry by the provision of direct evidence from those impacted by the pandemic, including our bereaved family members.
+
+In respect of this module, we welcome your team's recognition that family members and other individuals may well have relevant evidence to give on issues that have affected them. We respectfully agree with this approach, which is one we have advocated for in other modules. We will seek to assist your Inquiry, as we have in Modules 1 and 2, and will in Module 3, by providing a proportionate list of witnesses who can reflect the diverse range of experiences of our client group. We urge you in Module 4 to hear directly from those witnesses and submit that your Inquiry's understanding of the issues and the need for future recommendations will be enriched by their oral evidence.
+
+My Lady, unless there's anything I can assist you with, those are my submissions.
+
+**Lady Hallett**: No, thank you very much indeed, Ms Stone, very helpful. I will obviously, as ever, consider all the submissions very carefully. Thank you.
+
+Thank you.
+
+I think, Ms McDermott, we will break now and come back after 15 minutes. Well, slightly longer than 15 minutes. I'll be back at five to.
+
+*(11.38 am)*
+
+*(A short break)*
+
+*(11.55 am)*
+
+**Lady Hallett**: Yes, Ms McDermott.
+
+Submissions On Behalf Of Northern Ireland Covid-19 Bereaved Families For Justice By Ms Mcdermott
+------------------------------------------------------------------------------------------------
+
+**Ms McDermott**: Hello, good morning, my Lady. We're just in there, in the morning.
+
+As you know, I am Marie-Claire McDermott and I represent the Northern Ireland Covid Bereaved Families for Justice, led by Brenda Campbell KC, Peter Wilcock KC, and instructed by PA Duffy Solicitors.
+
+Now, in addition though those bereaved families who are present, there are a number of bereaved family members who are joining us online, particularly from Northern Ireland, and I would like to take the opportunity now to acknowledge their remote attendance.
+
+As has become a familiar practice in this inquiry from the outset, I draw to your attention the joint submissions already filed and referred to with the Inquiry on behalf of the UK and Northern Ireland Bereaved Families for Justice, and on behalf of the Northern Ireland Covid Bereaved Families for Justice I would like to thank you for your careful consideration of these submissions and your deliberation of what flows from them. We very much appreciate it.
+
+Now, I hope you will note from the outset that the Northern Ireland Covid Bereaved Families for Justice and those who represent them continue to be committed to participating collaboratively with the Inquiry in order to best assist the Inquiry to meet its objectives.
+
+Now, turning to the Module 4 points and issues under vaccine and therapeutics, the purpose of my submissions today are to highlight the key points to which I'd wish to draw your particular attention as you navigate the issues within this module. The first point being the timing of Module 4, that being Module 4 being heard before Module 3.
+
+Now, it has already been highlighted by my learned friend Ms Stone as a matter of great concern, and whilst I have no intention of rehearsing submissions already made, it would however be remiss of me not to revisit this thorny issue in brief terms, in the hope that I impress upon you the anxiety that the order of the modules brings upon the Northern Ireland families that I represent.
+
+To that, I note and am grateful to the submissions already made and heard this morning by Mr Wald, which has been very informative and very, very helpful.
+
+So, the point I would like to make is that, as night follows day, so too should Module 3 follow Module 2 in the hearing sequence for the Inquiry. The Inquiry, having concluded Module 2, will have delved into the political response to the pandemic, should then immediately turn its mind to focus on the impact that the political decision-making has on the healthcare systems, that being the core for Module 3.
+
+Notwithstanding the helpful explanation of the timing of Module 4 made by Mr Wald this morning, we would ask that you bear in mind the reasons for the concerns of our clients in respect of this issue.
+
+My Lady, you have already heard some evidence about the dire state of the healthcare systems in Northern Ireland from Module 1, and you will recall the lamentations about the failures to implement the Bengoa report recommendations. You know all too well the statistics about decreasing funding and the increasing waiting lists and the continuing impact on the access to healthcare in Northern Ireland. No doubt more will bubble to surface through the length and breadth of Module 2 and Module 2C, however, until we reach Module 3 the Inquiry can never really feel the true texture of the impact of the pandemic on the health and care sectors and, significantly, its inability to withstand the full force of the pandemic in 2020 and the consequential need for even more critical reform in 2023 and 2024.
+
+In short, it can wait no longer. With that in mind, I invite you, my Lady, to reconsider the order of the module hearings as per the natural sequencing.
+
+Moving then to the second topic which I would wish to address before you this morning, my Lady, I'd like to draw your particular attention to a provincial issue, and that's the scope for Module 4. That is wide, but, on behalf of the formidable group whom I represent, I ask that our voices do not become lost and that you continue to hear and include the participation of the regional accent. By the time you reach Module 4 you will already have visited Northern Ireland in M2C and we look forward to that and welcoming you to Northern Ireland.
+
+In M2C we will scrutinise the core decision-making in Northern Ireland. Unfortunately, however, the limited timescale allocated to M2C, to put it bluntly, is punishing and is already brimming with issues such that there will be insufficient time allowed to examine the use of vaccines and therapeutics in Northern Ireland.
+
+As such, the only opportunity to address vaccines and therapeutics through the lens of the Northern Ireland group will be in Module 4. Accordingly, I respectfully ask that ample allowance is made for the perspective of Northern Ireland to be meaningfully considered and, to that end, your Ladyship should hear from witnesses who can speak to the Northern Ireland viewpoint.
+
+On this, I invite your Ladyship to consider amending the draft outline of the scope, making specific provision for a comparative across the jurisdictions, scrutinising any differences between them and what any differences may have meant to the relevant jurisdictions.
+
+Our group instructs, as an immediate example of this, that the number of doses of a vaccine which were required to be considered fully vaccinated by the Department of Health in Northern Ireland as compared to England, Wales, differed. This one issue had corresponding ramifications for the rules on contact by family members in those in care homes in and around December 2021, as those who would have been considered fully vaccinated in England and Wales were not deemed fully vaccinated in Northern Ireland.
+
+The impact on those whom I represent, it is critical. Sadly, for many of the Northern Ireland Covid bereaved groups, this was the last Christmas they would have spent with their loved love.
+
+Finally, I would like to turn to the issue of witness evidence, the first-hand accounts of those whom I represent. I rehearse and reiterate the echoes of previous submissions at preliminary hearings regarding the importance of the Inquiry hearing witness evidence from those with lived experience of matters addressed in each module. There can be no room for doubt that the witness evidence from the Covid bereaved is surely as important to you as it is for them. You have already commented that some of the most insightful participants in the impact film came from Northern Ireland, and of course who can forget the extremely moving and poignant evidence of our own Brenda Doherty, who provided a powerful conclusion to the evidence at the end of Module 1.
+
+Whilst reflecting that we continue to request the invitation to give oral testimony to the Inquiry, the Northern Ireland Covid Bereaved Families for Justice
+
+will continue to identify such a range of such evidence
+
+that we feel should be heard, and we will work
+
+tirelessly to assist the Inquiry in identifying
+
+a proportionate number of witnesses who are able to
+
+reflect the varied, lived-in experiences of our client
+
+base.
+
+My Lady, unless there's anything you wish me to
+
+address you on or refer you to specifically, those are
+
+the submissions on behalf of the Northern Ireland Covid
+
+Bereaved Families for Justice, and I would like to
+
+thank you again for your continued consideration.
+
+**Lady Hallett**: Thank you very much indeed, Ms McDermott, and
+
+the point you make about comparative analysis, I was
+
+thinking about that just yesterday, and I agree it's
+
+something that needs careful consideration.
+
+Thank you very much indeed.
+
+**Ms McDermott**: Thank you, my Lady.
+
+**Lady Hallett**: Ms Shepherd, are you at the back? You are.
+
+I'm going to move across so I can see you.
+
+Submissions On Behalf Of Covid-19 Bereaved Families For Justice Cymru By Ms Shepherd
+------------------------------------------------------------------------------------
+
+**Ms Shepherd**: Prynhawn da, good afternoon, my Lady.
+
+I represent Covid-19 Bereaved Families for Justice
+
+Cymru. At the outset, we wish to thank the Chair for
+
+granting the bereaved families core participant status in this module. We feel that we have an important role to play in this module as we have a stake in how pharmaceutical interventions were used or not used by public bodies when responding to the pandemic.
+
+There are four particular areas on which I wish to address you. Firstly, scope. Second, Every Story Matters. Thirdly, evidence in disclosure. Fourthly, expert evidence.
+
+Dealing firstly then with scope, your Ladyship may have gathered from our written submissions that we have limited comments to make in respect of scope, as we consider the provisional scope to be sufficiently broad to encompass the areas which were of concern to those we represent. However, we wish to take this opportunity to briefly set out our stall on the issues which are of those particular concern to those we represent.
+
+Those represented by CBFJ Cymru welcomed the opportunity to have the vaccine and many wished only that it could have been available sooner. Indeed, some members feel that had they been able to receive the vaccine sooner then their family members may not have died.
+
+This is why it is of particular importance to those we represent to understand how decisions were made regarding prioritisation. Audit Wales have already identified one area of concern, and that was the way in which NHS staff received their vaccine ahead of their allotted priority group. Of course, when it comes to a matter such as this, there are many competing views about who should be at the top of the list, however, we submit that it is proper and right to subject the decisions made about prioritisation to sufficient scrutiny.
+
+Further, we consider that the manner in which the vaccine was rolled out should be scrutinised. We note that the Welsh Government in their written submissions ahead of this preliminary hearing have identified that this is an area where regional and local issues sometimes required different approaches. Those who I represent hope that this can be explored in this module. It is their experience that there was a patchy approach with different decisions being taken by local health boards rather than a centrally-run and organised strategy.
+
+In particular, those we represent want to know whether sufficient consideration was given to the inequalities or barriers faced by those living in rural communities and whether the older population and those who had comorbidities had particular difficulties in accessing the vaccine. They had been shielding for many months. For some people, going to have their vaccine may have been the first time that they left their house or went into a room with a large number of people. If they couldn't drive, they may have had to take public transport. We would welcome scrutiny of whether sufficient consideration was given to the challenges that they would have faced when accessing the vaccine.
+
+We also ask the Inquiry to look at decisions made regarding antivirals, particularly in the months before the vaccine became available. CBFJ Cymru are grateful to Mr Wald KC for making clear that therapeutics in practice will fall within the scope of Module 3.
+
+We are, however, concerned about access to antivirals and, therefore, we welcome scrutiny in this module as to how the preceding phases were managed and what steps were taken by public bodies to enable the use of antivirals where appropriate.
+
+Finally, in relation to scope, there is an area where we would invite further thought. At present, the provisional scope does not appear to cover the issues of what is sometimes referred to as vaccine mandates or vaccine passports in the shorthand. In reality, the issue is whether it is right to require people to show proof of vaccination before they are allowed to undertake certain activities. It was the experience of many who live in Wales that they had to show proof of vaccination or, in lieu of that, proof of a negative lateral flow test.
+
+An area which is of concern to those we represent, as I know your Ladyship is aware, is nosocomial infection or hospital-acquired Covid-19. CBFJ Cymru is particularly focused on how matters were dealt with in Wales and how the decisions made by the Welsh Government compare with those made by the other three nations which make up the UK.
+
+This is an area of divergence. There was no requirement for healthcare workers to be vaccinated in Wales as there was elsewhere in the UK. We want to understand the rationale for this decision, particularly as we understand that there was a concern to maintain a four nations approach unless there was good reason to depart from it. We wish to understand what that good reason was.
+
+To that end, my Lady, if I could adopt the submission made by my learned friend Ms McDermott, we would also endorse a comparative approach in this module.
+
+If I could turn then to Every Story Matters. We have been asked to outline the key lines of enquiry and we hope that your Ladyship's Inquiry legal team find it helpful to see our proposals at this early stage. Every Story Matters is an important process for those I represent. CBFJ Cymru members have important information to impart regarding their experiences.
+
+We wish, therefore, to assist the Inquiry in whichever way we can. We ask that our core participants are given the opportunity to give evidence at the public hearings, particularly where their individual stories can speak to systemic issues.
+
+Thirdly, I wish to deal with the issues of evidence and disclosure. We echo the sentiment expressed in the written submission made by the Welsh Government that those who suffered loss deserve no less than complete and candid answers to their questions. We look forward to a process which allows proper reflection on the important subject matter of this Inquiry. We trust that we will receive full and timely disclosure so that core participants have information available when they need it so that all questions that need to be asked can be asked. Regrettably, this was not our experience in Module 1. We did address this in our written submissions at the end of Module 1, so I won't trespass over old ground here today.
+
+Fourthly, expert evidence. It has been a consistent theme that the expert evidence provided to the Inquiry to date has not addressed issues which are specific to Wales. Data has been provided which is either not specific to Wales or simply has not been collected in Wales. We therefore urge the Inquiry to instruct experts who have sufficient experience or knowledge of the system in Wales to be able to enable them to speak to the issues which are particular to Wales. At present, there are three experts listed, and those are in relation to vaccine safety, inequalities in roll-out and vaccine hesitancy.
+
+The second submission, therefore, I wish to make in respect of expert evidence is we ask the Inquiry to consider whether there should be an expert instructed in relation to therapeutics and in particular antiviral medication.
+
+Finally, the procedure for asking questions of witnesses during the public hearings. This is a very important aspect of the process for the bereaved and as such we invite the Inquiry to continue the process which was adopted in Module 1 through to this module, so that we may have input into the questions asked of witnesses.
+
+Unless you require any further assistance, my Lady, that concludes my submissions.
+
+**Lady Hallett**: Thank you very much indeed, Ms Shepherd, very helpful.
+
+Right, Mr McCaffery, I think you're attending remotely.
+
+Submissions On Behalf Of Scottish Covid Bereaved By Mr Mccaffery
+----------------------------------------------------------------
+
+**Mr McCaffery**: Yes, my Lady, good afternoon, my Lady.
+
+**Lady Hallett**: Good afternoon.
+
+**Mr McCaffery**: My Lady, as you know, I appear on behalf of Scottish Covid Bereaved this morning, as one of the counsel, including, as you know, Claire Mitchell King's Counsel and Kevin Henry, advocate, instructed by Aamer Anwar & Co Solicitors, Glasgow, the legal representative of Scottish Covid Bereaved. I intend this morning, my Lady, to make submissions in three parts. Firstly, some brief general submissions; secondly, in relation to the listening exercise, Every Story Matters; and thirdly, with respect to the KLOEs or key lines of enquiry. My Lady, the members of Scottish Covid Bereaved are grateful to your Ladyship for the grant of core participant status in Module 4. We are also grateful to Counsel to the Inquiry for the detailed note setting out the matters which are to be addressed at this first preliminary hearing for the future progress of Module 4. Module 4 is, of course, of significant importance to all core participants, the consideration of and ultimately the recommendations which will be made by the Inquiry on a range of issues relating to the development of Covid-19 vaccines, the implementation of the vaccine roll-out programme across the four nations of the UK, and the development and use of new therapeutics is of considerable importance to Scottish Covid Bereaved members.
+
+The importance of Module 4, my Lady, is underlined by reports in the media only yesterday of a highly mutated new rapidly spreading Covid variant having been detected in the United States known as Pirola or BA.2.86 and which has seen cases spike in recent weeks. Alarmingly, it is also understood that this new variant has 34 mutations identified thus far, allowing it to more easily evade vaccines.
+
+This is reported as causing serious concern amongst medics in the US and fears are that the coming winter could well see the real prospect of a serious winter flu virus combined with a resurgence of the Covid-19 virus.
+
+As a member of our group put it to us recently, my Lady, and doubtless better than any submission I could make this morning, I quote:
+
+"As a member of the Scottish Covid Bereaved group, I welcomed the launch of both the UK and Scottish Covid-19 Inquiries, hoping that these would be a path to achieving some form of justice for our lost loved ones and, crucially, that learning from those Inquiries and measures taken as a result of that learning might prevent such loss in future pandemics. That this doesn't happen again is a plea I have heard voiced by so many of my fellow members of our group. My fear, and it is a very real fear, is that it is still happening, that individuals are at very significant risk of contracting Covid, of becoming ill, of being hospitalised, of contracting long Covid."
+
+Against that worrying background, my Lady, Scottish Covid Bereaved look forward to the commencement of the hearings for Module 4 in autumn 2024 and the Chair's determination in respect of the matters raised during the evidential hearings in due course.
+
+Whilst it is commendable and very much appreciated by Scottish Covid Bereaved that the Inquiry continues to set and adhere to a robust timetable in respect of the preliminary and evidential hearings and the recovery of documents and expert opinion, we see from Counsel to the Inquiry's note and this morning's oral submissions that disclosure of materials for Module 4 is not anticipated to begin until late autumn of this year. Accordingly, Scottish Covid Bereaved feel somewhat limited in the submissions that can be made in the absence of such disclosure at this stage.
+
+Whilst we attempt to assist the Inquiry with our written and oral submissions today, it is likely, in these circumstances, that we will require to make fuller and more detailed submissions on the matters contained in Counsel to the Inquiry's note once the representatives of Scottish Covid Bereaved have had the opportunity to consider the disclosed material for Module 4 in due course.
+
+In the event that Scottish Covid Bereaved do consider that any disclosed material raises further particular issues which require to be addressed by the Inquiry, we will endeavour to raise these with the Inquiry legal team at the earliest available opportunity.
+
+Secondly, my Lady, the listening exercise, Every Story Matters. The Scottish Covid Bereaved particularly welcome the Inquiry's intention to undertake qualitative research into submissions made by members of the public and many members of core participant groups to the Every Story Matters listening exercise, and specifically in relation to Module 4, also that the results of this research are to be collated into themed reports.
+
+It is of great importance to Scottish Covid Bereaved that the Inquiry is able to hear directly from as many of those directly affected by the pandemic as possible, enabling their stories to contribute to and help inform the Inquiry, thus ensuring that a proper understanding of the effects of Covid-19, the response of the authorities and any lessons to be learned can be achieved.
+
+Every Story Matters will of course be crucial in enabling the Inquiry to fulfil its terms of reference in listening to and considering carefully the experiences of bereaved families and others who have suffered hardship or loss as a result of the pandemic. Members of Scottish Covid Bereaved and other core participant groups being among those who have suffered the most, once again we are grateful to Counsel to the Inquiry's further acknowledgement of the Inquiry's intentions in that regard this morning.
+
+Thirdly, my Lady, key lines of enquiry. We note the proposed key lines of enquiry contained in Counsel to the Inquiry's note, also the proposed audience groups. And whilst acknowledging the importance of both, Scottish Covid Bereaved submit that the Inquiry may wish to explore whether the manner in which vaccine delivery was rolled out across the UK may have resulted in reduced vaccine uptake. In particular, and submitted as being worthy of consideration by the Inquiry, are circumstances identified by members of Scottish Covid Bereaved where having couples within one household being vaccinated at different times may have resulted in some hesitancy to receive the vaccine in a situation where the first member of the household suffered side effects from the vaccine, and as a consequence of that another member or members of the household subsequently elected not to receive the vaccine.
+
+Additionally, it is submitted that the Inquiry should consider it relevant and appropriate to investigate whether requiring individuals to travel some distance to receive the vaccine, as those in rural areas were required to do, what impact this may have had and is likely to continue to have on vaccine uptake rates.
+
+We acknowledge the submissions in respect of the practicalities of the vaccine roll-out made by Covid-19 Bereaved Families for Justice Cymru in this regard, Scotland, Wales and Northern Ireland having similar geographical issues with many rural communities and the issues of transport and other restrictions in accessing services which are an everyday part of life in such areas.
+
+A further and important issue, it is submitted, that the Inquiry may deem relevant for consideration is the role played by social media in public messaging on vaccines. We are pleased to have Counsel to the Inquiry's undertaking provided this morning that this will be included as an issue to be considered in Module 4.
+
+There has, of course, been an overwhelming increase or reliance by members of the public -- and of course, it would appear, from evidence already heard, government -- on social media over the past decade or more as a source of news and dissemination of information, not all of which it can be said without fear of contradiction necessarily emanated from official or reliable sources. Scottish Covid Bereaved are aware of considerable misinformation in relation to vaccines and therapeutics having been spread on social media.
+
+The Inquiry has already heard evidence of the impact of the United Kingdom Government's austerity policies on public health funding.
+
+Accordingly, it is submitted that it would be relevant for the Inquiry to consider whether this resulted in fewer resources being available to provide public health messaging using such media and, when coupled with the increased reliance on social media platforms as a source of news and information, whether it led to an increase in the number of those unwilling to receive the vaccine.
+
+We further submit that it would be important for the Inquiry to consider whether online misinformation may have clouded or minimised concerns from suitably qualified persons who were challenging or raising concerns with orthodox views.
+
+Scottish Covid Bereaved consider, and it is submitted few would doubt, that the internet is the most powerful source of public information now available. Accordingly, it is submitted that the Inquiry ought to consider how a protected or verified public health message can be sent online and what steps can be taken to gain the trust of those who may have concerns about receiving vaccines.
+
+Other important issues, my Lady, were raised in the written submissions on behalf of the Vaccine Injured and Bereaved UK, UK CV Family and the Scottish Vaccine Injury Group, and -- that is, in our submission, the issue of suicide, which has been encountered among the membership of those groups, and undoubtedly others, which would merit consideration by the Inquiry perhaps not only in Module 4 but other modules in due course.
+
+The significant number of people who received an initial vaccine but then appeared to fail to take up a second is another issue of concern to our members, and also the failure to have put in place NICE guidelines for what was a novel vaccine from which side effects were to be anticipated prior to its roll-out.
+
+Scottish Covid Bereaved are also encouraged by Counsel to the Inquiry's stated intention this morning to take evidence from the devolved nations as appropriate for the purposes of Module 4. My Lady, these are the submissions made insofar as Scottish Covid Bereaved consider relevant at this early stage for Module 4 and in the absence of any disclosure as yet. Meantime, Scottish Covid Bereaved members look forward to having the opportunity to have their voice heard in respect of Module 4 in due course, and we will endeavour to continue to assist the Inquiry as required and await disclosure of materials.
+
+My Lady, those complete the submissions on behalf of Scottish Covid Bereaved, unless I can be of any further assistance.
+
+**Lady Hallett**: No, thank you very much indeed, Mr McCaffery, and I do understand the limitations on the amount of help you can give at this stage without disclosure, so I'm very grateful to you. Thank you.
+
+**Mr McCaffery**: I'm obliged, my Lady.
+
+**Lady Hallett**: Thank you.
+
+Mr Wagner.
+
+Submissions On Behalf Of Clinically Vulnerable Families By Mr Wagner
+--------------------------------------------------------------------
+
+**Mr Wagner**: Thank you, and good afternoon. My name is Adam Wagner and I represent the Clinically Vulnerable Families, which I'll refer to as CVF.
+
+CVF, as you know, Chair, was founded in August 2020 and represents those who are clinically vulnerable, clinically extremely vulnerable and the severely immunosuppressed, as well as their households, from across all four nations.
+
+The individuals CV represents are at a high risk of severe outcomes from the disease, such as a greater mortality, about 9.2 times more likely compared to those who are healthy, and long Covid, 5.4 times more likely compared to those who are healthy, than the greater population. In many cases they continue to shield to this day.
+
+For many vulnerable individuals, the pandemic is by no means over, and indeed they still face as significant a risk, and, in some respects, a higher one, because of the removal of mitigation measures, from contracting Covid-19 as they did in early 2020.
+
+CVF is keen to ensure that the Inquiry considers the full impact of the pandemic on the clinically vulnerable, the clinically extremely vulnerable, the shielded, and the severely immunosuppressed, their families and their households. Any planning for future pandemics and consideration of the effectiveness of public health services must include as a key consideration the impact on the clinically vulnerable.
+
+I want to first address you, Chair, on working towards a safe hearing centre. As you know, CVF's members include a large group of immunosuppressed and otherwise high-risk individuals, and it's been our concern since the first preliminary hearing in Module 3, which was the first we attended, to ensure that the Inquiry centre is as safe as possible for immunosuppressed and high-risk people to attend and, therefore, play a full part in the Inquiry's proceedings. The Inquiry has, of course, a legal duty under the Equality Act to make reasonable adjustments for disabled people, of whom many of CVF's members are.
+
+In this regard I want to thank the Inquiry team for its efforts to date. My lay clients, who sit to my left, report to me that the team have been responsive to requests and very much willing to listen, so that's very much the good news, and really the umbrella point that I wanted to make.
+
+Two bits of news which I will put under a "not bad news" heading, but perhaps the "work in progress" --
+
+**Lady Hallett**: You frightened me last time, Mr Wagner.
+
+**Mr Wagner**: I did, and I actually have the machine again here, I'll come to that in a minute.
+
+To be fair, it's only when attending in person that the practical reality of the mitigation measures that have been put in place get tested, so we are very pleased to have the opportunity to attend today and give some feedback.
+
+We say there is still more to do to make the hearings truly accessible, inclusive and safe for the immunosuppressed and high-risk people to attend in person. At the last hearing I attended, I showed you my client's CO2 monitor, and according to the American Society of Heating, Refrigerating and Air-Conditioning Engineers, ASHRAE, the recommended CO2 levels in buildings should be no more than 1100 parts per million; the readings we have taken this morning using this monitor were, at points, between 1000 and 1100, so very close to the not safe line.
+
+The Inquiry staff have helpfully provided a HEPA filter, which was part of the mitigation measures we proposed. However, it's had to be turned to low because of the noise it was making. So that again is certainly something we can assist with and that we have been advising on, and we want to be able to continue working with the Inquiry team on that.
+
+We have also pointed out, picking up on a similar point to what's been made by my colleagues earlier, it would be extremely useful for a room to be available in the hearing centre for the immunosuppressed, the immune suppressed. To explain what this means in practice, without such a room, our lay clients are unable to eat and drink safely because they cannot remove their face masks.
+
+We entirely appreciate that space is tight, however there is a prayer room, a support room and various core participant break-out rooms, and we would ask that consideration is given to making this reasonable adjustment in future.
+
+A second point arising from CTI's submissions this morning relates to scope. We note that the CTI clarified in his oral submissions that Module 4 will examine the development and trial of therapeutics, including decisions around eligibility, and Module 3 will examine the use of therapeutics in practice.
+
+As you pointed out, Chair, earlier, it seems -- it's obvious there will be some overlap and I just wanted to explore that for a moment.
+
+We ask that the Inquiry give some further consideration as to whether, in the context of therapeutics, it's possible or desirable for Module 4 not to consider the use of therapeutics in practice, for these reasons:
+
+For example, as I'll set out in a moment, for many CVF members eligibility decisions had real world consequences, but we submit it's only by considering those real world consequences -- for example one group being made eligible but another not -- that it's possible to properly understand whether the eligibility decisions were taken appropriately.
+
+It seems clear that, for example, the provision of antivirals to Covid-19 patients in hospital would naturally fit into Module 3. However, the provision of therapeutics and antivirals to vulnerable people in the community may not naturally fit into Module 3. It's not in the scope of Module 3 or the provisional scope of Module 3 currently outlined. There is no mention of therapeutics or antivirals there, and certainly not in the community. Moreover, Rule 9 requests have already been sent out in Module 4, and we, for example, have already filed our Rule 9 statement in Module 3 and were not aware that the practical impact of therapeutics would be part of Module 3.
+
+CVF are concerned that therapeutics, which is a hugely important issue for their members, and has received, we say, too little public attention, unlike vaccinations, which has received a huge amount of public attention, will fall through the cracks in the Inquiry. And it may well be this can be ironed out through a list of issues, but we do ask that additional consideration is given to that and the practical reality of the separation as soon as possible. And if helpful, we'd be happy to provide brief written submissions following this hearing as to what we consider the appropriate division to be. We do appreciate it's not straightforward.
+
+I will now briefly set out the five key areas of focus for CVF in Module 4, which I have quickly reformulated based on CTI's clarification this morning.
+
+First, eligibility for new therapeutics. CVF can assist the Inquiry regarding the narrow list of people who are eligible for antivirals. Many people who are vulnerable to severe Covid-19 did not and do not qualify for antivirals, for example diabetics, people with chronic obstructive pulmonary disease and older people. These people have sometimes inconsistently been pointed towards PANORAMIC or PRINCIPLE trials, which have now ended. CVF are very concerned about these trials, as they were using people with known vulnerabilities to a higher risk of more severe Covid-19 and only giving treatment to half. Some medications that were given were already proven not to be effective, for example ivermectin.
+
+The second issue that we want to raise is Evusheld. This was another new therapeutic developed by AstraZeneca during the pandemic and it helps to reduce the chances of infection and severity of Covid-19 in people who have no immunological response to Covid-19 vaccination, especially the severely immunosuppressed.
+
+The issue in the UK is that Evusheld was not subjected to the same rapid assessment and approval as vaccines or antivirals. Rather, it was subjected to NICE approval, the National Institute of Clinical Excellence.
+
+CVF's view is the lack of access to Evusheld in the UK has left severely immunosuppressed patients significantly unequal when compared to immune competent persons. Evusheld was not available at any time from the NHS, unlike in other OECD countries. Immunosuppressed people have not been given access to a prophylactic that would have given them the same protection as someone who is successfully immunised, and this has had substantial life-changing effects on CVF's members' lives. They have often been unable to partake in normal life in the way that successfully vaccinated persons can. Again, that underlines the point about separation between practical and eligibility decisions.
+
+It's affected many areas such as work, education and socialising, and it can even affect the basic needs such as buying foods, collecting medicines and attending medical appointments, and CVF can assist the Inquiry on these points, which only impacted upon the clinically vulnerable and their families and a large number of their membership.
+
+The third key issue is, we say, prioritisation and eligibility criteria for vaccinations. CVF is concerned about the prioritisation and eligibility criteria throughout the pandemic. There is evidence of inequality of access between geographical areas for adults, children and their families. CVF have case studies of the challenges people faced accessing vaccinations, either being turned away despite eligibility or the lack of access in terms of availability.
+
+The fourth issue is barriers to vaccine uptake by the clinically vulnerable. Some CVF members have had to travel significant distances to vaccination centres. Many members have found that centres are unsafe for the clinically vulnerable, with some members even contracting Covid-19 as a consequence of going to get their vaccination.
+
+We note that the Disabled People's Organisations in their written submissions also highlighted important issues around physical access to vaccinations. CVF are concerned that some patients who are eligible for vaccination have not taken them up and remain concerned about the risks. In addition, vaccine-damaged patients are concerned about further damage. The communication on vaccination is, we say, often confusing; people do not understand their eligibility.
+
+The fifth issue, many clinically vulnerable adults live in households with children, some of whom were also clinically vulnerable. For them, speedy and safe vaccination was paramount. There were multiple issues affecting children's vaccination in the UK, including slowness of distribution in schools. The delay led to many more children contracting Covid-19. CVF are concerned that there was an apparent policy to encourage infection and delay vaccination.
+
+For children five years and under, despite there being a vaccine that has been used globally, it's still not available in the UK at the time of submitting our written submissions. Some CVF members have gone abroad to access vaccination for their vulnerable children. There is clear inequality for the very youngest vulnerable children, or vulnerable families with very young children. There are other issues to be discussed further, such as the lack of support for people with allergies to vaccinations or people who are vaccine hesitant.
+
+Finally, I'll make some brief submissions on the written documents with which we were provided prior to this hearing.
+
+First, provisional outline of scope. CVF appreciates this is very much a provisional list and is likely to be supplemented in due course by a list of issues. However, one point we wish to highlight is that it appears that a significant proportion of the focus to date in this module has been on vaccinations rather than therapeutics, evidenced by the fact that only one of the six topics identified in the provisional scope relates to therapeutics, and that, as I'll submit, none of the key lines of enquiry for the listening exercise relate to therapeutics.
+
+We submit that both topics, vaccinations and therapeutics, are of equal importance, and we appreciate Mr Wald KC's clarification earlier that this will be the case. But we do worry that because of the very, very high focus in the public mind on vaccinations during the pandemic, there is an attendant disproportionate focus on vaccinations in this Inquiry. From a public health perspective, both therapeutics, antiviral and vaccinations, are hugely important. CVF have set out some provisional points made in relation to therapeutics which have been of central importance to the clinically vulnerable from the moment they were developed.
+
+On the key lines of enquiry, we have set out in a bit of detail some potential amendments to the key lines of enquiry, and I make the point again that generally -- our overall point is that there is no reference to the development and use of therapeutics in key lines of enquiry. And this is such an important element of Module 4, it really does need to be included there.
+
+It may be the lack of reference to therapeutics in the key lines of enquiries connected to the point that you made earlier about overlap, but this does need to be considered.
+
+There should also, we say, be consideration of children and/or parents of vulnerable children and/or families who are immunosuppressed living in the same household as clinically vulnerable children, clinically vulnerable people who have vaccine priority status but who are not immunosuppressed, the effect of Covid-19 vaccines on other childhood vaccinations, the vaccination of clinically vulnerable under 5s, the fact that healthy under 5s were not offered vaccination despite all other children and young people over 5 finally being offered them, the fact that those with sensory or learning disabilities should be included in the research. And we've suggested a couple of amendments which are in the written submissions directly, and it's probably easier if you consider those rather than me reading them out.
+
+Finally, in relation to paragraph 66 of CTI's note, we definitely support the indication me that some evidence regarding individual deaths and circumstances may well be relevant where it relates to possible systemic failings. The note refers to the potential to hear from clinically vulnerable individuals. CVF would be happy to assist in providing potential case studies and individuals to the Inquiry team. We ask that the Inquiry team get in touch with CVF, as we have access to potentially thousands of relevant stories and individuals.
+
+Thank you again for granting CVF core participant status. We look forward to working with you, Chair, and your team in the coming months.
+
+**Lady Hallett**: Thank you very much indeed, Mr Wagner. Just one question: you mentioned your monitor which is beginning to, as I say, instill fear in me these days. You mentioned American guidance. With no disrespect to the organisation that provided it, I'm sure it's very worthy, but is there guidance in the United Kingdom?
+
+**Mr Wagner**: Yes, there is some guidance and we can provide that to the Inquiry in very short order. I was provided with a helpful note from, I think it was, Unison. There is some HSE guidance which mentions a figure of 1500, but we say that that doesn't apply for clinically vulnerable people and it also doesn't take into account Covid-19 in particular. But we would be very happy to provide all of that --
+
+**Lady Hallett**: It's just that the team, when they're obviously trying to make what adjustments are necessary, would welcome the fullest information.
+
+**Mr Wagner**: Yes. And I should point out there is an Inquiry CO2 monitor behind me, and interestingly it shows a much lower reading than our CO2 monitor. The important point is that the readings have to be taken in the right place, which is around where all the people are essentially. It's not straightforward at all and it's not, I don't think, an exact science, but we would be very happy to work with you and your team.
+
+**Lady Hallett**: Thank you very much, Mr Wagner.
+
+Right, Ms Morris KC.
+
+Submissions On Behalf Of Vaccine Injured And Bereaved Uk, Scottish Vaccine Injury Group And Uk Cv By Ms Morris KC
+-----------------------------------------------------------------------------------------------------------------
+
+**Ms Morris**: My Lady. I'm conscious of the time, my Lady, can I just indicate for your note and for the stenographer's benefit, I will be taking my allocated time of 20 minutes. I note it's 20 to 1. I'm happy to make a start and break over lunch, I'm entirely in the Inquiry's hands.
+
+**Lady Hallett**: If you're going to be 20 minutes, I think we can complete you and then break.
+
+**Ms Morris**: Thank you for that indication. I would be grateful for a lectern if one is available from the hearing staff. Thank you.
+
+Thank you, my Lady. I alongside Mr Bradley and Mr Weaver, who sits beside me, and my instructing solicitor, Mr Wilcox, represent three groups of those who have suffered a Covid vaccine adverse reaction or bereavement. These groups are the UK CV Family, the Scottish Vaccine Injury Group, and the Vaccine Injured and Bereaved. All three groups have been granted core participant status.
+
+With the time allocated to me, I will first introduce you to these groups.
+
+Second, I'll set out why their voices are critical to this Inquiry's examination in Module 4.
+
+Third, I'll amplify our submissions in respect of the provisional scope of Module 4.
+
+My fourth topic will be disclosure to core participants and the instruction of experts.
+
+My fifth will be the Listening Exercise.
+
+My sixth and final topic will be the significant topic of how the Inquiry ensures the effective participation of those who have suffered a vaccine adverse reaction or bereavement in both the preliminary stages and in the oral hearings.
+
+So first, my Lady, may I introduce the three groups, representatives of whom sit in court and many are following proceedings online.
+
+The UK CV Family is the largest support and advocacy group in the UK for those who have lost a loved one or suffered a life-changing adverse reaction to the Covid-19 vaccine. They are run entirely by volunteers, all of whom are vaccine injured or bereaved themselves. They are focused on the needs of UK-based patients, providing help and support and advocacy, and actively raising awareness within the British healthcare system, the media and the government.
+
+As of August this year, the UK CV Family has more than 1,200 members, and approximately 20 people join every week. Membership is about 75% female and 25% male, and ages range from 14 to 76-years old. The most prevalent age range is 45 to 54-years old. Membership is limited to those people who have had an adverse reaction from a vaccine. There are also two other groups specifically focusing on the needs of those bereaved by the Covid-19 vaccine or caring for those living with the ongoing effects of the adverse reaction. This group has a strict criteria for joining. Those simply curious about vaccines or seeking information for their own agenda are not permitted to join.
+
+Vaccine Injured Bereaved UK, or VIBUK, is a group of individuals and families who have either been severely injured or bereaved as a direct and confirmed result of receiving a Covid-19 vaccine in the UK. They are campaigning for the government to reform the Vaccine Damage Payment Scheme, because in our submission it is both inadequate and inefficient. They also run a support group offering support, guidance and raising awareness of vaccine injury and bereavement.
+
+The primary causes of these injuries and deaths are: vaccine-induced thrombotic thrombocytopenia, or VITT; vaccine induced vasculitis; stoke; cerebral venus sinus thrombosis; and Guillain-BarrÃ© syndrome.
+
+Survivors are having to cope with the aftereffects of their injuries, including brain damage and physical disablement, whilst the bereaved are struggling to live without their partners, children or parents. All VIBUK members have a confirmation that their injuries were caused by the Covid-19 vaccine.
+
+The Scottish Vaccine Injury Group is a rapidly growing community of Scottish individuals who have either experienced adverse reactions to or who have been bereaved by the Covid-19 vaccine. In a small number of instances, carers have joined the group on behalf of relatives who are too sick to participate. The group currently has over 200 members and has a core participant status in the Scottish Public Inquiry. All members of the group are screened rigorously to ensure that they are adversely impacted.
+
+Collectively, my Lady, we estimate that these three groups, and allowing for some overlap, represent at least 1,350 Covid vaccine adversely impacted individuals. We have no way of knowing exactly the total numbers that have been adversely impacted but it should be assumed that there are others who have not found a support group yet.
+
+May I now turn to why the voices of these groups are critical to your investigation within this Inquiry. We represent the families of those who have lost their loved ones due to an adverse vaccine reaction. Lisa Shaw, Stephen Ward, Dr Stephen Wright, Vicky Spit's partner Zion, Neal Miller and Lucy Tabererer lost their lives due to vaccine-induced thrombocytopenia and thrombosis.
+
+Neal Miller went into hospital on 7 April 2021 with chest pains. He had a heart attack due to a blood clot, but it was noted his heart was otherwise healthy. He was discharged after three days, even though he could not walk properly. The consultants did not connect the occurrence of a blood clot to the vaccine, despite a connection being widely reported in the media. Neal was a healthy 50-year old who played sport and looked after his health. His blood clot should have raised alarm bells. Two days later he collapsed and was diagnosed with numerous further blood clots. Whilst in hospital he became confused and had trouble talking. He underwent an MRI and plasma exchange and was again discharged from hospital. He was at home for only four days before he collapsed and passed away. His family feel that had the connection between the vaccine and his blood clots been made at the first admission, his survival chances would have been greater.
+
+Kenneth Purnell lost his life due to vaccine induced vasculitis. The partner of Michael Cornwell died due to bilateral cerebral venous thrombosis.
+
+Margaret Bailey lost her life from a suppressed immune system due to developing stage 4 lung cancer.
+
+From the UK CV Family, Alexandra Kelly lost her mother, Anthea, a retired palliative care nurse, to pneumonitis caused by the Covid vaccine. Anthea died within four days of her vaccine, and at an inquest that took place over 18 months after her death, a pathologist confirmed that the vaccine had caused it.
+
+Individuals within the three groups have developed a variety of conditions, including VITT and CVST, Guillain-BarrÃ© syndrome, mast cell activation syndrome, significant vision Impairment, rheumatoid arthritis, pericarditis, myocarditis, chronic fatigue syndrome, tinnitus, heart issues, chest pain, brain fog, weakness in their limbs, or have suffered pulmonary embolism or heart attacks. Some have had to undergo amputation.
+
+This is not an exhaustive list, my Lady. Many of our clients have experienced delayed diagnosis, which has resulted in permanent damage.
+
+And within each of these groups there are a number of bereaved families who were denied proper investigations into the deaths of their loved ones because those deaths occurred at home during a national lockdown.
+
+My Lady, Covid vaccine reactions and bereavements have also had a wider impact on society as a whole. Medical professionals who have experienced an adverse reaction have been unable to work since the beginning of the vaccine roll-out as they were the first to be vaccinated.
+
+Our clients can provide case studies of NHS staff who have experienced significant adverse reactions, and in some cases, death.
+
+The Scottish Vaccine Injury Group, for example, have several medical professionals who have suffered life-altering reactions. These are specialist medical staff who selflessly put themselves on the frontline during the early months of the pandemic and were told, like everyone else, that the vaccines were safe and effective. Some were even told that if they didn't take the vaccine they wouldn't be allowed to return to work.
+
+We represent one nurse, who wishes to remain anonymous, she doesn't want her work colleagues to know about her vaccine reaction because she isn't sure of the responses she will encounter. Two years ago, prior to her vaccine, she had a senior position working 12 hours on night shifts. She is a single parent and her family relies on her income. Four days after her second vaccine, she experienced PV bleeding for no apparent reason, and then three days later was diagnosed with bilateral large volume pulmonary embolism, with right heart strain. She has battled for two years and now she is managing one 9-hour shift per week in a different role entirely, but that one shift is still extremely challenging for her, due to ongoing symptoms. Her life has been turned upside-down and she has undergone significant trauma, yet cannot speak about the cause for fear of recrimination.
+
+Another nurse, a specialist theatre nurse, has been diagnosed with vaccine-induced pulmonary fibrosis, a serious and lifelong lung disease that causes permanent lung scarring that progressively worsens over time. There is no cure, only temporary symptomatic relief. She was told she would lose her job if she didn't take the vaccine, so, despite her misgivings, she went ahead because she is a single mother of two children. Now those children are her carers.
+
+My Lady, it's easy to reel off abstract facts and figures, but these are real people, facing insurmountable hardship, who felt coerced into taking a vaccine in the first place and now can't even mention their reactions to their colleagues.
+
+In addition to their injury and bereavement, those we represent have also experienced a second trauma: a lack of medical knowledge and understanding about the risk and presentation of vaccine injury has left injured people undiagnosed and without treatment. Furthermore, the prevailing institutional mindset within medical bodies and the government has been fixated solely on acknowledging the benefits of the vaccine. This has led to those reporting vaccine injury to feel disbelieved, unheard and marginalised.
+
+Censorship is a very real issue, my Lady for the vaccine injured and bereaved. Their support groups have been shut down by social media platforms and their experiences censored by the mainstream media. They have to speak in code online for fear of having their only source of support taken away from them. They face stigma and abuse for sharing their symptoms in the context of the Covid vaccine and even been branded as anti-vax for sharing very real and medically proven vaccine injuries.
+
+Care must be taken in the Inquiry's own examination of the role of social media and ensure that the Inquiry itself doesn't fall into the trap of further disenfranchising those who've experienced vaccine injury.
+
+To be clear, those we represent voluntarily participated in the Covid-19 vaccination programme when called upon. A significant number of them encountered adverse reactions following the first vaccine dose. Nonetheless, they were advised by their doctors to proceed with the second dose, their doctors not suspecting any vaccine-related connection.
+
+My Lady, there is a particular significance to these Module 4 hearings taking place in the autumn. Those we represent are concerned that, given the reported return of Covid-19 variants and the discussion in government and the media of a winter vaccine roll-out, that their experiences will once again be censored and ignored as they don't fit with the government narrative around vaccines.
+
+The Covid vaccine injured and bereaved have been marginalised in the past three years, struggling to have their voices and experiences heard, having gone from being fit and healthy people, leading full and active lives, to being disabled and dependent on benefits. They have suffered additional trauma due to the lack of medical, psychological and financial support available.
+
+These are not people, my Lady, who are dealing with a sore arm or flu-like symptoms, these are people who have had a stroke, a heart attack or lost a limb, people whose bodies are full of clots, people who have had debilitating migraines almost every single day for up to three years, and people who now have allergic reactions to everything they consume, even water, and young women who had hoped to become mothers but whose periods have stopped completely. These are not the normal side effects anybody would reasonable expect from a pharmaceutical product. These are people who have lost their livelihoods, their friends and, in some cases, their families.
+
+In addition, the vaccine injured and bereaved can't process their trauma because they're fighting every step of the way for recognition, validation, care and support. They can't express or record their experiences without being misunderstood, misrepresented or used for somebody else's agenda.
+
+In August of last year the UK CV Family lost its first member to suicide and a survey of their members reported 73% have considered suicide. Both UK CV Family and Scottish Vaccine Impact Group regularly deal with suicidal members. All three groups are extremely concerned that in the absence of psychological support for those who are now dealing with a chronic as well as stigmatised illness, this will not be the last suicide within the injured community.
+
+The treatment of the vaccine injured in this country has historically been a source of shame. Neglect and dissemination has been brought to the light through the Covid-19 vaccination roll-out and is not resulting in serious mistrust of British institutions, of the government and of healthcare systems. Trust is vital in the event of future health crises. In order to rebuild trust from the general public, the UK must urgently develop an effective and compassionate means of medically, practically, financially and emotionally supporting the vaccine injured.
+
+My Lady, I will now move on to some focused submissions on the provisional scope of Module 4. The first point I would make, my Lady, is that those we represent are from England, Scotland, Wales and Northern Ireland, and therefore we press upon you, as others have, the need to analyse all the issues within the Module 4 scope from the perspective of the UK government and the devolved administrations.
+
+Secondly, my Lady, you have indicated that as part of your provisional scope that the Inquiry will examine vaccine safety issues, and Mr Wald King's Counsel has stated this morning that this will form a significant part of the Inquiry's work. Our clients seek an examination into the public awareness of the safety profile approval process for the vaccine and steps that might have been overlooked due to the speed of the vaccine production, and distinctions between this vaccine production and others previously approved.
+
+This is what Mr Wald termed the balance between speed and safety, and we're grateful for the acknowledgement this morning that this is an important topic that the Inquiry will consider.
+
+Our clients also ask the Inquiry, as others have, to conduct a thorough investigation into the decision not to use alternative therapies to treat Covid-19, instead employing emergency regulations to roll out a new vaccine. We note the submissions made by other core participants urging the Inquiry to look carefully at therapeutics and not just vaccines.
+
+My Lady, you have also indicated that you intend to look at post-marketing surveillance of the vaccine, such as the Yellow Card monitoring and reporting system. The reality is that, despite the presence of this system, we still have no idea how many people have actually had an adverse reaction to the Covid-19 vaccine. For example, according to figures updated in April 2023, 53.8 million people in the UK had the first dose of the Covid vaccine and 50.7 million people had the second. Those numbers are reported up until September of last year. That leaves just over 3 million people, or 6% of the UK population, who stopped after the first dose. That is clearly 6% of the population who did not come forward for the second part of what was clearly marketed as a two-part vaccine and, my Lady, you should be concerned about the reasons why that 6% did not take the second dose. One reason may have been that they did not feel able to have the second dose because of how unwell the first dose made them feel.
+
+So in our submission the Inquiry should, as a matter of urgency, investigate firstly the effectiveness of the passive reporting system, such as the Yellow Card scheme, and, secondly, any other ways to determine exactly how many people have been impacted by an adverse reaction.
+
+The Covid-19 vaccine was a novel vaccine on a global scale, so adverse reactions to it must have been expected. The Yellow Card system was not able to cope with a medication response of this magnitude and we submit there should have been a bespoke reporting system for this vaccine which should have collected proper data and have involved follow-up care to ensure the wellbeing of those who report it.
+
+As part of this bespoke scheme, data could have been collected from those who submitted reports, for example on ethnicity, gender, age, medical history and blood type, which could have then indicated relevant factors that could point to why particular groups reacted to the vaccine.
+
+The pandemic provided a one-off opportunity to monitor and record potential adverse reactions, given they must have been expected, but this data has not been collected.
+
+Moving to my next topic, Mr Wald reminded us this morning that the scope of Module 4 is necessarily provisional and we're grateful for that indication. My Lady, we submit that you should include within your scope the issue of support for the vaccine injured and bereaved. In our submission, your Inquiry should include an examination of why those individuals have been discriminated against in the provision of healthcare services, and in particular why they have been denied equal access to appropriate medical testing to help identify relatively common pathologies in post-vaccine patients, and a specialist cohort of medical professional who can contribute to research and inform clinical guidelines and a dedicated research hospital.
+
+My Lady, it should be the concern of this Inquiry that there is currently no appropriate treatment of vaccine-induced illness and injury, or an appropriate level of psychological and emotional support, or adequate financial support for those we represent.
+
+The vaccine injured and bereaved have spent the past three years, both individually and as a collective, asking for help from this country's medical professionals, mainstream media and members of parliament. They have been met with standard responses that promote the vaccine and that completely fail to address the needs of the injured and bereaved. An analogy can be drawn with listening to someone who has been in a serious car accident and then telling them about all the benefits of cars and then how many people haven't been killed by cars. No other medical condition or injury is treated in this way.
+
+Turning then to the Vaccine Damage Payment Scheme. My Lady, you have stated in your provisional scope that you will examine whether any reforms are necessary. In short, they are, and what is required is both radical and urgent. It's the clear view of those I represent, a large number of whom have made claims under the scheme, that it is no longer fit for purpose.
+
+As of July of this year the scheme has received a total of 6,399 claims, of which 2,352 have been notified of an outcome. Over 500 of those claims have been waiting for more than 12 months, with 166 of them waiting for over 18 months to receive an outcome. 96% of those claims have been refused. Many have been turned down on causation, despite having evidence from multiple consultants that their injuries started following vaccination and despite received exemptions and despite having an adverse reaction recorded in their permanent medical records.
+
+Only 127 claimants have received an award, while 177 claims were unsuccessful solely because they did not meet the 60% disablement criteria, even though causation was accepted. This highlights, my Lady, the inherent shortcomings of the current all or nothing scheme, leaving those claimants without any award. By comparison, before the pandemic, in 2019 to 2020, out of 70 claims made, only one claim was rejected for failing to meet the disability criteria.
+
+VIBUK have been campaigning for the government to reform the Vaccine Damage Payment Scheme in particular to improve the time it takes to assess and award claims, to remove the limited eligibility and criteria for causation and amend the one size fits all award and payment, which should have no upper limit.
+
+My Lady, we also ask that as part of your examination you review the care pathway provided to ensure appropriate medical and emotional support to the vaccine injured and bereaved, the lack of a trauma-informed approach to the claiming process from start to finish, and the qualifications and relevant experience of the medical assessors employed to analyse VDPS claims and appeals.
+
+I now turn to my fourth topic, that of disclosure and experts. In our written submissions we made a specific request for cross-disclosure of evidence from Modules 1 and 2A and C on vaccines, and we're grateful for the indication this morning that the Module 4 team is checking requests both in the Rule 9s from other modules, and that disclosure will be reviewed. In our submission this review needs to be thorough and broad.
+
+In respect of experts, my Lady, we ask for early conversations with the Inquiry legal team about those experts under consideration. Those we represent have a deep understanding of those with expertise in the issues that impact on them and can provide meaningful assistance to the Inquiry in this regard. There was nothing identified, however, by Mr Wald this morning about experts who can provide the Inquiry with the expertise on the mechanism of adverse vaccine injury, for example haematologists, cardiologists, immunologists, just to name a few relevant specialisms. So we'd hope that dialogue can continue on that topic.
+
+May I turn now to address the listening exercise. I'm grateful for the confirmation that the Inquiry wants to hear from those who suffered vaccine damage as a result of the vaccine roll-out. However, despite this stated aim, our clients note with concern that none of the key lines of enquiry seek to research the injury and bereavement caused by the Covid-19 vaccine. In our submission, the Inquiry cannot simply ignore the reality of this lived experience for an unknown number of people, and the Inquiry should be targeting research and evidence that allows it to properly understand the number, the nature and the degree of these injuries in order to fully establish the facts surrounding them, which in turn can then inform your findings, my Lady, and any concrete recommendations for future health crises.
+
+My final but important topic, then, my Lady, is how the Inquiry ensures effective participation for those we represent, and we are grateful for recognition by Counsel to the Inquiry that those we represent have relevant evidence to give, and we ask you, my Lady, to consider from the outset how you will hear from those we represent at the oral evidence hearings. They are the only individuals who can give first-hand evidence to you of their experience of vaccine injury, their experience of reporting the injury, and their experience of the Vaccine Damage Payment Scheme.
+
+We are grateful for the timetable set out this morning in respect of future hearings, and Mr Wald King's Counsel has indicated that the Inquiry will give as much notice as possible for deadlines. If there is a standardised process of deadlines that can be shared, not just for counsel's convenience but which gives proper time for those of our clients whose injuries impact upon their vision, their concentration, their processing and recall, to consider documents provided by the Inquiry and by their legal team and to give their instructions on them, we would be grateful.
+
+Some of those we represent, my Lady, have gone to considerable effort to be here today, and I urge the Inquiry not to assume that because they are here and because they look well, that they are actually not struggling. They are all living and managing acute and chronic health conditions. Standing or even breathing is a struggle, and we ask the Inquiry and its staff to please bear this in mind. They will need facilities in the hearing centre to be available to them to stand, sit, lie and move in a way of their choosing to enable them to be able to properly follow the evidence and engage with your Inquiry. We are grateful for the welcome they have received this morning from your hearing staff.
+
+In addition, we do echo the submissions made by the bereaved families for the provision of satellite venues for those we represent, which would mean that they could then attend without the arduous travel. For example, a number who sit here today have travelled from Glasgow and there are others across the UK who would want to watch the proceedings but be with others for emotional support, particularly given their difficulties in accessing support outside of their own communities. There may also be barriers to those individuals engaging online because of vision or cognitive impairment.
+
+So, my Lady, in conclusion, and without risking the patience and the stomachs of the stenographer and others, the UK CV Family, the Scottish Vaccine Injury Group and the Vaccine Injured Bereaved, are grateful for designation as core participants and are here to assist you and your Inquiry. This Inquiry is an historic opportunity to properly recognise and record their experiences away from the misinformation and political agendas, to build trust in our medical and public institutions and our medica, and for you to make clear and concrete recommendations that will have a significant impact on their lives and those of millions of others.
+
+Thank you, my Lady, those are my submissions.
+
+**Lady Hallett**: Thank you very much indeed, Ms Morris.
+
+We shall return at 2.10, please.
+
+*(1.10 pm)*
+
+*(The short adjournment)*
+
+*(2.10 pm)*
+
+**Lady Hallett**: Right. Ms Banton. There you are.
+
+Submissions On Behalf Of The Federation Of Ethnic Minority Healthcare Organisations By Ms Banton
+------------------------------------------------------------------------------------------------
+
+**Ms Banton**: My Lady, I am, as you know, Elaine Banton, with a counsel team of Mr Philip Dayle, Mr Ifeanyi Odogwu and Ms Una Morris, represent the Federation of Ethnic Minority Healthcare Organisations, FEHMO. We are led by Mr Leslie Thomas KC and are instructed by the firm Saunders Law.
+
+FEMHO is a prominent consortium, giving voice to the concerns of ethnically diverse Black, Asian and Minority Ethnic health and social care professionals. FEHMO's primary goal is to rectify and shine a light on the inequalities these individuals encounter within the health and social care in the United Kingdom.
+
+My Lady, I'm most grateful for the opportunity to address you briefly on five matters: scope or areas for investigation; experts; listening exercise; witnesses; and recommendations.
+
+The FEHMO client base consists of highly skilled and knowledgeable healthcare workers involved at the coalface of the roll-out of vaccines, and so it is helpful to provide some insights from them at this juncture.
+
+It is imperative to probe and examine the systemic failures and inadequacies and socio-economic variables that exacerbated the adverse effects and contributed to the disproportionate impact on minority ethnic healthcare workers. Overlooking this not only perpetuates structural discrimination but also fails to address the underlying causes of the pandemic's disproportionate impact.
+
+From the healthcare worker perspective, the inherent culture of our public health and coronavirus response mechanisms and structures disproportionately affected minority ethnic healthcare workers. These negative impacts encompassed discriminatory practices, biased assignments to high-risk areas, inadequate and insufficient PPE, a dearth of risk assessment, a lack of comprehensive epidemiological data and mapping and more.
+
+It is empirically evident that incorporating diversity into strategy formulation and implementation results will exponentially bring about better outcomes. Equitable representation, diversity and consideration of vulnerability and mitigating measures all act to better protect minority ethnic communities in decision-making regarding vaccines and treatments in the light of known pre-existing factors.
+
+So firstly I'd like to address the issue in relation to scope and possible areas of investigation. So to aid the Inquiry's efforts, FEHMO would like to suggest some key areas or focal points for investigation.
+
+Firstly, issues around vaccine confidence amongst Black, Asian and Ethnic Minority healthcare workers and wider communities, and the role which thematic lack of data on ethnicity played.
+
+Secondly, the role played by government communication and messaging and decisions taken by the Vaccine Taskforce, along with accessibility in terms of language and the absence of clear and accessible official information which led to the spread of disinformation.
+
+Thirdly, the inadequacy of the Yellow Card system and data collection on outcomes and adverse reactions, particularly amongst Ethnic Minority communities. It's a simple but important practical aspect. To improve this would be to develop culturally sensitive and multilingual information or materials about the Yellow Card system and scheme.
+
+Fourthly, the need for reform of the UK Vaccine Damage Payment Scheme to ensure equitable access.
+
+Fifthly, the role FEHMO members played within the community, stepping in to fill the void left by the government's failure to produce effective messaging or engage with ethnically diverse communities in a culturally sensitive fashion.
+
+Sixthly, the lack of investment in research trials and development of therapeutics specifically designed to meet the unique physiological characteristics and health conditions prevalent among minority ethnic populations, thus perpetuating health disparities, the lack of consideration given to tailoring treatment plans in recognition of racial ethnic differences in clinical presentation and response to drug treatment.
+
+And lastly, the systemic lack of diversity and underrepresentation in Covid-19 research and trials, despite the disproportionately high infection rates amongst Black, Asian and Minority Ethnic healthcare workers and communities, which also affected the efficacy and fuelled distrust amongst our members' communities.
+
+These challenges were foreseeable and were known, and with effective preparation the government could and should have anticipated them. They should not have taken the government by surprise had effective planning been in place. These were unprecedented times, undoubtedly, but a lot was known regarding the complexities of vaccine take-up. Adopting an informed, culturally sensitive approach would have undoubtedly equipped us better. There is a body of research and expertise that could and should have been consulted with sooner.
+
+The adoption of a colour blind approach was not fit for purpose and is wholly inconsistent with the Equality Act 2010 and in particular the public sector equality duty to have due regard to the elimination of discrimination.
+
+It's impossible to eliminate discrimination if one is blind to the differences in race or ethnicity; or, in other words, treating everybody the same leads to disparate outcomes.
+
+Concerted engagement with the public sector equality duty, together with enhanced reporting and monitoring of the equality impact assessments may be beneficial here.
+
+My Lady, there's already been comment made on Rule 9 requests. Our position has been noted, so I will not repeat that further.
+
+In respect of experts, FEHMO submits that there's a manifest need for specialists in structural racism and other forms of discriminatory practices, especially considering the trends observed in reports so far.
+
+FEHMO strongly submits that Module 4 warrants expert testimony on racial equality that will address the ingrained systemic challenges related to the equity of therapeutics, vaccine development trials and distribution.
+
+We welcome the indication that the Inquiry will have expert evidence on inequalities on vaccine roll-out and public messaging and hesitancy, misinformation and disinformation, as indicated. However, we also submit that the discrimination experts instructed should be invited to consider these issues against broader root causes of racial disparity and discrimination, which include the disengagement with the issue of race and inequality across the public sector and the lack of diversity and inclusion in senior leadership within key structures such as the NHS.
+
+If we may also suggest, it would be advantageous for experts to adopt, where feasible, an integrated, intersectional approach that accounts for the multiplicity of experiences.
+
+Whilst the Equality Act itself does not take a joined-up approach, section 14 of the Equality Act is not yet in force, so it's not got a joined-up approach in respect of protected characteristics, for that reason. However, the adoption of an intersectional approach mirrors the position experienced in real life. We are a make-up of a collection of protected characteristics. For example, a disabled black woman or a young Muslim man, an elderly man, and so on.
+
+In terms of the listening exercise, FEHMO offers the following suggestions in relation to the KLOEs for the listening exercise:
+
+- Experience of health and social care workers in respect to the proposed VCOD and handling of the same;
+
+- A targeted group using culturally sensitive means to reach minority ethnic health and social care workers.
+
+- Experiences of those who took an active role in their communities in regard to the vaccine and their interaction with public agencies.
+
+My Lady, we also submit that the phrase "vaccine hesitancy" is in itself problematic and perpetuates negative blaming connotations. We invite the Inquiry to consider using "vaccine confidence" or "unconfidence" instead. "Hesitancy", as we say, signals that blame aspect, and potentially the word "caution" might be another word preferred.
+
+In terms of witnesses, we urge the Inquiry to hear evidence from our members who have first-hand lived experience of the impact of decision-making and procurement of Covid-19 vaccines and the pervasive exacerbating effect inequalities had on every aspect of the healthcare system before, during and post-pandemic.
+
+In conclusion, my Lady, FEHMO states, on interim recommendations, this modular nature of the Inquiry presents as a unique opportunity to instigate agile and prompt improvements, and further prevent adverse consequences rather than waiting until the end of the hearings.
+
+Unless I may assist you further, my Lady, those are my submissions.
+
+**Lady Hallett**: Thank you very much indeed, Ms Banton. You make some important points, and obviously I shall bear them all very much in mind. Thank you.
+
+**Ms Banton**: Thank you so much.
+
+**Lady Hallett**: Right, I think -- am I going to have to move again? -- Ms Naik.
+
+Submissions On Behalf Of The Migrant Primary Care Access Group By Ms Naik KC
+----------------------------------------------------------------------------
+
+**Ms Naik**: My Lady, I don't know if you can see me. I don't think you can in fact.
+
+**Lady Hallett**: I did ask that the computer should be lower or ... anyway, I can see you now. Can you see me?
+
+**Ms Naik**: Yes, I can, my Lady, thank you very much. I'm very grateful.
+
+My Lady, I am instructed, with my learned junior Ms Moodie and a team of solicitors from the Public Interest Law Centre, by the Migrant Primary Care Access Group, which is quite a difficult acronym, so I am going to ask in shorthand to refer to them as the Migrant Care Group, if that assists.
+
+The four organisations, as my Lady is aware, are Doctors of the World, the Joint Council for the Welfare of Immigrants, the Kanlungan Filipino Consortium and Medact. They're concerned as to the barriers and inequalities to the Covid-19 vaccine uptake, including the impact it's had on this exceptionally vulnerable group with multiple protected characteristics but, by reason of their immigration status, including those with uncertain or no immigration status.
+
+This, as my Lady is aware from the submissions we have made in writing, is the reason why we sought to distinguish ourselves from the other core participants in this module and we're very grateful for the consideration of those further submissions and therefore our inclusion here.
+
+We further note, as we do, that we've used the term "migrant" or "migrant community" but obviously we highlight at the outset that the individuals we represent are -- and the four organisations who represent their interests, have wide, diverse characteristics depending on their individual circumstances and their immigration status, and also that immigration status is not static and indeed may have changed during the course of the Covid pandemic.
+
+We just have hopefully five areas to address you on in short:
+
+- One is just a summary of the Migrant Care Group's key areas of interest.
+
+- A specific issue arising from the agenda as to the status of the Secretary of State for the Home Department, who is not currently a core participant in this module, although she was, we understand, in Module 1.
+
+- The issue around Rule 9 requests that arises in respect of that and as to the way in which those might be conducted.
+
+- The key lines of enquiry, just an observation on the wording of those. And also what we might be able to contribute to that with our particular clients.
+
+- Finally, the scope, just a proposal on the expansion of the scope of Module 4 in relation to immigration, detention and accommodation.
+
+So if I might just first summarise, really, as my Lady is aware, that the Migrant Care Group will provide evidence on the impact of the government's vaccine delivery for wider migrant community, with particular focus on successive policies and legislation and the practices that created very significant barriers for this cohort and the impact of that.
+
+We hope to provide evidence of the support that our particular clients were able to provide to overcome barriers to inequalities to those migrant communities, and the four organisations that we represent all shouldered significant public health responsibilities during the pandemic which should, we say, have been provided by the state to combat at least a decade of austerity, continuing anti-migrant rhetoric, and hostile environment policies that we say catastrophically prevented vaccine uptake for migrants, both documented and undocumented.
+
+Furthermore, the majority of the people represented by in this group are from Black, Brown and minoritised communities, and they face additional institutional structural racism when seeking to access healthcare, actually both primary and secondary, including trying to access the vaccine, and also the consequences for those who then sadly fell ill or worse.
+
+For today, and having heard Counsel to the Inquiry, Mr Wald KC, we have some just brief observations in relation to some of the points that he raised, and we noted that when you granted core participant status to this group that -- I think my Lady noted in your ruling of 17 July that the understanding and perspectives of those with uncertain immigration status and how this might have affected access to the vaccines was something you were concerned to address.
+
+We say, and Counsel to the Inquiry observed, that the development of the vaccine was intended to prevent serious illness amongst the most vulnerable, and we say this must include all persons within the UK, regardless of their status, and that again is something that we say the Inquiry should focus on.
+
+Mr Wald was also, and we're very grateful to hear it, concerned to address that Module 4, the scope of it are to address the barriers to vaccine uptake, including adequacy of the government planning for and response to inequalities relevant to the vaccine uptake amongst certain groups and those from particular ethnic groups. Whilst again we welcome that, as we said, in writing and we observed in Mr Wald's written submissions, we say that ethnicity is not an adequate or sufficiently specific definition to identify or address all the specific barriers to take-up or accessibility based on immigration status, and again we say it includes but isn't limited to uncertain status or lack of it.
+
+So, to put it bluntly, we say that anyone in the UK, even those who might otherwise have been facing removal from the UK, who have no current immigration status, as well as those who did, all need to be addressed and all their concerns need to be addressed in the context of the government's developing, shaping and delivering of the vaccine roll-out and delivery.
+
+Mr Wald rightly said that the central issue would examine whether these were sufficiently tailored to meet those with particular needs, and from those particular backgrounds and communities, and what we say is that at the heart of our submissions will be the right to respect for human dignity that, regardless of immigration status, paraphrasing Baroness Hale in Limbuela, that:
+
+"... The fundamental values of a decent society, which respects the dignity of each individual human being, no matter how unpopular or unworthy she may be."
+
+I'm sure that's something that the Inquiry will have at the heart of their concerns. Read that together with the definition of structural racism that we heard from Ms Banton, those two concerns are matters which are entirely apt to the issues that the migrants in this -- these core participants face and need to be addressed in the context of the Inquiry's further dealings.
+
+Just coming back on the point from Ms Banton in relation to the request for an expert, we of course wholly support that, and it may well be that some of those issues that are sought to be addressed in the context of structural racism in that, for those core participants of FEHMO, may well address the specific position of migrant communities, and we certainly hope that that is the case and that we wouldn't need to therefore replicate it.
+
+One important thing we want to talk about and one of the key submissions that we will be making is that in order to examine the impact for the Migrant Care Group, that the Inquiry will have to examine the impact and the breadth of the government's hostile environment policy, and we know that was introduced by Theresa May when she was Home Secretary in 2012. It was later renamed the compliant environment by Sajid Javid, as the later Home Secretary, partly I think as a result of the Windrush scandal.
+
+But that hostile environment and the effect of those persons affected by this policy is going to be a key part of understanding the vaccine roll-out, the barriers to uptake and, indeed, the drivers of mistrust. Not forgetting that when Theresa May introduced those policies, she said:
+
+"The aim is to create, here in Britain, a really hostile environment for illegal immigrants."
+
+The consequence of that, which was a range of measures aimed at identifying, reducing the numbers of migrants in the UK, those that she asserted had no right to remain, then led to a series of measures under Immigration Acts which restricted people's access to various things, including driving and bank accounts and renting property, but in particular, of course, we're concerned with free healthcare.
+
+That meant, because the measures involve data sharing between government departments, that that led to a fear amongst persons who were unwilling, because of a fear of reprisals, to seek medical attention, to register with GPs, and therefore, in the context of the pandemic and the vaccine roll-out, would therefore not have been able to be easily identified as being eligible for vaccinations, being identified as clinically vulnerable for early vaccine, even to book an appointment through the national bookings system, because it required the individuals to trust and attend and share key personal information with medical staff and institutions, and the risk of that being shared with the Home Office was a real and great one.
+
+So we say we've seen the impacts of those kind of policies in the Windrush scandal, but it doesn't end there, and that leads me then to the point that we make, the third point, which is that Secretary of State for the Home Department isn't a core participant, as I mentioned at the outset. She was in Module 1, and we raised in our written submissions that it is of some grave concern to us that she is not. Why she is not, we're not aware, but we understand she hasn't chosen to apply in this module, although had done in the previous one.
+
+To contextualise the importance of that, the Public Accounts Committee in 2020 report on immigration enforcement found that the committee wasn't convinced that the department was sufficiently prepared to properly safeguard the existing, as they say, legal immigration population in the UK whilst also implementing the new immigration system and managing its response to the Covid pandemic.
+
+So once they've raised those concerns and put them on paper in September 2020, about the Home Office's response to the pandemic, we are concerned that they are not a core participant, and we note, as I understand it, that your Ladyship could invite the Home Secretary to apply to participate as a core participant in this module.
+
+We would ask that your Ladyship give some consideration to that. I've understood from Mr Wald that there is no -- I don't understand there is any particular reason why they haven't been, but I may have misunderstood that.
+
+In any event, even if they're not a core participant, then it affects the nature and degree of disclosure that we can expect from the Inquiry and also the Rule 9 procedure.
+
+We've heard from Mr Wald again that there's no limitation on the evidence being procured from the Secretary of State, but we say that core participant status would obviously submit and impose a far greater and more far-reaching obligation on the Secretary of State as to the impact of her policies and whether she reviewed the impact of the hostile environment policies in the context of the provision of the Covid-19 response and in particular the vaccine roll-out.
+
+So we do say, although we recognise that Mr Wald has said Rule 9 requests will be given careful consideration, if that's to be the procurement of -- the way that the evidence is going to be procured, we do say that we would, first of all, invite the Inquiry and my Lady to consider whether in fact the Secretary of State can have core participant status -- or should have core participant status, I should say.
+
+We also echo the concerns in the context of the Rule 9 process that the instructions are not currently disclosed to our clients, and therefore -- if we were going through the Rule 9 process, and therefore we're not in a position to comment on the breadth and detail from our clients' frontline expertise and experience. We submit that the Inquiry would be properly and fully assisted by that, if that process were to be amended.
+
+I understand there has been an earlier ruling, I haven't seen that as yet, but we do --
+
+**Lady Hallett**: More than one.
+
+**Ms Naik**: My Lady, I understand.
+
+In this regard, when a core -- we say that a significant government department is not currently a participant, and if they're not going to become a participant, then the nature and degree of the evidence that should be procured from them would be, we hope, assisted by some input from our clients. But we'll perhaps leave that for the moment, depending on the outcome of the first point we make.
+
+The fourth point, in relation to key lines of enquiry, and again we're very welcome to hear from Mr Wald about the drivers of mistrust that he set out in his written and oral submissions today in relation to public messaging, and the drivers of hesitancy and uptake, he observes -- well, we've made the observations about the hostile environment, but he particularly observes that the groups identified were -- the potential audience groups were based on residency, ethnicity and socio-economic circumstances and health concerns. That's in his note to the Inquiry from August this year.
+
+We say again that fails to quite capture the fundamental difference between -- and access to vaccines based on immigration status and identifying the potential audience on ethnicity alone doesn't go far enough and is an insufficient basis on which to identify persons, relevant persons, and the full spectrum -- otherwise the full spectrum of migrant voices may be omitted through that process.
+
+So we invite the Inquiry to specifically include in the target audience for the KLOEs non-British nationals, and specifically to hear evidence from documented and undocumented migrants as to the fear of authority and contacting the authorities and, crucially, why that includes persons who do have immigration status. Our clients can provide that, so we do invite the Inquiry to receive that evidence in due course.
+
+The final point relates to the scope of Module 4, and as far as we're aware, and I'm sure I'll be corrected if I'm wrong, that it doesn't currently specifically address migrants of the immigration detention state and migrants living in remote Home Office accommodation sites such as, sort of, Napier Barracks, Penally, those kinds of sites where there are other restrictions in place on those who are accommodated there. Again, an expansive approach and consistent with the terms of the Inquiry and particularly about the public health response across the whole of the UK we say should include those persons in immigration detention.
+
+So, again, as far as we're aware, there is no other core participant within Module 4 who will address that circumstance.
+
+So those are the points, my Lady, that we wish to raise. I do emphasise particularly that we're interested to hear the point about where the Secretary of State for the Home Department lies in terms of participation, but we also finally then thank you for allowing this core participant to participate specifically in the Inquiry.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much indeed. Thank you.
+
+I think you're in a similarly difficult position to see, Mr Willers, aren't you?
+
+Mr Willers KC.
+
+Submissions On Behalf Of The Traveller Movement By Mr Willers KC
+----------------------------------------------------------------
+
+**Mr Willers**: Thank you very much, my Lady, I can see you.
+
+**Lady Hallett**: I know, I'm going to have a word with somebody afterwards. I think when people are speaking I think we have got to rearrange the seating plan. It's all very well when you're just sitting there making notes, but ...
+
+**Mr Willers**: Exactly.
+
+My Lady, I appear together with Mr Chris Jacobs, who sits on my left, interrupted by Mr Martin Howe to my right, of Howe & Co, on behalf of the Traveller Movement, and can I begin by expressing out thanks to your Ladyship for having granted the Traveller Movement core participant status in this important module of the Inquiry.
+
+The Traveller Movement is a registered charity and the largest representative body engaging with national and local government for and on behalf of Gypsy, Roma and Traveller communities in the United Kingdom.
+
+Just to say something about the terms "Gypsy", "Roma" and "Traveller". It's a term frequently used by policymakers and researchers to describe a range of ethnic groups including English Romany Gypsies, Scottish Gypsy/Travellers, Welsh Gypsies and other Romany people, also Irish Travellers, who have specific Irish roots, and Roma, who are understood to be more recent migrants from central and Eastern Europe, and all of those are protected against discrimination by the Equality Act 2010.
+
+But the term "Traveller" can also encompass other groups that travel, including but not limited to New Travellers, Bargee Travellers (that is, itinerant live-aboard boat dwellers) and Travelling Showpeople.
+
+Estimates place the total population across the three main constituent communities at about 300,000 to 500,000 people, which would account for over half a percent of the United Kingdom population.
+
+We know that these communities suffer pervasive prejudice and discrimination in their everyday lives, and that includes access to services including healthcare. Indeed, as an aside, something not in the note that we provided, I would draw attention to the fact that the Women and Equalities select committee report of 2019 found that health outcomes for Gypsy, Roma, Traveller people are very poor compared to other ethnic groups, and found that problems existed throughout the provision of healthcare services, from registration and access to discrimination, literacy barriers and mistrust.
+
+These significant and protected minority groups experienced particular difficulties in relation to vaccination during the pandemic, and those difficulties arose from their status as marginalised communities and led to an unequal vaccine uptake by Gypsy, Roma and Traveller communities. On behalf of our clients we ask that the Inquiry specifically investigates two matters in this module.
+
+First, we say it's important that the Inquiry investigates whether members of these communities were properly informed about the vaccine roll-out and whether adequate attempts were made to dispel the concerns that they held about the safety of the programme.
+
+When doing so, we suggest that it's important to bear in mind that the government ought reasonably to have known that the Gypsy, Roma and Traveller communities were likely to be more vulnerable to Covid-19 than the majority population. For example, as a result of failure by local authorities to meet their spatial planning duties to identify land on which Gypsies and Travellers can live in their caravans, around 10,000 Gypsy and Traveller people live on unauthorised caravan sites, whilst many others live on authorised but overcrowded caravan sites. These living conditions often rendered social distancing all but impossible, increasing the risk for those living on such sites, and in particular those with underlying health conditions.
+
+Moreover, as I've mentioned already, Gypsy, Roma and Traveller communities experienced particular health difficulties, which led to increased vulnerability to Covid. By way of one example, a study from 2007 found that Gypsies and Travellers have a higher overall prevalence of respiratory problems than the majority population.
+
+We say that these communities should have been specifically targeted within the vaccination programme, yet there doesn't appear to have been any evidence of such targeting having gone on.
+
+The second matter that should be investigated, we say, are the barriers to vaccine uptake the Gypsy, Roma and Traveller communities face. These barriers stem from cultural matters and the difficulties and disadvantages that Gypsy, Roma and Traveller people generally face in terms of access to healthcare and access to information.
+
+We list the following matters, although it's not an exhaustive list: the Gypsy, Roma and Traveller communities have a historic cultural distrust of institutional and government authority arising from systemic and long-term societal discrimination and governmental marginalisation.
+
+Gypsy Roma traveller people experience poorer health outcomes than the majority population and are often wary of the potential negative consequences of vaccination. There is evidence that their general cultural concerns about the effects of vaccines on matters such as fertility and infant mortality were not taken seriously by medical professionals.
+
+The communities suffer from poor rates of literacy, which negatively affected the ability of Gypsy, Roma and Traveller people to access guidance in respect of vaccination. In particular, there is widespread digital exclusion amongst Gypsy, Roma and Traveller people, with fewer than one in five members of the community having access to or being able to use the internet, and this digital exclusion compounded the difficulties many faced in gaining access to health guidance, information and services surrounding vaccination, especially so in periods of national lockdown and limited movement outside of sites and homes.
+
+Finally, we point to living conditions. We say they're also relevant. Those Gypsy and Traveller people living on unauthorised caravan sites were less able to register with GPs or access virtual appointments or otherwise engage with medical services for the purposes of informing themselves about the vaccine programme.
+
+The Traveller Movement draws attention to the fact that there is a dearth of up-to-date information on the ability of Gypsy, Roma and Traveller people to access health services and on their general healthcare needs. Currently the NHS does not record Gypsy, Roma and Traveller ethnicity in its data directory, and we'd ask you to consider these matters properly, call evidence from witnesses who can speak about the barriers that Gypsy, Roma and Traveller people faced in relation to the vaccine programme, and indeed the data desert in respect of Gypsy, Roma and Traveller communities during the course of this module.
+
+The Traveller Movement have received a request for evidence under Rule 9 of The Inquiry Rules and will comply with that request and provide witness statement evidence in relation to barriers to vaccine uptake, steps taken to address vaccine hesitancy, public messaging about vaccines and recommendations that the Inquiry should consider in this module.
+
+We also submit that these matters should be the subject of oral evidence. We ask that the Inquiry considers calling the director of the Traveller Movement, Yvonne MacNamara, and the Chair of the Traveller Movement Trustees, Pauline Anderson OBE, to give evidence, along with other witnesses from the Gypsy, Roma and Traveller communities, who will inform this Inquiry on these important issues.
+
+We would also suggest that Rule 9 requests are sent to others, and I've listed those in our written submissions but I won't read through the names of those others now.
+
+It's important, we say, that the Inquiry receives evidence from a variety of sources because there is a very real possibility that the concerns of members of the Gypsy, Roma and Traveller communities relating to vaccination and/or the uptake of other necessary public health measures will not be met in any future pandemic unless lessons are learned from recent events.
+
+It's also important that the Traveller Movement is able to consider institutional evidence relating to their interest in the Inquiry in good time. We note what is said in paragraph 39 of the Counsel to the Inquiry's note for this preliminary hearing that if monthly updates and the provision of disclosure do not provide core participants with necessary information then the Inquiry will consider requiring position statements from state and organisational core participants. We endorse this approach and will write to the Inquiry after the disclosure process begins later this year to request a further preliminary hearing on disclosure should it appear that our client will become prejudiced by any significant delays in that process.
+
+In principle, the Traveller Movement supports the submission of position statements as we think that they can provide clarity and focus for the Inquiry team and help to distill issues concisely.
+
+Finally, the Traveller Movement would like to comment on the stance that the Inquiry has taken on the position of minorities.
+
+My Lady, you've recognised the importance of placing the disproportionate impact of the pandemic at the heart of the Inquiry. In your letter to the Prime Minister concerning the changes to the Inquiry's terms of reference you recommended that the terms of reference be reframed to put possible inequalities at its forefront, so that investigation into any unequal impacts of the pandemic runs through the whole Inquiry. This important recommendation, you said, will ensure the Inquiry is inclusive in its approach, and we note that the terms of reference have changed as a consequence.
+
+Whilst the Traveller Movement welcomes a revised terms of reference underscoring the importance of minorities, it's a matter of some concern to the Traveller Movement that the position of minorities does not feature prominently in the list of the proposed key lines of enquiry which are set out in Counsel to the Inquiry's note, paragraphs 58 to 60. The reference to ethnicity in paragraph 59 is not, we would suggest, sufficient to dispel this concern. Echoing perhaps what my learned friend Ms Naik KC said, we would submit that in fact the terms of reference in paragraph 59 should be extended so as to include others who do not fall within recognised ethnic minority groups. For example, the Travellers that I was referring to earlier, Travelling Showpeople, those who live on barges and boats, and New Travellers, they would not fall within recognised ethnic minority groups. And we hope that this Inquiry can accommodate those groups too.
+
+Clearly, the position of minority groups should feature prominently, we say, within the KLOEs, and we've identified aspects of the KLOEs in another separate note which I won't read out.
+
+Moreover, our client would wish to stress that it's important that the Gypsy, Roma and Traveller communities are treated as a separate and discrete case within any minority grouping. Our client's view is consistent with a document headed Inclusive Britain: government response to the Commission on Race and Ethnic Disparities, published in March of 2022, which states that:
+
+"One of the key principles we hold for demonstrating inclusion is not to lump together different groups of individuals with different perspectives and experiences just because they are not white. Segregating by race in this way is clumsy and actually results in exclusion and not inclusion."
+
+It's also, we say, important that the Inquiry addresses the public sector equality duty set out in section 149 of the Equality Act 2010 when considering how the vaccination programme was devised and delivered in relation to protected groups and in particular the marginalised groups that we represent.
+
+In conclusion, we ask my Lady for the following. That the Inquiry maintains its commitment to the consideration of the interests of minority groups but that it treats different groups as discrete case studies so as to avoid a generic and non-inclusive approach to complex issues that will arise concerning vaccine uptake by members of marginalised groups.
+
+Secondly, that the Inquiry commits to specifically addressing whether members of the Gypsy, Roma and Traveller communities were properly informed about the vaccine roll-out and whether adequate attempts were made to dispel the vaccine hesitancy, if that's a term to be used --
+
+**Lady Hallett**: It's not going to be "non-confidence" with respect to -- "unconfidence" was a bit, I think -- I'll look at the expressions, but I'm afraid "unconfidence" isn't something I'm going to go with, but --
+
+**Mr Willers**: I wasn't going to push for that, my Lady, but the question is whether or not adequate attempts were made to dispel the vaccine hesitancy, the word I use, that arose from marginalisation and other barriers that they faced in relation to vaccination.
+
+We've made, as I've said, separate representation to the effect that these matters should be included within the KLOE to which Counsel to the Inquiry has referred.
+
+Then, thirdly, that the Inquiry calls witnesses at the hearings in this module to give evidence which is specifically related to the experiences of Gypsy, Roma and Traveller people during the Covid-19 pandemic on the barriers to vaccine uptake and the institutional responses to those barriers.
+
+My Lady, can I just conclude by saying this, that Gypsy, Roma and Traveller people felt abandoned during the pandemic, and we would submit that by taking the approach we have set out in these submissions, and including the Traveller Movement as a core participant, we can ensure that this Inquiry will avoid the risk that Gypsy, Roma and Traveller people are marginalised once again.
+
+Thank you, madam.
+
+**Lady Hallett**: Thank you very much indeed, Mr Willers.
+
+Right, I think that leaves just one speaker, Mr Stanton, a different hat today.
+
+Submissions On Behalf Of The National Pharmacy Association By Mr Stanton
+------------------------------------------------------------------------
+
+**Mr Stanton**: Thank you, my Lady.
+
+My Lady, in this submission, I provide a brief summary of the role and mandate of the National Pharmacy Association, the NPA, and highlight the role played by NPA members in the delivery of vaccines and overcoming vaccine hesitancy, before making some observations about potential areas of focus in this module.
+
+The NPA represents the vast majority of independent community pharmacies across the UK. The type of pharmacies represented are family-owned community-focused businesses, ranging from single outlets to regional chains, as distinct from national chains.
+
+Over 50,000 people, including around 15,000 pharmacists, work in the NPA's approximately 5,500 member pharmacies.
+
+Community pharmacy is part of primary care and plays a vital role in maintaining and improving the health of communities it serves. It is most well known as a dispenser of medicines, but its role is in fact much broader and includes other NHS and publicly funded services, for example the provision of health advice, the administration of millions of flu vaccines every winter, and the provision of lateral flow tests.
+
+Community pharmacies played a core role in maintaining access to healthcare services during the pandemic, despite immense pressures, and they were instrumental in the successful delivery of the Covid-19 vaccination programme.
+
+This programme was the biggest success of the pandemic. It operated at unprecedented pace, scale and complexity, and it is estimated that the programme has prevented hundreds of thousands of hospitalisations.
+
+There have already been some helpful and informative assessments made of vaccine delivery during the pandemic, and you and your team will no doubt be aware of the National Audit Office's report of 25 February 2022 titled The rollout of the Covid-19 vaccination programme in England.
+
+At paragraph 3.10 of this report, the National Audit Office identifies that community pharmacies and GPs went beyond expectations in delivering the Covid-19 vaccine. 71% of vaccinations were administered by GPs and community pharmacies against a planning assumption of 56%, an increase of about a third. This compares to 21% of vaccines delivered at vaccination centres, against a planning assumption of 41%, which is about half of what was expected.
+
+The additional contribution by community pharmacies and GPs to the vaccine roll-out was a significant factor in the programme exceeding its objectives and expectations, and, as set out at paragraph 3.11 of the National Audit Office report, this delivery, at a cost of Â£24 per dose, was also more cost-effective than at vaccination centres, which operated at Â£34 per dose.
+
+Throughout the pandemic, community pharmacy continued to scale up service delivery to meet demand. For example, the number of community pharmacies able to deliver the vaccine increased by 50% between October and December 2021, and when the government expanded the booster programme in December 2021, community pharmacies immediately increased their appointment availability.
+
+According to figures from NHS England and NHS Improvement, by 14 January 2022 community pharmacy had delivered well over 22 million vaccinations, which is an increase of approximately 10 million in approximately three months from October 2021.
+
+Another important feature of the delivery of vaccines by community pharmacy is that it has relieved substantial pressure on other parts of the NHS. For example, in Northern Ireland, community pharmacy played a significant role in the care home vaccination programme, and is now responsible for all care home Covid-19 and flu vaccinations.
+
+Regarding vaccine uptake, the NPA issued guidance for members about how to tackle vaccine hesitancy in patients and on the factors influencing vaccination uptake amongst some groups.
+
+The NPA met with government ministers in January 2021 to consider how community pharmacy could help promote uptake of the Covid-19 vaccine, including how the high levels of trust in local pharmacists could be an important factor in overcoming doubts and misapprehensions.
+
+Following this meeting, and at the request of ministers, the NPA ran an education programme for pharmacists to support them in dealing with vaccine hesitancy.
+
+The NPA also collaborated with NHS England to produce a toolkit to allow people from marginalised groups, such as people without secure NHS status, or those without a fixed address, to access Covid vaccinations through community pharmacy. This type of initiative and service not only improved the health of the individual patient but also provided public health support to the wider community.
+
+Community pharmacists have strong trusting relationships with their local communities and they were able to engage with patients to discuss their concerns. This included in languages other than English where English was not the main language spoken. Pharmacists also reached out to people within their communities, including by attending places of worship, to encourage vaccine uptake, and because community pharmacists are more heavily concentrated in deprived areas, this type of engagement helped to tackle vaccine equalities.
+
+The NPA regularly surveys its members and can share their insights on vaccine hesitancy with the Inquiry. Some examples include a pharmacist from Sutton who told the NPA that even people who don't trust the vaccine do trust their local pharmacist and will have a dialogue with them:
+
+"From my experience, it's really important to give my patients the time and opportunity to talk openly about their health beliefs. I've had many patients ask my opinion on the Covid-19 vaccine and in particular the safety and efficacy of it."
+
+A pharmacist from Macclesfield said:
+
+"I have been a pharmacist for 38 years and I can say the day when my pharmacy became one of the very first in the country to administer the Covid-19 vaccine was the biggest day of my career. It's been quite emotional at times for our patients. Some people have not been out of their homes since last March. They are hesitant to be outside and are not used to seeing people. They see being vaccinated as the start of the end of this grim existence. I opened this pharmacy in 1990 and feel close to many of our patients. I know four generations of some families who use the pharmacy. We are hardwired into this community."
+
+The NPA and the community pharmacy sector is keen to ensure that lessons are learned from the vaccination roll-out programme and the NPA is pleased to note from the Inquiry's provisional outline of scope document that this will be a focus of Module 4.
+
+While ultimately successful, there are still aspects of the vaccination delivery programme which gave rise to concern for the NPA and its members. As early as the summer of 2020 the NPA highlighted to government ministers, policymakers and Public Health England the key potential role of community pharmacy in the administration of the vaccination service, having already had success and experience in the delivery of the flu vaccination for over 20 years.
+
+However, despite this potential and existing expertise and experience, government engagement with community pharmacy in the initial planning of the programme in autumn 2020 was limited, and it was only later in the programme, from spring 2021, that the NPA and the wider community pharmacy network was able to participate more fully.
+
+The Inquiry has heard in Module 1 about failures during the pandemic to adequately engage with existing knowledge and experience within health and public health services. This appears to be a recurring theme and it is identified in respect of vaccination delivery at paragraph 3.30 of the National Audit Office report where it is recorded that:
+
+"... the [UK Health Security Agency], primary care representatives and some local government stakeholders did not feel their existing experience and knowledge had been taken fully into account at an early enough stage."
+
+Given their experience and track record of delivery, and their reach into local communities, the NPA suggests that the community pharmacy sector should be included from the outset in all local planning meetings around implementation of vaccination services, including supply and resourcing discussions.
+
+From an operational perspective, a huge amount of planning is involved in the delivery of a vaccination programme and the NPA suggests that the following areas of the Covid-19 vaccination programme require improvement.
+
+There was an initial lack of clarity about how NPA members were able to participate in the vaccination programme and a lack of consistency of approach in different parts of the country. As already mentioned, community pharmacy continued to scale up its service throughout the vaccination programme, but with clearer guidance and earlier engagement they could undoubtedly have done more, sooner.
+
+Delivery of the vaccination service produced significant paperwork and administration that increased workload and pressure on community pharmacy at a time when services were already stretched to breaking point. At a time of national emergency, the emphasis should have been on reducing administration.
+
+There was sporadic supply of vaccines, with many community pharmacies struggling to actions sufficient supply to meet demand. In this regard, an NPA member provided the following feedback:
+
+"With increased quantity of vaccine being allocated to our offsite vaccination centre, we could have done so much more. Instead, patients were made to travel 40 or 50 miles to access a mass vaccination site for their first dose. By opening appointments, patients managed to book their second doses with us where they live or work. This was the only way we could force NHS England to allocate vaccines for us, having bookings to justify allocations. The NHS booking system also created issues and did not allow for a two-way dialogue between pharmacies and their patients. There were instances when patients failed to turn up for appointments but, due to the required thawing process of the vaccine, the vaccinations had already been prepared for use within a specified time. This meant that vaccinations would need to be destroyed unless pharmacies could find a way, often through their local relationships, to utilise already prepared vaccinations."
+
+The NPA has provisionally identified the following three areas for improvement. First, properly utilise existing expertise, capability and capacity within primary care. Innovation is, of course, important but there is evidence that new, untested initiatives were prioritised at the expense of existing expertise, experience and capacity.
+
+Second, better planning, engagement and communication. It is essential that community pharmacy has full clarity about expected volumes so that they can plan and allocate resources, invest appropriately, and procure the right level of vaccines.
+
+Third, improved access to information. Community pharmacy requires access to the NHS vaccine booking system and appropriate read/write access to full patient records to operate to their full potential, which is important given how stretched health services are.
+
+Finally, in respect of the Inquiry's key lines of enquiry and target populations for qualitative research, the NPA has provided written comments, which it does not propose to repeat here, save to highlight that there is evidence that existing trusting relationships between patients and healthcare providers within primary care, including community pharmacy, was a factor in vaccine uptake, and the NPA suggests that this issue should be specifically addressed within the research.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Mr Stanton.
+
+Mr Wald.
+
+**Mr Wald**: My Lady, very briefly, you've heard helpful submissions covering a wide range of topics in the course of the day, and I know that the Inquiry team, and I'm sure you, will want to consider these with great care.
+
+I don't propose to address you, my Lady, on the detail of those submissions, much of which is covered in any event in the CTI note and this morning's oral submissions, but I do wish to make one small but important revision to those oral submissions.
+
+My list of CPs attending remotely was incomplete and I apologise to Public Health Scotland and its counsel Simon Bowie KC for my failure to include them both within that list. I hope that by their appearing in today's transcript that will provide the necessary correction.
+
+**Lady Hallett**: Thank you very much indeed, Mr Wald.
+
+My apologies to Public Health Scotland and to Mr Bowie. They will most definitely be included. Thank you.
+
+That completes all the submissions that I shall hear today, and with the assistance of Counsel to the Inquiry I shall consider them all carefully, as I've indicated,
+
+and then make any determinations where they are
+
+necessary.
+
+I'm very grateful to everyone who's either attended
+
+here in person or has followed us online, and again, as
+
+I've already indicated, I'm extremely grateful to all
+
+those who have provided both written and oral
+
+submissions, and none of them will be wasted, I can
+
+assure you. Even if they raise issues that I have
+
+already determined, I will revisit them and, I promise
+
+you, review them.
+
+Thank you all very much indeed.
+
+*(3.10 pm)*
+
+*(The hearing concluded)*
+
