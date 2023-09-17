@@ -41,3 +41,4 @@ Contents
    module-2B/index.rst
    module-2C/index.rst
    module-3/index.rst
+   module-4/index.rst
