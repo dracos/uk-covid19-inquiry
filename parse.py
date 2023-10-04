@@ -319,7 +319,10 @@ def fix_name(name):
 
 def fix_heading(s):
     s = string.capwords(s.strip())
-    s = s.replace('2a', '2A').replace('2b', '2B').replace('2c', '2C').replace('Kc', 'KC')
+    rep = [ '2a', '2b', '2c', 'Kc', 'Uk', 'Sos' ]
+    s = re.sub('|'.join(rep), lambda m: m.group(0).upper(), s)
+    rep = [ 'Of', 'By', 'The', 'To', 'On' ]
+    s = re.sub('|'.join(rep), lambda m: m.group(0).lower(), s)
     return s
 
 parse_transcripts()

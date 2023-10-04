@@ -28,7 +28,7 @@ Sir Mark Walport
 
 *SIR MARK WALPORT (affirmed).*
 
-Questions From Counsel To The Inquiry
+Questions From Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Ms Blackwell**: Sir Mark, thank you for the assistance that you've given so far to the Inquiry. I know that you have provided a full and very helpful witness statement.
@@ -1010,7 +1010,7 @@ Mr Oliver Dowden
 
 *MR OLIVER DOWDEN (sworn).*
 
-Questions From Lead Counsel To The Inquiry
+Questions From Lead Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Mr Keith**: Deputy Prime Minister, could you please provide your name.
@@ -1757,7 +1757,7 @@ So I think there is value in doing that. Although I would say that I have -- you
 
 **Mr Keith**: Thank you very much.
 
-Questions From The Chair
+Questions From the Chair
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Lady Hallett**: Mr Dowden, as far as the head of resilience is concerned, what level of official is it?
@@ -1813,7 +1813,7 @@ Mr Jeremy Hunt
 
 *MR JEREMY HUNT (sworn).*
 
-Questions From Lead Counsel To The Inquiry
+Questions From Lead Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Mr Keith**: Would you be good enough to give your name, please.
@@ -2448,7 +2448,7 @@ Thank you, my Lady.
 
 **Lady Hallett**: Certainly.
 
-Further Questions From Lead Counsel To The Inquiry
+Further Questions From Lead Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Mr Keith**: Chancellor, did you have communications with the Welsh ministers for health in connection with pandemic preparedness and preparation, and how effective were the systems of communication? Were they as effective as they could have been and, if not, how could they have been improved?

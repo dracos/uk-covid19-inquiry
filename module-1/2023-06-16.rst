@@ -14,7 +14,7 @@ Professor Sir Marmot and Professor Clare Bambra
 
 *PROFESSOR CLARE BAMBRA (sworn).*
 
-Questions From Counsel To The Inquiry
+Questions From Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Ms Blackwell**: Thank you both. May I begin by thanking you both for the assistance that you've given to the Inquiry so far, and for agreeing to come and give evidence to the Inquiry today.
@@ -909,7 +909,7 @@ Ms Katharine Hammond
 
 *MS KATHARINE HAMMOND (affirmed).*
 
-Questions From Lead Counsel To The Inquiry
+Questions From Lead Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Lady Hallett**: Thank you for coming a bit earlier than expected, Ms Hammond, we're very grateful.
@@ -3061,7 +3061,7 @@ A different topic and briefly, in ConOps, the Concept of Operations that you've 
 
 **Lady Hallett**: You may.
 
-Further Questions From Lead Counsel To The Inquiry
+Further Questions From Lead Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Mr Keith**: Ms Hammond, I would want you to concentrate, please, on the position from the devolved administrations' viewpoint concerning the risk assessment process. Did the National Security Risk Assessment process include or identify specific risks to devolved nations as part of their approach to the United Kingdom?
