@@ -280,7 +280,7 @@ def parse_transcript(url, text):
                 continue
 
             # New speaker
-            m = re.match(' *((?:[A-Z -]|Mc)+): (.*)', line)
+            m = re.match(' *((?:[A-Z -]|Mc|O\')+): (.*)', line)
             if m:
                 yield speech
                 speaker = fix_name(m.group(1))
