@@ -1,0 +1,2304 @@
+Transcript of Module 2 Public Hearing on 11 October 2023
+========================================================
+
+*(10.00 am)*
+
+**Lady Hallett**: Ms Cecil.
+
+**Ms Cecil**: Indeed, my Lady. May I please call Professor Kamlesh Khunti.
+
+Professor Kamlesh Khunti
+------------------------
+
+*PROFESSOR KAMLESH KHUNTI (affirmed).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Cecil**: Thank you, Professor. You may take your seat.
+
+Can I ask you to confirm your full name, please?
+
+**Professor Kamlesh Khunti**: Kamlesh Khunti.
+
+**Counsel Inquiry**: Thank you.
+
+Thank you, Professor Khunti, for assisting the Inquiry today. If you can keep your voice up, and we also have a stenographer so we may need to take things slightly more slowly. If I ask you to pause or indeed to stop for a moment, it will be my fault because we're going too fast.
+
+Professor Khunti, you have produced a witness statement for the Inquiry, that's dated 14 August 2023, at INQ000252609, and it runs to some 16 pages. Is that correct?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+It's prefaced with a declaration of truth at the outset and signed on the final page.
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: Thank you.
+
+Professor Khunti, if I can just take you briefly to your professional background, as you set out within your statement, you are a professor of primary care in diabetes and vascular medicine, and the co-director for the Leicester Diabetes Centre, that's based at the University of Leicester; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: You also occupy other hats and other roles. As we can see, you're also the director of the UK National Institute for Health Research, in applied research collaboration, that's in the East Midlands, and also the director of the Centre for Ethnic Health Research and director of the Real World Evidence Unit?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: You are prolific in your output, in that you've published some -- well, well over 1,200 articles; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: You have specific expertise in diabetes but also in healthcare disparities and ethnicity?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+With respect to the Covid-19 pandemic response, you were a participant in SAGE?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And that ran from 24 September 2020 to 10 February 2022?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: But importantly for the purposes of your evidence today, you were also the chair of the SAGE ethnicity subgroup; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: That was created on 28 August of 2020, with you as its inaugural chair --
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: -- and ran through until 23 March 2021 with you as chair?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: Also with regard to the pandemic you took upon yourself chairmanship of the National Long Covid Research Working Group?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: We will go on to explore how and when that was formed in due course. But for the purposes of today's evidence, there are four primary areas I wish to traverse with you, and that is, firstly, the evolving understanding of the link between ethnicity and outcomes in relation to Covid-19; secondly, Long Covid, and your role in relation to that working group; thirdly, and we will take it a little bit more shortly, communications and the need for culturally appropriate communications, and your expertise there; and then, finally, just picking up on data and where the limitations lie.
+
+If I may turn to the first topic, and that is the risk, essentially, of Covid-19 for ethnic minorities and its relationship with outcomes.
+
+Perhaps so that we can contextualise this from the very beginning, what is the meaning of "ethnicity" in the way that you use it?
+
+**Professor Kamlesh Khunti**: Ethnicity is quite a heterogeneous term, it's where people, a group of people or individuals identify themselves being from certain cultures, backgrounds, religions, colour or various other habits. It's a very multidimensional term and, as I've said in my statement, there's no theoretical framework, ethnicity means different things to different people and it means different things at different times to different people as well.
+
+**Counsel Inquiry**: Indeed, what you do flag within your statement is that that has hampered research to date because of that lack, essentially, of theoretical framework for the meaning of ethnicity?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+**Professor Kamlesh Khunti**: May I, before we start, just say my sincere condolences to the bereaved families.
+
+**Counsel Inquiry**: Of course. Thank you, Professor.
+
+Professor, you were one of the first to highlight possible increased risk of Covid-19 in ethnic minorities; is that fair to say?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Indeed, one of the ways that it first came to attention was by use of Twitter and the use of a tweet.
+
+If I can just call that up, please, that's INQ000223026. This is a tweet that you put out, as we can see:
+
+"Dear all - just had a message from a colleague that they are seeing many young south Asians being admitted with severe #COVID19. Can people share their experiences quickly."
+
+Looking here we see it's time marked and stamped, it's at 1.56 pm on 1 April 2020.
+
+In relation to that, what prompted you to send that tweet?
+
+**Professor Kamlesh Khunti**: Well, because I do work in ethnic minority health, I had some friends who were working in intensive care units in hospitals, I'm a general practitioner myself, and they phoned me and said, "Kamlesh, we're seeing a lot of ethnic minorities at a young age being admitted to intensive care units with Covid". Prior to that we hadn't heard about this, because most of the Covid had happened in heterogeneous populations, China, Italy, et cetera, so this is the first time that we'd heard about this signal. So that's why I put this out, to say: is anyone aware of this? And I did have a lot of trolls who came back to say that I shouldn't be panicking people about this, yeah.
+
+**Counsel Inquiry**: Twitter is not always the kindest of places.
+
+**Professor Kamlesh Khunti**: No.
+
+**Counsel Inquiry**: Can I just pick up on word that you used there, and it's the use of the word "signal". Can you just assist us, what does that mean?
+
+**Professor Kamlesh Khunti**: Signal is something that we may see that we need to be aware of being alert about. That means for the first time we've seen this alert, we don't know whether this is true or not, whether there's an artefact, it's because of the populations that are being admitted to certain areas -- because it happened more in London and the West Midlands initially, there were more people being admitted, and there's obviously a lot more ethnic minorities in London and West Midlands. So we just have to be careful and not say this is a direct causal pathway.
+
+**Counsel Inquiry**: So signals are effectively about potential causal pathways. You also used the word "artefact".
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: Put in very simple layman's terms, is that the situation where, albeit it might look as though something is causative, it's actually not?
+
+**Professor Kamlesh Khunti**: Absolutely, yes.
+
+**Counsel Inquiry**: You followed that tweet up with a further tweet on 4 April, a few days later, and in this tweet you highlighted some research from the Intensive Care National Audit and Research Centre; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+Basically this showed for the first time that there were about 30% to 35% of people being admitted into the intensive care unit who were from ethnic minority backgrounds. The population statistics suggest it's about 16%, so it's double the number of people who were being admitted to intensive care unit.
+
+**Counsel Inquiry**: So some of the first data you were seeing was showing a disproportionate level of hospital admissions --
+
+**Professor Kamlesh Khunti**: Absolutely.
+
+**Counsel Inquiry**: -- and into intensive care units?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+What did you do as a consequence of this?
+
+**Professor Kamlesh Khunti**: So I've -- spoke to a number of colleagues. I spoke to people who are working in the ethnicity area, members of the South Asian Health Foundation, and then I spoke to Professor Sir Nilesh Samani, who is based in Leicester, who I know very well, and we discussed this, and we thought this was something worth alerting the CMO about.
+
+**Counsel Inquiry**: Indeed, just to pause you there, later that day you did -- both of you in fact, copied in to the same email, contacted Sir Chris Whitty.
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Lady Hallett**: Sorry, I missed the date, Ms Cecil.
+
+**Ms Cecil**: 4 April.
+
+**Lady Hallett**: 4 April, thank you.
+
+**Ms Cecil**: Indeed, if we can bring that up, please, INQ000223048.
+
+We see a copy of the email. Of course we start at the bottom --
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: -- in terms of the email train, we see firstly an email from Professor Samani, copying you in, explaining that his attention has been brought to the ICNARC audit report, and then that that may require further exploration, and that you and your team, and indeed his team, who have interest and experience in that, would be very happy to help if needed.
+
+You then follow that up, and we see that at the top, and we see your email here. In the second sentence you explain that:
+
+"In particular recent systemic review data show that the multimorbidities with the worst outcomes seem to be cardiovascular disease, diabetes and hypertension and surprisingly not COPD."
+
+What's COPD?
+
+**Professor Kamlesh Khunti**: Chronic obstructive pulmonary disease, so it's a chronic lung condition.
+
+**Counsel Inquiry**: Why was that a surprise?
+
+**Professor Kamlesh Khunti**: Because when the virus first came round we thought it was a respiratory virus, like the flu virus, it affects more people who have respiratory diseases, asthma, COPD. It did affect people with COPD, but we were surprised that a lot more people with diabetes and cardiovascular disease were affected with this.
+
+**Counsel Inquiry**: As we've heard and indeed we'll deal with slightly later, those diseases are particularly prevalent or disproportionately so in certain ethnic minority populations?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: You go on there to explain about anecdotal reports and then data, and you explain further there may be many reasons for that, and you flag socioeconomic, cultural or pathophysiological?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: You got a response from Sir Professor Whitty, didn't you? That response was received on 5 April. He explains that the "issue is (rightly) rising up the agenda". With regard to the signal that you mentioned as being possible, he considered that it was sufficient to be looked at by groups with expertise, and he also flags the work that is ongoing from PHE, ICU data and Biobank, various other pieces of research that are being undertaken, and he explains that he "will put out a themed NIHR call". What is that?
+
+**Professor Kamlesh Khunti**: So this is National Institute for Health and Care Research, it's the main funding body for applied research, and basic science research as well. And I was really surprised because he took action very, very quickly, the following day, so really admirable that he did this, that there were some actionable points that he came up with immediately, and a call did come out for doing further research in this area.
+
+**Counsel Inquiry**: Indeed. And certainly there is some correspondence further down that also relates to -- the email that we have here actually is the last email in the chain, so slightly later in time, but there were emails from Professor Sir Chris Whitty in relation to it being an important point?
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: At that stage it wasn't clear whether it was an artefact of geography or a true signal?
+
+**Professor Kamlesh Khunti**: Absolutely, yes.
+
+**Counsel Inquiry**: Thank you.
+
+Now, following on from that, you wrote the first editorial on the topic; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: It was published in the British Medical Journal?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: Raising the question: "Is ethnicity linked to incidence or outcomes of covid-19?"
+
+You urged, at that stage, the UK to explore the potential signal urgently and that there was a need for effectively greater research looking at the potential causative links --
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: -- pathways.
+
+You particularly flagged concerns being raised because the first ten doctors in the UK to die from Covid-19 were from ethnic minorities; is that right?
+
+**Professor Kamlesh Khunti**: That's correct. That did raise eyebrows when we saw that in the news on a regular basis, yes.
+
+**Counsel Inquiry**: Then, of course, you also had the data that we've already referred to?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: The Office for National Statistics we've heard a little bit from already in relation to ethnicity, but they published in May of 2020 their first article or report in relation to deaths by ethnic group; is that right?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: That's a document that you're familiar with?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: Indeed we've heard already from Professor Sir Ian Diamond that you have been in contact with him and worked with him at various stages; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: In relation to that article and the statistics that were produced, the provisional analysis showed the risk of death involving Covid-19 among some ethnic groups was significantly higher than that within the white ethnicity population?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: When taking into account age in that analysis -- so this is right at the beginning of the pandemic, what was known as at May of 2020 -- black males were 4.2 times more likely to die from a Covid-19-related death and black females 4.3 times more likely than white ethnicity males and females?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: At that point it was also noted, and this will become relevant for later in terms of the progression of the pandemic, that people of Bangladeshi and Pakistani Indian and mixed ethnicities also had a statistically significant higher -- raised risk of death, but that those risk factors or the extent of the disproportionality dropped once one had taken into account age but also other sociodemographic characteristics, including self-reported health and disability, and this relied on collation of data including the 2011 census?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: That reduced, then, to males and females of black ethnicity being 1.9 times more likely than those of white ethnicity and Bangladeshi and Pakistani ethnic minority men being 1.8 times more likely to have a Covid-19-related death.
+
+So at this point in terms of the ONS statistics, is it right to say that it was already flagging up issues in relation to comorbidities that existed within ethnic minority populations and geographic issues, but that the disparity simply could not be explained by those?
+
+**Professor Kamlesh Khunti**: That's right. So basically it was 4 times the risk, and once you take into account the deprivation, the previous health, comorbidities, it reduces risk by 50%. So 50% was accounted for by those factors.
+
+**Counsel Inquiry**: That was followed thereafter in June, again dealing with what was known at the outset as the pandemic progressed, by the first of the Public Health England reports?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: In relation to that PHE report, certainly there were concerns initially that a truncated report had been published; is that right?
+
+**Professor Kamlesh Khunti**: This is from a BMJ article written by Professor Raj Bhopal, because he had peer reviewed the article, and we wrote in the BMJ stating that he had seen a fuller report and he felt that it was his duty to inform the public that there were bits of the report missing.
+
+**Counsel Inquiry**: What bits of the report were missing?
+
+**Professor Kamlesh Khunti**: From what we understand, it was the recommendations that may have been missing.
+
+**Counsel Inquiry**: Recommendations. Were there also aspects of stakeholder engagement that were missing?
+
+**Professor Kamlesh Khunti**: The stakeholder was -- I think, from my recollection, is the second report.
+
+**Counsel Inquiry**: Second report?
+
+**Professor Kamlesh Khunti**: That's right, yes.
+
+**Counsel Inquiry**: That caused a considerable degree of controversy; is that fair to say?
+
+**Professor Kamlesh Khunti**: That's correct, yes, it did, yes.
+
+**Counsel Inquiry**: And that consequently resulted in a fuller report being published?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: You analysed that report; is that right?
+
+**Professor Kamlesh Khunti**: That's right, yes. We didn't peer review it, it -- once it was published we and many others looked at it to see the content and the depth of the report.
+
+**Counsel Inquiry**: Indeed. In relation to that, were issues flagged in relation to structural racism and discrimination?
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: As a link?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And socioeconomic circumstance?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Now, given the link between or potential link between structural racism and discrimination and those poor health outcomes, as noted in that PHE report, are you aware of any other work that looked at those issues?
+
+**Professor Kamlesh Khunti**: There's been a number of studies. The issue with structural discrimination and discrimination is how you measure it. It's very, very difficult to measure. So qualitative interviews where people are asked about it will -- you can get a lot of information from.
+
+There's a systemic review that's been done about the disproportionate outcomes in people from ethnic minority backgrounds, and that identified I think just a few papers that had talked about discrimination, and again they highlight that it's very difficult to measure.
+
+But from the qualitative evidence we have from the British Medical Association, from the nurses associations, there may have been some elements of structural discrimination, for example getting PPE given to -- from the -- healthcare workers particularly from ethnic minorities.
+
+**Counsel Inquiry**: And we've heard earlier evidence that ethnic minorities are overrepresented within the healthcare workforce?
+
+**Professor Kamlesh Khunti**: That's right, about 20% of the healthcare workforce, or 1.2 to 1.5 million people within the National Health Service, are from ethnic minority backgrounds, yes.
+
+**Counsel Inquiry**: Thank you.
+
+In relation to that PHE report you wrote of some of the limitations, as you saw it, of those reports. The first aspect is that albeit that they were welcome, because they did shine a light, it was nonetheless a missed opportunity to address significant inequalities in ethnic minority communities. How did you see it as a missed opportunity?
+
+**Professor Kamlesh Khunti**: Well, first of all, the report is very comprehensive and it was very laudable, the amount of work they did, you know, speaking to 4,000 individuals, speaking to a number of stakeholders, so it's a vast amount of work they'd done. The reason we thought it was a missed opportunity, because they did have I think six recommendations, is that they didn't have the recommendations, although they'd identified them, of the wider source of determinants.
+
+So, first of all, how to protect these populations, and the wider social determinants of how to ensure that housing is adequate, it's not overcrowded housing, the occupations that people were at higher risk, they weren't protected, the educational elements, communication, how it was to be done, who was going to do it. All of that wasn't there in huge detail.
+
+Although they'd identified all the drivers, the recommendations or drivers -- the detailed recommendations on drivers were missing.
+
+**Counsel Inquiry**: Were missing. And there were significant gaps in your view; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Now, picking up in June of 2020, which is of course when the PHE reports -- well, first report -- was released, you're aware that ethnicity was discussed at one of the SAGE meetings in June, it was SAGE 40, the 40th meeting on 4 June?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And at that point it was accepted within that meeting that the evidence suggested a significantly higher likelihood of, firstly, testing positive, secondly, admission to critical care, and thirdly, the prospects of death for ethnic minorities?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: In particular, that related to black and South Asian groups?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: At that point, as you've already identified, the risk factors or the causative links were assessed as being due to a complex interconnected range of factors, including socioeconomic deprivation, involvement in high risk occupations, geography, household size and comorbidities. Did that chime with what you were seeing?
+
+**Professor Kamlesh Khunti**: Exactly, and that's exactly what the initial report by ONS and the Public Health England report also shone a light to as well.
+
+**Counsel Inquiry**: As said at the outset, you went on to become the chair of the SAGE Ethnicity Subgroup. That was set up on 5 August. How did that come about?
+
+**Professor Kamlesh Khunti**: So I had an email from GO-Science that they wanted to speak to me and we had a Zoom or an MS Teams meeting, and that's when Sir Patrick Vallance came along with the GO-Science team and mentioned to me that they'd seen the signal and they were asking me if I would be willing to chair this subgroup.
+
+**Counsel Inquiry**: You cannot assist us with why that subgroup was not formed earlier; is that right?
+
+**Professor Kamlesh Khunti**: I think that people were trying to find evidence for this, and, as you say, we need validation from various datasets, so ONS signal was the first lot, then the PHE data came out. I mean, if you look at the PHE data, you know -- we may be talking about data later, but the Public Health England report, they didn't have anything on occupation, they didn't have data on occupation, so we don't know whether that would have reduced(?) the risk. So until then I think they weren't -- the data weren't as robust. And following the Public Health England report, I think they decided they needed a chair for the Ethnicity Subgroup.
+
+**Counsel Inquiry**: So you took on that role?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And that subcommittee reported directly to SAGE?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: In terms of the issues to be focused on, they were, as one would expect, a focus on ethnicity, and some of the broader social determinants --
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: -- in relation to ethnicity.
+
+In terms of the advice to be provided, was it a case of it being commissioned from you, or was it advice that you provided on a freestanding basis?
+
+**Professor Kamlesh Khunti**: It was advice on a freestanding basis, completely, yes.
+
+**Counsel Inquiry**: The meetings were not officially minuted; is that right?
+
+**Professor Kamlesh Khunti**: We did have minutes of the meetings, for all the meetings.
+
+**Counsel Inquiry**: Sorry, I should be clearer in my question. There was no formal requirement for those meetings to be minuted, albeit that high-level minutes were taken?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Indeed the Inquiry has access to those, so I don't propose to take us through any of those today.
+
+In relation to foreseeability of impact on ethnicity minorities, minority groups and potential disparities, you've explained that initially it was seen as a respiratory virus and therefore perhaps those issues weren't considered in the same way they might have been had it been seen as actually what it was.
+
+But was it foreseeable that there would be a disproportionate impact on ethnic minorities?
+
+**Professor Kamlesh Khunti**: Potentially. I think that, looking back on it, potential we could have thought about it because of the pre-pandemic disparities, and I think they have been discussed previously at the Inquiry, among ethnic minority groups, particularly in terms of deprivation, health, housing, schooling, et cetera.
+
+**Counsel Inquiry**: Moving to the autumn period briefly, you had some level of involvement with the minister who was placed in charge of considering the issues of ethnicity, that's the Right Honourable Kemi Badenoch MP?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: What involvement did you have, firstly, with her?
+
+**Professor Kamlesh Khunti**: I think there were two meetings that I seem to have found. The Cabinet Office contacted me that the Right Honourable Kemi Badenoch wanted to speak to me, and this was in October and another one in December. The October one was a general discussion of what the SAGE group were doing. I don't have any firm recollection, but it was -- would have been a high-level discussion of what SAGE is looking at. I think the 16 December one was a teaching session that we did for cross-governmental departments.
+
+**Counsel Inquiry**: And I understand you did two teaching sessions?
+
+**Professor Kamlesh Khunti**: That's correct, one was on the drivers of risk and one was on housing -- no, sorry, vaccinations and housing.
+
+**Counsel Inquiry**: Kemi Badenoch's team went on to produce four quarterly reports to the Prime Minister between June 2020 and December 2021?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: Did you or the Ethnicity Subgroup contribute to any of those reports?
+
+**Professor Kamlesh Khunti**: We were asked to review them and we had to review them at pace. We did give some comments on them. I was asked by one of the officers to see if I would give a quote to the report, but thinking it through the SAGE committee, we felt that was inappropriate because SAGE was an independent research and science body.
+
+**Counsel Inquiry**: So was the view to keep that separate, effectively, the SAGE workings and those individuals, and then government --
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: -- produced reports?
+
+**Professor Kamlesh Khunti**: Because they already had advisers who were acknowledging and supporting the report.
+
+**Counsel Inquiry**: And the work that had been done in relation to those quarterly reports had been done by the Equalities team, as opposed to the Ethnicity Subgroup that you chaired?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+So by September of 2020, aspects in relation to causative links were known in relation to occupation, housing, instability, socioeconomic status, comorbidities and the other --
+
+**Professor Kamlesh Khunti**: Occupations, yeah.
+
+**Counsel Inquiry**: Did you and the SAGE Ethnicity Subgroup have regard to those factors in advising on policy in response?
+
+**Professor Kamlesh Khunti**: We had a paper that was quite a comprehensive paper, it was on drivers of the increased risk among ethnic minority groups, yes.
+
+**Counsel Inquiry**: Indeed, perhaps we can take you to that now. It's at INQ000273842.
+
+I'm going to deal with it briefly, if I may, whilst just perhaps prefacing it before it's brought up on the screen.
+
+It's a very lengthy report. It sets out in detail where you and the Ethnicity Subgroup see the drivers as being.
+
+Perhaps if we could just go to page 110, please. It's appendix 7. This is the paper.
+
+In relation to that -- I'm very sorry, I thought it was at page 110.
+
+*(Pause)*
+
+**Counsel Inquiry**: Go to page 114, please. There is a very useful visual aid.
+
+**Professor Kamlesh Khunti**: 113.
+
+**Counsel Inquiry**: 113, please.
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: To 113.
+
+There is a very useful visual aid that sets out the subgroup's workings. It builds on a paper that's been adapted by another academic in relation to these issues; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: I'm afraid it's a little difficult to see on the screen because of the size of the fonts.
+
+If I can just take you to what is seen as number 1, effectively what we see is a diagram, at the top it explains "Shaped by structural racism and other power structures"; is that the context in which this is placed?
+
+**Professor Kamlesh Khunti**: That's right, yeah.
+
+**Counsel Inquiry**: Then what we see is a green box that deals with dimensions of ethnicity.
+
+A line to that to the left, we see the differential exposure and vulnerability and the drivers, and I'm going to come to that in a moment, and then the output to the far left. Is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: So, taking each one of those briefly in turn, we have pathway 1, it's the second white box down from the top, and the first issue in relation to understanding ethnicity is differential exposure.
+
+What are the issues that arise there in relation to certain ethnic minority groups?
+
+**Professor Kamlesh Khunti**: So this is what we've just been talking about in terms of the risk of a higher exposure among ethnic minority populations, so this is things like occupations, they are more likely to work in occupations that are in direct contact patient-facing roles and in low-paid occupations. Housing, living in high-density housing, so small houses with a large number of occupants, living in multigenerational houses, which is where we state that there's three or more generations living together. There's also people who are at -- have poor health, so they may have other health conditions, as we've talked about, diabetes, cardiovascular disease, et cetera. So these are all the issues that may put them at higher exposure.
+
+**Counsel Inquiry**: First --
+
+**Professor Kamlesh Khunti**: And healthcare workers is obviously another one.
+
+**Counsel Inquiry**: So this is the first aspect, is exposure to the virus, so there is a potentially disproportionate level of exposure for ethnic minority individuals because of those factors. That then may or may not result -- as we see, if we take it across, and then go down, may or may not result in Covid infection.
+
+That then goes into driver 2, which is differential susceptibility to infection.
+
+In summary, is it the case that minority ethnic groups may be at greater risk, in your view, of infection because of differences in immune response, nutritional status and other --
+
+**Professor Kamlesh Khunti**: Other conditions, and obesity is another big risk factor for ethnic minority populations as well, yes.
+
+**Counsel Inquiry**: We've heard a little bit about obesity already in that respect.
+
+**Professor Kamlesh Khunti**: Yeah.
+
+**Counsel Inquiry**: We then see that once one has the infection, there is then potentially a differential vulnerability to the disease; is that right?
+
+**Professor Kamlesh Khunti**: That's right, yes. Some of these overlap --
+
+**Counsel Inquiry**: Indeed.
+
+**Professor Kamlesh Khunti**: -- as well, as you can see. So this could be because they have higher stress levels, they may be living in areas that have poor air quality, et cetera.
+
+**Counsel Inquiry**: Okay. That results then in the differential consequences of the disease, of an infection of Covid-19; is that right?
+
+**Professor Kamlesh Khunti**: Yeah, so basically, here, if they become ill they have more disability, there's job losses, poorer health, perpetuating this cycle of worse outcomes for them, yes.
+
+**Counsel Inquiry**: Just dealing with the disease consequence in and of itself at the moment in terms of the health outcome, what you identify here are issues such as comorbidity and then access to healthcare --
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: -- quality of healthcare?
+
+**Professor Kamlesh Khunti**: Yeah. And the access to healthcare may be a driver from the right side of the dimension, this is about language and culture and not identifying the disease, not properly being able to express the disease, not being aware of the disease and the consequences.
+
+So all of those on the right-hand side also are drivers across all the pathway, yeah.
+
+**Counsel Inquiry**: Indeed. Then what we see there is the potential enhanced risk then of mortality, of death essentially, that flows through that particular driver.
+
+Then, as we continue down, the differential social consequences in relation to follow-on impacts from that disease?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+You do also touch upon, within this, differential consequences of control measures. I'm not going to go into that with any detail with you today, we'll talk a little bit about communications later.
+
+But, in short, those are the identified pathways by the Ethnicity Subgroup; is that right?
+
+**Professor Kamlesh Khunti**: Yeah. I mean, this is a theoretical framework that we put the pathways through, yes.
+
+**Counsel Inquiry**: Just drilling down very briefly and flagging them up. You've already dealt with occupation. Household circumstance, that became very important, is that right, when it comes to looking at subsequent issues in relation to the second wave?
+
+**Professor Kamlesh Khunti**: That's right. So there was a separate paper that we did, as I said, the Ethnicity Subgroup, and here we wanted to validate the data about multigenerational households. And I think we must have had -- we had the best data in the world, and we had five database studies that all concurred to the same conclusion, that multigenerational households, people with three or more occupants, was associated with worse infection, worse disease and worse mortality.
+
+**Counsel Inquiry**: Perhaps if I can just pick up on that, then, in relation to the first wave and the second wave. In the first wave all ethnic minority groups were at that elevated risk, particularly acute within back populations; is that right?
+
+**Professor Kamlesh Khunti**: That's right, yes.
+
+**Counsel Inquiry**: But that changed when it came to the second wave, where one saw a decrease in relation to mortality, deaths, for black ethnic minority populations but a greater disproportionate effect in relation to Bangladeshi and Pakistani, South Asian groups; is that right?
+
+**Professor Kamlesh Khunti**: That's correct. So overall, once -- so basically it showed that lockdown worked. For nearly -- most of the ethnic groups, including the white group, you saw a reduction in infection and mortality. But there was a higher risk in Bangladeshis and Pakistanis, and we looked at what the drivers were -- and this is using the ONS data -- and the drivers were likely to be what we've already said, the occupations that ethnic minorities are in, the housing density --
+
+**Counsel Inquiry**: If I can pause you for one moment, when you say occupations, what types of work?
+
+**Professor Kamlesh Khunti**: So occupation is people-facing roles, taxi drivers, restaurants, healthcare workers, et cetera. And people who were on zero-hours contracts, so they weren't able to get time out, and so potentially they weren't reporting their symptoms.
+
+**Counsel Inquiry**: Just picking up on the people with zero-hours contracts, in terms of financial stability, did you see that as having any role?
+
+**Professor Kamlesh Khunti**: That was one of the reasons that we put forward, that that would have definitely been one of the reasons, and some of the qualitative interviews have previously shown that as well.
+
+**Counsel Inquiry**: I think one of the recommendations that you made at that point was for the provision of proper statutory pay for --
+
+**Professor Kamlesh Khunti**: Absolutely, yes.
+
+**Counsel Inquiry**: Sick pay?
+
+**Professor Kamlesh Khunti**: And similarly we made recommendations on housing, that if people are in multigenerational housing there should be provision made of housing given for isolation if one member of the house was infected.
+
+**Counsel Inquiry**: Thank you.
+
+Then just to pick up on one final aspect in relation to the drivers, can I just be clear with you in relation to genetic considerations. Do you consider it likely that genetics play a role?
+
+**Professor Kamlesh Khunti**: Well, most of the data shows that there are some, what we call SNPs, genetic signals, but there is no conclusive evidence to show that this is driven by genetics. It does seem to be driven mainly by the social determinants.
+
+And we've done some additional work subsequently showing that if we take 25% of the most deprived populations out of deprivation, we halve the risk of Covid infections and mortality. If we take 50% of the most deprived population out of deprivation, including ethnic minorities, we near enough eliminate the risk that we've seen. So a lot of this we feel is due to the social determinants.
+
+**Counsel Inquiry**: Just picking up on deprivation and the use of the 2011 census, because of course that informs the ONS statistics --
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: -- it's your view, is that right, that as a consequence of that, socioeconomic circumstance and deprivation is likely to be under-reported in relation to the role that it plays, because of changes since 2011?
+
+**Professor Kamlesh Khunti**: That's correct. So now we have the 2021 surveys that -- they would be better placed. We've also seen in the surveys that the proportion of ethnic minorities has increased in England. In terms of whether they're in more deprived areas I'm not aware of, but it's likely health(?) changes, yes.
+
+**Counsel Inquiry**: Thank you.
+
+One final aspect, and that relates to biological factors. When you refer to biological factors, what you are referring to are comorbidities such as diabetes and other forms of disease; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, diabetes, cardiovascular disease, obesity. There's some possibility of associations with psychological aspects as well.
+
+**Counsel Inquiry**: Indeed. And that's why I just wanted to be very clear about that, that's what you mean by biological --
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: -- it's not genetic, it's those comorbidities?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you.
+
+Now, if I may pick up, then, on what that meant for the Covid-19 response, in terms of the government's response, do you consider that it was successful in addressing those disparities or could things, other things, have been done?
+
+**Professor Kamlesh Khunti**: So the four quarter reports mention a number of areas that the government addressed the disparities, this is the Race Disparity Unit four quarterly reports. There are a number of things that could be done. In terms of the detail, again, in some of them is lacking. There's data on pilot areas that were funded to do evaluations of what worked, what didn't work. Mention about communications on -- for ethnic minority populations. And again they mention a number of things that were done. But to me there were other ways that this could have been done. We have the best data systems in the world, and we're the envy of the world with the data we have. What we needed was real-time data, real-time data on people being affected in different areas, because we always say local is best, we could have acted on this locally. Leicester local public health did a tremendous effort but they were lacking in data. So if we had data given to us in real time about where the highest risks are, we could have worked with our community champions within those areas, our community leaders in those areas, the pharmacists, the GPs, as we did in Leicester, to reduce that risk.
+
+Similarly, the test, trace, isolation programme, again we didn't have any data coming to us to say where is -- are the bottlenecks, which areas are working well, which are not working well. And again, if this data came on a regular basis, in real time, the local public health messaging could have been done.
+
+In the reports, you know, there are mentions about the culturally-adapted information that was given out there. Now, giving out a culturally-adapted leaflet doesn't mean that that's going to have a major effect. You need to do a lot more than that. You need to work with that community. And there are discussions about the community champions programmes that were funded, but again we're not sure how these were funded, which areas were funded.
+
+And the key one is the evaluations. You know, 40 million, over Â£40 million was given out. These are the kinds of things that we should be evaluating robustly, because we have the data. If you put an intervention in Leicester and don't put it in Blackburn, I can tell within a short period of time with the data that we have whether that intervention's worked or not.
+
+**Counsel Inquiry**: Thank you. So is that one of your primary concerns, is working out what happened, effectively, with those community champions, grants and research projects and that data?
+
+**Professor Kamlesh Khunti**: There are soft evaluations that have been done for one of them, but others we're not aware of what the findings are and how we can implement them. For example, we should be implementing them now. Covid is still here, we're seeing an increased risk, but we're not hearing anything about those messages.
+
+And when I say regarding the communication and language, Leicester has over 80 languages, London has over 300 languages, what we need to do is the local people will know the best about what their needs are, and it really needs to be localised in terms of the response.
+
+**Counsel Inquiry**: Thank you.
+
+**Lady Hallett**: Can I just ask -- I'm sorry to interrupt --
+
+**Ms Cecil**: Of course, not at all.
+
+**Lady Hallett**: -- who had the data that you needed?
+
+**Professor Kamlesh Khunti**: I'm not sure if the government had the data. If that was one of the asks, I'm sure Sir Ian Diamond would have provided that data, which he's done for a number of things. As I say, ONS have done an absolute sterling job in getting data to us quickly.
+
+**Lady Hallett**: It's just that you began this passage in relation to saying we have one of the best data systems in the world, so I assumed by that you meant that we were collecting the data but --
+
+**Professor Kamlesh Khunti**: It wasn't coming to us, that's right.
+
+**Lady Hallett**: So it wasn't being shared with you?
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Lady Hallett**: But you don't know where it was?
+
+**Professor Kamlesh Khunti**: No.
+
+**Lady Hallett**: Right.
+
+**Ms Cecil**: Thank you, I was going to pick up on that myself, so that's --
+
+**Lady Hallett**: Oh, sorry.
+
+**Ms Cecil**: No, not at all, that's helpful.
+
+And you've explained about the need for real-time data and that gap and lacuna there.
+
+One of the other aspects that you just touched upon, and perhaps we'll go there next, in fact, because you have explained the need already for culturally-sensitive and appropriate government communications, is to pick up on communications.
+
+You were involved with the Centre for Ethnic Health Research; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: You made various recommendations and infographics in relation to culturally-sensitive and adapted communications.
+
+If I could ask that that be called up, please, it's INQ000223040, and if we can go firstly to page 27 and then move to look at 28 and 29.
+
+Just while it's coming up, the first page, here we are, this is your recommendation as to how to engage and involve ethnic minority communities; is that right?
+
+**Professor Kamlesh Khunti**: That's correct. Yes, this is from the Centre for Ethnic Health Research and the South Asian Health Foundation.
+
+**Counsel Inquiry**: What we see here is, at the very top: use of culturally-tailored messaging, different languages and formats, some aspects in relation to vaccine hesitancy and, perhaps more generally and of general application, the use of community and faith centres as part of that response?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Perhaps one of the starkest things here is actually the picture that's in the centre of the page, because of course that reflects different ethnic minorities, clearly. Would that be correct?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Presumably that's the purpose of it.
+
+But we also see, in advice to government, professionals, policymakers and scientists, the use of interpreters, accurate ethnicity coding, you address PPE, all of those sorts of issues.
+
+If we go over the page to page 27, what we then see is an infographic that's been designed for ethnic minority communities specifically; is that right?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: Building on, effectively, the infographic we saw previously.
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: So, again, representative pictorial descriptions in the middle, and then very clear pictures as to what to do:
+
+"Stay at home and away from others if ill."
+
+In the top left-hand corner.
+
+"Get tested ..."
+
+A picture of somebody with a test.
+
+Vaccine, speak to your GP, take part in research studies.
+
+So what you have is something that is, at the very least, albeit this one's in English, you have the pictorial representations?
+
+**Professor Kamlesh Khunti**: That's right. I'm not sure if you got the exhibits but we had these in four, five languages as well.
+
+**Counsel Inquiry**: Indeed. I don't have all of those exhibits, I'm afraid, but certainly I was going to pick up on that, and that's how they've been produced.
+
+**Professor Kamlesh Khunti**: And the thing about this is this is not just translation and back translation, a lot of people say we did some translation and back translation, that's not how cultural competency works, we have to sit with that population, that ethnic minority population, go through the nuances of what this means to them. And it does take time. And that's what we did with all these infographics. For example, the word "BMI", you and I will know what BMI is, ethnic minorities don't know what BMI is, there is no word for BMI in South Asian languages.
+
+**Counsel Inquiry**: And I understand the same applies to the word "virus"?
+
+**Professor Kamlesh Khunti**: That -- absolutely, yes.
+
+**Counsel Inquiry**: It's obviously a key word, certainly in our understanding of Covid-19.
+
+Just picking up on culturally-appropriate messaging and communications, that's quite separate to targeting interventions or communications, isn't it?
+
+**Professor Kamlesh Khunti**: That's absolutely -- yes, it is.
+
+**Counsel Inquiry**: In relation to targeting, there are concerns that tailored public health messaging aimed at very specific subgroups of the population can result in greater stigmatisation, racialisation and those sorts of issues; is that right?
+
+**Professor Kamlesh Khunti**: If you pick on one minority ethnic group and -- whether it's culturally tailored or not, they will be singled out as a high risk, and that will marginalise them, that will stigmatise them, that will create distrust in that population. So it's how that's been done. And what we were saying is: this message is for everyone. The messaging during the pandemic should have gone to everyone at the same time. But then, in a nuanced way, made it appropriate for that population.
+
+**Counsel Inquiry**: Indeed.
+
+**Professor Kamlesh Khunti**: So they know that: everyone's getting this, but we're just getting it so that we can understand it better.
+
+**Counsel Inquiry**: Indeed. That's the distinction, essentially, that the messaging in general terms is the same across all populations but is then tailored specifically in terms of those communication aids?
+
+**Professor Kamlesh Khunti**: That's correct. I mean, we had an example of that in Leicester. We had a bus in an area where we had high vaccination rates and this bus turned up with a billboard about vaccinations and it was totally inappropriate to have a billboard there when we already had high vaccination rates there.
+
+**Lady Hallett**: So what was the impact of that?
+
+**Professor Kamlesh Khunti**: Well, the local communities felt stigmatised. They were: why are we -- you know, we've worked very hard -- the GPs said: we've worked very hard to get the patients vaccinated, but the people who are -- why are the billboards still coming? Because the vaccination rates are already high in that area, because the local community worked really, really hard, and they thought that enough possibly wasn't being done by that community.
+
+**Lady Hallett**: They didn't see the message and say, "Ah, but we're ahead of the game here"?
+
+**Professor Kamlesh Khunti**: Well, different people will take it differently, as you can imagine.
+
+**Ms Cecil**: Were similar billboards in other areas of Leicester?
+
+**Professor Kamlesh Khunti**: As far as I'm aware, yes.
+
+**Counsel Inquiry**: Thank you.
+
+Thank you, those are all the questions I have on communications. If I can touch very briefly now on additional involvement within the Covid-19 response.
+
+You were also involved in Independent SAGE; is that right?
+
+**Professor Kamlesh Khunti**: That is correct, yes.
+
+**Counsel Inquiry**: Your role there was as a primary care researcher. As you've already explained, you are a GP by professional background, and indeed you remain, as I understand it, a practising GP and clinician?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And that was the reason why you were invited to join in?
+
+**Professor Kamlesh Khunti**: That's my impression, yes.
+
+**Counsel Inquiry**: In terms of your input into Independent SAGE, was that based on your role as a clinician?
+
+**Professor Kamlesh Khunti**: As a clinician I think the ethnic minority work that I'd done was also important to them as well.
+
+**Counsel Inquiry**: What were the distinctions in the type of work that you were doing for Independent SAGE as opposed to your role in the SAGE subcommittee for ethnicity?
+
+**Professor Kamlesh Khunti**: I think Independent SAGE was discussing various aspects on a regular basis and then the main aim was to get it out to the public, while within SAGE the issues were about looking at the problem, looking at the science, getting the group together to look at the science, and then give robust evidence to the government in terms of the interventions that need to be put in place.
+
+**Counsel Inquiry**: Did you see any disadvantages in the role of Independent SAGE?
+
+**Professor Kamlesh Khunti**: I didn't see any disadvantages at all. In fact, when I was asked by Sir Patrick Vallance to join the SAGE, I did mention to him that I was part of Independent SAGE and he was -- there wasn't any reason for me to stop Independent SAGE at that stage, yeah.
+
+**Counsel Inquiry**: Thank you. And indeed you carried on in Independent SAGE until May 2021; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: The reason that you left was because of a lack of time, essentially?
+
+**Professor Kamlesh Khunti**: Absolutely, yes.
+
+**Counsel Inquiry**: And we've already heard a lot about the types of work that you were already engaged in, in the pandemic response.
+
+The final area in that regard is in relation to Long Covid, and you have explained that were the chair of the National Long Covid Research Working Group, often referred to in documents as just the "Research Working Group" for short?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: That group first met on 11 March 2021 and continues to meet in fact; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: I've just been asked, Professor Khunti, can you just keep your voice up, please.
+
+**Professor Kamlesh Khunti**: Okay, will do.
+
+**Counsel Inquiry**: No, not at all.
+
+With regard to that working group, just to place it in context, there are representatives from the nine major Long Covid epidemiological studies in the UK, and indeed we're going to be hearing from two of those individuals -- and I understand they're colleagues that are well known to you --
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Counsel Inquiry**: -- Professor Brightling and Dr Evans, on Friday, and so as a consequence of that I'm not going to take you through the clinical aspects of Long Covid or those sorts of issues --
+
+**Professor Kamlesh Khunti**: Sure.
+
+**Counsel Inquiry**: -- because we'll be hearing from them.
+
+But what I do wish to just touch upon you with is why that group was formed, and can you just explain very briefly how that came about?
+
+**Professor Kamlesh Khunti**: So I think this was following an email exchange we had, and there is an email in the evidence from Chris Whitty to myself, Professor Sir Ian Diamond and Nish Chaturvedi, about a lot of work that's going on, to see if we can co-ordinate this work together. So I emailed the epidemiological groups that were funded from NIHR, the UKRI, and ONS obviously was doing the work, and they all agreed to be part of this group.
+
+**Counsel Inquiry**: Indeed. And if I can just -- for those that are following the email is at INQ000072959. That's the email from Professor Sir Chris Whitty to you and Professor Sir Ian Diamond.
+
+Following on from that, you set up that group; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: As you've just explained. Did you have the -- were you under the impression that you reported to the CMO, to Professor Sir Chris Whitty?
+
+**Professor Kamlesh Khunti**: He'd asked us to set this group up, so whether it's reporting or -- he certainly was interested in what was going on, and he wanted to know what was going on on a regular basis. So I think we initially said it was reporting but it was really what we were doing is sharing what we were doing with Professor Sir Chris Whitty on a regular basis. Initially it was two-weekly, now it's four-weekly.
+
+**Counsel Inquiry**: Indeed, and one of the things that he asked you to consider was to co-ordinate on a definition, as we can see from this email, "case definitions". Why was that? And the reason I ask that question is because there were already definitions from the World Health Organisation, as you know, and indeed NICE.
+
+**Professor Kamlesh Khunti**: Yeah, so the definitions have been very different, and if you look at the data for Long Covid they vary, some say four weeks, some say eight weeks, some say 12 weeks, so I think in terms of definitions we did take the NICE definition, and it was just to ensure that everyone was working in a similar manner as far as the definitions go. We weren't going to redefine the definition unless there was any evidence to do that, but our role was not to redefine the definition.
+
+**Counsel Inquiry**: Thank you.
+
+Now, just in terms of the working group and the output, the product of it, if I can just call up INQ000073726.
+
+It's an email from you to Chris Whitty, and what you have explained there is that you have been having the fortnightly Long Covid meetings, they have been enormously useful and productive, you explain that one of the initiatives that has resulted is a collection of Long Covid research papers similar to the Covid-19 research collection held by UCL, which we may hear some of later in the evidence.
+
+But the point of your email was really to ask if he was agreeable to him(sic) using his name in relation to that research collection; is that right?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: And he replies shortly thereafter, and we see at the top there that he says:
+
+"I think it would be sensible not to put the 'CMO' bit in as it might at some point get people asking about clearances (from one side) [presumably that's the government side], independence from Gvt (on the other [side]) and thinking that I 'endorse' papers."
+
+How did that chime with what you had understood his role to have been at that point?
+
+**Professor Kamlesh Khunti**: We weren't sure whether we were there to just inform him or report to him, but the reporting is very, very separate. The funded studies have to report to the funders, independent of anyone, so they'd be conducting the studies independently of the CMO --
+
+**Counsel Inquiry**: Yes.
+
+**Professor Kamlesh Khunti**: -- and reporting to the funders. So, in hindsight, he's absolutely right: we're not reporting to him, we're informing him.
+
+**Counsel Inquiry**: Indeed. And indeed there's a subsequent email from one of Chris Whitty's -- the individuals in his office, on 2 November, and that's at INQ000074244.
+
+What we have there is -- it's from, as I say, an official within DHSC, but working -- private secretary to Professor Sir Chris Whitty, and what that does is it flags this in relation to a subsequent aspect in terms of publication and the use of the CMO's name.
+
+And what we see here is that there's a description, Nature:
+
+"The group is planning to publish the attached commentary in Nature ..."
+
+That's a journal, isn't it?
+
+**Professor Kamlesh Khunti**: That's right, yes.
+
+**Counsel Inquiry**: And you have asked whether Professor Sir Chris Whitty "would be happy to have the below line included", and what we see there is that it essentially says:
+
+"Researchers on these studies have formed the National Long COVID working group, reporting to the Chief Medical Officer for England, to share key findings and promote ..."
+
+Understanding and so on?
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: Now, in relation to that, that was being flagged, and you can see underneath it says:
+
+"From my understanding of the Group, 'reporting to' is possibly a bit strong and slightly overstates your involvement ..."
+
+And they make a proposed modification?
+
+**Professor Kamlesh Khunti**: So reporting would mean that he would have a say in what we do, which he absolutely doesn't, and we inform him, as I said, with the minutes on a two-weekly or a four-weekly -- and he always acknowledges that, it's been helpful for him as the CMO.
+
+**Counsel Inquiry**: Did you form any impression that he was seeking to keep the working group effectively at arm's length?
+
+**Professor Kamlesh Khunti**: Well, because it's not funded by the CMO, it's funded by NIHR, UKRI, so he wouldn't have a say in any of the workings of the group, or the individual studies.
+
+**Counsel Inquiry**: That perhaps brings me on to the next point, which is: why was the working group not set up as a subgroup of SAGE? Can you assist us with that?
+
+**Professor Kamlesh Khunti**: Yes, sure. So if you look at all the evidence that's been provided so far, there was a paper to SAGE, I think led by Nish Chaturvedi, in July of 2021, of a number of groups that had looked at Long Covid, and the report stated that they were conducting epidemiological studies. The SAGE's response would be: if there is something concrete there that we can help to improve outcomes, that we can do something about, then they would take that forward as a recommendation to the government.
+
+Until now, most of the studies are still evaluating, even Chris Brightling in his report said we're in the infancy of Long Covid, so the research is still being done. What we don't know is the exact causes, exact disease trajectories, and there are not currently any treatments for it at all. So at the moment we're still in the research phase of Long Covid.
+
+**Counsel Inquiry**: That perhaps explains why it operates differently --
+
+**Professor Kamlesh Khunti**: Absolutely.
+
+**Counsel Inquiry**: -- in your view?
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: I have been asked to ask: do you think that that reflects a lack of importance given to Long Covid, because it's not a formal subgroup of SAGE?
+
+**Professor Kamlesh Khunti**: Absolutely not. If there wasn't importance put to it they wouldn't have discussed it at SAGE, but it has been discussed. And I think everything else that was going on within SAGE was to reduce Long Covid, because they'd obviously established Long Covid was an issue. The only way currently that the evidence that we had, and even now we have, is to reduce the risk of getting Covid in the first place. And that was through everything that we've discussed at SAGE about reduced risk, population-level risk of people getting Covid, and that's through NPIs (non-pharmaceutical interventions) and vaccinations, and those were large areas of work that SAGE was doing. So if we reduce the population level of people getting Covid, then the risk of Long Covid would be lower as well.
+
+**Counsel Inquiry**: You've covered it to some extent in your answer, but just to be clear, in your view, does the fact that it's a working group impact at all upon the advice that was then taken on board by SAGE in terms of its importance and ...
+
+**Professor Kamlesh Khunti**: Well, when we were still in our infancy, April 2021, it was quite early on still and the studies were just being set up there, some of the studies are still not finished, so we don't have results from many of the studies, so it would have been too early to report to SAGE with the results.
+
+**Counsel Inquiry**: Thank you.
+
+If I can just pause for a moment, you've answered a number of the areas and so I'm just going to truncate those.
+
+Just dealing very briefly -- because, as I say, we will be hearing on Friday from Professor Brightling and his colleagues in relation to that, and Dr Evans -- in terms of your understanding, am I right that the incidence of Long Covid, albeit not termed as such at that point, was aware and apparent throughout late spring and early summer of 2020?
+
+**Professor Kamlesh Khunti**: That's when the reports started mainly coming out, mainly from the patient groups and then from the researchers themselves, yes.
+
+**Counsel Inquiry**: And indeed in August 2020 guidance was published in the BMJ in relation to management of that condition?
+
+**Professor Kamlesh Khunti**: That's correct, yes.
+
+**Counsel Inquiry**: Thank you. We will be hearing a little bit more about your short report that the working group produced in due course, so I don't propose to take you through those today. We've heard a little bit already, and indeed from Professor Sir Ian Diamond, that the ONS worked with you in relation to statistics. Can you recall when that was?
+
+**Professor Kamlesh Khunti**: Statistics in relation to Long Covid?
+
+**Counsel Inquiry**: Long Covid, my apologies.
+
+**Professor Kamlesh Khunti**: So I think that was in the SAGE minutes of November 2020.
+
+**Counsel Inquiry**: Indeed, it was -- I believe it's SAGE 69, if it assists -- on 19 November.
+
+**Professor Kamlesh Khunti**: That's correct.
+
+**Counsel Inquiry**: It's really just to get a broad understanding.
+
+**Professor Kamlesh Khunti**: So I was representing the Ethnicity Subgroup within the main SAGE meetings, but because I'd done some work in the area of Long Covid I was asked to work with ONS, and that's when they were starting the CIS, the Covid Infection Survey, and they were going to add the Long Covid questions to that, and it was just to work with the team regarding the questions that were going to be asked and how the study was going to be set up.
+
+**Counsel Inquiry**: Thank you.
+
+With regard to your involvement in SAGE, and advice provided, were there discussions about advice to be provided to government decision-makers and policymakers in relation to Long Covid, to your recollection?
+
+**Professor Kamlesh Khunti**: Not that I'm aware of, no.
+
+**Counsel Inquiry**: Thank you.
+
+In fact, it appears that the first detailed discussion on Long Covid doesn't take place until February 2021. Can you help us with why it may be that it took so long?
+
+**Professor Kamlesh Khunti**: I think most of this, as I've said, is because there wasn't any evidence there that one could change anything in terms of Long Covid. Long Covid was this new disease, we still don't know much about Long Covid, as you'll hear from Chris Brightling, so at this phase it was mainly trying to get informed from the studies that had been done, which are still -- many of them are still not complete.
+
+**Counsel Inquiry**: Thank you.
+
+You have had the opportunity of reading the report, haven't you, and just in general high-level terms, do you agree with the report of Professors Brightling and Dr Evans?
+
+**Professor Kamlesh Khunti**: Yes, completely agree, yes.
+
+**Counsel Inquiry**: You completely agree, thank you.
+
+**Professor Kamlesh Khunti**: There's areas about funding I think he mentions, which we've discussed at Long Covid meetings as well, and we do agree further funding is required, but there are NIHR calls(?) that people can go to, to continue doing this work, if they wanted to extend their work.
+
+**Counsel Inquiry**: I have just three very short points, if I may, and then I'll be handing over, my Lady.
+
+The first relates to the collection of data in relation to Long Covid. Effectively at the outset of the pandemic, as we've heard, data was not being collected. In terms of that, are there any recommendations that you would make with regard to population-level data collation?
+
+**Professor Kamlesh Khunti**: I think longer-term we've learnt a lot from this pandemic, there are a number of areas that we can look at, but in terms of Long Covid, I think we need to start planning for this very early. And the studies like CIS and REACT, these are what we call, now, hibernating studies, we're not doing them, but they could easily be set up -- if another pandemic came, they could very quickly be set up.
+
+**Counsel Inquiry**: Essentially used as sleeping studies to be activated; is that right?
+
+**Professor Kamlesh Khunti**: That's right.
+
+**Counsel Inquiry**: Thank you.
+
+Then in terms of coding issues, a further tweet from you, because you appear to use social media in this way, INQ000280199, you tweeted that:
+
+"Longcovid is poorly coded in primary care records but there are other ways."
+
+Again, in relation to collation of data.
+
+What other ways do you see?
+
+**Professor Kamlesh Khunti**: So the coding structures came very quickly, I think there were 18 codes that were set up for Long Covid within the GP systems. The tweet was in relation to a paper that was published a month before from OpenSAFELY, that's in the British Journal of General Practice, that showed that only 0.04% of practices at population level had a code for Long Covid. By that time we'd had a number of people with Long Covid, but only 0.04% were shown on the GP computer systems, and it was variable, 25% of practices did not have a code at all. So it showed that there is an issue with coding of Long Covid.
+
+The other areas are that if patients are going to Long Covid clinics, for example, if they came back to the practice, that's one way of putting Long Covid codes in. Otherwise we have to do them prospectively. I think because the diagnosis is so difficult of Long Covid -- unless you're a researcher, we're doing that on a regular basis -- in clinical practice Long Covid is a difficult diagnosis for a busy general practitioner. There are training elements already inputting for that though.
+
+**Counsel Inquiry**: We've heard a little bit about that, and obviously we can surmise, and you've covered the implications for that within your statement in relation to assessing that.
+
+Finally, just in relation to ethnicity and sex, it appears that data concerning ethnicity at the moment is less consistent in relation to having a causal link or that enhanced risk of Long Covid, is that right?
+
+**Professor Kamlesh Khunti**: Yes, there are -- so there are some studies that have shown that ethnic minorities may have Long Covid when we look at the large datasets. When we look at prospective studies where people are asked about Long Covid, we seem to see less Long Covid, but again I think there maybe some nuances here. We've seen ethnic minorities get worse disease, we'd expect them to get more Long Covid, but this may be the language that's used, and I don't think there's work that's been done in terms of the language of Long Covid with ethnic minorities, and that's an area of work that certainly needs to be done.
+
+**Counsel Inquiry**: So we still have a gap there?
+
+**Professor Kamlesh Khunti**: Absolutely.
+
+**Counsel Inquiry**: Can you just assist with women, because women appear to be disproportionately impacted in terms of the initial outputs for some of these research studies. Do you know why that is?
+
+**Professor Kamlesh Khunti**: I don't, sorry.
+
+**Ms Cecil**: Not at all. We'll be hearing, as I say, from Professor Brightling and Dr Evans in any event in due course.
+
+My Lady, those are my questions. There have been applications that have been granted by two core participants, the first is FEHMO and the second is the Long Covid groups.
+
+**Lady Hallett**: I think I'm just going to check. Professor, do you mind if we take a break? I'm sorry, Mr Thomas. It's just I have been watching our stenographer.
+
+Are you okay if we take a break now and come back afterwards?
+
+**The Witness**: Sure.
+
+**Lady Hallett**: Good, thank you very much. In which case I shall be back at 11.30.
+
+*(11.13 am)*
+
+*(A short break)*
+
+*(11.30 am)*
+
+**Lady Hallett**: Mr Thomas.
+
+Questions From Professor Thomas KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Professor Thomas**: Hello, Professor, I represent the Federation of Ethnic Minority Healthcare Organisations, FEHMO.
+
+I've only got a few questions for you. One of my questions has already been asked, but let me come on to the three questions that I do have.
+
+My Lady, I'm starting from question 2.
+
+**Lady Hallett**: Thank you.
+
+**Professor Thomas**: The Chair asked you earlier a question, she said:
+
+"... who had the data that you needed?"
+
+Your response was you weren't sure and you said:
+
+"I'm not sure if the government had the data. If ... one of the asks, I'm sure Sir Ian Diamond would have provided that data ..."
+
+"[The data] wasn't coming to us ..."
+
+My question is this: so bearing that in mind, what was the source of the data in the period leading up to March/April 2020 that connected certain underlying clinical conditions with increased vulnerability to Covid-19?
+
+**Professor Kamlesh Khunti**: Okay, so in terms of the data, there were a number of data points that were available to researchers, and obviously they were available to the Office of National Statistics. In terms of the government, I'm not sure what data were available to them.
+
+**Professor Thomas KC**: Okay.
+
+**Professor Kamlesh Khunti**: Unless they commissioned the other groups to do the work.
+
+**Professor Thomas KC**: Yes. But you're clear in your analysis -- well, let me ask you in a non-leading way: did the analysis of that data that you did have, that suggested a heightened vulnerability to Covid-19 based on race and ethnicity?
+
+**Professor Kamlesh Khunti**: Absolutely, yes. And as I mentioned before, it's the ONS data and the Public Health England data also suggested that, and then subsequently a number of other independent researchers have also identified that risk as well.
+
+**Professor Thomas KC**: Okay, thank you.
+
+Let me move on to my next question. If there was a growing expert view in between March/April 2020 that there was indeed a heightened risk to Covid based on race and ethnicity, can you say who the main voices who were making this call, who were -- you know, "This is a potential problem", who were the main voices?
+
+**Professor Kamlesh Khunti**: So, as I said, the first signal that we mentioned earlier was that I was the first one to point that risk out. And, as I said, this -- you know, it was in a cautionary way, that "We're seeing more people from ethnic minority backgrounds being admitted to hospital", and we'd not heard of this.
+
+And then after that I think the first lot of data we were relying on was the ICNARC data, which is the intensive care unit data that's collected nationally from a number of centres. And we were tweeting this on a regular basis saying there is still this risk, and then more patients were admitted, and saying disproportionately ethnic minorities are more represented in intensive care unit database.
+
+So we were the first ones to make these, all these signals available to people. And then I think that's when ONS started looking at the data.
+
+**Professor Thomas KC**: Yes. Can I just follow on from that, if I may. So you were signalling this, did you consider the level of any such risk to be actionable, you wanted it acted upon?
+
+**Professor Kamlesh Khunti**: Before we act on anything we need a definite confirmation that there is a causal risk there, and we hadn't identified -- we knew that there were more patients admitted to the hospital -- and I am talking here of May/June time, and that's when ONS did their first lot of analysis showing and confirming this risk.
+
+**Professor Thomas KC**: Right.
+
+Let me move on to my last area. Are you aware of any targeted interventions that were formulated to address the probability of heightened risk of Covid based on race and ethnicity?
+
+I'll repeat the question if you want me to.
+
+**Professor Kamlesh Khunti**: Please, yeah.
+
+**Professor Thomas KC**: Are you aware of any targeted intervention that was formulated to address the probability of heightened risk to Covid-19 based on race and ethnicity?
+
+**Professor Kamlesh Khunti**: So if you look at the four quarterly reports from the Race Disparity Unit, you do see that there were targeted interventions throughout those four reports, and they were at various levels, including the communications that we've talked about, the vaccinations and more data-driven work that could be done.
+
+In terms of my answers I gave earlier, the targeted interventions were -- we felt it wasn't co-ordinated as such. They weren't -- the funded individuals, there was about 60 authorities that were given this funding, they were left to themselves to decide what to do with that rather than having a co-ordinated effort -- or even having co-ordinated pilots, to say, "Let's intervene here in this area, intervene in this way in this area", to draw out and reduce the risk and to identify what are the best interventions that will lead to better outcomes for people from ethnic minority backgrounds.
+
+**Professor Thomas KC**: Yes. I've finished, but just on that, do you think things were being done timely?
+
+**Professor Kamlesh Khunti**: The first quarterly report was in October, and that's when they started discussing this. I think the first lot of funding for community champions was given in January 2021. Yes. Â£23.75 million was given for community champions over, I think, 60 authorities. And we think that this could have been done earlier, yes.
+
+**Professor Thomas**: It could have been done earlier.
+
+My Lady, that's all I ask, thank you.
+
+**Lady Hallett**: Thank you, Mr Thomas.
+
+Mr Metzer.
+
+Questions From Mr Metzer KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Metzer**: Thank you, my Lady.
+
+Two topics, please, Professor Khunti.
+
+First of all, I'm going to cite, I'm not going to go to the INQ number, but it's INQ000280061, which is part of Sir Patrick Vallance's dairies.
+
+At page 205, Professor Khunti, he recorded an entry, on 6 October 2020, listing the reasons why the Great Barrington proposal, namely herd immunity and let it rip, as you will be aware, is wrong. Number 4 on that list is Long Covid.
+
+First of all, do you agree with Patrick Vallance's view that Long Covid was one of the reasons why letting the virus spread unchecked was wrong?
+
+**Professor Kamlesh Khunti**: Absolutely. I agree with that. As I mentioned earlier, at the moment the way to reduce the risk of Long Covid is through reducing the risk of people getting Covid. And this is through, as we said, all the NPIs. And now we have the vaccines that can drive the risk. Vaccines drive the risk -- reduces the risk, and there's good evidence now that if people are vaccinated they're less likely to get Long Covid. If they have Long Covid and they're vaccinated, there's also data to suggest that they get less Long Covid.
+
+**Mr Metzer KC**: Thank you.
+
+Since you've said yes, can you answer this subsidiary question: should Long Covid be one of the factors to take into account in assessing the need for non-pharmaceutical interventions to limit transmission?
+
+**Professor Kamlesh Khunti**: Yes, absolutely. As I've said, that's one of the ways, and one of the major ways, of reducing the risk of getting Covid in the first place, and we know -- also know that if you have had Covid and you have Long Covid and you have Covid again, your risks are worse. So definitely, yes.
+
+**Mr Metzer KC**: Thank you.
+
+Would SAGE be responsible for informing government decision-makers about the nature of risk of Long Covid, as with other factors on Patrick Vallance's list, such as how long immunity lasts?
+
+**Professor Kamlesh Khunti**: I think that was already in many of the SAGE papers. The SPI-M modelling had looked at how long the immunity lasts, after an infection or vaccinations, and these were all taken into account when the modelling was done.
+
+**Mr Metzer KC**: Thank you.
+
+You said at paragraph 3.5 of page 13 of your report, you said:
+
+"By August 2020, understanding was sufficient for guidance on management of 'post-acute Covid' (as the longer-term effects of Covid-19 were then termed) to be published in the British Medical Journal."
+
+Is it right that SAGE did not provide advice on Long Covid to government decision-makers by October 2020 when Sir Patrick Vallance made this note in his diary?
+
+**Professor Kamlesh Khunti**: As I mentioned earlier on, there weren't any interventions for people with Long Covid. Indeed, you'll hear on Friday we don't have any interventions at the moment. Really, we're at its infancy in terms of knowing much about Long Covid. So at that stage we did not have any interventions to put into place to help people with Long Covid except to reduce the risk of Long Covid with the interventions I've mentioned, the NPIs and the vaccination programmes.
+
+**Mr Metzer KC**: All right, well, that ties in well to my second topic that I want to go on to, on recommendations.
+
+The Long Covid group, the two questions I want to ask you about that in relation to something you said, I think, both in evidence at paragraph 3.8 of your witness statement. You of course sat on SAGE. Can we look at the minutes of SAGE 94, on 22 July 2021, which is INQ000092856. I don't know if that's going to be put up.
+
+**Lady Hallett**: It's up on mine.
+
+**Mr Metzer**: Not on mine, sorry.
+
+Could we go to page 4 at paragraph 27. I want to ask you about the fourth line, which starts:
+
+"For those children who do suffer long illness" --
+
+**Lady Hallett**: You need to be near the microphone, sorry.
+
+**Mr Metzer**: I'm sorry, yes. It's on my screen, thank you.
+
+"For those children who do suffer long illness duration, there may be a need for guidance to parents, carers and schools on how to support them."
+
+Would you agree that this appears to be a recommendation from SAGE?
+
+*(Pause)*
+
+**Professor Kamlesh Khunti**: That's what it seems like, yes.
+
+**Mr Metzer KC**: Thank you. Do you know if that guidance was prepared?
+
+**Professor Kamlesh Khunti**: I'm not aware of that, sorry.
+
+**Mr Metzer KC**: So you're not able to say, if it wasn't, why it wasn't.?
+
+**Professor Kamlesh Khunti**: As I said, I was on the SAGE for -- as chair of the Ethnicity Subgroup. I did give comments on Long Covid particularly for the CIS survey. Children's Long Covid is not my area of expertise.
+
+**Mr Metzer KC**: So be it. And the last INQ I'd like to take you to, INQ000249018, which is a WHO policy brief, number 39. That's titled "In the wake of the pandemic: preparing for long COVID".
+
+Can we look, first of all, at the first page and just confirm that you're a co-author?
+
+**Professor Kamlesh Khunti**: That's right, yes.
+
+**Mr Metzer KC**: Thank you. Page 4, can we go to, please, which is a correction from 22 March 2021, can we take that to indicate that the report was published by then, March 2021?
+
+*(Pause)*
+
+**Professor Kamlesh Khunti**: This is the first time I've seen this, so if this is there, yes, I do agree.
+
+**Mr Metzer KC**: So you do agree that we can indicate the report must have been published by then, March 2021?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Mr Metzer KC**: Thank you.
+
+The last thing I want to ask you, page 23, please, we can see there a number of recommendations for policymakers. Do you have that, Professor Khunti?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Mr Metzer KC**: Yes. Do you agree that these recommendations could have been put before SAGE?
+
+**Professor Kamlesh Khunti**: I'm just reading those.
+
+**Mr Metzer KC**: Yes, of course.
+
+*(Pause)*
+
+**Professor Kamlesh Khunti**: Yeah, so these are recommendations stating that we should be implementing patient registers, we should be giving guidelines on multidisciplinary services, but we didn't have any evidence for this at all. These were all consensus recommendations that we gave, as part of this document. SAGE was looking at the acute complications, and giving advice of trying to reduce the risks associated with this, acute effects of the pandemic.
+
+**Mr Metzer KC**: Yes.
+
+**Professor Kamlesh Khunti**: In terms of this, there are other areas looking at this, there are already clinics that have been set up to deal with this. These were all actioned by the government in terms of having clinics for people with Long Covid. They, I think, pre-date some of the discussions on SAGE.
+
+**Mr Metzer KC**: Yes. But we can see the implications for policy makes reference to --
+
+**Lady Hallett**: Microphone, Mr Metzer. Sorry, it's because it's not appearing on your screen.
+
+**Mr Metzer**: I'm very sorry, I'm bending down. I'll bring it down with me:
+
+"Although Long COVID is not yet fully understood health policy-makers should be preparing to address it."
+
+**Professor Kamlesh Khunti**: Yes, so this is to the policymakers, in terms of the government policymakers, and we know that they did set up the Long Covid clinics because of that.
+
+**Mr Metzer KC**: Yes. So the last question I ask, therefore, is: SAGE could have made similar recommendations on the basis of information available at that time, which is early 2021; do you agree?
+
+**Professor Kamlesh Khunti**: They could have done but, as I said, this wasn't a question that was put towards SAGE to look at this evidence, because there wasn't any evidence. Even the Long Covid clinics were set up to help people with Covid but there wasn't any evidence, as such, for that.
+
+**Mr Metzer KC**: No, just recommendations?
+
+**Professor Kamlesh Khunti**: Yes.
+
+**Mr Metzer**: Thank you.
+
+**Lady Hallett**: Thank you, Mr Metzer.
+
+**Ms Cecil**: Thank you, my Lady. That concludes the evidence, unless your Ladyship has any questions.
+
+**Lady Hallett**: No, I have no questions.
+
+Thank you very much, Professor, for all the work you have done generally and for all your help with this Inquiry. We are very grateful.
+
+**The Witness**: Thank you very much.
+
+*(The witness withdrew)*
+
+**Ms Cecil**: My Lady, if I may just hand over to Mr Keith.
+
+**Mr Keith**: My Lady, the next witness is Professor Tom Hale.
+
+Professor Thomas Hale
+---------------------
+
+*PROFESSOR THOMAS HALE (affirmed).*
+
+Questions From Lead Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Good morning.
+
+**Professor Thomas Hale**: Good morning.
+
+**Lead Inquiry**: Could you commence, please, by giving the Inquiry your full name.
+
+**Professor Thomas Hale**: My name is Professor Thomas Hale.
+
+**Lead Inquiry**: Professor, thank you very much for attending today and for the provision of your expert report prepared for this module, which relates to the Oxford Covid-19 government response tracker for which you are responsible in part, although you lead the team that has provided and provides that tracker.
+
+You've prepared this report for us, it's INQ000257925, and I believe on the last page -- perhaps not the last page, which is page 105, but earlier in that report -- you've appended the usual declaration concerning -- in fact it's on the second page -- you set out the usual understanding of your duty to provide independent evidence and you confirm that you've made clear those matters which are within your knowledge and those which are not, and those which are true and those which are not.
+
+Now, you are a professor or you are the professor of global public policy at the Blavatnik School of Government. Is that in the University of Oxford?
+
+**Professor Thomas Hale**: That is correct.
+
+**Lead Inquiry**: In essence, are you a specialist in the area or the issue of how political institutions evolve, adapt, to face the challenges, whatever they may be, that they face, globally and in the context of those particular countries in which the governments operate?
+
+**Professor Thomas Hale**: That's correct. I focus especially on transborder threats such as pandemics where we need to look at different government responses, compare them and understand how they interact.
+
+**Lead Inquiry**: Professor, whilst you give evidence, please try to keep your answers as slow as you can humanly make them, it makes it much easier for our stenographer.
+
+Do you hold a PhD in politics from Princeton, a master's degree in global politics from the LSE, an AB in public policy from Princeton School of Public and International Affairs?
+
+**Professor Thomas Hale**: I do.
+
+**Lead Inquiry**: Have you written for many years on these areas?
+
+**Professor Thomas Hale**: I do.
+
+**Lead Inquiry**: Thank you very much.
+
+The report, does it fulfil this main aim, which was to research and review the many thousands of articles and pieces of learning which concern themselves with the impact of the various governmental measures which were applied by governments across the world --
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: -- in response to the pandemic, and based very largely on the information collated by your tracker team?
+
+**Professor Thomas Hale**: That's correct. Our project was providing an evidence base for many, many hundreds, indeed thousands, thousands of studies that took place looking at what governments were doing in response to the pandemic and what the effects of their policies may or may not be on different outcomes of interest, such as the health of their populations or their economies.
+
+**Lead Inquiry**: Your tracker, the project which I think you launched in March 2020, obviously looked around the world at all the various responses that the governments across the world put into place.
+
+Was it one of a number of trackers? Are you the pre-eminent tracker of this information, or were there a large number of other bodies also scouring the position around the world to see how governments were responding?
+
+**Professor Thomas Hale**: It was the largest of these efforts. There were several of them, which we've listed in the appendix, close collaborators and colleagues, each often providing a different set of issues that were the focus. But our project became a focal point for many users of the data because it had a huge breadth, covering 185 different countries around the world, also, in many countries, depth, looking at their subnational jurisdictions, particularly important in places like India or the United States where subnational differences were very significant, also including the subnational jurisdictions of the United Kingdom. And it became very timely, so the data was collected through a team of trained volunteers, who eventually numbered 1,500 in total, a massive team, all using their contextual knowledge from different parts of the world combined with our system, which we trained them in, to create comparable information.
+
+So for those reasons, even though there are many trackers of different areas of policy, this one became an important tool for many governments, for many researchers and for the public at large.
+
+**Lead Inquiry**: Did many governments during the course of the pandemic in fact, as a result, incorporate information from the Oxford C-19, Covid-19 government response tracker into their own responses, their own analysis and their planning processes?
+
+**Professor Thomas Hale**: That's correct. So our data were made available instantly, in real time, on the internet and so were used by many, many governments, researchers, media organisations to create a record of who was doing what and how does it compare to, for example, government's own plans or actions. And that was indeed the idea: to facilitate learning.
+
+**Lead Inquiry**: In the United Kingdom, did the two academic leads of the tracker project, yourself and Dr Petherick, assist the United Kingdom Government by way of taking part in or joining the International Comparators Joint Unit, expert advisory group, which provided timely and vital information to the UK Government on what the impacts appeared to be of the various different types of measures applied by governments across the world?
+
+**Professor Thomas Hale**: That's correct. Dr Petherick and I had the privilege of serving on this committee beginning from the spring of 2020, when it was created, and then through its various forms until around the middle of 2021, when it ceased its work.
+
+**Lead Inquiry**: Just focusing for a moment on how the information tracked in the project was assembled, you've mentioned the very large number of volunteers across the world. Did those volunteers have -- or were they recruited locally so that they would have the facility, the ability to be able to deploy local knowledge in each country or jurisdiction or subregion when collating the various aspects of the impact of whatever measures might have been deployed?
+
+**Professor Thomas Hale**: That's exactly the strategy that was used. So it's quite important for any kind of comparative exercise to navigate between two fundamental desiderata. One is a comparable system where you can say A is like A, B is like B, which necessarily requires a little bit of abstraction, but also, on the other side, the ability to have real contextual information, to understand exactly what a given policy might mean in a particular context; to use the local language to understand that context, to understand the meaning of a policy, and to combine those two.
+
+So using a team of volunteers -- and I would like to really offer, again, our huge thanks for the way these volunteers gave their time during the pandemic to create this global public good -- using that combination of expertise, in the local context, with a comparable methodology, is what allowed the data to emerge.
+
+**Lead Inquiry**: Do we presume that the data, the information about how the various governmental measures were coming into existence and being deployed and what their impacts were, was assembled by viewing official government websites across the world, official news reports, and any publicly available information about what those measures consisted of?
+
+**Professor Thomas Hale**: That's correct. So the volunteers were tasked with looking at, say, an official government website where information on different measures and restrictions might be posted, or, for example, where that didn't exist -- and there are certainly many governments around the world where communication around Covid-19 measures were less consistent and clear than in other parts -- where the suitable information was sourced from government websites, you know, maybe a less official kind of document but in a posting on a government website, or similar information.
+
+And importantly, the project has recorded these original sources as permanent digital records and so the entire historical archive for each of our data points is there for consideration.
+
+**Lead Inquiry**: And is that an important feature for the purposes of quality assurance, so that your analysis and your thinking is open to review?
+
+**Professor Thomas Hale**: Exactly.
+
+**Lead Inquiry**: Now, the Inquiry has heard a great deal of evidence about non-pharmaceutical interventions, and plainly you're aware of what they are.
+
+In terms of the sorts of measures that you tracked, in very broad terms, were those measures non -- what we would call non-pharmaceutical interventions, but also including the impact of vaccine-related measures, so they were broadly the same but they included the whole field of vaccination?
+
+**Professor Thomas Hale**: That's correct. So the project began in the spring of 2020, when the most prominent responses governments were taking to the pandemic were in the form of NPIs, often restrictions on movement or travel or requirements to stay at home. However, as the pandemic evolved, so too did responses to it, and so our project had the imperative of adapting and adding new categories of response as our toolkit against this disease expanded, and that most significantly took the form of measuring the different policies that governments put in place to encourage vaccination, sometimes to require vaccination, and also how some of the restrictions that have been used in the pre-vaccine period, such as travel restrictions, might vary, for example allowing more freedoms for vaccinated individuals than others. So those complexities were important.
+
+**Lead Inquiry**: Do we have on page 47 of your report the full list of the Oxford Covid-19 government response tracker indicators, that is to say the measures or the policies that were tracked, and we can just see that they can be conveniently grouped into containment and closure, economic responses, health systems, and, over the page, vaccine policies and miscellaneous?
+
+**Professor Thomas Hale**: Correct. And richer descriptions are available on the link provided on page 47.
+
+**Lead Inquiry**: It's important, isn't it, to identify the limitations on the work that your project was able to carry out? You tracked the measures and you tracked the impact of the measures. But what the project couldn't do was ever identify, for obvious reasons, the counterfactual position: what would have been the impact if these measures had not been applied in the various jurisdictions; is that correct?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Is that because, in very general terms, firstly, this is an observational study, you observed what was happening, it's not a controlled study of what the impact might be, in theory, of an intervention. And, secondly, many of these measures and interventions were being applied simultaneously, and therefore it's impossible to say what the precise impact may have been or was from any individual particular intervention; is that correct?
+
+**Professor Thomas Hale**: Indeed. And so with these differential impacts you might find across different NPIs, it's exceedingly difficult to say: in this particular instance, say, 5% was done by this one, 10% by another. Instead, the knowledge we're able to glean from the literature is to identify the tendencies that, on average, different kinds of interventions, either individually or in combination, may have.
+
+**Lead Inquiry**: Of course, if you look at page 47, you can see that the measures are self-defined in very broad terms: school closures or workplace closing, income support, testing policy, and so on and so forth.
+
+**Professor Thomas Hale**: Mm.
+
+**Lead Inquiry**: So it's a very high level assessment, is it not?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: But it's very useful because it identifies, doesn't it, how different governments across the world responded in general terms and what the broad consequences were of those particular governmental decisions?
+
+If we look at page 8, by way of a demonstration of a very user-friendly diagram, this, for example, provides a chart by colour of school closures during the Covid-19 pandemic as at 24 October 2020, and it shows those countries in which no measures in relation to school closures were imposed, those in which they were recommended, those in which closures were required but only at some levels, and then those countries in which all levels of schools, so all ages, schools were closed?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: And you can see the broad thrust of it. All right.
+
+Turning to the summary of your research of, as I've said, the scientific literature reporting on the information collated by your project and by your tracker, page 11 of your report, are there a number of general findings that you draw from your review of these thousands of studies reporting on the data which you've collated? So, in essence, what everybody did.
+
+Firstly:
+
+"Speed matters."
+
+And we're going to come and look at these in turn.
+
+Secondly:
+
+"Strength matters."
+
+Those two observations I think are self-evident, that their meaning is clear. Third:
+
+"Effective use of test, trace, and isolate measures limits both health impacts and the need for restrictive policies."
+
+By "restrictive policies", do you mean more stringent policies?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Stringent measures.
+
+Fourthly:
+
+"Economic support bolsters compliance."
+
+By that, do you mean the provision of economic support by government, for example by way of support for those who are self-isolating, tends to improve the ability or the degree to which a population will comply with a particular measure?
+
+**Professor Thomas Hale**: Yes.
+
+**Lead Inquiry**: Fifthly:
+
+"Prolonged restrictions can have costs."
+
+What sort of costs, in very broad terms, did you have in mind by that phrase?
+
+**Professor Thomas Hale**: There are many potential costs. The ones we focused on, because they were a source of great interest in the literature, were around mental health impacts, around domestic violence, around learning outcomes for children, and of course for the economy. Of course there are many others as well to consider.
+
+**Lead Inquiry**: So now dealing with each of those broad findings in turn, firstly, speed matters. It may be thought to be self-evident, but what is the broad consequence of a timely, that is to say a rapid, adoption of a non-pharmaceutical intervention? That is to say, the imposition of a social restriction or a distancing method or a mask-wearing measure or a full stay at home mandatory order.
+
+**Professor Thomas Hale**: So the long experience of managing infectious disease of all kinds shows very clearly that because such diseases tend to spread in a non-linear and, in the case of Covid-19, rapid fashion, early interventions, when the prevalence is low, are critical to restrain further spread. Once spread has reached a certain scale, and therefore because more spread means, in exponential logic, more and more spread, at a certain speed, it's much harder for any policy to have the same effect it would have had at a lower level of spread.
+
+Therefore, speed matters. And, for example, one of the studies we looked at show that a single day of delaying a mass gathering ban, so something like concerts or sporting events, a single day of delay had an impact of perhaps a 7% increase in the cumulative death toll during that wave. So one day, 7% increase, quite a significant importance for speed.
+
+**Lead Inquiry**: Does your report refer to a number of studies that show, by reference to measures taken during the first five days and also some other studies which show the effects of the implementation of NPIs in general terms during the first 10 to 14 days, can have a very significant impact or did have a very significant impact on the transmission of the virus?
+
+**Professor Thomas Hale**: Correct. Most of the studies show there was a two-week lag between when a policy might come into effect and when you might notice the impact of that on the number of cases, which is tied to the time it takes the Covid-19 disease to incubate and spread.
+
+**Lead Inquiry**: I've described it, perhaps a little cheekily, as self-evident. It is obvious, though, isn't it, that if you apply a measure, a restriction, because it takes the effect of some sort of restriction, it is bound to have a beneficial impact in terms of limiting the transmission of the virus?
+
+But on account of the way in which a viral outbreak or a virus disease will spread, what is the particular significance, what is the particular need for acting fast?
+
+**Professor Thomas Hale**: It's precisely to stop before it starts. Once it's become so widespread that you are inevitably going to have some degree of non-compliance leading to further spread, it's too late for those measures to have the kind of clampdown effect they would have had if it were just a few people. So it's a simple kind of fact, mathematical logic of exponential growth, that once you have passed the point of a certain threshold of spread, it's not going to be feasible to bring that down without a very prolonged and intense level of restriction.
+
+**Lead Inquiry**: Did the tracker and did the reviews, the literature reviews of the tracker and the data that it collated, reach any conclusions in relation to individual NPIs beyond that of the one concerning the banning of mass gathering, to which you've already referred, including matters such as school closures? Was there a significant link between the closing of schools and a reduction in the transmission of the virus thereafter?
+
+**Professor Thomas Hale**: Yes. So as was mentioned, the exact impact of any single measure in a given instance is always going to be difficult to say, because they tend to come in packages. But on balance, the literature shows, as you would expect, policies that are more effective at presenting people from meeting each other are going to be the ones that have the greatest impact on cases, hospitalisations, and eventually deaths. So stay at home measures were obviously one of the most strong -- we observed, one of the strongest overall tendencies to do. But school closures, workplace closures, also seemed to have this effect.
+
+**Lead Inquiry**: What about mask wearing?
+
+**Professor Thomas Hale**: Mask wearing is indeed one of the factors that has been shown. I think I would -- I note the Royal Society's report on this fact, showing quite a clear balance of evidence that the right kind of mask wearing in particular has reduced transmission.
+
+**Lead Inquiry**: When you say the "right" type of mask, do you mean medical masks, respirators, as opposed to cloth masks?
+
+**Professor Thomas Hale**: That does seem to be where the evidence shows, yes.
+
+**Lead Inquiry**: Now, you've used the word "stringent". In the context of border measures, for example, is there a link between the efficacy, the effect of a particular measure or border measure and the ruthless degree or the stringency by which such a measure has to be applied?
+
+**Professor Thomas Hale**: For border measures, it's important to think slightly more broadly about the role they might play alongside others. So oftentimes restrictions on international travel were geared not at clamping down on local spread but, for example, at preventing new entrance into a population for example of a new variant. So I might suggest that there -- it should be assessed in a different way. But yes, on average, we see a tendency for stronger restrictions on travel to be associated with reductions in the spread of the disease.
+
+**Lead Inquiry**: And is that fairly obvious, because with border measures, with restrictions on travel, there is a range of measures which could be applied, from screening for symptoms of the virus, whether you've got a temperature, whether or not you're showing signs of fever, all the way across to a full-blown closure of your border?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: And if you apply a border measure which is less stringent, for example a temperature check or a screening, it is much more likely to allow the virus to continue to enter any particular country because the nature of that sort of measure is extremely hard to police and to enforce and to --
+
+**Professor Thomas Hale**: Correct. And it's really the most stringent measures, for example closures or required long periods of quarantine, say in hotels, that show this particularly high effect on transmission.
+
+**Lead Inquiry**: I've already asked you about the generic difficulties of trying to apply a counterfactual position and of trying to drill down into the impact of specific measures. Is it for those reasons that you can't express a view, for example, as to what the specific impact might have been in the United Kingdom of banning mass gatherings earlier? For example, you're aware of the Six Nations matches which were held in February and March, a football match between AtlÃ©tico Madrid and Liverpool and so on, and a racing festival at Cheltenham. Does the data and the literature provide you with any answer as to what might have been the impact had those large mass gatherings not taken place?
+
+**Professor Thomas Hale**: A study could be done, a modelling study, which would have tried to use mathematics and statistics to create a counterfactual for comparison, but no, we can't look back in an observational way and say: had this been done earlier, definitely this would be the impact. Rather we can say is: let's look at all of the countries in the world, see which ones imposed this kinds of mass gathering bans, what the impact was on their disease situations and then try to interpolate that to the UK. That's the level of evidence that we can provide.
+
+**Lead Inquiry**: Turning to the second topic, strength matters. Plainly some measures are more stringent, more ruthless than others. Stay at home orders, by virtue of their mandatory nature, are amongst the most strong policy interventions, are they not?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Does the data and the review show, not surprisingly, unsurprisingly, that stay at home orders had the greatest impact in terms of the policy impact? They had the greatest consequence?
+
+**Professor Thomas Hale**: To the extent we can distinguish individual policies, as we've discussed, yes, they do seem to have a very large impact.
+
+**Lead Inquiry**: Similarly, did the closing of schools and the limiting of mass gatherings also have, as these things go, more effective impact than other less stringent measures?
+
+**Professor Thomas Hale**: So some of the -- it would depend on the level of closure. So some mass gatherings for example were not completely banned but were allowed to occur with, say, a 2-metre rule or other kinds of mitigating factors, so we would say a more stringent measure is one at the top of our scale, not so much about the intervention -- kind of intervention but rather the degree of stringency to which it was applied.
+
+**Lead Inquiry**: Perhaps again self-evidently, the benefit of a more stringent measure was, it would seem, not just a reduction in transmission but also a better outcome in terms of health and death rates?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Did that general proposition apply throughout the pandemic? So in the latter stages of the pandemic, across the world, do stringent measures have the same general impact as they did in the earlier stages of the pandemic, and if not why not?
+
+**Professor Thomas Hale**: So we must recognise that the bulk of the evidence in the available scientific literature is based on earlier phases of the pandemic, that's when most of these studies were done, because even though it's now especially self-evident perhaps to us now that these kinds of measures did reduce transmission and therefore cases and therefore hospitalisations, and therefore deaths, that evidence base did not exist in the same kind of robust way for this particular disease when it had recently emerged. So there's a huge flurry of studies in that first period.
+
+As the pandemic progressed, new research questions around, say, vaccination, drew attention and so there was a wider range of topics that needed to be considered. But overall, the studies that were conducted on NPIs across the period of the pandemic do show consistent results.
+
+As the pandemic progressed, however, one of the most important things to control for -- well, two of the most important things to control for were how vaccinated a population was, how vulnerable it was, how exposed it had been, and in the same vein how different variants of Covid-19 were more or less transmissible.
+
+So we expect in a more vaccinated population or one that had been exposed to higher levels of infection before we'll see less of an effect, because there is not as much vulnerability. And also with a more transmissible version of the virus, it would be important -- we'll see a less significant effect, because more would be needed to achieve less.
+
+**Lead Inquiry**: So, hoping I don't do a terrible injustice to your learning trying to summarise it, later during the pandemic, when populations by and large had become more vaccinated, such governmental measures as were put into place at that time would be bound to have less impact and less effect because the populations had by then already become vaccinated and therefore there was, firstly, less need for stringent measures, and secondly, by comparison to the beneficial impact of vaccination, whatever stringent measure you might otherwise put into place would have less impact.
+
+And secondly, as variants came through with different transmissibility features, for example a particular variant might have an impact on young persons and children, the closing of schools at that point would have proportionately, therefore, a greater impact?
+
+**Professor Thomas Hale**: If that were the case, that would indeed line up in that way. So the overall relationship remains the same -- more stringency, more speed, fewer cases, fewer hospitalisations, fewer deaths -- but the size of that effect will go down as the population gains more protection through immunity, and the size of that impact will go down as the transmissibility of the disease increases.
+
+**Lead Inquiry**: Test, trace and isolate measures were applied by a number of governments. It's common ground, and not open now, I think, to serious debate, that the United Kingdom was not a country that was able to deploy significant test, trace and isolate measures in the early days of the pandemic.
+
+Does your data show that test, trace and isolate measures were, generally speaking, highly effective?
+
+**Professor Thomas Hale**: Our review of the literature does show this to be the case. Indeed, the evidence base, we must say, though, is harder here, because it's very difficult to find comparable information across countries on, for example, the percentage of contacts traced each time, with the time it takes to trace those contacts. Even here in the UK we don't have, necessarily, consistent information about those two key variables over the whole course of the pandemic.
+
+So here there is a slight difference in the quality of the evidence the world has available but the studies that have been done nonetheless very clearly show that effective test, trace, isolate and support measures were very helpful.
+
+**Lead Inquiry**: Contrary to what I suggested to you earlier, which is that it's generally not possible to demonstrate the counterfactual position, have there, in this particular field, the field of test, trace and isolate, nevertheless been some studies which did attempt to predict or to show what the position would have been in the United Kingdom had there been more comprehensive levels of testing and contact tracing?
+
+**Professor Thomas Hale**: That's correct.
+
+So I would direct you to page 15. We have summarised a study by Panovska-Griffiths et al 2020 which was, as I said before, a modelling study, so using hypothetical parameters to estimate the effect of a counterfactual, and in that case they did show that TTI strategies could have been successful in particular in the second wave of Covid-19 in the UK if they had been more effective at capturing a wider range of contacts and more quickly.
+
+**Lead Inquiry**: Turning to economic support and the bolstering of compliance, were there a number of studies which showed in general terms that when stronger, so more extensive, more generous, economic support policies were adopted, compliance with whatever social measure, for example self-isolation, that was in place was better?
+
+**Professor Thomas Hale**: Correct. So there are two categories of studies that are particularly relevant here: first, a number that show that existing levels of economic deprivation or short-term economic shocks reduced compliance; and secondly, and relatedly, when there's economic support that's provided, either through governmental programmes such as the furlough scheme here in the UK or, as was the case in many countries, through social organisations, for example in India an extensive social provision of food to vulnerable households, this was very helpful in ensuring greater compliance with NPIs.
+
+**Lead Inquiry**: The costs of prolonged restrictions is your next theme. Again self-evidently perhaps, the evidence which you looked at strongly suggests that strict and prolonged non-pharmaceutical interventions will have negative impact on mental health, educational prospects, particularly deleterious effects on older adults, and also the increased prevalence in domestic violence?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Were there a number of studies which showed that in relation to that latter issue, that of domestic violence, there were substantial increases in domestic violence as a result of the prolonged use of some NPIs, and that was in countries in Europe and in America, across the world?
+
+**Professor Thomas Hale**: Indeed. And it's striking to see such consistency in the findings across very different contexts. Indeed, in countries where the previous levels of domestic violence were also quite different, all showed a similar increase.
+
+**Lead Inquiry**: Again, we've heard evidence on this from a number of sources, the application of more stringent non-pharmaceutical interventions also had disproportionate impact on various sectors of the populations in each of the countries, on ethnic minorities, members of ethnic minorities, ethnic groups, women, the elderly, those living alone, and those suffering from comorbidities as well as those who were otherwise economically disadvantaged?
+
+**Professor Thomas Hale**: That's correct, and it truly is one of the cruellest injustices of this pandemic that often similar people, similar groups of people who were both vulnerable to Covid were also vulnerable to the effects of actions against Covid.
+
+**Lead Inquiry**: Some countries have, of course, been praised for the stringency and the rapidity of their non-pharmaceutical interventions, South Korea being one of them, but even in such countries did those non-pharmaceutical interventions strike disproportionately hard upon some sectors of the population?
+
+**Professor Thomas Hale**: They certainly did, and the elderly population in South Korea, one study showed, was particularly negatively affected by the policies the government put into place. And I'd add that these differential extracts were often exploited by the virus to affect larger populations. So, for example, in Singapore, a country which is particularly effective in managing the disease overall, one large, relatively uncontrolled, outbreak occurred first in a population of migrant workers, who are one of the more marginalised groups in society, and so there the differential impacts were not just an injustice but also a detriment to the country's overall response.
+
+**Lead Inquiry**: Turning to page 19 of your report, you then turn to focus upon the United Kingdom Government's own responses, but in a comparative perspective. By which do you mean that you've looked at the NPIs which were applied in the United Kingdom and you've compared them in terms of the speed and stringency with which they were imposed by the government here against other countries and in relation to the particular nature of those NPIs?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Now, at page 21, do you produce a figure, you call it figure 3A, which shows, in respect of England, Scotland, Wales and Northern Ireland, and by the division of particular NPIs, school closures, workplace closures, cancellation of public events and so on and so forth, how many days elapsed between the first confirmed case of Covid in each of those countries and the time, the point at which that particular NPI was imposed?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: And in general terms, do you conclude or does the literature show that for the majority of these NPIs, England, Scotland, Wales and Northern Ireland delayed -- or there was a greater elapse of time before the imposition of these NPIs than really the majority of all other countries?
+
+**Professor Thomas Hale**: That's correct. I would also draw your attention to the following figure, 3B, which looks at --
+
+**Lead Inquiry**: We were going to get there.
+
+**Professor Thomas Hale**: Wonderful.
+
+**Lead Inquiry**: Well, let me ask you this, Professor: the danger in relying too much upon a chart that shows the delay between the first confirmed case of the virus and the imposition of NPIs, is that the first confirmed case has a degree of variability as to when it might be, and that may depend on a lot of different reasons, and it may also not be a fair reflection of the extent to which the virus has already spread in a country.
+
+So did you, on page 23, compare the position of what delays there had been before the NPIs were applied after the 100th confirmed case in each of the countries?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: And in general terms, what did that chart show about the extent of the elapse of time or, perhaps more pejoratively, delay?
+
+**Professor Thomas Hale**: It shows very clearly, figure 3B, that in relation to the spread of the virus, restrictive measures across the United Kingdom came into place much more slowly than they were put into place in other groups of comparator countries, different regions, similar -- countries with similar political systems, those with similar populations or age profiles, et cetera.
+
+And this is particularly true, it's really not -- the only real place where the United Kingdom's restrictions were broadly comparable were for the two categories, panels E and H, on protection for the elderly and stay at home requirements, but on every other NPI we looked at, there's a considerable delay in the UK measures compared to other groups of countries.
+
+**Lead Inquiry**: Are there two points that must be made, two additional points that must be made, in relation to the chart at 3B: firstly, it might be thought that England had delayed to a greater extent than Scotland, Wales and Northern Ireland because, for example, in relation to school closures, workplace closures and cancellation of public events, the bar chart is longer? But is that because, at the point at which the United Kingdom applied those measures, which it did simultaneously in many places on many occasions, for England, Scotland, Wales and Northern Ireland, by that point in time the virus had been prevalent in England for longer?
+
+**Professor Thomas Hale**: That's correct. So if we were looking at this in normal calendar time, the different parts of the United Kingdom would look much more similar. If we were looking at this in calendar time, the United Kingdom as a whole would look sort of in the middle of the pack relative to most other countries. But of course the virus doesn't think about calendar time, it thinks about its own spread. So this chart is showing us, if you will, a virus time perspective, and for decision-making that's of course the key metric.
+
+**Lead Inquiry**: The second most important point, perhaps, is that the stay at home requirement was imposed in the United Kingdom, the mandatory lockdown, of course simultaneously or very close in time to the cancellation of public events, workplace closures, school closures and the closing of public transport, because that was the effect of the lockdown, and that is why there is very little by way of a delay in relation to the stay at home requirement in the middle of that page.
+
+**Professor Thomas Hale**: It's because, yes, the stay at home measure came into place, you know, on March 23rd, quite close to the 100th case, which was -- I think it was a few weeks before that. But other kinds of policies can be(?) put into place in softer forms before that. So it wasn't a 100% "You must not go to school", but there were different kinds of suggestions that were being made, recommendations, et cetera, so some of that's captured here as well.
+
+**Lady Hallett**: I'm afraid I'm still struggling with the virus time and real-time concept. Could you just run it past me again, Professor, please?
+
+**Professor Thomas Hale**: Of course, my Lady. So the bottom axis here, the X axis along the bottom, which is a very small number, I apologise, you will see it shows zero on the left-hand, then goes 5, 10, 15, 20. So those are the number of days since the 100th case.
+
+So, for England, that will be -- the clock will start -- I'm sorry, I don't have the exact date in my mind, but it started before, because England had 100 cases long before Scotland did, long before Wales did, and before Northern Ireland did. So for each of these jurisdictions, and as well as all the comparators, we're measuring when they put in place a measure based on how far it was from the 100th case, not when the -- what the date on the calendar was.
+
+**Lady Hallett**: Thank you.
+
+**Mr Keith**: Or putting it another way, at the point at which the particular measure was imposed for the United Kingdom, the virus had already spread further in England?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: And more time had passed since the first or the 100th case?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: Can we then turn to a different topic, which is on page 24, the comparison between the timing and intensity of UK responses to other countries.
+
+On page 25, to go forward one page, you produce table 4, which is entitled, we can see from the left-hand side of the page, "Policy Strength". Over time, that is to say the whole period of the pandemic, have you looked at, in these charts, the stringency, the general level of severity of the measures applied by each country and compared them over time with a very large number of other countries across the world?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: So if we look at school closures in the top left, the red line, which I think we can see more clearly than other lines, is the United Kingdom, is it not?
+
+**Professor Thomas Hale**: That's correct.
+
+**Lead Inquiry**: And so we can see that in relation to school closures, in the early days there was a fairly high level of stringency, the United Kingdom was more severe, more strict in terms of the school closures, meaning any possibility of what was being done in relation to schools, but then the red line comes right down to a very low level of stringency and then goes back up.
+
+Similarly workplace closures, on the right-hand side. We can see that in the early days workplace closure was prevalent, of course, in the United Kingdom because of the lockdown, was more strict than almost all other countries or regions, it comes back down but not as far as the lower level of stringency for other countries, and then goes rocketing right back up again, of course, around the time of the second wave?
+
+**Professor Thomas Hale**: Yeah.
+
+**Lead Inquiry**: We can see, if you scroll back out, a similar pattern of cancelling public events, restrictions on gatherings, closing public transport, stay at home, but particularly restrictions on internal movement, a very high level of stringency, effectively, during the first wave, and then, relatively speaking, a very considerable drop in the level of severity, the summer of 2020, and then moving right back up again at the time of the second wave?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: What that shows, does it not, is that there was a degree of rollercoaster element in the United Kingdom's response? By comparison, I emphasise, to other countries, we went right up the scale and reacted, some would say overreacted, at the first wave, then underreacted between waves, and then rocketed right back up again at the time of the second wave?
+
+**Professor Thomas Hale**: There's certainly, in the United Kingdom's response, as in many other countries, I should add, an element of ramping up, ramping down, ramping up, ramping down, and so the metaphor of a rollercoaster does come to mind.
+
+The important difference between this line of -- red line showing the United Kingdom as a whole and the other countries. (inaudible) of course, these are averages, the other ones, so there will be, within every one of those lines, a number of countries, some a bit higher, some a bit lower, this is showing the central tendency of these different groups.
+
+So as the legend has fallen off the screen, zoom in here, but you will see, for example, that the yellow line is Parliamentary democracies, across the world, and indeed the UK is higher right through to the middle of 2021; after spring 2021 becomes much lower on average, across all these different measures.
+
+**Lead Inquiry**: You have already taken us to the earlier charts, which showed us much more carefully the delay at the beginning. These charts show overall the level of stringency over time.
+
+Are you able to reach a view as to whether, in general terms, the United Kingdom applied non-pharmaceutical measures only when it became apparent that they were unavoidable, because they were delayed and at the time at which they were then imposed we know in the United Kingdom the NHS was believed to be likely to collapse, and then when they're lifted there is then a long period of delay before consideration appears to be given to their reintroduction, and then when they are reintroduced, again, because of the passage of time and the lateness, there is a requirement for those restrictions to be ever more stringently reimposed?
+
+**Professor Thomas Hale**: Correct. So we see this rollercoaster tendency where restrictions are put into place only after it becomes apparent there will be a very severe threat to the health system. That's after a large amount of community spread has begun. Because it's so prevalent at that moment, the restrictions need to be more stringent and to be in place for a longer period of time than might have been the case otherwise, but precisely because sustaining high stringency for a long period comes with costs, there's huge pressure to roll them back sooner rather than later and that leaves, inevitably, some residual virus circulating in the population, which lays the seeds for the next wave to emerge. So this kind of tendency to act too late in the first instance and to take measures away too soon in the second instance does tend to lead to the peaks and troughs that these graphs show.
+
+**Lead Inquiry**: Do later charts and figures, which I won't take you to, show that an analysis, putting together some of the threads that you have identified, of those countries which had significant or substantial testing, contact tracing and isolation systems against those countries which were not obliged to impose NPIs at such high levels of stringency because they had effectively delayed, show that the presence of significant testing, contact tracing and isolation measures allowed countries not to have to react by way of the imposition of such severe stringent measures?
+
+**Professor Thomas Hale**: Indeed. So countries as diverse as Japan, South Korea, Vietnam, others, were able to use testing and tracing measures to maintain a very low level of spread, and, when a new outbreak would emerge, to quickly react to make sure those individuals were not involved in further spreading the virus. That prevented them from getting to the point of a wider population spread, in many instances, that would have required more restrictive stringent measures to control.
+
+So the effective use of these testing measures was a nice way of maintaining a low level of spread and therefore not beginning the rise of the rollercoaster back up the ramp.
+
+**Lead Inquiry**: Did you also find a link between those countries which had that testing capacity and which were able to avoid relatively stringent NPIs and those countries which suffered the most in terms of excess number of deaths, economic performance, and general health impact?
+
+**Professor Thomas Hale**: Correct. So the countries that were riding the rollercoaster were referring from a trifecta of large health impacts, high, long periods of stringency, and negative economic consequences, and those that were able to maintain a low level of spread, perhaps through effective TTI measures, were able to have a better outcome on all three of those measures.
+
+**Lead Inquiry**: Overall, does the literature and the data from your tracker project show that there were some areas of conspicuous success for the United Kingdom: the speed and scope of its genetic sequencing, because that allowed it to be very well placed to assess the emergence of variants and the spread ultimately of the virus; a very considerable and impressive degree of ability to test and survey and keep tabs on the spread of the virus, particularly in the middle and later stages of the pandemic, through surveys such as the ONS COVID-19 Infection Survey; and the speed and extent of the vaccine deployment?
+
+**Professor Thomas Hale**: Correct.
+
+**Lead Inquiry**: But the absence of a test, trace and isolation process ultimately led to the data and the findings which you've reached in relation to the delay and then the repeated reintroduction of extremely stringent and damaging measures?
+
+**Professor Thomas Hale**: We do see consistently that countries that performed well, were able to avoid the rise and fall of cases, deaths and restrictive measures, were those that used the testing, tracing, isolation and support measures effectively, alongside other measures.
+
+**Mr Keith**: Thank you very much.
+
+**Lady Hallett**: Thank you very much indeed, Professor Hale. An extraordinary project.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: I had no idea projects like that were going on, and I think one of my previous witnesses asked for global comparisons, so extremely helpful, thank you.
+
+**The Witness**: You're very welcome.
+
+*(The witness withdrew)*
+
+**Lady Hallett**: Shall we break now for lunch?
+
+**Mr Keith**: Certainly.
+
+**Lady Hallett**: Because I think this afternoon's witness is here, but you'd probably like to have a --
+
+**Mr Keith**: By all means.
+
+**Lady Hallett**: 1.45, please.
+
+*(12.47 pm)*
+
+*(The short adjournment)*
+
+*(1.45 pm)*
+
+**Lady Hallett**: Mr Keith.
+
+**Mr Keith**: My Lady, the next witness is Sir Mark Walport.
+
+Sir Mark Walport
+----------------
+
+*SIR MARK WALPORT (affirmed).*
+
+Questions From Lead Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Could you give the Inquiry your full name, please.
+
+**Sir Mark Walport**: Yes, I'm Sir Mark Jeremy Walport.
+
+**Lead Inquiry**: Sir Mark, you gave evidence in Module 1, so let me welcome you back.
+
+**Sir Mark Walport**: Thank you.
+
+**Lead Inquiry**: And thank you for the provision of a further statement, and this time the Royal Society report, to which I'll turn in a moment, in relation to which were the chair of the expert working group.
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: You are well known to this Inquiry. By practice you specialise in clinical medicine and research as a general physician and rheumatologist. You latterly became head of the division of medicine at Imperial College. You were director of the Wellcome Trust from 2003 to 2013, and, most pertinently perhaps, from April 2013 to September 2017 you were the Government Chief Scientific Adviser?
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: Your successor was Sir Chris Whitty, on an interim basis.
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: He was followed by Sir Patrick Vallance, as is well known. The current incumbent is Dame Angela McLean, and she took up her post in this year, 2023.
+
+You were also the founding chief executive officer of the United Kingdom Research Institute, if I have the acronym --
+
+**Sir Mark Walport**: Research and Innovation.
+
+**Lead Inquiry**: Thank you very much. I began to pause, I wasn't sure I'd got that one right.
+
+The UKRI is an amalgamation, is it not, of what were formerly known as research councils; it provides funding to researchers, businesses, universities, charities, NGOs and the like in relation to the broad field of science and medicine?
+
+**Sir Mark Walport**: Broader than that, actually. So it was created by Act of Parliament, came into existence in 2018, and brought together the seven research councils, which cover everything from the arts and humanities to the biological, physical, medical sciences.
+
+It also brings together the UK's innovation agency, Innovate UK, and also, in the case -- and for all those activities is UK-wide. It also incorporates Research England, which provides infrastructure support for English universities.
+
+**Lead Inquiry**: Could you please, whilst you give evidence -- it's my fault for not reminding you -- try to go as slow as you possibly can.
+
+**Sir Mark Walport**: Sorry.
+
+**Lead Inquiry**: The reason I ask you about the UKRI is that during this pandemic, although you were no longer the Government's Chief Scientific Adviser, did you nevertheless attend no less than 54 meetings of SAGE in your role as the CEO of the UKRI? Why was that?
+
+**Sir Mark Walport**: I did, and it was because an important responsibility for UKRI was funding the research and, indeed, the innovation appropriate to a national emergency. And in the context of that, and actually one of the reasons for the creation of UK Research and Innovation, is that that research included everything from biological sciences around the virus itself right through to the social sciences, funded by the Economic and Social Research Council.
+
+**Lead Inquiry**: So, by virtue of your attendance on SAGE, you were able to be there as the CEO of UKRI in order to prompt the early and rapid funding --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- of the various pieces of work or research or cumulation of data that SAGE required to be done?
+
+**Sir Mark Walport**: Absolutely. It was part of, if you like, a two-way transmission mechanism between the mechanism that provided scientific advice through Sir Patrick Vallance and Sir Chris Whitty, so that we could be sure that the research was relevant wherever possible.
+
+**Lead Inquiry**: As part of your many roles, are you also an elected fellow of the Royal Society, I think a position that you have held since 2011, as well as being its vice president and, wonderfully, its foreign secretary?
+
+**Sir Mark Walport**: Indeed.
+
+**Lead Inquiry**: The Royal Society is, I think, the oldest scientific academy in existence, or at least in continuous existence, having been founded in 1660, but it essentially recognises, promotes and supports excellence in science, and is it by virtue of that function that you came to chair the working group that produced the report that you have exhibited for us?
+
+**Sir Mark Walport**: I was actually asked to chair it before I became the foreign secretary, by virtue of my sort of broad expertise in the area. The foreign secretary bit came later, and reflects the fact that science is global and so the Royal Society from its inception was very international in its outlook to research.
+
+**Lead Inquiry**: The report that the Royal Society has produced, and it forms the heart of your evidence in this module, was produced and published, was it not, in order to set out in general terms what has been learnt about the effectiveness of the application of what we now well understand to be non-pharmaceutical interventions; is that correct?
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: Did the working group which comprised, I think, six groups of researchers, assemble and examine evidence from around the world in order to be able to determine the effectiveness of that application?
+
+**Sir Mark Walport**: Yes, that's correct.
+
+**Lead Inquiry**: NPIs are usefully summarised at page 20 of your report. They're very familiar, of course, to this Inquiry. They're defined in the report as:
+
+"Any measure that is implemented during an infectious disease outbreak to attempt to reduce transmission that is not a vaccine or drug. NPIs can be behavioural, social, physical or regulatory in nature ..."
+
+And they can of course be encouraged to be adopted or applied through a variety of approaches from advice and guidance to the force of law. And they comprise masks and face coverings, social distancing and lockdowns, and over the page, test, trace and isolate, travel restrictions and controls, environmental controls, and communications, which, although not a measure, form an essential part of the debate about the efficacy of non-pharmaceutical interventions?
+
+**Sir Mark Walport**: That's correct. And of course they all have in common that they're intended to reduce the transmission of an infectious disease, in this case a virus, by acting to reduce the exposure of people to the hazard which is, in this case, SARS-CoV-2 virus.
+
+**Lead Inquiry**: At the heart of any examination of NPIs, and of their efficacy, must there be an acknowledgement of the fact that every virus is different, in terms of its forms and degrees of transmissibility, and that the first line of defence, if you like, in relation to dealing with a viral pandemic, particularly a respiratory one, was the application, the consideration of NPIs because there were, of course, in those early days, no antiviral treatment and no vaccine?
+
+**Sir Mark Walport**: That is absolutely correct. There were no specific medical interventions at that stage.
+
+But it's important to recognise that not only do different viruses vary, but the coronavirus itself varied over time, and the main driver for the evolution of a virus or, indeed, a bacteria is to reproduce more effectively. And so, in general, infectious diseases tend to become more transmissible, and so the barrier function of, for example, a mask becomes harder and harder as the transmissibility goes up.
+
+**Lead Inquiry**: In truth, all governments faced a terrible quandary, did they not --
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: -- in the early days of the pandemic, because it was simply not possible to know with any degree of exactitude the nature of the likely spread of the virus, and under that heading one might include a lack of understanding of Covid, of the coronavirus' reproduction number, whether it was asymptomatic or pre-symptomatic, what its incubation period was, what its latent period was, what its generational period was, how quickly it would double in size and so on, all that was unknown?
+
+**Sir Mark Walport**: Absolutely.
+
+**Lead Inquiry**: So to a very large extent the application of non-pharmaceutical interventions took place against a significant background of ignorance?
+
+**Sir Mark Walport**: Yes, that is absolutely right. And whilst the principles of how non-pharmaceutical interventions work, as I've already said, because every infectious disease is slightly different, then policymakers were faced with an extremely difficult challenge, which is new infection, as you say, much not known about it, its clinical features poorly understood, and so -- but nevertheless there were signs that this was a dangerous virus, and so important to take precautionary measures, and apply non-pharmaceutical interventions.
+
+**Lead Inquiry**: Once it became apparent that this was a virus capable of causing death in large numbers as well as severe injury, all governments faced a terrible balance or dichotomy, which was the absence of the imposition of non-pharmaceutical interventions would likely lead to unconscionable numbers of deaths, but the imposition of non-pharmaceutical interventions against that background of ignorance, through no fault of government, would likely lead to terrible cost and damage?
+
+**Sir Mark Walport**: That is absolutely correct, and so a very strong incentive for policymakers to slow the spread of infection. And of course the other thing at the beginning of this pandemic was that it was not known whether it would be possible to make a vaccine or what medical countermeasures might become available. But there's not only the direct consequences of the virus in terms of causing illness, but also the indirect consequences in terms of health systems becoming overwhelmed, the danger of the breakdown of other aspects of national infrastructure. And so every incentive to take quite a strong precautionary principle and do the very best possible to slow or, if possible, to stop the spread of infection. And some countries did take a zero Covid approach from very early on. In other words they tried to eliminate the spread.
+
+**Lead Inquiry**: I'm pleased to say that we shan't be engaging today, Sir Mark --
+
+**Sir Mark Walport**: No.
+
+**Lead Inquiry**: -- in the conceptual debate of suppression versus mitigation --
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: -- but that debate is reflective, isn't it, of one of the many extremely difficult decisions that all governments have to make?
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: At the time of the commencement of the pandemic, was there much by way -- or any objective analytical information or research available to governments as to the likely effects or impacts of this broad range of non-pharmaceutical interventions?
+
+**Sir Mark Walport**: Well, once it became clear, which it did fairly rapidly, that it was transmitted by a respiratory route, then there was a lot of evidence that if you could keep infected people away from uninfected people, that would reduce the transmission. So every reason to think that non-pharmaceutical interventions would be effective, but how effective was unknown.
+
+**Lead Inquiry**: Was there a large or any body of randomised controlled trial work or analysis from empirical data as to how in practice any of these NPIs would work?
+
+**Sir Mark Walport**: No. Minimal information, because so much depends on the transmissibility of the virus, and the details of the route of the transmission. So there was very, very little prior evidence.
+
+**Lead Inquiry**: Do we therefore take it from that that because governments were forced at great speed to apply non-pharmaceutical interventions at the commencement of the pandemic, there was no opportunity for them to be able to put into place at the same time any sort of system for empirical conclusions to be drawn about how effective the steps were that they were putting into place?
+
+**Sir Mark Walport**: I think it would have been extremely difficult, certainly in the absence of prior preparation of protocols. And it's also worth say that if you want to explore the specific effectiveness of one of these non-pharmaceutical interventions, then the perfect experiment is to have a population half of whom do use, half of whom don't, or use a different one. But it was -- policymakers recognised that you need to use non-pharmaceutical interventions in combination, and so there was a priority to introduce measures in combination.
+
+**Lead Inquiry**: And, bluntly, the governments had to get on with the job in hand --
+
+**Sir Mark Walport**: Absolutely.
+
+**Lead Inquiry**: -- and do whatever they could to combat the virus --
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: -- with maximum speed?
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: The study which the Royal Society has therefore carried out is an observational study, is it not?
+
+**Sir Mark Walport**: It's a systematic review of the evidence. In other words, it's to look at all types of evidence. And in some cases there were trials which were deductive, in other words you could compare a group using masks and a group not using masks, but by and large, because non-pharmaceutical interventions were introduced in combination, it was extremely difficult to dissect the relative effects of one non-pharmaceutical intervention against another.
+
+So, to give you a concrete example, when strong social distancing measures are applied, then is the effect due to wearing a mask or to the social distancing? And so the groups reviewed an enormous amount of evidence and came down to a relatively small number of studies, in the hundreds, where it was possible to achieve some deductive information about the effectiveness or otherwise of the non-pharmaceutical interventions. But for those systematic reviewers who are used to working with placebo-controlled clinical trials, they would view the evidence as being far weaker, but on the other hand observational research is important, and indeed, going back through the history of the Royal Society, it's the way we have learnt about all sorts of things. You can't always do an experiment, you have to rely on observational data.
+
+So we did the work in two parts, really, which was to try to work out as much as we could about each of the individual non-pharmaceutical interventions, but we also did a number of country case studies, because that gives you a different observational approach to what happens when things are done in combination. You can learn quite a lot from those.
+
+**Lead Inquiry**: Were those three case studies in fact studies drawn from Hong Kong, New Zealand and South Korea?
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: Finally by way of introduction, the value of the Royal Society's report to this Inquiry is, if I may say so, self-evident, but for what general purposes did the Royal Society engage this valuable piece of work?
+
+**Sir Mark Walport**: Erm --
+
+**Lead Inquiry**: Is it, if I may ask, in order to promote the general learning and understanding of this topic, or did you have an eye towards its use and its importance for the purposes of future crises which might befall us?
+
+**Sir Mark Walport**: I think the answer is both, actually. So research advances through individual discoveries, but importantly it advances through the aggregation of knowledge derived from a variety of studies.
+
+During the pandemic the Royal Society did convene two committees to provide evidence reviews, and so it was a logical extension of that work that, at a time when it was really important to understand the best evidence that we have on the effectiveness of non-pharmaceutical interventions, it was a timely report to produce.
+
+**Lead Inquiry**: It's implicit in what you've said already, Sir Mark, that the review comprised a minute examination of studies and reports and research materials from across the world.
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: One of the core participants has asked the Inquiry to ask of you the extent to which the research covered material produced in or relating to Wales, and I suppose one could draw from that question a wider question, which is: can you say anything about the degree or the proportion of that research material which related to the United Kingdom as opposed to the rest of the world?
+
+**Sir Mark Walport**: I don't think I can answer that question specifically. We deliberately looked worldwide, and the, you know, criteria for inclusion was that it was published in English, and so I can't answer the question specifically with respect to Wales. But I can say, as an example of a study which is actually slightly outside the remit of this, we learnt an enormous amount about the efficacy of the vaccines from studies that were done at a population level in Scotland. So we were more interested in the evidence and its quality than its geographical origins.
+
+**Lead Inquiry**: Thank you very much.
+
+Could we now then turn, please, to the general findings --
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: -- the conclusions reached by the research done by the Royal Society in relation to each of the NPIs, and we'll pick up the thread, if we may, at page 28 of the Royal Society report under the heading of "Masks and face coverings".
+
+In general terms, prior to the Royal Society's report, there was very little material by way of previous systematic reviews into the effectiveness of the wearing of masks, and by masks I mean cloth and medical and respiratory and the whole range of masks; is that correct?
+
+**Sir Mark Walport**: That's correct, yes.
+
+**Lead Inquiry**: The research looked at available evidence in relation to the efficacy of all masks, as I've suggested, respirators, surgical masks and face coverings such as cloth masks; is that correct?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: There were a number of -- 35 observational studies, in fact, which were looked at. And in relation to the effectiveness of masks in reducing SARS-CoV-2 transmission, if we go over the page, did the majority of the studies themselves conclude that masks and mask mandates, by which I presume you mean mandatory orders --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- to wear a mask, reduced infection compared to those studies that found there had been no effect?
+
+**Sir Mark Walport**: Yes. So there were 35 studies in community settings. Three of them were in fact randomised controlled trials, and there were 32 observational studies, and then were a further 40 studies in healthcare settings, one of which was a randomised control trial, and 39 observations.
+
+The majority of those studies, the large majority, showed that the masks were effective. And importantly there was a gradient. In other words, respirator masks were more effective than surgical masks, and mask wearing in the context of a mandate, in other words an instruction with more or less legal force behind it to wear masks, was also more effective.
+
+So, if you like, the plausibility of the results was emphasised by that gradient of effect. In other words, you might expect that a very -- you know, the sort of masks that you'd wear in a -- if you're exposed to a dangerous toxin is much more likely to be effective than a loosely fitting mask.
+
+I should qualify it by saying that there was information about mask wearing in other infections, and in fact there were evidence syntheses, and we've learned about flu as well. So it's not that there was no evidence, but there was no evidence in relation to masks in coronavirus.
+
+**Lead Inquiry**: The issue of mask wearing is a particularly vexed one in the context of the general population. To what extent did the research indicate a level of efficacy for cloth masks of the type that the government might order or mandate a population to wear, so non-medical?
+
+**Sir Mark Walport**: I don't think there were any of the systematic reviews that could distinguish between, say, cloth masks and surgical masks, so I don't think we have information to answer that.
+
+**Lady Hallett**: Was there also, do I remember, conflicting advice about mask wearing and its effectiveness and whether it engendered complacency?
+
+**Sir Mark Walport**: There are lots of interpretations of the evidence, and, you know, this is one of the challenges with observational data. It could be that those who avidly wore masks of any sort were more likely to socially distance themselves. So there are other interpretations. But nevertheless, and particularly, I think, in the healthcare setting, where people are more likely to wear the masks correctly as well -- because anyone who saw mask wearing, a lot of masks were worn underneath the nose where they would do no effect or weren't fitting properly. So it's another case where the fact that actually they were shown to be effective in healthcare settings suggests that there were -- you know, there was, if you like, a causal relationship between the mask wearing and the protection.
+
+**Mr Keith**: The next broad group of NPIs that the research addresses is the social distancing and lockdowns on page 31. Under that heading, does the report include recommendations for people to stay separated from other individuals, as well as legal mandates to stay at home?
+
+**Sir Mark Walport**: There were 34 studies on physical distancing, as opposed to 151 studies that looked at stay at home orders. So the group that did the social distancing and lockdown work divided into, I think, nine different groups of social distancing measures, which included restrictions on mass gatherings, I won't read them all out, but they're listed in the report.
+
+**Lead Inquiry**: Workplace closures, school closures --
+
+**Sir Mark Walport**: Correct.
+
+**Lead Inquiry**: -- care home measures, mass gathering and physical distancing.
+
+In general terms, and I suggested similarly to Professor Hale before you, perhaps not surprisingly, the research showed that these social distancing measures were associated with considerable, that is to say significant, reductions in community level transmission of SARS-CoV-2?
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: Was there a link found between the degree of stringency in the application of these various measures and the degree of reduction in transmission?
+
+**Sir Mark Walport**: Yes, broadly there was. So stay at home orders -- the more stringent the measure, the more effective. The restrictions on mass gatherings were important. But each of them were effective, and of course quite often these were applied in combinations as well, and I think it's important, we will come back to it I think, but NPIs work in combinations, that's the critical thing, but none of them -- I mean, physical separation on its own, if one had been able to physically separate people for a prolonged period of time, would have a very profound effect, but would also be possibly unhealthy in other ways.
+
+**Lead Inquiry**: But a stay at home order --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- will of course encompass necessarily within the effect of such an order a form of social distancing --
+
+**Sir Mark Walport**: Yeah.
+
+**Lead Inquiry**: -- as well as, depending on the width of the social order -- an impact on schools, workplace and --
+
+**Sir Mark Walport**: Absolutely correct. But of course stay at home orders, you know, have to be modified in order to keep a nation working, so key workers would still have to go to work. But correct.
+
+**Lead Inquiry**: One of the more important points in this chapter concerns the recognition of the effectiveness of social distancing and the importance of social distancing in care homes --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- because some of the research showed, quite plainly, that the strict cohorting of staff alongside residents, and restrictions on visitors, was associated with significantly reduced transmission, again unsurprisingly?
+
+**Sir Mark Walport**: Yes. I think that's exactly right. I think that none of this is surprising when you think about the first principles of stopping an infected person infecting an uninfected person. But that is absolutely right: in care homes, if you could restrict the movement of care workers, for example, between different care homes or between different populations, that reduces the chance of anyone infected, in this case an infected care worker, infecting large numbers of people. So that's important.
+
+Equally, if you have got people in a care home who are infected, then keeping the staff that look after them separate from uninfected people is important.
+
+**Lead Inquiry**: Test, trace and isolate.
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: Quite plainly, again, there were a number of papers and research articles to which the report had regard, and some of that material in fact comprised detailed data from the United Kingdom, did it not?
+
+**Sir Mark Walport**: Yes, particularly the app that was used on the Isle of Wight.
+
+**Lead Inquiry**: Was that when the government introduced by way of experiment a non -- I think it was a non-Apple, non-Google app, and they applied it across the Isle of Wight to see what the response would be and whether or not it was effective in ensuring compliance with --
+
+**Sir Mark Walport**: That is correct.
+
+**Lead Inquiry**: -- social distancing.
+
+**Sir Mark Walport**: The evidence overall is strong that if test, trace and isolate is applied early, and effectively, then it's actually quite a powerful measure, and we may come back to it when it comes to the discussion of Korea.
+
+But almost all of these interventions -- the other thing we haven't specifically talked about is sort of the force of transmission. In other words, when there are a very large number of cases in a community, so the exposure goes up. And in the case of test, trace and isolate, when you've got very many cases then it's very difficult to apply it at a national level. So with all of this, early application is important.
+
+**Lead Inquiry**: That's a point, if I may suggest, of enormous importance in the case of the United Kingdom, because the position was, wasn't it -- and it's well established -- that there was no significant or comprehensive test, trace, isolate system in the United Kingdom in the early days?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: What the evidence from South Korea, along with New Zealand, Australia and a number of other countries shows, that if there is in place such a system, it becomes possible for the government to be able to control the spread of the virus before it runs away?
+
+**Sir Mark Walport**: Yes. I think that is correct. It is, of course, difficult to extrapolate between different countries, because of course the application of all of these non-pharmaceutical interventions depends on all sorts of social and cultural issues as well.
+
+**Lead Inquiry**: Of course.
+
+**Sir Mark Walport**: Korea was very well prepared because it had had the outbreak of MERS in 2015, and I think it's fair to say that not only the government was more prepared but the community was aware of what happens when you have a dangerous virus in your country, and so they were able to adopt -- so testing on its own with sort of voluntary isolation doesn't work nearly as well as if you've got very systematic testing, coupled with the tracing and the isolation. Those are the key other elements.
+
+**Lead Inquiry**: Therefore is the key feature to a system, a comprehensive scaled-up system of test, trace, contact and isolate --
+
+**Sir Mark Walport**: Yeah.
+
+**Lead Inquiry**: -- that it is necessary but not sufficient, because it may only work either at the beginning of a pandemic or during the course of a pandemic below certain levels of incidence, that is to say the spread of the virus or the level of incidence of the virus has to be below a point at which the system of test and trace can work in practice?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: If the level of incidence is too high, no system of test and trace, however sophisticated, could get on top of the problem?
+
+**Sir Mark Walport**: When the level is very high, then, you know, essentially you end up testing, tracing and isolating the whole country, which is where you need -- you get to lockdown measures. So it is exactly as you describe, it's when you have geographically limited and low levels that you can remain able to test at sufficient scale and bring it under control without locking down everyone.
+
+**Lead Inquiry**: We may never know what the effect would have been had the United Kingdom had a comprehensive scaled-up test and trace, isolate system at the beginning, but is there anything that can be said about the levels of incidence, the incidence -- the level of spread of the virus, in the early days in the United Kingdom?
+
+**Sir Mark Walport**: Well, the one thing we do know is that in February of 2020 there were about 1,500 independent importation of cases which was across the whole nation from people who'd been away during the half term school holidays in Italy, Spain and Switzerland, who had been on skiing holidays, and because they were a young and fairly fit population, they managed -- the sort of severe morbidity wasn't really seen in that population. So the UK was hit in a very widespread way very early. We didn't have tests nearly as early at scale as Korea did. So a lot of this comes back to the evidence I gave actually in Module 1, which is: the real challenge for nations is to be prepared.
+
+**Lead Inquiry**: Of course. And were genomic studies in fact subsequently carried out, in particular a main study in the summer of 2020, which was able to trace back the genetic origin of a large number of infections --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- in the United Kingdom to viral infections in France, Spain, and Italy?
+
+**Sir Mark Walport**: Yes. That is correct. And as a result of that we knew that these were independent introductions.
+
+**Lead Inquiry**: There was what is known as a widespread -- well, a spreading, a wide spreading of individual separate infections across the United Kingdom?
+
+**Sir Mark Walport**: Yes. I think it's -- may go slightly beyond this report, but there were important sort of chance events in different countries that altered their experience of the disease, and obviously those countries that are extremely well connected global transport hubs were at more -- had more exposure early on.
+
+**Lead Inquiry**: You make the point on page 35, in addition, that even where Covid-19 cases are higher, so even where there is a higher incidence, test, trace and isolation may still have an important role to play, because of course it can still suppress -- perhaps only around the outer margins -- but it can still suppress the virus, even if it's not able to completely control its spread?
+
+**Sir Mark Walport**: Well, that comes back to the need for the combination of measures, and so ... but, I mean, you need a very high intensity of testing if you're going to be able to effect it when there's -- the question is really whether the outbreak is geographically localised or whether it's spread.
+
+**Lead Inquiry**: Well, that leads us on very neatly to the next broad area of NPIs, travel restrictions and controls across international borders. Does that cover, in fact, quite a wide range of measures from screening --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- checking people's temperatures when they come across a border or looking for signs of fever, all the way across the spectrum of measure to shutting a border or only allowing people in with full isolation and quarantine?
+
+**Sir Mark Walport**: It does, and it includes a quarantine as part of it as well. So shutting a border completely is extremely difficult for almost any country in the world, because we all -- most countries depend on the importation of goods and services, and so how do you deal with the necessity for people to come in? And of course quarantine is then a very powerful tool for that.
+
+**Lead Inquiry**: Starting at one end --
+
+**Sir Mark Walport**: Yeah.
+
+**Lead Inquiry**: -- does the research show that screening measures were particularly effective in controlling the spread of the virus?
+
+**Sir Mark Walport**: Screening measures were very weakly helpful, because of the incidence of asymptomatic infection.
+
+**Lead Inquiry**: Could you just elaborate, please, on that?
+
+**Sir Mark Walport**: Yes. So if you have someone that you're screening on the basis of the fact that they have a temperature or they're coughing at the border, that will only pick up people who have symptomatic infection. On the other hand, it may be that there are people who are either infected but have no symptoms, or in fact are in the earliest days of an infection, and even a PCR test might not become positive for two or three days after they've crossed the border. So simply health screening on its own, even with a one-off PCR test at the border, will leak, people will leak through who have the infection.
+
+**Lead Inquiry**: And standing back, of course every government which is considering any sort of border measure has to grapple with the conundrum of what the impact would be of the imposition of border measures in terms of trade, travel, and that presents an even greater problem for those countries like the United Kingdom which are more interconnected and engage in greater levels of trade than some others?
+
+**Sir Mark Walport**: Yes, that is correct, and there's also the question of the prevalence of the virus in the country that people are coming to, compared with the country they're coming from. So if you're coming from a country which has the same variant at the same level, border controls won't have much efficacy. On the other hand, if they're coming from a country with a much higher rate of the virus, then they are potentially very important and also when you've got new variants emerging you may be able to slow them down.
+
+**Lead Inquiry**: And if a country already has Covid established in it, stopping individual members of the public travelling into that country will be like -- well, allowing them in might be, I think it's been described as throwing a lit match onto an already raging fire.
+
+**Sir Mark Walport**: Yes, but with the exception that if there are new variants emerging, then that may still be relevant. But I think the real point about the travel measures is that, again, you have to implement a comprehensive package for them to be effective. And I think New Zealand is quite an interesting example we'll come to, where they have the advantage that they're geographically isolated -- I mean, basically you get there by plane or occasionally by boat, ship -- but they found, even with the most stringent application of border controls, there would still be influx into the country. So, for example, at the border it may be that a border official or someone supervising a quarantine facility could become infected and carry the infection into the country. So border controls are only effective in the context of other stringent measures as well.
+
+**Lead Inquiry**: So that we may be clear, in those small number of countries where rigorous border closures enabled those countries to keep a tight grip on the virus and, by and large, thereafter to avoid long, stringent --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- national lockdowns, for example, those border closures were coupled with other NPIs, but in particular TTI, test and trace?
+
+**Sir Mark Walport**: Absolutely, it was test, trace and isolate coupled with border controls, and of course it was found that long periods of quarantine were more effective than short, that compulsory quarantine was more effective than voluntary quarantine, and later on in the pandemic it was found that you could probably reduce quarantine times if you did daily testing. But effective quarantine, if you're trying to keep your border as a barrier, is -- was an essential feature as well.
+
+**Lead Inquiry**: The next broad area is that of environmental controls, on page 39. In the general scheme of things, if the rubric or the aim is to control the spread of a virus, how important are environmental measures such as air cleaning devices, ventilation, surface disinfection, screens and so on?
+
+**Sir Mark Walport**: I'd say that, disappointingly, this was the area where there is the weakest experimental evidence, and there are a small number of observational studies that show -- appear to show the effectiveness of environmental measures, and that's everything from reducing the number of people in an environment to increasing ventilation.
+
+Again, everything that is known about the transmission of infection says that one way of reducing the exposure to exhaled virus is to increase the ventilation, so having open windows, increasing air flow, but there is remarkably little rigorous evidence that could be adduced, and I think it's one of those cases where absence of evidence should not be taken to be evidence of absence. In other words, because we can't demonstrate it doesn't mean that there wasn't an effect.
+
+**Lead Inquiry**: So we must leave it on the basis that there may well have been some beneficial outcome, but it's impossible to quantify it?
+
+**Sir Mark Walport**: I think that's right, and of course one of the purposes of the report was to provide recommendations for how we might fill evidence gaps in the future, and there is a clear opportunity to gather evidence when it comes to environmental controls.
+
+**Lead Inquiry**: Then the impact of communication.
+
+Was that -- you've already described how that's not strictly a measure or an NPI, but it's an extremely important facet of non-pharmaceutical interventions because unless the community adopts and complies with them, then their efficacy would be significantly underwhelmed.
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: Was this a topic in which you looked specifically at the United Kingdom position?
+
+**Sir Mark Walport**: We did, because the cultural context of communication is so specific, so we restricted ourself in this case to the United Kingdom.
+
+Of course communication interfaces with all sorts of other cultural aspects of society, so for example social cohesion, altruism, all sorts of features of society.
+
+So we did restrict ourselves, and the evidence is that people did largely comply, so the communication was working overall, although there were certain features about the communication such as the trusted communicator, persuasion rather than coercion, a number of features like that that were more likely to engender trust, because trust in the communications is extremely important, and the corollary of trust is trustworthiness, and so communicators who were seen to be trustworthy were, by and large, well trusted.
+
+**Lead Inquiry**: Two points arising therefrom, please, Sir Mark. Firstly, was trust found to be the most common factor in terms of impacting upon the effectiveness of communication?
+
+**Sir Mark Walport**: I think it's a major factor, but clarity, consistency, a balance between, whilst being authoritative in, as it were, the reliability of the information, not being too controlling. So ... but, I mean, all of that in a way integrates into --
+
+**Lead Inquiry**: Trust?
+
+**Sir Mark Walport**: -- trust.
+
+**Lead Inquiry**: I in fact was reading out the words of the report itself, Sir Mark:
+
+"Trust was the most common factor impacting communication effectively."
+
+**Sir Mark Walport**: Yes. Absolutely.
+
+**Lead Inquiry**: Thank you.
+
+Secondly, could you just elaborate, please, on the importance of knowledgeable and trusted local groups and leaders as communicators? So in the particular context of members of ethnic minorities, how important is the existence of knowledgeable and trusted local leaders in the communication of NPIs and the promotion of trust?
+
+**Sir Mark Walport**: I think one can extrapolate from advice, say, on vaccines to NPIs, because I think there is a sort of common denominator; and certainly when it comes to improving uptake of vaccines, then there's pretty good evidence that people trust people who they feel are like them, in similar cultures, more. So it is important to have that communication distributed and reflecting the diverse nature of a community.
+
+**Lead Inquiry**: Three subissues, if I may.
+
+Firstly, how important in the development of trust and promulgation of effective communication is the need of consistent messaging and the absence of conflicting or changing messages?
+
+**Sir Mark Walport**: I think that there is little doubt that consistent messaging is extremely important, and that then takes us to how uncertainty is communicated as well. And uncertainty is sometimes communicated as: X has one opinion and Y has a completely opposite one, and that then sends very confusing messages.
+
+**Lead Inquiry**: Because you were looking technically at research emanating from the United Kingdom, was one of the findings of the report that government guidance in the United Kingdom -- which had, as we know, changed multiple times, and of course changed across devolved administrations as opposed to the United Kingdom -- led to the potential for non-compliance, simply because people became either confused or desensitised?
+
+**Sir Mark Walport**: Yes. I'm not sure that the evidence is that rigorous on that, but I think it's a reasonable interpretation of what happened.
+
+**Lead Inquiry**: Thirdly, to what extent is an absence of scientific certainty damaging to the efficiency or efficacy of communication? So, putting it bluntly, to what extent does a population need to know the scientific basis for what it's being told in order to make it comply?
+
+**Sir Mark Walport**: Well, but that's an interesting question, but it goes back to the start of the pandemic and even at the end there were huge numbers of things we didn't know, and actually an important part of the communication is to communicate what is not known as well as what is known.
+
+So, whilst everyone would like perfect answers as soon as possible, we started with hardly any specific answers, we had generic answers, and so that I think is a sort of more general issue of communication of uncertainty and the communication of science in general.
+
+It's the whole nature of science to be sceptical, actually, to want further evidence. And I think the evidence is actually that the public, and there isn't one public, but public audiences did accept and understand the fact that there are things which were not known.
+
+**Lead Inquiry**: The say the whole nature of science is to be sceptical; was it you who described scientists as licensed dissidents in --
+
+**Sir Mark Walport**: No, it wasn't me, but --
+
+**Lead Inquiry**: It could have been?
+
+**Sir Mark Walport**: It could have been, but it wasn't, no.
+
+**Lead Inquiry**: Therefore, in conclusion on this part of the report, do you call, in fact on page 44, for governments in future to convey information clearly with consistent messages, there we are at the top right-hand corner --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- to convey information by trusted sources such as health authorities, but in fact there's a reference back to knowledgeable and trusted local group leaders?
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: And, thirdly, there must be a proper balance struck between authoritarianism and optional --
+
+**Sir Mark Walport**: Yes, those were the summary of the evidence review there. That's correct.
+
+**Lead Inquiry**: You then turn, or rather the report then turns to a cross-national comparison of NPI effectiveness. You are aware, of course, of the report from Professor Tom Hale?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: You may indeed have seen his evidence earlier today. In broad terms, are the conclusions from the Royal Society report very similar, although they come at it from a different angle, to the conclusions reached by Professor Hale to the effect that the more stringent an NPI, the more effective it is likely to be, and also that the availability of comprehensive scaled-up test and trace and isolation measures are likely to be of the very greatest importance in being able to keep control or to regain control of a virus?
+
+**Sir Mark Walport**: Yes. I read Professor Hale's report, I was sort of locked away in a room out there whilst he was giving his evidence, so I didn't hear it, but I enjoyed his paper and actually I was pleased that it was very complementary to the paper produced by the Royal Society, so he came from the observational angle of looking at policy implementation in different countries across the world and correlating it with Covid cases --
+
+**Lead Inquiry**: When you say complementary, I should just make plain, you mean it went --
+
+**Sir Mark Walport**: It complemented --
+
+**Lead Inquiry**: -- very well alongside it --
+
+**Sir Mark Walport**: Yes, correct.
+
+**Lead Inquiry**: -- complemented it, rather than being very nice about it?
+
+**Sir Mark Walport**: Yes, correct.
+
+**Lady Hallett**: Complement with an E.
+
+**Sir Mark Walport**: Yes, with an E.
+
+**Mr Keith**: Yes, indeed.
+
+**Sir Mark Walport**: Exactly. I did my research on a system of proteins called complement, with an E, and people used to misspell it all the time, so ...
+
+But, yes, and of course the angle from the Royal Society report was to do a systematic review of the evidence directly, but when it came to our national case studies, they fit more with the approach that was taken by Professor Hale.
+
+**Lead Inquiry**: Could we then turn briefly to those three case studies --
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: -- that's to say Hong Kong, New Zealand and South Korea.
+
+I don't want you to give an account of how the Hong Kong authorities proceeded throughout the whole --
+
+**Sir Mark Walport**: No.
+
+**Lead Inquiry**: -- course of the pandemic in relation to their imposition of NPIs, but focusing on the broad thrust, the -- and painting it in a very general term, in a very general way, the Hong Kong authorities applied, very early on, stringent NPIs because of boundary closures in early February, a full quarantine policy, either at home or in a hotel, from March for travellers arriving from Europe and North America, and then from July quarantine for all arriving persons. Is that a fair summary?
+
+**Sir Mark Walport**: Yeah.
+
+**Lead Inquiry**: And therefore they were able -- or rather the virus never escaped their control?
+
+**Sir Mark Walport**: It escaped -- they were able to keep it under control, so, yes, it didn't escape in the sense that it was there --
+
+**Lead Inquiry**: Indeed.
+
+**Sir Mark Walport**: -- but at very low level.
+
+**Lead Inquiry**: And where it popped up, the system for test and trace and in particular isolation was able to deal with outbreaks of the virus over time?
+
+**Sir Mark Walport**: Yes, that's correct.
+
+**Lead Inquiry**: But where Hong Kong suffered terribly was that when these stringent NPIs were lifted, it became apparent that the levels of vaccination in the population were not as they should have been, there were very large numbers of elderly members of the Hong Kong population who were not vaccinated and so when in particular Omicron broke through --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- they were vulnerable and they died in very large numbers?
+
+**Sir Mark Walport**: That is correct.
+
+**Lead Inquiry**: So Hong Kong is a very good example of the beneficial impact of go early, go hard in terms of the early imposition of stringent NPIs?
+
+**Sir Mark Walport**: That is correct.
+
+**Lead Inquiry**: With vaccination?
+
+**Sir Mark Walport**: That is correct, and of course that was the remarkable thing about this pandemic, which is that within a year of the pandemic starting there were vaccines that stopped people dying. So, yes, but that's a correct analysis.
+
+**Lead Inquiry**: New Zealand recorded its first case of Covid-19 on 28 February, not entirely different to the United Kingdom, but two weeks later on 14 March it was announced that anyone entering the country must self-isolate for 14 days, border controls became increasingly tightened until the point, at 9 April, when only New Zealand citizens and residents were permitted to enter the country at all, and even they had to undergo a 14-day quarantine.
+
+**Sir Mark Walport**: Yes, a compulsory quarantine which was observed, as it were, yeah.
+
+**Lead Inquiry**: Therefore although there was a one-month strict lockdown and a whole series of local lockdowns, so attempts to suppress local outbreaks, and a fairly low level of domestic NPIs imposed, New Zealand remained mostly transmission free until late 2021?
+
+**Sir Mark Walport**: Yes, that's correct. I think New Zealand provides a very clear illustration of what is needed to make border controls work, because we do have very good data, and what they found was that in spite of having rigorous quarantine there were still cases that were brought into the community by probably people working in and around the borders, and by using testing, tracing and isolation they were able to keep those under control, but from time to time there were then episodes that suggested there was domestic transmission occurring, so you wouldn't have been able to do contact tracing right back to the border, and under those circumstances they imposed quite strong localised lockdowns.
+
+So I think it's an extremely good example of how, if you're going to make border closures work, you have to do a whole lot of other things as well.
+
+**Lead Inquiry**: And you must make clear, mustn't you, that -- again to repeat perhaps the obvious -- we will never know whether the United Kingdom, had it had a developed system for test, trace and isolate and had it had quarantine facilities, and had it had the geographical, the population density and the socioeconomic conditions which apply in New Zealand, would have been able to keep the virus under similar control?
+
+**Sir Mark Walport**: That is absolutely correct. So we have a much larger population, a much higher population density and interconnectedness, and although we are an island, we are an island with only a short sea barrier to other parts, lots of shipping, and so it is very, very difficult to extrapolate from one country to another.
+
+**Lead Inquiry**: But what is clear is that the New Zealand imposition of border controls was, by the general scheme of things, applied very early?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: And secondly, whether or not it was to do with the early application of those border NPIs, they didn't appear to have suffered in the same way that the United Kingdom did from multiple, indeed nationwide, seeding of infection in those weeks in February?
+
+**Sir Mark Walport**: Well, that's true, but in fact, I mean, the full rigorous quarantining in New Zealand didn't happen until 9 April, they had a more voluntary policy until then, and of course in the UK by 14 March we'd already had a very substantial introduction of cases, and they did have actually in New Zealand quite a long national lockdown as well. So -- but, I mean, the general principle is correct that having controlled the first major outbreak, then after that they were able to maintain it by rigorous border controls coupled with other measures.
+
+**Lead Inquiry**: And by 14 March, anybody entering the country had to self-isolate for 14 days?
+
+**Sir Mark Walport**: Yes, that's correct.
+
+**Lead Inquiry**: So had there been multiple seedings around that time in New Zealand -- and we will never know whether there were or not -- there is at least the prospect that that mandatory self-isolation would have had a beneficial impact?
+
+**Sir Mark Walport**: Yes. What I can't tell you is how effective that self-isolation was.
+
+**Lead Inquiry**: Indeed.
+
+Then finally South Korea. South Korea's population is 51.4 million, so I think 15 to 20 million perhaps shy of the United Kingdom's, so not entirely unequal in size. It, it is very well known, experienced an outbreak of MERS which had of course, although more localised, a high-consequence infectious disease, had a much higher rate of fatality?
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: And it had also therefore put into place and developed much more active measures for the control of disease?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: The SARS-CoV-2, Coronavirus 2, infection was first identified in South Korea on 20 January 2020. On 23 February, public health authorities raised the infectious disease alert to the highest level, and then combined NPIs were applied over time.
+
+Did South Korea have a very sophisticated and developed system for community based screening, for test and trace, and in terms of contact and isolation, very sophisticated systems for electronic --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- contact tracing?
+
+So people could be traced through credit card or debit card use, through CCTV, through their location --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- because of mobile phone use --
+
+**Sir Mark Walport**: Yep.
+
+**Lead Inquiry**: -- and so on and so forth?
+
+What was the outcome of the application in general terms of that level of stringent NPI?
+
+**Sir Mark Walport**: Well, they managed to avoid the need to have a lockdown, so ... but they were -- it illustrates the necessity of being prepared. So they had learnt a lot, as I said earlier, from the MERS outbreak, they'd strengthened their epidemic intelligence service, and so they were prepared to develop an extensive test, trace and isolate very early. And in fact the sort of kinetics of the South Korean infection was very similar to the UK, I mean, the first UK case was in January as well.
+
+So with a much, much more rigorous enforcement of the tracing and the isolation, they avoided a national lockdown. They had some very large superspreader events around certain religious organisations on a couple of occasions.
+
+**Lead Inquiry**: But notwithstanding those superspreader events, their system for NPIs or their system of measures enabled them to circumnavigate --
+
+**Sir Mark Walport**: That's correct.
+
+**Lead Inquiry**: -- the pandemic in a very different way to us.
+
+They were able, were they not, to gain approval for a diagnostic test at a relatively early stage --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- on 4 February? And does other evidence show that by late March they were testing individual members of the population at a prodigious level --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- way ahead --
+
+**Sir Mark Walport**: They scaled up --
+
+**Lead Inquiry**: -- of the United Kingdom?
+
+**Sir Mark Walport**: -- way ahead of, I would need to check but I suspect almost every other country in the world. They were very, very fast.
+
+**Lead Inquiry**: The report draws the threads together in a number of messages, if I may call them that, from page 63 onwards, Sir Mark.
+
+I needn't, I think, trouble with the summaries that are set out there in relation to the need for going early, go hard, and for the link between stringency and reduction in transmission, because you've covered that.
+
+But, on page 64, you make these points: firstly, on the basis of strict early application of NPIs, it is obvious that it was that combination of NPIs that was crucial in terms of efficacy?
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: Secondly, that the value of a proper test, trace and isolate system is enormous, it is perhaps the core NPI if the aim or the goal is to stop a runaway infection or to try to regain control.
+
+Third, as you've already indicated, it is not possible however to reach counterfactual conclusions, "What might have happened here if", and so on.
+
+Fourth, the key lesson to researchers is to be prepared, because it is only by understanding as fully as we may the impact of non-pharmaceutical interventions will we appreciate the vital importance of test and trace, and of ensuring that a combination of NPIs next time is used at the earliest possible moment?
+
+**Sir Mark Walport**: Yes. So I'd qualify what you've just said, I think, in two ways.
+
+Firstly, the effectiveness of non-pharmaceutical interventions does depend on the transmissibility of the virus, and so no country in the world was essentially able to control it once the Omicron variant came out. That was the point at which China, with its very rigorous restrictions for mobility, just couldn't achieve it any more. So there is always that.
+
+But that is another argument for acting early, because now that we know that there is the potential for developing a vaccine during the lifetime, then your best chance of doing that is as fast as possible before the virus has had a chance to evolve to be more transmissible, because that's what they will do.
+
+**Lead Inquiry**: Just pause there.
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: One other ancillary benefit of stopping the spread of the virus is to stop, of course, the likelihood of variants but also to stop the prevalence of syndromes such as Long Covid which come, of course, by way of injury from the widespread --
+
+**Sir Mark Walport**: Well, that is correct, and also to avoid the need for prolonged periods of restriction of people's liberty with all of the consequences that that brings. So being quick and being stringent is very important.
+
+My qualification of the second comment you made, which is about how we acquire the evidence in the future: that isn't just for scientists, that is for policymakers as well. In other words, what we need in any pandemic, and indeed for public health as a whole, is high quality data, and so ideally protocols need to be developed for how one might deal with the observational data in a future pandemic, because researchers can't do it in the context of an environment that doesn't allow them to.
+
+And so I think working with policymakers to agree potential protocols, to agree the sort of information that's needed is really important, and ideally this should be international, because you can learn things by comparing country A with country B, with the caveats of all the sort of cultural issues we've been discussing.
+
+So ... but I think the scientific community, if there had been protocols of the sort that ISARIC, for example, had had in terms of the clinical description that I talked about in my evidence in Module 1, the International Severe Acture Respiratory Infection Consortium, they had protocols that they developed ten years ago, and so were able to activate their studies very, very quickly, within days of the pandemic starting.
+
+**Lead Inquiry**: To drill down just for a moment in two aspects of that very helpful answer.
+
+Firstly, do you set out in the report the need for therefore systems of accumulation of data and research to be put into place, so you say there needs to be during the interpandemic period --
+
+**Sir Mark Walport**: Yes.
+
+**Lead Inquiry**: -- the interregnum before the next pandemic, the pre-positioning of national and international research consortia and networks, data infrastructures, methodological protocols and mechanisms for the collection of data? And do you mean by that we need to know in much greater detail what the likely consequences are of viral infection in terms of transmissibility and the epidemiological impact, but also much more about the NPIs which may be deployed in future to be able to combat it?
+
+**Sir Mark Walport**: Yes, and the analogy is with drugs and vaccines where, because there were protocols that could be applied during the pandemic, we learnt very rigorously and deductively about the effectiveness of, for example, dexamethasone in saving lives in people in intensive care units, in learning which monoclonal antibody therapies were -- anti-inflammatory therapies were effective and which weren't.
+
+In the same way, if we had very good continuous evidence collection during the pandemic, we might learn more in real time about the effectiveness of different measures at different times.
+
+As I've described, however, in relation to environmental measures, there are some things one can learn from experimental studies between pandemics. So it's perfectly possible to understand the distribution of particles of viral size in closed spaces, what ventilation might do. Some of that work is already done.
+
+But at the start we didn't really know the balance of -- the importance of washing hands and cleaning surfaces. We do know that actually enteric infections -- so infections of the gut -- decreased, and we also know about the effectiveness, to some extent, of the non-pharmaceutical interventions from the fact that influenza and respiratory syncytial virus infections dropped during the pandemic.
+
+But ultimately each infection is --
+
+**Lead Inquiry**: Is different?
+
+**Sir Mark Walport**: -- itself, yeah.
+
+**Lead Inquiry**: Lastly, in the context --
+
+**Lady Hallett**: Is this last?
+
+**Mr Keith**: Yes, this is the last --
+
+**Lady Hallett**: It's just that I've been asked to take a break.
+
+**Mr Keith**: This is the last question.
+
+In the context of your earlier answer about the terrible conundrum faced by governments in relation to whether or not to impose non-pharmaceutical interventions, do you call for a much closer examination of -- call for the need for a new structure or a framework or a policy by which the relative benefits and costs of alternative steps which could be taken by a government are examined? So a cost-benefit analysis, what Lord O'Donnell, you might know, has described as a wellbeing cost-benefit analysis?
+
+**Sir Mark Walport**: Well, I think one of the things we say in the report is that there were costs in other domains of life, economic, people's wellbeing, education, and those need to be analysed as well. And I wouldn't dare to tell policymakers what the answer should be, but policymakers will always make the best decisions, one hopes, if they have all the evidence, and so you need evidence on all sides of the equation.
+
+**Mr Keith**: Thank you.
+
+My Lady, that does conclude the evidence of Sir Mark.
+
+**Lady Hallett**: Sorry, I wasn't trying to hurry you.
+
+**Mr Keith**: No, no, I had referred to the possibility that it was the last and final area about three times.
+
+**Lady Hallett**: I'm not sure you're being fair on yourself there, Mr Keith.
+
+Questions From the Chair
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Can I just ask one question, and this positively is the last.
+
+Given the importance you place or the study -- your report places on having a scalable system of test, trace and isolate --
+
+**Sir Mark Walport**: Yes.
+
+**Lady Hallett**: -- have you got any estimation of what our position is like today here in the UK?
+
+**Sir Mark Walport**: I think it is not as strong as we would like it to be. But that is a judgement, and I should probably resist it.
+
+**Lady Hallett**: And I didn't give you notice of the question, but I thought I'd just --
+
+**Sir Mark Walport**: I think there is much more to do, and we talked in my last appearance about the work of Dr Kirchhelle, who is one of your advisers, on the history of public health, and I think that the disinvestment in public health, not just in the UK but in the richer countries of the world, needs to be tackled. But that is a personal opinion rather than the sort of -- yes. It goes beyond this report, that's for sure.
+
+**Lady Hallett**: Thank you very much, Sir Mark, I'm very grateful. I hope we're not imposing on you too much. I have a feeling we may impose on you again, if we may, but I don't know, I haven't checked with the other modules. But I'm extremely grateful to you again for all your help.
+
+**The Witness**: Thank you, my Lady.
+
+**Mr Keith**: I very much regret to say that it was Sir Mark's first question this afternoon --
+
+**Lady Hallett**: Oh, would we impose on him again?
+
+**Mr Keith**: -- would you be wishing to see him again?
+
+My Lady, that concludes --
+
+**Lady Hallett**: The problem is we do have a module specifically on health, you see, Sir Mark, so it's just possible.
+
+**The Witness**: Okay.
+
+*(The witness withdrew)*
+
+**Mr Keith**: That concludes today's evidence.
+
+**Lady Hallett**: Thank you all very much indeed. 10 o'clock tomorrow, please.
+
+*(3.02 pm)*
+
+*(The hearing adjourned until 10 am on Thursday, 12 October 2023)*
+
