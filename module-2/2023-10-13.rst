@@ -1,0 +1,1868 @@
+Transcript of Module 2 Public Hearing on 13 October 2023
+========================================================
+
+*(10.00 am)*
+
+*(Proceedings delayed)*
+
+*(10.04 am)*
+
+**Lady Hallett**: Mr Keith.
+
+**Mr Keith**: Good morning, my Lady. May I please call Alex Thomas.
+
+Mr Alex Thomas
+--------------
+
+*MR ALEX THOMAS (affirmed).*
+
+Questions From Lead Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Keith**: Could you give the Inquiry, please, your full name.
+
+**Mr Alex Thomas**: Alex Thomas.
+
+**Lead Inquiry**: Mr Thomas, thank you for the assistance that you have already provided to the Inquiry by way of the provision of an expert report, largely focused upon the core political and administrative decision-making which is the focus of this module.
+
+You prepared that report in advance, of course, of Module 2. Did you, as we can see there, provide a statement at the bottom of the first page confirming it's your own work and that the facts are within your knowledge and of course acknowledging your duty to provide independent evidence?
+
+**Mr Alex Thomas**: Yes, I did.
+
+**Lead Inquiry**: You are, as it happens, a programme director at a non-partisan think tank called the Institute for Government?
+
+**Mr Alex Thomas**: I am.
+
+**Lead Inquiry**: What is the Institute for Government, please?
+
+**Mr Alex Thomas**: The Institute for Government, as you say, is a non-partisan think tank founded about 15 years ago with the objective of making government more effective.
+
+**Lead Inquiry**: You are a programme director there. Do you still do the heavy lifting, or are you in a senior management responsibility role?
+
+**Mr Alex Thomas**: I lead our work on the civil service and policy making. That involves leading a small team of six or seven people, of researchers. They do a lot of the heavy lifting but I do do research and analysis myself.
+
+**Lead Inquiry**: Whilst you give evidence, Mr Thomas, could I please remind you to keep your answers as slow as you humanly can.
+
+**Mr Alex Thomas**: I will do my best.
+
+**Lead Inquiry**: Is, therefore, your report the product solely of your own research, opinions, conclusions and views, or have you drawn upon work and research done by members of your IFG team?
+
+**Mr Alex Thomas**: The report is a collection of the most relevant research that we, as a IFG team, have done. Some of it is my own work, my team's work, but it does reflect contributions and analysis from colleagues, but all of which I would stand by based on my own judgement and experience.
+
+**Lead Inquiry**: The Institute for Government has already published, has it not, during the course of the pandemic, a number of articles, reports and pieces of learning in relation to aspects of the government's response?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: From March 2020 through in fact to December 2021, have you either contributed to or published yourself a number of reports looking at the government and civil service, touching upon issues such as the government's initial response, the Prime Minister's management style, coronavirus announcements, confusion over lockdowns and the imposition of tier restrictions, governance, the relaxation of rules, and so on? So really across the wide, broad breadth of the government's response.
+
+**Mr Alex Thomas**: That's correct. The way we produce work at the IFG is a mix of reflective research reports, of which I've authored or been a co-author of some directly focused on the pandemic, others that touch on aspects of the pandemic, but also more short-term, reactive, what we call comment pieces, which are, you know, 800 to 1000 words responding to events as they emerged over the course of the pandemic, but also across the whole of government business.
+
+**Lead Inquiry**: In the interests of transparency, do you confirm that in fact you were previously a civil servant from 2003 to the end of 2019, and during that time, part of that time, from 2011 to 2019, were you a senior civil servant?
+
+**Mr Alex Thomas**: That's correct.
+
+**Lead Inquiry**: In the course of your job as a senior civil servant and before that a civil servant, did you work in a number of government departments, including what was then Department for Environment, Food and Rural Affairs, the Cabinet Office, the Department of Health and Social Care, the Cabinet Office again, and ultimately I think you concluded your career in the civil service in the Department for Environment, Food and Rural Affairs?
+
+**Mr Alex Thomas**: That's correct.
+
+**Lead Inquiry**: All right.
+
+Does your report focus on the "how" of government? That is to say how it works, how efficient it is, and its capacity, its ability to do things, as opposed to the policies that it may produce from time to time?
+
+**Mr Alex Thomas**: It does. The remit of the Institute for Government as a whole is more about the "how" of government than the policy "what" of government. We tend to take the government's objectives as stated and then work on the administration of them and how to make them more effective. That's reflected in the evidence I've provided.
+
+**Lead Inquiry**: Do you tell the government what specifically it should do, or do you comment on the capacity and capability of the things that it has done?
+
+**Mr Alex Thomas**: We do both. So we will analyse what government has done, while making recommendations about how to improve the processes of government.
+
+**Lead Inquiry**: To improve the processes of government or to take specific decisions differently in the future?
+
+**Mr Alex Thomas**: I think there is inevitably something of a blurred line between the policy objectives of government and the processes in which they administer those policy decisions, but our core work and my core work would be taking the government's objectives as stated and then how best to translate them.
+
+Sometimes, take for example work on an unrelated policy like net zero, the work of the Institute for Government takes as an assumption that successive governments have wanted to take action on reducing carbon emissions in the UK. We might then make recommendations about how best to do that.
+
+**Lead Inquiry**: I'd like to commence the substantive part of your evidence by examining one after the other the various government entities or departments or bodies that played the greatest role in the government's response to the pandemic. So we're going to start, if I may, with the Cabinet Office.
+
+Could we have, please, back up on the screen from Module 1 INQ000204014, our much beloved spaghetti-gram.
+
+You will see at the top of the page, Mr Thomas, the Prime Minister, underneath whom there is the Cabinet, and then under that the Cabinet Office, and the Cabinet secretariat. I needn't trouble you for the moment with COBR, we'll be coming back to that, and obviously SAGE as well in yellow, again to which we'll be returning to in due course.
+
+The Cabinet Office sits at the very heart of government, does it not?
+
+**Mr Alex Thomas**: Yes, it does.
+
+**Lead Inquiry**: Is it indeed a multi-headed hydra, because it has a large number of moving parts within it, a collection of secretariats and the like?
+
+**Mr Alex Thomas**: Yes, it has for a very long, perhaps forever, been almost impossible to draw an organogram, organisation chart of the Cabinet Office, because by its nature it is fluid and the way I put it in my evidence is that it responds to the power structures of the day.
+
+**Lead Inquiry**: Could you elaborate on that? Is that a reference to, I suppose, the Cabinet Office's role in responding to the various directions which may be placed upon it by the Prime Minister, other government departments, or external crises?
+
+**Mr Alex Thomas**: I think that's correct. I suppose when I describe it like that, I was thinking more about the internal dynamic in the Cabinet Office, which is principally focused on the Prime Minister, and on the political side, and the Cabinet Secretary and head of the civil service on the administrative civil service side. Those are the two core nodes around which the Cabinet Office operates, but there is, you know, a changing -- over the course of years and decades there has been a changing cast of characters around a national security adviser, a permanent secretary in the Cabinet Office, a chief operating officer or chief executive, a minister for the Cabinet Office, a chancellor of the Duchy of Lancaster. I won't go on, but each of these individuals tends to have a particular place and authority in the system to which the Cabinet Office institutionally, I found in my time there, will respond.
+
+**Lead Inquiry**: So would it be fair to say that administratively and politically the Cabinet Office is a very fluid organism, it needs to change the direction in which it faces depending on who is in the seat of power within the Cabinet Office and who outside the Cabinet Office is making demands of it?
+
+**Mr Alex Thomas**: Yes. I think there are certain core functions that continue, and have more or less organisational stability, a secretariat function, a civil contingencies function, to which we will no doubt return, you know, the sort of administrative and corporate headquarters of the civil service, if you like. But the actual way those are manifested has tended to change with time, which is reflected in, at times, dramatic reductions in the number of civil servants in the Cabinet Office, and, over recent years, dramatic increases in the numbers of civil servants in the Cabinet Office.
+
+**Lead Inquiry**: And may the Cabinet Office be usefully divided into two broad parts? You've got those parts of the Cabinet Office by way of the secretariats which produce policy and take decisions, for example the National Security Secretariat, which you've mentioned, the domestic or economic secretariats, the Civil Contingencies Secretariat, formerly part of the CCS, but it's now been changed, and then, by contrast, the more functional side of the Cabinet Office, so dealing with things like procurement, project management, human resources, digital resources and so on; is that a fair distinction?
+
+**Mr Alex Thomas**: That's correct, and the former grouping would tend to tilt itself towards the Prime Minister and the collective Cabinet responsibility, although principally the Prime Minister, the latter towards one of the ministers in the Cabinet Office, whoever had the responsibility for those functions.
+
+There is a third, even more amorphous grouping of policy teams in the Cabinet Office. For example, there's a minister for veterans' affairs at the moment. They will have a support team that sits in the Cabinet Office. There is now, since 2010, a constitutional capability in the Cabinet Office. So there are core teams that are more like line departments, if you like, but happen to be located, for various reasons, in the Cabinet Office.
+
+**Lead Inquiry**: In general terms, where does much of the United Kingdom Government crisis machinery sit?
+
+**Mr Alex Thomas**: The co-ordinated response sits in the Cabinet Office and in the Civil Contingencies Secretariat.
+
+**Lead Inquiry**: Does it therefore follow that in a crisis, for example a viral pandemic, that the Cabinet Office plays a primary -- I deliberately say a primary -- role in responding to the crisis?
+
+**Mr Alex Thomas**: That's correct.
+
+**Lead Inquiry**: How important in a crisis is the role of the Cabinet Secretary, the body or the person, the role or the person to whom you made reference a few moments ago?
+
+**Mr Alex Thomas**: Very important, partly because they are the principal adviser to the Prime Minister, and reflect, if you like, the sharp end of civil service advice to the Prime Minister; partly because, more often than not in recent times, they are the head of the civil service, and so the person who is ultimately responsible for mobilising civil service and administrative capacity. Partly also, with relevance to Covid, because the Cabinet Secretary was also the National Security Adviser, who has particular responsibilities around the national security response in a crisis.
+
+**Lead Inquiry**: So the Cabinet Secretary, in truth, performs a number of different, perhaps not altogether consistent, roles?
+
+**Mr Alex Thomas**: I think they can be consistent. Whether the ability to do them can be held in one person, however talented, is up for debate. A personal reflection on the Cabinet Secretary is that there -- it is in one sense very important for the Cabinet Secretary and the head of the civil service to be the same person, embodying the best advice to the Prime Minister and the best administrative response of the state, but those jobs require quite different capabilities and skills. So there's ongoing debate about whether those roles should be merged or not.
+
+**Lead Inquiry**: It may be self-evident, Mr Thomas, but because the Cabinet Secretary, Janus-faced, has to face towards the Prime Minister and the civil service, for which he or she is responsible, as well as the national security infrastructure, not only is that a difficult role to perform, but it requires a distinct ability to be able to bring together all those various disparate parts, synthesise the information that they are providing and bring it together for the Prime Minister?
+
+**Mr Alex Thomas**: That's correct. I should also add the Cabinet Secretary is also, clearly, the secretary to the Cabinet, so has a Cabinet-facing role as well.
+
+**Lead Inquiry**: Indeed.
+
+**Mr Alex Thomas**: Which, you know, is important both constitutionally and practically. But yes, being at the pinnacle of all of those different aspects of civil service in the state is, you know, a vital and very difficult role.
+
+**Lead Inquiry**: You have obviously been given access to -- and we'll come to this in a moment -- the WhatsApps produced by Mr Cummings and the entries into Sir Patrick Vallance's evening notes, as well as, in fact, the dairies of others and text messages from other people. At a very high level, they show the remarkable difficulty of the job of Cabinet Secretary, and in particular the way in which the Cabinet Secretary is obliged to try to operate institutional levers of power to try to make the system work, to try to bring it all together to enable the government to best respond in a crisis.
+
+How important is the ability to exercise those institutional levers of power?
+
+**Mr Alex Thomas**: It is very important. And like so many things in the British system, it is more amorphous and sometimes unclear exactly what authority the Cabinet Secretary has. There is a parallel between the Prime Minister's primus inter pares, first amongst equals, role with his or her Cabinet, and the Cabinet Secretary's role with his -- always has been a his -- permanent secretary colleagues and colleagues within the Cabinet Office.
+
+One of the things I would argue that hinders the Cabinet Secretary's ability to respond in normal times as well as in crises is a lack of clarity over exactly what authority the Cabinet Secretary has over the other levers of government, all of which have their own permanent secretaries, all of whose primary responsibility is to their Secretaries of State. That is, to some extent, a function of the constitutional set-up of the United Kingdom, but also creates, I would argue, administrative weaknesses.
+
+That said, in a crisis, there is a "rally round the Cabinet Secretary" effect, but as time goes on clearly policy and administrative differences and difficulties can make it hard -- you know, even harder for the Cabinet Secretary to organise and assert themselves.
+
+**Lead Inquiry**: Does the lack of a structural clarity, that is to say a lack of any written policy or protocol or constitutional arrangement, which sets out the limits of the Cabinet Secretary's role and his or her powers, mean that an even greater premium is placed upon the personal authority of that Cabinet Secretary, whoever he or she may be?
+
+**Mr Alex Thomas**: Yes, because, as I say, the lack of formal powers, I don't think those can make up for personal authority and status, but I think where, you know, a Cabinet Secretary might have come in, you know, new to the job or there might be some questions over their authority -- I mean, Simon Case himself has acknowledged that there's no job description for a Cabinet Secretary, and so to that extent they will be making it up as they go along and reliant on their own status with their colleagues and -- in the civil service. And, critically, with the Prime Minister.
+
+**Lead Inquiry**: Just to be clear, you've referred to Simon Case. Is Mr Case the current incumbent Cabinet Secretary, was he appointed in fact Cabinet Secretary in the autumn of 2020, following Mark Sedwill, now Lord Sedwill?
+
+**Mr Alex Thomas**: That's correct.
+
+**Lead Inquiry**: In general terms, the material, the WhatsApp, the diary material, the text messages, show a distinct degree of dysfunction, unhappiness or loss of confidence surrounding the role of the Cabinet Secretary, in particular during the first few months of the crisis. To what extent, in your opinion, did the loss of confidence in the Cabinet Secretary have an impact upon the government's ability to respond efficiently, properly and in good time to the various specific crises and decisions that it had to make?
+
+**Mr Alex Thomas**: So, I mean, from the material I've seen, I agree with you that they demonstrate a loss of confidence in the Cabinet Secretary in two particular individuals. I would only say from what I've seen two, but they are two very important individuals: the Prime Minister and his most senior adviser, Dominic Cummings. So I can't speak to a wider systemic loss of confidence in the Cabinet Secretary, but I would say that if, you know, if it is correct that the Prime Minister in particular did not have confidence in the performance and abilities of his most senior civil servant and principal civil service adviser, that would make it very difficult for the Cabinet Secretary to do their job effectively, which would obvious have knock-on consequences for the coherence, organisation and responsiveness of the system.
+
+**Lead Inquiry**: Who has ultimate, indeed sole responsibility for the appointment of his or her Cabinet Secretary?
+
+**Mr Alex Thomas**: Well, therein lies a tale. The simple answer to your question is the Prime Minister. And it's for the reason that I said, which is that any Cabinet Secretary who loses the confidence of their Prime Minister won't last very long, and ultimately it's the Prime Minister who selects a Cabinet Secretary when they're appointed.
+
+Some Cabinet Secretaries have been appointed through more or less open appointment processes, so there is an aspect of kind of the usual, if elevated, civil service appointment process, involving the First Civil Service Commissioner, and so on, but it would be fair to say that's an opaque process that ultimately lands on the Prime Minister's desk.
+
+**Lead Inquiry**: We're going to look in due course at some of the -- more specifically some of the decision-making, particularly in the first few months of the pandemic. But by way of preface, Mr Thomas, in general terms, in those first few months, so particularly February, March, April, May, how would you rate the structural performance of the Cabinet Office in its ability to be able to deal with the emerging and then the actual crisis?
+
+**Mr Alex Thomas**: So from what I've seen it appears to me to be chaotic. Some -- many -- talented individuals working extremely hard, extremely long hours, but not in a decision-making structure that was good either at responding quickly and authoritatively to rapidly developing external events or synthesising complex material that was coming in from scientists, economic advisers, other government departments. We may well, I'm sure, get on to some of the specifics, but the responsiveness and the ability to synthesise seem to me to be somewhat lacking.
+
+**Lead Inquiry**: In your report, you make the point that it is vital that the Cabinet Office and Number 10 act in lockstep. Very evidently, that ability to work together is a reflection in part of the way in which you've described that the Cabinet Office works towards and works with various multiple parts of government, and of course the Cabinet Secretary is the appointee of the Prime Minister, and the Cabinet Secretary is the secretary to the Cabinet, so that requires Number 10 and the Cabinet Office to work closely together.
+
+The Prime Minister is in Number 10, his chief adviser, Mr Cummings, was in Number 10, not the Cabinet Office. To what extent in general terms did the Cabinet Office and No 10 continue to act in lockstep from March 2020 through to the early autumn, the late summer of 2020?
+
+**Mr Alex Thomas**: Of course it's -- you know, Number 10 is part of the Cabinet Office, so they are, in some respects, the same organisation, but as you imply there is a very distinct culture, rightly, in Number 10 that is focused around the Prime Minister, and there is a link door that you need a special pass to access and once you go through that link door the environment is very different. So that's by way of preface to agreeing with you that the two are, you know, the same but separate.
+
+It does seem to me from the material I've seen, we made the point in some of our research, based on publicly available or media reporting, but also from some of the material available to the Inquiry, that because of the perceived loss of confidence by very senior people, political people in Number 10, there was a loss of confidence in the Cabinet Office that led to an unhelpful divergence which put excessive strain on individuals working in Number 10 -- Number 10 is absolutely not equipped to deal with a whole-of-government crisis in this way -- and pushed out those in the Cabinet Office whose job would otherwise have been to perform the functions I said earlier about rapid response and synthesis of evidence.
+
+**Lead Inquiry**: You say Number 10 is absolutely not equipped to deal with a whole-of-government crisis in this way; is that for two reasons: firstly, the crisis machinery rests largely in the Cabinet Office, and therefore it's not Number 10 which has to deal with crises, but also that the absolute number of staff, employees, personnel in Number 10 is not built for a whole-of-government response?
+
+**Mr Alex Thomas**: Yes. Number 10 has grown somewhat, I understand, in recent years, but total numbers of staff are, you know, 200, 300. Most of those are support staff, operational staff. There are a handful of private secretaries. There's a small policy unit. Those functions are about, yes, giving some personal advice to the Prime Minister, but also transmitting information and advice from the rest of government to the Prime Minister, and then transmitting the Prime Minister's decisions out to the rest of government. They are not, in any means, a crisis response machine, and you can't run a crisis response from Number 10 for those reasons.
+
+**Lead Inquiry**: Could we have, please, on the screen, INQ000048313, at page 22.
+
+This, Mr Thomas, is a WhatsApp message from Mr Cummings to Mr Johnson, and it's attached to a letter which Mr Cummings wrote to the Inquiry. The top WhatsApp is dated 12 March. I'm not going to read it all out, it's self-evident and the theme and the tone and the manner of it is very clear.
+
+In general terms, it is extremely damning of the state, the function, the ability of the Cabinet Office to operate.
+
+With an appropriate nod to the intemperate language that Mr Cummings habitually appears to deploy, and to the manner of his language, does it matter -- or rather, to what extent does it matter that the chief adviser then to the Prime Minister has such views of the Cabinet Office?
+
+**Mr Alex Thomas**: It does matter. And of course, you know, implicit in your question is this is, you know, one person's view as expressed. It does matter, because it goes to both, I mean, obviously the content of that message goes to the authority of the Cabinet Secretary and the confidence in which the political team has in him, and precisely that point about the divergence between Number 10 and the Cabinet Office that means the principal political adviser to the Prime Minister does not have confidence in the civil contingencies architecture that is there to synthesise and advise on an emerging breaking crisis.
+
+**Lead Inquiry**: It's important, isn't it, that you note that Mr Cummings' views are, of course, only his own views. The reference to Mark is to Mark Sedwill, the then Cabinet Secretary, but that of course is only Mr Cummings' view.
+
+So your point is, isn't it, that regardless of whether or not Mr Cummings' personal view of the Cabinet Secretary was right or wrong, the very fact that the Prime Minister's chief adviser is expressing these views has of itself a damaging effect and may also be reflective of a pre-existing and extremely unfortunate structural problem at the heart of Number 10 and the Cabinet Office?
+
+**Mr Alex Thomas**: I think that is a fair conclusion. I would make just a couple of points of context. One is I think Mr Cummings has expressed forceful views in many places, and also government is a stressful and difficult environment. It is not that unusual for someone privately to express forceful views behind somebody else's back about their performance, and for that not really to reflect their true views. So I think there is a question there about exactly the consistency and completeness of Mr Cummings' view.
+
+Secondly, there is an incentive sometimes culturally, a very poor incentive, to be critical about others in front of the principal, as civil servants and advisers might call them. So to go into a minister's office or to send the Prime Minister a message saying, you know, "Isn't so-and-so terrible", because that is part of the sometimes court-like, courtier-like environment that can operate detrimentally in senior places in the top of government.
+
+**Lead Inquiry**: I'm going to put that proposition back to you, please, Mr Thomas, rephrased. So are you saying that in the high octane and febrile atmosphere of high government, high political government, everybody slagging each other off is not uncommon?
+
+**Mr Alex Thomas**: It is more common than it should be.
+
+**Lead Inquiry**: My Lady, these WhatsApps of course reflect other no less important but different substantive issues, for example, in relation to the government's response in terms of the imposition of social restrictions and the operation of COBR, to which we'll come back to, through other witnesses. Included in that observation there is this reference at the bottom of the page to the DAs. I'll come back to you on that in due course.
+
+Page 7, please, of this document.
+
+This is dated 14 March, in another WhatsApp string, group, thread. Mr Cummings says:
+
+"Talked to Sedwill [that's Lord Sedwill, the Cabinet Secretary] and he is still miles off pace."
+
+Then this:
+
+"... the problem is CabOff [Cabinet Office] and DHSC haven't listen and absorbed what the models truly mean."
+
+**Lady Hallett**: Sorry, just before you go on, Mr Keith, who sent the messages at the top, "We need to draw lessons", who sent ...? Because there's a copied -- further down, it's where you copy the message to respond to it. So who send the "Talked to Sedwill and he is still miles off pace"?
+
+**Mr Keith**: Mr Thomas, are you able to say whether or not the first white WhatsApp comes from a different origin than the second one?
+
+**Mr Alex Thomas**: I mean, those two -- based on my understanding of WhatsApp, those two look like they come from the same person, and that person is down as -- I assume this is Mr Cummings' mobile phone -- down as Johnson Boris, who I assume is Boris Johnson.
+
+**Lead Inquiry**: So "Yup. Nothing like it since at least 1918 and maybe much longer" is a response from Mr Cummings?
+
+**Mr Alex Thomas**: If this is Mr Cummings' -- a screenshot from Mr Cummings' phone, yes.
+
+**Lead Inquiry**: Then, at the bottom of the page, Mr Cummings again:
+
+"This is what the Warners, [that's Ben and Marc Warner] have been screaming at me. Patrick has been 'the policy machine is off the pace' -- but YOU [so he is speaking to Mr Johnson there] need to tell Sedwill this."
+
+And the degree of intemperate language and aggression, volatility, is of itself unfortunate.
+
+**Mr Alex Thomas**: I agree.
+
+**Lead Inquiry**: Page 56, 57, this is an extract from a letter that Mr Cummings wrote to the Inquiry. He has cut and pasted an older historic, historical email dated 13 July 2020, into his letter. He says it's:
+
+"An email I sent on the problems of the No 10/CabOff set up that is relevant to the Inquiry, 13 [July] (it was copied to [the Prime Minister] but he never engaged seriously)."
+
+And the email, if we go over the page, please, of 13 July contains at the second paragraph on that page, these words:
+
+"Current CABOFF doesn't work for anyone -- it's high friction, low trust, and [obviously] many good parts but overall low performance. From [permanent secretaries] to lower ranks, nobody I've spoken to across Whitehall thinks it works well. And covid shone an unforgiving light on parts including CCS ..."
+
+Is CCS the Civil Contingencies Secretariat, the secretariat within the Cabinet Office primarily concerned with crisis response?
+
+**Mr Alex Thomas**: I assume so, yes, that would make all the sense in the world.
+
+**Lead Inquiry**: If Mr Cummings is to be -- if his words are to be accepted in this regard, and if he is to be believed in this regard, that would tend to suggest that the dysfunctionality of the Cabinet Office was not just a view held by him, but it was held across Whitehall.
+
+**Mr Alex Thomas**: It would, and that would also be consistent, you know, in the interests of sort of full disclosure to the Inquiry, with conversations that I and others had around that time.
+
+I find this note a much more kind of -- a less intemperate and more convincing critique of the machinery of government as it was operating than some of the previous messages, which lack context, and as I -- you know, for the reasons I've said previously.
+
+**Lead Inquiry**: Sir Patrick Vallance's evening notes also contain a multitude of references to chaos in Number 10, to infighting, factionality in Number 10. He says that according to the Cabinet Secretary himself -- this is in November 2020, so that would be Simon Case:
+
+"... No 10 [was] at war with itself -- a Carrie faction (with Gove) & another with SPADs ..."
+
+So that presumably would include Mr Cummings and perhaps some others.
+
+"PM caught in the middle. He has spoken to all his predecessors as [Cabinet Secretary] & no one has seen anything like it."
+
+That diary entry is from November later in the year, six months later. It would seem, again, and due caution of course must be applied to the accuracy of WhatsApps, which lack nuance and can be intemperate, and also diary entries which may not accurately reflect the reality of the position day by day and may indeed even have been drafted for a different audience, but if we accept the factionality and infighting was still taking place in November, is that not rather incredible that the two departments at the heart of the government, which were obligated to respond to this crisis, Number 10 and Cabinet Office, were still fighting, at least in part, six months later?
+
+**Mr Alex Thomas**: I think many things about that period were incredible and concerning. On this particular point, though, my assessment would be that something slightly different was going on, which was that in the early period of the response to the pandemic, February, March, April 2020, there was an anxious and chaotic and sometimes divided situation between the Cabinet Office and Number 10. Then over the course of the summer, we may come on to this, the Covid Taskforce was established, and relationships, while not being perfect, seemed to me to be -- very far from perfect -- seemed to me to be improved because of the more effective crisis response and synthesis of advice.
+
+My reading of the Sir Patrick Vallance diary referred to -- which, as you say, was November 2020, I was unsurprised by that, because that was when there was a very, very public falling out between Dominic Cummings and Lee Cain and the Prime Minister, leading to Mr Cummings and Mr Cain departing Downing Street shortly afterwards.
+
+I would also suggest that that was -- that seemed to me, from the outside, to be an internal Number 10 falling out rather than a structural disagreement between the Cabinet Office and Number 10, related strongly to the approaches, personalities and relationships between the Prime Minister and some of his closest political advisers.
+
+**Lead Inquiry**: May, therefore, the position be summarised in this way: that in the early part of the pandemic, in those early months, the dysfunctionality, if that is what my Lady finds there to be, was reflective of the system, the structures that were then in place, latterly the dysfunctionality lay more in the personalities and their working relationships and indeed the people who were in government?
+
+**Mr Alex Thomas**: Clearly in a complicated and, you know, extraordinary situation, that is something of a simplification, but it's a simplification I would be happy to endorse.
+
+**Lead Inquiry**: I'm very pleased to hear you say that.
+
+COBR. If we go back, please, to the chart at INQ0002041014, page 4, a certain amount of evidence, quite a lot of evidence, was received in Module 1, Mr Thomas, on COBR and its position in the government structure and on its functions, but we'll remind ourselves of where it is. We can see it's the yellow box towards the top of this page, the Cabinet Office Briefing Rooms, hence COBR. And there have been plenty of references to COBRA with an A, was that because once upon a time one of those Cabinet Office briefing rooms was called room A, so it became COBRA?
+
+**Mr Alex Thomas**: It is partly that. I think it is probably more because of the resonance of the acronym that it sustains.
+
+**Lead Inquiry**: It is COBR that is the machinery for dealing with crises in the first instance. Is it a ministerial decision-making body, or is it a body that brings together ministers, officials, public servants and the like in order to be able to respond to a crisis?
+
+**Mr Alex Thomas**: It's the latter, it is primarily a co-ordination body.
+
+**Lead Inquiry**: Does the Civil Contingencies Secretariat act, as it suggests it does, as the secretariat for whatever COBR meeting has been convened?
+
+**Mr Alex Thomas**: It does.
+
+**Lead Inquiry**: Who may chair a COBR meeting?
+
+**Mr Alex Thomas**: Any minister or a senior official. The starting point for who would chair it would be the Prime Minister, but it is entirely reasonable, and often happens, for the Prime Minister to delegate that to another minister whose remit and responsibility and seniority would depend on the nature of the crisis. It is also sometimes possible for a senior official to chair COBR.
+
+**Lead Inquiry**: COBR is not engaged, is it, for all crises, the crisis or the emergency has to meet a certain level of seriousness, a certain threshold, in fact it has to be a level 2 or a level 3 emergency before COBR is generally convened?
+
+**Mr Alex Thomas**: Generally. I would take slight issue with the "it has to be", because there certainly have been examples -- Gordon Brown, you know, famously had quite a low bar for triggering a COBR crisis. There is obviously a political and presentational benefit sometimes to convening a meeting. So the bar for convening a COBR has fluctuated depending on the personal preferences of the Prime Minister. But, yes, if you want an administrative "What is the test for calling a COBR meeting?" it's that level 2 response.
+
+**Lead Inquiry**: The first COBR meeting concerning the response to Covid was held on 24 January, was it not?
+
+**Mr Alex Thomas**: That's my understanding, yes.
+
+**Lead Inquiry**: The material shows that Matt Hancock MP, who was then secretary of state of the lead government department, the Department of Health and Social Care, chaired the COBRs on 24 January, 29 January, 4 February,
+
+**Mr Alex Thomas**: That's my understanding, so I --
+
+**Lead Inquiry**: There was no COBR convened between 18 February and 2 March, it's an issue we'll be reverting to in due course, and the Prime Minister, the then Prime Minister, Mr Johnson, convened or chaired his first COBR on Monday, 2 March.
+
+You have explained how there is no administrative obligation on the Prime Minister to chair a COBR, but there may be a presentational advantage in so doing. Is it your view that presentationally that was an opportunity missed by the Prime Minister, given the state of the crisis in late February?
+
+**Mr Alex Thomas**: There is a presentational benefit to the Prime Minister
+
+in chairing COBR. There is also, I perhaps should have
+
+said, an operational benefit inside government for
+
+particular types of crises to the Prime Minister
+
+chairing COBR.
+
+I suppose I have a -- you know, given what we
+
+subsequently know, I would have a, you know, moderate
+
+view that presentationally it would have been beneficial
+
+for the Prime Minister to chair an earlier COBR.
+
+I would have a stronger view, given what we now know,
+
+that the signal it would have sent, that this required
+
+a whole-government response, the Prime Minister was February and 18 February; is that correct?                            12           personally engaged in that, and that all departments
+
+needed to give their maximum possible attention to this
+
+crisis, that is actually the reason I think, rather than
+
+presentation, why it would have been beneficial for
+
+the Prime Minister to chair COBR sooner.
+
+**Lead Inquiry**: Have you been able to ascertain what the position was in
+
+relation to representatives of the devolved
+
+administrations in relation to their attendance at COBR?
+
+**Mr Alex Thomas**: My understanding, again, and I thank the Inquiry for
+
+brief advance notice of that particular question, is
+
+that when Matt Hancock MP was chairing the COBRs,
+
+the invitations went to the devolved administration
+
+Health Secretary equivalents, and so they attended COBR
+
+until the Prime Minister chaired the 2 March COBR when invitations, to my mind perfectly naturally, then were sent to the First and in Northern Ireland First and deputy First Ministers to attend those COBR meetings.
+
+I understand from the Inquiry, but not my own research, that Mark Drakeford, the First Minister of Wales, did participate in one earlier COBR meeting.
+
+**Lead Inquiry**: So, to be absolutely clear, the health ministers from the devolved administrations, so that would be Vaughan Gething from the Welsh Government, Robin Swann from the Northern Ireland Executive, and Jeane Freeman, the Scottish Cabinet Secretary for Health, they all attended from 24 January. Mr Drakeford first attended on 18 February, but Nicola Sturgeon, Arlene Foster and Michelle O'Neill attended, respectively, for the first time from 2 March.
+
+**Mr Alex Thomas**: I understand that to be the case. As I say, given the Prime Minister did not chair COBR until 2 March, that pattern of invitations doesn't surprise me. I don't know why Mr Drakeford attended the earlier meeting. It could have been -- you know, my view would be that that was either because he was particularly concerned about the emergence of the crisis, or for a far more simple administrative reason that Vaughan Gething perhaps couldn't attend or Mr Drakeford happened to be in London or, you know, something else. These things often happen.
+
+**Lead Inquiry**: My Lady, that I hope answers the question that you posed yesterday in the course of the hearing as to the first dates of attendance.
+
+Could you please have a look at INQ000273841, paragraph 43. I'm afraid I don't have a page number.
+
+*(Pause)*
+
+**Lead Inquiry**: It will probably be around the late teens. There we are, thank you very much.
+
+Helen MacNamara was a senior civil servant, at one stage in fact Deputy Cabinet Secretary. This is an extract from her statement. She says this in paragraph 43:
+
+"One of the things we should have done earlier is move away from the COBR decision making structure. Mr Johnson had never warmed to COBR -- it did not suit his working style to come through to the basement of the Cabinet Office, away from his study and his political team. Unusually in my experience of Prime Ministers, he clearly felt it was not his territory. As the Covid-19 situation became more immediate it was not working and definitely would not work as the crisis worsened."
+
+So the COBR room is in the basement, is it not, of the Cabinet Office? It's not actually in No 10 Downing Street?
+
+**Mr Alex Thomas**: That's correct.
+
+**Lead Inquiry**: In the material that you have seen, have you seen any material which is reflective of Mr Johnson's view, in February, of the degree of seriousness of the crisis which appeared to be emerging?
+
+**Mr Alex Thomas**: I suppose -- I mean, thinking about the material that I've seen -- you know, judged by his actions and his decisions about the early COBR meetings and others, but also as or more relevantly, I think, the publicly available information about things he said in early press conferences and so on, my assumption is that he thought that this was a containable and not -- a containable situation and not a situation that demonstrated the seriousness which, you know, very rapidly became evident.
+
+**Lead Inquiry**: COBR, as we can see, continued to sit through March, in fact it carried on sitting, convening until May. But where in the middle of March and late March were those singular and momentous decisions that affected the whole country actually being taken? So, example, by way of example, decisions to close schools or to impose social restrictions, ultimately of course the imposition of the national lockdown from 23 March with legal effect from the 26th, where were those decisions taken? Were they taken in COBR or were they taken elsewhere?
+
+**Mr Alex Thomas**: From the material I've seen, it seems that most of those were taken elsewhere, in meetings in Number 10 or in other, you know, Cabinet committees or ad hoc fora. I think there is, we may come on to this, plenty to criticise about how that decision-making structure might have worked. I don't think inherently it was wrong not to take them in COBR, because, as we discussed earlier, COBR is primarily a co-ordination and immediate crisis response function. It functions well if, for example, there was a -- you know, could always be improved, but if there was a terrorist incident or a major environmental incident that principally required operational co-ordination.
+
+COBR, in my experience and view, is not a policy decision-making forum. So one of the institutional gaps that it seems to me existed at this time was an authoritative and coherent policy making forum that was well advised by synthesised advice from across government.
+
+**Lead Inquiry**: Putting it another way, Mr Thomas, what was the point of having COBR convened and to continue to be convened through March if, in reality, the momentous decisions of which I've spoken were being taken in a study in Number 10 by the Prime Minister on the advice of his closest advisers? Because whatever COBR decided, or whatever COBR informed the Prime Minister, any decisions taken by COBR were liable to be undone, changed or corrected by the Prime Minister.
+
+**Mr Alex Thomas**: Well, COBR could provide a forum particularly, as Helen MacNamara makes the point there, that the devolved administrations were part of the COBR meeting, to discuss possible approaches -- well, to first receive information from what was happening on the ground and then discuss possible approaches that could legitimately inform a Prime Ministerial decision in whatever forum. That obviously leaves certain lacuna, the most obvious being the devolved administrations' actual involvement in those decisions.
+
+So again, this architecture -- so you asked about the value of it, you know, it is not uncommon in government for meetings or institutional architecture to outlive its usefulness. There's a path dependency to that. So, as Ms MacNamara says there, you know, I'm not surprised by her view that they should have moved away from it earlier, but in and of itself, if COBR was providing a useful input to Prime Ministerial decision-making, it's not inherently illegitimate for it to continue to exist.
+
+That was a little convoluted, I apologise, but I hope you get my drift.
+
+**Lead Inquiry**: But if COBR, although a useful contributor, was not the primary decision-making forum, as it is meant to be in a crisis, and if, at least to some extent, it became something of a Potemkin village, it became an opportunity for the devolved administrations to be seen to be part of the process but then the decisions were actually being taken elsewhere, then it wasn't really fulfilling the terms of its instructions?
+
+**Mr Alex Thomas**: I agree, but I would also return to the point -- and I would return to the point that COBR is not designed to be a policy-deciding forum. It is a forum that, if you like, applies policies that already exist to the operation of the situation on the ground, and allows ministers to input to control that and to influence that situation. But I would -- you know, I agree with your principal point, which was that it would appear that there was a meeting happening that was steadily losing whatever value it had, and it outlasted its usefulness.
+
+**Lead Inquiry**: The civil service, and in particular the Cabinet Secretary, Mark Sedwill, appreciated that there had to be change, and around 17 March did Lord Sedwill, then I think Sir Mark Sedwill, recommend the establishment of what were known as ministerial implementation groups to deal with four areas, four key areas: health, public services, economic response and international aspects, each group chaired by a different senior minister?
+
+**Mr Alex Thomas**: That's correct, as I understand it.
+
+**Lead Inquiry**: Around the same time, did the core decision-making, particularly insofar as it revolved around the Prime Minister, start to take place at a meeting or meetings held at 9.15 every morning in Number 10?
+
+**Mr Alex Thomas**: That's my understanding.
+
+**Lead Inquiry**: Could we have, please, INQ000182338. This is the Cabinet Secretary's note recommending the changes to what are called machinery of government. "Covid-19: next phase", it's dated 13 March:
+
+"1. We need to step up a gear ... A pandemic of this scale is no longer solely a health crisis ...
+
+"2. In times like this people need to know that the Government has their back and is competent, compassionate and calm."
+
+He tells the Prime Minister in paragraph 3:
+
+"You have brilliantly managed public messaging and decision-making in this first phase."
+
+But nevertheless he proceeds to say that the structure of government requires significant reform, and if we go over the page to page 2, he proposes the ministerial implementation groups and the daily smaller meeting. It says:
+
+"This would be your 9.00 meeting with a small group of Ministers and key advisers ... We will hold a pre-meet ... at 8.15", and so on.
+
+But in fact it became a 9.15 meeting. The 8.15 meeting did take place and was generally attended by officials and advisers; is that right?
+
+**Mr Alex Thomas**: That's my understanding. And this is a familiar rhythm from the time of David Cameron onwards to organise a Prime Minister's day, obviously not in this context, but, you know, an 8 o'clock-ish meeting with special advisers and private secretaries, and others in Number 10, and then a 9 o'clock or, in this case, 9.15 meeting with the Prime Minister. It seems to me they adapted that kind of quite well established rhythm of prime ministerial meetings from previous generations of prime ministers to reflect the situation as it was at the time.
+
+**Lead Inquiry**: Did this new structure stand the test of time?
+
+**Mr Alex Thomas**: It did not.
+
+**Lead Inquiry**: When or rather how long did it last for?
+
+**Mr Alex Thomas**: I would have to check with the dates, but I think it lasted for about two months, six weeks, something like that.
+
+**Lead Inquiry**: Because in May the civil service and again the Cabinet Secretary returned to this issue of whether or not structurally the Cabinet Office and Number 10 and the decision-making process at the heart of the government was actually performing effectively?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: Do you know why, in general terms, the MIG system, the four ministerial implementation group system, was replaced so relatively soon after its commencement?
+
+**Mr Alex Thomas**: I believe that there were two principal reasons. One, from the documents I've seen as part of the Inquiry and elsewhere, was that it quite rapidly became clear that there were overlapping remits, that the co-ordination between these four MIG structures was not working well, they were trespassing on each others' policy and operational functions, and that decision-making through those MIGs was proving difficult.
+
+The second reason, that I haven't seen through the Inquiry papers but I feel -- it's my fairly strong view about how the Cabinet Office and Cabinet committees work best, is that a number of them were chaired by the relevant Secretary of State. So the Foreign Secretary was chairing the foreign policy committee, the Chancellor the economic and business committee. I think in general, a Cabinet committee or similar group works better if it is chaired by a senior minister who is able to hold departments to account from outside the department rather than inside.
+
+So I have a personal view, which is that one of the problems with these MIGs was that they were owned and held accountable by the relevant secretaries of state rather than by the Chancellor of the Duchy of Lancaster, probably, in this instance, holding those departments to account.
+
+The exception was, I believe, the Public Services Committee, which was chaired by Michael Gove.
+
+**Lead Inquiry**: So these important departments of -- government departments of state, in this committee structure, to some extent marked their own homework?
+
+**Mr Alex Thomas**: Correct.
+
+**Lead Inquiry**: The 9.15 meeting, formally, was that meeting therefore an ad hoc informal meeting, or was it, as a result of this change of government -- or, was it a result of the way in which the change of government machinery was used to institute the 9.15 meeting mean that it was more formal, for example a type of Cabinet subcommittee?
+
+**Mr Alex Thomas**: I don't get the impression it was in any way akin to a Cabinet subcommittee. I would say from what I know that it was more formal than a sort of chew the fat Prime Ministerial meeting, you know, "What's in the headlines today? What have we got on?" type David Cameron-style morning meeting, in that over time data and dashboards were considered by that meeting and other evidence and advice.
+
+Both in terms of cast list and agenda, it does not appear to me to be anything like as formal as a normal decision-making Cabinet committee.
+
+**Lead Inquiry**: At paragraph 70 of your report, you say both the C-19 daily meetings, by which you mean the 9.15 meetings, and the MIGs, as Cabinet committees, could take decisions themselves, so not everything was reported upwards from the MIGs to the C-19 meeting or from the C-19 meeting to Cabinet.
+
+So by that do you mean the MIGs were formal Cabinet subcommittees, the C-19 morning meeting was not, but over time that 9.15 meeting took on the ability or the power to make decisions which had a degree of formality to them which meant that effectively Cabinet was bypassed?
+
+**Mr Alex Thomas**: My understanding is that that is a fair summary. I should add that this is, you know, this is quite hazy, which is, you know, a point to reflect on in itself. I do not have a clear sense in my own mind of how, when and whether those C-19 meetings took on a different form. I think that would usefully be something that the Inquiry could ask those who were part of those meetings.
+
+**Lead Inquiry**: The MIGs came to an end in the summer. The C-19 9.15 meetings continued. But in early June, did Lord Sedwill propose the establishment of two new formal committees, Covid-O, Covid operation -- or operational, and Covid-S, Covid strategy, chaired by ministers to provide the ministerial building block for committee meetings going forward to deal with Covid-19 and the pandemic?
+
+**Mr Alex Thomas**: That's correct, I think.
+
+**Lead Inquiry**: And the Covid-S was chaired by the Prime Minister, Covid-O was chaired by the Chancellor of the Duchy of Lancaster, Michael Gove MP.
+
+**Lady Hallett**: Are we going to a slightly different subject?
+
+**Mr Keith**: Yes, we are.
+
+**Lady Hallett**: 11.30, please.
+
+*(11.15 am)*
+
+*(A short break)*
+
+*(11.30 am)*
+
+**Lady Hallett**: Sorry, I caught everyone by surprise again.
+
+**Mr Keith**: Mr Thomas, Covid-O and Covid-S, could we have, please, INQ000137215.
+
+This was a paper prepared for the Prime Minister by Simon Case and Helen MacNamara. If we just go to the last page, if we may, I think we should see the names of the authors.
+
+It's about four pages in, I'm afraid, I'm sorry to do that to you. The last page, actually, the last few pages, are an annex. So maybe page 3. And then one further on. There we are, thank you.
+
+Helen MacNamara and Simon Case. So two very senior civil servants, Simon Case was not by then yet Cabinet Secretary.
+
+Page 3 of this document, please, at paragraph 6. There is a reference there to the fact that the devolved administrations had been involved in decision-making through the ministerial implementation groups and in COBR, and that there had to be a mechanism to discuss and agree on a four nation approach. So if the MIGs were being abolished, which is what this paper proposed, to be replaced by Covid-S and Covid-O, the authors of the paper recognised, did they not, that if, in addition, COBR would stop meeting, there needed to be an additional structure for policy matters at which the DAs could be engaged?
+
+**Mr Alex Thomas**: Clearly, yes.
+
+**Lead Inquiry**: In fact they suggested to the Prime Minister that that JMC route, the Joint Ministerial Committee route, be used to manage conversations with the DAs?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: My Lady has heard evidence that the Joint Ministerial Committee did not, in fact, meet, or if it did it met very rarely, but the devolved administrations were engaged, were they not, in particular through Covid-O; is that correct?
+
+**Mr Alex Thomas**: Correct, as I understand it.
+
+**Lead Inquiry**: All right. And Covid-O was a ministerial committee, it was a formal subcommittee of Cabinet, because it was part of this change of government procedure, and it was an important ministerial committee which the devolved administrations could take part in?
+
+**Mr Alex Thomas**: Yes, although, as I understand it, it was by invitation rather than as standing members.
+
+**Lead Inquiry**: Did they nevertheless attend?
+
+**Mr Alex Thomas**: I would need to check to be sure of that.
+
+**Lead Inquiry**: All right.
+
+The benefit of Covid-O was that it was a committee, was it not, at which ministers and officials and experts could convene and debate, in Covid-O's case, the operational matters which were required to be decided?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: So what view do you have on the efficacy of that committee and its replacement of the MIG system?
+
+**Mr Alex Thomas**: I think it was more effective for -- because it addressed the two problems that I identified previously, the coherence of the different policy and departmental remits, and the fact that Michael Gove, as Chancellor of the Duchy of Lancaster, was chairing rather than departmental secretaries of state.
+
+**Lead Inquiry**: But it was a system that wasn't put into place until June 2020?
+
+**Mr Alex Thomas**: Correct.
+
+**Lead Inquiry**: At the same time, the government brought together or instituted the Covid-19 Taskforce. Could you just describe for us, please, how that differed from the Covid-S and Covid-O ministerial committee structure? To what extent was it a secretariat or an operational body?
+
+**Mr Alex Thomas**: So my understanding is that the Covid Taskforce was a grouping that sat within the Cabinet Office, that acted both as a sort of formal day-to-day secretariat for the Covid strategy and operations meetings in terms of preparing papers, setting agendas, and taking minutes; but also in a -- you know, a not uncommon approach within the civil service was a policy and operation synthesis unit, so it included policy specialists, analysts, those from across government, to be able to provide the Covid Cabinet committees, subcommittees, with analysis in order to take the decisions that they needed to take.
+
+**Lady Hallett**: It seems an awful lot of groups.
+
+**Mr Alex Thomas**: I think the advantage, my Lady, of the taskforce is that it reduced the number of groups that had previously existed. It is coherent, in my mind, to have a Covid strategy meeting, a small strategy direction setting meeting chaired by the Prime Minister, an operations committee chaired by Michael Gove, and then a supporting structure for those two committees. I think it's important not to think of the taskforce as a different group with its own, you know, policy leadership structure. There were no extra committees on top of the taskforce. I imagine the senior civil servants within the taskforce had their own, you know, executive team to talk about pay and rations and so on. But the advantage of the taskforce was that it was a single group in the Cabinet Office servicing these two committees, and inextricably, in that sense, linked to those two committees.
+
+So that is more coherent than having four separate groups, or not even those groups, each of which had its own secretariat, and without the single synthesising function that then began over time to exist within the taskforce.
+
+**Lady Hallett**: And you approve of separating strategy from operations?
+
+**Mr Alex Thomas**: I do. I think it both suited the personal style of the Prime Minister at the time, so that he could chair and engage with the big picture questions, and that it then created a forum whereby Michael Gove could convene the people -- you know, the experts, who knew their subject and operational remits, to actually hash things out and get things done.
+
+It was modelled on the Brexit strategy and operations committees. I -- you know, for the record of the Inquiry, I occasionally sat on the Brexit-O Cabinet subcommittee. That -- while much of the work was, you know, painful and frustrating, dealing with no-deal Brexit planning -- was a functional Cabinet committee. And I think it was wise of those officials and ultimately the Prime Minister to adopt that model that worked.
+
+**Lady Hallett**: Thank you.
+
+**Mr Keith**: Evidence has been received already, Mr Thomas, to the effect that SAGE, the Scientific Advisory Group for Emergencies, as it says on the tin, provided advice on the scientific plane, but that there was no equivalent committee which brought together expert advice in the economic and societal fields.
+
+Moreover, there doesn't appear to have been a body, an overarching body, that brought together all the areas of information, scientific, economic, societal, pandemic management, clinical, public health considerations, whatever it might be. But to what extent did, by the time it got going, the Covid Taskforce, together with its ministerial committees above it, fulfil that function?
+
+**Mr Alex Thomas**: I think over time it began to fulfil that function. I think it took some time, months and possibly more, to get fully operational, but I think inside the government, inside the Cabinet Office, the taskforce began to build the expertise and the authority to do that synthesis.
+
+What it didn't do, and we may come on to this, stop me if we will, is rectify the gap in distinct expert analysis in the economic sphere in particular, and the public attention and distorting consequences of an extreme focus on SAGE giving scientific advice as opposed to other experts giving advice in those other fields.
+
+**Lead Inquiry**: We'll come back to that, indeed.
+
+You've read the Rule 9 witness statements from a number of civil servants, including Simon Ridley, who was the head of the Covid Taskforce, as well as that of Helen MacNamara, who was the Deputy Cabinet Secretary, and also you've read the letter from Mr Cummings to the Inquiry.
+
+**Mr Alex Thomas**: Sorry to interrupt, I haven't actually seen Helen MacNamara's or Mr Cummings' evidence, I have seen Simon Ridley's.
+
+**Lead Inquiry**: Yes, you've seen Mr Cummings' letter, you haven't seen his statement, because that's not something that we have yet either.
+
+**Mr Alex Thomas**: I'm not sure I have seen the letter.
+
+**Lead Inquiry**: All right.
+
+**Mr Alex Thomas**: Anyway, just to be open.
+
+**Lead Inquiry**: All right. It's a document which the core participants have received.
+
+Ms MacNamara's statement and Mr Cummings' letter make plain that one of the consequences of the institution of the Covid Taskforce is that it pushed decisions through without going through Cabinet collective decision-making processes.
+
+What is Cabinet collective decision-making?
+
+**Mr Alex Thomas**: So it is the supreme form of decision-making in the United Kingdom Government --
+
+**Lead Inquiry**: Who says it's the supreme form of government decision --
+
+**Mr Alex Thomas**: Our uncodified constitution says that.
+
+At its pinnacle it involves the Prime Minister and his or her Cabinet agreeing, either in a meeting or by written correspondence on a particular policy decision or indeed on anything else.
+
+Cabinet authority can and very often is delegated to a subcommittee of Cabinet which is able to exercise the same authority as would the whole Cabinet sitting together.
+
+**Lead Inquiry**: So pausing there and picking up some of the threads, of course you've already told us that there was a Covid-O and a Covid-S formal Cabinet subcommittee, so were they able, therefore, to discharge the constitutionally vital role of Cabinet through those two subcommittees?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: Nevertheless, have you been able to reach a view as to the extent to which the decision-making that was taking place in the CTF was passed through Cabinet or its subcommittees for, as you've described it, their supreme imprimatur?
+
+**Mr Alex Thomas**: From what I have seen, the policy and operational decisions were, you know, appropriately passed through the Covid-S or Covid-O subcommittees. I don't know about Cabinet as a whole, but, as I say, that's entirely proper.
+
+Two caveats to that. One, I suppose, I don't know what I don't know. I don't know every decision that may or may not have been taken in other fora. The second, just to explore the nature of your question for a moment, is I think it's wrong to think of the Covid Taskforce as a decision-making thing. It only makes decisions that are made -- well, decisions are already made, that are made by Covid-S or Covid-O. The taskforce itself could take some very, very low level, sort of administrative almost, decisions, but anything of any policy import would need to go through those Cabinet committees, otherwise it wouldn't exist as a decision, if you see what I mean. There wasn't a separate authority that the Covid Taskforce would have to make those decisions.
+
+**Lead Inquiry**: Why then do you think, and we'll obviously hear from them directly, that Ms MacNamara observes that the CTF was able to make decisions without going through Cabinet collective decision-making and Mr Cummings observes that the CTF becomes much more important than either Cabinet or Cabinet committees in essentially monitoring the crisis and advising the Prime Minister?
+
+**Mr Alex Thomas**: I don't know. As I said, I haven't seen those --
+
+**Lead Inquiry**: All right.
+
+**Mr Alex Thomas**: -- those documents. I think a secretariat can be of huge importance, because it sets the terms of the decision, it determines which evidence goes forward for decision, and provides the advice that informs the decision, so it can be powerful, but it would seem to me if there is evidence -- which, as I say, I haven't seen -- that there were decisions, there were substantive policy decisions being made outside of Covid-S and Covid-O, that would be something that was not consistent with Cabinet collective responsibility.
+
+**Lead Inquiry**: In general terms, have you been able to form a view as to the ability of the then Cabinet to be engaged in, to be part of the core decision-making process between March and September?
+
+**Mr Alex Thomas**: It seems to me that, from the evidence in the media and elsewhere, from our research, but particularly from the evidence the Inquiry has received that I have seen, that there was no shortage of discussion in Cabinet. There was an amount of debate in Cabinet, clearly to some extent informed by the Chief Medical Officer and the Government Chief Scientific Adviser.
+
+My strong sense, though, is that the actual decisions were made in Covid-S and Covid-O and often formulated, discussed and, you know, aerated, if you like, in those Prime Ministerial 9.15 and other meetings.
+
+**Lead Inquiry**: When you say aerated, can you reach a view, have you been able to reach a view as to whether, by and large, the decision-making actually took place in the 9.15 meetings, with the Prime Minister and his closest advisers, or at Covid-S and Covid-O?
+
+**Mr Alex Thomas**: I think this might get slightly to the point you were drawing out a moment ago. I would expect, and, you know, haven't seen anything that suggests that formal policy decisions were made elsewhere than Covid-S and Covid-O. That does not mean that those were the fora where the decision was actually framed. It is quite common in government for pre-meetings, discussions, meetings at official level and ministerial level, and ultimately around the Prime Minister, to agree the desired outcome of a meeting that, you know, often will be the actual outcome of a meeting. That doesn't mean then that a secretary of state or a minister at the formal set piece Cabinet committee or Cabinet subcommittee, can't say, "Hang on a minute, I don't like this, I'm going to raise it to debate", and that might take the decision in a different direction or it might mean a decision isn't made.
+
+**Lead Inquiry**: Bluntly, the evidence appears to show that on Sunday, 22 March, on the eve of the lockdown on the Monday, the decision of whether or not to impose a national lockdown was debated in ferocious terms in front of the Prime Minister. He appears to have decided that there will be, there has to be a lockdown, but he demands, quite rightly, that the matter also go to COBR, which is sitting the following day, in order for that decision formally to be promulgated. Is that how it might work?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: Thank you.
+
+Can we have, please, INQ000048313, it's Mr Cummings' letter, at page 54 of 69.
+
+This is a WhatsApp taken from a WhatsApp group, "SimonC", that's Simon Case, by September on the cusp of becoming Cabinet Secretary but at that time I think a first or second permanent secretary in the Cabinet Office, "Caino", Lee Cain, and "dom", Dominic Cummings, 8 September:
+
+"As always discussions with these ministers is moronic. They cannot understand priorities.
+
+"They didn't even understand what they were talking about for most this meeting."
+
+[Simon Case] "Quite.
+
+"This is embarrassing."
+
+Then this:
+
+"By weekend he'll be saying '6 is untenable a total disaster we've got to get everybody back to work'."
+
+That appears to be an observation on the Prime Minister's approach to the rule of group of six, which was under debate at that time.
+
+[Lee Cain] "Yes."
+
+Then there is a trolley emoji:
+
+"Full [trolley] mode.
+
+"It didn't take til weekend!"
+
+[Simon Case] "Spectacular today -- we want to open up the economy ASAP, forget the bloody virus."
+
+[Lee Cain] "I blame the messaging #CommsProblem.
+
+"Hancock has got to go. Joker."
+
+And:
+
+"Yup. And liar."
+
+The view expressed of ministers by government officials is, of itself, extremely regrettable, is it not?
+
+**Mr Alex Thomas**: Yes. I should just also say, with reference to what I said earlier, if this is the Dominic Cummings letter, I have seen extracts of these previously, so just to clarify what I said, I haven't seen a sort of formal letter, but I have seen these.
+
+But yes.
+
+**Lead Inquiry**: To what extent does it matter that ministers appear to have been held in such low regard by civil servants and political advisers?
+
+**Mr Alex Thomas**: It's regrettable, as I say. You know, I would note that the least temperate language there was from two special advisers rather than Simon Case. I think the --
+
+**Lead Inquiry**: I think just pause there. Is that correct?
+
+Simon Case, Simon says "Quite", on the left-hand box, and is therefore presumed not to be the interlocutor beforehand, which is somebody else.
+
+**Mr Alex Thomas**: So it seems to me to say that it's Dominic Cummings saying:
+
+"Full [trolley] mode.
+
+"It didn't take til weekend!"
+
+Lee Cain saying:
+
+"What's his issue? Xmas cancelled stuff?"
+
+And then Simon Case saying:
+
+"Spectacular today -- we want to open up ..."
+
+And I would read that as sort of semi-quoting the Prime Minister as saying, "We want to open up the economy", et cetera, and then Lee Cain coming back in with what I assume is a joke about blaming the comms messaging, for which he was partly responsible, and the message about Matt Hancock.
+
+So, regrettable. I think what it clearly speaks to is an environment amongst the Prime Minister's closest and most senior advisers where they had, privately at least, entirely lost confidence in his ability to take consistent decisions. I think that's the most regrettable thing, both their loss of confidence and presumably his failure to take those consistent decisions.
+
+I think it is not uncommon, particularly for, you know, political advisers who might have a close relationship with their ministers, to be less formal than civil servants, but I think all of the language here is clearly, you know, unfortunate.
+
+**Lead Inquiry**: Does it extend beyond that to a serious issue, the serious issue of the loss of confidence in ministers, because there is a direct and very personal attack on the Secretary of State for Health and Social Care there as well?
+
+**Mr Alex Thomas**: Yes. And of course it is not ... it is not unprecedented for advisers and civil servants in Number 10, in the Cabinet Office, elsewhere, to, you know, express concerns about ministers privately. The decisions about the competence and capability of ministers, though, are entirely in the Prime Minister's sphere. It has to be the Prime Minister's decision about the confidence and capability of his ministers. The extent to which those political advisers had, you know, influence over the Prime Minister, I guess, is the question that most relates to the government's administration of Boris Johnson's government at that time.
+
+**Lead Inquiry**: So are there two levels here, Mr Thomas: firstly, the objective issue of ministers' competence, are you able to say whether or not there was any basis, any proper or genuine basis for concern to be expressed about the general competence of ministers? Putting it another way, were these advisers and civil servants' views entirely without justification or not?
+
+**Mr Alex Thomas**: From the evidence I've seen there are, you know, many comments that one could make about what was happening over the course of that year in particular. It is, you know, pretty clear -- well, it is clear to me that the consistency of decision-making was something that could legitimately be criticised and be a cause for concern, which is not at all to say that ministers or a Prime Minister should not change their mind. I think it's healthy for ministers to be open to changing their mind. But I think that has to be on the basis of a changed situation or reasoned reflection rather than in the ad hoc way that they seem to be suggesting.
+
+**Lead Inquiry**: I must commend you, if I may say so, perhaps on account of your previous civil service history, for some wonderful civil service phraseology there.
+
+**Mr Alex Thomas**: Apologies.
+
+**Lead Inquiry**: "... the consistency of decision-making was something that could legitimately be criticised and be a cause for concern ..."
+
+There was a basis for the civil servants' and advisers' view as to the lack of competence on occasion or perhaps more generally on the part of ministers?
+
+**Mr Alex Thomas**: Yes. You can take the boy out of the civil service, you can't always take the civil service out of the boy.
+
+**Lady Hallett**: I think Mr Keith is being unduly harsh on you, Mr Thomas. I understood what you were saying, which is that consistency is not always a virtue if there is a change of circumstance.
+
+**Mr Alex Thomas**: Yes.
+
+**Lady Hallett**: But you have to make sure you've thought everything through properly and considered the material before you make a change of decision, because it impacts everybody.
+
+**Mr Alex Thomas**: Yes, my Lady. And I think if there is a reason behind my -- the circumspection in some of my language, to revert to Sir Humphrey, it's because it is quite easy, looking at these messages, to have both an emotional and quite a stark personal reaction to them. They are not comfortable to read. And I can only imagine if you are a victim of or related to someone who suffered or died from Covid, this is appalling to read. What I'm trying to do through perhaps my caution is to assist the Inquiry in understanding that in the crucible of Number 10 and the Cabinet Office, this is perhaps not particularly unusual. It is regrettable, as we discussed earlier, but I -- and it should be called out as regrettable, but the critical thing is the decisions that were made, the way that they were communicated and the relevance of these messages is about the context in which the decisions were made rather than the messages themselves, if that makes sense to you, my Lady.
+
+**Mr Keith**: Mr Thomas, in the course of opening this module, I myself observed that a degree of caution has to be applied, naturally, when drawing conclusions from this sort of material.
+
+But to revert to the point I put to you, whilst paying due deference to that point and applying a distinct level of caution as to what can be read into these messages, because of their intemperate nature, because of the crucible that was Number 10, because of the high octane and aggressive atmosphere which appears to have percolated through its veins, nevertheless the messages show that serious concerns were being expressed, between people who were in a position to know, as to the competence of ministers and in particular the competence of the Prime Minister.
+
+**Mr Alex Thomas**: With that I completely agree.
+
+**Lead Inquiry**: The second point is, who carries ultimate responsibility for changes in personnel, for selecting the correct team, with perhaps a higher degree of competence, when faced with evidence of lack of competence on the part of members of that team?
+
+**Mr Alex Thomas**: Well, the leader of that team, in this case the Prime Minister.
+
+**Lead Inquiry**: Lead government departments is another area that you've looked at in your report. The Department of Health and Social Care was the lead government department, and the Inquiry heard a great deal of evidence in Module 1 as to the significance of the lead government department, and you're aware both from government-produced papers, a UK Government Resilience Framework of December 2022, which the Inquiry looked at in some detail through the evidence of Oliver Letwin in Module 1, and also a report called "Crisis capabilities review: responding to crises from the centre of government", a report dated February 2022, that the lead government department model has its very distinct limitations?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: In the face of an immediate crisis, a health crisis, in the case of the DHSC, it plays a very important, perhaps a vital role. But in the face of a whole-country crisis, involving a multitude of government departments, does that model start to break down because it places too much weight on the lead government department and an expectation that it will be in the driving seat in terms of responding to that whole-government crisis?
+
+**Mr Alex Thomas**: Yes, I agree with you that there are circumstances, many circumstances, in which the lead government department model can be effective. For example, not to labour it, but I was involved in a number of crises in DEFRA, the environment department, around animal diseases, animal diesel outbreaks, that were, in one sense whole-government, crises, many different government departments were involved, but were manageable through that model.
+
+The thing I would add to your correct criticism about the lead department model breaking down in a whole-government crisis is that there's a flaw in the preparation for the crisis as well. I think in theory the Department of Health and Social Care should have been holding, for example, the Department for Education to account for its preparedness for a pandemic of this kind. It is clear to me from what transpired that the Department for Education did not have plans for a pandemic of this kind or, if they did, they were superficial.
+
+So I think the lead department model, while correctly assigning accountability, does not give enough authority to the lead department, or allows the lead department to side-step the whole-government aspects of preparedness for a crisis.
+
+**Lead Inquiry**: And you've described, of course, the important role that the Cabinet Office plays at the heart of government in bringing the various departments together, in synthesising information, broking, if you like, the position between departments. It the lead government department is institutionally unable or unwilling to be able to act and the Cabinet Office, as you have described, lacks the institutional levers of power to be able to bring about a successful outcome, where does that leave government departments?
+
+**Mr Alex Thomas**: It leaves a gap. And I think, to add to your Cabinet Office point, one of the points in our research we've made is that the Civil Contingencies Secretariat in particular put aside the architecture of the other secretariats and the policy synthesis in the run-up to the pandemic. CCS did not have the capacity or remit to fully interrogate the plans of lead and non-lead government departments. That, as I understand, is something that has been rectified, but that created a gap in the assurance process as well as the structural gap you identified in your question.
+
+**Lead Inquiry**: Finally on this issue of lead government departments, in practice, and at a much more prosaic, perhaps personal level, have you seen signs or in your review of the material did you see signs of government meetings, whether they be 9.15 meetings or COBR meetings or Covid-S, Covid-O meetings, at which, on account of the DHSC being the lead government department, its secretary of state or officials kept too much within the DHSC, that is to say they resented encroachment upon what they saw as their turf, that they weren't open enough with other government departments and with the centre, and they resented challenge?
+
+**Mr Alex Thomas**: I think there is a natural and, in some senses, admirable tendency in government departments to want to present solutions as well as problems, but I think in a crisis like this that strength can become a weakness.
+
+There is also an institutional -- sometimes an institutional tendency to hoard information or to see Number 10 or the Cabinet Office as the enemy.
+
+I think, from the material that I've seen, there were, you know, moments when certainly some of the actors in this system felt that DHSC was both not playing ball but also not sufficiently gripping the situation.
+
+I would also add a sort of personal reflection that that is perhaps less about DHSC as a department or its leadership but about the somewhat inchoate structure around -- I know you have looked at and will look at Public Health England, the relationship between DHSC and NHS England. DHSC, it has often seemed to me, is a department squeezed between Number 10, the Treasury, on the one hand, and NHS England on the other. So I think there's a question of DHSC's, you know, authority as lead government department in this crisis.
+
+**Lead Inquiry**: And is there a link between that observation and some of the comments made by Mr Cummings in particular, but Number 10 officials more widely, to the effect that there was a tendency on the part of the DHSC to attend meetings and to pull what might be described as a DHSC rabbit out of the hat, or, to use Mr Cummings' word, to make it up?
+
+**Mr Alex Thomas**: I'm not sure I could comment on making it up. It does not surprise me at all that there were people in Number 10 and the Cabinet Office who were frustrated with DHSC. That can be quite common, for some of the reasons we've talked about. But I also think -- we may or may not cover it, but the data flows and data analysis within government were not strong in the early part of the pandemic, and if there was a lack of solidity to data and information that was flowing in, that could be one source of frustration.
+
+**Lead Inquiry**: Now, just a few questions on a handful, shortly, of disparate, separate points. In relation to the devolved administrations, you've told us about the participation of the devolved administrations in COBR and in Covid-O and Covid-S and the JMC structure.
+
+Do you reach in your report the view that there were significant failings in the degree of co-ordination between the United Kingdom Government and the devolved administrations in terms of the latter's input into the core decision-making?
+
+**Mr Alex Thomas**: I think, yes, that is fair. I think it is entirely legitimate for the UK Government to take decisions on behalf of England and for the devolved administrations to take decisions on behalf of those nations. But I think in a -- what, excluding Northern Ireland, we in DEFRA used to call a sort of single epidemiological area, and given the interlinkages between all the different parts of the country, consistency and co-ordination to the extent possible would have been good, and there were times when that communication and input seemed to break down.
+
+**Lead Inquiry**: Were the working relationships and communication between the central government in the United Kingdom and regional and local government any more or less effective?
+
+**Mr Alex Thomas**: I think, on that score, it probably got more effective as the pandemic went on, but clearly there were well publicised events where local and regional government leaders were not sufficiently involved. I think partly that was a problem of the national government's own making as it got deeper into the tiering approach, that got ever more complicated and ever more difficult to untangle the different financial support, enforcement, and other aspects of the operation across the country.
+
+**Lead Inquiry**: To what extent were those difficulties reflective of the structures and pre-existing systems for communication, as opposed to the personalities, of course, the personalities of the First Ministers and the Prime Minister, who ultimately drive that system of collaboration?
+
+**Mr Alex Thomas**: I think ultimately it comes down to the latter, but that is not something really that we can legislate for, that depends on who is elected. So I think some of the -- there were clearly deficiencies in the system, the Joint Ministerial Committee, for example, I would say, you know, could operate well on paper but rarely operated that well in practice and the government has made various reforms to that structure to hopefully improve it, with which I agree.
+
+So there was a structural gap in how central government engaged with all these different tiers, because the architecture was not sufficiently clear and authoritative.
+
+**Lead Inquiry**: SAGE. I can deal with this briefly, because this is an area which the participants in SAGE have themselves commented on, and they will continue to do so during the course of the evidence next week, but did you look at, structurally, the position of SAGE and the role that it played in the provision of advice to central government?
+
+**Mr Alex Thomas**: Yes, and we as the IFG and in part I personally have looked at this. I think SAGE on its own terms did a good job. There are legitimate criticisms that I know the Inquiry has considered about diversity of input and experience, and something of a delay to the transparency, which I would, you know, commend Sir Patrick Vallance for pushing inside and outside government.
+
+The main -- I also think that -- I've thought about this quite a lot -- I think the model of a Chief Scientific Adviser and Chief Medical Officer is the right one. I know there is a view that ministers should have more direct and personal access to a range of experts, and I think something of an opening up of the SAGE experts would be beneficial, but I think ultimately channelling that through the CMO and the GCSA is the right model.
+
+The main gap, and I won't labour it because we've talked about it, is the other forms of evidence that were going into decision-making.
+
+**Lead Inquiry**: Yes. So that, Mr Thomas, we can be assured that the Inquiry has focused its attention on the right aspects of SAGE, would you agree with this summary of your report, that these are the following areas in which you invite the Inquiry's focus: firstly, the make-up of the committee, that it was largely epidemiologists, modellers and behavioural scientists. There is an issue about the lack of diversity of expertise, a requirement for experts in pandemic management, crisis management, social scientists and the like. So that's the first area.
+
+The second area concerns the -- you describe it as the way in which, because the government commissioned work, it slowed down the decision-making, because SAGE was always responsive to specific requests.
+
+Third, because it was designed to address questions put to it, there may have been a caution on its own part or a sense of caution that led it to be less proactive; it waited for commission as opposed to wanting to proactively recommend, in a precautionary way, specific recommendations.
+
+**Mr Alex Thomas**: Yep.
+
+**Lead Inquiry**: Fourthly, there is an issue, is there not, with the way in which minutes were compiled as reflective of the consensus position, and therefore may not have actually adequately reflected the hugely important nuances in the debate.
+
+Fifthly, SAGE had no clear evidence of what the government's objectives or direction was, and so felt themselves unable to be able to fill the void.
+
+You've discussed already the requirement for a synthesis of not just scientific advisory evidence but public health, economic, societal and pandemic managements to be brought together.
+
+And lastly, in relation to the government's messaging, to what extent do you feel that the government's message or mantra of "following the science" was a proper reflection of the boundaries between scientific advice and policy decision?
+
+**Mr Alex Thomas**: It was not a proper reflection of the boundaries. I think "informed by the science" is a nuanced but important distinction.
+
+**Lead Inquiry**: All right.
+
+Economic analysis and modelling. Did you look in your report at the degree to which the Treasury in particular had provided differing levels of economic analysis and modelling in the course of the crisis?
+
+**Mr Alex Thomas**: So there was a report that -- well, in my report it does briefly cover that, with more detail, with other IFG material, yes.
+
+**Lead Inquiry**: In general terms -- well, are there two points that you make: firstly, in the early part of the pandemic, some of the best decision-making was in the economic sphere, because of the speed and the coherence with which the Treasury was able to produce the business support schemes at very rapid pace?
+
+**Mr Alex Thomas**: Correct.
+
+**Lead Inquiry**: But that, secondly, throughout the whole course of the pandemic, there were perhaps self-imposed constraints put into place by the Treasury which prevented it from properly sharing economic analysis and its thinking in its reports with the rest of government?
+
+**Mr Alex Thomas**: Yes, one of the criticisms that I think is often fairly levelled at the Treasury is that they are hoarders of information and data, and I think that did not, and our research work would suggest that that did not always lead to the best cross-government decision-making.
+
+**Lead Inquiry**: You've told us, and you've commented upon some of the WhatsApps and the informal methods of communication utilised by advisers and civil servants and politicians. It is self-evident that WhatsApps and text messages are a convenient and swift form of communication, but of course they lack nuance and they can't possibly reflect the give and take of a particularly complex policy issue.
+
+Is there in the field of political science and in the academic world concerning the efficacy of government, been a number of reports making recommendations about the use by ministers, advisers and officials of personal phones, WhatsApps and messaging devices?
+
+**Mr Alex Thomas**: Yes, there have, including one from the Institute for Government that talked about the importance of recording and properly using WhatsApps, and also that they could be beneficial for informal communication but shouldn't be used to take formal decisions.
+
+One reflection I have where my view has changed a little, thanks to reviewing some of the documentation in the Inquiry, is that for all the extreme discomfort in looking at many of these informal WhatsApp messages, it is relatively hard to find a substantial policy decision in the material that I have seen that was actually made on WhatsApp. So my concern is now more about the context for the decision that the WhatsApps set, rather than the actual formality of the decision-making.
+
+**Lead Inquiry**: By that, do you mean it is extremely important to have a proper record-keeping system, a means by which those policy decisions are scrutinised and can be transparently examined subsequently, if they're not, as you rightly say, set out clearly on the WhatsApp system?
+
+**Mr Alex Thomas**: Yes. And the actual decision should be made through a proper, you know, sometimes rapid but reflective process in Cabinet committees.
+
+Again, that said, we know more about what was in the minds of some of the key actors in this crisis through WhatsApps, so they are not without their use for the public record, but that depends on them being, you know, available and retained.
+
+**Lead Inquiry**: But by and large that material tells us a great deal about the authors' views on competence, reliability, integrity, the personal attributes, if you like, of the persons within government, rather than anything about the substantive policy making?
+
+**Mr Alex Thomas**: Correct.
+
+**Lead Inquiry**: Has this issue of "sofa government", of momentous decisions being taken without being properly recorded and without being transparently made, long been an issue at the heart of government?
+
+**Mr Alex Thomas**: Well, I make reference in my evidence to the Chilcot report into the circumstances around the decision to go to war in Iraq. Clearly one of the core critiques of that report was around informality of decision-making. I think -- I think it comes back to the Prime Minister. I think prime ministers -- this goes to the Helen MacNamara evidence you drew our attention to earlier about COBR. Prime ministers tend to make decisions in the fora and in the manner with which they are most comfortable. Those decisions -- the process by which they make those decisions is not always conducive to a thorough consideration of the evidence and a proper reflection on the consequences of that decision.
+
+**Lead Inquiry**: On the dawning of the pandemic, the Johnson government was, in your words, a relatively new and inexperienced one. It took over power in a system which had been placed under considerable strain by the demands and complexities of no-deal Brexit planning, and it was a system which had still not yet settled down, if you like, after the impact of the change of Prime Minister and the general election in 2019.
+
+To what extent did those systemic issues impact upon the calibre of the individual decisions that this Inquiry is looking at?
+
+**Mr Alex Thomas**: I think it is hard to see how they could have -- how it could have been anything other than a great extent, on the calibre, both in terms of the individuals, particularly ministers and their experience, in terms of the resilience of the Cabinet Office in particular but all government departments, and in terms of the political context in which government had been -- the top of government had been operating for the last three, four, five years.
+
+**Lead Inquiry**: To what extent does proper crisis management depend on having the right people in the right position?
+
+**Mr Alex Thomas**: Clearly to a huge extent, but also the right structures.
+
+**Lead Inquiry**: How important is the identification of a clear strategy to proper crisis management and response?
+
+**Mr Alex Thomas**: Very important. And I think -- I saw the evidence from Lord O'Donnell, Gus O'Donnell, and I would entirely agree with some of his critique about the lack of a framework, a strategy that could then be applied into a framework that allowed ministers and senior officials to grapple with these extremely difficult decisions. There was not enough, let's call it, complete decision-making.
+
+**Lead Inquiry**: At what level should the Inquiry be examining the nature of those strategic decisions, or to what extent does the identification of strategy matter? Are you talking about the sort of overarching approach, the debate about suppression or mitigation, of whether there would be a first or second wave, of herd immunity, whether we allow the fatal consequences of the virus to spread or whether we crack down completely on the spread of the virus? Is that the sort of level of debate that you have in mind?
+
+**Mr Alex Thomas**: Yes, it is. And clearly those are all issues for the Inquiry.
+
+You know, in the field in which we have been discussing this morning, around the nature of decision-making at the heart of government, for me it's the mechanism by which all different aspects of society were properly considered in the decisions that were made, from the economy through to education, through to health, and so on. I think -- I entirely understand, for example, the reasons for the "protect the NHS" objective that was clearly central to the government's approach, but that still seems to me to be limited as a strategic objective for government, and I think that is an important area for the Inquiry to consider.
+
+**Lead Inquiry**: You've referred to the systems generally that were in place on the dawn of the pandemic, and you've described for us how the government systems evolved over time, but I want to show you, please, a document, INQ000136755, which was a document prepared by Helen MacNamara regarding how Number 10 and the Cabinet Office could better support the Prime Minister. It's a document from, we believe, May 2020.
+
+Just picking up some of the threads, please, Mr Thomas -- if we could scroll in a little bit more on the top of the page so we can read it. Thank you.
+
+Helen MacNamara spoke to over 45 people over three days in Number 10 and the Cabinet Office, did she not?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: And she identified what she describes as some universal themes: too many meetings, poorly structured and prepared, repetitious policy discussions, too many people in the room, the top two tiers of leadership spending all their time in the same meetings, fights over ownership, senior people negotiating with each other rather than doing stuff, bad behaviours from senior leaders tolerated, too much politics, explosions of new people causing chaos, Number 10 always at war with someone, lots of people mentioned junior women being talked over or ignored, "We need a modern culture of organised collaboration not superhero bunfight". The Cabinet Office team has fallen out of shape, it has too many senior leaders, they can't take decisions without consulting others. The Cabinet Office has lost its way in making the Whitehall machine work for Number 10. Superhero culture prevalent. No one had a clear picture of who was doing what and who is supposed to be doing what. The work isn't good enough. It's not clear who is calling out what. Everyone knows something is wrong and not true, but that's not brought it to a head.
+
+That is as damning an indictment of the system of government in Number 10 and the Cabinet Office as it is possible to imagine, is it not?
+
+**Mr Alex Thomas**: Yes, and Helen MacNamara is an extremely experienced and also, as I think comes out from that, empathetic senior civil servant. I, you know, when I read this, it's distressing and difficult to read, from somebody who knows many of the characters involved, though I can't say that I was particularly surprised, from what I heard from people at the time.
+
+**Lead Inquiry**: You're obviously aware of the diary entries from Sir Patrick Vallance, in which he describes the general levels of chaos, of flip-flopping by the Prime Minister, of the way in which a decision would be taken or a strategy identified, only for him to go into reverse within hours or days and to reach a completely different outcome on seemingly the same material?
+
+**Mr Alex Thomas**: Yes. And clearly that is one person's perspective, but it's an authoritative person's perspective.
+
+The British system, and this may well be a deep flaw in the British system, responds to clarity and direction setting from the Prime Minister. That is an overwhelming feature of how government works, and where that is not present, as we've seen from some of the material this morning, it clearly breaks down.
+
+**Lead Inquiry**: Is it implicit in that answer that leadership and consistency of decision-making are absolutely vital in a crisis?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: Do you conclude that, in effect, Mr Johnson's leadership engendered a chaotic government system, with competing power sources, unclear lines of responsibility and, ultimately, poor decision-making?
+
+**Mr Alex Thomas**: I think that's clear from the material we've seen, yes.
+
+**Lead Inquiry**: You make a number of recommendations in your report. I'm not going to go through them all, because you've set them out plainly, but do you suggest, in broad terms, the following immediate or urgent or important changes:
+
+One, that there is a supercharged overarching body above SAGE to bring together and synthesise all those issues, economic, societal, public health, pandemic management, matters which may all be relevant to a crisis, to make recommendations to politicians, ultimately the Prime Minister, for a better decision-making process?
+
+**Mr Alex Thomas**: Yes, I can see the case for that, as long as it is flexible and responsive enough to deal with different crises as they emerge.
+
+**Lead Inquiry**: A supercharged Covid-O, if you like, because it would comprise ministers and officials and experts?
+
+**Mr Alex Thomas**: Yes, I think there is great value in ministers and officials and experts, as long as the right people are in the room to reflect the best possible discussion in being in the same place and hashing these things out.
+
+**Lead Inquiry**: Do the structures around the Prime Minister need to be tightened up and formalised in order to ensure that he or she is given the best possible advice in a transparent and clear way to enable them to make the best possible decisions?
+
+**Mr Alex Thomas**: Yes.
+
+**Lead Inquiry**: Does there need to be a significant reduction in the churn, the rotation of ministers and advisers?
+
+**Mr Alex Thomas**: And civil servants, yes.
+
+**Lead Inquiry**: Does there need to be substantial training in civil contingency management for advisers, civil servants and ministers?
+
+**Mr Alex Thomas**: Yes. I am mildly sceptical about how far that will gain purchase on ministers once they're in office, but I think it is still worth doing. I also think that before ministers take office there is something that we should do to prepare them better for so doing.
+
+**Lead Inquiry**: You mentioned earlier that the UK system is reliant, perhaps too reliant, in a crisis on the personal attributes of the sitting Prime Minister. It's plain, Mr Thomas, that there is a limit upon which any Inquiry can make recommendations, given the deference that is paid to a Prime Minister under our unwritten constitution, on account of their absolute discretion to appoint Cabinet and set up committees and appoint advisers. But can the civil service structure around the Prime Minister be reformed in order to address, one hopes, some of the major concerns that you've expressed?
+
+**Mr Alex Thomas**: For all the reasons and all the discussion that we've had this morning, I think yes. But I would agree with and emphasise your point about democracy and the need for governments, prime ministers and ministers to be accountable to Parliament. I think there is a danger, we feel it at the Institute for Government all the time, of sometimes taking a slightly sort of desiccated, institutional view of these things. It is healthy for there to be vigorous and rigorous debate, it is healthy for the population to have a chance to elect the governing party and, by extension, the Prime Minister of their choice, but I think it is also healthy for the ability to operate in government to be a full part of those considerations.
+
+**Lead Inquiry**: Are you saying, on account of the fact that ministers are democratically accountable to the population through, of course, directly elected MPs, holding a majority in the House of Commons, and thereby forming government, there is a limit to what can be done in terms of improving the personal competence of ministers, but the systems around them are capable of significant reform?
+
+**Mr Alex Thomas**: Correct.
+
+**Mr Keith**: Thank you.
+
+My Lady, I don't believe we have any questions.
+
+**Lady Hallett**: No, we don't.
+
+Thank you very much indeed, Mr Thomas. I'm very grateful, and I think you get also the gratitude from our stenographer for being a very well paced witness. So thank you very much indeed for all your help.
+
+**The Witness**: Thank you, my Lady, and it is a privilege to be able to give evidence to this important endeavour.
+
+**Lady Hallett**: Thank you.
+
+*(The witness withdrew)*
+
+**Lady Hallett**: I was asked to break, but I think every time I break it takes a bit of time and I can catch you all by surprise too, so I think unless anyone insists I have to break, we just need to get another chair.
+
+**Mr Keith**: My Lady, I believe the witnesses are here, so by all means.
+
+**Lady Hallett**: And you're ready to proceed, Mr O'Connor?
+
+*(Pause)*
+
+**Lady Hallett**: Mr O'Connor, are you ready for the witnesses to be sworn?
+
+**Mr O'Connor**: Yes, I am, thank you, my Lady.
+
+**Lady Hallett**: Yes, please.
+
+Dr Rachael Evans
+----------------
+
+*DR RACHAEL EVANS (affirmed).*
+
+Professor Christopher Brightling
+--------------------------------
+
+*PROFESSOR CHRISTOPHER BRIGHTLING (affirmed).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Mr O'Connor.
+
+**Mr O'Connor**: Thank you, my Lady.
+
+You are Professor Chris Brightling and Dr Rachael Evans; I think that's right?
+
+**Professor Brightling**: Correct.
+
+**Mr O'Connor**: Between the two of you, you have written for us a report relating to Long Covid; is that right?
+
+**Dr Evans**: Correct.
+
+**Mr O'Connor**: We have it on screen. It's a lengthy document, but we see that on the first page there is a statement which reflects, is this right, your understanding of the duties upon you in writing this report, the duties of an expert witness, and that you understand those duties and that you've complied with them, and then both your names, both dated 26 September of this year. Is that right?
+
+**Dr Evans**: Correct.
+
+**Professor Brightling**: I do.
+
+**Mr O'Connor**: Thank you.
+
+Professor Brightling, there is a lengthy account of your career on the second page of the report, I don't ask that we bring it up. In summary, you're a professor of respiratory medicine at the University of Leicester; is that right?
+
+**Professor Brightling**: That's correct.
+
+**Mr O'Connor**: You have been a consultant since 2004.
+
+**Professor Brightling**: Correct.
+
+**Mr O'Connor**: And you remain a treating consultant physician.
+
+**Professor Brightling**: Yes.
+
+**Mr O'Connor**: Of important relevance for us today, you have been considerably involved since 2020 in both studying Long Covid and also treating those who have that condition.
+
+**Professor Brightling**: That's correct.
+
+**Mr O'Connor**: Dr Evans, you are an honorary respiratory consultant physician at the Glenfield Hospital, which is part of the University Hospitals of Leicester NHS Trust.
+
+**Dr Evans**: Correct.
+
+**Mr O'Connor**: And you are also an associate professor at the University of Leicester, and with Professor Brightling, as we will hear, you have also been involved in studying Long Covid and also treating those who have developed that condition.
+
+**Dr Evans**: That's correct.
+
+**Mr O'Connor**: Now, I'm going, Professor Brightling and Dr Evans, to take you through various topics which more or less mirror the contents of your report.
+
+You are giving evidence together. It's very important that we try to avoid overspeaking between the two of you. I know, because I have discussed this with you, that there are various parts of the report that each of you are more familiar with or reflect more fully your experience, so I'm not going to sort of direct my questions to one or the other of you, but perhaps I can invite whichever of you feels most sort of authoritative in that area to address the particular issues, and of course, once whoever that is has done so, if the other one has anything to add then please feel free, but we will take it slowly and try to avoid interrupting each other.
+
+I'm going to start with what is a very general issue, but it forms, if you like, the sort of precursor to considering Long Covid, and that is just the question of: what is a post-viral syndrome? We'll come to some of the detail around this issue, but my first question perhaps is whether there's just a simple definition of a post-viral syndrome?
+
+**Dr Evans**: Well, post-viral syndromes cover a wide group of conditions. There's always an original insult by a virus, but that virus can affect any part of the body. Sometimes the acute illness is severe, sometimes it can be very, very minor.
+
+The ongoing sequelae of that virus is what we terms the post-viral syndromes, those typical symptoms of fatigue, brain fog, sometimes muscle pain, and a whole constellation of symptoms. They can be multisystem, so meaning they can affect any part of the body, and they can be very variable, so for any particular virus there might be a syndrome for that particular virus which can look very different and last for different lengths of time.
+
+**Mr O'Connor**: Thank you, Dr Evans. And is it right then, following what you say, that as a result of the variability of the symptoms, these post-viral syndrome conditions can be more difficult to diagnose than other conditions?
+
+**Dr Evans**: So, yes, because they're very variable, so you can predict that for any virus you may get a post-viral syndrome, but what exactly that looks like may be very variable.
+
+**Mr O'Connor**: Yes. But nonetheless, when we are talking about classified post-viral syndromes, there are, as we'll come to see with Long Covid, understood definitions, and therefore a physician will normally be able to reach a diagnosis?
+
+**Dr Evans**: Absolutely, they are conditions where you can give what we would call a positive diagnosis. So even though you might not have a specific test that tells you what the syndrome is, that clinical picture, that clinical history can give you the diagnosis.
+
+**Mr O'Connor**: And you've referred, Dr Evans, to some of the symptoms involving fatigue, lasting fatigue. You haven't yet mentioned chronic fatigue syndrome, but that is a syndrome which occupies much the same area as the one you've just been describing, is it not?
+
+**Dr Evans**: So you can have a post-viral syndrome that's not necessarily going to lead on to chronic fatigue syndrome, so chronic fatigue syndrome and ME have a very precise definition across -- but there are many different definitions for it.
+
+So the CDC have defined chronic fatigue syndrome as that you must have fatigue and that it's fatigue in response to an activity or a stressor where you wouldn't expect necessarily someone to be fatigued from that. And then symptoms of something called post-exertional malaise or post-exertional symptom exacerbation where that would infer that the person gets symptoms after an activity or a stressful event or it can be a cognitive stressor.
+
+Then, on top of that, they also have to have unrefreshing sleep. So that's one definition. And those symptoms then go on for over six months.
+
+**Mr O'Connor**: All right, that's very helpful. So would it be right to say that post-viral syndromes can cause chronic fatigue syndrome, but they don't always?
+
+**Dr Evans**: That's right.
+
+**Mr O'Connor**: And as we'll come to address in detail, Long Covid has amongst its symptoms fatigue but there are other symptoms which some people suffer which don't include fatigue?
+
+**Dr Evans**: That's correct.
+
+**Mr O'Connor**: Let me ask you a further question, Dr Evans, a little bit more focused. Can you give us some examples of viruses that have caused these long-term sequelae, the post-viral syndromes?
+
+**Dr Evans**: Yes. So if we think back to the early part of the pandemic where the coronavirus was mainly causing acute lung injury, that was very similar to other viral pathogens that we've seen, the original SARS CoV virus and the MERS pandemic, both of those viruses were respiratory viruses that caused ongoing lung issues, but there can be viruses, such as the Epstein-Barr virus, which we normally think of as causing glandular fever in teenagers, and then there are a proportion of teenagers that go on and develop ongoing fatigue from that.
+
+**Mr O'Connor**: So that's glandular fever, but just switching back to SARS and MERS, those of course are both coronaviruses?
+
+**Professor Brightling**: If I may take that. So SARS-CoV-1 led to an epidemic in 2002 to 2004. The scale was considerably less than SARS-CoV-2, so less than 10,000 people actually were affected, and fewer than 1,000 people died of that. And the best data in terms of the long-term effects came from studies in Hong Kong, so they looked at a relatively small number of 100 individuals, and followed them up, for a year in their initial publication and two years in the subsequent publication, and they found symptoms such as breathlessness and fatigue, but they also it did lung function testing, and when they did that they found that the lung function was impaired, in particular a test which we know goes with -- is associated with lung scarring, and that was seen in a quarter of the people with SARS-CoV-1.
+
+So using SARS-CoV-1 as an example really gave us some clarity about the likelihood of what might happen in SARS-CoV-2.
+
+**Mr O'Connor**: Let me turn to that, then, which is my next topic, which is the question of the foreseeability of long-term sequelae from Covid-19. Perhaps if I can ask the question, at least first of all from the perspective of what was known in very early 2020 as, as we've heard, the information started to come out of China about this new virus. Of course we've learnt a huge amount since then, but just on the basis of what was known in those early days and weeks in January 2020, was it foreseeable to those of you who understand these things that there might be long-term sequelae from Covid-19?
+
+**Professor Brightling**: So very early on we were already considering that there was a number of clear areas that needed to be addressed: certainly addressing the acute condition and trying to improve management in the hospital; vaccination to try and then be part of the public health measure; and also then the likelihood of long-term effects.
+
+So this is something that we had recognised very early on and then developed a programme of work, which we then wrote up in the March of 2020. And we were learning things from others as well, so at that time I was also the chair of the Science Council for the European Respiratory Society, so I was getting -- I was in regular contact and had a number of conversations with others in China but also particularly in Europe, and obviously in Italy, was already hearing about some of the early things that people were finding after the Covid infection, so it was foreseeable to us before the pandemic, because we were aware of what had happened with SARS-CoV-1, and it was even more apparent early on in the pandemic that this would be a potential problem.
+
+**Mr O'Connor**: So just to be clear, Professor Brightling, when you say "before the pandemic", do you mean in 2019, before we'd even heard of any cases, your understanding of SARS-CoV-1 gave you to believe that a further coronavirus similar to it would cause long-term sequelae?
+
+**Professor Brightling**: Correct. So the SARS-CoV-1 post-viral syndrome data was in the public domain by 2010, and had been presented and discussed at scientific meetings ahead of that. So although the numbers were very small, we were aware of the post SARS-Cov-1 syndrome, as well as the other viruses that Dr Evans has described.
+
+**Mr O'Connor**: Then I think you've explained that as soon as the news started to come in of the developing epidemic, pandemic in China, you swiftly drew the conclusion that there might well be long-term sequelae from that virus?
+
+**Professor Brightling**: Correct. And we really became very much in an activated stage to then actually write up the protocols then in the March, when it seemed apparent to us that there really needed to be work done and why shouldn't we be the ones doing it.
+
+**Mr O'Connor**: When you talk about writing up the protocols, we'll come to hear more, probably after lunch now, about the study that the two of you were deeply involved with in terms of hospitalised patients of Covid. Was it at that stage that you started planning and moving towards undertaking that study?
+
+**Professor Brightling**: So the point where we more formally wrote up the protocol was from the middle of March.
+
+**Mr O'Connor**: Yes.
+
+Just before we leave this topic, you've told us, and explained why, when you believed long-term sequelae were certainly foreseeable. That's a binary issue: are there going to be long-term sequelae or not? At that very early stage, how confident were you able to be about the incidence of these sequelae, of their severity, exactly what form they would take and so on?
+
+**Professor Brightling**: So there's two important things to consider there. One is how big a scale the pandemic would be, and certainly we now know really just how huge an effect it's had on the entire planet. So, first of all, it's how big is the pandemic, and then it's what's the proportion of those that then have subsequent, as we now know it, Long Covid, because of the infection. And neither of those were really known.
+
+So we felt that there was likely to be a problem coming, but we didn't know the true scale of that until we understood the size of the pandemic and then had early data coming in around the potential prevalence.
+
+**Mr O'Connor**: Yes, thank you.
+
+I want to move to the next topic, if I may, which is just an overview of the emergence of Long Covid during 2020 and perhaps a little into 2021.
+
+I've referred to your study which related to hospitalised patients suffering from Covid, and you describe in your report how the early work and the early understanding of these long-term sequelae was quite sharply focused on those people suffering from Covid who were hospitalised.
+
+Can you give us a little bit more detail on that, please?
+
+**Dr Evans**: Yes. So, following on from the last line of questioning, the other group that we had information about is patients where they have a very severe lung
+
+injury ending in hospital, requiring oxygen and
+
+sometimes breathing machines to help them. And people
+
+with those conditions, so either acute lung injury or
+
+something known as adult respiratory distress syndrome,
+
+can, we know from other studies, particularly large
+
+studies from Canada showing that those patients can have
+
+ongoing consequences for many, many years -- both health
+
+consequences and consequences for occupation, so the
+
+fact that -- the SARS-CoV-2 virus, we knew from China
+
+quite early on that the predominant illness at that
+
+point was very much the acute lung injury, so that was
+
+one element to why we were looking at those people that
+
+were in hospital.
+
+But there were also some logistical challenges
+
+around setting up a research study. So people in
+
+hospital had a clear diagnosis from a clinician, even if
+
+we didn't have the testing confirmed right at
+
+the beginning. So you had a firm start point and then
+
+a follow-up. Scientifically it would have been very
+
+difficult at that time, without thought before, because
+
+of the lack of testing as well in the community, so it
+
+was quite challenging to study that group.
+
+**Mr O'Connor**: At any rate, that was the cohort that you
+
+focused on in setting up this study, which was, we see
+
+the acronym, PHOSP-Covid -- is that how you refer to it?
+
+**Dr Evans**: Yes.
+
+**Mr O'Connor**: It's in fact the Post-hospitalisation COVID-19 study --
+
+**Dr Evans**: That's correct.
+
+**Mr O'Connor**: -- as we say, focusing on this quite sharply defined cohort of really very ill people who have been hospitalised with severe lung symptoms, injury, needing oxygen and so on. And one of the points you make in your report is that people who have undergone an experience like that, particularly if they have been in an ICU unit, may have sort of continuing symptoms, almost just because of the intensity of their treatment in hospital, which is something rather different from the continuing perhaps post-viral syndrome associated with their initial infection; is that right?
+
+**Dr Evans**: Yes, so there's a spectrum of problems that somebody in hospital after or because of SARS-CoV-2 will get. That can be, like you're saying, that people might end up on the intensive care unit where they're having -- they're needing organ support, so support for their breathing, support for their kidneys, and multiple drugs, and there are things about that illness on intensive care, something that's often called post-ICU syndrome, which again can last many months, many years, that is well documented. But apart from that, being in hospital, being inactive and unwell for prolonged periods can have other consequences, so on top of also having the potential for post-viral syndromes.
+
+**Mr O'Connor**: Yes. So all of this, then, is very much focused on those people who were in hospital and who were extremely ill in hospital, but, as you've explained, those were the people who you were able to confidently make the subject of the study.
+
+It's right, though, isn't it -- and I'm going to come to this after lunch -- that there was a very different cohort of people in 2020 who, as we now know, were suffering from Long Covid; they may not have had a diagnosis, they may not even have known what was wrong with them, and they weren't the subject of the study that you were undertaking?
+
+**Dr Evans**: That is correct.
+
+**Mr O'Connor**: My Lady, that is a slightly different topic, and I was proposing to turn to it after lunch.
+
+**Lady Hallett**: Certainly. Thank you very much. I shall return at 2 o'clock. I hope you were warned that we would break over lunch.
+
+**Dr Evans**: Yes, thank you.
+
+*(12.58 pm)*
+
+*(The short adjournment)*
+
+*(2.00 pm)*
+
+**Lady Hallett**: Mr O'Connor.
+
+**Mr O'Connor**: I'm grateful, my Lady.
+
+Professor Brightling, Dr Evans, before lunch I had asked you some questions about that cohort of patients in hospital who you had begun to study in the early months of the pandemic, who were suffering from long-term symptoms.
+
+But then just before we finished, I mentioned that other group of people who were suffering longer symptoms, who in fact turned out to be a much larger group, did they not, in the community? It's right, isn't it, that their situation became known largely as a result of their own voicing of their concerns about the symptoms they were suffering?
+
+**Dr Evans**: Yes, absolutely, there wasn't the testing in the community at the beginning, and there really wasn't the recognition of what we now know as Long Covid, and actually the patients really got together as one voice to really advocate for what we know now as Long Covid, indeed actually defined Long Covid, and a number of different charities that now exist that got together in those early months, May and June of 2020.
+
+**Mr O'Connor**: Some of those groups are of course core participants before this Inquiry, and we'll be hearing some evidence later this afternoon in relation to them.
+
+As you say, the term "Long Covid" I think was coined by the patient advocates of those groups.
+
+**Dr Evans**: Absolutely.
+
+**Mr O'Connor**: Looking back on it, do you think that the NHS or public health authorities could have done more in those early months to have responded to the developing picture relating to Long Covid sufferers in the community?
+
+**Dr Evans**: So I think with hindsight the answer to that is absolutely yes, that they were left alone with what is a very frightening condition, that they didn't know what was happening, healthcare professionals weren't there to support them and the research wasn't there, and perhaps more could have been done at the start, before the pandemic, to actually prepare for what those post-viral syndromes might have been.
+
+**Mr O'Connor**: As we know, and as you describe in your report, you've just mentioned May and June, but as that year went on, no doubt partly because of the campaigns that we'll hear more about that were being mounted by those various patient advocacy groups, there was, was there not, more engagement from the National Health and other public health authorities relating to Long Covid?
+
+**Dr Evans**: Absolutely. So there were clinics started very organically to look after the people post hospital, many clinics across the UK were set up in that fashion, or doctors that had looked after people in acute care were naturally following that group up, but the people with that lived experience of ongoing symptoms for many months were then trying to seek healthcare themselves. And you will see in the report that that was incredibly challenging. But some people then were getting referred into the NHS clinics, so actually clinicians like myself across the UK were becoming more family with this syndrome.
+
+**Mr O'Connor**: Yes, and NICE, as we will see, and I'll come back to it, but towards the end of that year, in I think October and December of 2020, issued guidance and also an important definition of the condition.
+
+**Dr Evans**: Absolutely. And although it was early days and we didn't know all about Long Covid, it was really important to have that definition and particularly for people with the lived experience to actually have the symptoms that they were suffering from actually recognised.
+
+So those definitions included post-Covid syndrome, where you've got ongoing symptoms for many weeks and without another underlying condition. And I spoke about a positive diagnosis earlier and that's what we as clinicians would do.
+
+**Mr O'Connor**: I'm going to come on to ask you a few more questions focusing on diagnosis in a little while, but just sticking with the chronology and those events towards the end of 2020, in October, I think it's on 7 October 2020, NHS England announced what they called a five-point plan relating to Long Covid, did they not?
+
+**Dr Evans**: That is right.
+
+**Mr O'Connor**: And it's been helpfully brought up on the screen. This is how you've presented it within your report, and we can see there, if we just look at the points in this plan, first of all:
+
+"New guidance from NICE ..."
+
+That's what we've just been talking about, isn't it?
+
+But the second point:
+
+"An online website of supported self-management called Your Covid Recovery ..."
+
+Tell us a little about that.
+
+**Dr Evans**: Yeah, so that, again, started early in the pandemic and was released, I think, in July of that year, and it was really to help the supported self-management of people. Again, it was rather focused on the post-hospital group to begin with, but through all the advocacy of those patient support groups they did work together and actually make it more acceptable and more appropriate for the whole of the ongoing symptoms after Covid. And that was funded through NHSE and led by Professor Sally Singh at Leicester University.
+
+**Mr O'Connor**: Point 3, I think you already referred to the development of clinics. You referred to people going seeing their GPs, but the plan seems to have been to move towards designated Long Covid clinics.
+
+**Dr Evans**: That's right, so that when people do seek healthcare in the UK through their primary care team that they then have got the option of being referred to a specialist clinic by people that are aware of the syndrome, familiar with it, can talk through all the different problems, and at least help with that supported self-management.
+
+**Mr O'Connor**: And the fourth point is funding for research. We've already touched on your research, which by this stage was well under way, was it not, but there was more research which came a little later and amplified the research that you had started? Is that fair?
+
+**Dr Evans**: That's correct, yeah.
+
+**Mr O'Connor**: Then the last point -- I'm sorry.
+
+**Dr Evans**: Can I just add, and that research call, just so that it's clear, was for people that had not been hospitalised for their Covid-19. That was the important difference --
+
+**Mr O'Connor**: So the community --
+
+**Dr Evans**: Yeah, absolutely.
+
+**Mr O'Connor**: -- cases.
+
+Then the last point, the setting up of something called the NHS-England Long Covid taskforce. Is that something that either of you two were personally involved with?
+
+**Dr Evans**: Yes. Well, we both had involvement in slightly different ways. There were different workstreams within the Long Covid taskforce, so there were clinicians, academics and people with lived experience. I was involved more closely in the clinical workstream, around the clinic set-up, and Professor Brightling was in the research workstream, and Professor Sally Singh that I've mentioned was in the rehabilitation stream.
+
+**Mr O'Connor**: Thank you. That's all I wanted to ask about that plan.
+
+The next point is that, perhaps running alongside the development of the five-point plan, in very much the same period, there was engagement from the DHSC itself, and a series of ministerial roundtable meetings which, Professor Brightling, I think you were involved with, starting with a sort of pre-meeting, I think, in the summer, and then a series of more formal meetings starting in the autumn?
+
+**Professor Brightling**: That's correct. So the evolution in terms of timing, things were all happening very close together, so you had interactions through reports from the Academy of Medical Sciences and also things that were then presented to SAGE, which I'm sure you might want to come back to shortly, and that really led to then that first meeting which was the end of July which was then chaired by the Secretary of State, which then led a little bit later to then the setting up of the roundtables that were chaired by Lord Bethell. And, as Dr Evans has described, that also included people with lived experience.
+
+**Mr O'Connor**: Yes.
+
+**Professor Brightling**: And between those two was actually when that five-point plan was published. The five-point plan was published a week before the start of those regular meetings.
+
+**Mr O'Connor**: This is all explained in your report, but just to get this out, those roundtables, as you say chaired by Lord Bethell, continued I think for 12, 18 months on a regular basis after that; is that right?
+
+**Professor Brightling**: Correct, they went into the following year.
+
+**Mr O'Connor**: As I say, there is a lot more detail in your report about these various initiatives and developments, but would it be fair to say that, possibly from a slow start, as Dr Evans said, towards the end of that year things did gather pace in terms of engaging with the calls from the patient advocates and trying to understand this new condition?
+
+**Professor Brightling**: Yes, I mean, I think it was -- as we've already said, I mean, it was slow paced initially, primarily because of the focus of those who have been hospitalised, and then very much it was taken on board that this is clearly a condition that also affects people who had Covid in the community, and then the community calls, as Dr Evans described, then came out at the end of the year. So the main tranche of funding after the initial funding for our study then came very much as a focus around those who had been affected in the community.
+
+**Mr O'Connor**: Let me go on and ask you more questions about your study, and for these purposes if we could go to page 10 of your report, and it's the top of that page, we see there the reference to your PHOSP-Covid study. And at the bottom of that paragraph, which has been enlarged on the screen, you summarise the aims of the report: first of all, to determine the long-term sequelae; second, to investigate the longer-term effects of acute and post-discharge treatments, perhaps reminding us that you were focusing entirely on hospitalised patients; and finally, to provide a platform for future studies of emergent symptoms and worsening of pre-existing disease to improve care for current and future patients.
+
+With that in mind, can you give us a brief summary of the course of the study and what it showed at its conclusion?
+
+**Professor Brightling**: So, as you can see, we really wanted to understand what was the impact, and a lot of our focus was on the group of patients where we had in-clinic assessments, so they were then seen at two time points, approximately five to six months and one year; and what we were interested in is we were interested in how many of those had recovered, so that was a self-reported question -- we had a whole series of different patient-reported outcomes, and the way we put this together was, right from the outset, we recognised this is a condition that's likely to affect multiple organs, as Dr Evans described before lunch, and therefore we would need working groups with different specialists. So we'd actually engaged, through what's called the translational research collaboration network, which is part of the NIHR biomedical research network, and that allowed us to then have experts across a number of different disciplines, and in so doing we were then able to then collect all of these patient-reported outcomes. As well as that we were able to then do tests, so physiological tests, such as breathing tests and blood tests.
+
+Our main early findings, I'm going to turn to Dr Evans, because Dr Evans was the first author for those papers, around the effects in terms of the proportions recovered and the types of things we found in those patients.
+
+**Dr Evans**: So we were really quite alarmed by the first few -- the results of the first few months, because even though I'd been running clinics, we knew there were a proportion of people that weren't fully recovered but actually our study showed that it was over 70% of people that were not fully recovered by five to six months, and our one-year data shows that there is very little recovery from six months to one year. It demonstrated the multisystem organ impairment that was involved and obviously the constellation of very difficult symptoms, the impact on occupation and things outside of health, and an impact on health-related quality of life that we would see with other devastating long-term conditions.
+
+**Mr O'Connor**: So does this bring us back to the point we were discussing before lunch, that although you were reasonably confident once you knew about the virus that there would be long-term sequelae, you didn't know how bad they would be and when you found out it was a surprise to you?
+
+**Dr Evans**: Absolutely, and really, really showed the need for absolute proactive healthcare for this group.
+
+**Professor Brightling**: But it gave us some clues. So although we were somewhat surprised and we were also very concerned about the scale of the problem, it also gave us some clues about what to do next. So we then had clues around the way different groups of symptoms came together, and we also found that there were certain measurements in the blood, particularly those related to inflammation, that could identify a group of patients that might then be -- might be actually open to a potential intervention. And then we've moved on to then developing an intervention study that Dr Evans leads, which will be starting very soon, which then has a target where we know what the likely mechanism is in that group. So it's been very revealing, so that's gone right through to step 3.
+
+**Mr O'Connor**: Yes. Just going back to the point we've mentioned more than once about the focus of this study on hospitalised patients, of course from the chronology we've discussed, as the study was really getting going that was very much the time that you were realising that there were these other community patients. Did you consider at that stage expanding the study so that you could include those patients in the work as well as those in hospital?
+
+**Professor Brightling**: So, we did. So we applied -- so in that first round of funding we've described that was focused on people who had been affected in the community, we had as part of that, led by Professor Paul Little from Southampton, worked very closely with him, and a consortium, to put in a similar design study which would build on the experience from PHOSP. But that wasn't one of the studies that was then supported.
+
+**Mr O'Connor**: You mean not funded?
+
+**Professor Brightling**: Not funded.
+
+**Mr O'Connor**: Right. I'm going to move on in a moment but, just to be clear, we have focused on this study of course because it was the first and the study that you were both deeply involved with, but we do know, don't we, we saw the point on the action plan, that funding did become available and there are a range of other studies that were ongoing from sort of late 2020 and over for the rest of the pandemic; is that right?
+
+**Dr Evans**: The funding I think started February 2021, so it was really a year after those first people in February/March 2020 had first got Covid and then got their symptoms.
+
+**Mr O'Connor**: Does that perhaps teach us a lesson about future pandemics? There are such things, I know, as hibernating studies, and what those are, as I understand it, is, as it were, a study that is prepared in advance, for example, of a pandemic in rather neutral terms, but is then sort of on the blocks and ready to go. And so had such a study been hibernating in early 2020, it would have been much quicker and easier for you to have, as it were, brought it to life, and you could have then hit the ground running and it would have been a much more effective exercise in the last pandemic?
+
+**Dr Evans**: Absolutely, and we would have needed that wide-scale testing much earlier in order to do that, because in the study of the disease, if you don't have that first marker of when the infection happened, it's very difficult or impossible to study. So you need both, you need the hibernating study and then the appropriate testing to be set up at scale.
+
+**Professor Brightling**: Good to show the real value of that, if I may. So the ISARIC study, which I'm sure you may have talked about here already, which was the observational study of patients who were admitted into hospital with Covid-19, was a hibernating study, and that meant that data was then feeding through into decision-making really early, so if there had been a parallel arm that had been hibernating, then it could have gone alongside the activity of the ISARIC study, and we certainly would recommend that for future pandemic preparedness.
+
+**Mr O'Connor**: Are, to your knowledge, plans being made or have they been made for hibernating studies relating to post-viral syndromes in relation to a future pandemic?
+
+**Professor Brightling**: So we're not aware that that's been formalised but it's something that we're actually part of developing ourselves, and we will then clearly share that with the appropriate people in government.
+
+**Mr O'Connor**: Thank you.
+
+Let's move on. I want to ask you just a few more detailed questions about Long Covid itself, starting with diagnosis. We've touched on the NICE definition that was provided back in December 2020. Perhaps if we could call that up, it's quoted in your report --
+
+**Dr Evans**: Section 1.6.
+
+**Mr O'Connor**: Yes, thank you very much. So it's paragraph 1.6, page 6 of the report.
+
+**Lady Hallett**: Do you know it off by heart?
+
+**Dr Evans**: I don't, but I know that page.
+
+**Mr O'Connor**: So it's the bottom paragraph, and, Dr Evans, we need to look, don't we, about six lines up from the bottom, do we see on the right-hand side there is a sentence starting "Post-Covid-19 syndrome is defined", that was the NICE definition provided in December 2020, was it not? And before we look at it, is it right that that has become a sort of accepted definition that's used certainly in this country?
+
+**Dr Evans**: In this country, absolutely. And then the WHO developed, through a consortium, and a Delphi process, which means getting lots of experts and people with lived experience together, came up with a definition of post-Covid condition, which is also given in that section, and they're very similar. So people have to have experienced ongoing symptoms for 12 weeks, and, importantly, another condition, another explanation has to be excluded. But you can still make that diagnosis with the positive clinical findings.
+
+**Mr O'Connor**: Right. Was that the WHO definition or the NICE definition that you were summarising there?
+
+**Dr Evans**: So --
+
+**Mr O'Connor**: They're very similar.
+
+**Dr Evans**: They're very similar.
+
+**Mr O'Connor**: Let's just look at the language on the page:
+
+"Post-Covid syndrome is defined as signs and symptoms that develop during or after an infection consistent with Covid-19 ..."
+
+One.
+
+Two:
+
+"... continue for more than 12 weeks ..."
+
+Three:
+
+"... not explained by an alternative diagnosis."
+
+And that would be the definition that physicans up and down the country would be using when they were seeing patients?
+
+**Dr Evans**: Absolutely. But we also use the language "Long Covid" because it's a patient-derived term and we have kept that.
+
+**Mr O'Connor**: Yes. Now, the next -- well, there's no test, is there, for example, a blood test or any other test of that nature, that can be done to determine one way or another whether someone has Long Covid; is that right?
+
+**Dr Evans**: That's correct.
+
+**Mr O'Connor**: So if a doctor is diagnosing Long Covid, he or she simply has to go on the wording that we see in front of us and make a decision for themselves about whether the patient meets that definition?
+
+**Dr Evans**: That's correct.
+
+**Mr O'Connor**: Is there anything particularly unusual about having to make a diagnosis as a doctor without a piece of science that tells us definitively one way or the other what the answer is?
+
+**Dr Evans**: So, no, there's nothing unusual about that. Indeed, if we go back in time a few decades, that's how medicine started. We are fortunate now that for many conditions you do have a diagnostic test that helps us confirm a diagnosis. But actually all diagnoses are mainly based predominantly on people's symptoms and then the investigations support that.
+
+**Mr O'Connor**: So the fact that there isn't a test that can be done and a print-out proving the answer doesn't make it any less of an illness and it provides no grounds for scepticism about the existence of the illness?
+
+**Dr Evans**: Definitely not.
+
+**Mr O'Connor**: You're very clear about that. You refer in your report, at least in the early stages, to a certain amount of scepticism even from doctors, the medical professionals, about Long Covid.
+
+**Dr Evans**: Sadly that's correct, yes. And we heard that actually largely through the qualitative work. Qualitative research interviews people and gets their experience. It's very scientific, it's recorded, you have trained professionals at knowing how to extrapolate things out of those interviews. And it came really very loud and clear, both when we're speaking to the patient support groups but also in the research itself, that they were finding it difficult to get believed and difficult to access appropriate healthcare.
+
+**Mr O'Connor**: But in your view at any rate such scepticism is completely misplaced?
+
+**Dr Evans**: Yes.
+
+**Mr O'Connor**: And physicians should simply diagnose according to this definition on the basis of what they see before them and what the patients tell them?
+
+**Dr Evans**: Yes. And I would say that primary care have a difficult time, and obviously that definition only -- because they look after everything, that definition only came about towards the end of the year.
+
+**Mr O'Connor**: Yes.
+
+**Dr Evans**: But yes, there isn't a place for scepticism.
+
+**Mr O'Connor**: Let me turn if I may and ask you something about the symptoms of Long Covid. It's something we've already heard some evidence about, but if we go to page 12 of your report, please, at the top, at the very top we see paragraph 1.14, you say:
+
+"Long Covid is frequently characterised by symptoms of fatigue, breathlessness, brain-fog, joint and muscle pain ..."
+
+Pausing there, do we take it that those are perhaps the most common symptoms that are found?
+
+**Dr Evans**: Yes.
+
+**Mr O'Connor**: But you then go on to say:
+
+"... but over 200 symptoms have been reported."
+
+Does that take us back to the point you were making, Dr Evans, at the start, about all or at least perhaps many post-viral syndromes, which is that by their definition the symptoms can be very variable?
+
+**Dr Evans**: Absolutely, and the way people express their symptoms can also be very variable.
+
+**Mr O'Connor**: Further down the page, you talk about "clusters of symptoms". Is that a feature of Long Covid?
+
+**Dr Evans**: It is, and by "clusters" we, researchers, tend to be discussing that in terms of a mathematical model to actually group those symptoms together, but it does look like there are certain symptoms that group together, which Professor Brightling also briefly mentioned earlier.
+
+**Mr O'Connor**: Yes.
+
+Just moving on, if I may, then, the related question of incidence, in other words who you find gets Long Covid. I'm going to ask you about children in a moment, but if I can talk about the adult population first, and for these purposes if we can go to page 19 of your report, and it's at the very bottom there, the last two lines, you refer to the fact that "any adult is at risk of developing Long Covid".
+
+**Dr Evans**: That's right. That's an important public health message, that even though we have people that might be more at risk, that actually anyone can develop Long Covid. So anyone that's contracting the infection can end up unfortunately with this very prolonged illness.
+
+**Mr O'Connor**: You then go on to say that those who perhaps are at greater risk, shown by the statistics, are people of middle age, people who are female sex, obese, lower socioeconomic status with bring existing comorbidities, those are the groups that you refer to as being more likely to develop Long Covid.
+
+**Dr Evans**: That's right, and that's been shown in multiple different studies, which actually then supports that there is something more robust about that when you've got it in -- you know, a good handful of studies have all shown the same things.
+
+**Mr O'Connor**: We know that for Covid itself certainly people who tend to develop worse symptoms of Covid, it tends to be -- there's a bias the other way, in the sense that it's men who the statistics show have more worse symptoms. Is there any understanding at this stage as to why women seem to be more at risk of developing Long Covid?
+
+**Professor Brightling**: So if I go back to the acute setting, so men are more likely to have acute Covid that leads into more severe disease and are -- those who are older are also more affected, and there is a concept around immune senescence and there is also an increased inflammatory response in men compared to women, so to some of this hyperinflammatory effect that might then lead on to the acute lung injury. It's important to remember again that you can be of either sex and you can be of any age, but it is more common in those who are men and older.
+
+In Long Covid, as you said, the demographics are different and the demographics are actually more similar to what we would see in things like autoimmune conditions such as rheumatoid arthritis, so this has led us to then consider whether there may be an ongoing inflammatory response and possibly an immune-mediated response that is then affecting this group.
+
+**Mr O'Connor**: It's apparent from what you say perhaps two things. First of all, although it's the acute Covid that triggers Long Covid, they are actually really quite different conditions and therefore these different profiles can be readily explained. But secondly, as we've heard from other witnesses, it's still very early days in understanding Long Covid and it may be that in months or years' time you understand these matters better?
+
+**Professor Brightling**: It's extremely likely that there is more than one mechanism that's actually driving Long Covid, and one of the things that we're working very hard at is to try to understand what are those underlying drivers. So I mentioned a little bit earlier about one of the groups that have this persistent inflammation, and this is really critical because then that could lead us on to more of what we would think of as a precision medicine approach, where we would have then have diagnostics that then could start to pick up what might be driving your type of Long Covid, and then most importantly then actually lead on to different treatment strategies for different people.
+
+**Mr O'Connor**: I said I would come back to children, we have been talking about the adult population, you explain in your report that Long Covid manifests rather differently in children. Are you able to sort of summarise the position in that regard?
+
+**Professor Brightling**: So in children it's less common for them to have severe disease, so fewer children then were admitted into hospital. In terms of the prevalence of Long Covid, it's more common in adults than it is in children, but the prevalence estimates, or in the most recent estimates since the vaccine, would still suggest that it's in the region of 5% in adults and 1% in children. So although the number of children are considerably fewer than adults that's still a substantial proportion when you're then thinking about your own children or other family members. It's really important to those children and their parents.Yes. And as we've heard, not least in the impact video that was shown at the very start of our hearings, there are some children who very sadly suffer from very serious long-term symptoms from Long Covid.
+
+**Dr Evans**: That's correct, yeah, sadly.
+
+**Mr O'Connor**: I'd like to move on, if I may.
+
+Professor, you mentioned this earlier, that I might come back and ask you a few more questions about SAGE and the interaction between SAGE and issues of Long Covid.
+
+Within your report, and of course it's -- we will be publishing it on the Inquiry website for people to read in due course, there is a chapter in your report where you review quite carefully the SAGE minutes, which of course have already been published, and you chart how SAGE during the pandemic referred to Long Covid, kept in touch with the developing understanding of the condition, and on one occasion, I think in 2021, commissioned some further work relating -- a report relating to SAGE.
+
+You of course weren't on -- neither of you sat on SAGE. We have heard from two people who were sat on SAGE or associated with it, both Professor Khunti and Professor Medley, that perhaps one of the limiting factors for SAGE during the pandemic with regard to Long Covid was the very fact that so little was understood about Long Covid. That's, in general terms, a view they've expressed.
+
+I'd like to ask you -- perhaps, Professor Brightling, you on this occasion -- whether you, having reviewed the SAGE minutes and your understanding of the position at the time, think that SAGE might have done more during the pandemic to understand Long Covid or to give advice to policymakers about the risks that it posed?
+
+**Professor Brightling**: So SAGE did acknowledge very early on in very early meetings that the duration of symptoms after the acute Covid was very variable. They highlighted at the end of April that there was a need to look at the -- particularly the post hospitalisation group at that time and asked Professor Calum Semple, who is on SAGE but also was one of the principal investigators of ISARIC, to then look at the consequences in the ISARIC population.
+
+There was also an Academy of Medical Sciences report that I was part of that was then presented to SAGE in the July and endorsed, and this was preparing for the winter, the challenging winter, and that included a section on post-Covid conditions.
+
+However, after that, there really was very little until coming into early 2021 when the early reports were coming through from ONS and then the report from Calum Semple, and also then the report from PHOSP-Covid, which all happened in the March, and that led to the commissioned report that you referred to that was then presented in the July.
+
+So although there's a chronology of certain points where they were reflecting and going back to what we now know as Long Covid, there was such a focus at the beginning of the acute disease and the move towards accelerating the vaccine programme that it's clear that the amount of the time spent in SAGE to the long-term consequences, certainly by reflecting on the minutes, not having been in the meetings, the minutes do suggest that there was really very little time spent on thinking about the long-term consequences until coming into 2021.
+
+Again, coming back to this idea of hibernating studies and thinking about preparedness, if they'd had data earlier then the discussions could have been considered earlier, and they also would have been able to have had reports coming into SAGE very early on of progress of those studies and what was being found and how do you then develop clinical services and plans for future treatments.
+
+So I think there was an opportunity missed in terms of timing because of the focus, and quite rightly a focus, on the acute episode and the vaccine, but then as a consequence not really very much time was spent on Long Covid.
+
+**Mr O'Connor**: So in terms of looking to the future, does that bring us back to, first of all, the need, as you say, to set up these hibernating studies which would be ready to address long-term sequelae of any future pandemic?
+
+**Professor Brightling**: Yes, and a clear plan not only for the hibernating studies but how those hibernating studies then actually inform clinical practice and then inform potential treatments.
+
+**Mr O'Connor**: Yes. Thank you.
+
+Lastly, Professor and Dr Evans, I want to ask you just a few questions about understanding of Long Covid at the centre of government. For these purposes I just need to show you a few documents. First of all, could we have on screen, please, INQ000251916.
+
+Now, this is a note, we haven't, as an Inquiry, seen this before, but I'm sure we will look at it again. We can see in fact from the last page -- perhaps if we could just look at the last page now. Yes, thank you.
+
+So it's three pages long. It's a note by Chris Whitty, the Chief Medical Officer, it's dated 31 May 2021. We may have seen, if we go back to the first page, it's addressed to the private secretary to the Prime Minister, and it is, as the title suggests, a short note describing his understanding of Long Covid as at May 2021.
+
+As I say, I'm sure we will look at this document as an Inquiry again. I know you've read it. Can I simply ask whether you regard that as a fair and a comprehensive account of the state of knowledge about Long Covid on the date that it was written?
+
+**Professor Brightling**: Yes. Yes, it is. It would have also been a fair statement a few months before it was written as well.
+
+**Mr O'Connor**: Yes, and we will see a little more about how this note came to be written with future witnesses.
+
+That was all I wanted to ask about that document, thank you.
+
+The other two documents I'm going to show you both relate to the Prime Minister, Boris Johnson, and they reflect his views about Long Covid. First of all, as we will see, in October 2020, and then some months later in February 2021.
+
+So just to remind ourselves of the chronology that we've already been through, it was late 2020, was it not, when we were talking about the NICE guidelines, the roundtable meetings at the Department of Health, and those other sort of innovations towards the end of that year?
+
+So, first of all, let's have a look -- I see it's already on the screen -- at this box note [INQ000251910]. You can see that's actually dated 9 October and it's a note to the Prime Minister about various matters that were arising that week.
+
+If we can go to page 9, please, we can see that point 25 on this list is headed "Long COVID review", and in fact it does refer to one of the things that Lord Bethell was engaged with at the time, a report that was being prepared, and we see amongst other things a list of the symptoms very similar to the list that we have just been discussing.
+
+But we see that the Prime Minister against that wrote the words:
+
+"Bollocks. This is Gulf War syndrome stuff."
+
+Before I ask for your comment on that, let's look at the other document as well.
+
+So if we can now go to document INQ000214216, please. In fact, if we could just -- sorry, just give me a moment.
+
+*(Pause)*
+
+**Mr O'Connor**: Could we just go to the page before that one, please.
+
+What we see at the very bottom of that page is we see the date, which is 21 February. Do you see that? In fact it's after midnight, and a message from Boris Johnson on this, this is a WhatsApp. So if we now go on to the next page [page 52/75], there is a series of listed points he makes, and it's point number -- yes, so if we go down a bit. It's point number 30, so the last point he makes:
+
+"do we really believe in long covid? why can't we hedge it more? I bet it is complete gulf war syndrome stuff."
+
+So two comments, one in October 2020, the other in February 2021, of a similar character.
+
+What's your reaction, having been involved in Long Covid at that time, to those views expressed by the Prime Minister? Perhaps I'll ask you first, Professor.
+
+**Professor Brightling**: So the timing of the first document was the week after the release of the five-point plan, and the same week that the roundtable was -- actually met with Lord Bethell, with people with lived experience and with academics, including ourselves.
+
+So what was written there was accurate, it was an accurate description of the activity, it was an accurate description of the problem.
+
+I've seen this document a couple of times now over the last couple of weeks, and I feel exactly the same, it's -- I'm deeply saddened and extremely angry at the same time. There are people in this room, there are people who are watching, who have either suffered with Long Covid themselves or their loved ones had Long Covid, and I would be surprised if there are people in this room who do not at least know somebody who has had Long Covid.
+
+So to -- I mean, I'm not even quite sure what he means. Does he mean bollocks to the science? Well, that's clearly wrong because the science was already quite compelling that this was a problem. Is it bollocks to the patients, because he actually didn't really feel that they deserved a voice? And then to have that view sustained right through to the beginning of the year in suggesting that this was something that could be continued to be ignored.
+
+I mean, it's just ... out of all the things that we see, it's yet another unbelievable thing that happened, and what I don't know, clearly, is -- we don't know how much this influenced the activity from government and what government then did. But you would expect, if the Prime Minister's view was such, it may well have had an influence on other people in government.
+
+And I know, Rachael, you feel very strongly as well about it.
+
+**Mr O'Connor**: Dr Evans?
+
+**Dr Evans**: Yeah, I mean, absolutely, it's shocking and just beyond disappointing, and I still feel very emotive when you see it, because obviously we've got people here, as Chris has said, that are living through this absolutely dreadful illness. And there is some distrust, we've already heard that some clinicians weren't believing them, but to see that your own Prime Minister has written something like that, I just can't -- yeah, can't begin to think how people living through it feel.
+
+And actually as clinicians and researchers, we were already feeding back very clear descriptions of what this illness looked like, even if we didn't know exactly what was causing it and all the rest of it, it was a very real and is a very real phenomenon.
+
+**Mr O'Connor**: Thank you very much, Dr Evans, Professor Brightling. Those are all the questions we have for you. There aren't any CPs questions.
+
+**Lady Hallett**: Thank you, Mr O'Connor.
+
+Thank you both very much indeed, not only for the research and the treatment that you do, but for being an advocate, for getting recognition for what is obviously a dreadful condition. So thank you for all that you've done. Thank you for your help.
+
+*(The witnesses withdrew)*
+
+**Mr O'Connor**: My Lady, we have one further witness this afternoon, and that is Ondine Sherwood.
+
+Ms Ondine Sherwood
+------------------
+
+*MS ONDINE SHERWOOD (affirmed).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Ms Sherwood, can I first of all apologise for the fact the timetabling has meant that we've had to hear from you this afternoon when Mr Metzer can't be with us in person. I am so sorry.
+
+**The Witness**: It's okay.
+
+**Lady Hallett**: I've apologised to him too, but as you can see, if you look on the screen, he is attending remotely, albeit I have no idea what time it is where he is. But as you know, but others may not, he had a long-standing --
+
+**The Witness**: Early morning, I think.
+
+**Lady Hallett**: -- morning engagement that he had to fulfil. So I'm really sorry.
+
+**The Witness**: That's fine, thank you.
+
+**Mr O'Connor**: Could you give us your name, please.
+
+**Ms Ondine Sherwood**: Yes, my name is Ondine Sherwood.
+
+**Counsel Inquiry**: Ms Sherwood, you are one of the founding members of a group called Long Covid SOS.
+
+**Ms Ondine Sherwood**: Yes, I'm a founding member of Long Covid SOS. I'm here actually representing two other groups, Long Covid Kids and Long Covid Support. And we'd all like to offer our sincerest condolences to the bereaved families.
+
+**Counsel Inquiry**: Thank you. As you say, I'll come to the other two groups in a moment, but on behalf of Long Covid SOS you have provided the Inquiry with a statement.
+
+**Ms Ondine Sherwood**: I have.
+
+**Counsel Inquiry**: And I see it's helpfully on screen, and at the end of that statement, I don't ask for us to go there, but you have signed the statement stating that you believe the contents of it are true, with the date of 25 September --
+
+**Ms Ondine Sherwood**: Absolutely.
+
+**Counsel Inquiry**: -- 2023.
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: As you've indicated, Long Covid SOS is the group that you are here to represent, it's the group that you helped to found, but there two other Long Covid support groups that have core participant representation before the Inquiry, and witness statements have been filed on behalf of those two groups as well. Perhaps if we can just call them up briefly, the first is a statement from Natalie Rogers on behalf of an organisation called Long Covid Support, and I imagine you're familiar with that statement?
+
+**Ms Ondine Sherwood**: I am, yes.
+
+**Counsel Inquiry**: Secondly, there is a statement from Sammie McFarland, on behalf of Long Covid Kids, and those are, are they not, the three groups that are represented before the Inquiry --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- on behalf of Long Covid, and no doubt there are many other support groups relating to Long Covid throughout the country?
+
+**Ms Ondine Sherwood**: Yes, there will be.
+
+**Counsel Inquiry**: Let's focus, for the moment at least, Ms Sherwood, on your organisation, Long Covid SOS.
+
+If we look at page 2 of your statement and paragraph 3, we see you say there that the group was established in June 2020. That date, of course, fits very much with the chronology we were just discussing with Professor Brightling and Dr Evans, and you say that you helped to found that organisation. I take it there were other people involved at the start as well?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: You describe the organisation as a "volunteer-run patient advocacy and campaign group". Can you tell us a little bit about how it started?
+
+**Ms Ondine Sherwood**: Yes. I, having not recovered from Covid, which I developed at the end of March, I really couldn't understand why I wasn't recovering. It was very odd. And I initially thought it must be something wrong with me: why on earth was I not able to throw off this virus? Which -- I hadn't had a particularly severe infection.
+
+But I came across an article written by a young woman in America in the New York Times where she described ongoing symptoms and that she had set up a support group. So I joined that support group and was quite astonished to see the messages going back and forth in that group. How many people were in there, the ages, the symptoms they were experiencing, and it was shocking. It really was. And it put it all into context for me. I realised I was not alone.
+
+After a few weeks --
+
+**Counsel Inquiry**: Just pause there, Ms Sherwood.
+
+**Ms Ondine Sherwood**: Sorry?
+
+**Counsel Inquiry**: Just tell us, it was shocking because you realised that other people were suffering the same as you, or because a lot of other people were suffering?
+
+**Ms Ondine Sherwood**: It was shocking the extent of their suffering, because their -- remember, at the time Covid was described as a mild illness unless you were very sick in hospital and that the prime symptoms were fever and a new continuous cough, yet the range of symptoms that these people were suffering was far wider, and many of the symptoms were frightening and debilitating and many of the people in that group were very young and had been very fit.
+
+**Lady Hallett**: Could you slow down, please.
+
+**Ms Ondine Sherwood**: Oh, I'm sorry, am I talking too fast?
+
+**Lady Hallett**: Don't worry, I speak too quickly as well.
+
+**Ms Ondine Sherwood**: Okay, I will slow down.
+
+Yes, that was what was shocking: the symptoms, the people experiencing the symptoms, the number of people, all over the world, a lot of them were in America. And the most shocking of all was the fact they weren't getting any help. They were all saying, "No one can help me", and that was -- it was extraordinary. It really was. And that really motivated me to answer a call from one of my co-founders to march on Parliament, because I felt something had to be done.
+
+**Mr O'Connor**: So those were the circumstances in which you set up, with others --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- this group.
+
+I want to go back to something you said, you yourself, as you've explained, had continuing symptoms of Covid?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Do you in fact continue to suffer --
+
+**Ms Ondine Sherwood**: I still -- I'm much, much better, but I think I have a vulnerability in that if I overdo things I will have what we term a relapse, and I can have a day or few days of feeling unwell. And that will happen if, you know, I've exerted myself too much or particularly if there has been a lot of stress. So I think that is something residual that I may always have, but fortunately, unlike many, I have managed to get my life back.
+
+**Counsel Inquiry**: Coming back to the group, you were starting to tell us, and it's a core theme of your statement, that the group was formed for the purpose of what we've seen described as patient advocacy.
+
+**Ms Ondine Sherwood**: Mm-hm.
+
+**Counsel Inquiry**: Was that because you and others felt you weren't being properly supported at the time?
+
+**Ms Ondine Sherwood**: Yes, we were being -- we felt abandoned. The film we made in those early days was called Message in a Bottle, and that was really to illustrate how many people felt that they were really on their own, that they had been abandoned by the government, they weren't getting any healthcare, doctors didn't understand their condition.
+
+In fact, when I was in the acute phase, it struck me that with all the emphasis on hospitalisations and deaths, but nobody was really examining the people in the community, no one was looking at us, no one was researching us, you know, suffering at home.
+
+**Counsel Inquiry**: Just pause there for a moment. If you can try and keep --
+
+**Ms Ondine Sherwood**: Oh --
+
+**Counsel Inquiry**: I'm sorry to --
+
+**Ms Ondine Sherwood**: Slower, sorry.
+
+**Counsel Inquiry**: -- come back to it, but if you can try and keep your --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- keep it slower, that would be much appreciated.
+
+**Ms Ondine Sherwood**: Okay.
+
+**Counsel Inquiry**: You were suffering at home, and what you've said picks up another one of the themes of your statement, which is that you and others perhaps were misunderstood. I just want to quote one of the accounts that you give in your witness statement, not from you but from one of the people involved in your group. What was said is:
+
+"... my ongoing symptoms were often met with scepticism and a degree of 'gaslighting'."
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Was that a common experience?
+
+**Ms Ondine Sherwood**: Very common. It was very common because the doctors didn't seem prepared for this, even though post-viral -- post-viral syndromes were known, but they weren't prepared for this, they probably weren't prepared for the extent of it. Some of the symptoms they interpreted as anxiety, and many patients were told they were anxious and sent home, including people whose children were presenting with symptoms, where they were told their children were being influenced by their parents and that these symptoms were fabricated.
+
+So there was a huge amount of gaslighting, I'm afraid that is a word that was used a lot in the support group, and people really felt that.
+
+And I have to add that it has been said by many people that the trauma of not being believed was one of the worst aspects of their experience.
+
+**Counsel Inquiry**: Yes. The steps that you took as an organisation, as you describe in your witness statement, became largely engaging with, attempting to lobby and advocate with the government.
+
+**Ms Ondine Sherwood**: Mm-hm.
+
+**Counsel Inquiry**: Perhaps we can turn to page 6 of your statement, paragraph 23, which starts at the bottom, and you say that:
+
+"While our advocacy initially focused on the need for formal recognition for and treatment of Long Covid, we soon discovered that we also had to work hard to put pressure on key decision makers so that important issues such as counting cases of Long Covid were addressed."
+
+You refer also to the impact of decisions around easing restrictions, distribution of vaccines and so on.
+
+**Ms Ondine Sherwood**: Yeah.
+
+**Counsel Inquiry**: You then list what I think are the sort of key topics or the key aims of your advocacy over that period --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- of the pandemic:
+
+Campaigning for formal recognition of Long Covid; advocacy for the incorporation of Long Covid in government decision-making; counting Long Covid, advocacy for improved treatment; and other matters.
+
+I want to go, if I may, to a letter that you wrote right at the start of your campaigning. You refer to it, in fact, I think lower down on that page, but if we could call the letter itself up on the screen, please, it's INQ000238582, and so we can see, Ms Sherwood, it's dated 3 July, so within a month or so of your organisation coming together?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: We see that it's addressed to a series of people, the Prime Minister, the Health Secretary, Chris Whitty, Patrick Vallance, and then the chief executive of NHS England, and also the chief executives of health authorities in the devolved nations, and also the chief executive of Public Health England.
+
+Could I just ask you about the devolved nations, something that this Inquiry takes an interest in. Was your group, is your group one that spans all of the UK or is it an English group?
+
+**Ms Ondine Sherwood**: Our focus has become England mainly because our -- the core members, the core volunteers, all live in England and we've -- also because, as I may tell you later, we work quite closely with NHS England, so that became our focus.
+
+The other two groups who form the Long Covid groups both have organisations or suborganisations who work with the devolved nations, and so they do more work with Scotland, Wales and Northern Ireland than we do, because we've really worked hard with NHS England and that's been our focus. But we did write to the devolved health authorities and we did get replies from two of them.
+
+**Counsel Inquiry**: Yes. Unlike some of the people in this country that you wrote to?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Well, we'll come back to that. I don't want to -- we won't go line by line through this letter, but I just want to pick up on a few of the points that are made in it.
+
+First of all, the first substantive paragraph, you talk about representing thousands of forgotten victims of Covid-19, and you describe them as struggling to get help from the medical community for their continuing disease and feeling "abandoned" by the government.
+
+That's quite a strong term, but was that how you felt at the time?
+
+**Ms Ondine Sherwood**: Yes, I think that encapsulates the feelings of most people who weren't able to get any help, and of course the thousands was an estimate.
+
+**Counsel Inquiry**: It was, but perhaps I should have asked you this earlier, I was going to, in terms of the reach of your organisation, I think it's right to say it's not a sort of old-fashioned membership organisation, where people sort of join and have a membership card, you're a -- largely based on a -- as a sort of social networking site --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- and so on. But you do give some details in your statement about how many people you have following your --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- feeds and so on.
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Is it right to say that you, as an organisation, now anyway, you reach tens of thousands of people?
+
+**Ms Ondine Sherwood**: Definitely, yes. Yes.
+
+**Counsel Inquiry**: At the start how many people were involved --
+
+**Ms Ondine Sherwood**: Well, we didn't have -- we weren't running a support group, so we didn't have people signing up to a support group, we were running as a campaigning organisation. But our social media accounts grew fairly quickly, as did -- the website attracted quite a lot of people signing up as well, and at the beginning it was difficult to know how many people we were representing. We knew that, for instance, Long Covid Support had a Facebook group, which at the time I think was -- I may be wrong, but I think it was at the beginning -- round about this time it was about 3,000, 5,000 people. So we knew that there were a lot of people involved, but nobody really knew how many.
+
+**Counsel Inquiry**: Yes. Just going back to the letter, if we can go down a bit further down the page, about halfway down the next paragraph, you refer to the fact that people had been told that they only had mild symptoms, they were told to go home, they had to struggle on on their own, and that there was, as it were, a dissonance between, on the one hand, all the public health messaging saying, "It's a mild condition, don't worry about it", and on the other hand, these alarming ongoing symptoms that people were suffering?
+
+**Ms Ondine Sherwood**: Yes. Certainly, you know, many, many people who probably should have been in hospital, but they weren't able to go to hospital because their symptoms weren't considered quite bad enough by 111, but even if they weren't eligible for hospital or they weren't as bad as that, they were quite ill, and this use of the word mild is very misleading, because for most people it wasn't mild.
+
+**Counsel Inquiry**: I suppose we have to bear in mind or remember quite what it was like during 2020, still the early months of the pandemic, and a great concern, perhaps, about going to hospitals if one didn't feel one really needed to be there?
+
+**Ms Ondine Sherwood**: Yes, I think there were a lot of people who would rather have stayed out of hospital, but those that were -- who should have been admitted were -- some of them, their loved ones were asked to keep an eye of them every hour in the night, in case something went wrong. So many people had a very traumatic acute Covid experience.
+
+**Counsel Inquiry**: Yes. Let's look over the page, if we can, and the sort of third paragraph down, in the middle of that paragraph we can see there is a sentence starting "Unfortunately".
+
+**Ms Ondine Sherwood**: Mm.
+
+**Counsel Inquiry**: You describe people who have been infected with Covid-19 being told, it would seem rather dismissively, that they're just suffering from anxiety, and in fact a range of other diagnoses, some sort of post-viral symptom, fatigue.
+
+Is what you're trying to capture there, going back to this point about just uncertainty amongst the group as to what it is that's wrong with them?
+
+**Ms Ondine Sherwood**: I think that amongst doctors -- and this is kind of speculation, but it's something we've discussed at length -- the doctors didn't understand the symptoms, and many don't really like to express to their patients that they don't know and they don't understand, and so they fall back on something they do understand: "Well, this could be anxiety, you know, it's an anxious time, we're in a pandemic, and breathlessness, fatigue, can be symptoms of anxiety, so let's hope that's what it is."
+
+And post-viral fatigue, which was what I was told I had, I don't think it captures the experience that people were having.
+
+**Counsel Inquiry**: Yes.
+
+If we just look at the next paragraph down, we see essentially the core complaint of the letter, which is, looking at the first sentence, there appears to be very little focus on the part of government on the ongoing very poor health of potentially hundreds of thousands of people, it's imperative that the needs of this group are addressed. And that's really what your group was trying to do at that stage?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Bring it to the attention of the government?
+
+**Ms Ondine Sherwood**: Yes, because it seemed almost -- it was almost impossible to understand how so many people could be so sick and nobody was talking about it. It wasn't present in any conversation. It was only starting to be -- it was in certain news articles from maybe May, but very few, and it simply was not mentioned by government or by public health messaging. It just wasn't there.
+
+**Counsel Inquiry**: Yes.
+
+I'm just ... yes, if we can call up, go back to your witness statement, please, it's the bottom of page 7, it's paragraph 27 at the bottom of that page where you describe the letter we've just been looking at in detail, but if we pick it up at the end of the penultimate line, you say:
+
+"We did not receive any response from the UK Government [to that letter] ..."
+
+**Ms Ondine Sherwood**: No, no one from government replied.
+
+**Counsel Inquiry**: I'm not going to call it back up, but you wrote to the Prime Minister, to Matt Hancock, to Chris Whitty, to Patrick Vallance?
+
+**Ms Ondine Sherwood**: We had replies from the devolved health authorities, we had a reply eventually from Professor Stephen Powis, from NHS England, we had a response from Public Health England suggesting we contact the Department of Health and Social Care, and we had -- I copied it to all the MPs, so we had responses from some MPs supporting us, mostly Opposition MPs, as far as I remember, but no, we didn't get anything back from government.
+
+**Counsel Inquiry**: Now, we've heard from Professor Brightling and Dr Evans a little bit about what happened later, for the second half of that year, and there were various developments, for example the roundtable meetings at the Department of Health and the setting up of the Long Covid taskforce, to name two. I think it's right to say that your groups or groups like it were involved in those various initiatives?
+
+**Ms Ondine Sherwood**: That's right, yeah, we were.
+
+**Counsel Inquiry**: Were you personally involved in either at the roundtable meetings --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- or in the taskforce?
+
+**Ms Ondine Sherwood**: Yes, because we worked with -- by the time the taskforce was set up, we were having regular meetings with NHS England, and in fact we encouraged them to publicise something, that announcement they made in October about the five-point plan, because we were getting so many people saying, "What's happening? What's happening? Why aren't we getting any help? What are we going to do?" And we were working with NHS England and we said, "Well, what are we supposed to say? Is anything happening?"
+
+So that's why you will see that there is a quote from our organisation on that press release, and we were part of the taskforce and invited to sit on the roundtable.
+
+**Counsel Inquiry**: In a few sentences, what was your impression of those initiatives? Did you feel that they were effective? Perhaps, over time your view changed on them, but tell us what your views were.
+
+**Ms Ondine Sherwood**: Well, the taskforce was much more focused on the NHS and on care, and it was obviously very encouraging when that was set up, and it was very good to be in a forum with scientists and doctors and talking about this condition, and having the condition taken seriously and discussed in the serious manner. It did seem -- it became obvious after a while that decisions weren't going to be made at that taskforce, it was a forum for discussion and that anything that happened would take place in between meetings. The subgroups that were set up -- actually also it was our initiative to set up subgroups in the taskforce -- they were very good because we could have much more focused discussions.
+
+So after a while we did begin to wonder, you know, where is it leading us, because we were still having trouble getting any treatments established for Long Covid and people were complaining about the clinics and so on, so there was some frustration there.
+
+As far as the roundtable goes, that was also a very exciting moment, that we were going to be having meetings with the government minister, and certainly the government ministers, which as well as Lord Bethell, included Matt Hancock and Sajid Javid, when taking part in these meetings were very receptive, were very interested and were very willing to listen and to sympathise.
+
+**Counsel Inquiry**: Yes.
+
+**Ms Ondine Sherwood**: However, we felt that it tended to stop there. We couldn't get these -- and the need that we felt for changes in policy, even though we were sitting with ministers, it didn't seem -- it didn't happen. And that was very frustrating.
+
+**Counsel Inquiry**: Right.
+
+I want to move on, perhaps finally, and ask you just about a sort of series of events later on in the pandemic, six months or so later. For these purposes, perhaps we can go to page 13 of your witness statement, please, and it's paragraphs 50 to 51.
+
+So we're now in January 2021, and then I'm going to move later into 2021 in a moment, but in summary, Ms Sherwood, we'll all remember that it was around that time that the vaccine roll-out started, and although it was clearly going to take a while, as you say in your statement, there started to be discussion about lifting restrictions once people had been properly vaccinated. This was something that gave your group some concern, was it not? Explain perhaps in a few sentences, and if you can try to keep the pace down, that would be appreciated.
+
+**Ms Ondine Sherwood**: Sorry.
+
+**Counsel Inquiry**: Please explain what -- the slightly different set of concerns you had about that prospect.
+
+**Ms Ondine Sherwood**: Yes, okay. When the vaccine roll-out was first announced, it was made clear that the vulnerable groups and the elderly would be vaccinated first. So those were the people who get severe acute Covid. So that made sense, but it didn't take into account the fact that Long Covid can affect anybody. So we had already heard announcements by Boris Johnson that, "Once we've vaccinated the vulnerable and the elderly we'll be able to open up the country", and of course that concerned us greatly, because then the country would be completely opened up and all the younger people would be mixing in large numbers and would get Covid, and they may not go to hospital or end up dead, but they would be liable to get Long Covid. And they weren't vaccinated. We can see that there seems to be lesser incidence of Long Covid in vaccinated adults, but these people weren't vaccinated. And of course the children weren't vaccinated -- there were no plans to vaccinate the children at all.
+
+**Counsel Inquiry**: So, in summary, was your concern that the focus was very much on the acute Covid and the prospect that the vaccine programme would reduce the risk of acute Covid and, on that principle, allow more opening up --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- but that rather different analysis applied to Long Covid --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- and that that might risk infecting people, which would see a rise in Long Covid?
+
+**Ms Ondine Sherwood**: Well, infecting a lot of people. And as it happened, of course, this was the time when we'd just come out Alpha, Delta was on its way, and there was the potential for large numbers of people to get infected because we would be without restrictions.
+
+And it was clear that the thought processes of government were just not considering Long Covid as being anything -- as being something that needed to be considered. Certainly from our point of view we didn't see any evidence that Long Covid was a consideration.
+
+**Counsel Inquiry**: Yes. In the passage of your witness statement that we're looking at now, you refer to a letter there that you wrote about these concerns in January 2021, and then further down the page you refer to the fact that you then wrote on very much the same theme, in the last paragraph, on 6 July --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- the January letter warning of this problem and July saying it's still there?
+
+**Ms Ondine Sherwood**: It's happening, yes.
+
+**Counsel Inquiry**: And we may all remember, I think it was the 20-somethingth of July 2021 that was badged as sort of "freedom day" --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- and it was in advance of that that you wrote this other letter --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- Mr Javid by this stage being the Health Secretary, essentially renewing your --
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: -- concerns on this basis.
+
+**Ms Ondine Sherwood**: Can I just add that the other concern was not only was Long Covid not considered by government, it wasn't being -- there was no public messaging about Long Covid at all, so not only were people at risk of getting -- developing Long Covid, they didn't know about that risk, so they were unaware of the risk. "Freedom day" just sends a message that we can all just go out and party and it's all over, which of course it wasn't, but what it doesn't express is that actually 5%, 10%, you know, it could be somewhere in between, of people don't get better after two weeks, and some of them will be very, very unwell for a long time. But that information wasn't out there and so how could the public assess their risk?
+
+**Counsel Inquiry**: Of course those are the people who, some of them at any rate, were members of your group, and it was their experiences that you were very familiar with yourself?
+
+**Ms Ondine Sherwood**: Yes.
+
+**Counsel Inquiry**: Can I just, and just finally, Ms Sherwood, bring us forward. You describe these, the sort of campaigning actions that we've discussed already, and others, including on the point about messaging, in your statement. But can you bring us up to date? What are your sort of campaigning objectives at the moment?
+
+**Ms Ondine Sherwood**: We felt at one point that we'd sort of lost the public health battle, that we weren't going to be able to influence the government to take precautions in order to -- or to encourage people to take more precautions to avoid getting Covid. At the moment we're very concerned that there are no -- there's no mandates for precautions even in hospitals, which is very, very difficult for people who don't want to catch Covid. If you go into any hospital now, most people who are working there are not wearing masks, and we've heard stories of that happening in wards with vulnerable patients.
+
+So people with Long Covid, along with the clinically vulnerable, find it very difficult to go back into society really and to mix in the way that other people are. So, as well as using our voice to inform people about Long Covid, to inform people how to get help, we're still very interested in changing policy in any way that we can in order to give this condition a little bit more publicity. Because there are many people in this country unfortunately who think Long Covid is made up, that it doesn't exist, that people who have got it, oh, they must all be public servants because they just don't want to work. I mean, there are some really nasty comments that we get on social media and -- you know, there are some beliefs that go around, and maybe it's worse on social media, which really stigmatise and denigrate the people who have this condition.
+
+**Counsel Inquiry**: Yes.
+
+Well, Ms Sherwood, I'm very grateful, and perhaps one can add that of course your involvement in this Inquiry and the involvement of the other groups is part of that campaigning function.
+
+**Ms Ondine Sherwood**: Yes.
+
+**Mr O'Connor**: And it's one for which I'm sure we're all very grateful.
+
+But, as I've said, we have your statement, we also have the statement of Ms Rogers and Sammie McFarland, which we will adduce in full, and which we have for our work, and I'm very grateful for you coming along and sharing your experiences with us this afternoon.
+
+Those are all the questions I have for you.
+
+**The Witness**: Thank you very much for having me.
+
+**Lady Hallett**: Thank you very much, Ms Sherwood, a very eloquent advocate. And do I hear in the breathing, is that --
+
+**The Witness**: Well, it may not be related, but I am a bit chesty, yeah.
+
+**Lady Hallett**: Well, I hope that the recovery does continue.
+
+**The Witness**: Thank you very much indeed.
+
+**Lady Hallett**: So thank you very much for your help indeed.
+
+*(The witness withdrew)*
+
+**Mr O'Connor**: My Lady, there's one very brief practical matter I've been asked to raise with you.
+
+You'll appreciate that Ms Sherwood's evidence brings us to the end of the impact evidence that we have heard. So may I invite you to order that, first of all, the questionnaire responses that have been summarised during the various tranches of evidence, and also the witness statements of Southall Black Sisters, Long Covid groups and the children's organisations, that they are all published on the Inquiry website and adduced into evidence.
+
+**Lady Hallett**: Most certainly.
+
+**Mr O'Connor**: I'm grateful, my Lady. That's everything.
+
+**Lady Hallett**: That's it? That's it for this week.
+
+Thank you all very much for attending online, and thank you, Mr Metzer, if you're still there, for attending despite your long journey, and thank you to everybody here, and I will see everybody at 10.30 on Monday.
+
+**Mr O'Connor**: Yes.
+
+**Lady Hallett**: Thank you.
+
+*(3.15 pm)*
+
+*(The hearing adjourned until 10.30 am on Monday, 16 October 2023)*
+
