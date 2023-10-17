@@ -148,6 +148,8 @@ def parse_transcript(url, text):
             m2 = re.match('([QA])\. (.*)', line)
             if m1 or m2:
                 new_para_indent = 7
+        if '2023-10-16' in url and page in (94,96,108,178):
+            new_para_indent = 8
 
         for num, line in data[page]:
             # Okay, here we have a non-empty, non-page number, non-index line of just text

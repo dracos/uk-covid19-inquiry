@@ -1300,25 +1300,9 @@ I don't see any reason why we couldn't have done the same. I don't see any reaso
 
 **Lead Inquiry**: Symptoms?
 
-**Professor Anthony Costello**: Yeah. And so therefore you've got almost no time to do it, you've got no time to get your test in, and it's already spread. So there are certain diseases and that's what the paper written by Roy Anderson,
+**Professor Anthony Costello**: Yeah. And so therefore you've got almost no time to do it, you've got no time to get your test in, and it's already spread. So there are certain diseases and that's what the paper written by Roy Anderson, Neil Ferguson and others that I quote, with that nice diagram, shows, that for influenza you really cannot do it, as you cannot for HIV, because the other factor is how many infections are asymptomatic. So with HIV, 95% plus of infections are asymptomatic, so you don't know that you've got the virus until it happens.
 
-Neil Ferguson and others that I quote, with that nice
-
-diagram, shows, that for influenza you really cannot do
-
-it, as you cannot for HIV, because the other factor is
-
-how many infections are asymptomatic. So with HIV, 95%
-
-plus of infections are asymptomatic, so you don't know
-
-that you've got the virus until it happens.
-
-But with SARS, the reproduction rate was about --
-
-was under 3, it was thought, in January 2020. So one
-
-person would infect about three people, let's say.
+But with SARS, the reproduction rate was about -- was under 3, it was thought, in January 2020. So one person would infect about three people, let's say.
 
 **Lead Inquiry**: Just to pause you. When you say SARS, you --
 
@@ -1330,27 +1314,9 @@ person would infect about three people, let's say.
 
 **Lead Inquiry**: -- coronavirus?
 
-**Professor Anthony Costello**: SARS-1 was somewhere between 3 and 6. It -- you know,
+**Professor Anthony Costello**: SARS-1 was somewhere between 3 and 6. It -- you know, it changed over time, I think. SARS-2 was at that stage -- the data coming out of China and also in the papers published in The Lancet on January 24th -- I think the figure was 2.8. But of course it was, you know, still rudimentary, so there was quite some confidence intervals there that you would need to take account of.
 
-it changed over time, I think. SARS-2 was at that
-
-stage -- the data coming out of China and also in the
-
-papers published in The Lancet on January 24th --
-
-I think the figure was 2.8. But of course it was,
-
-you know, still rudimentary, so there was quite some
-
-confidence intervals there that you would need to take
-
-account of.
-
-But let's assume it's 3, you've got 1 to 3, you've
-
-got an incubation period that we then knew to be
-
-probably around the five-day mark, and a serial interval -- that's the interval between one person having symptoms and passing it to the next person and them having symptoms -- was somewhere between eight to ten days.
+But let's assume it's 3, you've got 1 to 3, you've got an incubation period that we then knew to be probably around the five-day mark, and a serial interval -- that's the interval between one person having symptoms and passing it to the next person and them having symptoms -- was somewhere between eight to ten days.
 
 **Lead Inquiry**: So just pausing you there, there was a window in which --
 
@@ -1372,11 +1338,7 @@ probably around the five-day mark, and a serial interval -- that's the interval 
 
 I'm sorry we have to break but --
 
-**Mr Keith**: My Lady, may I just mention that there is legal
-
-argument scheduled before you for 2 o'clock, so could we
-
-impress upon the Professor to be ready again at 2.30.
+**Mr Keith**: My Lady, may I just mention that there is legal argument scheduled before you for 2 o'clock, so could we impress upon the Professor to be ready again at 2.30.
 
 **The Witness**: Oh.
 
@@ -1390,11 +1352,7 @@ impress upon the Professor to be ready again at 2.30.
 
 **Lady Hallett**: Mr Keith.
 
-**Mr Keith**: If it pleases you, my Lady, oral submissions will
-
-be made first by Mr Hill on behalf of
-
-Sir Patrick Vallance.
+**Mr Keith**: If it pleases you, my Lady, oral submissions will be made first by Mr Hill on behalf of Sir Patrick Vallance.
 
 Application
 -----------
@@ -1402,29 +1360,11 @@ Application
 Submissions on Behalf of Sir Patrick Vallance by Mr Hill
 --------------------------------------------------------
 
-**Mr Hill**: My Lady, we're grateful for this opportunity to
+**Mr Hill**: My Lady, we're grateful for this opportunity to address you, and I won't keep you long.
 
-address you, and I won't keep you long.
+The background is that this is a procedural matter. It is about how Sir Patrick's evening notes should be displayed on the screen and on the website during evidence. It does not in any way affect how your counsel and core participants may use those notes when asking questions of witnesses, or when making opening or closing statements.
 
-The background is that this is a procedural matter.
-
-It is about how Sir Patrick's evening notes should be
-
-displayed on the screen and on the website during
-
-evidence. It does not in any way affect how your
-
-counsel and core participants may use those notes when
-
-asking questions of witnesses, or when making opening or
-
-closing statements.
-
-Contrary to the submissions of the media
-
-organisations, it is not an application for a section 19
-
-restriction order.
+Contrary to the submissions of the media organisations, it is not an application for a section 19 restriction order.
 
 The context is set out briefly in the written submissions that we have provided to you, and also from paragraphs 471 onwards in Sir Patrick's statement, second statement. In short, the notes were, in his words, a brain dump. They were written at the end of immensely stressful days to protect his mental health. They represent a snapshot of how he felt in the moment of writing them. He did not amend them if he changed his mind later, he made no attempts to correct them as and when he learnt new information. He describes them as, and I quote:
 
@@ -1518,47 +1458,13 @@ Ms Morris.
 Submissions on Behalf of Covid Bereaved Families For Justice And Covid Bereaved Families For Justice Northern Ireland by Ms Morris KC
 -------------------------------------------------------------------------------------------------------------------------------------
 
-**Ms Morris**: Thank you, my Lady. On behalf of Covid Bereaved
+**Ms Morris**: Thank you, my Lady. On behalf of Covid Bereaved Families for Justice and Covid Bereaved Families for Justice Northern Ireland -- I'm sure Ms Campbell will prod me if I make any submissions that she's not content with me to make -- we indicated on Friday that we wanted to make some oral submissions to you on this topic, but that was before we received the submissions provided by Mr Bunting King's Counsel made on behalf of eight media organisations, with which we entirely agree and endorse.
 
-Families for Justice and Covid Bereaved Families for
-
-Justice Northern Ireland -- I'm sure Ms Campbell will
-
-prod me if I make any submissions that she's not content
-
-with me to make -- we indicated on Friday that we wanted
-
-to make some oral submissions to you on this topic, but
-
-that was before we received the submissions provided by
-
-Mr Bunting King's Counsel made on behalf of eight media
-
-organisations, with which we entirely agree and endorse.
-
-All that I will add is that the bereaved families
-
-have the utmost interest in open justice and
-
-transparency at this Inquiry, and therefore even if
-
-Article 8 is engaged, which we don't entirely accept,
-
-the significance of this Inquiry and the significance of
-
-the evidence that Mr Vallance has to give to it weigh in
-
-favour of the fullest evidence in its proper context
-
-being published.
+All that I will add is that the bereaved families have the utmost interest in open justice and transparency at this Inquiry, and therefore even if Article 8 is engaged, which we don't entirely accept, the significance of this Inquiry and the significance of the evidence that Mr Vallance has to give to it weigh in favour of the fullest evidence in its proper context being published.
 
 So, my Lady, those are my short submissions.
 
-**Lady Hallett**: Just before you sit down, I'm afraid I'm
-
-going to use you, Ms Morris, because Mr Bunting is not
-
-here.
+**Lady Hallett**: Just before you sit down, I'm afraid I'm going to use you, Ms Morris, because Mr Bunting is not here.
 
 **Ms Morris**: I'm a poor substitute but I'll do my best, my Lady.
 
