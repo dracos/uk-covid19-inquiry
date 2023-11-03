@@ -55,7 +55,7 @@ def parse_transcripts():
         else:
             outfile = f'{date}'
 
-        with open(f, 'r', encoding='iso-8859-15') as fp:
+        with open(f, 'r', encoding='utf-8') as fp:
             if os.path.exists(f'{outfile}.rst'):
                 print(f"Reparsing {f}")
             else:

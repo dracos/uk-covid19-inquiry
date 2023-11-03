@@ -160,7 +160,7 @@ Is that something that you recognise through reports that you were getting from 
 
 **Ms Blackwell**: Yes.
 
-**Ms Bell**: I think we have significant evidence of the impact of severe cuts on that NHS workforce. To give one example, the TUC surveyed 1,000 NHS staff in the run-up to 2016 and, to give you one finding from that, 88% of NHS staff said the health service was under more pressure now than at any time in their working lives, and I think if you think about the impact of that stress, that reduction in resources, the impact of the decade of pay cuts that NHS staff experienced, so we know that the average NHS worker was paid Â£3,000 a year less in real terms than they were in -- at the end of the decade, in 2019, than they were in 2010, you can see that impact on their own well-being and morale of those pay cuts but also of operating in a service which was constrained, under significant stress, on their ability to do their job and the levels of stress they experienced on a day-to-day basis .
+**Ms Bell**: I think we have significant evidence of the impact of severe cuts on that NHS workforce. To give one example, the TUC surveyed 1,000 NHS staff in the run-up to 2016 and, to give you one finding from that, 88% of NHS staff said the health service was under more pressure now than at any time in their working lives, and I think if you think about the impact of that stress, that reduction in resources, the impact of the decade of pay cuts that NHS staff experienced, so we know that the average NHS worker was paid £3,000 a year less in real terms than they were in -- at the end of the decade, in 2019, than they were in 2010, you can see that impact on their own well-being and morale of those pay cuts but also of operating in a service which was constrained, under significant stress, on their ability to do their job and the levels of stress they experienced on a day-to-day basis .
 
 **Ms Blackwell**: Do you have any comment to make on how that effect made them or may have made them less able to respond to what happened when the pandemic hit?
 
@@ -260,7 +260,7 @@ Professor Sir Michael McBride also gave evidence to the Inquiry. He told my Lady
 
 How resilient do you consider the NHS in Northern Ireland was going into the pandemic?
 
-**Mr Murphy**: Going into the pandemic, it had already been on the receiving end, as indeed had the entire public service, of ten years of austerity. You know, that had saw, for example, over that period the recurrent budget fall by Â£177 million or 1.6%.
+**Mr Murphy**: Going into the pandemic, it had already been on the receiving end, as indeed had the entire public service, of ten years of austerity. You know, that had saw, for example, over that period the recurrent budget fall by £177 million or 1.6%.
 
 Given that health inflation is generally accepted to run at approximately 6% per annum, you don't have to be a genius to work out that, you know, there have got to be negative consequences.
 
@@ -300,7 +300,7 @@ Thank you, we can take that down, please.
 
 I'm a member of the government's Low Pay Commission that hears evidence from social care employers and workers every year, and every year since 2017, at the point at which I became a member of that commission, we have heard both from employers within the social care sector and from workers themselves that the sector is in crisis, that terms and conditions are particularly poor.
 
-To give you some specifics on the terms and conditions for the social care workforce, so that GMB report, using data from April 2015, found that a quarter of all care home staff were earning less than Â£7 an hour, and that's at a time when the national minimum wage was Â£6.50, so a very, very low paid workforce. Turnover rates across the whole sector were 25%, 30% for care workers, and a quarter of those workers, as is still the case today unfortunately, were on zero hours contracts. So an underpaid, insecure workforce and one coping with significant funding pressures.
+To give you some specifics on the terms and conditions for the social care workforce, so that GMB report, using data from April 2015, found that a quarter of all care home staff were earning less than £7 an hour, and that's at a time when the national minimum wage was £6.50, so a very, very low paid workforce. Turnover rates across the whole sector were 25%, 30% for care workers, and a quarter of those workers, as is still the case today unfortunately, were on zero hours contracts. So an underpaid, insecure workforce and one coping with significant funding pressures.
 
 **Ms Blackwell**: Thank you.
 
@@ -584,7 +584,7 @@ So I think the short answer to your question is yes, and the provision of such a
 
 The second question that I have relates to how trade unions across the border could co-operate, and it is: how have the trade unions in Northern Ireland and Ireland been involved in promoting co-operation on pandemic issues?
 
-**Mr Murphy**: Pre-pandemic there wasn't any work to any significant degree in that area. Over the course of the pandemic and post-pandemic, that has improved. We are now about to see, for example, the unfolding of a very significant health project involving Unison and FÃ³rsa, which is the second largest public service trade union in the Republic of Ireland.
+**Mr Murphy**: Pre-pandemic there wasn't any work to any significant degree in that area. Over the course of the pandemic and post-pandemic, that has improved. We are now about to see, for example, the unfolding of a very significant health project involving Unison and Fórsa, which is the second largest public service trade union in the Republic of Ireland.
 
 So there definitely is scope for the trade unions to move into that space. It isn't possible or it wasn't possible pre-pandemic, but I think we've all learnt now that closer co-operation has to be, you know, something that we factor into how we prepare for civil emergencies, or pandemic, in the future.
 
@@ -1149,7 +1149,7 @@ So although NHS spending then was protected, and although there were increases i
 
 **Dr Jennifer Dixon**: No, they were not.
 
-And if I may, just to give a comparison, if we had spent per capita in 2019 the same as France, the NHS would be receiving an extra Â£40 billion per year, and if we'd compared ourselves with Germany we'd be spending another Â£70 billion a year. That's on a roughly Â£150 billion budget.
+And if I may, just to give a comparison, if we had spent per capita in 2019 the same as France, the NHS would be receiving an extra £40 billion per year, and if we'd compared ourselves with Germany we'd be spending another £70 billion a year. That's on a roughly £150 billion budget.
 
 **Lead Inquiry**: Now, it's self-evident, of course, that those sorts of political choices are not for this Inquiry or for --
 
@@ -1161,7 +1161,7 @@ And if I may, just to give a comparison, if we had spent per capita in 2019 the 
 
 **Dr Jennifer Dixon**: We just look at total spending in France, whether it's public or private, and we look at public or private spending in the UK, and we divide by the population size.
 
-**Lady Hallett**: So when you talk about we'd be spending an extra Â£40 billion a year on the NHS, that is funding in France that would be both private and public funding?
+**Lady Hallett**: So when you talk about we'd be spending an extra £40 billion a year on the NHS, that is funding in France that would be both private and public funding?
 
 **Dr Jennifer Dixon**: Yes.
 

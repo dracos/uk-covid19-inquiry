@@ -871,7 +871,7 @@ Sir Patrick's diaries reflect a growing level of concern at the government's app
 
 "[The Chief Medical Officer] and I are both worried about the extreme inconsistency from [the Prime Minister]. Lunching from open everything to panic."
 
-Then on 3 August the government introduced the Eat Out to Help Out scheme, designed and driven by the Chancellor of the Exchequer and Her Majesty's Treasury. The scheme gave a 50% discount on meals up to Â£10 per person, but didn't apply to takeaways.
+Then on 3 August the government introduced the Eat Out to Help Out scheme, designed and driven by the Chancellor of the Exchequer and Her Majesty's Treasury. The scheme gave a 50% discount on meals up to £10 per person, but didn't apply to takeaways.
 
 The policy objectives were obvious: to support the economic recovery by stimulating consumption in the hospitality sector, but it didn't appear to have been discussed with the Chief Medical Officer or the Chief Scientific Adviser, and it was not the subject of advice from SAGE, SPI-M-O or SPI-B. Professor Whitty and Professor Vallance's written evidence is that had they been consulted they would have advised it was highly likely to increase transmission.
 
@@ -899,7 +899,7 @@ The Prime Minister's view was that the government had known for a long time that
 
 The rule of six was introduced on 9 September. It's unclear to what extent SAGE was sighted on the merits of that proposal. Professor Vallance noted:
 
-"What a week - feels like Feb/MarchâŠstrikes me that the delay in introducing the new rules until Monday is exactly what they did in March. Why delay??"
+"What a week - feels like Feb/March…strikes me that the delay in introducing the new rules until Monday is exactly what they did in March. Why delay??"
 
 There was then a debate in government over the introduction of a tiered system. A modelling team at the University of Warwick published a paper on 14 September which concluded that a well timed and strong lockdown for a two-week period could have a very notable impact.
 
@@ -1687,7 +1687,7 @@ In July 2021 the DU published the national disability strategy that committed to
 
 Eighth, failing to engage early with disabled people and their organisations was a lost opportunity to afford some of the most significant protections. The DPO repeatedly emphasised that they could have assisted earlier to prevent disabled people confined to their homes being left without food. Other grave errors were made regarding care homes, the risk of Covid to people with learning disabilities, assumptions around digital and other information access, making services only available to those on official medical lists, sign language, and earlier identification of long Covid, all of which it is difficult to imagine would have been overlooked with better engagement.
 
-Ninth, and finally, government policy did not involve any significant income distribution to disabled people. The financial provision for disabled people during the pandemic was extraordinarily limited. For those who did not work or could not work, furlough meant nothing. Those on carers' allowance did not receive the extra Â£20 of Universal Credit, neither did those on legacy benefits. In its briefing to the Covid-O group on 30 October 2020, the Disability Unit acknowledged the disproportionate financial impact of Covid on disabled people but proposed no remedy, save a possible financial package which did not come.
+Ninth, and finally, government policy did not involve any significant income distribution to disabled people. The financial provision for disabled people during the pandemic was extraordinarily limited. For those who did not work or could not work, furlough meant nothing. Those on carers' allowance did not receive the extra £20 of Universal Credit, neither did those on legacy benefits. In its briefing to the Covid-O group on 30 October 2020, the Disability Unit acknowledged the disproportionate financial impact of Covid on disabled people but proposed no remedy, save a possible financial package which did not come.
 
 My Lady, that is why we say what happened to disabled people during Covid was a choice. This country could make different choices. It could comply with international law and have us live under more responsive government, but to do that there needs to be a fundamental investment in collective resilience. What happens to disabled people during disasters provides an insight in what could happen to all of us.
 

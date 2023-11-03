@@ -589,7 +589,7 @@ Similarly, the test, trace, isolation programme, again we didn't have any data c
 
 In the reports, you know, there are mentions about the culturally-adapted information that was given out there. Now, giving out a culturally-adapted leaflet doesn't mean that that's going to have a major effect. You need to do a lot more than that. You need to work with that community. And there are discussions about the community champions programmes that were funded, but again we're not sure how these were funded, which areas were funded.
 
-And the key one is the evaluations. You know, 40 million, over Â£40 million was given out. These are the kinds of things that we should be evaluating robustly, because we have the data. If you put an intervention in Leicester and don't put it in Blackburn, I can tell within a short period of time with the data that we have whether that intervention's worked or not.
+And the key one is the evaluations. You know, 40 million, over £40 million was given out. These are the kinds of things that we should be evaluating robustly, because we have the data. If you put an intervention in Leicester and don't put it in Blackburn, I can tell within a short period of time with the data that we have whether that intervention's worked or not.
 
 **Counsel Inquiry**: Thank you. So is that one of your primary concerns, is working out what happened, effectively, with those community champions, grants and research projects and that data?
 
@@ -1044,7 +1044,7 @@ In terms of my answers I gave earlier, the targeted interventions were -- we fel
 
 **Professor Thomas KC**: Yes. I've finished, but just on that, do you think things were being done timely?
 
-**Professor Kamlesh Khunti**: The first quarterly report was in October, and that's when they started discussing this. I think the first lot of funding for community champions was given in January 2021. Yes. Â£23.75 million was given for community champions over, I think, 60 authorities. And we think that this could have been done earlier, yes.
+**Professor Kamlesh Khunti**: The first quarterly report was in October, and that's when they started discussing this. I think the first lot of funding for community champions was given in January 2021. Yes. £23.75 million was given for community champions over, I think, 60 authorities. And we think that this could have been done earlier, yes.
 
 **Professor Thomas**: It could have been done earlier.
 
@@ -1387,7 +1387,7 @@ But on account of the way in which a viral outbreak or a virus disease will spre
 
 **Professor Thomas Hale**: Correct. And it's really the most stringent measures, for example closures or required long periods of quarantine, say in hotels, that show this particularly high effect on transmission.
 
-**Lead Inquiry**: I've already asked you about the generic difficulties of trying to apply a counterfactual position and of trying to drill down into the impact of specific measures. Is it for those reasons that you can't express a view, for example, as to what the specific impact might have been in the United Kingdom of banning mass gatherings earlier? For example, you're aware of the Six Nations matches which were held in February and March, a football match between AtlÃ©tico Madrid and Liverpool and so on, and a racing festival at Cheltenham. Does the data and the literature provide you with any answer as to what might have been the impact had those large mass gatherings not taken place?
+**Lead Inquiry**: I've already asked you about the generic difficulties of trying to apply a counterfactual position and of trying to drill down into the impact of specific measures. Is it for those reasons that you can't express a view, for example, as to what the specific impact might have been in the United Kingdom of banning mass gatherings earlier? For example, you're aware of the Six Nations matches which were held in February and March, a football match between Atlético Madrid and Liverpool and so on, and a racing festival at Cheltenham. Does the data and the literature provide you with any answer as to what might have been the impact had those large mass gatherings not taken place?
 
 **Professor Thomas Hale**: A study could be done, a modelling study, which would have tried to use mathematics and statistics to create a counterfactual for comparison, but no, we can't look back in an observational way and say: had this been done earlier, definitely this would be the impact. Rather we can say is: let's look at all of the countries in the world, see which ones imposed this kinds of mass gathering bans, what the impact was on their disease situations and then try to interpolate that to the UK. That's the level of evidence that we can provide.
 

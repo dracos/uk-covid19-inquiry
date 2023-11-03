@@ -752,7 +752,7 @@ As of August this year, the UK CV Family has more than 1,200 members, and approx
 
 Vaccine Injured Bereaved UK, or VIBUK, is a group of individuals and families who have either been severely injured or bereaved as a direct and confirmed result of receiving a Covid-19 vaccine in the UK. They are campaigning for the government to reform the Vaccine Damage Payment Scheme, because in our submission it is both inadequate and inefficient. They also run a support group offering support, guidance and raising awareness of vaccine injury and bereavement.
 
-The primary causes of these injuries and deaths are: vaccine-induced thrombotic thrombocytopenia, or VITT; vaccine induced vasculitis; stoke; cerebral venus sinus thrombosis; and Guillain-BarrÃ© syndrome.
+The primary causes of these injuries and deaths are: vaccine-induced thrombotic thrombocytopenia, or VITT; vaccine induced vasculitis; stoke; cerebral venus sinus thrombosis; and Guillain-Barré syndrome.
 
 Survivors are having to cope with the aftereffects of their injuries, including brain damage and physical disablement, whilst the bereaved are struggling to live without their partners, children or parents. All VIBUK members have a confirmation that their injuries were caused by the Covid-19 vaccine.
 
@@ -770,7 +770,7 @@ Margaret Bailey lost her life from a suppressed immune system due to developing 
 
 From the UK CV Family, Alexandra Kelly lost her mother, Anthea, a retired palliative care nurse, to pneumonitis caused by the Covid vaccine. Anthea died within four days of her vaccine, and at an inquest that took place over 18 months after her death, a pathologist confirmed that the vaccine had caused it.
 
-Individuals within the three groups have developed a variety of conditions, including VITT and CVST, Guillain-BarrÃ© syndrome, mast cell activation syndrome, significant vision Impairment, rheumatoid arthritis, pericarditis, myocarditis, chronic fatigue syndrome, tinnitus, heart issues, chest pain, brain fog, weakness in their limbs, or have suffered pulmonary embolism or heart attacks. Some have had to undergo amputation.
+Individuals within the three groups have developed a variety of conditions, including VITT and CVST, Guillain-Barré syndrome, mast cell activation syndrome, significant vision Impairment, rheumatoid arthritis, pericarditis, myocarditis, chronic fatigue syndrome, tinnitus, heart issues, chest pain, brain fog, weakness in their limbs, or have suffered pulmonary embolism or heart attacks. Some have had to undergo amputation.
 
 This is not an exhaustive list, my Lady. Many of our clients have experienced delayed diagnosis, which has resulted in permanent damage.
 
@@ -1162,7 +1162,7 @@ There have already been some helpful and informative assessments made of vaccine
 
 At paragraph 3.10 of this report, the National Audit Office identifies that community pharmacies and GPs went beyond expectations in delivering the Covid-19 vaccine. 71% of vaccinations were administered by GPs and community pharmacies against a planning assumption of 56%, an increase of about a third. This compares to 21% of vaccines delivered at vaccination centres, against a planning assumption of 41%, which is about half of what was expected.
 
-The additional contribution by community pharmacies and GPs to the vaccine roll-out was a significant factor in the programme exceeding its objectives and expectations, and, as set out at paragraph 3.11 of the National Audit Office report, this delivery, at a cost of Â£24 per dose, was also more cost-effective than at vaccination centres, which operated at Â£34 per dose.
+The additional contribution by community pharmacies and GPs to the vaccine roll-out was a significant factor in the programme exceeding its objectives and expectations, and, as set out at paragraph 3.11 of the National Audit Office report, this delivery, at a cost of £24 per dose, was also more cost-effective than at vaccination centres, which operated at £34 per dose.
 
 Throughout the pandemic, community pharmacy continued to scale up service delivery to meet demand. For example, the number of community pharmacies able to deliver the vaccine increased by 50% between October and December 2021, and when the government expanded the booster programme in December 2021, community pharmacies immediately increased their appointment availability.
 
