@@ -43,6 +43,7 @@ def parse_speech(speech):
 
 def parse_transcripts():
     for f in sorted(glob.glob('data/*.scraped.txt')):
+        Speech.witness = None
         date, title = re.match('data/(\d\d\d\d-\d\d-\d\d)-(.*).scraped.txt$', f).groups()
         if m := re.search('Module (2[ABC])', title):
             sect = 'module-' + m.group(1)
@@ -232,7 +233,7 @@ def parse_transcript(url, text):
                 continue
 
             # Witness arriving
-            m1 = re.match(" *((?:[A-Z]|Mr)(?:[A-Z0-9' ,-]|Mc|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
+            m1 = re.match(" *((?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
             m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
             m3 = re.match(" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
             if m1 or m2 or m3:
@@ -270,7 +271,7 @@ def parse_transcript(url, text):
 
             # Question/answer (speaker from previous lines)
             m = re.match(' *([QA])\. (.*)', line)
-            if m:
+            if m and not re.match(' *A\. The list of issues\.$', line):
                 yield speech
                 if m.group(1) == 'A':
                     assert Speech.witness
@@ -309,7 +310,7 @@ def fix_name(name):
     #s = s.replace(' Of ', ' of ').replace(' And ', ' and ').replace('Dac ', 'DAC ') \
     #     .replace('Ds ', 'DS ')
     # Deal with the McNames
-    name = re.sub('Mc[a-z]', lambda mo: mo.group(0)[:-1] + mo.group(0)[-1].upper(), name)
+    name = re.sub('Ma?c[a-z]', lambda mo: mo.group(0)[:-1] + mo.group(0)[-1].upper(), name)
     #s = name_fixes.get(s, s)
     # More than one name given, or Lord name that doesn't include full name
     #if ' and ' in name or (' of ' in name and ',' not in name):
