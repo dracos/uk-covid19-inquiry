@@ -25,6 +25,11 @@ body, html {
     margin-bottom: 12px;
 }
 
+/* Core participants table */
+#core-participants th, #core-participants td {
+    white-space: normal;
+}
+
 /* Hide versions menu, keep hosted/privacy permanently shown */
 div.rst-versions > span.rst-current-version {
     display: none;

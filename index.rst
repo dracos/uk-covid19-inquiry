@@ -43,3 +43,4 @@ Contents
    module-1/index.rst
    module-2B/index.rst
    module-2C/index.rst
+   core-participants.rst
