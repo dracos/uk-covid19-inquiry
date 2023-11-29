@@ -114,6 +114,10 @@ def convert_four_up_pdf(text):
             text_r.append('%2d%s' % (line_n, line_r))
             continue
 
+        # Offset index lines (2023-11-28)
+        if m := re.match(r' +Questions from .*?\.\.\.', line):
+            continue
+
         # Just left page at the end
         m = re.match(r' ?(\d+)( .*)?$', line)
         line_n = int(m.group(1))
