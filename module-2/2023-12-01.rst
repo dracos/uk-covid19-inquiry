@@ -1,0 +1,1993 @@
+Transcript of Module 2 Public Hearing on 01 December 2023
+=========================================================
+
+*(10.00 am)*
+
+Mr Matt Hancock
+---------------
+
+*MR MATT HANCOCK (continued).*
+
+Questions From Lead Counsel to the Inquiry (continued)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Mr Keith.
+
+**Mr Keith**: Thank you, my Lady.
+
+Mr Hancock, you told the Inquiry yesterday how in September of 2020 you were urging for more measures, more stringent measures, trying to move the process on, for greater intervention.
+
+I would just like to show you some, and they're only a very small sample of the messages that you sent, demonstrating that indeed throughout September and October you were urging the process forward.
+
+INQ000048399 is a WhatsApp group. On page 35, on 17 September -- thank you -- at 5.25:
+
+"To avoid national lockdown we need to act fast in parts of the country where it's going in the wrong direction."
+
+Then further down the page, at 2.00.46, 46 seconds past 2:
+
+"We have just held a very alarming JBC Gold.
+
+"Sharp rises in the North East & Merseyside ...
+
+"We need to get tiering sorted and tougher local action in place pronto."
+
+The reference to tiering there, Mr Hancock, may we presume that's a reference to what you said yesterday about how the tiering proposal was first debated in September; you're endeavouring there or you're making quite plain that the system needs to be sorted for tiering?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: Page 38, and this is 8 October, 8.47, at the top of the page, Matt Hancock:
+
+"We need to be making the argument in every forum:
+
+"- there is a problem
+
+"- we want to avoid full lockdown
+
+"- our call to action."
+
+On 9 October in a communication with Simon Case, INQ000129514, you are the owner of the cellphone although your name is not there, Mr Hancock.
+
+**Mr Matt Hancock**: Agree.
+
+**Lead Inquiry**: "Just seen the latest proposal. It is a white flag.
+
+We can't just give up in fighting the virus. We have to stop it regionally now or we will be in full national lockdown in a fortnight."
+
+Could you just help us, it's not entirely clear from the chronology what the latest proposal was that you were referring to there, which you described as a white flag. Can you recall?
+
+**Mr Matt Hancock**: I can't particularly recall. There were a series of weak proposals over that time. In September we introduced the rule of six. There was a debate about whether it should be a rule of eight or rule of six. I'm glad that we introduced it as rule of six but it didn't go far enough.
+
+The tiers proposal, despite -- I -- my -- first suggested it in early September, it was agreed at Covid-O on 17 or 18 September for implementation on 2 October, and it still wasn't in place by this point. The top tier within the tiering system wasn't strong enough. And my argument was that we needed to act now both because there's no trade-off between the health and economics, as we talked about yesterday, but also if we don't lock down there will be more deaths and we will have to have a tougher lockdown in the future.
+
+So on reflection, and with hindsight, I think that if we'd taken action sooner in September of 2020 then we might, for instance, have avoided the need to close schools, which in the end we had to, because cases were so high by January.
+
+**Lead Inquiry**: So that's --
+
+**Mr Matt Hancock**: That's one of the examples --
+
+**Lead Inquiry**: -- a nod forward to the third lockdown, of course?
+
+**Mr Matt Hancock**: Correct.
+
+**Lead Inquiry**: So when you say the later lockdown, you mean the third one --
+
+**Mr Matt Hancock**: Correct --
+
+**Lead Inquiry**: -- because that's when schools were shut again?
+
+**Mr Matt Hancock**: -- because in the November lockdown we didn't shut schools, and other than for the emergence of the Kent variant it did get R below 1, so it shows, this -- the argument I was making then, sadly, turned out to be accurate, which is if you don't lock down early then you have a tougher lockdown, with more economic damage, as well as, of course, the more -- the greater number of deaths and more damage to the health of the nation. And this is why I'm so emphatic about that being an important learning for the future.
+
+**Lead Inquiry**: Yes.
+
+Mindful of what you said yesterday, however, about the circuit breaker proposal in September --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- what you were calling for in September and October was a tougher local system, a proper and well regulated or a more stringent tier system --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- because that was what you assessed was the best way of avoiding the national lockdown, but you weren't calling for the circuit breaker specifically in September, for the reasons you gave yesterday?
+
+**Mr Matt Hancock**: Yes, although I was also supportive of national measures to keep R down overall, and had we gone for a set of measures overall that would have kept R below 1 I would have supported that. My goal was to get R below 1. I didn't think the circuit breaker proposal would work in practice, but I could see the science behind it --
+
+**Lead Inquiry**: I'm so sorry to interrupt, because it was too short?
+
+**Mr Matt Hancock**: Because it was too short and the cases would just shoot up again afterwards, and it would risk losing public and Parliamentary support.
+
+And I also, by this stage -- there's a reference on 8 October to "others are campaigning against us" -- by this stage those arguing against lockdown in Parliament were formulating a group, they were co-ordinated, they were campaigning, and this became more of a problem later on. And so we needed to keep Parliamentary consent and public support, and that was one of the reasons that I thought in practice the circuit breaker proposal wouldn't -- wasn't the best way forward.
+
+You know, with hindsight, would it have been better if I'd sat down with the scientists and said, "Okay, here are my sort of practical reasons I don't think your thing will work, you don't -- you haven't come in behind my tiers proposal, but all of us care about getting R below 1, what should we, together, propose?" But that isn't how it progressed. But I was arguing, as you can see, very strongly for action that was necessary to save lives.
+
+**Lead Inquiry**: You were. And as you explained yesterday, at the same time there was built into the system, perhaps a necessary part of any system for a national imposition of countermeasures, that delay between the second or third week in September when the tier proposal was first mooted and 12 October when it was announced. It took time in any event to get to that stage?
+
+**Mr Matt Hancock**: Well, it did, but it didn't need to take nearly so long.
+
+**Lead Inquiry**: No.
+
+In your witness statement, you say this:
+
+"I was in despair that we had announced a policy that we knew would not work."
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: That's the tier framework?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: Can you just acknowledge, and I'm just going to paraphrase what you say elsewhere in your statement about why the tier system didn't work --
+
+**Mr Matt Hancock**: Yeah.
+
+**Lead Inquiry**: -- you've just mentioned that the Tier 3 level --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- in the tier system wasn't strong enough?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: And you had in fact been blocked when you had tried to suggest a more stringent level.
+
+**Mr Matt Hancock**: Correct.
+
+**Lead Inquiry**: Secondly, epidemiologically, a system based on shifting tiers was always going to level up.
+
+And thirdly, you describe how the way in which there was a local negotiation with the regions which were placed into particular tiers, higher tiers --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- meant that there was a degree of negotiation, delay, confusion with what packages might be introduced and then --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- confusion for the public?
+
+**Mr Matt Hancock**: Yes. And sadly this is how it -- how it played out.
+
+So the -- when the announcement was made, the proposal was that under Tier 3 there would be a baseline of national measures and then further measures would be agreed with local leadership. And when I say that I knew wouldn't work, it was because local leadership had up to that point largely demonstrated that they were under significant political pressure not to accept measures.
+
+Now, there were exceptions to this. For instance, the Mayor of Liverpool, Joe Anderson, not the mayor of the Liverpool City Region, who I know has been a witness, Joe Anderson -- unfortunately no longer with us -- he was incredibly supportive and we ended up in Liverpool having a package of measures that was effective, after a very constructive negotiation and discussion and in a spirit of collaboration, despite everything -- I mean, he was a Labour mayor, the parties really didn't matter at this point.
+
+**Lead Inquiry**: Right.
+
+**Mr Matt Hancock**: But others were un -- not constructive, and in some cases actively unhelpful and put -- I felt put politics ahead of public health.
+
+**Lead Inquiry**: And I don't want to go into the detail of it, but it's right that we acknowledge that -- is that what the entry in Sir Patrick Vallance's diary is to -- there's a reference to Manchester and the very difficult negotiations that went on in relation to Manchester?
+
+**Mr Matt Hancock**: Yes, I would say that the diary entry might be better written as "political leadership in Liverpool and political leadership in Manchester".
+
+**Lead Inquiry**: Right.
+
+**Mr Matt Hancock**: I've got no beef with the fine city of Manchester.
+
+**Lead Inquiry**: Your statement makes plain that, as the end of October approached, you weren't winning the argument for a national lockdown, you therefore took the step of asking health leaders to make the case for a second national lockdown?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: It's self-evident, was that necessary --
+
+**Mr Matt Hancock**: Yeah.
+
+**Lead Inquiry**: -- because you felt you were losing the argument?
+
+**Mr Matt Hancock**: I felt like there was -- we were in a -- in a campaign to win the argument and others were using -- whereas up to this point I'd essentially argued internally, at that point I decided that those who were against action, which I saw as extremely dangerous, were using public debate and trying to win the debate in the discourse, and I therefore got the -- I corralled the voices that I knew would support the -- what was needed in the public health interest.
+
+So I spoke to the royal colleges, I spoke to different parts of the health system, and I said -- to a system which is normally very -- it's actually remarkably hierarchical, the health system, and I said, "Get out there and make the case, get out there and explain what will happen if we don't take action now". And boy, they did. And -- and -- because everybody in -- everybody -- I don't know a single voice in the health and social care system who wasn't in favour of more action at that point. Because we could see what was going to happen.
+
+**Lead Inquiry**: INQ000129555 is a WhatsApp communication between yourself and Simon Case, and you say in terms, and this is 30 October, Mr Hancock, so obviously there is enormous debate and very difficult debate in government as to whether or not the second national lockdown should be imposed. I think it may be the second page.
+
+**Mr Matt Hancock**: I think we'd decided by 30 October.
+
+**Lead Inquiry**: Well, the reason I'm asking you is you say:
+
+"Rishi is in the room -- contrary to the stupid rules -- so the PM will be under enormous pressure to not do enough once again."
+
+So given that that's 30 October, my question in fact is: was that a reference by you, when you say "to not do enough ... again", one again the decision to make the lockdown?
+
+**Mr Matt Hancock**: Well, the "stupid rules" is that --
+
+**Lead Inquiry**: No, no, don't worry about the stupid rules.
+
+**Mr Matt Hancock**: Okay, but I was not allowed physically present into this meeting and --
+
+**Lead Inquiry**: No, "not do enough ... again", that can only be a reference to the debate about the lockdown, presumably?
+
+**Mr Matt Hancock**: Yeah, so I'd been blocked from going into this meeting, and you can imagine who made that decision. The -- the Prime Minister was -- would be under pressure not to do enough, so repeatedly we had taken action but it wasn't enough to get R below 1.
+
+**Lead Inquiry**: But on this day, 30 October, and you're aware of course that there had been a forward strategy meeting in Chequers on 25 October?
+
+**Mr Matt Hancock**: Yeah.
+
+**Lead Inquiry**: The Covid Taskforce had forwarded an advice seeking a lockdown on 28 October to the Prime Minister?
+
+**Mr Matt Hancock**: Yeah.
+
+**Lead Inquiry**: And they had presented a further paper again on 30 October, and then, as you will recall, there was a further paper prepared for the Covid-O on 30 October.
+
+This can only be a reference to that debate which was going on the very same day about the national lockdown?
+
+**Mr Matt Hancock**: Well, around this time we did make the decision for a national lockdown. It may have been that this message was during the decision-making meeting. You can read it that way.
+
+**Lead Inquiry**: Precisely.
+
+At the bottom of the page, Mr Hancock, you say:
+
+"I can live with that [that's a reference to question about non-essential retail and secondary schools] -- but I am very worried about a rearguard action that has screwed us all over too often."
+
+What was the reference to "rearguard action"? What were you referring to there?
+
+**Mr Matt Hancock**: I was referring to the Prime Minister making a decision in principle to take action that was necessary to save lives and then others arguing strongly against it afterwards. And I don't actually know who the others were, because I wouldn't have been party to those conversations, but that was a -- that was something that we'd -- we'd lived with.
+
+**Lead Inquiry**: And of course, as you explained yesterday, as the Secretary of State for Health and Social Care, your primary concern, perhaps your only concern, had to be the public health -- clinical side of this terrible debate about the second wave, bringing R below 1, and of course the damage to the economy and the societal harm that would be wrought by another lockdown?
+
+**Mr Matt Hancock**: Well, obviously, as you've seen from all of my evidence and all of the contemporaneous evidence, my primary concern was saving lives and making sure that we got through this with the NHS not being overwhelmed and as few people victim to this horrible virus. That was my -- throughout the whole period, that was my primary motivation. And, you know, this Inquiry has brought evidence that I didn't even know about myself that demonstrates that the work that was going on with the health system as a whole that I led and me obviously a -- putting my voice to that.
+
+The -- but, but -- and this is a crucial point -- as an MP, as a member of the Cabinet, I didn't only care about the health interest. The importance of the economy matters too, and that would -- would have been more damaged by delaying, and indeed was, because we had to have a tougher lockdown, and, as I've said, I think if we'd managed -- if we'd brought -- managed to bring in an earlier lockdown, we may not have had to close schools second time round, as we did. Because the case rate got so high we again in January had to pull every lever as we'd had to in March 2020.
+
+So it isn't just that I was interested in the health outcomes, that was obviously my primary duty and my primary responsibility and my primary concern, but it's broader -- my argument was broader than that. It was that even if you care only about the economy you need to take the measures early, because there's absolutely no way we're going to allow R to be above 1 until case rates get to a position where the NHS is going to be overwhelmed, and that is always going to be the case until we have a vaccine.
+
+**Lead Inquiry**: Is that why, essentially, in your witness statement you say there were no excuses second time round? Clinically, in public health terms, there was simply no proper debate against the imposition of a second national lockdown. Economically, a second national lockdown imposed earlier would have less effect overall, damaging effect, on the economy. So as it seemed to you the arguments were all one way and --
+
+**Mr Matt Hancock**: Yes, and that was -- that was true.
+
+And the more you thought a vaccine was going to come -- the sooner you thought a vaccine was going to come, the lower the validity of any argument the other way.
+
+And at this point I was highly confident that a vaccine would come. We'd seen the phase -- the animal trials and the phase 1 trials on humans, but by October there was -- there was a quote briefed from somewhere in Whitehall saying:
+
+"'Matt Hancock is the only person here who thinks there is actually going to be a vaccine,' said a Whitehall source. 'It's a running joke with other departments.'"
+
+But I was looking at the evidence -- by the way, which was publicly available -- that there was going to be a vaccine.
+
+To his credit, the Prime Minister always thought there was going to be a vaccine as well, and I'd set up -- I'd tasked the NHS for being ready to deliver a vaccine from 1 December as the reasonable best-case scenario -- it was nice to be able to talk about reasonable best as opposed to reasonable worst-case scenarios -- and in the end we started on 8 December.
+
+But that's important for these considerations, because if you think a vaccine is coming, with any degree of confidence, then all of the arguments about resisting lockdown measures fall away because the action that you're going to have to take will be temporary. If you think there's never going to be a vaccine, then it is a much more difficult conundrum. But by now it was -- we were pretty -- those close to it were pretty confident there was going to be a vaccine.
+
+**Lead Inquiry**: So for all those reasons, the position you reached was that the argument strongly favoured an earlier lockdown than was in fact imposed, and there was no real argument against the imposition of a lockdown, second national lockdown, in principle, for all the clinical and economic arguments to which you've made reference?
+
+**Mr Matt Hancock**: Correct.
+
+**Lead Inquiry**: Right.
+
+You weren't, I think -- your statement doesn't suggest that in relation to the third lockdown you had any real doubt about the wisdom of its imposition, clinically, in public health terms; and presumably for the same reasons, the economic arguments, there was no option but to impose a third national lockdown?
+
+**Mr Matt Hancock**: Absolutely. And by that stage, because the case rates were so high, we again had to pull every lever, which included, unfortunately, having to close schools.
+
+**Lead Inquiry**: And the prevalence rates were so high in part, you describe, because the November lockdown had not been long enough, it had not been imposed early enough, and also you thought that there were very real mistakes in relation to the regulations which had been put in place in December and over Christmas they'd all contributed to the high prevalence rate?
+
+**Mr Matt Hancock**: Well, there was an additional complicating factor which was the Alpha variant, which was more transmissible, and therefore -- by then we'd come to quite a good calibration of what NPIs you need to keep R below 1, and we'd got to the point where that was embedded within the tiers system. But unfortunately the Alpha variant blew those calibrations because it transmitted faster, but we didn't know exactly how much faster because it was a new variant. And so the -- therefore, we had to pull every lever. And I remember, after we'd made the decision, I think it was on 4 January, to go into another full national lockdown, I remember the two weeks after that as harrowing, because the case numbers kept going up, as they had in March, after we'd pulled every lever, and there was nothing more we could do, and because this was a new strain again we didn't know whether everything would be enough to get it under control. And thankfully we did get it under control just before the NHS was overwhelmed once again.
+
+**Lead Inquiry**: Because of the perennial debate, the overriding imperative as you saw it, to bring R below 1 because of all the terrible consequences?
+
+**Mr Matt Hancock**: Yeah, not just as I saw it, as logic requires.
+
+**Lead Inquiry**: No, I'm asking you the question.
+
+**Mr Matt Hancock**: Yes, yes.
+
+**Lead Inquiry**: Just please now, finally, Mr Hancock, one or two concluding and disparate issues. Can I make plain that I'm not going to ask you any questions about 2021 in large part. The Inquiry has, of course, your very detailed witness statements which deal with the salient features of 2021, but just two or three small areas.
+
+The Inquiry heard evidence from Professor Ferguson how he resigned as an adviser to SAGE on account of his transgression. At the time of his resignation, you were asked if the police should prosecute him, you said, rightly, it's a matter for the police, it's an operational matter, but you made the point, quite rightly, that these were important issues and the social distancing rules were important. You obviously transgressed yourself, and that came to light in June 2021, on 25 June. I'm sure you acknowledge the incredible offence and upset that was caused by that revelation.
+
+In terms of the impact on public confidence, there were a number of transgressions in public life. Overall do you think that those breaches had an impact upon the public's propensity to adhere to rules -- and acknowledging of course that by June 2021 we were out of the worst, there was, in May 2021, the tail end of the regulations and guidance in place, but overall it was damaging?
+
+**Mr Matt Hancock**: Well, what I'd say is that the ... the lesson for the future is very clear, and it is important that those who make the rules abide by them. And I resigned in order to take accountability for my failure to do that.
+
+**Lead Inquiry**: And that, to your credit, must have been in reflection of the fact that you understood the importance of -- or the deleterious consequences of rule breaking or guidance breaking on public confidence and the public at large?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: All right.
+
+Long Covid. Your statement makes plain that from an early stage you asked NHS England to consider what could be done and you asked Simon Stevens to develop plans --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- for addressing the issue of Long Covid.
+
+From your assistance to the promulgation of NHSE guidance in June and the announcement in July by the National Institute for Health Research and UK Research and Innovation, and also your convening of a roundtable in July --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- it appears very clear that you were alive to the concerns about long-term sequelae from the Covid infection?
+
+**Mr Matt Hancock**: Yes, I was alive to it from before the infection reached our shores. Chris Whitty raised the concern about the potential of some kind of post-viral fatigue syndrome, which is -- which happens with other viruses as well. And then after the first peak I was acutely aware of it, not least because members of my family were affected by Long Covid, including my mother, who still attends a Long Covid clinic. So this was very close to my heart.
+
+**Lead Inquiry**: To what extent, when you and your colleagues became aware of long-term sequelae and the long-term consequences of infection, did that understanding feed its way into the debate about the mechanics of non-pharmaceutical interventions and then subsequently the relaxation of restrictions? What role did -- or to what extent did the issue of Long Covid play out in the debate about the mechanics of NPIs?
+
+**Mr Matt Hancock**: Well, it matters, of course, because it makes the virus even worse, it makes the impact of the virus even worse, and so it reinforced the arguments that we were making already. Of course the best way to avoid Long Covid is to take the measures necessary to reduce the amount of Covid, full stop, and so it actually calls for the same policy prescription in terms of preventing Covid and, therefore, tough NPIs to keep R below 1. But it also requires, and required, more research and support from the NHS, who found it quite difficult because it was a new disease and because of its nature -- presenting in many, many, many different ways, they found Long Covid quite difficult to categorise at first. And so with Simon Stevens we worked together to bring forward Long Covid clinics that could look across the range of conditions that are loosely gathered under the term "Long Covid".
+
+As I say, I cared a lot about this for personal reasons as well as professional reasons, and we didn't need sign-off from the centre, we just got on with it.
+
+**Lead Inquiry**: Do you happen to know why, notwithstanding the considerable amount of work done on Long Covid from the very early days and throughout the summer, particularly, of 2020, the public campaign about Long Covid wasn't launched until, I think, October? Do you know why there was that potential lag in the communications side of the debate?
+
+**Mr Matt Hancock**: Yes. I think it was essentially because the -- understandably, the clinicians found it hard to get a handle on exactly what the term meant at first. I knew what it meant, and those suffering from it knew what it meant, but turning that into a formal protocol -- would normally have taken a lot longer, but it was one of those things that happened -- it took some months for the clinicians to put it together. I think we'd decided to do that in, was it, June or July 2020, at that roundtable meeting that you mentioned.
+
+**Lead Inquiry**: 31 July, yes.
+
+**Mr Matt Hancock**: 31 July, which I'd convened, and so it was put together in around six weeks from then. So although that looks slow in the context of the pandemic, that is fast in the normal context of medical response to innovative problems.
+
+**Lead Inquiry**: Particularly the public-facing side of the medical response?
+
+**Mr Matt Hancock**: Yes. And, you know, clinicians understandably wanted an answer to the question "What exactly is Long Covid?" before they would go out and say that "We're having a campaign on this". So that was a -- you know, that was a -- it was a piece of work -- of course I wish it had gone faster, and I was pushing it, but it -- nevertheless I can understand the reasons it took as long as it did.
+
+**Lead Inquiry**: Finally, in relation to disparities, your witness statement makes plain that you were obviously aware from a very early stage on the clinical vulnerabilities or disparities from coronavirus 19 --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- you were aware of the risk factors from a very early stage?
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: You were of course aware, and you explain how you became aware, of the terrible figures showing disproportionate numbers of black people and black and minority ethnic healthcare workers being hospitalised --
+
+**Mr Matt Hancock**: Yes.
+
+**Lead Inquiry**: -- and ultimately dying, and you contributed to the process by which SAGE and other bodies from April onwards looked at this issue.
+
+Did you also commission work through Public Health England? There was a rapid review, I think, on 12 May, then a full review on 31 May. And then did you also contribute to the decision that further work and the reports be ultimately commissioned through Kemi Badenoch?
+
+**Mr Matt Hancock**: Yes. I was particularly struck by the death of the first four NHS doctors, three of whom were from an ethnic minority background. I was acutely aware of the disproportionate impact on those from ethnic minority backgrounds, especially amongst the wider NHS workforce as well, not just the doctors and nurses but also more broadly, including porters and other staff who do vital work and often are very closely in contact with patients.
+
+So this is something that I was worried about from early in the pandemic. I'd in fact worked on this before the pandemic, including raising the issues of discrimination within the NHS, and there was -- there was work under way on a particularly difficult issue that came up in NHSBT. So there was a wide range of work on this, I was aware of it from the start and I was very glad when Kemi was tasked by the Prime Minister to lead and really get to the bottom of this.
+
+**Mr Keith**: Forgive me one moment.
+
+My Lady, those are all the questions for Mr Hancock.
+
+**Lady Hallett**: Thank you very much.
+
+Ms Morris, are you going first?
+
+Questions From Ms Morris KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Morris**: Thank you, my Lady.
+
+Mr Hancock, I ask questions on behalf of Covid Bereaved Families for Justice UK and Covid Bereaved Families for Justice Northern Ireland, who sit behind me, and together we represent over 7,000 bereaved families, bereaved by Covid, many who sit behind me, and many of whom have lost families in care homes.
+
+So my questions are centred at high level on the decision on 19 March to discharge untested hospital patients into those care homes.
+
+Yesterday you accepted in evidence that on 15 May 2020 in a press conference, you said that, "Right from the start, we've tried to throw a protective ring around ... care homes". So the context of my questions is to probe with you your claim that you had taken those steps right from the start or at all?
+
+**Mr Matt Hancock**: Yes. Yes.
+
+**Ms Morris KC**: So I'm going to take you through some of the key dates at the start of the pandemic and examine what was known or ought to have been known by you and your department and how that informed the decisions that were made on 19 March. Okay?
+
+Can we first have on screen, please, INQ000049363, page 2.
+
+This is the minutes of an adult social care coronavirus meeting.
+
+Thank you. It's "Action #3", please. Thank you very much. Thank you.
+
+It says there that there was -- noted at point 7, this is 11 February 2020:
+
+"... commented that there were likely to be three ways that the virus could enter a care home (infected people moved into homes; staff; visitors) and these should be considered during the response phase."
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: So the question is this: what was done to minimise those three different routes of infection require to the hospital discharge policy on 19 March?
+
+**Mr Matt Hancock**: Yes. So this document is from 11 February.
+
+**Ms Morris KC**: Correct.
+
+**Mr Matt Hancock**: For context, there were under five cases in the UK at that point, so this is very early on in thinking about how we are going to handle the pandemic, but it was clear from this point that the virus had its biggest impact on those who are older and had underlying vulnerabilities. So we knew that there was a problem, and we knew there was a significant and specific risk for those who lived in care homes and in particular care homes that looked after older people.
+
+**Ms Morris KC**: And in particular, these three ways present three potential breaks to any circle or any ring of care; is that fair to say?
+
+**Mr Matt Hancock**: Yes, absolutely, and we considered these from -- throughout in terms of how we could best support and protect people in care homes. In fact, the work had already started before this, and we had the first adult social care national steering group, for instance, on 5 February.
+
+**Ms Morris KC**: Yes, I'll come back to some of those steering group minutes later.
+
+Next can we have put on the screen, please, INQ000074910, page 2.
+
+This is 24 February now. This is a PHE response to a question that's been proposed to them: if there's an evidence of cluster of Covid-19 cases in the UK what would the PHE proposal be?
+
+It's under 2A, the second heading there -- if that could be highlighted and enlarged, please, thank you.
+
+It says if there is an assumed outbreak of 5 to 25 cases PHE advises that no discharges be made from hospitals to care homes whilst there is a cluster of cases in a hospital during the containment phase.
+
+It may be a little further down the 2A section there in terms of the highlight. If the highlight could be expanded or lower down, please, at the bottom of those bullet points, please. I'm grateful.
+
+Yes, it's in the middle of that paragraph:
+
+"No discharge to ... residential [care] homes."
+
+Middle paragraph, it's 2A.
+
+So on 24 February 2020 the PHE are making it clear there should be no discharge to residential care homes because of the risk of infections that that would create; is that correct?
+
+**Mr Matt Hancock**: I didn't see this document at the time, but my reading of the document as you've presented it to me is that in the case of an outbreak in the care home then there should be no discharges to that care home. That's my reading of it, but I'm -- this is a PHE document that I wasn't aware of, so the -- it is as it is, the evidence is there.
+
+**Ms Morris KC**: Thank you.
+
+You've mentioned the national steering group meetings, they took place in February, and two in particular, 19 and 26 February, I'm going to suggest, had been expressing concerns about the availability of PPE in care homes?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: In particular, we can go to them if you'd like to, but I'm going to suggest on 26 February there was hard evidence of PPE stock being requisitioned for NHS use; is that correct?
+
+**Mr Matt Hancock**: I'm not aware of that, but if you want to put up evidence showing that --
+
+**Ms Morris KC**: It's --
+
+**Mr Matt Hancock**: What I would say is that on PPE, at the end of -- it was obvious from January there was going to be a problem with PPE. At the end of January, I agreed to the recommendation that we should release the PPE stockpile and I also requested that we started buying PPE in size -- as in, in large scale, which we did. It was a global challenge because suddenly everywhere in the world was trying to buy PPE.
+
+Also there's another structural point which is really important here, which is that care homes and all of social care is legally responsible to local authorities, it is commissioned by local authorities, and so there's a structural problem which is that the responsibility and policy questions inevitably, especially in a crisis, flow to the national government but the levers, the policy, the formal policy, and all of the legals are in the hands of local government. And so we started this with a social care sector, you know, in need of reform, where the reforms hadn't happened and where the formal legal responsibility was for local authorities.
+
+**Ms Morris KC**: I understand that, but what I'm asking you about is what was known by your department about methods and equipment that could keep care home residents safe.
+
+**Mr Matt Hancock**: Absolutely.
+
+**Ms Morris KC**: In terms of how you then set your policy and what you dictate should happen. Okay? So let's look at those steering group minutes together, please.
+
+INQ000114887.
+
+Specifically on this point about the NHS requisition. It's page 2 again, and it's the top action on page 2, please, "Action", concerns about NHS111, and then it says under the first bullet point:
+
+"Hard evidence of providers failing to get PPE they had paid for as it was requisitioned for the NHS."
+
+Now, I don't need to dig too deep beneath this in terms of logistical matters but it's clear there, isn't it, that the department is aware from stakeholders that they're not only concerned about PPE but there's difficulties in getting what they've paid for?
+
+**Mr Matt Hancock**: That's what it says.
+
+**Ms Morris KC**: Okay, thank you.
+
+So by the end of February now, that's 26 February, that set of minutes, I'm going to suggest that it's obvious to your department that care homes were a vulnerable population -- I think you've already agreed with that?
+
+**Mr Matt Hancock**: Absolutely, yeah.
+
+**Ms Morris KC**: With multiple sources of infection -- you've agreed with that -- and real problems, I suggest, with obtaining PPE. Would you agree?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: So moving into March, you told Mr Keith yesterday that Helen Whately --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: -- had come to the very firm view on or around the 2nd that plans for the care sector were "non-existent or inadequate", were your words, and she was messaging you about that, wasn't she?
+
+**Mr Matt Hancock**: The 3rd, yes.
+
+**Ms Morris KC**: In early March Ms Whately also had concerns, she says in her statement, about an inability to obtain timely and accurate data --
+
+**Mr Matt Hancock**: Absolutely.
+
+**Ms Morris KC**: -- about Covid-19 deaths in the care sector --
+
+**Mr Matt Hancock**: Yep.
+
+**Ms Morris KC**: -- in stark contrast to the data available in the healthcare setting?
+
+**Mr Matt Hancock**: Absolutely, yes.
+
+**Ms Morris KC**: So what was done, if anything, in early March to rectify this lack of data?
+
+**Mr Matt Hancock**: Well, we acted to try to make sure that PPE got to care homes, and took action on that front, not least responding to the concerns that had been raised by the sector. And in terms of data, gathering data was extremely difficult because of the lack of a direct relationship, contractual relationship between the department and care homes, unlike the department's direct relationship with the NHS.
+
+**Ms Morris KC**: Okay.
+
+Touching on PPE again, you've said in your statement that on 5 March Ms Whately also continued to warn that PPE provision in care homes was inadequate?
+
+**Mr Matt Hancock**: Yes, she was very worried about it. She met the chief social worker on 4 March as well to discuss the concerns around the preparations in care homes.
+
+What this all demonstrates is as much action as possible from the top of the department to try to solve these problems, which ultimately were -- started with the structural make-up of social care, which is a decision that can trace its origins back to the foundation of the NHS in 1948.
+
+**Ms Morris KC**: As we will see later from another document, in fact PPE was only sent out to care homes on or around 19 March, the same day that the discharge of thousands of patients was ordered, but I'll come back to that.
+
+Chronologically moving forward to 6 March, you open a departmental meeting on social care, and we can have that on screen, please, INQ000049530, page 1, it's the first bullet point, please.
+
+Thank you.
+
+"[Secretary of State] opened the meeting by stating the impact of coronavirus which poses a complicated set of problems on the social care sector due to the higher risk for older people and the need to be gripped as soon as possible."
+
+**Mr Matt Hancock**: Yes. And what this and the cast list demonstrates is the seriousness with which we took this concern and this problem, because you have me, three junior ministers, Jenny Harries, who's the -- and Jonathan Van-Tam, so two of the deputy chief medical officers, and the permanent secretary of the department. So this is a very -- four junior ministers, because Lord Bethell is there as well. So this is essentially me gathering together the leadership of the department to state in no uncertain terms, as you can see, the concerns that we had -- I had around this, that we had around this, and to work out what best we could do about it.
+
+**Ms Morris KC**: It says it needs to be "gripped as soon as possible".
+
+**Mr Matt Hancock**: Correct.
+
+**Ms Morris KC**: Mr Hancock, if you had been trying to grip from the start, to throw a protective ring around, why hadn't it been gripped before 6 March?
+
+**Mr Matt Hancock**: This is a departmental meeting. The official position of the government going into the crisis was the -- that care homes are contracted by local authorities and, as you will see in some of the earlier documentation, that the role of the department is around policy over social care, and the contractual arrangements are local and don't report in to us.
+
+**Ms Morris KC**: Okay.
+
+**Mr Matt Hancock**: What happened was that in early March Helen Whately brought to my attention on the 3rd that she didn't think enough was being done through local authorities, the local resilience fora, which were the formal places where it was supposed to be done, and therefore we called a meeting three days later.
+
+So this demonstrates the department getting stuck in because not enough was happening.
+
+**Ms Morris KC**: So you're concerned that not enough is happening?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: You're, as you say, trying to take a grip on it as soon as possible?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: Moving forward to 9 March, please, this is now going to be a COBR set of minutes INQ000056219, page 5, please, and it's point 5 in highlight when we get there. Thank you.
+
+"... CMO said there were three stages of intervention with varying individual and combined efficacy:
+
+"1. Self isolation of symptomatic individuals.
+
+"2. Full house-hold isolation where one individual is symptomatic.
+
+And 3, and significantly:
+
+"3. A series of currently undetermined measures to safeguard the elderly and vulnerable individuals."
+
+**Mr Matt Hancock**: What date was this?
+
+**Ms Morris KC**: It was 9 March, Mr Hancock.
+
+**Mr Matt Hancock**: Mm-hm.
+
+**Ms Morris KC**: So the question is: why, given the information that you and your department had by 9 March, were the measures being described in this COBR meeting to safeguard individuals, elderly and vulnerable, including those in care homes, was being described as "undetermined"?
+
+**Mr Matt Hancock**: Because at that point we were putting together the shielding programme, which was ultimately extremely successful, and the evidence is that those who were shielded were half as likely to die of Covid due to the shielding measures. That's some external research that's been done since. So clearly this was a very important area that we were -- that we were working on. At this point on 9 March, there were fewer than two deaths in the UK. So we needed to -- we clearly needed to be doing the work, and we were.
+
+**Ms Morris KC**: So between 9 and 17 March, when the NHS written direction to hospitals came out stating that beds should be emptied, what concrete steps were taken by the department to put in place strict protective measures for care homes specifically?
+
+**Mr Matt Hancock**: Well, we issued guidance, and we also, as you said, issued -- or at least made the decision that care homes should receive free PPE. Most care homes are private organisations and hitherto had always bought their own PPE, and we decided that they should get free PPE. So there's two examples.
+
+**Ms Morris KC**: But guidance, you mentioned, had been 13 March.
+
+**Mr Matt Hancock**: 13th.
+
+**Ms Morris KC**: Okay, we'll come back to that, but just to continue along chronologically: 10 March 2020 is the first notification of an outbreak in a care home, so the day after this COBR meeting. 17 March, the NHS written direction to hospitals was issued. On 18 March, according to a PHE report compiled later, on 1 June, care home mortality data had been reported to you as part of a sitrep to the DHSC and to yourself.
+
+But 19 March, the key date, I'm going to suggest, so just nine days after the first notification of a positive case in a care home, 10 March, the PHE was aware of 37 outbreaks in care homes.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: I take that from a set of INT meeting minutes, INQ000119476, page 4, please.
+
+It's under the bold heading "CROC" in the middle.
+
+And those bullet points, please, if they could be highlighted. Thank you.
+
+So:
+
+"Nursing home outbreaks -- as of yesterday ..."
+
+This is 19 March, they're talking about the 18th in fact.
+
+"... 37 ongoing outbreaks. All health protection team are getting multiple calls from care homes. These are likely to result in deaths over the next 3-5 days."
+
+You also see the bottom bullet point there:
+
+"There are 24,000 care homes in England, delivery of PPE is starting today."
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: This is the free PPE you touched upon a moment ago being sent out from --
+
+**Mr Matt Hancock**: Yes --
+
+**Ms Morris KC**: -- central resources to care homes; yes?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Morris KC**: So this is the day, 19 March, when it's known that there's 37 outbreaks, that the guidance is issued to discharge patients from hospital to care home settings without any testing in place?
+
+**Mr Matt Hancock**: Well, the testing capacity was much too small at this point, and --
+
+**Ms Morris KC**: You've accepted that yesterday, and that's helpful, but given that the testing capacity was too limited to be able to test any of those hospital patients due for discharge, what other concrete measures were put in place to ensure that stringent infection controls was present in care homes?
+
+**Mr Matt Hancock**: Well, that was set out in the document that was published, which was based on clinical advice, and yesterday we discussed the matter of asymptomatic transmission, which is important here, because the -- that clinical advice was based on the presumption that the transmission mechanism of Covid was the same as the transmission mechanism of SARS, because there hadn't been at that point concrete evidence that the clinicians making that advice at PHE were confident in to change that assumption.
+
+**Ms Morris KC**: But without testing anybody, Mr Hancock, you don't know whether they're positive or asymptomatic or negative.
+
+**Mr Matt Hancock**: Indeed, but we didn't have enough tests.
+
+At the same time as this -- this is, I think, 19 March --
+
+**Ms Morris KC**: It is.
+
+**Mr Matt Hancock**: -- on 17 March I had taken responsibility for testing from PHE into the department because it wasn't growing fast enough. So I knew there was a problem and I was acting on it.
+
+**Ms Morris KC**: And you knew there was a problem but still issued that directive for those patients to be discharged from hospital?
+
+**Mr Matt Hancock**: Well, that's because if we'd left them in hospital they were more likely to have caught Covid because of the risks of nosocomial infection, and as the Gardner case found, it was rational and reasonable to -- to make sure that they were in the safest place that they could be.
+
+I fear, and this is -- the only choice is between bad options here. I fear that if we had left those patients in hospital, those who were medically fit to discharge, there is a high likelihood that more would have caught Covid and the problem could have been bigger.
+
+So, you know, I have gone over and over in my head what we -- the decisions that we took. And save for the point about asymptomatic transmission, which we went over in detail yesterday, every decision was a choice between difficult options, and nobody has yet brought to me a solution to this problem that was -- that was -- that I think, even with hindsight, would have resulted in more lives saved. And you can put as many -- and if there is one, I want to know about it, because it's crucial that we learn these lessons for the future.
+
+**Lady Hallett**: I'm afraid we're going to have to leave it there, Ms Morris. I know it is a really important issue, but we will have a module dedicated to care.
+
+**Ms Morris**: I appreciate that my Lady.
+
+**Lady Hallett**: I'm afraid we are going to have to leave it there.
+
+**Ms Morris**: May I just address one document with Mr Hancock because he's raised the matter in terms of the guidance that was issued to care homes, if I may, the 13 March guidance he mentioned.
+
+Mr Hancock, just to clarify with you, that guidance issued to care homes didn't state that they were expected to have any isolation facilities at all; there was nothing in place, was there?
+
+**Mr Matt Hancock**: Well, that guidance was based on clinical advice and it was published at the time.
+
+**Lady Hallett**: That's it, I'm afraid, I'm so sorry, but we've got a lot of questions to get through. As I say, we will return to this very important subject in another module.
+
+Ms Harris. Can you see Ms Harris?
+
+**The Witness**: Yes.
+
+Questions From Ms Harris
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Harris**: Thank you very much.
+
+Good morning, my Lady, good morning, Mr Hancock. I appear on behalf of Covid-19 Bereaved Families for Justice Cymru, representing bereaved families in Wales, and I'd like to ask you some questions within the time I have available to me, and I'll stop when my time's up regardless of how far I've got, and those questions are about care homes again, I'm afraid, and also about arrangements for relations between the UK Government and --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- the devolved administrations.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: First of all, if I may touch on another matter relating to care homes, the same general theme, but specifically with regard to movement of care home workers --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- between care homes.
+
+**Mr Matt Hancock**: Mm-hm.
+
+**Ms Harris**: We heard about that yesterday, and I just would like to pick up on one further point with regards to the timing of the intervention that there was from the Department of Health and Social Care through your initiative in May, mid-May of 2020.
+
+If I could just briefly highlight a few points about the evidence so far on this issue, yesterday you referred to needing to find a balance between what you referred to as two unpalatable outcomes and referred to there having been worries about not having enough staff --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- in care homes. And you obviously mentioned the guidance or recommendations which were brought in in mid-May 2020, so action was taken in this area then, which included also an infection prevention fund --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- so there was also financial support that came in at that time?
+
+**Mr Matt Hancock**: Yes, £600 million, and also the relevant support for the devolved administrations.
+
+**Ms Harris**: Thank you.
+
+In your witness statement, you have highlighted and you've of course made this very clear in your evidence generally, that very early on, and you state:
+
+"From January 2020 we considered that care home residents were some of the most vulnerable to the virus ..."
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: That was clear from the outset.
+
+If I could just highlight one other point, a general point as well here at the outset, you have mentioned the division of responsibilities for this sector, and that there was a certain complexity around that --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- because the levers, I think was the way you put it, were in the hands of local government, local authorities?
+
+**Mr Matt Hancock**: That's within England. And, of course, devolved.
+
+**Ms Harris**: Thank you. And that care is commissioned by local government --
+
+**Mr Matt Hancock**: Correct.
+
+**Ms Harris**: -- local authorities. But it is right, of course, and I think you have acknowledged this, and it's also stated in the witness statement of Sir Christopher Wormald --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- where he sets out these structures --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- that of course the Department of Health and Social Care is responsible for national policy?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: Yes.
+
+**Mr Matt Hancock**: And for things that only the centre can do. I think that was the phrase that we used to describe where our responsibility, rightly, started. In the end, we took more responsibility than the formal policy at the start, but at the start the idea -- or in normal times, pre-pandemic, the idea was that the responsibility of the department is for policy and for things that only the centre can do.
+
+**Ms Harris**: Yes. Thank you.
+
+Then just to highlight the further key points in your witness evidence, then, in your third witness statement -- you've dealt with this issue quite specifically -- and you refer to identifying the movement of staff between care homes as a "vector of transmission"?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: That's your phrase. And you say that:
+
+"... the moment [this] became clear ... I pushed hard to limit, and then ban, staff movement. Various arguments against were presented, including that staff were essential for the sector, which of course they are, but I took the view that the need to stop infections getting into care homes was more important."
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: So those are your words, and then you refer specifically to the care home support package and the funding support that was made available and guidance, further guidance, in June 2020.
+
+**Mr Matt Hancock**: Yes, although it's worth saying that that infection control fund, first launched in May 2020 and then added to later, also funded -- and I think primarily funded -- the support payments for staff who were ill, because there was a very -- there was evidence afterwards -- and it's intuitively clear that if you pay staff when they are ill then they are less likely to go to work if in doubt, and that was an important way of reducing the ingress of the virus into care homes.
+
+**Ms Harris**: Thank you very much.
+
+So the guidance and the funding that came in in mid-May was important in those two respects?
+
+**Mr Matt Hancock**: Two ways, yeah.
+
+**Ms Harris**: Thank you.
+
+You have -- and just to complete the aspects of your evidence I'd like to highlight, you say in your main witness statement that:
+
+"The action we took to restrict staff movement reduced infections significantly ... [and that it] is a vital lesson for future" --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: "... for future pandemics -- and indeed for normal times -- that staff movement" --
+
+**Mr Matt Hancock**: Yeah, so I think this is important for containment of flu, for instance, in non-pandemic times. It's important to know that staff working in more than one care home increases, in some cases significantly, the risk of communicable diseases. Vital in pandemic times, but important given the risks that communicable diseases like flu pose to care home residents in normal times too.
+
+**Ms Harris**: Thank you.
+
+To come to my question, and you have indeed already highlighted that as at early March there was a concern about getting to grips with this sector --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- I think that's fair?
+
+**Mr Matt Hancock**: Yes, you know, when in early March it became clear that the formal government processes which were -- was how the relationship with care homes was meant to work, when it became clear that that -- not enough was being done, as you can see from the documents that have just been shown by the previous -- in the previous discussion, we threw ourselves at this problem, yes.
+
+**Ms Harris**: Yes. And I think what my question is really directed at is not enough being done and how that arose. We understand that there was the structural complexity in this area, but given the vulnerability of the sector, which was known --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- and of course the overarching role that the Department of Health and Social Care has in relation to this sector --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- wouldn't it have been right for the department to be looking with greater focus at this sector, given that what was on its way was unprecedented, that it was really quite -- should have been anticipated that they would need some help and some intervention at a national level?
+
+**Mr Matt Hancock**: But it was anticipated. The first adult social care national steering group was on 5 February, only shortly after we understood the characteristics of the virus and its greater impact on older people.
+
+So the answer to your question, of course, is yes. And knowing everything we know now, would you go back to February 20 and do more? Of course. But at the time we were engaged with the sector, you know, you've seen the minutes of the meetings, and then it became clear that there wasn't -- that we needed to put more effort in, and we did so.
+
+**Ms Harris**: I see.
+
+**Mr Matt Hancock**: So it was brought -- I was doing my duty on this, and then it was brought to my attention that we needed to do more than we were technically responsible for, and that's what we did. That's what that 6 March meeting is all about.
+
+**Ms Harris**: Thank you. But in terms of the idea of doing more than you would, as a department, be technically responsible for, it's right, though, isn't it, that in terms of issuing guidance and also initiating bringing in a new pot of funds, which is what did happen --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- on 15 May, that that's not outside the role of the department, that is actually what the department is supposed to do, that is its role in relation to this sector?
+
+**Mr Matt Hancock**: No, it's not its role. The department's role in normal times is not to fund the care home sector. The care home sector is funded by local authorities, and when there's national funding it goes through MHCLG rather than the Department of Health and Social Care.
+
+Indeed, we put £1.6 billion into social care via the NHS on 19 March, and you'll see from the paperwork around that decision that the route through which we put that money in, to get it in fast, was unprecedented, and when we took that proposal to Number 10, they said, "We're in favour but you need to make sure that Treasury and MHCLG are supportive of using this approach, because it's novel".
+
+So actually I reject the proposal -- the point that it was our job to do that. We in fact invented new ways of getting money to care homes, in the same way that we gave free PPE where all the time in the past PPE had been bought by the care homes themselves, because they're largely private sector, and in fact we put in extra money in March, in April, in May and so on.
+
+So of course I understand the impact on care homes. You know, I understand that very personally. We did -- once it was brought to my attention that not enough was being done, I corralled the most senior people in the department and we threw ourselves at this problem.
+
+**Ms Harris**: Thank you, Mr Hancock, I'm grateful for those observations and, as I know you're aware, this is a subject, of course, which will be looked at in more detail --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- in a later module, so I will move on to my next question. This is in relation to the subject of the co-working between the four nations.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: First of all, with regards to the understanding there was of what was meant by a "four nations approach" --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- and how this was understood across government.
+
+It's a short point but I think it's easiest dealt with by calling up a document -- INQ000233806 -- and I hope that will appear on your screen.
+
+Thank you.
+
+This is a document that you exhibited, which is a script which was provided to you when you were asked to call members of the Cabinet ahead of a Cabinet meeting on 10 May which concerned the proposals for the move out of lockdown. You were provided with this script, indeed this told you what you were being asked to say to other Cabinet members in advance of the Cabinet meeting with regards to what those proposals were.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: It's useful because of what it says about the understanding of a four nations approach. So it's just that short point.
+
+If you could go, please, to the bullet points, you will see that it first off explains that the government, the Prime Minister, is going to "set out a roadmap for the months ahead", this is the roadmap out of lockdown.
+
+And then at the second bullet point:
+
+"• Following that call, the PM will have a similar conversation with leaders of Scotland, Wales and Northern Ireland at COBR to ensure that we have a four nations approach to our response.
+
+"• Part of the four nations approach is the flexibility to respond to the needs of particular parts of the UK and so the devolved administrations will take their own decisions in accordance with their devolved powers."
+
+So noting the references there to a four nations approach and to the anticipation that the four nations would take, in fact, a different route but nevertheless within the concept of a four nations approach, does it accord with your understanding of a four nations approach that it does signify not just when the four nations act in a uniform way but also when they may take a different route, and in those circumstances a four nations approach would imply co-ordination, co-operation and communication between them whilst they may not be doing exactly the same thing?
+
+**Mr Matt Hancock**: Well, obviously I strongly agree that communication and co-ordination between the four nations was important, and I enjoyed, and I mean that literally, I enjoyed the relationship that I had with the other three health secretaries of the devolved nations. We had a weekly call that I instituted in March 2020 -- and it became a bit like a therapy session, frankly, because all four of us were facing very significant challenges -- and we would talk to each other about our challenges. And whether it was in respect, for instance, to care homes, which you mentioned, where Scotland had a bigger problem than we did, or whether it was to do with PPE, where the distribution physically across the UK was a challenge, or of course the roll-out of the vaccines and the testing system, which was part UK and part devolved, we had a very constructive relationship. I think these bullet points reflect the reality that particular parts of the UK had their devolved powers.
+
+Now, notwithstanding all of that, and my basic approach of bring in the devolved health secretaries and a high degree of trust between us, and you can see that from Vaughan Gething's testimony, for instance INQ000269372 -- I don't propose to put it on the screen, Chair -- but there is testimony from the devolveds about the warmth of that relationship, and I thought we should just -- often -- we should just get them into Covid-O and have the discussion all together.
+
+However, having said all of that, I still don't think for the future that it is necessary to have -- or logical to have devolved powers for handling communicable diseases because the administrative boundaries, particularly the Welsh border, doesn't stop human interaction at all. I mean, the Welsh border roads meander into England and Wales. You know, you only have to go to Chester Football Club, where the entrance was in one country --
+
+**Ms Harris**: If I could bring you back to the question --
+
+**Mr Matt Hancock**: -- and the stadium in the other.
+
+**Ms Harris**: I'm not going to ask you about your views --
+
+**Mr Matt Hancock**: Oh.
+
+**Ms Harris**: -- as to whether it should have been a devolved response.
+
+**Mr Matt Hancock**: But it was.
+
+**Ms Harris**: It was.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: I'm going to ask you about: that's what it was.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: It was a public health emergency that was being dealt with in that way.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: And the aim was to work as effectively as possible, of course --
+
+**Mr Matt Hancock**: Yes --
+
+**Ms Harris**: -- within that framework?
+
+**Mr Matt Hancock**: -- and that was my experience of it.
+
+**Ms Harris**: Yes. And I want to ask you about the workings of that framework, whether it worked well, whether there are lessons to be learned, and you've made some observations already about that.
+
+**Mr Matt Hancock**: Right.
+
+**Ms Harris**: I take from what you've said so far that the understanding of a four nations approach is wider than just "everyone does the same", it's "everyone does the same or, if they don't, they co-ordinate and co-operate and communicate"; I think you are agreed on that?
+
+**Mr Matt Hancock**: I think it is stretching the definition of a four nations approach to say that we can have a four nations approach and the four nations do things differently based on the same clinical advice.
+
+**Ms Harris**: So we don't --
+
+**Mr Matt Hancock**: So I'm not enthusiastic about that. I don't think that it is constructive. I recognise the constitution and the devolution current settlement, but I --
+
+**Ms Harris**: If I may, Mr Hancock, I think perhaps you're straying into the wider issue. I'd like to bring you back to working --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- with the system as it was.
+
+**Mr Matt Hancock**: Yeah, okay.
+
+**Ms Harris**: And moving on, then, from definitions of a four nations approach, which leads us down a wider path, I see --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- I'd like to ask you about the group you set up --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- which -- with your counterparts, and there was some praise for it, in the evidence which I think you've seen, that it worked well, suggesting that it worked well, so you had spotted, is the way you put it in your witness statement, is a "missing piece of institutional infrastructure"?
+
+**Mr Matt Hancock**: Absolutely.
+
+**Ms Harris**: Which was the four nations health ministers or health and social care secretaries of state --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- getting together --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- in order to communicate in what might be the appropriate way --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: -- and I need to ask you about that.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Harris**: And this was also a WhatsApp group as well?
+
+**Mr Matt Hancock**: It was.
+
+**Ms Harris**: And in fairness, to set the context, there is a comment on that WhatsApp, in the messages, stating specifically that it worked well and appreciative words of the focused and frank discussion that was had.
+
+**Mr Matt Hancock**: Yes, yup.
+
+**Ms Harris**: And also in a report which the Inquiry has seen from Professor Henderson, there is there a record of a report of that group being positive, a positive experience, by one of the other secretaries of state.
+
+On the other hand, there is also evidence before the Inquiry which comes not from one of the participants but from Mr Mark Drakeford, First Minister for Wales, where he makes the general point that his impression was that meetings between ministers were held at short notice, sometimes without agenda or papers and, from views expressed to him by Welsh ministers, that in many cases the UK Government called these meetings with the devolved governments in order to inform them of decisions already made rather than that they were a forum for joint decision-making.
+
+Now, putting to one side the fact that I understand your general view that things should have been structurally different --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- but they were what they were --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- and we know that you wanted to work as effectively as possible --
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Harris**: -- to make the response as effective as possible.
+
+**Mr Matt Hancock**: Mm-hm.
+
+**Ms Harris**: Can I ask you for your appraisal of those meetings. Were they adequate to provide that missing infrastructure? Was sufficient notice given to the participants so that they could have the opportunity to respond meaningfully on emerging decisions or were ministers simply being told of something that had been decided and it was simply a matter of telling them that?
+
+**Mr Matt Hancock**: If ... all of the above. It depends on circumstances. In the health ministers, sometimes, of course we'd call things at short notice. And Chair, if I may, a couple of times I've seen in evidence people complain about things happening at short notice. Well, sometimes it was necessary to do things at short notice, and sometimes we had to take decisions. For instance, some of the early local lockdowns, we had to move fast when the data became available.
+
+In this case, sometimes I would call short notice meetings, I might even go on the WhatsApp group and say, "There's something important come up, can we find time for this today", for instance, or ask a private secretary to organise something at short notice.
+
+But we also had, in the case of the health ministers, a weekly drumbeat and, more typically, if there was an issue that came up, we would put it into the next week's agenda and any of the four -- although I chaired the meetings, because I have both UK and England responsibilities, the -- the -- we would put the -- anybody would put items into the agenda. And I think actually we changed it so that -- later on -- so that we had a rotating chair of the weekly meeting as well, to make sure that everybody was engaged.
+
+But, you know, I can't commend highly enough Jeane Freeman, Vaughan Gething and Robin Swann for the approach that they took. It was -- you know, we left the politics at the door. The fact we were from four different parties kind of made it that even easier. We cared about what we could learn from each other and what we could do together to save lives. And of course there were moments when there were substantive issues that led to tensions that needed to be resolved, but they'd be resolved in a professional and business-like manner.
+
+And I think if you look at Jeane Freeman's comment when she left the WhatsApp group, as she retired from politics in 2021, there's an exchange, it's a lovely exchange, on 13 May which summarises how we all felt about it.
+
+**Ms Harris**: Mr Hancock, thank you, I've run out of time so I'll have to stop there. Thank you very much for your answers.
+
+**Lady Hallett**: Thank you, Ms Harris.
+
+Ms Mitchell, can we fit in your question before we break?
+
+Questions From Ms Mitchell KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Mitchell**: Mr Hancock, I appear as instructed by Aamer Anwar & Company on behalf of the Scottish Covid Bereaved. I'm obliged to my learned friend Mr Keith KC who has asked many of the questions that were posed by the Scottish Covid Bereaved and wished to be put to you.
+
+I just want to ask you about one area at the moment and that is public communications between the UK Government and the Scottish Government.
+
+I wonder for that purpose if we can have before us INQ000094320. This is a WhatsApp group that you were involved in and -- if we can have page 3 of that document, please -- it appears to orientate us in relation to this matter.
+
+This is a document showing text messages taking place as you're waiting for a meeting in relation to Spain and quarantine. Do we see from page 3, two or three notes down, Jamie Njoku-Goodwin says:
+
+"The No10 view is that we communicate this asap (this evening if needed)."
+
+Because it appears that the DFT was asking for 24 hours before communicating it.
+
+**Mr Matt Hancock**: Yeah.
+
+**Ms Mitchell KC**: If we take it down to where it says "Owner of the cellphone" --
+
+**Mr Matt Hancock**: That's me.
+
+**Ms Mitchell KC**: Yes, indeed -- you say:
+
+"Me too. It will leak anyway ..."
+
+And we heard your views on leaks yesterday.
+
+"... and the Scots will try to get their announcement [out] first."
+
+So my question, first of all, in relation to that matter is: if and when the decision had been taken that was being proposed, what is the issue with the First Minister communicating that to the people of Scotland first?
+
+**Mr Matt Hancock**: Well, there was a number of -- there were a number of moments when the First Minister of Scotland would communicate in a way that was unhelpful and confusing to the public, and sometimes would leave a meeting and begin communication of a decision, for instance, sooner than agreed.
+
+I mean, in contrast to my warmth towards my health counterparts, we then found it much more difficult when decisions went up to First Minister level, particularly with Nicola Sturgeon, because we would find that sometimes a -- some kind of spin was put on what was essentially substantively the same decision. So that was -- it was a frustration, I've got to be honest about that.
+
+**Ms Mitchell KC**: You've made a number of assertions there. First can I pick up: was there agreements made about the timing which were breached?
+
+**Mr Matt Hancock**: Sometime -- as far as I'm aware, yes. But this, of course -- my reference here is when there's a decision that has First Minister responsibilities. When -- if we had a discussion, which for me was much more frequent, of course, with -- at health level, and we all agreed on a communication plan, I have no recollection of any of those being breached.
+
+**Ms Mitchell KC**: So you believe that others were breached in relation to meetings that you didn't know about but none that you did know about?
+
+**Mr Matt Hancock**: No, of course that's not what I'm saying. What I'm saying is it was far more frequent for me to be involved in the meetings with health ministers, but yes, of course I was in meetings where there would be -- there were just -- instead of a cohesive communication to the UK public about an agreed decision, including decisions agreed across all four nations of the UK, there would then be confusing communications, differently put, and that undermined the UK response as a whole, and it is regrettable.
+
+**Ms Mitchell KC**: Mr Hancock, were you aware that the UK Government's public communications suffered significant problems in being able to -- failure to distinguish between phrases in relation to England, "the UK", "this country", and using the term "British" meaning England? Were you aware of those difficulties?
+
+**Mr Matt Hancock**: I was always very careful to try to not confuse those -- these important terms.
+
+**Ms Mitchell KC**: Yes, but I'm asking you were you aware of the difficulties that existed in the UK Government's communication?
+
+**Mr Matt Hancock**: Not as far as I was involved, no. I would use the term "this country" to mean sometimes England, sometimes the UK, because those terms are, if you are -- in the same way that if you're Scottish "this country" can mean Scotland and the UK. But in terms of the literal descriptions, I'm not aware of -- there's no errors on that that I'm aware of.
+
+**Ms Mitchell**: My Lady, I've no further questions.
+
+**Lady Hallett**: Ms Mitchell, thank you very much.
+
+We'll break now, I'll return at 11.35.
+
+*(11.21 am)*
+
+*(A short break)*
+
+*(11.35 am)*
+
+**Lady Hallett**: Mr Menon. Over there, Mr Hancock.
+
+Questions From Mr Menon KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Menon**: Thank you, my Lady.
+
+Good morning, Mr Hancock, I ask questions on behalf of a number of children's rights organisations and all my questions are about the coronavirus regulations. If possible, if the questions allow for a yes/no answer, the briefer the better because I have limited time. I hope you understand.
+
+The coronavirus regulations and the various amendments to those regulations became law when you, as Secretary of State for Health and Social Care, signed them; is that right?
+
+**Mr Matt Hancock**: Yes. In some cases.
+
+**Mr Menon KC**: In some cases?
+
+**Mr Matt Hancock**: Yes, it depended on the Parliamentary procedure and, in some cases, other ministers signed them.
+
+**Mr Menon KC**: The first regulations that imposed restrictions on the population became law on 26 March 2020 as part of the first lockdown?
+
+**Mr Matt Hancock**: No. The first regulations that allowed for restrictions were put in place in -- to ensure that we could have a legal quarantine, for those individuals who we needed to, under the 1984 Act in February.
+
+**Mr Menon KC**: Yes, I appreciate that. It doesn't matter, we'll move on, I was talking really about the first lockdown.
+
+But in any event, on 13 May the regulations were amended, weren't they, to allow a person from one household to meet a person from another household for the purposes of outdoor exercise?
+
+**Mr Matt Hancock**: Er --
+
+**Mr Menon KC**: 13 May.
+
+**Mr Matt Hancock**: I can't remember the exact date, but that feels about right.
+
+**Mr Menon KC**: And the regulations were similarly relaxed in relation to outdoor exercise during the second lockdown in November, and in relation to the third lockdown in January 2021. Does that sound about right?
+
+**Mr Matt Hancock**: In the third lockdown I -- we were clear that we were going to allow people to have more outdoor exercise because outdoor was known by then, with confidence, to be safer than indoors.
+
+**Mr Menon KC**: Indeed, in your Pandemic Dairies, I can't put this on the screen because this is not on the system, in January 2021 you observed the importance of outdoor exercise --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Menon KC**: -- for you personally --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Menon KC**: -- in relation to physical and mental health, you used to run part of the way to work with your brother every day?
+
+**Mr Matt Hancock**: That's correct, yes.
+
+**Mr Menon KC**: Why didn't you, or why didn't the government take steps to relax those regulations so that, for example -- in relation to outdoor exercise and recreation -- so that all young children, say under the age of 12, could play with others their own age?
+
+**Mr Matt Hancock**: Well, we did consider measures like that, because the impact of the virus on children was obviously much lower than on adults, and in particular on older adults. There were two concerns that were raised by the clinicians. One is that when you have children playing together you still can have transmission from one to another, and therefore from one household to another. And the second is that when children play together, normally adults are present too, especially younger children, and therefore it might encourage transmission that way.
+
+So this is something that I remember conversations about, I don't know the date, but we were concerned that it would have an upward impact on transmission and, therefore, on the amount of disease and death.
+
+**Mr Menon KC**: Which clinicians?
+
+**Mr Matt Hancock**: I specifically remember a conversation with the Chief Medical Officer about this, and there is a -- in the WhatsApps there is reference by the Chief Medical Officer. Off the top of my head at one point he says, "I'd be more worried about the parents on the touchline."
+
+**Mr Menon KC**: You're aware, aren't, you that Scotland exempted children under 12 from their regulations in July 2020 and Wales exempted children under the age of 11 from their regulations in September 2020, aren't you?
+
+**Mr Matt Hancock**: I'm aware of the differences between the regulations, yes.
+
+**Mr Menon KC**: And you're not suggesting, are you, that Scotland and Wales put the lives of their people at risk by, effectively, exempting children from their social distancing regulations as they did?
+
+**Mr Matt Hancock**: I'm making the point that the discussions that we had were based on clinical advice, I know that the clinical advice was closely co-ordinated between the nations, and what mattered was the overall impact of the measures in place on R and making sure we kept R below 1 and therefore kept the virus under control, so it was a matter of the overall -- the overall package.
+
+**Mr Menon KC**: Well, I should make it clear, in the interests of fairness, and we may hear more about this in a later module on education and children, but Sir Chris Whitty did not tell this Inquiry that he advised you to take a different approach for England than the approach that was taken in Scotland and Wales. I think you're entitled to know that, okay? But I'm going to move on.
+
+**Mr Matt Hancock**: I didn't say that he did. I think it's -- I've simply given my -- the evidence of what happened in my experience.
+
+**Mr Menon KC**: Did you know at the time, in the summer and autumn of 2020, that the former Children's Commissioner for England, Anne Longfield, and numerous charities and non-governmental organisations working with children, including those who I represent, were asking the government specifically to exempt children from the regulations from May 2020 onwards?
+
+**Mr Matt Hancock**: I was aware of their public communications, and if they wrote to me privately I would have been aware of that too. I was also aware of the overriding need to keep R below 1 in order to make sure that the virus affected as few people as possible, especially older people who could catch it from their younger relatives or contact with younger people.
+
+**Mr Menon KC**: You're not suggesting, are you, Mr Hancock, that relaxing the rules in relation to children would have taken the R number above 1, are you?
+
+**Mr Matt Hancock**: Yes, of course.
+
+**Mr Menon KC**: You're not honestly suggesting that, are you?
+
+**Mr Matt Hancock**: Yes, of course I am. That is the clear medical position. And understandably, because one of the things we discovered was that children could pass the disease on to children and, whilst both asymptomatic, they could then pass it on to elder relatives. So yes, that was one of the many things we had to contend with, yes.
+
+**Mr Menon KC**: You're saying you had received medical advice to that effect?
+
+**Mr Matt Hancock**: Yes.
+
+**Lady Hallett**: Or was it expert advice, you're saying, Mr Hancock? I think --
+
+**Mr Matt Hancock**: I'm sorry, without --
+
+**Lady Hallett**: -- medical advice.
+
+**Mr Matt Hancock**: Without any notice of this line of questioning, I can't give you precise details of the documents, but it was clearly understood, my clear understanding, and essentially a consensus position that we reached.
+
+This is all, obviously, extremely unfortunate. It's one of the consequences of the fact this disease passes from one person to another when you don't have symptoms.
+
+**Mr Menon**: Mr Hancock, even in January 2021, when we went into the third lockdown, when children under 5 were exempted from the regulations, in England children aged 5 to 12, who were too young to leave home independently, were not similarly exempted, as they were in Scotland and Wales. You know that, don't you?
+
+**Mr Matt Hancock**: I'm aware of the different regulations. I'm also aware of the reasons that we brought in those regulations. Nobody wanted these regulations, nobody wanted to have to put these burdens on people, but I did want to stop the virus and to stop so many people dying from it.
+
+We've seen the testimony of the consequences of this disease, it was a horrific virus, and it was my responsibility to ensure that as few people got it as possible, and that was extremely difficult. It involved doing things nobody would want to do in any normal circumstances. And from the tone of the questions I get the impression that you think that that was a -- you're inviting me to say that that was a mistake. It wasn't a mistake to put in place the restrictions that saved lives. My -- in fact my overall point is that we needed to have done that sooner in order for there to have been fewer deaths. That's what I was working for.
+
+**Mr Menon KC**: And it wasn't simply the children's sector that was asking the government to relax the rules in respect of children, it was even people within government, wasn't it? I'll give you an example.
+
+Could we have on screen, please, INQ000176785, at page 24.
+
+These are WhatsApp messages between you and Helen Whately, then minister of state in the Department of Health and Social Care; is that right?
+
+**Mr Matt Hancock**: Yes, these are -- that's what these WhatsApps are.
+
+**Mr Menon KC**: And if we have a look at the entry, please, for 11 October, at 15.46.59.
+
+Do you have that on your screen?
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Menon KC**: Helen Whately says to you:
+
+"Wish we could loosen on children under 12 on rule of 6 for tier 1."
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Menon KC**: Then she goes on a few minutes, an hour or so later to say:
+
+"It would make such a difference for families and there isn't a robust rationale for it."
+
+So she clearly doesn't agree with you --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Menon KC**: -- about there being a robust rationale for it:
+
+"Now is a really good chance to show we have listened. (Lots of MPs were pushing on this during last weeks' debates)."
+
+Do you see that?
+
+**Mr Matt Hancock**: Of course I can see it. I can read, thank you.
+
+**Mr Menon KC**: I'm glad to hear it.
+
+Then you say:
+
+"They don't want to go there on this."
+
+And she says:
+
+"Are we they?!"
+
+Then you say:
+
+"As in No10. Also on curfew -- they don't want to shift an inch."
+
+So correct me if I'm wrong, but she is saying there's no rationale for children not being exempted from the rule of six, and you're saying Number 10 do not wish to shift an inch on this; is that right?
+
+**Mr Matt Hancock**: What I'd say in response to this exchange is, firstly, a big picture point, you can see the high level of professionalism and the way with which my -- those who reported to me, including Helen Whately, could bring issues to my attention and express that they disagreed with me in a wholly professional way. And with respect to yesterday's evidence I just think, Chair, I make that point because this is how we ran the Health Department, and I encouraged people to raise questions with me.
+
+I also wished that we could have loosened on children but we couldn't because we needed to keep R below 1. At this point, on 11 October, you'll know that the incidence of Covid was rising; that meant that in the future more people were going to die each day than were dying on this date. And my argument, as we've discussed in earlier evidence, was that we needed to do more at this point to stop the virus, to save lives. That's the argument I was making.
+
+And of course I understand the impact on children, I have three children of my own. And of course I -- you know, I shared a wish that we didn't have to do any of this. But we did, and the reason we did was because otherwise more people would die. I think there was a robust rationale for it and I therefore listened, as you can see, debated briefly with Helen, and also -- I don't know whether I checked with Number 10 in that 15 minutes in between 5.40 and 5.54 or whether I already knew that they didn't want to change their position. We were under significant political pressure to lift certain restrictions. I thought that would have been a mistake and more people would have died. There was an active campaign against the restrictions at this point. And, as I say, the clear advice to me was that because of asymptomatic transmission of this virus, unfortunately it did pass from child to child and, therefore, from child -- from household to household, and that's why we kept the measures as they are.
+
+**Lady Hallett**: Thank you, Mr Menon, I'm afraid that's it.
+
+**Mr Menon**: Can I just make one final point, it's on the same theme, it will take less than a minute, my Lady.
+
+Mr Hancock, to be fair to you, you need to know that this Inquiry has heard evidence, in relation to what Sir Patrick Vallance put in his notebooks, that at this very time in October there is evidence before this Inquiry that SAGE was pushing for exempting children from the rule of six. I'm afraid that does contradict the evidence that you've just given, doesn't it?
+
+**Mr Matt Hancock**: I haven't seen that evidence, all I can give you is the testimony of what I was told at the time and the overriding strategic objective I had to save lives.
+
+**Lady Hallett**: Thank you, Mr Menon.
+
+Mr Friedman.
+
+**Mr Menon**: Thank you, my Lady.
+
+Questions From Mr Friedman KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Friedman**: Thank you, my Lady.
+
+Good morning, Mr Hancock. I act for four national disabled people's organisations, and can I start with adult social care as of early March 2020, and we're particularly concerned with the implications of the NPIs for disabled people, whose care systems would likely be overhauled or at best be very significantly challenged.
+
+For context, two points, if I may. First, the annual published NHS Digital records from October 2019 indicate --I hope you'll take it from me -- that there were 841,850 people who received long-term adult social care support in 2018-19 and that a very significant number of those people were disabled people?
+
+**Mr Matt Hancock**: Is that of all ages or of working age?
+
+**Mr Friedman KC**: I'm going to give you an example. For those aged between 18 and 64.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: The most common reason for support was learning disabilities, and that's 45.5%, followed by physical support, 29.2%, and mental health support, 20%.
+
+Second point for context, and bearing in mind your characterisation of the function of central government, including to do what only the centre can do, we know that there was no dedicated cross-departmental government plan as of March 2020 to lead on the shielding and non-shielding challenges that hit disabled people specifically. That's been confirmed by the Minister for Disabled People to the Chair in this module and by Marcus Bell, the director of the Equality Hub, in Module 1.
+
+**Mr Matt Hancock**: All I'd say is it's valuable to be more precise within March, because I commissioned the shield -- what became the shielding plan in early March, and so by late March it was extremely well advanced.
+
+**Mr Friedman KC**: Yes, well, I'm not going to go too far into that, save to say this, because I'll ask you a question, you may add to it, but the shielding plan and the battleplan, the battleplan in relation to --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: -- all of your work, of course at that stage in March and how it evolved in its first incarnation, battleplan version 1, was for the clinically vulnerable who needed to shield --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: -- and then we know later in May that non-shielding vulnerability came into play --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: -- Simon Case took it up.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: We won't have a debate about that -- that was outside your immediate responsibility. But let me just ask you this: as Secretary of State for both health and social care, including adult social care, did you raise the issue of a lack of any cross-departmental plan -- and I emphasise that -- for disabled people, in central government at the time?
+
+**Mr Matt Hancock**: We discussed the importance of work to protect those who were particularly vulnerable to the disease.
+
+**Mr Friedman KC**: Yes.
+
+**Mr Matt Hancock**: And that's -- and so I answer that way because we were precise about it, in how we thought about it, which is what matters is the vulnerability to this disease, and therefore, disability -- one disability may leave you much more vulnerable to the disease, another disability may leave you no more vulnerable to the disease than somebody else of your age and other characteristics.
+
+**Mr Friedman KC**: Yes, so I understand that. That's inside your department --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: -- focusing on critical issue. And my question is a more general one, of the various vulnerabilities that were going to arise, both the clinical vulnerable that you've just focused on --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: -- and, as it were, the non-shielding vulnerability, paradigmatically determined by the nature and the harsh nature --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: -- of the lockdown measures and the like.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: Did you raise, as it were, the absence or the sufficiency of cross-departmental government planning for the whole of that impact?
+
+**Mr Matt Hancock**: My recollection is that this was discussed at one of the MIGs, the ministerial implementation groups, but I don't have a date for you of that.
+
+**Mr Friedman KC**: And beyond the obvious clinical focused responsibilities of your department, whose responsibility in government, either personally or, let us say, departmentally or institutionally, would it have been to raise the need for cross-departmental planning across the range of clinical and non-clinical vulnerabilities arising out of the Covid response?
+
+**Mr Matt Hancock**: Well, the answer is that in the -- in the pandemic, that is a very big question, because the issue of those who are more clinically vulnerable was clearly a cross-departmental one at the heart of the overall response to Covid, and so the Chief Medical Officer and others would have been heavily engaged on that side. The consequences of the measures needed to tackle Covid that particularly made life harsher and more difficult for those with disabilities, including those who were no more at risk from Covid than the general population, those issues were considered. I think that the lead -- of course there's a minister for disabilities, and I know that he's given evidence, but that would have been more likely to have fallen within MHCLG's remit and they led on the overall shielding and then the allied non-shielding -- non-clinically vulnerable support. But there was also a heavy Cabinet Office support for that. And, as you say, Simon Case was initially brought into government in order to lead on that particular piece of work which was very important.
+
+**Mr Friedman KC**: Thank you.
+
+Could we go to INQ000093254, page 6, and I'm turning to care homes specifically, Mr Hancock.
+
+**Mr Matt Hancock**: Okay.
+
+**Mr Friedman KC**: These are WhatsApp messages amongst you and your staff but I want to focus on the one with Jamie Njoku-Goodwin, it's dated 4 April 2020, and we've seen this morning that he was actually on the 6 March care homes meeting that Ms Morris King's Counsel took you to.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: So, first, you told the Chair yesterday that this was your media adviser?
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: And he became a director of strategy later on in Number 10 Downing Street. His statement to the Inquiry indicates that he worked for you on media management and also wider and political strategic issues; is that addition --
+
+**Mr Matt Hancock**: Yes, that's a good summary.
+
+**Mr Friedman KC**: Yes. Now, yesterday, Counsel to the Inquiry asked you to look at an exchange on 13 May 2020 --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: -- about what to say to the public about having locked down the care homes?
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: And he had warned you:
+
+"Matt, we might have some issues with you telling the PM we 'locked down' care homes before the rest of the country."
+
+Can I just read this exchange of five weeks earlier, and the third JN entry on that page:
+
+"On testing, do we need to have a specific strand/push on testing in care homes?"
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: "We are testing hospital admissions and clinical patients at risk. Do we also need a push on testing people in care?"
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: "Or at least [we] have some sort of focused effort on testing people in care. I know it is complex and the people dying in care homes are often people who were near the end regardless, but I worry that if a load of people in care start dying, there will be front pages demanding why we weren't testing people in care homes. Do we need to get ahead of this now?"
+
+And you say:
+
+"Let's have rapid advice on this tying together all the angles."
+
+Of that message of 4 April 2020 --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: -- when replying you do not correct the misconception of your adviser that those in care homes include not just those "who were near the end regardless" but also disabled people who were not near the end but living in long-term residential care or settings from a young age. Now, did you have that reality in the forefront of your mind at the time, and bluntly, why not correct your adviser of that serious misconception?
+
+**Mr Matt Hancock**: Firstly, I absolutely have that -- had that at the front of my mind, and before the pandemic had done significant work in trying to improve outcomes for those who were in adult social care, of working age, with disabilities, including trying to get more support in the community for discharge where that was appropriate. So I'd done work on this, and I of course knew that.
+
+The response that I gave, at a time when I was exceptionally busy, the fact that it doesn't state all of that in no way implies that that wasn't what I was thinking. And asking for advice is a device I would use typically when I was brought a complex issue, I cared about it, wanted to make progress on it, but I thought that it was best not done over WhatsApp. And as you can see two messages down, Leila was my private secretary, she is on the group, and she says "I'll commission now". So this is the system -- that is a typical exchange: a complex issue is brought by a political adviser, Jamie Njoku-Goodwin was one of the most exceptional public servants and his advice to me was excellent, and I respected it.
+
+However, he's coming at this from a comms angle, in terms of what the newspapers might say. I was absolutely determined on this, as on so many other issues, to be guided by the science, which is why I would have wanted formal advice. After all, I can tell you now, that the response -- the reason that we did not at that point have as much testing in care homes, as many would have wanted, was that we didn't have enough tests, and the clinical prioritisation of who got tests in what order was absolutely something that I wouldn't have interfered with, I would have taken that as read.
+
+**Mr Friedman KC**: Understood. Can we then move on to the emerging data --
+
+**Lady Hallett**: Last question, please, Mr Friedman.
+
+**Mr Friedman**: -- from testing in relation to disabled people. And can I really then, because of the Chair's intervention, crunch it down.
+
+During the course of the summer, very significant statistics emerged that amount to 59% of those who have died from Covid between 2 March and July were disabled people.
+
+Now, do you recall becoming aware of those very significant figures?
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Friedman KC**: And if so, roughly, we won't hold you to an exact date, but roughly, when do you think you did become aware of those kind of figures?
+
+**Mr Matt Hancock**: I'm -- off the top of my head I don't know. We can discover it in the paperwork if we -- if necessary.
+
+**Mr Friedman KC**: But given this point, what I'll call the Badenoch review, very generally --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Friedman KC**: -- commissioned in June, as you put it in your statement:
+
+"... to improve understanding of drivers for disparities to inform decision-making."
+
+Why, as far as you were concerned, did the Badenoch review not look at disabled people as well as the very important matter of ethnic minorities?
+
+**Mr Matt Hancock**: My initial understanding of the commission to Public Health England, which ultimately became the Badenoch review, because it all came from this work within Public Health England, was that it was to look at disparities, and I would take that to involve all protected characteristics --
+
+**Mr Friedman KC**: Quite.
+
+**Mr Matt Hancock**: -- and that is my -- that was my approach to it. Of course there is a -- there was a complication here because of comorbidity --
+
+**Mr Friedman KC**: Yes.
+
+**Mr Matt Hancock**: -- not least because of -- the strongest correlation with risk from Covid was, of course, age --
+
+**Mr Friedman KC**: Mr Hancock, in view of time, because we've heard quite a lot of evidence, my only question is: what was your understanding about why it focused, as it did, on ethnic minorities and not disabled people? Did you have any understanding about why it focused --
+
+**Mr Matt Hancock**: No, my initial -- my understanding, before it was passed to Kemi Badenoch, was that it was a matter -- a question of disparities as a whole.
+
+**Mr Friedman KC**: Yes. Just the last thing, madam, if I may --
+
+**Lady Hallett**: Mr Friedman, thank you.
+
+Sorry, we have got so much to get through. I know these are important issues to the people you represent, in every case, including Mr Menon, but we have to get on, we've got so many to get through.
+
+Mr Thomas.
+
+**Mr Friedman**: Very well, my Lady.
+
+Questions From Professor Thomas KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Professor Thomas**: Sorry about the layout.
+
+**Mr Matt Hancock**: I'll answer to the Chair, I'm told, so I apologise that I'll be looking that way.
+
+**Professor Thomas KC**: I'll get used to seeing your back.
+
+I represent the Federation of Ethnic Minority Healthcare Organisations.
+
+**Mr Matt Hancock**: Yes.
+
+**Professor Thomas KC**: FEHMO. The very frontline workers that the public was clapping every Thursday evening at about 8 pm.
+
+**Mr Matt Hancock**: Yes.
+
+**Professor Thomas KC**: I'm sure you remember.
+
+**Mr Matt Hancock**: Absolutely.
+
+**Professor Thomas KC**: I have only a small handful of questions that I wish to explore with you. These can be divided into two topics. Let me turn to the first topic. This morning you said, Mr Hancock, that:
+
+"I was particularly struck by the death of the first four NHS doctors, three of whom were from an ethnic minority background. I was acutely aware of the disproportionate impact on those from ethnic minority backgrounds, especially amongst the wider NHS workforce ..."
+
+**Mr Matt Hancock**: Yes.
+
+**Professor Thomas KC**: Et cetera, et cetera.
+
+Question: please help me with this: what steps, if any, did you take to engage with the black, Asian and ethnic minority leaders in healthcare about the disproportionate deaths within their ranks during this early period?
+
+**Mr Matt Hancock**: Well, I engaged with the NHS leadership on this question, including people from all ethnicities, and I was engaged heavily in issues around the -- firstly, the evident higher risk of those from ethnic minority backgrounds to the disease, but also the more long-standing issue of racism within the NHS, which came to light in a report that had been -- that had been begun before the pandemic.
+
+So this was an issue I was heavily involved in. The NHS can't work without its amazing diverse workforce, and it was something that I was concerned about well before the pandemic.
+
+**Professor Thomas KC**: Secretary of State, or former Secretary of State, let me just put this to you clearly and bluntly: did you or did you not at this time specifically engage with the leadership of any ethnic minority healthcare body? That's the question.
+
+**Mr Matt Hancock**: I -- I engaged with ethnic minority leaders across the NHS and indeed social care. Specifically in terms of meetings, we'll have to look through the diary to understand -- to see how -- you know, who. And I'm very happy to do that.
+
+**Professor Thomas KC**: Okay, let me move on to the second question. What concrete steps did you take as Health Secretary to mitigate against the unequal impact of the pandemic on black, Asian and minority ethnic healthcare workers and patients?
+
+**Mr Matt Hancock**: Well, there were a number of things that we had to do. As Professor Van-Tam set out in his evidence, making sure, for instance, that there was PPE that would fit people from any ethnic minority background or from different ethnic minority backgrounds, was an important issue that came to light and that we -- that we worked on.
+
+And there was a wider question of how to protect all healthcare staff, because there was a disproportionate impact of the virus on -- on people from ethnic minority backgrounds because they were disproportionately engaged in patient-facing roles in the NHS. And by disproportionate I mean that in terms of the numbers, the statistics. It's not -- you know, not about whether that should have been the case or not, which is an important question, but at this point it was about: how do we protect people in those -- especially in those patient-facing roles?
+
+**Professor Thomas KC**: Would you agree that part of this was as a result of structural inequalities? Would you agree with that?
+
+**Mr Matt Hancock**: Yes, absolutely. And in fact part of the work was about make -- trying to understand what is to do with structural inequalities and the higher likelihood of people in especially patient-facing and service roles being from ethnic minority backgrounds and how much was a clinical question of the higher likelihood of Covid causing severe disease and death according to ethnic background. And those were two overlapping and incredibly important considerations that the -- initially PHE and then Badenoch review was intended to try to get to the bottom of.
+
+**Professor Thomas KC**: Let me move on, I've used up half of my time.
+
+Can we call up INQ000176785, please.
+
+This is the WhatsApp exchange between you and Helen Whately --
+
+**Mr Matt Hancock**: Yeah.
+
+**Professor Thomas KC**: -- in June 2020. Ms Whately writes to you:
+
+"One more thing on the NHS workforce -- I think that [black, Asian and minority ethnic] next steps proposed are important but don't go far enough. There's [systemic] racism in some parts of the NHS, as seen in the NHSBT. Now could be a good moment to kick off a proper piece of work to investigate and tackle it."
+
+You respond by saying:
+
+"Yes" --
+
+**Mr Matt Hancock**: Yes.
+
+**Professor Thomas KC**: -- "agree 100%. Can you make that happen."
+
+And she confirmed that she'd be "delighted" to do so. A couple of days later she messages you again and raises that:
+
+"No one seems to be mentioning [the NHSE risk reduction framework] recognising age and ethnicity as risk factor ..."
+
+And she says she has flagged that with Number 10.
+
+**Mr Matt Hancock**: Yeah.
+
+**Professor Thomas KC**: Right. So can we agree this: you accept, do you not, Ms Whately's assertions that there was systemic racism in the NHS; that's correct, we can agree that, yes?
+
+**Mr Matt Hancock**: Yes, and in fact I'd addressed this -- exactly this question even before the pandemic, given a speech on it, referred to it in 2019, and there was this internal report into racist behaviour in NHSBT that was published on 19 June so the day before this exchange started.
+
+**Professor Thomas KC**: So we've got that response in mind and what you said earlier today. But let me ask you this -- and I've seen that you flagged it to Number 10 and Ms Badenoch.
+
+**Mr Matt Hancock**: Yeah.
+
+**Professor Thomas KC**: But let me ask you this: did you and Ms Whately take any further steps regarding the recognition of ethnicity as a risk factor aside from flagging it to Number 10, and if not, why not?
+
+**Mr Matt Hancock**: Yes, well -- so she flagged it to Ed Argar, who is another minister in the department responsible for the NHS, whereas Helen Whately was the minister responsible for social care, and Number 10. She was also had responsibility for the NHS workforce, hence her interest in this area.
+
+Yes, what happened was that that -- this is just before the Badenoch review is announced, so what happened was that in order to strengthen the response in this area, the department for equalities was essentially brought in to do this.
+
+**Professor Thomas KC**: Okay. Was it raised within senior personnel within the NHS, for example as a guidance or as a reminder?
+
+**Mr Matt Hancock**: Yes, especially in the context of the NHSBT report, which was an important report and needed action to respond to. This was something I really care about, and took the action that was necessary. And you can see by my immediate reaction within ten minutes, "Yes agree 100%".
+
+**Professor Thomas KC**: Let me move on to my last questions, I have two more last questions, I want to get them done very quickly. It's alleged that a chapter was removed from the Public Health England report on the disparate impact on black, Asian and minority ethnic groups prior to publication, and media reports at the time suggest that this was at your office's request. One such article states:
+
+"One source with the knowledge of the review said the section 'did not survive contact with Matt Hancock's office' over the weekend."
+
+And if you need the reference, the reference is INQ000308410. I'm not asking that it be called up, that's just a reference.
+
+**Mr Matt Hancock**: Yeah.
+
+**Professor Thomas KC**: "Exclusive: Government censored [black, Asian and minority ethnic] covid-risk reviews."
+
+News, Health Service Journal.
+
+**Mr Matt Hancock**: Yeah.
+
+**Professor Thomas KC**: Question: can you explain the circumstances surrounding this paragraph's removal?
+
+**Mr Matt Hancock**: I don't know whether a paragraph was removed or not, I can't recall that, but I do recall there being a public discussion along the lines that is suggested by the HSJ report. I saw Minister Badenoch's testimony to this Inquiry and I agree entirely with what she said. I accept that the decision to change the report into two reports, one essentially reporting the evidence that had been put forward and another essentially a statistical and scientific report, I accept that that caused a distrust in the process. Honestly, my response to the paperwork that you've suggested, which you mentioned, which I've read, is that if that happened, and I'm not aware of whether I had any engagement with it at that time, it says "Matt Hancock's office", it may have been that this was the beginning of the separation of this report into two separate reports, and I concur with what Kemi Badenoch said.
+
+**Professor Thomas KC**: Mr Hancock, let me ask you my last question. Can we agree on this, Mr Hancock: that on reflection, the UK Government was not as well prepared and equipped to deal with the challenges of the pandemic that were experienced by black, Asian and minority ethnic healthcare workers? That is, the disproportionate death rates and worse adverse health outcomes. Can we agree on that?
+
+**Mr Matt Hancock**: Well, I think that's true. It's also true of the response in terms of everybody, and I think that the lessons that we're learning here specifically in terms of disparities and the impact -- disproportionate impact on people from ethnic minority backgrounds is a very important part of the lessons that we need to learn for the future.
+
+**Professor Thomas KC**: I think we're agreed.
+
+**Mr Matt Hancock**: I think we've agreed on almost everything.
+
+**Professor Thomas**: I think we have, thank you.
+
+**Lady Hallett**: Thank you, Mr Thomas.
+
+Mr Stanton.
+
+Questions From Mr Stanton
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Stanton**: Thank you, my Lady.
+
+**Lady Hallett**: Again behind you, I'm afraid, Mr Hancock.
+
+**Mr Stanton**: Good afternoon, Mr Hancock. I'm sorry about this slightly awkward positioning. I represent the British Medical Association, and I'll be asking you some questions concerning the circumstances of doctors and healthcare workers.
+
+I'd like to highlight a couple of points of relevant background before I ask you the questions. The first is a piece of information I think you'll be aware of, and I don't think we'll need to bring it up on the screen. It's an ONS survey from July 2020 which showed that healthcare workers and social care workers were at six times more increased risk of infection.
+
+**Mr Matt Hancock**: Yes, of course.
+
+**Mr Stanton**: Just for the transcript, that reference is INQ000271363.
+
+The second piece of information which I think will be helpful, and I'd like to bring up on screen, is an email from Professor Van-Tam right at the start of the pandemic, on 14 January.
+
+This is at INQ000151314, and hopefully you've got that before you.
+
+It's just the first point in the email that I'd like to bring to your attention. Professor Van-Tam is providing some advice to your department, right at the early stages, about triggers for escalating the response.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: And trigger 1, as you can see, is in relation to infections amongst healthcare workers, and he makes the point, in a style which we've become familiar with, that healthcare workers are "always the canary in the coalmine".
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: By which he obviously means they're the first identifiable group that will become infected and, as such, they'll operate as an early warning system.
+
+**Mr Matt Hancock**: Specifically of person-to-person transmission.
+
+**Mr Stanton**: Yes, thank you.
+
+So with these points about increased risk in mind, and thinking about your representations throughout the summer of 2020 and into the autumn --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: -- about the need for caution when opening up --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: I'd like to ask you about the extent to which you felt you were able to advocate on behalf of healthcare workers who had faced the traumatic experience in dealing with the first wave --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: -- suffered high levels of infection and desperately needed an opportunity to recover --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Stanton**: -- and, if possible, to avoid a second wave.
+
+**Mr Matt Hancock**: Yes, I felt that argument very deeply.
+
+**Mr Stanton**: Could you help the Inquiry with any insights about any obstacles you might have faced in this regard?
+
+**Mr Matt Hancock**: Well, the obstacles are -- were described and discussed in the questioning from Mr Keith, because -- you know, in the same way that to tackle Long Covid you need to tackle Covid, to stop healthcare workers dying from Covid you need to tackle Covid.
+
+Now, there are also specific actions that you can take. You asked specifically about the summer, and of course by the summer we did have a very significant testing operation, so -- and testing in hospitals. But earlier we were discussing the challenges of getting testing into care homes, and in a way your question demonstrates that there are other priorities too that need to be considered, and so in that instance I always took clinical advice on that prioritisation. But yes, there was -- and the same goes for PPE, by the way, where there was -- where there was this tension: where do you use your PPE? And the argument that you are rightly, correctly and understandably making is healthcare workers are amongst those who are most highly affected. It was, for instance, why we put healthcare workers in the very first group to get the vaccine.
+
+**Mr Stanton**: Yes, thank you.
+
+Can I move on to a connected issue, and one that also concerns risk of infection. Can I ask you about your understanding of airborne transmission.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Stanton**: What were you advised about this risk and when did you --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: -- become aware that it was a significant route of transmission?
+
+**Mr Matt Hancock**: So just to be totally clear, are you asking about the distinction between droplet transmission and airborne transmission through --
+
+**Mr Stanton**: Yes.
+
+**Mr Matt Hancock**: -- essentially, aerosols?
+
+**Mr Stanton**: Yes, I am.
+
+**Mr Matt Hancock**: Okay, so this was a really, really important point, and sometimes quite complicated to describe, and also the science behind it was -- was very complicated to ascertain. So how the virus spread from one person to another is obviously an absolutely critical part of transmission, not only the rate of transmission but how, and early on, based on previous coronaviruses, it was largely assumed that it was droplets that made transmission happen and, therefore, not being close to somebody was one of the most important things. But it became clear through the early summer of 2020 that in fact aerosol, airborne transmission was more important, so it was a bit like if you have a -- I remember the very first description, which, again, was given to me by Professor Van-Tam in his eloquent way: if you have a smoky candle, the way that the smoke will go in the whole room. The consequence of that is ventilation became seen as much more important, and is more important, for dealing with the transmission of Covid than droplets. But that was not understood at the start because it was a novel disease, and the starting point was an assumption that the transmission was the same as SARS-CoV-1.
+
+**Mr Stanton**: Thank you.
+
+You spoke at length yesterday about your regrets in relation to asymptomatic transmission. Do you think there are any parallels and lessons to be learned with aerosol transmission? For example, should a more precautionary approach have been taken?
+
+**Mr Matt Hancock**: With hindsight, obviously, but I think at the time the -- again, the science on this was really, really -- was unclear. But I do think, to your point, a lesson for the future is that when you have a disease that spreads without necessarily person-to-person touch, then you should immediately assume that good ventilation should be part of your infection control procedures.
+
+**Mr Stanton**: Thank you.
+
+I'll move now to my last question area. You mentioned earlier that during the early summer of 2020 airborne transmission became more important --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Stanton**: -- or it was realised that it was more significant. Can I ask you about decisions taken in June, at the end of June, to stop purchasing PPE. So you've told us about your direction to begin purchasing, I think towards the end of January.
+
+**Mr Matt Hancock**: Right at the end of January, yeah.
+
+**Mr Stanton**: And obviously that does need to come to an end at some point.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Stanton**: And at the end of June stop notices were put on purchasing of PPE. Your permanent secretary, Sir Christopher Wormald, addresses this in his statement.
+
+FFP3 masks were no longer purchased after 30 June, and as you'll be aware these are the masks that provide maximum protection from airborne virus.
+
+Given that the awareness of the risks of airborne virus were growing at this time, and given the likelihood that a second wave was coming, and also given the shortages of this very important piece of equipment, do you think the risks of transmission, aerosol transmission, were fully factored into this decision to stop purchasing?
+
+**Mr Matt Hancock**: I don't know, we'd have to look at the chronology, I don't know the date of my conversation that I just described with Professor Van-Tam, and the first hard evidence I saw on this was evidence from a Spanish study, so this was clearly an international issue.
+
+Having said all of that, it is absolutely clear that this is an important part of the lessons learned exercise, because having the right stockpile in a pickable format, so that you can get it out quickly in a crisis, of kit that fits everybody, no matter their gender or ethnic background, is a very important lesson for the future.
+
+So irrespective of the chronology, which I'm happy to look at in the paperwork, for the future it's not just about having a PPE stockpile, it's about having a PPE stockpile that is the most likely to be immediately and urgently useful in the event of a pandemic.
+
+**Mr Stanton**: Thank you, Mr Hancock.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Mr Stanton, very grateful.
+
+Ms Davies.
+
+Ms Davies is over there, Mr Hancock.
+
+Questions From Ms Davies KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Davies**: Mr Hancock, you can see and hear me all right?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: I ask questions on behalf of Southall Black Sisters, and Solace Women's Aid and you'll know that they are part of the violence against women and girls sector, dealing with them --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- so my topics are on domestic abuse.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: Can I start with the regulations which, as you say, you had responsibility for signing off?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: And under the regulations that came into force on 26 March, as you say they weren't the first ones but they were the ones for lockdown, then the requirement was to stay at home, there were certain exemptions from that, and two of the exemptions -- three of the exemptions, in fact -- is that people could leave if they had to access critical public services, including services provided to victims such as victims of crime?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: And another one, they could leave in order to avoid injury or illness or escape a risk of harm.
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: Did you have in mind the need to leave domestic abuse --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- when you approved those exemptions?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: Did you ever consider a parallel provision -- and I'll put the scenario to you -- in normal times, outside of lockdown, outside of pandemic, then it's not unusual for women, it's mainly women who have to leave as a result of domestic abuse -- if they don't go to refuges, they might go to their sister or mother or their best friend and stay in the spare room, get some respite time while they make decisions and so forth. There is nothing in the regulations that allows for somebody to let somebody else into her home in order to provide a refuge, a place of sanctuary, a safe place to think. Did you ever consider that, sort of, parallel provision: parallel to the idea that you could leave, you could also go and stay with a friend or a relative?
+
+**Mr Matt Hancock**: I don't recall that being brought to my attention, that consideration. I had an excellent team who cared very deeply about this subject, and the impact of the regulations on people, as you say, mostly women, who are subject to domestic abuse and violence. I also remember that Theresa May raised this in Parliament and was a strong advocate. But I don't recall that being brought to my attention. Had it been, I'm highly confident that I would have said that we should put in place such a provision because the impact on the overall virus would have been relatively low because, although the numbers are far too big, they are, as a part of the population, relatively low. And in the same way that we realised that our initial regulations in terms of how they impacted funerals, for example, were much firmer in their interpretation on the ground than we had intended, and we therefore changed them, that is the sort of thing that I would have certainly been open to considering and I'm pretty sure I would have been in favour of it had it been brought to my attention. But I haven't seen any paperwork on this question.
+
+**Ms Davies KC**: Open to considering, that is helpful, thank you.
+
+Let me move on to my next topic and that is about testing key workers, and you talk about that in your statement and setting up the priority scheme for testing key workers.
+
+Did you include, as key workers, workers in the domestic abuse sector: refuge workers and so forth?
+
+**Mr Matt Hancock**: I took -- it was not a Department of Health decision on what was a key worker, so I took the list of key workers as read. I can't off the top of my head remember, although there was -- who came up with the list, although I'm pretty sure it had cross-government sign-off because of the impact from every department, and policy with respect to domestic abuse is a Home Office matter, I think --
+
+**Ms Davies KC**: Principally.
+
+**Mr Matt Hancock**: Principally.
+
+**Ms Davies KC**: It's across government, but principally --
+
+**Mr Matt Hancock**: Exactly. So it would have been for the Home Office -- I'm sorry to give you a sort of bureaucratic answer -- but it would have been for the Home Office to put that forward.
+
+In -- if you like I was -- as the Health Secretary I put forward key worker proposals from the areas I was responsible for, health and social care workers primarily, but also for instance those working on the vaccine, and then I was the recipient of the cross-government list.
+
+**Ms Davies KC**: If I tell you that Priti Patel's evidence is that she raised the issues of domestic abuse workers falling within key workers at COBR on 18 March, does that jog your memory?
+
+**Mr Matt Hancock**: It doesn't, but I'm not at all surprised.
+
+**Ms Davies KC**: All right.
+
+Then my last question, my Lady, is this.
+
+It's about what you knew going into the autumn of 2020 when you're making decisions around tiers and then the second and then, finally, the third national lockdown.
+
+So by the summer of 2020, it was known to ministers that there had been an increase in domestic abuse as a result of lockdown --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- wasn't it?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: And you're also aware by June --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- in your witness statement, that there is the possibility of a second wave in winter and you're working on preparations for that?
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: Yes. So when you are then, as you told us this morning, advocating for the tier system --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- in late September, early October --
+
+**Mr Matt Hancock**: Yes.
+
+**Ms Davies KC**: -- did you have in mind repercussions and the possibility of an additional increase in domestic abuse?
+
+**Mr Matt Hancock**: Yes. I had in mind that. I had in mind the impact on children. I had in mind the impact -- the mental health impact on the population. I had in mind the impact on other health conditions. I had in mind the economic impact and the knock-on consequences of damage to the economy on people's health. We had all of these known costs, known damage from lockdown in mind.
+
+Of course I had to weigh that against the, by then, known and clear damage and cost and loss of life from the virus and the -- to me, as I've described earlier, the balance of those two horrible outcomes was clearly that we did need to take action to lock down, and so -- you know, I think you can see from the paperwork that even ahead of the March lockdown we knew that there would be consequences that were damaging of these lockdowns, but this virus was killing a lot of people and going to kill more and the -- you have to weigh these things together, and that's what I did.
+
+**Ms Davies KC**: And you would say the same weighing exercise happened for the second national lockdown in November and then the third one in January?
+
+**Mr Matt Hancock**: Absolutely. And we understood more of the negative consequences by then because we'd seen them. Nobody wanted these lockdowns, but the consequence if we hadn't had them would have been far, far worse.
+
+**Ms Davies KC**: And this is my very last question: since you did bear in mind all those weighty responsibilities, turning back again to domestic abuse, was there anything that you did specifically about that for the decisions that you made in the autumn and the winter?
+
+**Mr Matt Hancock**: I would have taken advice on that and I would have taken that advice very seriously. I don't -- without going back through the paperwork, I don't have a direct answer to the question. It isn't -- I can't remember specifically, but I know that it was something that we considered.
+
+**Ms Davies**: Thank you, Mr Hancock.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Ms Davies.
+
+Mr Jacobs.
+
+Mr Jacobs is also behind you, Mr Hancock, don't worry about it, he's used to people's backs as well.
+
+Questions From Mr Jacobs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Jacobs**: Mr Hancock, I ask questions on behalf of the Trades Union Congress.
+
+The first topic is financial support for self-isolation.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Jacobs**: An early step that was taken by the government on this issue in March 2020 was making sick pay available from day one rather than day three.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Jacobs**: Do you recall?
+
+**Mr Matt Hancock**: I do.
+
+**Mr Jacobs**: On 3 March 2020 -- you can see it if you need to -- you sent a WhatsApp message saying that you were supportive of the fix, though it only solves half the problem.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Jacobs**: What was the other half of the problem that wasn't being solved, to your recollection?
+
+**Mr Matt Hancock**: Sick pay in this country is far, far too low. It's far lower than the European average. It encourages people to go to work when they should be getting better. Having low sick pay encourages the spread of communicable diseases, it discourages -- having higher sick pay -- better put it in the positive -- having higher sick pay would encourage employers to do more to look after the health of their employees.
+
+Before the pandemic, I'd been on an internal government campaign to significantly increase sick pay. I'd double it if I had a magic wand.
+
+So moving from three days to one day payment was a small step which I -- obviously was necessary for the pandemic but I enthusiastically embraced, but I would have gone far, far higher. We needed isolation payments from the start, we got them in the end by September, and I pay tribute to the Trades Union Congress for their campaigning on this issue which helped me get it over the line.
+
+**Mr Jacobs**: On that point, Mr Hancock, you may recall appearing on Question Time on 19 March 2020 and accepting, in response to a question from Frances O'Grady, the then general secretary of the TUC, that you couldn't survive on the £94 per week --
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Jacobs**: -- of statutory sick pay.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Jacobs**: And in fair --
+
+**Mr Matt Hancock**: It should be higher. I think Frances O'Grady is wonderful and gave great service to the country in the role that she was in, and she made an argument that I very strongly believed in. It was a --
+
+**Mr Jacobs**: Sorry, Mr Hancock, I do have limited time.
+
+**Mr Matt Hancock**: I do apologise.
+
+**Mr Jacobs**: In fairness to you --
+
+**Mr Matt Hancock**: You've got me now on one of my pet --
+
+**Mr Jacobs**: The TUC may not thank me for interrupting you in praising Frances O'Grady, but I'd better move on.
+
+In fairness to you, in response to questions from Mr Keith yesterday about Eat Out to Help Out, I think it was your evidence that at the time you were campaigning internally to get funding so that those who test positive would isolate, which you eventually got in place in September?
+
+**Mr Matt Hancock**: Yes, Dido Harding and I had a very strong campaign on that.
+
+**Mr Jacobs**: And who needed to be the target of that strong campaign? Ie, where was the resistance?
+
+**Mr Matt Hancock**: Well, we needed to get cross-government agreement and that is a -- you know, the government's a large beast, so we had to -- there were all sorts of people we needed to get on side for that.
+
+**Mr Jacobs**: Mr Hancock, clearly you need cross-government agreement, but where was the resistance, straightforwardly?
+
+**Mr Matt Hancock**: Well, I can't remember, you'll have to look in the paperwork, but you need to have Number 10 onside, Cabinet Office onside, and Treasury onside. For something like that you'd also need to have the DWP onside because, although this was a pandemic and therefore I was driving it, it would typically be something close to their hearts as well.
+
+**Mr Jacobs**: Okay.
+
+**Mr Matt Hancock**: But I can't remember precisely what the dynamics of that debate were.
+
+**Mr Jacobs**: The test and trace support payment scheme came in on 28 September, Monday the 28th. I'm going to ask you about notes made by Sir Patrick Vallance of a meeting on 25 September, so the Friday before that came in. Okay?
+
+It's page 621 of the Inquiry's schedule of his notes, INQ000273901. We can see, Mr Hancock, it says:
+
+"Cases, admissions and deaths all [up]. PM obsessed with testing again. 'Are people actually doing the self-isolation'. I [so Sir Patrick] argued that low levels of isolation is the key. They of course go straight to 'enforcement'. Hancock argues that it is all OK from Monday."
+
+Presumably that must be a reference to the test and trace payment support scheme.
+
+"PM says 'we must have known this wasn't working -- we have been pretending it has been whereas secretly we know it hasn't been'. Hancock lets out a big sigh."
+
+**Mr Matt Hancock**: Yeah, I feel like giving it a big sigh now.
+
+**Mr Jacobs**: Firstly, but perhaps the question -- the answer to this is obviously yes. Did you agree with that assessment of the PM and is it --
+
+**Mr Matt Hancock**: No, I didn't, that wasn't how I felt about it.
+
+**Mr Jacobs**: Let me ask a different -- how did you feel about it?
+
+**Mr Matt Hancock**: I don't think -- I hadn't been pretending to anybody, and I'd been making the argument as strongly as I could that we needed action such as we were taking that following Monday.
+
+**Mr Jacobs**: Hence your big sigh.
+
+Do you think, though, that it's a pretty appalling state of affairs that, six months after this measure of self-isolation becomes a key NPI, the PM's assessment is "we have been pretending it's been working whereas secretly we know it hasn't been"?
+
+**Mr Matt Hancock**: I think the lesson for the future is that self-isolation payments, rapidly delivered, are a necessity when self-isolation or indeed mandatory isolation is required. And my lesson -- a further lesson I would take for the future from this whole debate in government is that we should have higher statutory sick pay, but I appreciate that's outwith the terms of reference of the Inquiry.
+
+**Mr Jacobs**: Mr Hancock, the learning lessons point is clearly important. My question, straightforwardly, was: do you agree with the characterisation that it's a pretty appalling state of affairs to be in at that stage in the pandemic?
+
+**Mr Matt Hancock**: I think that is unfair. There were enormous numbers of pressures, and these decisions and the positions people took were for good, rational reasons as far as I could see on this. I'm just very glad that we got over the line.
+
+**Mr Jacobs**: Next topic is movement of staff between care homes.
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Jacobs**: Could we have on the screen your third statement, please, page 8, INQ000273833, and in particular paragraph 33. So you say, Mr Hancock:
+
+"In respect of staff movement between care homes, from the moment it became clear that staff movement was a vector of transmission, I pushed hard to limit, and then ban, staff movement. Various arguments against were presented, including that staff were essential for the sector, which of course they are, but I took the view that the need to stop infections getting into care homes was more important."
+
+Mr Hancock, is that misleading in the sense that whilst it may have been true of your position later in the pandemic, in the first few months of the pandemic it wasn't your view?
+
+**Mr Matt Hancock**: When I wrote this, I hadn't seen the paperwork from essentially February/March which showed that some had been raising this issue, and at that time the concern around, as it says here, staff being essential for the sector was the -- was the primary concern because the vector of transmission point had not been -- had not been proven, and so my position on this is now more nuanced because I've seen further paperwork on this matter.
+
+**Mr Jacobs**: Well, you say, Mr Hancock, more nuanced; it's actually the reverse of the actual position in the earlier months of the pandemic, isn't it?
+
+**Mr Matt Hancock**: The critical -- no, the critical point is this: from the moment it became clear that staff movement was a vector or of transmission. Early on we did not know that. It all tied up with the asymptomatic transmission debate, and essentially when -- when it became clear from early April that asymptomatic transmission was a serious problem, as opposed to being a suspected problem, which was the position earlier, then that has an obvious and immediate consequence in terms of staff movement being a vector of transmission.
+
+So it's all about the confidence with which you hold the different likelihoods. It comes back to the massive uncertainty early on.
+
+**Mr Jacobs**: Mr Hancock, if it's known that a workforce is characterised by low income, insecure work and that there's large movements between care homes, is it not a rather straightforward point that that's going to be a risk for transmission?
+
+**Mr Matt Hancock**: No, because if you think that transmission only comes from symptomatic people, which was the formal scientific advice to me up until the CDC evidence on 3 April, as we discussed yesterday, then that does not hold so long as people who feel ill, symptomatic people don't go to work. So that's the distinction.
+
+You see, if I may expand on that a little bit. The point is that limiting staff movement has a known direct negative impact and, as we've seen, for instance, from Spain, could have very serious negative consequences. We didn't know with certainty the, as it -- I put it here, the vector of transmission. So you had a known negative and an unknown negative on the other side, and I was trying to balance these two things.
+
+But what I do accept is that my position on this is more nuanced than set out in paragraph 33, because since I wrote that I've seen more documentation.
+
+**Mr Jacobs**: I'm sorry, Mr Hancock, these are all matters you were aware of at the time, you were in the meeting rooms discussing these issues; these aren't matters that you have learnt about since this Inquiry, are they?
+
+**Mr Matt Hancock**: I wrote this three years after the -- all of that, and so, actually, looking at the paperwork, it's been a really important part of getting to the bottom of things, yes.
+
+**Mr Jacobs**: Okay.
+
+Before I move on to my final issue, focusing on the action taken following April, when you say it became clear that it was a significant issue, could we have page 61 of the Vallance schedule, INQ000273901.
+
+So just to orientate ourselves, Mr Hancock, it was on 15 May that your department issued discretionary guidance on limiting staff movement, and then 11 days later on 21 May:
+
+"Care homes meeting. PM is now putting real pressure on them to sort things out but still they won't stop people working across more than one home. This is a big issue everywhere (and we raised in Feb)."
+
+So actually, Mr Hancock, it's right, isn't it, that even after what you say you learnt in April, there were still others, it appears, including the PM, trying to push your department to go further, and you weren't doing so?
+
+**Mr Matt Hancock**: The situation was this: until we knew -- until we had clear advice on asymptomatic transmission following the CDC publication on 3 April, the advice was that, as I said, that if you were symptomatic and therefore didn't go to work if you were symptomatic, then that was essentially enough to address the problem, compare -- given the known negatives of restricting the workforce. Once that advice changed, because the scientific advice was updated -- and remember I'd commissioned scientific advice on asymptomatic transmission on 11 March, and it had taken several weeks for that to come to -- finally come to fruition over the, in terms of asymptomatic testing on, in that case, 14 April. So there was, whilst that work was going on, the initial position was that stopping people with symptoms from going to work was enough. We then --
+
+**Mr Jacobs**: I'm sorry, Mr Hancock --
+
+**Mr Matt Hancock**: This is important, I'm answering your last question.
+
+We then put in place strong guidance against working in more than one care home. That had the result of a 90% reduction in people working -- the number of people working in more than one care home. I then wanted -- to this point -- I then wanted to legally ban people from working in more than one care home, and the paperwork shows I pushed that and pushed that all through the autumn. We got within days of announcing it a number of times, it was variously blocked, and eventually I dropped that proposal after it was finally blocked at the start of January 2021 and we brought in the third lockdown. So this was a point of great frustration to me.
+
+I hope that's a full explanation of the trajectory of this particular policy.
+
+**Mr Jacobs**: Just to remind you of the question: is it right factually that, even after April, pressure was being put on you, including by the PM, to go further than the discretionary guidance? That never actually happened, did it?
+
+**Mr Matt Hancock**: I continued to push for full legal restrictions on working in one care home, and that was -- I was not allowed to announce that. I couldn't get cross-government agreement.
+
+**Mr Jacobs**: I'm going to try and deal with the final topic in one minute, Mr Hancock.
+
+**Mr Matt Hancock**: Okay.
+
+**Mr Jacobs**: Decision-making in education.
+
+6 August you describe attending a meeting where plans for re-opening schools in September are discussed, as are various contingency plans given the precarious R rate at that time. So, for example, the documents you exhibit talk about the possibilities of informing secondary schools that they may need to rotate and things of that nature.
+
+Sir Patrick, in his note of that meeting, describes the PM as saying:
+
+"... 'Don't want to hear about plan B and C for failure. I just want pupils back at school' [...]"
+
+And:
+
+"... 'We are no longer taking this Covid excuse stuff, get back to school'."
+
+Two questions. Do you recall the PM responding to the scenarios and contingencies in that way? And second, did that approach of having a plan A, not having a plan B or C, ultimately sow the seeds for the chaos that was to follow in respect of schools in subsequent months?
+
+**Mr Matt Hancock**: I didn't -- I don't recall the Prime Minister saying that, the then Prime Minister. And with respect to schools, we did end up putting in place other -- other policies that you could describe as a plan B, including testing, but ultimately, you know, as I said earlier, we had to pull all the levers and close schools in January.
+
+**Mr Jacobs**: That's factually what happened, but was there a problem of not having in advance careful contingency plans?
+
+**Mr Matt Hancock**: I'm not sure -- I don't agree with the characterisation, and I think that taking one comment from a notebook doesn't necessarily capture what happened, not least because we did have contingencies, for instance to put testing into schools once we had an enormous testing capability by the autumn.
+
+**Lady Hallett**: Thank you.
+
+**Mr Jacobs**: I think I have probably pushed my time. Thank you.
+
+**Lady Hallett**: The last questioner is Mr Metzer, Mr Hancock, who is down there.
+
+Questions From Mr Metzer KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Metzer**: Mr Hancock, I ask you a small number of questions on two topics on behalf of the Long Covid groups.
+
+You said that you agreed to put together a campaign on Long Covid on 31 July 2020 at a roundtable which resulted in the public campaign launched in October 2020. This agreement came after Long Covid SOS wrote to you in July 2020 saying they were struggling to get help from the medical community for their disease and felt abandoned by the government.
+
+In the interim, Long Covid Support raised similar concerns with Jeremy Hunt, and you responded to a letter they wrote in September 2020; and in October 2020 Long Covid Kids also raised additional concerns in relation to Long Covid in children in a public letter to the British Medical Journal.
+
+In January 2021, Long Covid Support wrote a letter to all Members of Parliament still asking that Long Covid be made of the narrative.
+
+We know, and you've said, that DHSC issued a press statement and just the one video on Long Covid on 21 October 2020. One statement, no slogans were created, no public information campaigns were launched, and no further videos or press statements were released.
+
+You've said yourself that communication is an important NPI. Why wasn't more done to communicate the risk of Long Covid to the public when you had Long Covid groups repeatedly raising concern about the lack of communication?
+
+**Mr Matt Hancock**: Well, I'm very grateful to you for the work that you've done, the group's done on this, and writing to me in July was important because it made me realise that there was a problem that needed to be addressed, given that I knew about the impact of Long Covid personally. So hence I convened that roundtable and we took the action that we did, and we discussed earlier why it took six weeks from then to October, mid-October to launch the plan.
+
+The only part of your question that I would disagree with is that there was only one comment put out. I repeatedly discussed Long Covid on my own -- both in my own media appearances, my social media and other areas. But it's absolutely true that it felt like a -- it was an area that I felt I needed to push.
+
+**Mr Metzer KC**: Do you agree and accept that insufficient was done to communicate the risk of Long Covid to the public?
+
+**Mr Matt Hancock**: Well, I think that raising concerns about Long Covid was an important part of explaining why it's important to tackle Covid. The large swathes of the public were -- understood that and were onside for that. The campaign against it was ranged in a relatively small part of the political debate, if you like.
+
+**Mr Metzer KC**: Well, you raised Long Covid on your own, but why wasn't it raised across government?
+
+**Mr Matt Hancock**: I don't know, you'll have to ask people across government. I mean, I was ... I had my shoulder to the wheel on this one.
+
+**Mr Metzer KC**: You said the only way to prevent Long Covid is to prevent Covid. When decisions were taken to release restrictions in 2021 --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Metzer KC**: -- wasn't it even more important to communicate the risk of Long Covid to encourage people, including the young, to maintain protective behaviours to avoid Long Covid?
+
+**Mr Matt Hancock**: Yes, I think that's reasonable, and the pace at which the restrictions were lifted in 2021 was driven by the data, with gaps wide enough to be able to see the impact of each restriction. I think this was important after the experience of lifting too much in 2020.
+
+**Mr Metzer KC**: Well, do you accept, therefore, there was a failing to communicate sufficiently the risk of Long Covid in 2021, particularly concerning young people?
+
+**Mr Matt Hancock**: I think that -- I haven't seen the amount of cross-government communication there was on it. All I can tell you is that this was something I was personally concerned about and used my own communications to reinforce the point.
+
+**Mr Metzer KC**: All right.
+
+On the second topic, we know that the DHSC established external ministerial roundtables on the long-term effects of Covid-19, and these were chaired by Lord Bethell --
+
+**Mr Matt Hancock**: Yes.
+
+**Mr Metzer KC**: -- October 2020.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Metzer KC**: You attended one of the roundtables on 23 February 2021, I don't think we don't need to go to it, INQ000060080.
+
+**Mr Matt Hancock**: Yeah.
+
+**Mr Metzer KC**: Patient advocates also attended the roundtables and have said they couldn't see how the discussions translated into policy.
+
+The question is: how did insights from the roundtables inform the decisions that you and other decision-makers made in response to the pandemic?
+
+**Mr Matt Hancock**: Well, what I would say is that getting action on this subject was hard, and as -- even as Secretary of State and with an excellent minister, Lord Bethell, who did a brilliant job during the pandemic, even with both of us pushing on it, it was difficult to get the movement that we needed within the NHS. You know, sometimes people describe working in government as wading through treacle, and Long Covid was undoubtedly an area where I didn't get the responsiveness that I would have hoped for and did get in some other areas.
+
+**Mr Metzer KC**: Can you explain why?
+
+**Mr Matt Hancock**: Erm, can I explain why government works like that? I mean, crikey.
+
+**Mr Metzer KC**: No, can you explain specifically why Long Covid didn't get that attention that you personally felt it deserved?
+
+**Mr Matt Hancock**: I think it was because it was fundamentally difficult within the health system because of the very wide variety of ways it presents. In fact, I'm worried today that Long Covid is not getting enough support, and I've heard rumours that there are some Long Covid clinics that are under threat of closure. I think that would be a mistake. So, you know, sometimes in government you make a decision and things happen quickly, and sometimes you make a decision and nothing happens at all.
+
+**Mr Metzer KC**: And this would be --
+
+**Mr Matt Hancock**: And this was --
+
+**Mr Metzer KC**: -- the case?
+
+**Mr Matt Hancock**: And this was -- it's not true to say nothing happened at all. We did open Long Covid clinics, many of them are still open today. As I said earlier, my mother is still a patient at one of them, so I still follow this issue closely. But I would just say that Long Covid was one of those issues that is closer to the wading through treacle than the government machine responding as an orchestra does to their conductor.
+
+**Lady Hallett**: Thank you, Mr Metzer. No, sorry, Mr Metzer --
+
+**Mr Metzer**: Thank you, my Lady.
+
+**Lady Hallett**: I've been tough on everyone else.
+
+**Mr Metzer**: Indeed.
+
+**Lady Hallett**: Does that complete the questions for today?
+
+Mr Hancock, that completes your evidence today. I'm terribly sorry, but I can't give you any guarantees that I won't be asking you to attend again in future modules.
+
+Thank you for your help over the last couple of days and for your patience.
+
+**The Witness**: Thank you.
+
+*(The witness withdrew)*
+
+**Lady Hallett**: Right, the next witness, so that people know if they wish to make any plans, will be Boris Johnson, the former Prime Minister. He will appear next Wednesday.
+
+We won't now be in a position to call Simon Case, that's due to medical reasons, and if people wish to see my ruling on that subject they'll find it on the website.
+
+So it will be 10 o'clock next Wednesday, please. Thank you.
+
+*(12.57 pm)*
+
+*(The hearing adjourned until 10 am on Wednesday, 6 December 2023)*
+
