@@ -1,0 +1,381 @@
+Transcript of Module 2C Preliminary Hearing on 12 December 2023
+===============================================================
+
+*(1.45 pm)*
+
+**Lady Hallett**: Good afternoon. This is the third preliminary hearing into Module 2C, and Ms Clair Dobbin, Counsel to the Inquiry for this module, is going to set out the issues that are going to be put before me this afternoon.
+
+Statement by Lead Counsel to the Inquiry for Module 2C
+------------------------------------------------------
+
+**Ms Dobbin**: Thank you, my Lady. I appear today with Nick Scott, and on behalf of the counsel team I just want to welcome those representing core participants who are joining this hearing from Northern Ireland, and of course those who are present before you as well.
+
+This is a hybrid hearing, it's being broadcast so that anyone who wants to is able to join it. Of course that means that it's subject to a three-minute delay; that means if anything is said that ought not to be, the feed can be broken. We don't expect anything like that to happen today, but I just thought I'd mention it because these short interruptions can sometimes happen.
+
+So before you in the Inquiry room are Mr Peter Wilcock King's Counsel, who represents the Northern Ireland bereaved families for justice, Ms Nessa Fee who appears on behalf of the Executive Office of Northern Ireland, and Ms Charlotte Godber, who represents the National Police Chiefs' Council.
+
+There are a number of core participants who also appear before you today, and by way of remote attendance. A number of these will be familiar to you.
+
+Disability Action Northern Ireland are represented by Bhatt Murphy solicitors.
+
+Baroness Arlene Foster and Mr Paul Givan are represented by Ms Julie Ellison.
+
+Ms Michelle O'Neill is represented by Mr Bassett and Ms O'Flaherty today and Ó Muirugh Solicitors.
+
+The Commissioner for Older People for Northern Ireland is represented by Ms Anyadike-Danes King's Counsel.
+
+The Northern Ireland Department of Health is also represented, and by Fiona Fee, and the Departmental Solicitor's Office as well.
+
+And the Northern Ireland Department of Finance is also represented by Nicolas Hanna and the Departmental Solicitor's Office.
+
+My Lady, as you know, the Trades Union Congress and the Northern Ireland Committee and the Irish Congress of Trade Unions are also core participants, but they are not in attendance at today's hearing.
+
+My Lady, by way of introduction, may I say how grateful I am to all of my learned friends for their help and engagement, including with me in the lead-up to this hearing. Of course it corresponds with the close of the evidence in Module 2, and the Module 2C team thought that it was important at this juncture and ahead of this hearing to make contact with the other legal teams representing core participants, just asking them to consider or reflect upon any linkage that there was between the issues that had arisen in Module 2 and Module 2C that they might want to raise with us or anything new that had arisen.
+
+Plainly what happened in the devolved administrations is the other side of the coin to the events being investigated in Module 2, and it's anticipated that much evidence which you heard in Module 2 will be just as important to those who were involved in making analogue decisions in Northern Ireland and those whose lives were so profoundly affected, both by Covid-19 and government decision-making in Northern Ireland. And if any of my learned friends to whom I've not spoken would wish to make submissions today about that, then of course they would be welcome, but I wanted to emphasise that they will also have that opportunity to discuss those matters with us when the Inquiry team visits Northern Ireland in January to have those meetings, and if I may I'll come back to that very shortly.
+
+My Lady, you have in your bundle and the legal team has in preparation for this hearing circulated to core participants an updated list of issues, and I want to thank my learned friends again for contributing to that with care. We're all aware that it is an ambitious list, but it ought to assist important witnesses who are in the process of preparing their witness statements, and it ought also to provide the focus for the hearings which will take place in due course, and I'll come back to the detail about those hearings as well.
+
+But on the subject of witness statements, I wanted to make clear, if I may, on behalf of the legal team, and wanted to acknowledge at the outset of this hearing, that the Module 2C team has been demanding in terms of what it has asked of government departments and individual witnesses in Northern Ireland. The Inquiry is aware that the absence of power-sharing arrangements has added to pressures on departments and the civil servants, specifically in responding to this Inquiry.
+
+Additionally, parts of the Northern Ireland Government and individual witnesses have had to respond to Modules 1, 2 and 3 whilst simultaneously responding and providing disclosure to Module 2C. We're also aware that they don't have comparable resources to those of the UK Government as well.
+
+It's right that we acknowledge that the Executive Office alone has provided already in excess of 24,000 documents to Module 2C, and we also know that many of those individuals of whom we have sent detailed Rule 9 requests are, for the most part, public servants and have demanding jobs, and we're conscious and mark that a heavy burden has fallen on the Northern Ireland Chief Medical Officer in this regard.
+
+But my learned friends will well understand that this is an Inquiry where that underlying detail matters. We will not and we will never have time in a public hearing to call witnesses to investigate each and every aspect of the decision-making or to take them through every relevant document. That's not realistic.
+
+The underlying material is, therefore, necessary in order to inform the detailed questioning of witnesses, for report writing and of course, most important, the making of recommendations as well.
+
+The Module 2C legal team has sought to be as accommodating as it possibly can be, given the pressures that Northern Ireland government departments are subject to. We have provided extensions to Rule 9 requests, we've tried to stagger Rule 9 requests as well, but as the hearing gets closer inevitably the ability to afford latitude decreases.
+
+We wanted to mention that today on behalf of the Inquiry because it's particularly important that former ministers bear this in mind. The Inquiry sent detailed Rule 9 letters to those former ministers, and in respect of a number of them they were about 50 pages long, or longer, contingent on the level or the range of responsibilities that that individual had. Ministers were referred to a number of underlying documents, in order that they could provide a response to the Inquiry that was first of all structured but which also addressed the detailed list of issues which has been circulated.
+
+I do want to make it clear that many ministers are in the process of providing their first drafts to the Inquiry, and we haven't had sight of them. So the observations that I make do not apply to all ministers.
+
+I wanted to make clear that as part of the preparation for the hearings, and of course to ensure that they're effective, we are closely monitoring the compliance of witness statements with the questions that have been asked in the Rule 9 request whenever a draft comes back. We are in the process of going back to some former ministers because the statements they've provided do not sufficiently engage with the underlying material which was put to them.
+
+Whilst no final decisions have been made about who will be called to give evidence, it is likely that each former minister will be called at the hearings. There will be no hesitation in the hearing about making clear the question which any witness was asked but failed to properly engage with or answer in their written statement. Witnesses who fail to answer questions they have been asked to address in a witness statement will have to account for that failure on oath in the witness box, and they will ultimately have to answer those questions as well.
+
+I should also mention, of course, my Lady, that you do have the power to compel the production of written evidence under section 21 of the Inquiries Act 2005. It's hoped that this will not be necessary. Plainly it's in no one's interest, but certainly not those of the witness, to fail to engage in the process of providing detailed evidence in writing prior to giving oral evidence.
+
+My Lady, it's worth reflecting, and of course reiterating, that one of the most important reasons why this Inquiry was instituted was to make recommendations and to consolidate that which has been learnt from the response to the pandemic. In its report of 9 March 2023, the Northern Ireland Statistics and Research Agency estimated that there were 4,075 excess deaths in Northern Ireland from 1 March 2020 to 31 March 2022. In the same period there were 5,060 Covid-related deaths in Northern Ireland.
+
+My Lady, as you know, having just heard this evidence, Professor Sir Chris Whitty in his evidence in Module 2 said that he perceived a difference between how the UK system collectively approached geopolitical threats like terrorism as compared to how they approached natural threats or hazards. Put simply, if government knew that there was a terrorist event in the planning, and that thousands of people might lose their lives, then that might or would prompt a different sort of response as compared to that of a developing pandemic.
+
+You haven't made any findings in Module 2 about those observations, but nonetheless Professor Sir Chris Whitty's framing of the issue might be a helpful one, and one that might resonate also in Northern Ireland.
+
+Faced with information that this was a pandemic which might kill thousands, and of course the point at which that was understood by ministers in Northern Ireland is extremely important, did ministers grasp the urgency and respond with alacrity? Did the civil contingencies arrangement kick in and provide an effective framework within which to manage the pandemic? Fundamentally, were there limitations in the response and what were the reasons for them? To what extent was any response in Northern Ireland conditioned by the response by the UK Government which Module 2 has thrown more light on in the course of its investigations?
+
+The position of Northern Ireland during the pandemic was of course completely different to that of the UK, and indeed to the rest of Europe. It affords the Inquiry to consider the unique challenges which present themselves in a post-conflict society and which governs on the basis of power sharing.
+
+These are important issues deserving of the most sober and serious consideration, and returning, if I may, to former ministers, their written and oral evidence will obviously be vital for considering all of these important issues and what could be done better in the event of a future pandemic, and of course one which might be more transmissible or have a higher fatality rate, the prospect of which is not fanciful.
+
+The people of Northern Ireland are as entitled to full consideration of this as in any other part of the UK, and we on their behalf will strive to get the answers to those issues which have been identified.
+
+So may I, on behalf of the Inquiry, say to former ministers, and indeed all witnesses, to help the Inquiry by being candid, by putting aside political differences or sensitivities and helping the Inquiry to understand the realities of responding to the pandemic in Northern Ireland. And can I say on behalf of the legal team that our door is always open in terms of providing assistance or guidance or anything that we can do to help achieve this.
+
+If I may, then, my Lady, coming back to the meetings that I mentioned in January, the legal team will be there in order to meet core participants and to discuss the hearings which will commence on 30 April 2024. As ever, it's an opportunity for us to listen and to make sure that we have understood any outstanding issues or points that need to be resolved well in advance of the hearing.
+
+My Lady, that's all by way of introduction.
+
+Can I turn, then, to update. Module 2C is at a critical juncture, the hearings will start in less than five months' time. We of course have the luxury of being the last of the hearings in the devolved administrations, and that has afforded us the opportunity not just to put specific evidence to witnesses before sending them out Rule 9 requests, but indeed been able to put evidence that was heard in Module 2 to some witnesses as well. But as I've said, time is increasingly short.
+
+We alerted core participants in the pre-hearing note to the fact that the Department of Health in Northern Ireland had been particularly slow in responding to the Rule 9 request made of it for a witness statement, and the requests made of it for disclosure.
+
+I can update you, though, that since that note was circulated, the Department of Health has provided its draft witness statement. It's in three parts and is approximately 527 pages long. The statement exhibits 1069 documents. I can also say that the department is in the process of providing its general disclosure, and again that the Module 2C legal team is working with it to ensure that its general disclosure exercise is focused upon the most important categories of material having regard to the Module 2C list of issues. As ever, we try to get the balance right between that disclosure which is unfocused and not helpful and that which will be the most relevant to the list of issues.
+
+My Lady, then in terms of the Rule 9 requests, the statements and the exhibits that we have sought and received, I can tell you that we have sought witness statements from or on behalf of, amongst others, first of all, the Executive Office itself, every government department in Northern Ireland, the Northern Ireland Office, the Public Health Agency, the Health and Safety Executive in Northern Ireland, the Police Service of Northern Ireland, NISRA, which is the statistics agency that I referred to earlier, and the Regulation and Quality Improvement Agency, and that's the body in Northern Ireland which both registers and inspects a range of health and social care services.
+
+We've sought statements from former and serving senior civil servants who were central to the response to the pandemic, so amongst a number these include Sir David Sterling and Mr Richard Pengelly.
+
+We have sought a statement from Ms Sue Gray, who was the former permanent secretary to the Department of Finance in Northern Ireland, who was on secondment from the Cabinet Office, and who was the second permanent secretary to the Cabinet Office. We hope that she might be able to assist as to some of the significant differences in terms of how the civil service operates at central government as compared to Northern Ireland Government, and also to see if she may provide helpful evidence on the differences in that role in the context of power sharing as well.
+
+We've sought statements from the Chief Medical Officer and the Chief Scientific Adviser. We've made a further detailed request of the CMO. We've sought statements from some of those who were involved in actual modelling in Northern Ireland. We've sought statements from specific special advisers, from the former Secretary of State for Northern Ireland, Sir Brandon Lewis, and, most significantly of all, statements from each minister who was in post from the return of power sharing in January 2020 through to 2022. Again, my Lady, as you would expect, we've also sought statements from those organisations who represent the different interests of groups within Northern Irish society as well, and I know a number of these will be familiar to you, but they include the Equality Commission, Mr Eddie Lynch, who is the Commissioner for Older People, who you know, and Disability Action as well.
+
+So that's to give you an idea and to give core participants an idea of the extent of the evidence which has been sought. In terms of onward disclosure to our core participants, to date Module 2C has received in excess of 35,000 documents. These include notes and minutes of Executive Committee meetings, the briefing papers that were circulated for ministers for consideration at the Executive Committee meetings, internal departmental briefing papers, notes and minutes of meetings, the advice provided by the CMO, and documents setting out the modelling of the pandemic in Northern Ireland as well.
+
+Now, of course, not all of those 35,000 documents will necessarily be relevant and disclosed on. The Inquiry thus far has disclosed over 12,000 documents and of course that process is ongoing and continues.
+
+So Module 2C has disclosed a very considerable volume of material, and, my Lady, if I may, I wanted to thank the team of paralegals who have achieved this. They work really hard at a difficult task and one which goes unseen, but they are the engine room of providing disclosure to core participants. And I'm very conscious that the Module 2C team is about to enter a period of really hard work in terms of getting in a number of witness statements and exhibits, and it's right to say and mark that the paralegal team will play a really important part of our work and in enabling us to provide the onward disclosure to core participants.
+
+The other part of that work is of course the cross-disclosure from Module 2 as well. There is an obvious body of material from Module 2 that will be relevant to Module 2C. So, by way of very simple example, there will be all of the material like the SAGE minutes or advice, the NERVTAG documentation, which will need to be put to certain witnesses in Module 2C as well, or as part of the exercise of ascertaining what information was known in Northern Ireland at or around the same time it was known by the UK Government.
+
+I should say that relevant documents from Module 2 are also being disclosed in Module 2C on a rolling basis, and of course my learned friends may also wish to flag to us any material in particular that they, on behalf of a core participant, consider to be relevant and important for Module 2C, if by any chance this hasn't been disclosed.
+
+My Lady, the Module 2C team is also aware that some core participants were told in Module 2 that some of the questions they sought to ask would be more relevant in Module 2C, and the invitation is made to all my learned friends that it would be helpful if they gave us sight of any questions that they were told should be asked in Module 2C or would be more relevant, and in particular if they flagged up those questions which they regarded as most important and which they didn't get the opportunity to ask. And again, it's just to make sure that we have early sight of that and can think about it at this stage.
+
+My Lady, may I turn, then, to the issue of WhatsApps and other informal forms of communication.
+
+My Lady, Module 2C saw some focus on communications via WhatsApp or similar types of communications. These sorts of communications may be of a forensic value in preserving what individuals thought or knew at a given point in time, and in these submissions I will refer to WhatsApp, if I may, as a shorthand for all similar forms of informal communications.
+
+Before I address you on that, I think it's important, though, to say that in Module 2C we do have the handwritten notes of the Executive Committee meetings, and these do provide the Inquiry with some insight into the different positions that were taken by ministers when it came to those core important decisions upon which we're focused, and of course convey those decisions which were more particularly fraught.
+
+We can see in the underlying notes criticisms that ministers appeared to make of each other or material that they had been provided with, and indeed in Northern Ireland some ministers made public differences of opinion as well.
+
+Ultimately, if I can distill it in this way: what the Inquiry is concerned with are those decisions which ministers actually made, the process by which they made those decisions, the information that was available to them, and the effectiveness of the core Northern Ireland Government response to Covid-19, all to the end to considering what might be done better in the future. There will be many sources of evidence upon which those matters can be assessed, and again the Executive Committee notes will be of great use in that.
+
+But turning to WhatsApps, in June 2021, following the Prime Minister's confirmation that a statutory Inquiry into the pandemic would take place, the Director General of Propriety and Ethics in the Cabinet Office, Mr Darren Tierney, wrote to the permanent secretaries of each devolved administration asking them to take steps to ensure that their departments would be ready to meet their obligations when the UK Covid Inquiry began its work, and in particular the departments were asked to ensure that no material of potential relevance to the Inquiry was destroyed.
+
+On 20 January 2022, Ben Connah, now Secretary to the Inquiry, wrote to Mr Tierney asking that this message be reiterated across the departments. Mr Connah in particular drew attention to the retention of material, including emails, text or WhatsApp messages and other communications. Following the Inquiry's request, Mr Tierney again wrote to permanent secretaries, both of Whitehall departments and of the devolved administrations, reiterating that message and reminding them of their obligations under the Inquiries Act 2005.
+
+My Lady, I should say that the Inquiry's correspondence about this is publicly available on the website as well.
+
+In September 2022, Module 2C sent a Rule 9 request to the TEO asking to be provided with information concerning the extent to which there was informal communication, including by way of WhatsApp, and similar requests were made of the Department of Health and the Public Health Agency in October 2022, and the Chief Medical Officer in November 2022 as well.
+
+So, in other words, at an early stage, Module 2C sought to understand whether and to what extent these informal channels of communication were used in Northern Ireland as part of the government response to the pandemic, and this was sought so that the legal team had an informed basis then upon which to send Rule 9 requests in order to elicit messages. But ultimately the detail that was sought wasn't provided.
+
+In late July 2023, the Inquiry wrote to the TEO requesting detailed information about the use of WhatsApps in connection with the Northern Ireland Government decision-making during the pandemic. We sought policies surrounding their use and details of groups and individual use of those forms of messaging. This request was subsequently provided by TEO to all Northern Ireland Government departments for their individual response.
+
+In August 2023, the Executive Office notified the Module 2C legal team of a potential loss of data in relation to the Northern Ireland civil service-supplied devices that were held by former executive ministers and senior civil servants.
+
+TEO informed the Inquiry that the government-supplied devices of the former First Minister, Baroness Arlene Foster, and the deputy First Minister, Ms Michelle O'Neill, had been reset to factory settings. It was said that this was also the position in relation to other ministers and meant that no data was available from those devices.
+
+The Module 2C legal team immediately expressed grave concern that this should have occurred, and immediately sought the detail of what had happened.
+
+TEO informed the Inquiry that it would ascertain the circumstances in which the data loss arose. This became a formal investigation. A report was initially due to be provided to the Inquiry in October 2023, but was ultimately provided late on Friday evening just gone, that is 8 December.
+
+The Inquiry, in advance of this, had also issued a further Rule 9 request to the Executive Office seeking a witness statement which provided details of the use of personal and civil service-supplied mobile devices by Northern Ireland Government ministers, special advisers and senior civil servants, the policies concerning the use of such devices, the extent of the use of informal messaging systems like WhatsApp and the applicable policies regarding their use, and, particularly, evidence of the circumstances and the extent of the potential data loss incident described above.
+
+That draft statement was also due on 8 December, but is now overdue. TEO have indicated to the Inquiry that it will be provided either this week or before Christmas, but, my Lady, the Inquiry will be fixing a date by which that statement must be received.
+
+That Rule 9, that request required disclosure of the investigation report and copies of all relevant informal communications, including messages sent by way of WhatsApp or any other informal messaging platform between ministers, advisers, party officials or senior civil servants concerning the management of the pandemic during the relevant period. And, again, on 21 November 2023, the Module 2C legal team sent a similar Rule 9 request across all Northern Ireland departments seeking the same disclosure, and again in respect of the same groups of people as well.
+
+My Lady, because the report was only served late on Friday evening, the legal team has had limited ability to analyse its contents and to consider next steps. Plainly it requires very careful consideration, but so too does the witness statement which we expect to receive imminently as well.
+
+In addition to all of that, and all of that work which has been done by the Inquiry, in addition to the evidence that has been sought from the Executive Office, in October and November 2023 the detailed Rule 9 requests were issued, and that was as part of the general process of sending Rule 9 requests to significant witnesses, including the former ministers, which included a request to them for disclosure of WhatsApp messages from each of those witnesses.
+
+It's important to say that in all that approach has begun to yield material. Module 2C has received WhatsApp material from Northern Ireland Government departments, including TEO. A number of individual witnesses, including former ministers, have also provided some evidence as to their use of and retention of WhatsApp messaging as well, and we are in the process of reviewing the WhatsApp material which individual ministers have been provided.
+
+So, my Lady, if I may, cutting through this, that some devices have been reset does not mean that there isn't WhatsApp material. There is. But we will continue to work to secure that WhatsApp material which is still available, alongside the separate consideration, of course, as to how certain devices came to be reset in the first instance.
+
+Like much in this Inquiry it may be a question of balance and judgement. Whilst WhatsApps can yield nuggets of unvarnished thought or plain speaking, and help to pin down what was known or thought at a given point, and Module 2C wishes to be able to consider the use of informal communications and what they reveal, we do need to be careful that the use of WhatsApp doesn't deflect attention or divert resources away from the long list of serious issues that need to be considered in Module 2C, and the voluminous evidence which does exist about decision-making.
+
+My Lady, of course the question of the wiping or the resetting of devices itself remains at large, but you will undoubtedly want to have time to properly consider the report produced by the TEO and the witness statement. You may also wish to consider the issue of the resetting devices as part of your overall consideration about the use of informal communications in Module 2C. So I suppose, in other words, you may want to hear evidence or understand more about the extent to which informal communication was used and was regulated, including about the preservation of messaging. You may wish to be able to judge overall the effect of any wiping or resetting devices in light of the material which is disclosed, and having heard from witnesses as to the use of WhatsApps more generally.
+
+So, in other words, you may wish to consider these issues in a broader evidential context, and that may be a matter which you wish to keep under review.
+
+I should also mention that inspection of the notebooks which TEO has been able to make available has taken place. Some 26 notebooks have been inspected thus far. I think at paragraph 17 of the Executive Office's submissions, it suggests that TEO holds notebooks used by other officials in the event that these may be requested for disclosure. If this is to suggest or gives the appearance that the Inquiry has not been pursuing inspection of all notebooks, it's not correct. On 23 November, after the inspection of the notebooks took place, the Inquiry asked TEO to confirm that it had provided a complete list of the custodians of notebooks held by the Executive Office. They were asked whether it was contemplated that further notebooks would be made available for inspection at a later date, and the Inquiry has since received from the Executive Office a definitive list of all further custodians of notebooks that are held by the TEO. Obviously further consideration has been given to what of those notebooks should be inspected by the Inquiry.
+
+Again, my Lady, I should make clear that all individual witnesses have also been asked that they provide their notebooks or other form of written records, and other Northern Ireland departments have also been asked to provide a list of notebook custodians as well, again to assist the Inquiry as to what further notebooks may be inspected.
+
+My Lady, may I turn, then, to the separate issues in terms of the list of issues and plans for the hearing in Northern Ireland, beginning in April, and the provisional list of witnesses.
+
+As I said, at the outset, the list of issues in Module 2C is an ambitious one. Ensuring that each issue is investigated and considered will require rigour and discipline on the part of all, in particular at the oral hearings. A number of core participants commented on the list of issues and the list of issues was amended in light of this. Where suggested changes weren't made, it was because the legal team considered that the issues fell within one of the broader issues that had already been identified. We've sought to strike a balance between a detailed list of issues and being too prescriptive. We've sought consistency where we could with Module 2 and 2A and B, but clearly there are a number of issues which found no analogue in Module 2 or the other administrations.
+
+As to the oral hearings, they will commence on 30 April 2024, they will last for three weeks. They'll take place at the Clayton Hotel, which is in central Belfast.
+
+In order to try to assist with the preparation of the hearing, and in order to help focus the hearings and the issues that are of most consequence, we will provide a number of documents as an aid. So we will provide a chronology of key decisions and events, preparation of which is well under way, key statistical information which Counsel to the Inquiry will use in setting out background information about health inequalities on the eve of the pandemic and overall figures, for example, relating to deaths and as they took place at specific points in time, and the evidence proposals for witnesses as well.
+
+We will circulate in January 2024 a provisional witness list and timetable which the legal team will also be able to discuss with core participants when we meet them next year. The Module 2C team has written to potential witnesses, and again I emphasise potential, to put them on notice of the dates of hearings and to ask them to provide any dates to avoid.
+
+No decisions have been made as to which witnesses will ultimately be required to give evidence. As noted, it's likely that all former ministers will be called, given that they comprised the Executive Committee. The Inquiry expects to receive, as I've said, those statements in the coming weeks, and we'll obviously hear representations from core participants as well as to which witnesses ought to be called. So because a witness has been asked to provide dates to avoid, it doesn't mean they will necessarily be called to give evidence. It's also possible that additional witnesses will be identified as well, and required to give evidence, who haven't yet been notified.
+
+My Lady, on behalf of the Module 2C team, we also very much hope that those whose interests are represented by organisations like Bereaved Families and Disability Action Northern Ireland and the Commissioner for Older People will come to the hearings. They will be most welcome.
+
+My Lady, in Module 2, a number of experts were also instructed and their evidence will also be relevant to Module 2C. If I may just very briefly touch upon those.
+
+As you're aware, Professor Thomas Hale from the Blavatnik School of Government gave evidence in Module 2 as to international data relating to the pandemic, and he undertook a comparative analysis of decision-making in the UK and each devolved administration in relation to Covid-19, and he gave evidence and his report was adduced on 11 October in Module 2.
+
+Also Professor Ailsa Henderson from the University of Edinburgh gave evidence on devolution within the UK as well, and her report was also adduced in October.
+
+Other expert evidence which is of indirect relevance to Module 2C but nonetheless important background was given by Alex Thomas and Gavin Freeguard as well, and that was evidence on the decision-making structures of the UK Government in emergency situations, and in particular how the Cabinet Office, Cabinet committees and the office of the Prime Minister function. Gavin Freeguard provided evidence about access to and use of data by the UK Government during the pandemic.
+
+My Lady, I should point out here that witnesses in Northern Ireland, like the Chief Scientific Adviser and the Chief Medical Officer, have been asked to provide evidence about any limitations on the availability or quality of data in Northern Ireland.
+
+My Lady, in your ruling of 9 March 2023 you directed that the Inquiry should obtain evidence from an expert or experts on the nature and degree of pre-pandemic structural racism. Your ruling provided, at paragraphs 36 and 37, that expert evidence should be obtained regarding pre-existing structural discrimination on other grounds and, as you're aware, this led to the Inquiry obtaining expert evidence in relation to a number of different groups across society, and that evidence is also relevant to Northern Ireland as well.
+
+Again, if I may summarise, Professor James Nazroo and Professor Laia Bécares provided evidence on pre-pandemic inequalities on grounds of race. That was adduced on 5 October 2023 in Module 2.
+
+Professor Thomas Shakespeare and Professor Nicholas Watson provided evidence on pre-pandemic inequalities related to disability, which of course is an important issue in Module 2C.
+
+Professor Laia Bécares also provided evidence on inequalities experienced by the LGBTQ+ community, and again that was adduced in the course of Module 2 as well.
+
+Dr Clare Wenham, who is a professor of global health policy at the LSE, provided expert evidence on pre-pandemic gender equalities, and again that was adduced in the course of Module 2.
+
+My Lady, I note in relation to gender equality in Northern Ireland, there is a specific issue about the availability of abortion services during the pandemic, and again that is something about which we've sought evidence.
+
+Professor David Taylor-Robinson provided evidence on pre-pandemic childhood inequalities.
+
+Separate to the commission of evidence on structural inequalities, the Inquiry also obtained expert evidence from Professor Chris Brightling and Dr Rachael Evans on Long Covid as well, and again that was adduced in the course of the Module 2 public hearing.
+
+So, my Lady, if I can summarise it in this way: you considered a very broad span of expert evidence in Module 2, and in particular evidence that illuminated the extent to which certain groups within society faced particular systemic disadvantage on the eve of the pandemic, and that will be relevant to Module 2C as well.
+
+In addition, in Module 2C you will also have evidence from organisations who represent such groups or work on the issues which affect those groups as well, so you will have first-hand evidence about that as well.
+
+In addition to all of that, the Inquiry has also instructed two experts for the purpose of Module 2C alone. My Lady, those experts are Professor Karl O'Connor, who is a reader in public administration, he is the research director for social work and social policy, and a co-director of the Centre for Public Administration at the Ulster University as well.
+
+Professor Ann-Marie Gray is a professor of social policy at the School of Criminology, Politics and Social Policy at the Ulster University. The Inquiry has sought expert evidence from them on the constitutional arrangements which provide for the government in Northern Ireland on power-sharing structures and how, practically, these work. They have been asked to consider the arrangements which were made in Northern Ireland for responding to the pandemic, and further questions relevant to Module 2C's list of issues.
+
+We've also asked Professor Gray to provide some additional evidence on the issue of health inequalities specific to Northern Ireland as existed at the outbreak of the pandemic.
+
+My Lady, we anticipate that they will provide a first draft of their report by the end of December 2023. The aim is that the final version will be available in early 2024, and core participants will have an opportunity to comment on that draft prior to finalisation.
+
+My Lady, it's also important and right to mention that of course the issue of the absence of power sharing prior to the pandemic and the impact this had is important to a number of core participants, and of course one of the reasons for that is because of Northern Ireland's health service and the reports that had recommended reform prior to power sharing resuming, which was of course at one and the same time as the pandemic was developing.
+
+I suppose, to put it in ordinary language, whether Northern Ireland went into the pandemic 2-nil down on account of the lack of ministerial oversight of health services for the three years prior to the pandemic occurring, and all that I wanted to say was that a number of witnesses have been asked to address that point in their Rule 9s.
+
+Finally, then, if I may turn to Every Story Matters and commemoration and the impact film which will be shown at the hearings as well.
+
+My Lady, Every Story Matters is the means by which the Inquiry offers to any adult who wishes to the opportunity to provide an account to the Inquiry about their experience of the pandemic. It's by this mechanism that the Inquiry seeks to record and understand how the pandemic affected lives across the UK.
+
+An updated web form was made available in late May and thousands of responses have been shared so far. The Inquiry has worked alongside charities and other organisations to encourage people who wouldn't normally come forward to do so, and the Inquiry will undertake further work to raise awareness of Every Story Matters in Northern Ireland from the beginning of April 2024, and I know, my Lady, that you would want to ensure that people in Northern Ireland know that the Inquiry wishes to hear from them. Their voices really matter.
+
+And of course there must be many people who would rather put the pandemic behind them, given how awful it was for them, but it's so important that the Inquiry records and preserves that experience, and again uses it to improve any response to future pandemics. And of course there will be people for whom the pandemic provokes great pain and who continue to grieve, but again, my Lady, I know that you would want those people particularly in Northern Ireland to know how profoundly valued their participation would be.
+
+The Inquiry has also launched a pilot programme of UK-wide Every Story Matters events. These will test different ways to enable people across the UK to speak to the Inquiry about what happened in their lives during the pandemic. Some of these events are targeted towards specific groups of people affected by the pandemic and those are open to the general public. The Inquiry has already visited Belfast, of course, to speak with bereaved families and will be holding events in one or two locations across Northern Ireland in the New Year, and detail about this will be provided in the Inquiry's newsletters and on the Every Story Matters events page of the Inquiry's website.
+
+The Inquiry team also hopes to pilot the sharing of experiences through British Sign Language in the New Year, an issue of some importance to CPs.
+
+My Lady, the hearings will commence on 30 April 2024 with a film about the impact that Covid-19 had in Northern Ireland. Although no decisions have yet been made about how many witnesses might be called from these organisations, the Inquiry will also hear evidence for and on behalf of the Northern Ireland Covid-19 Bereaved Families for Justice and Disability Action Northern Ireland as well.
+
+We hope that the film and this evidence will serve to remind everyone at the outset of the hearing the fundamental reason why this Inquiry matters so much, and why the co-operation of witnesses in the oral hearings is vital.
+
+My Lady, if I may, I'll finish on the proposed meetings between the Module 2C legal team and the core participants who wish to speak to us.
+
+This will be an important opportunity for CPs to discuss lines of investigation, disclosure and the proposed witness list as well, and we encourage all core participants to meet with us. It will undoubtedly help us in our preparations.
+
+My Lady, unless I can assist you any further, may I suggest that you hear from those of my learned friends who would wish to make submissions, and I think you're going to hear from Northern Ireland Covid Bereaved Families for Justice first, and particularly Mr Peter Wilcock who represents them.
+
+**Lady Hallett**: Thank you very much, Ms Dobbin.
+
+Mr Wilcock.
+
+Submissions on Behalf of the Northern Ireland Covid-19 Bereaved Families for Justice by Mr Wilcock KC
+-----------------------------------------------------------------------------------------------------
+
+**Mr Wilcock**: My Lady, as you've just been told, I represent the Northern Ireland Covid-19 Bereaved Families for Justice Campaign.
+
+Your Ladyship is, we know, very aware of the importance that those whom I represent place on this module of your Inquiry, particularly given the ongoing political stalemate in Northern Ireland and the fact that a Northern Irish-specific inquiry to provide scrutiny of the actions of the Stormont Assembly during the pandemic is seemingly little closer to reality than it was at the last time you had a preliminary hearing in this module, just under nine months ago.
+
+As we have made clear in our written submissions, we note the indication from the Inquiry that this Module 2C is coequal to 2A and 2B, and that insofar as possible and appropriate M2C will pick up issues relating to communication with the Northern Ireland Executive civil service where M2 left off.
+
+Can I just start off my response by acknowledging the hard work and effort that your team have put into ensuring that this module can start as planned in April next year, which of course is something those who I represent are particularly anxious takes place.
+
+We're also conscious of the efforts they have made to ensure the timely provision of disclosure to all core participants, and their recent meetings with us, with the promise of more to come, to support our clients' engagement with the module and discuss ongoing matters before the final hearings, and we are grateful for those efforts, and they bode well for the co-operation that is to follow.
+
+We also acknowledge that in at least two areas the Inquiry has taken into account representations that we have made in previous preliminary hearings, and thus we welcome the instruction of Professors O'Connor and Gray to provide what your counsel has described as the overarching constitutional arrangements which provides for the government of Northern Ireland, as well as an explanation of how the power-sharing structures work in theory and in practice.
+
+Could we just ask that in considering these issues and the arrangements which were made in Northern Ireland for responding to the pandemic, those experts be asked to give some explicit thought to the relationships between Belfast, Westminster and Dublin. It may well be it's inherent in what we have been told, but can we just ask, in case it isn't, that some explicit thought be given to that when they produce their reports.
+
+We note that these reports are expected, I think, by the end of January, and that Professor Gray has been asked to provide evidence setting out the health inequalities that were evident in Northern Ireland at the time of the outbreak of the pandemic, which is a matter your Ladyship knows is of utmost concern to those whom I represent.
+
+Then finally, we are grateful that at least some of the issues we have previously flagged up have been acknowledged in the revised and finalised indicative list of issues, and it is ambitious and we're grateful for that ambition, and we also note that, in spite of its ambition, it explicitly states that it will be kept under review to perhaps be even more ambitious in the future, and no doubt you won't be surprised that we would seek to make representations if they are required.
+
+We welcome your team's update on the wide range of Rule 9 requests that have been made, and particularly those that have been made following representations we have previously made to Robin Swann, Sue Gray and Brandon Lewis in particular.
+
+In relation to the latter, can I draw your attention to the potential for his evidence to fill the gaps in the issue that we have set out in paragraphs 6 and 7 of our written note. My Lady, it will be a theme of my oral representations to you that I'm not going to repeat what is already in front of you in writing simply for the sake of it, in the knowledge that I know that having drawn your attention to it your Ladyship will of course read that note.
+
+However, that said, those that I represent share the Inquiry's concern that, although we don't seek to either, one, minimise the -- I think it's rightly called -- vast amount of work required or, two, the efforts of those involved, or, three, the practical and financial challenges presented by the lack of a functioning government in Northern Ireland, we do share your team's concern as just expressed that the Inquiry's process is not disrupted by Rule 9 requests not being complied with as fully and expeditiously as is obviously required and should be possible.
+
+Ms Dobbin has already stated that the fact that we are the last module in this phase of the Inquiry may of course help by giving us a little extra time, but given the individuals and departments have been on notice of what is required of them in this module for a considerable time, we urge them to provide all outstanding material as a matter of urgency so that there isn't an onslaught, as it were, of outstanding material and disclosure at the 12th hour, precluding the effective and adequate consideration that my clients are yearning for in the absence that I've previously described.
+
+To that end we are grateful for my learned friend's comments that they are closely and your team is closely monitoring the compliance of the provision of witness statements with the questions actually asked and obviously required in the Rule 9 requests.
+
+My Lady, for reasons of brevity only I will not repeat them orally, but I trust you understand, the possibly trenchant comments that we have already set out in paragraphs 9 and 10 of our written note. They are expressed in that way because they really do -- and the Inquiry -- no one must underestimate the concerns of a very large number of those who I represent about the atmosphere that is created by such delay in the context of this Inquiry.
+
+The same can be said in relation to the history and the extent of the data loss that your counsel has outlined to us this afternoon. Our clients have similar concerns about the ongoing difficulties, to put it euphemistically, of what CTI have rightly described in a wide sense as informal means of government messaging and the apparent factory resetting of devices linked to the former First and deputy First Ministers as well as a number of Executive officers.
+
+We note that although CTI's note stated and we've just been told that the consequent report of the investigation by the Executive Office would be ready by November 2023, that date has passed, and it is yet to be disclosed.
+
+I'm not going to go to it in any detail. Our concern is self-evident and set out in writing. But we do repeat our observation that, without pre-judging the content of those investigations, it may well be insufficient or at least insufficiently independent, to assuage the concerns of those that I represent and indeed the wider public as to how and why there was such apparently widespread deletion of material, to do anything other than have an independent report, and we trust that the Inquiry will actively consider whether an independent examination will be required, and that the procedure that's presently ongoing is brought to a close sufficiently far away from the Inquiry not to make such an independent report impractical, and I know I need not have said it.
+
+So we understand that, following the further Rule 9 requests, the Inquiry has started to receive some WhatsApp material and evidence from a number of witnesses as to their use and retention of such material, but we're anxious that any investigation takes place as soon as possible.
+
+I suppose what I'm really saying is whilst we acknowledge the efforts being put into bottoming out this issue, we trust the Inquiry will be equally cognisant of the desire of our clients to have a clear idea of the extent to which such obviously potentially relevant evidence has indeed been lost, and with that in mind I specifically draw your attention to the comments we've set out in paragraphs 12 and 13 of our written note.
+
+The Inquiry will not and ought not to be reticent in reminding any recalcitrant material providers of its considerable powers of enforcement, and in any event we trust that the Inquiry's optimism that complete disclosure of the vast majority of signed statements and relevant material can be made in good time proves to be well-founded, particularly given the imminent Christmas interruptions and the need for the Inquiry to review what it receives before, we quite understand, it can be made available to core participants.
+
+With all that in mind, may I make a suggestion: we wonder whether or not a further preliminary hearing might be appropriate, given the uncertainties on this topic, so that matters can be kept under review in the course of a hearing, and that any developments can be assessed with the most up-to-date information that is then available. But I float that in the light of what your counsel has said.
+
+I move on to my next topic, witnesses.
+
+We note and understand that no final decisions about which witnesses will ultimately be called can be or have yet to be made, and we are grateful for the indication that any observations we may seek to make on this issue can be made hopefully next month.
+
+May we take it, and as I speak it's not altogether clear that we will, but may we take it that we may at this stage also make appropriate representations as to whether any of the expert witnesses who the Inquiry has already heard of as part of Module 2 -- and I'm thinking particularly of Professors Henderson and Hale -- might be asked to give further oral evidence updating the evidence that was received in Module 2 during the M2C hearings.
+
+But, my Lady, that is a matter we flag up at this stage and of course can be revisited as and when it proves to be an issue.
+
+So far as the hearings are concerned, you are already aware of our continuing concerns about the number of days presently available within the listing. Nevertheless, I urge the Inquiry to not use that as a reason to give full consideration to the request we make at paragraph 24 of our written submissions, that for the reasons there set out it would be beneficial for the Inquiry to call more than one witness from the Northern Ireland Covid-19 Bereaved Families for Justice campaign in Module 2C.
+
+This is a matter -- I started my address to you by explaining the sensitivities of this module to those that I represent uniquely within the United Kingdom, and for the reasons I set out we do ask you to consider that topic.
+
+In the meantime, we will continue to work hard alongside your team to be ready to start the module at the end of April next year, and will continue to facilitate such productive meetings which can not only help avoid misunderstandings but also help maximise the efficient use of what will be precious Inquiry hearing time.
+
+You, my Lady, are aware of the stance that those that I represent have taken on the awarding and of contracts for Every Story Matters, they're set out in the written representations, I'm not going to repeat them. I will simply say that, in spite of that, of course, my Lady is aware that we will try to look at the phrasing that's in the written document. In terms of the impact film we are very willing to work with the Inquiry with a view to repeating the successful impact films that have been put in M1 and M2, and our members were involved in those then and will continue to be involved to the extent that they can.
+
+So, my Lady, I said I was going to be half an hour, I'm not, and it really is simply because we've taken a decision that having put such material in writing we're not going to improve on it orally.
+
+Unless there are any further matters that I can assist you with, I would simply conclude by referring you to all the points I haven't orally mentioned, which are set out in the extensive written representations that we've made.
+
+**Lady Hallett**: Thank you very much indeed, Mr Wilcock. As you know by now, I really do appreciate such a constructive and focused approach. I'm very grateful.
+
+**Mr Wilcock**: Thank you.
+
+**Lady Hallett**: If the stenographer will forgive me, Ms Fee -- where are you? That way -- we'll start, I think. How long roughly do you think you'll be, Ms Fee?
+
+**Ms Fee**: Five minutes.
+
+**Lady Hallett**: Oh, certainly.
+
+Submissions on Behalf of the Executive Office Northern Ireland by Ms Fee
+------------------------------------------------------------------------
+
+**Ms Fee**: My Lady, I appear on behalf of the Executive Office of Northern Ireland. I'm instructed by Joan MacElhatton of the Departmental Solicitor's Office in Belfast.
+
+My Lady, the Executive Office is one of the nine departments within the government structure of Northern Ireland as was determined by the Good Friday Agreement. Unlike the Cabinet Office, it has no general central co-ordinating or synthesising role as regards the other eight departments. However, in an effort to assist the Inquiry, the Executive Office welcomes the opportunity to make the following observations which are also made on behalf of four of those other departments who do not have core participant status in Module 2C, and that is the departments for Communities, Justice, Education and Infrastructure.
+
+My Lady, turning firstly to the Rule 9 requests for statements and exhibits, since September 2022 the Executive Office team has been working hard to assist the Inquiry by providing a very large volume of evidence including corporate and individual statements and extensive documentation. The Executive Office received the Rule 9 request for its corporate statement in September 2022 and submitted a first draft by the end of October 2022. There followed 54 questions from the Inquiry legal team in March 2023, which resulted in a significant body of work to respond and incorporate into the statement, which was filed on 2 October 2023. Two questions have been returned from the Inquiry team in relation to the impact of the lack of an Executive prior to the pandemic, and those are currently being addressed and also should be addressed in the forthcoming witness statements.
+
+Also during this period, my Lady, the Executive Office were complying with their obligations as a core participant to Module 1. At the same time, the Executive Office is a core participant at Module 2 and has worked hard to digest both the oral and documentary evidence throughout. The extent of work involved in co-operating with the Inquiry's modules to date has been vast for what is a very small jurisdiction with a proportionately small team. It goes without saying that, absent a government in Northern Ireland since February 2022, the conditions in which the Executive Office and all the other departments are operating in response to this significant Inquiry, most notably the financial conditions, are less than ideal.
+
+In relation to Module 2C, to date, in addition to the corporate statement, the Executive Office is working to respond to the request for a further corporate statement regarding informal messaging and potential data loss and seven further individual statements.
+
+In addition, the Executive Office has, over the last year, provided approximately 25,000 documents to the Inquiry by way of general disclosure and exhibits to statements. The Executive Office would observe that this has been a mammoth task, and in many instances the Rule 9 requests comprise of hundreds of questions which are various and wide-ranging, including the constitutional peculiarities of Northern Ireland.
+
+The Executive Office has worked hard to facilitate witnesses with access to the information and documentation they no longer have, and that process has also been undertaken for both the former First and deputy First Ministers, who are separately represented at this Inquiry.
+
+The departments for Communities, Infrastructure, Justice and Education have provided all discovery and statements within the agreed time periods, and are now working to complete the current Rule 9 requests by 8 January.
+
+Secondly, my Lady, in relation to that informal communication, the Executive Office has received that Rule 9 request for a statement from the head of the civil service of Northern Ireland, and that is in relation to the informal communications and potential data loss.
+
+The head of the civil service had commissioned an internal Northern Irish civil service-wide investigation into the use of and retention or loss of data within informal messaging systems on the part of all former ministers and special advisers from all of the Northern Ireland Government departments. That investigation culminated in a report which has been shared and work is now under way within those departments to retrieve any available data from those devices.
+
+At the same time the Executive Office is working to provide the Inquiry team with all informal messaging and equivalent material in its possession. All Executive Office witnesses have addressed the matter in their witness statements. Senior civil servants from the Executive Office department have provided 172 strands of messages to date. Following a review by the team, a small number of messages have been identified that may be in scope and those will be uploaded in the coming days.
+
+The departments of Education, Justice, Infrastructure and Communities have provided some messages and are continuing that process of uploading their informal communications.
+
+Thirdly, my Lady, in relation to the notebooks and diaries, the Executive Office and the other departments for whom I appear today will provide all available notebooks and diaries to the Inquiry.
+
+In relation to statements, in particular those from the former two ministers from other departments which has been raised to your Ladyship today, the matter will receive urgent action.
+
+Finally, my Lady, in relation to the hearings in April 2024, Modules 1 and 2 have demonstrated the vast nature of the task involved in consideration of discovery, the preparation of witnesses, marshalling statements and exhibits, digesting evidence proposals and participating fully in the hearings. The Executive Office is grateful for the regular meetings they have had with the Inquiry team in furtherance of the preparation for Module 2C and appreciates the patient and collaborative approach they have shown our team, and that has been replicated in my discussions with Ms Dobbin King's Counsel and Mr Scott.
+
+The Executive Office and the other departments for whom I speak today are determined to properly assist your Inquiry and welcome you and your team to Belfast in April.
+
+Unless I can assist you any further, my Lady.
+
+**Lady Hallett**: No, thank you very much indeed, Ms Fee, very grateful.
+
+Anything further from you, Ms Dobbin?
+
+Reply Statement by Lead Counsel to the Inquiry for Module 2C
+------------------------------------------------------------
+
+**Ms Dobbin**: My Lady, if I may, I'm of course very grateful to my learned friends for the care with which they have addressed you, and I'm grateful to my learned friend Mr Wilcock as well for raising some of those issues, which I think will probably be very useful for us to discuss in January, particularly when he has had sight of the expert report that the core participants will be able to comment on, and will be able to judge maybe a bit better any other issues that arise, for example, in respect of Professor Henderson or Professor Hale.
+
+As regards having a further hearing, my Lady, I think we're confident that that will not be necessary. We're confident that we're able to keep a sufficient eye, as it were, on how things are developing. But again, those are matters about which we will be able to develop -- sorry, we'll be able to update core participants on in January as well.
+
+**Lady Hallett**: And if it becomes necessary, then obviously people can alert me.
+
+**Ms Dobbin**: Of course.
+
+My Lady, unless I can assist you any further.
+
+**Lady Hallett**: No, I'm extremely grateful again to anybody, and I really do endorse the collaborative approach and the idea of the meetings, I think it's very much the way forward when you all have such a huge task.
+
+So thank you all very much. That completes this preliminary hearing.
+
+*(3.00 pm)*
+
+*(The hearing concluded)*
+
