@@ -1,0 +1,482 @@
+A transcript of the Module 2B Third Preliminary Hearing on 12 December 2023
+===========================================================================
+
+*(10.00 am)*
+
+**Lady Hallett**: Good morning.
+
+This is the third preliminary hearing for module 2B, key decision-making in Wales, and Mr Tom Poole King's Counsel will now explain to me what issues are outstanding before the hearings in early-ish 2024.
+
+Statement by Lead Counsel to the Inquiry for Module 2B
+------------------------------------------------------
+
+**Mr Poole**: My Lady, as you've said, this is the third preliminary hearing in Module 2B, which relates to the core political and administrative decision-making of the Welsh government in its management of the Covid-19 pandemic.
+
+I don't propose to reintroduce the core participants or their legal representatives. There remain nine core participants in Module 2B, and all are legally represented. We've received four sets of written submissions for today's hearing, and I believe that you'll be hearing from three separate legal representatives later this morning.
+
+We are, of course, extremely grateful to all of the core participants for having provided us with their observations and insights, and also for the brevity with which they have done so. Whilst I do not propose to address all of the points which they have raised, I hope during the course of my submissions this morning to address those which appear to us to be of the greatest significance.
+
+My Lady, may I start with the list of issues for consideration in Module 2B.
+
+In August last year, the Inquiry published its provisional outline of scope for Module 2B, alongside similar scopes for the associated Modules 2, 2A and 2C. Since then, your legal team has been conducting an investigation within the remit of those published documents. You directed at the last preliminary hearing that the Inquiry circulate a more detailed list of issues to core participants. That list was sent on 12 May and we received insightful and constructive comments from all of the core participants, for which we are very grateful.
+
+Following consideration by your Ladyship and the Module 2B team, a revised list of issues was provided to core participants alongside the CTI note on 30 October.
+
+The list of issues attempts to frame with clarity the matters which will ultimately be addressed in your report into the matters covered by Module 2B. As was intimated at the last preliminary hearing, the Inquiry has sought to co-ordinate the scopes of each part of Module 2 so as to ensure fairness and consistency among the four nations of the United Kingdom.
+
+As was predicted, our investigations have inevitably shown that the broad issues identified in the scopes differ somewhat as between the four nations. The timeline in Module 2B thus differs from that in Modules 2, 2A and 2C. The issues to be examined are inevitably different, due to the different structures involved in decision-making in Wales, the different trajectory of the pandemic in Wales, devolution considerations, and Wales' different advisory arrangements and legislative and enforcement mechanisms.
+
+The objective throughout has been to achieve consistency across Module 2, 2A, 2B and 2C to the extent that the facts will bear, but also to acknowledge that these differences must be respected.
+
+A question has been posed by one of the core participants as to whether the list of issues will be kept under review. I want to assure all core participants that the list of issues is not closed. Our understanding of the scope increases on a daily basis, and so the possibility that further important issues will be identified remains open. However, for practical purposes, the list needs to be given some element of finality, and with that caveat our list is now, in our view, in such a form.
+
+Lastly on the list of issues, one core participant has advanced submissions concerning the extent to which Module 2B will cover the care sector. Of course there will be exploration through the high level political decision-makers of the broad reasons why care-related decisions were taken as they were, but the detailed examination of the merits of that process and the operational impact of such decisions is outside the scope of this module, and your Ladyship this morning has opened a separate investigation into the care sector across the UK.
+
+My Lady, may I then turn to the issue of Rule 9 requests which have been issued by the Inquiry.
+
+Can I start by saying that a huge amount of work has been done since we last met and at very considerable pace. The Inquiry has worked extremely hard to ensure that it and the core participants can be ready for the public hearings scheduled in February and March next year under this most demanding of timetables. Tens of thousands of documents and exhibits have been received from material providers so far, although not all of them, of course, are relevant and disclosable.
+
+My Lady, may I commend the legal team in Module 2B for their diligence and hard work in scoping, drafting and issuing so many Rule 9s and in dealing with the array of documentation that has been received.
+
+As of this morning the Module 2B team have issued more than 274 formal requests for evidence under Rule 9, some in conjunction with Modules 2, 2A and 2C, but the vast majority in Module 2B alone.
+
+To give a sense of the breadth and width of your Inquiry's reach, Rule 9 requests have been sent to numerous Welsh Government directorates, the Office of the Secretary of State for Wales, and other public bodies in Wales, including local health boards, which played a role in or have a relevant perspective to share on the core decisions taken by the Welsh Government in its response to the pandemic in Wales.
+
+We've also sent detailed Rule 9 requests to a large number of Welsh ministers and key advisers during the pandemic, including the First Minister, Mark Drakeford, the former Minister for Health and Social Services, Vaughan Gething, the Chief Medical Officer for Wales, Sir Frank Atherton, and the Welsh Chief Scientific Adviser for Health, Dr Rob Orford.
+
+A further 82 Rule 9 requests have been made jointly with other Inquiry modules, and 40 Rule 9 questionnaires have been issued to members of the Welsh Technical Advisory Group and its related subgroups.
+
+The joint requests that have been made include a very significant number of impact questionnaires that have been sent to bodies and organisations representing individuals who might be considered to have a greater risk or vulnerability. My Lady, that includes groups including the bereaved, women, children and young people, ethnic groups, those suffering from health inequalities, including Long Covid and mental health issues, members of the LGBTQI+ community, workers' groups and health professionals.
+
+The issue of inequalities, since this has been raised by the core participants, has been included in practically every Rule 9 request issued by Module 2B, including those in core decision-making in Wales and their advisers.
+
+My Lady, the number of Rule 9 requests, and the wide range of organisations, entities and people who have received such requests, although highlighting the scale of your task, provides ample reassurance that we have cast our investigative net sufficiently widely.
+
+In addition, we have accepted additional suggestions from core participants as to who should receive Rule 9 requests and we've carefully considered each of these and acted upon those suggestions when appropriate. In fact, in their submissions for this morning's preliminary hearing, the disabled people's organisations have suggested two further Rule 9 recipients, both of whom the Inquiry has now issued Rule 9 requests to.
+
+We are also considering the helpful suggestions received from Covid-19 Bereaved Families for Justice Cymru, and will take those forward if we consider it necessary.
+
+It goes without saying that we are very grateful to all those who have engaged with the requests and who have provided statements.
+
+Before leaving Rule 9 requests, there are two aspects of the Rule 9 process that have unfortunately caused some problems. First, a number of draft statements have either contained insufficient detail or did not address all of the matters raised in the Rule 9 request, so the Inquiry has asked a number of witnesses to expand upon the matters raised in their draft statements. The work required to consider those draft statements and to send requests back for further detail has an obvious impact upon the workload of the Inquiry and upon the process of disclosure. However, we do not consider that overall the timetable will be significantly impacted, and we are confident that the final signed statements and exhibits will be disclosed for them to be reviewed by core participants in good time, ahead of the public hearings next year.
+
+Second, in respect of a number of entities and individuals, there has been a failure to respond sufficiently quickly to the Rule 9 requests, necessitating repeated extensions to deadlines. We are on top of the issue and it is expected that all finalised statements, exhibits and disclosure will be provided by the end of this month.
+
+I wish to emphasise, however, the absolute need to comply with these final deadlines, given the diminishing time before the substantive hearings. Further requests for extensions are unlikely to be granted.
+
+My Lady, may I next turn to the Welsh Government.
+
+Unsurprisingly, given the scope of this module, a significant proportion of Rule 9 requests have been made to the Welsh Government, its directorates and individuals who played key roles in its response to the pandemic. In most cases the requests that have been made have required considerable work to be completed within demanding timescales, and I would like to acknowledge that the Welsh Government and their legal team have worked very hard to respond to the requests, and we are very grateful to them for that co-operation.
+
+There have been some delays and extensions have been sought, some with good reason. The Inquiry recognises that there has been a significant volume of materials sought from the Welsh Government. This, however, has to be balanced against the fact this is an Inquiry into Welsh Government core decision-making during the pandemic. Those core participants that have expressed concerns with the disclosure from the Welsh Government can rest assured that we have been working with their team and all outstanding disclosure was largely provided by the end of November, subject to additional Rule 9s which have recently been sent.
+
+My Lady, I would like to draw attention to two specific matters. The first concerns informal messaging, namely WhatsApps and texts; the second, notebooks.
+
+You will be aware, my Lady, that the issue and content of informal communications, in particular WhatsApp and text messages, has become a prominent part of the Inquiry's investigations into core decision-making by the UK Government in Module 2. Those conducting this module's investigations have thus been aware for some time of the need to investigate the use of such informal messages by those involved in the Welsh Government response to the pandemic. We are very aware that messages sent by informal methods of communication between key decision-makers and their advisers, discussing information, advice and the management of the pandemic in Wales, can provide important information about and context to decisions and issues which are to be addressed in this module. We therefore welcome the submissions made by counsel to the Welsh Government at the Module 2 preliminary hearing in June this year when it was said that the Welsh Government intends to fulfil all such requests made of it by this Inquiry for WhatsApp messages, diaries and the like without any prior redaction.
+
+As a result of the significance of informal messaging in the way that the government business was conducted in Westminster, in our first Rule 9 to the Welsh Government in October last year we asked the Welsh Government to explain whether there were WhatsApp groups, group chats, that key decision-makers used to communicate about decisions or to make decisions. The Welsh Government was also put on notice that the Inquiry may request disclosure of emails, WhatsApps and texts through the course of its investigation. Similar requests and notifications were also made to other significant Welsh public bodies, including Public Health Wales and local health boards.
+
+As I have already set out, extensive individual Rule 9 requests were also compiled for individuals who worked within the Welsh Government operation, including senior scientific and medical advisers. For the avoidance of doubt, we sought not only messages in which decisions were communicated, but also messages in which matters relating to government decision-making were raised, in order that a full assessment of the basis upon which such decisions were arrived at could be undertaken.
+
+Some of the witness statements that we have received from key decision-makers within the Welsh Government suggest that informal communications such as WhatsApp messages were used to discuss matters around the progress of the pandemic in Wales. Following discussions with the Welsh Government, the Module 2B team received its first set of WhatsApp messages in early October this year, and as of today the Inquiry has received 21 transcripts of WhatsApp group chats and 163 transcripts of individual WhatsApp or text message conversations during the pandemic, provided by a number of different individuals within the Welsh Government, including the First Minister.
+
+These transcripts have been reviewed and a large proportion of them are currently at the material provider review stage with the Welsh Government, following which they will be made available to core participants.
+
+The Module 2B team has also issued a further Rule 9 request to the Welsh Government for a corporate statement on the use of informal messages, as well as individuals within the Welsh Government, asking for the provision of further information and an explanation where WhatsApps and texts exchanged during the pandemic do not appear to have been provided to the Inquiry or retained. A response to that request was received on Friday last week and is being reviewed.
+
+The Inquiry is also receiving responses from individuals on a rolling basis, which will be made available for core participants once they have been through the material provider review process.
+
+Finally on the issue of informal messaging, I would like to add that the Inquiry intends to keep an open mind as to the significance of the responses and not rush to the conclusion that these messages provide the key to understanding the processes of Welsh Government decision-making during the pandemic. We will not rush to conclusions, but reach them on the basis of the evidence that the Inquiry uncovers.
+
+As regards notebooks, the Welsh Government has provided us with access to over 100 contemporaneous notebooks from individuals within the Welsh Government, including ministers. The Module 2B team have been undertaking physical reviews of those notebooks to determine relevance and the Welsh Government has confirmed that no further notebooks are available for review. A full review of the notebooks is presently under way by the Inquiry and a tranche has already been disclosed to core participants. Further tranches will continue to be provided on a rolling basis when available.
+
+If I can move next to an issue regarding data loss, which has been raised by one of the core participants.
+
+On 2 August this year, we received notification from Digital Health and Care Wales of a potential data loss issue in relation to the Microsoft 365 email service which could impact all health boards, trusts, special health authorities and primary care organisations in NHS Wales. My Lady, you will not be surprised to hear that we took this issue seriously and made immediate enquiries with material providers that might have been affected.
+
+We understand that from all of the Rule 9 requests made in this module, only one individual has been impacted by the data loss issue and the position is explained in their witness statement.
+
+Turning then, my Lady, to the issue of the general state of disclosure of documents to core participants.
+
+As of this morning, Module 2B has received 30,838 documents in total, including 58 questionnaire responses from impact organisations, 32 questionnaire responses from members of TAG and TAC, and 148 Rule 9 statements. To date we have disclosed 12,396 documents in total to core participants, including 67 Rule 9 statements and supporting documents which include some Module 2 statements relevant to our module, 48 questionnaire responses from impact organisations including those jointly instructed with Modules 2, 2A and 2C, and 32 questionnaire responses from members of TAG and TAC.
+
+We will continue to make disclosure to core participants on a regular basis and hope to shortly disclose witness statements and exhibits from various Welsh ministers. The Inquiry expects to have received all draft witness statements in sufficient time to enable disclosure of the vast majority of signed statements by the end of this month.
+
+The Welsh Government has been providing documents to the Inquiry on a rolling basis, and subject to a few Rule 9s which have been issued recently, has confirmed that it has provided all general disclosure in response to Rule 9 requests made of it over the last 12 months. As a result, whilst some 12,396 documents have been disclosed across 42 tranches of material, Module 2B still has a significant volume of documents left to review, assess for relevance, and work through before they can be disclosed to core participants.
+
+The Module 2B legal team is working swiftly to review materials which have been disclosed to it, and I'm very grateful to the material providers who are assisting with this important process and doing so at pace. There remains much to be done, and materials will continue to be made available to core participants as quickly as possible.
+
+I propose to say something next about cross-modular disclosure.
+
+The Inquiry is aware that some evidence received by Module 2 and some oral evidence provided at the Module 2 public hearings is likely to be relevant to Module 2B. In order to ensure that core participants have access to Module 2 material that is relevant to Module 2B, the Inquiry is conducting a cross-modular review to identify such relevant material. As a number of our core participants have been core participants, and hence involved in the work of the prior modules of the Inquiry, they will have had access to this material already, and indeed may be well placed to assist with drawing our attention to documents which they think autumn to form part of Module 2B evidence proposals in due course.
+
+The Inquiry intends to disclose any material considered relevant to Module 2B to core participants, and indeed has already started to do so. This will include witness statements, exhibits and aspects of general disclosure that has been received by Module 2. We will, however, be limiting the disclosure of material to those documents that are strictly relevant, ie where a witness statement discusses issues relevant to Module 2B it will be disclosed to core participants. It follows that not all of the exhibits, however, to such witness statements will be disclosed in Module 2B. They will only be disclosed if those exhibits are considered relevant to this module.
+
+My Lady, the next issue on the agenda concerns preparations for the public hearings in February and March next year.
+
+My Lady, may I start by addressing you briefly on the issue of timing, because I want to say something about the very considerable progress that the Inquiry has already made, and about the timing of the public hearings next year.
+
+We have proceeded at a remarkable pace. No Inquiry with so wide a scope has ever proceeded with such speed. Having said that, the Inquiry process is simply not designed to assemble every single document and person relevant to the preparation for, response to, or the impact of the Covid pandemic. That would be an impossible task, and no sensible Inquiry could ever contemplate it. What we've done is to seek the witnesses and documents that you have considered are most relevant to the issues that you've decided you want to explore. This is especially so in Module 2B, and the associated Modules 2, 2A and 2C, because they are concerned with high-level political and administrative decision-making. We are not enquiring into every aspect of every decision on Covid made by the Welsh Government. It is an inquiry into only such parts of the decision-making process that appear to you to really matter.
+
+But even then, my Lady, I need to put the core participants on notice that it is impossible to call every witness who can give evidence of every issue covered in every paragraph of the list of issues. We have neither the time nor the resources, and I daresay the core participants and the general public would not wish it to be so.
+
+So choices will have to be made as to which witnesses will be called at the public hearings, but, my Lady, there can be no doubt by the time of those hearings sufficient material will have been secured and disclosed to core participants to enable you to be satisfied you can conduct an absolutely full and fair Inquiry.
+
+As to hearing preparation, as previously announced, the hearings in Module 2B are scheduled to be held at the Mercure Cardiff North Hotel, starting on 27 February next year and concluding on 14 March. As regards the venue, work is under way to address the issues of access raised by some of the core participants, such as a daily shuttle service from the centre of Cardiff to the venue.
+
+As to the hearings themselves, ahead of the hearings Module 2B intends to share key documents which it has prepared with core participants. It is likely that this will include a chronology of key decisions and events, details of the structures involved in Welsh Government decision-making, and the identity of key individuals involved in such decision-making.
+
+The intention of these will be that they will cover some of the uncontroversial background allowing the hearings themselves to focus on the key controversies and issues. It is also intended that key aspects of the agreed uncontroversial background will be set out in my opening statement at the start of the public hearings.
+
+In addition, core participants will be invited to engage in the hearing preparation process which has been adopted by the Inquiry in Module 2. This will involve evidence proposals being produced and core participants being permitted to propose important documents and suggest potential lines of questioning for witnesses in connection with those evidence proposals, which will be sent to them in advance of the hearings.
+
+The intention in our module is to try to follow a regimented process, whereby a draft evidence proposal for a witness is circulated to core participants a certain period before a witness is due to give evidence, with clear indicators as to the date by which a response is expected.
+
+The same will apply to applications to contribute to questions to be asked by Counsel to the Inquiry or applications to ask questions, the opportunity for both being invited simultaneously.
+
+Thus the timescales for each witness in which a particular core participant might be interested will be clearly prescribed from the start, hopefully increasing certainty and providing a reasonable opportunity to contribute to the hearing preparation process.
+
+Precise details and timings of what we intend in this regard will continue to be provided to core participants either as necessary or in monthly update notes issued in due course.
+
+I turn next to expert witnesses.
+
+As set out in the previously monthly update notes, Module 2B, in conjunction with Modules 2, 2A and 2C, has issued instructions to the following experts who have agreed to provide evidence to the Inquiry on matters relating to Wales which will be covered by this module:
+
+Professor Thomas Hale, from the Blavatnik School of Government University of Oxford, has reported on international data relating to the Covid-19 pandemic, in particular in analysing the effectiveness of the decision-making of the UK and each of the devolved administrations to the pandemic in comparison to other countries. This report has been disclosed to core participants in final form and was presented at Module 2's public hearing on 11 October.
+
+Professor Ailsa Henderson, from the University of Edinburgh, has reported on the political structures for devolution within the UK and mechanisms for intergovernmental decision-making between the UK Government and the devolved administrations during the Covid-19 pandemic. This report has been disclosed to core participants in final form and was presented at Module 2's public hearing on 9 October.
+
+An expert report relating to political decision-making in the management of the pandemic in Wales has also been commissioned by Module 2B from Professor Daniel Wincott, professor of law and society in the School of Law and Politics at Cardiff University. This report is currently in draft form and has been circulated to core participants for their comments following a similar process to the finalisation of other expert reports which have been commissioned by the Inquiry.
+
+The Inquiry appreciates that we have set a tight deadline for core participants to provide their comments on Professor Wincott's draft report. We are grateful for their understanding and continued engagement.
+
+Expert reports of indirect relevance to the matters for consideration in Module 2B were also commissioned from Alex Thomas and Gavin Freeguard.
+
+Alex Thomas, from the Institute for Government, has been instructed to report on the decision-making structures of the UK Government in an emergency, in particular the Cabinet Office, Cabinet committees and the office of the Prime Minister. And Gavin Freeguard, former programme director and head of data and transparency at the Institute for Government, has been instructed to report on the access to and the use of data by the UK Government during the Covid-19 pandemic.
+
+Reports from these two experts have been disclosed to core participants in final form: Gavin Freeguard's report presented at the Module 2 public hearing on 10 October, and Alex Thomas' report on 13 October.
+
+One core participant has queried whether the issue of data sharing covered by Gavin Freeguard in respect of the UK Government will be covered by another expert in respect of Wales. As previously explained in our monthly update notes, the Inquiry has unfortunately been unable to identify an independent expert who can address data governance issues in Wales. We have there are issued Rule 9 requests to individuals involved with data governance within Wales so as to gather relevant evidence in this regard. This approach has also been adopted in Modules 2A and 2C.
+
+In your Ladyship's ruling of 9 March, your Ladyship directed that the Inquiry should obtain evidence from an expert or experts on the nature and degree of pre-pandemic structural racism. This ruling also makes clear that expert evidence should be obtained regarding pre-existing structural discrimination on other grounds.
+
+The following experts have been instructed, including in relation to matters within the Module 2B scope relating to Wales. Evidence from these experts has been adduced and led in Module 2:
+
+Professor James Nazroo, professor of sociology at the University of Manchester and deputy director of the ESRC Centre on the Dynamics and Ethnicity, and Professor Laia Bécares, professor of social science and health at King's College London, have produced a report on pre-pandemic inequalities by race and ageing, including expertise on the role of structural racism. This report has been disclosed to core participants in final form and was presented at the Module 2 public hearings on 5 October.
+
+Professor James Nazroo is also contributing expertise on later life, this report having been disclosed to core participants in final form. Both of Professor Nazroo's reports were presented at Module 2's public hearing on 5 October.
+
+Professor Thomas Shakespeare, professor of disability research at the London School of Hygiene and Tropical Medicine, and Professor Nicholas Watson, associate professor of the School of Health and Wellbeing at the University of Glasgow, are contributing expertise on pre-pandemic inequalities associated with disabilities. This report has been disclosed to core participants in final form and was presented at the Module 2 public hearing on 9 October.
+
+Professor Laia Bécares is also providing expertise on pre-pandemic inequalities for members of the LGBTQI+ community. This report's been disclosed in final form to core participants and was presented at the Module 2 public hearing on 9 October.
+
+Dr Clare Wenham, associate professor of global health policy at the London School of Economics and Political Science, is providing expertise on pre-pandemic gender inequalities. This report has been disclosed to core participants in final form and was presented at the Module 2 public hearing on 6 October.
+
+Professor David Taylor-Robinson, professor of public health and policy at the University of Liverpool, is providing expertise on pre-pandemic childhood inequalities. This report has been disclosed to core participants in final form and was presented at the Module 2 public hearing on 6 October.
+
+A further expert report has been disclosed to core participants prepared by Professor Chris Brightling, professor of respiratory medicine at the University of Leicester and chair of the NIHR Respiratory Translational Research Collaboration, and Dr Rachael Evans in relation to Long Covid. This was presented at the Module 2 public hearing on 13 October.
+
+The current provisional intention of Module 2B is that it will not lead further evidence from the experts who have spoken about matters of general relevance across the UK, such as Professor Brightling and Dr Evans, or whose reports have specifically covered Module 2B in their remit, including Professor Henderson and Professor Hale and the inequalities experts, whose written and oral evidence already covers Welsh considerations.
+
+The evidence which they have provided to the Inquiry remains available for consideration at the Module 2B hearings, and/or in the final report on Module 2B matters. Issues arising from their evidence about governmental (including intergovernmental) structures, NPIs and structural inequality and, by extension, inequality in political decision-making and outcomes, have been and will be canvassed at the Module 2B hearings with other witnesses. It is also likely that I will cover key aspects of this evidence in my opening statement at the hearings in February.
+
+Finally on the issue of experts, one of the core participants has asked that experts' letters of instructions be disclosed. My Lady, in my submission, providing the letters of instruction now is neither necessary nor sufficient. Firstly, it is not necessary to have such disclosure now because the core participants will have time to receive and consider the expert reports themselves. Secondly, the provision is not sufficient because the letters of instruction provide only the framework for an expert report and can say nothing of course about the expert's opinion. The core participants need the reports themselves in order to be able to understand what is being opined upon, and that is what we are providing.
+
+My Lady, the final issue on the agenda this morning concerns Every Story Matters and impact films.
+
+Every Story Matters was formally launched on 13 June this year. The experiences and stories shared are helping the Inquiry to build a comprehensive picture of how the pandemic affected people's lives across the UK, including in Wales. An updated web form was made available in late May and to date thousands of responses have been submitted. The public information campaign to make people aware of Every Story Matters has been running on radio, billboards, in the press and digital advertising. The Inquiry has been working with charities and other organisations to promote Every Story Matters to seldom heard voices.
+
+Campaign activity aimed at raising awareness of Every Story Matters will take place in Wales from 22 February next year and will run until the end of the Module 2B hearings. A community listening event held by members of the Inquiry team took place in Wrexham in mid-November with another in Ruthin, enabling the people of North Wales to meet the team and find out in person how they can share their story.
+
+An impact film will be shown on the first day of the public hearings for module 2B to set the tone for subsequent proceedings, grounding them in the lived experience of individuals living in Wales who suffered and continue to suffer hardship and loss as a result of the pandemic.
+
+The video will be played publicly at the substantive hearings of this module in February next year.
+
+My Lady, I hope what I've said brings those with an interest in Module 2B up to speed with the progress which has been made since the last preliminary hearing, and sets out a roadmap as to how we intend to progress matters going forward, up to the point of our public hearings in Wales next year.
+
+May I again on behalf of the 2B team offer our thanks for the helpful contributions made by the core participants to this hearing and the continued contribution of core participants and other material providers to the work of this module. It is very much appreciated. It is also necessary.
+
+May I finally pay tribute to the legal team with whom I am working. The Welsh public can rest assured that they can doing all they can to deliver these hearings to the very best of their ability and with the fullest and deepest investigation into the management of the pandemic in Wales that we can achieve.
+
+My Lady, that concludes my opening submissions in relation to the important matters raised in written submissions and in relation to the practicalities of this module.
+
+May I lastly just seek permission to publish the core participants' submissions and the CTI note.
+
+And I understand you are going to hear first from Ms Heaven, on behalf of the Covid-19 Bereaved Families for Justice Cymru.
+
+**Lady Hallett**: Thank you very much, Mr Poole, and I give permission for the publication of the submissions and the note.
+
+Ms Heaven.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice Cymru by Ms Heaven
+----------------------------------------------------------------------------------
+
+**Ms Heaven**: Good morning, my Lady, thank you.
+
+As you know, I represent the Covid-19 Bereaved Families for Justice Cymru, and it will come as no surprise to the Inquiry that the majority of my submissions this morning will relate to the linked issues of delayed disclosure and what appears to be the deletion or loss by the Welsh Government of highly relevant communications between members of the Welsh Government and its advisers, including but not necessarily limited to WhatsApp message. Time permitting, I'll briefly touch upon a number of other issues. But can I start by saying that these submissions do not in any way call into question the efforts the Inquiry has made and is continuing to make on behalf of the Welsh bereaved.
+
+Now, the first issue, as I've indicated, relates to delayed disclosure by the Welsh Government in relation to this Inquiry in Module 2B, and as my Lady knows this hearing was scheduled to take place on 16 November. CTI's written update for this hearing was prepared now some six weeks ago, on 30 October 2023, and it's important to note that at that stage, so in other words at the end of October, core participants were being told that the Welsh Government had delayed in the provision of certain responses to your Rule 9 requests, and that your CTI's level of concern was such that core participants were being told that this delayed disclosure has the potential to disrupt the Inquiry's process notice they are quickly resolved.
+
+Now, we learn today from your Counsel to the Inquiry, Mr Poole KC, that certain draft statements contained insufficient detail or did not address all the matters raised in the Rule 9 requests, and that there were failures to respond sufficiently quickly, necessitating repeated requests for extension of deadlines.
+
+Covid-19 Bereaved Families for Justice Cymru are extremely disappointed to learn today that some of the delays and extensions relate to the Welsh Government.
+
+Now, it is important to note that the Welsh Government in their written response to your Counsel to the Inquiry's note of 30 October was unfortunately not in any way apologetic for these delays, but apparently -- certainly at least from the perspective of the Welsh bereaved -- it seemed to be rather defensive, pointing out what had been disclosed rather than being clear on what had not been disclosed.
+
+Certainly, in that response, there appeared to be in acknowledgement by the Welsh Government of the impact of delayed disclosure on the ability of core participants to effectively participate in this Inquiry. We are now some six weeks ahead of that CTI note of the end of October, and some 11 weeks before the commencement of Module 2C, and core participants still do not have anywhere near full disclosure from the Welsh Government.
+
+My Lady, of course those whom I represent fully understand that your Inquiry has very important processes that must be adhered to before you can disclose any material. So, to be clear, core participants still do not have Module 2B witness statements from many significant witnesses, to name a few: First Minister for Wales, Mark Drakeford, Vaughan Gething, and Eluned Morgan. So the bereaved non-state core participants are facing a situation in Module 2B not dissimilar to that faced in Module 1 where the Welsh Government also delayed in providing certain key disclosure right up until the last minute, which delayed onwards disclosure to core participants by the Inquiry.
+
+Now, the Welsh bereaved are understandably asking: how could this have happened? Because as you know, my Lady, in the early days of this Inquiry, the Cymru group, the UK Government, the Senedd and this Inquiry received repeated assurances from the First Minister for Wales, Mark Drakeford, and the Welsh Government that they were committed to fully engaging with this Inquiry, and these assurances were repeated after Module 1. And I do just want to repeat again what Mr Drakeford said to the Right Honourable Boris Johnson MP when he was Prime Minister, when he announced the Inquiry. So Mr Drakeford said the following:
+
+"... I would invite you to agree that all public bodies engaging with the Inquiry are expected to consider themselves under a duty of candour. That duty should drive their culture of engagement with the Inquiry and should lead to prompt and comprehensive disclosure of all relevant material to the Inquiry. A duty of candour should also guide the way the public body witnesses should approach the Inquiry."
+
+So the Covid-19 Bereaved Families for Justice Cymru ask the Welsh Government to explain: where is this prompt disclosure that they promised way back in November 2021?
+
+With that in mind, can I now turn to the issue of non-disclosure and deletion or loss of other forms of informal communication, including but not necessarily limited to WhatsApp messages.
+
+Now, as we know, with a few notable exceptions, significant volumes of WhatsApp messages were retained and disclosed to this Inquiry by the UK Government in Module 2. These contemporaneous notes and messages between civil servants, special advisers, scientists and politicians have played a key role in illuminating how and why political and administrative decisions were made by the UK Government.
+
+It was therefore very surprising, and indeed concerning, to learn from your Counsel to the Inquiry's update note of 30 October that only very limited WhatsApp messages and text messages had been disclosed to the Inquiry by the Welsh Government as at that date, and that several individual witnesses within the Welsh Government had apparently deleted or simply lost WhatsApp messages from the relevant period.
+
+My Lady, can I start by making a request for a bit more clarity from the Inquiry as to what exactly the Inquiry have requested the Welsh Government and their advisers and whether the request for disclosure extends to all forms of informal communications to include not just WhatsApp but other platforms such as Signal, Telegram, Discord, MS Teams chat, iMessage, Facebook Messenger. This appears to have been the case in respect of requests to the Scottish Government, which were outlined by your Counsel to the Inquiry in the recent Module 2A preliminary hearing, and we're assuming that the same rigorous approach has been adopted in relation to Wales.
+
+I now turn to the Welsh Government's written response to this Inquiry on the WhatsApp non-disclosure issue, this is the written response of 16 November. Now, the Welsh Government in their defence state that searching for WhatsApp text material is, in their words, time consuming, demanding of resources and technically problematic, and the word "complex" is also used.
+
+My Lady, the Covid-19 Bereaved Families for Justice Cymru were staggered by this response. The Welsh Government have had more than sufficient time to find, preserve and disclose these informal communications in a timely fashion. The Inquiry needs no reminding of the timelines, but the key dates are placed on record for the avoidance of any doubt. Counsel to the Inquiry's October update noted that the Welsh Government committed to providing WhatsApps and related material in June 2023. However, in fairness to the Inquiry, the expectation that this material would be disclosable arose much earlier, and as you well know, my Lady, on 20 January 2022 you wrote a letter to the Director General of Propriety and Ethics at the Cabinet Office on record retention, and you clearly stated that:
+
+"I would ask that each department and Devolved Administration takes steps to ensure that the same approach to record retention is communicated throughout all relevant bodies, including arm's-length bodies and any other bodies exercising public functions. Namely that they ensure that a full and clear record of their part in events exists, is accessible, and that they apply a precautionary principle by retaining all material that could be relevant -- including emails, text or WhatsApp messages and other communications."
+
+The response you received from the Director General in February 2022 indicated that he'd written to all permanent secretaries in June 2021 about preservation of material and that they were written to again, including the devolved administrations, in February 2022, with assurances being given to you that "well-established records management processes are in place across government".
+
+The public were told in an Inquiry update note for Module 2B that -- in October 2022 -- a corporate statement had been requested from the Welsh Government, and we note today that your CTI, Mr Poole KC, has confirmed that it was in this request that went to the Welsh Government that the request was made for informal messaging. So that's October 2022.
+
+So in short, the Welsh Government have been on notice for over two years, and probably longer, that they needed to retain, seize and disclose all informal messaging to the Inquiry. The Welsh Government have been in receipt of a formal request for disclosure of this material for 14 months. It therefore is extremely surprising and disappointing that the Inquiry has only very recently, a matter of weeks ago, received this disclosure.
+
+There is an obvious point to make here, and I appreciate it's been made a number of times on behalf of my client, but it's an important one, but it was Mr Drakeford himself, when refusing to hold a Welsh public inquiry, who insisted that the Welsh Government be scrutinised alongside the UK Government. Now the UK Government has disclosed significant volumes of WhatsApp communications, and so the Covid-19 Bereaved Families for Justice Cymru query: if the Welsh Government want parity of scrutiny, why have they not made similar disclosure in a timely manner?
+
+To be clear, as at today's date, the core participants in Module 2B have not received a single WhatsApp from the Welsh Government.
+
+I now turn to the deletion or the loss of relevant material by members of the Welsh Government, in relation to informal messaging.
+
+Now, the First Minister for Wales, Mark Drakeford, said at First Minister's questions on 7 November 2023 on this issue that:
+
+"... as soon as we knew that the Inquiry wanted something, there's no deletion beyond that point. However, during the COVID period itself, many colleagues working for the Welsh Government will have had devices with deletion instructions already on them, and those things may have remained on their phones, because at the point nobody, I think -- absolutely nobody -- was focused on whether those messages might be required at some future distant point."
+
+The Covid-19 Bereaved Families for Justice Cymru are appalled that the Welsh Government has indefensibly allowed a situation in which relevant communications were either lost or deleted. They question whether it can be the case that nobody focused on the preservation of messages during the pandemic. Well, before the pandemic, it would have been obvious, indeed a requirement, that informal messaging touching upon matters of government ought to be preserved and there had to be a policy on the retention of government records in the Welsh Government. The Freedom of Information Act 2000 Code of Practice makes it clear that public bodies should make destruction decisions in accordance with an up-to-date policy using a method or process that is applied consistently and has been approved by the authority.
+
+Public bodies must retain information if they are to need it where there may be a public inquiry and policies must be flexible enough to foresee this.
+
+The Covid-19 Bereaved Families for Justice hope and anticipate that the Inquiry will be scrutinising how, why and when messages came to be deleted or lost by the Welsh Government and its advisers, and the policies under which individuals claim they were operating, including the justification for the deletion, as we know is the case with the Scottish Government.
+
+We ask the Inquiry to obtain and disclose all correspondence within the Welsh Government, including from Mr Drakeford, touching upon the non-destruction of material on phones, and we also ask the Inquiry to ascertain whether instructions were in fact given within the Welsh Government at any stage prior to or during the pandemic on the preservation of documents and whether there was any official or unofficial policy in the Welsh Government of deleting WhatsApps, or other messages, at any stage, including the use of the auto-delete function.
+
+We note the evidence of Clare Jenkins, a Welsh Government special adviser during the pandemic, who makes what may be considered to be a surprising comment at paragraph 22 of her witness statement, namely that she sent texts and WhatsApp communications for government business on her private phone, but that "these messages were regularly deleted at this time", but in any event she thinks that they wouldn't assist the Inquiry.
+
+We also note from the very recently disclosed statement of the senior special adviser Jane Runeckles, at paragraphs 79 to 80, that iMessage was set to delete every 30 days and that that 7-day disappearing messages was used for WhatsApp messages for the majority of the groups from when that function became available. In this statement, Ms Runeckles tells us that she is in possession of WhatsApp messages but that these will be made available to the Inquiry. We query why were these messages simply not appended to the statement when it was disclosed?
+
+If the Welsh Government have actively as a cohort consciously switched to using the disappearing messages function when it became available, which we know is November 2020, this would suggest that, certainly at this stage, the Welsh Government knowingly adopted a policy or a system designed to delete government communications when it would have been obvious to them that such material ought to be preserved.
+
+My Lady, you no doubt will be an expert on the working of the platforms of WhatsApp and the like, but just to be clear, that 7-day disappearing function didn't become available, as I said, until November 2020, and even then this function on WhatsApp would not delete all chat messages for every participant in the group, but only the individual using that function. And in the absence of deleting messages function, at the time of the pandemic there was only a one-hour window in which messages could be deleted, and again such deletion would not remove the message from all participants unless everyone in the chat pressed "Delete for everyone" for every message in the chat.
+
+The Covid-19 Bereaved Families for Justice would then just like to ask for a further update from the Inquiry setting out the Welsh Government explanation as to what happened to this material.
+
+Can we also ask for an update in relation to the status of material such as informal messaging from Public Health Wales as well.
+
+I now turn to a different aspect of apparent poor practice in relation to data preservation in Wales, and that's the retention of emails that we've just heard about from Mr Poole KC.
+
+Now, we note the reassurance that has been given by him today, but the group remain particularly concerned that deletions might still impact on the ability of the Inquiry and CPs to put relevant matters to witnesses, so we do ask for a bit more information on this topic so that the bereaved families can be satisfied that this issue is no longer of relevance to the Inquiry and will no longer impact on the Inquiry.
+
+So I now turn to some other matters.
+
+As my Lady knows, one of the issues of concern to the Covid-19 Bereaved Families for Justice Cymru is that Module 2B and later modules scrutinise the impact of decision-making on the older population of Wales, by reference to Welsh data, and seek to understand the extent to which Welsh policy and legislation in place at the time of the pandemic in Wales in fact made any meaningful difference to decision-making in relation to disadvantaged and vulnerable groups, including the older population of Wales.
+
+To that end, the group support and endorse the submissions on this topic that have been made by other core participants for this preliminary hearing, in particular they draw your attention to and endorse the written submissions made on behalf of the disability people's organisations in Wales at paragraph 1.6, namely that the Inquiry is asked to focus on the gap between the rhetoric of national policies and what happened on the ground in Wales. The experience of the membership of the group is that there was a chasm between what government policy aspired to achieve and the reality, particularly for vulnerable and disabled groups.
+
+I turn to the use of experts.
+
+The group welcomes the instruction of Professor Daniel Wincott by the Inquiry and notes that a first draft of his report has very recently been received and they will respond in the usual way. They also note the Inquiry's reliance on certain Module 2 expert reports in respect of Wales for Module 2B. As you know, the group's already indicated their concerns that a number of these reports do not adequately cover Wales, either because there's just simply a lack of data known to those experts in respect of Wales, or a lack of Welsh-specific expertise.
+
+The gaps from Module 2 have been highlighted in our written submissions, I think many times, previously, and where possible we ask the Inquiry to seek to fill these gaps, although we note the update today in relation to the data issue.
+
+For example, as noted by John's Campaign and Care Rights UK, the report by Professors Shakespeare and Watson on structural inequalities relating to disability does not consider the intersection between disability and age, and we just draw your attention to that specific point.
+
+In relation to the venue for Module 2B, as you will know, the group have already indicated their concern with the location of the hearing venue, which is the Mercure in Cardiff North. They consider it to be unsuitable because it's not centrally located and not easily accessible on public transport links. There is one bus, but it doesn't stop directly outside the venue. I mean, it's understood and accepted that the Inquiry is clearly now committed to this venue, but we simply ask that the Inquiry thinks about solutions to facilitate access, and it may be that that is a shuttle service located close to Cardiff station. The group, as you'll understand, are keen to ensure that as many of its members as possible can attend the final hearing in this module, particularly as it's the only one relating to Wales, and they stand ready to give any assistance that they can to facilitate access to the hearings.
+
+Finally, then, can I take this opportunity to once again remind the Welsh Government, as we did in our opening statement for Module 1, that the Covid-19 Bereaved Families for Justice Cymru are a group of bereaved families, they have lost loved ones to Covid-19, often in terrible circumstances. Many of the group are traumatised by their experiences. However, despite this, the group are working tirelessly to assist the Inquiry to bring scrutiny to the decisions of the Welsh Government on behalf of all those bereaved in Wales. My Lady, this is not an easy task for bereaved individuals who are simply members of the public. Delaying disclosure right up until the last minute fundamentally undermines and frustrates their ability to scrutinise all the disclosure and, in turn, effectively participate in this Inquiry. But the Covid-19 Bereaved Families for Justice Cymru are of course grateful for the opportunity to provide these submissions and remain committed to assisting you and the Inquiry team in their work.
+
+Thank you very much.
+
+**Lady Hallett**: Thank you very much, Ms Heaven, and may I repeat my thanks to you, and those you represent, for the help that you have given to the Inquiry so far. I very much take into account the issues that you've raised, including the one about venue, but I think you know the Inquiry ended up with not many options, if not only one option, but we'll do everything we can to ensure that those you represent can participate fully in the hearings.
+
+Right. Mr Straw.
+
+Submissions on Behalf of John's Campaign and Care Rights UK by Mr Straw KC
+--------------------------------------------------------------------------
+
+**Mr Straw**: Good morning, my Lady. As you know, I represent John's Campaign and Care Rights UK.
+
+We've set out quite a lot of detail in our written submissions and this morning I'd just like to emphasise a few key points on three topics: firstly, the list of issues; secondly, Rule 9 requests; and thirdly, a few procedural points.
+
+So, list of issues, we welcome the changes that have been made to the Inquiry's list of issues in the most recent version, and also the indication from Mr Poole that the list will be kept under review. In our written submissions, and this morning, I'd like to identify a few more specific subissues which aren't explicit on that list, for the purpose of encouraging the Inquiry team to bear these in mind and consider them when it's continuing to prepare for the hearing, so when making decisions about disclosure, further Rule 9s, if there are to be any, which witnesses to be called and so on.
+
+I'd like to focus on eight subissues for this morning. The first of them is the indirect harm of NPIs, non-pharmaceutical interventions, and by indirect harm I mean the adverse impact other than Covid itself of those NPIs.
+
+Now, this is a very important issue for our client group, which is broadly those in the care sector, because the adverse impact on our client group of NPIs was at least as bad as the impact of Covid itself, and that's in terms of both death, illness and serious other injury.
+
+There are a variety of emerging themes from the disclosure which we would invite the Inquiry team to bear in mind, related to this, for example, failure to evaluate or take into account the adverse impact by core decision-makers, failure to obtain sufficient input from appropriate experts by core decision-makers, including expertise about vulnerable groups, for example those in the care sector. Similarly, failure to obtain sufficient data and Welsh-specific data regarding the adverse impact on vulnerable groups.
+
+The second issue is failure, by core decision-makers, to understand and properly consider the needs and rights of older people.
+
+The third issue is similar, it's failure to understand the needs and rights of disabled people.
+
+Now, there's a particular concern for our group, which is the disabled people with mental or learning disabilities or cognitive impairment, and there's a real vacuum in the disclosure that we've seen so far of any recognition or consideration being given to those who fall into that category.
+
+There's a particularly important disability, which is dementia. I gave reasons why that's a particularly important disability in this context in the Module 3 hearing, and I won't repeat those, other than to say that dementia is the leading cause of death in the UK, and therefore we submit something that should be an important matter to be borne in mind.
+
+Disability Wales have submitted two points that we would respectfully endorse. Firstly, in paragraph 1.3 of their written submissions they submit that disabled people were no more than an afterthought in core decision-making, and they were given insufficient weight by central government and central administrators, and we endorse that.
+
+They also invite the Inquiry to obtain an expert report from Professor Debbie Foster, who was the co-ordinator of the "Locked out" report on this particular topic. Again, we support that. It does appear from Mr Poole KC's submissions that that will be obtained, and if so we are content with that.
+
+The fourth sub-issue is the care sector, so the consideration given to the care sector within core decision-making, and we're content to hear from Mr Poole that this module will look at broad reasons why care-related decisions were taken by core decision-makers. It's important that that issue is considered by the Inquiry, as it was important that the care sector was taken into account by core decision-makers. These decisions in central government led to many deaths, they led to serious harm, both Covid and non-Covid, for those in the care sector, and so it should have been an issue that was front and centre of decisions being taken centrally.
+
+There are particular issues which affect this module concerning the care sector that we would invite the Inquiry to bear in mind.
+
+So, firstly, little engagement with those in the care sector, little engagement with stakeholders.
+
+Recommendations from the care sector weren't acted upon, there was little regard by those in central positions on the impact of core decisions on the care sector.
+
+And finally, again, a vacuum really in the disclosure that we've received so far of any consideration by core decision-makers of care outside hospital or care home. And this is an often forgotten part of the health and care sector. It's a very large proportion of those being cared for are actually those who are outside hospital or care homes.
+
+The fifth sub-issue is guidance or policy. In a number of cases guidance or policy was produced by different parts of government, different departments, about the same topic. So there may have been guidance or policy for one particular sector produced by Public Health Wales and different sections of the government which conflicted, so it told people to do different things.
+
+We would invite the Inquiry to look into whether there was a process in place to try to avoid that sort of conflict, a process for co-ordinating guidance and policy.
+
+Similarly, we would endorse what Ms Heaven submitted earlier today, that there was a gap between government policy announcements or government rhetoric and what happened on the ground in Wales, and we invite the Inquiry to look into that.
+
+The sixth issue is the disclosure indicates that duties arising from equality and human rights legislation were overlooked or breached in core decision-making. So, for example, due regard duties or reasonable adjustment duties appear often to have been ignored. Now, of course, government had a great deal on its plate during the pandemic, but if anything those duties were more important during a pandemic than otherwise. Similarly, regulatory bodies such as the Equality and Human Rights Commission were often overlooked.
+
+The seventh issue, the disclosure so far indicates that there was, at a relatively early stage, high levels of hospital-acquired infections, and that those weren't recognised or properly acted upon in core decision-making, and the obvious example is discharge into care homes, but there are other core decisions as well where that wasn't properly recognised.
+
+The final, eighth, issue is lack of record-keeping. Ms Heaven has already made detailed submissions on that which I need not repeat, but we endorse those submissions.
+
+My Lady, the second topic I'd like to turn to now is experts and Rule 9 requests.
+
+We do invite the Inquiry to call expert evidence regarding the care sector for the purpose of this module. Now, that need not be a specific separate report, but assuming the Inquiry will be obtaining a report for Module 6, the care sector module, then if that can be prepared in time, we would invite the Inquiry to include in that a section on core decision-making. And that's really to reflect the importance of what happened in the care sector to core decisions, so the very high number of deaths that were caused, the very high number of serious injuries, serious illness that was caused by core decisions in the care sector.
+
+We would submit on the basis of the evidence that's been disclosed so far that those in core decision positions did not have sufficient understanding of the care sector. For example, a basic point, the difficulty in isolating those entirely dependent on others for care and survival. And it would be helpful, we submit, for an expert to include a section in the report on the peculiar characteristics of the care sector and those in care, and how that should have impacted on core decisions.
+
+We've put forward in correspondence an individual called Mark Llewelyn, who is the director and professor of health and care policy at the Welsh Institute for Health and Social Care, and we invite the Inquiry to consider him.
+
+On outstanding Rule 9 requests, we invite the Inquiry to consider, if it's not already done so, obtaining a statement from Learning Disability Wales. Learning Disability Wales were part of a report that was produced in February 2022 in combination with Warwick University about the impact in Wales specifically of the pandemic on those with learnings disabilities, for example autism. And we invite the Inquiry to consider obtaining a report from Learning Disability Wales. It's likely to be of significance to issue 3B, that's the impact on vulnerable groups of core decisions.
+
+It's unclear from what we've seen so far whether full evidence has been sought by the Inquiry on the adverse impact of NPIs on vulnerable groups in Wales. For example, the impact of those on carers or visitors, the impact of the restrictions on carers and visitors on others. Expertise and data, so has sufficient witness evidence been obtained as to what data was available of the impact of NPIs on vulnerable groups?
+
+And, if that hasn't already been done, then we invite the Inquiry to do that. One body that may be able to help is Social Care Wales, who would be in a good position to give evidence about that.
+
+The last point about Rule 9s is that written submissions of Covid-19 Bereaved Families for Justice in paragraph 3 invite the Inquiry to obtain evidence in relation to older people in Wales, particularly those receiving care outside a state setting, and we would endorse that request.
+
+My Lady, the third topic I'd like to turn to now is a few procedural matters, preparation for the final hearing. CTI has mentioned the provisional list of witnesses. We would be grateful if we could have an opportunity to make submissions about the provisional list of witnesses when it's produced. The timing is, of course, difficult. We're well aware of the difficulties and the pressures that the Inquiry is under. It's important that the time in which we make submissions is after sufficient information has been disclosed so that they can be effective submissions, but giving us enough time prior to the Inquiry so that they can be made at a time when witnesses can actually be called.
+
+A similar issue, Mr Poole has mentioned that key documents, for example about uncontroversial backgrounds, will be produced by the Inquiry, and draft evidence proposals for witnesses will be produced. Again, we'd be grateful for an opportunity to comment on all of those, and again in sufficient time for us to be able to do so effectively. I'm sure your Ladyship is well aware of this, our client groups have full-time jobs, some of them have protected characteristics themselves, so the more time that can be given to us the better.
+
+Mr Poole has indicated that instructions given to experts won't be disclosed. We would ask you to consider that issue, not necessarily to disclose those in advance, but to disclose those at the same time as disclosing the reports themselves. And the basic reason for that is that, in some instances, it's been difficult to understand the contents of the reports without the letters of instruction, so without that context of the questions that were asked, it's difficult to understand the answers that were given. We, in our submissions at paragraph 31, outline a few particular examples of that happening.
+
+The final point I'd like to raise is context for certain disclosure. We deal with this in our written submissions at paragraph 32 onwards. It's sometimes been difficult to understand the significance of some of the disclosure that we've received, and would be grateful for the Inquiry to consider giving more context about the particular points we've raised. One example is WhatsApp messages. So in some instances it's unclear who was in the WhatsApp group, what its function was, and that makes it difficult or impossible to understand the significance and the impact of those messages.
+
+My Lady, that's all I hope to cover for today, unless there's anything else you would like me to address.
+
+**Lady Hallett**: No, thank you very much indeed, Mr Straw, you make some obviously very important points and I'll bear them all very much in mind. Thank you.
+
+I think we'll take a break now. Where is Mr Howells? Oh, he's there. Right. I was assured that I'd have a clear line of sight, Mr Howells. Maybe if I take the break and we can make sure that I do have a clear line of sight.
+
+I'll return at 11.25. Thank you.
+
+*(11.08 am)*
+
+*(A short break)*
+
+*(11.25 am)*
+
+**Lady Hallett**: Now I can see you, Mr Howells.
+
+Submissions on Behalf of the Welsh Government by Mr Howells
+-----------------------------------------------------------
+
+**Mr Howells**: My Lady, bore da.
+
+The Welsh Government is grateful to Counsel to the Inquiry, Mr Poole King's Counsel, for acknowledging the significant efforts that the Welsh Government has made to comply with all requests made of it by the Inquiry. In addition to Module 2B, the Welsh Government is a core participant in five other modules. Few other governmental core participants have a similarly intense involvement in the Inquiry. That brings a very heavy workload, but the First Minister and the whole Welsh Government consider it to be vital that its decision-making in the pandemic, which affected everyone in Wales and every aspect of life in Wales, is examined, tested and judicially considered.
+
+Given the scale of the response to the pandemic, fair and impartial scrutiny of the Welsh Government's actions is necessary. It is for that reason that the First Minister, uniquely, volunteered to give evidence and to be examined in Module 2, so that you heard evidence from at least one other head of government about the operation and effectiveness of intergovernmental decision-making during the pandemic.
+
+This is, we hope, a telling and practical example of the Welsh Government's willingness to submit itself to scrutiny.
+
+It may help those following today's hearing to know the extent of the Welsh Government's contribution to Module 2B's work so far. It has provided over 75 statements in either final or draft form with a small balance to be provided imminently and certainly well before the start of the hearings next February. It has disclosed more than 24,000 documents to date, a significant volume of material, which includes documents that are relevant to the matters that your Ladyship will consider in Module 2B.
+
+The Welsh Government will continue to meet its duty of disclosure and provide any further material that is sought, including all specific disclosure.
+
+The materials which have already been provided to the Inquiry and future disclosure will include, but is not confined to, advice to ministers throughout the pandemic from January 2020 onwards and the supporting material which was provided with that advice, the scientific and other evidence which ministers considered when making decisions, relevant minutes, relevant email and other correspondence, and other material which explains and illustrates decision-making in Wales during the material time.
+
+When the Welsh Government's disclosure is provided to core participants, it is of course subject to the Inquiry's procedures. Finally, in February and March next year, you will hear evidence from the Welsh Government including officials and ministers. Those witnesses will be examined by Counsel to the Inquiry on the basis of the materials that ministers relied upon in making decisions and officials in giving advice.
+
+The Inquiry will receive the fullest co-operation from all those witnesses. WhatsApp and other similar forms of communication have featured prominently in recent hearings and in media coverage. In relation to Wales at least, you may conclude in your report that the high-profile coverage of WhatsApp messages was disproportionate to its true forensic value in examining or illustrating the Welsh Government's decision-making. That, however, will be a matter for your Ladyship to decide in light of the whole body of evidence that will be adduced in Module 2B, of which WhatsApp communications are a minor and peripheral part.
+
+At the end of September this year, the Inquiry and the Welsh Government agreed the approach to be adopted in relation to the appropriate management of WhatsApp and similar communications. Between 3 October this year and today, the Welsh Government has disclosed batches of WhatsApp, text message transcripts and screenshots to the Inquiry and will continue to do so. It should be borne in mind that the process of searching for these materials is time consuming, intensely demanding of limited resources, and, on occasion, technically problematic.
+
+The Welsh Government has kept the Inquiry regularly informed about progress of the complex process of gathering WhatsApp and other communications from many individuals, some of whom have left office or no longer work for the Welsh Government. It will, of course, continue to do so.
+
+Following discussions between the Welsh Government and the Inquiry about the substance and focus of the Inquiry's requests, on 25 October this year the Inquiry asked some specific questions about WhatsApp communications which usefully distilled matters. The Welsh Government has provided a comprehensive response to that request by the deadline of 8 December.
+
+My Lady, finally, may I thank again Counsel to the Inquiry, Mr Poole King's Counsel, and his team for their positive, practical and constructive approach throughout their work in Module 2B. Although we may not always agree, the Module 2B team has been consistently courteous, appropriately demanding and always rigorous in carrying out their investigation, a balance which is not always easy to find or to maintain and to do so fairly.
+
+My Lady, unless there are any other matters, those are my submissions.
+
+**Lady Hallett**: Thank you very much indeed, Mr Howells, very grateful.
+
+Mr Poole, anything to conclude?
+
+Reply Statement by Lead Counsel to the Inquiry for Module 2B
+------------------------------------------------------------
+
+**Mr Poole**: My Lady, may I briefly attempt just to deal with four issues which, in our submission, require to be responded to and can be usefully dealt with straightaway.
+
+The first, delayed disclosure. As I said earlier this morning, we have received everything that we anticipate receiving and we will provide material to core participants as soon as possible, which inevitably is probably going to tip into the New Year.
+
+As regards the three statements specifically mentioned by Ms Heaven on behalf of Covid-19 Bereaved Families for Justice Cymru, namely the statements from the First Minister, Mr Drakeford, Mr Gething and Eluned Morgan, they will be disclosed before Christmas, failing which very early in the New Year, and they are all at the final review stage.
+
+The second issue, informal communications. Again, in response to submissions made on behalf of Covid-19 Bereaved Families for Justice Cymru, I can confirm that the Rule 9 questions that were in the Rule 9 sent out by Module 2B team included questions on informal WhatsApps and other messaging platforms, texts and iMessages.
+
+As regards the issue of retention and deletion, we are reviewing, as I said earlier, the recent response received from the Welsh Government regarding the use of WhatsApps and other informal methods of communication, and the CPs can rest assured that we will pursue the issue until we are satisfied that the issue is fully investigated, and we will provide an update on this issue to core participants in due course. And of course --
+
+**Lady Hallett**: Sorry to interrupt you, I think Ms Heaven also mentioned Public Health Wales in relation to deleted messages.
+
+**Mr Poole**: My Lady, yes, I include --
+
+**Lady Hallett**: You do?
+
+**Mr Poole**: -- Public Health Wales within that, and we will provide an update to core participants in respect of all of those in due course. We will also, of course, provide the materials when we can.
+
+The third issue I wanted to mention was list of issues and Rule 9 recipients. In response to submissions made by Mr Straw KC on behalf of John's Campaign and Care Rights UK, the Inquiry is very alive to the issues that Mr Straw has identified. We will reflect on the specific issues when putting together the evidence proposals before circulating to core participants for their input. We will also consider the individuals and bodies that he's identified and reflect on whether further Rule 9s should be issued, and I can confirm that the Inquiry has already sent a Rule 9 request to Professor Debbie Foster.
+
+Then, finally, on the provisional list of witnesses and evidence proposals, I can confirm that the core participants will be given the opportunity to provide their comments on the provisional list of witnesses in advance of that list being finalised. We hope to be able to share that list with core participants this week, and we welcome their observations in due course, and we will also write very early in the New Year to core participants explaining the timetable for evidence proposals and core participant contributions.
+
+My Lady, they're all my submissions.
+
+**Lady Hallett**: Very grateful, Mr Poole, and indeed I'm extremely grateful to everyone who's made submissions today and indeed anybody who's made submissions in writing in the past, it all bodes extremely well for an effective investigation in February and March. The focus and the constructive nature of the submissions are very welcome. So thank you all very much indeed.
+
+I'm afraid my Welsh isn't good enough to say I look forward to seeing you in February and March, but maybe you can give me some lessons, Ms Heaven or Mr Howells. Actually I think I have somebody in the Inquiry who can give me lessons.
+
+Thank you all, and I will rise now until 1.45, when
+
+I'm going to start the Module 2C preliminary hearing.
+
+Anyway, for those who need to know, we'll make sure
+
+a message is there.
+
+Thank you.
+
+*(11.35 am)*
+
+*(The hearing concluded)*
+
