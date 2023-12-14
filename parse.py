@@ -174,15 +174,25 @@ def parse_transcript(url, text):
                 continue
 
             if state == 'adjournment':
+                if re.match(' *(\(.*\))$', line):
+                    # Meta message immediately after heading
+                    spkr = getattr(speech, 'speaker', None)
+                    yield speech
+                    yield Speech(speaker=None, text=line)
+                    speech = Speech( speaker=spkr, text='' )
+                    continue
                 if re.match(' *(.*)\)$', line):
+                    # End of multi-line meta text
                     state = 'text'
                     speech.add_text(line.strip())
                     continue
                 if re.match(' *(MODULE 2[ABC])$', line):
+                    # End of multi-line heading
                     state = 'text'
                     speech.heading += ' ' + fix_heading(line)
                     continue
                 if not re.match(' *[A-Zc -]*:', line):
+                    # Continuation of heading
                     speech.heading += ' ' + fix_heading(line)
                     continue
                 state = 'text'
