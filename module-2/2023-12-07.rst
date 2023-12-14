@@ -481,11 +481,11 @@ Now, that was not, as we've discussed repeatedly, an approach that I could take 
 
 We faced an appalling -- the problem with this whole period is that we had come out of -- we'd found a way out of lockdown, and we'd got the R below 1, but we didn't yet have either good enough therapeutics or a vaccine, and so our only tools remained NPIs, and the question was: do you go straight back into lockdown, which is what a circuit-breaker is? I mean, a circuit-breaker sounds like a pretty sort of -- it's a glib phrase. It actually means an immensely difficult costly exercise, which falls hardest on the poorest and neediest in society. You then might have to do it again and again, and there's even then no guarantee that it's going to work. And you don't have the -- you don't know what the end state is, because you've got no vaccine. And that was why I thought it was sensible to continue to throw everything we had at a combination of intensified national measures, plus the regional system, the tiering system.
 
-**Lead Inquiry**: My question to you was whether or not you, whilst announcing that you would not listen to those who had said "Let the virus rip", had used the words yourself. You deny that, so could you please look at the dairies --
+**Lead Inquiry**: My question to you was whether or not you, whilst announcing that you would not listen to those who had said "Let the virus rip", had used the words yourself. You deny that, so could you please look at the diaries --
 
 **Mr Boris Johnson**: Sorry, what I'm saying is that this was a phrase in common parlance at the time and remained so.
 
-**Lead Inquiry**: Sir Patrick Vallance's dairies, INQ000273901, page 92:
+**Lead Inquiry**: Sir Patrick Vallance's diaries, INQ000273901, page 92:
 
 "Actually having a discussion [Meeting with PM] about 'letting it rip'."
 
@@ -807,7 +807,7 @@ But then what happened, as I said earlier on, is that you get Alpha, and that we
 
 **Mr Boris Johnson**: We did have that debate, though, if you remember what happened, it just became untenable because of the spread Alpha, and London and a lot of the rest of the country went straight into Tier 4, as we called it.
 
-**Lead Inquiry**: I need to ask you, Mr Johnson, to what extent your decision-making in the middle of December was influenced by the press or your backbenchers, because there are references in the Patrick Vallance dairies to you saying that the view of your backbenchers was to take a particular path, you were minded to agree with them, you appeared instinctively to resist the further reintroduction of the ultimate lockdown measures?
+**Lead Inquiry**: I need to ask you, Mr Johnson, to what extent your decision-making in the middle of December was influenced by the press or your backbenchers, because there are references in the Patrick Vallance diaries to you saying that the view of your backbenchers was to take a particular path, you were minded to agree with them, you appeared instinctively to resist the further reintroduction of the ultimate lockdown measures?
 
 **Mr Boris Johnson**: No.
 
@@ -1238,7 +1238,7 @@ That turned out not to be true. We reacted. We then set up one of the biggest te
 
 Can we have up on the screen, please, INQ000280061, at page 153.
 
-Now, this is September. Mr Keith's dealt with much of this so I can deal with it very quickly. This is a page from Professor Vallance's dairies relating to that day. I'll read it just through quickly:
+Now, this is September. Mr Keith's dealt with much of this so I can deal with it very quickly. This is a page from Professor Vallance's diaries relating to that day. I'll read it just through quickly:
 
 "11 [September] Schools data reviewed on dashboard."
 
@@ -2445,7 +2445,7 @@ The public know, you know, that sometimes you use language, florid language, and
 
 **Mr Friedman KC**: You've probably heard it before.
 
-**Mr Boris Johnson**: I do understand that, so let me give you a straight answer on that. I think, first of all, I regret all hurt and offence caused by publication of language that was not intended for publication, whether it's been recorded in someone's notes or dairies or whatever. These were private conversations with officials.
+**Mr Boris Johnson**: I do understand that, so let me give you a straight answer on that. I think, first of all, I regret all hurt and offence caused by publication of language that was not intended for publication, whether it's been recorded in someone's notes or diaries or whatever. These were private conversations with officials.
 
 Secondly, a lot of what has been reported is incorrect, and there are words that are ascribed to me that I simply don't recognise.
 

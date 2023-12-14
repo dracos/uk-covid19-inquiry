@@ -159,7 +159,7 @@ That's different from herd immunity, that's to do with individual protection aga
 
 **Professor Sir Whitty**: Yes, I thought it was flawed at multiple levels, I thought it made an assumption of full immunity that would be lifelong, which they didn't state, but it was an assumption which I thought was extremely unclear, and indeed proved to be incorrect.
 
-As demonstrated -- as you just said, I considered the idea you could properly shield all the right people, or identify all the right people -- and just to take the case of Mr Johnson, the Prime Minister, he would not have been someone, I think, who would have been considered -- someone you would put in this group. He got very severe covid. He is an example of the kind of person who you would not have been able to identify. Those you correctly identified you wouldn't have been able to shield. And the result of this would have been you would have had long periods of isolation at the end of which people would still have got Covid anyway.
+As demonstrated -- as you just said, I considered the idea you could properly shield all the right people, or identify all the right people -- and just to take the case of Mr Johnson, the Prime Minister, he would not have been someone, I think, who would have been considered -- someone you would put in this group. He got very severe Covid. He is an example of the kind of person who you would not have been able to identify. Those you correctly identified you wouldn't have been able to shield. And the result of this would have been you would have had long periods of isolation at the end of which people would still have got Covid anyway.
 
 So the idea that this was a sensible proposition struck me as zero actually.
 
@@ -1023,7 +1023,7 @@ It must follow, therefore, that even though you must have been aware of it befor
 
 **Mr Wilcock**: Yes.
 
-**Professor Sir Whitty**: And, secondly, complicated politically because, and I'm going to summarise unfairly, Sinn Féin and others from that political tradition were very keen to stay in some kind of touching distance with the Republic of Ireland's approach to Covid and other political traditions were trying to stay in touch with the UK's approach to this. But these were issues of policy, not issues of science.
+**Professor Sir Whitty**: And, secondly, complicated politically because, and I'm going to summarise unfairly, Sinn Féin and others from that political tradition were very keen to stay in some kind of touching distance with the Republic of Ireland 's approach to Covid and other political traditions were trying to stay in touch with the UK's approach to this. But these were issues of policy, not issues of science.
 
 So in a sense we had to acknowledge they were there and then just let the political leaders take their final decisions.
 
@@ -1481,9 +1481,189 @@ There was an initial epidemiological signal that there might be an increased ris
 
 But I think many people who were in shielding over the entire period of the pandemic when it was in place would reiterate to you that this was something with very significant downsides for those individuals, often for mental or physical health.
 
-*(Stenographer health and safety break)*
+**Mr Friedman KC**: Right, I'm going to take that answer and just mention to you that there are minutes of the NERVTAG clinical risk stratification subgroup in June 2020 identifying evidence from modelling of a high risk from Covid to those with Down's Syndrome which they wanted consideration to be given to.
 
-**Lady Hallett**: That completes your evidence for this module, Sir Chris, thank you very much indeed. I'm sorry if it's all been a bit pressurised towards the end of this morning. I suspect if I hadn't imposed such a tight timetable we could have taken a week asking you questions, if that's any consolation, possibly not.
+Sir Christopher, we obviously know the fatal outcomes in the end for younger adults with Down's Syndrome, it's a significant issue.
+
+So just moving to November 2020, when they are put on the list, our second question is: how could such a delay in adding them to the list, particularly from June 2020 to November, have been avoided?
+
+**Professor Sir Whitty**: Well, firstly, I wasn't the person who was principally doing on the work on the list, although I was well aware of it, so just to be clear.
+
+**Mr Friedman KC**: Understood, yes.
+
+**Professor Sir Whitty**: But I would refer you to my previous answer, which was: we had identified that this was a possibility. The word that was used, from memory, in that NERVTAG document was "signal". Signal doesn't mean there is a big difference; it means there is something that is slightly out of the statistical norm that needs to be looked at and then was looked at and then they were added.
+
+But I would go back to my previous point: adding point to the shielding list who were not going to benefit from it was not in their interests, it was actively against their interests, and it was getting that balance right for many other groups as well. Down's Syndrome was obviously a particularly important example of it.
+
+**Mr Friedman KC**: Just so my Lady has the point, if I ask you how the delay from June to November could have been avoided, which is the question, your answer, as far as you're concerned, is it couldn't, because of the need to think matters through; is that what you're saying?
+
+**Professor Sir Whitty**: It wasn't because of the need to think matters through, I think that's a misunderstanding; it's because the size of the effect was not sufficiently large that the downsides of having shielding, if shielding was not needed, were at that point thought to be justified. That's the answer, which is a different point to the point I think you're making.
+
+**Mr Friedman**: Thank you.
+
+**Lady Hallett**: Thank you, Mr Friedman.
+
+Mr Metzer.
+
+Questions From Mr Metzer KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Metzer**: Thank you, my Lady.
+
+Sir Christopher, I ask just a few questions on two topics on behalf of the Long Covid groups.
+
+Were you aware that the Prime Minister wasn't convinced that Long Covid truly existed in 2020 and for a large part of 2021?
+
+**Professor Sir Whitty**: I was aware of that.
+
+**Mr Metzer KC**: Why didn't you, as Chief Medical Officer, disabuse the Prime Minister of his belief that Long Covid was "bollocks" in October 2020, when there were discussions about the need for a second lockdown?
+
+**Professor Sir Whitty**: Well, the particular document with a handwritten note was not one I was privy to until it was published by the Inquiry, so to be clear.
+
+The answer is: if I thought that there was an overriding need for the Prime Minister himself -- or herself, were it to be a different Prime Minister -- to know about this because it was going to make a big difference to people with Long Covid, that would have been a very material point, and I did, as you know, in 2021, actually address issues of Long Covid directly with the Prime Minister.
+
+However, at this point -- at the earlier points, my view was there were large numbers of things we needed to do for those living with Long Covid or who might have Long Covid in due course because of infection to do with research, which I launched multiple strands of research and analyses during 2020, and also NHS activity. None of these, in my view, required the Prime Minister to have a view on it one way or the other; we could just get on with it.
+
+So these weren't things where the views of the Prime Minister, in a sense -- and I don't mean this in a negative sense, I'm just stating this factually -- were relevant one way or the other. We could just do the things we needed to do. Once I got to a point where it was clear this might be a material issue for decisions the Prime Minister himself could take, that seemed the point where his private office said to me, "Look, could we have this discussion" -- and I think you have the correspondence on this -- I thought about it, how we best do it, and we agreed on an approach to it.
+
+**Mr Metzer KC**: Yes, I'm going to go to that in a moment, but you accept that the evidence of Long Covid was not in any way uncertain by that time in October 2020?
+
+**Professor Sir Whitty**: I do.
+
+**Mr Metzer KC**: Thank you.
+
+Patrick --
+
+**Professor Sir Whitty**: Although our understanding of it was far from developed. We've still got a long way to go. But it was very much in its earlier stages.
+
+**Mr Metzer KC**: Yes, I mean, we don't need to go through papers, but there was a literature review on Long Covid, Public Health England had published guidance, and the National Institute for Health and Care Research, of which you were head, had produced a report, all by that time.
+
+**Professor Sir Whitty**: Yeah, I commissioned those works.
+
+**Mr Metzer KC**: Patrick Vallance had advised Cabinet on 13 October 2020 that young people suffering from Long Covid was a relevant policy consideration in relation to discussions about shielding the elderly only. Why didn't you think it was important to advise him about the risk of Covid-19 causing Long Covid in the young?
+
+**Professor Sir Whitty**: Well, I think, as I say, if I thought that there was a decision that the Prime Minister himself needed to take where this was a material issue, I would have addressed it. It wasn't part of my job -- I still don't think it's part of my job -- to disabuse even senior political leaders of things which I'm not convinced they fully understand, where I don't think it's material to the public health outcomes.
+
+**Mr Metzer KC**: Did you not think it was important, as Chief Medical Officer, to ensure that he had that level of knowledge, particularly given the indiscriminate risk of Long Covid?
+
+**Professor Sir Whitty**: Only if it would have made a difference to decisions that the Prime Minister himself had to take. That is the -- in a sense, that's the question. It's not my job to try and provide public health -- more wide information where that's not going to have an implication, given all the other needs.
+
+I did want to do a lot for Long Covid, we did do a lot for Long Covid, but it was in the research and in the treatment spheres, not in the political sphere.
+
+**Mr Metzer KC**: Leaving October aside, can I take you now to February 2021, when Mr Shafi had sought from you a proper briefing on Long Covid for the Prime Minister. Of course, you know that was the same month the spring roadmap on the release of restrictions was being drawn up.
+
+Did you advise the Prime Minister then about Long Covid in February 2021?
+
+**Professor Sir Whitty**: Yes, the exact point where -- so, as you will recall from -- because you've read the correspondence, my view, having a lot of experience of having discussed things with the Prime Minister on other areas, was that where he was going to have to think through an issue where he had one position and moved to another position, it was less likely to work by just giving him a document. So I wanted to have a conversation with him and I wanted to do so at a time it seemed to me we could have a serious conversation.
+
+I'm confident we did have a conversation, and I can't recall exactly what the date is, unfortunately. I would have chosen a moment I thought it was likely to be most useful to have the conversation, and I then followed it up with a subsequent note -- I don't know the gap between those -- which I think you have already seen, entitled, "A short note on Long Covid".
+
+**Mr Metzer KC**: Yes, we'll come to that briefly in a moment.
+
+Do you recall if you advised him after your conversation with Mr Shafi in February 2021?
+
+**Professor Sir Whitty**: Well, that's what I've just said. I'm confident we had the conversation; I'm not confident I can't recall exactly when.
+
+**Mr Metzer KC**: Well, this may help: the Prime Minister himself said that some time had passed before he was told by Mr Shafi he had received advice on Long Covid, and said that in May 2021 he requested a note from you on Long Covid, suggesting it was around that time you were clear with him about Long Covid, I think end of May, beginning of June. Does that sound right?
+
+**Professor Sir Whitty**: Well, it is certainly the case that that's when I sent the note, because that's when it's dated. I'm also confident I didn't send the note in blind. My view was I needed to have a conversation with the Prime Minister before that. Where it lay between February and May, I honestly can't remember, and I'm just trying to -- you know, it would be silly for me to try and say I can recall, because I can't.
+
+**Mr Metzer KC**: Just to complete the point, then I'll move on: so it wouldn't make sense, would it, he'd be requesting advice from you again on Long Covid in May 2021 if you had already advised him on it?
+
+**Professor Sir Whitty**: No, I mean, I think the sensible thing with many of these things is to have a first discussion where you go through people's existing understandings and allow people to test information, and then follow it up with a more formal laying out of the logic, and if you've read the note, which I'm sure you have, it was my attempt to distill, in quite a short note, what was then known about Long Covid. I think the indications are from your expert advisers that that was a fairly accurate note.
+
+**Mr Metzer KC**: Yes, because obviously by April 2021, an estimated 1.1 million people had Long Covid, and you knew that.
+
+**Professor Sir Whitty**: That was in the note.
+
+**Mr Metzer KC**: Thank you.
+
+I just want to take you on to the second topic only, please.
+
+During press conferences in 2020, you told the public that the great majority of those suffering Covid-19 would be a short, mild illness. An example of that was 11 May 2020.
+
+In 2020 itself, only Sir Stephen Powis warned the public about Long Covid at the press conference on 20 October 2020, and the first time you mentioned Long Covid at a press conference was on 5 January 2021.
+
+Why didn't you use the press conferences to update the public about the risk of long-term impacts of Covid-19 in 2020, when Dr Tedros Ghebreyesus had publicly acknowledged Long Covid needed recognition as early as August 2020?
+
+**Professor Sir Whitty**: Yeah, I think, as with many of the things, if I were to re-run the press conferences -- where much of it was not under my control, to be clear, a lot of it was derived from where individual journalists went and a variety of other things, but leaving that to one side -- I would have made an earlier mention of Long Covid. But it's not obvious exactly what I would have said at different points along the path. So I think, depending on where it was, I would have said different things.
+
+So I don't think -- yeah, I'm just saying I think there isn't a single thing you could have said. Just to acknowledge that there was Long Covid would have been a useful thing to do. I think the acknowledgement would have been helpful at an earlier stage in public -- I was very clear it existed well before that -- in a press conference. But beyond that, a lot of this was around trying to help people make rational public health decisions, and I'm not confident exactly what the points are I would be making.
+
+**Mr Metzer KC**: Well, I'll just develop that one --
+
+**Lady Hallett**: You're not going to develop it very far, Mr Metzer, I'm afraid.
+
+**Mr Metzer**: I will, my Lady.
+
+**Lady Hallett**: We've got another ten minutes to go before we can break for lunch.
+
+**Mr Metzer**: I know.
+
+You only mentioned Long Covid three times in press conferences in 2021. Do you accept that those three references were not sufficient to inform the public about the risk of indiscriminate, long-term, debilitating illness, and do you accept that, on reflection, messaging could and should have been improved?
+
+**Professor Sir Whitty**: Well, on the second of those, could messaging have been improved, I mean, the answer to that -- to almost any question you could ask on disability, on ethnic minority and various other things, the answer is of course going to be yes. Would my talking about it more frequently in a press conference, as opposed to multiple other channels of communication, have improved the situation for people living with Long Covid or prevented it? I'd need a chain of logic to be laid out that made it clear how that would have been achieved.
+
+**Mr Metzer KC**: Sorry, just to finish that, the question I put is that if the public had been aware of the risk of Long Covid and they understood what it was, their symptoms, they could have addressed that.
+
+**Professor Sir Whitty**: Well, I think that was actually part of the way in which we were describing it to people about vaccination, for example, because here we had a tool that would help -- you know, the first thing I say in my what can you do about Long Covid is help people not get Covid, and obviously vaccination was an example. So we used it in that context. There, there is a useful thing we can say that is hopefully going to help some people not to acquire Long Covid who otherwise might have done so.
+
+**Lady Hallett**: That's it, I'm afraid, Mr Metzer.
+
+**Mr Metzer**: Thank you, my Lady.
+
+**Lady Hallett**: Mr Jacobs. And if you can bring in your questions, doing justice to them, in under ten minutes, I'd be grateful. At the moment we have no transcript because the stenographer has had such a tough morning. She can catch up by listening to recordings, but if you can ...
+
+**Mr Jacobs**: I'm optimistic, my Lady.
+
+**Lady Hallett**: Good.
+
+Questions From Mr Jacobs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Jacobs**: Professor, do feel comfortable looking forward and speaking into the microphone. I have a few questions on behalf of the Trades Union Congress in short time.
+
+My questions are on the issue of financial support for self-isolation.
+
+Firstly, can you just summarise briefly, if you would, the importance of financial support for self-isolation as you saw it?
+
+**Professor Sir Whitty**: Yes, I think that this was an extremely important area and one that was quite heatedly debated in government in reality. My view was that it was far easier to self-isolate, and indeed to self-isolate repeatedly, if people were contacts, if you were in a job which was in permanent employment -- a white collar job, academics, civil servants, various others -- than if you were in a self-employed environment, which many people, particularly on lower incomes, were, and it seemed to me therefore it was essential that we took account of that, particularly given that some of the highest incidence of Covid was in areas of relative deprivation, where there were higher rates of people who were not in continuous employment and therefore covered by ordinary sick leave measures.
+
+**Mr Jacobs**: Would one example of that, one concrete example, be the outbreaks that were seen in Leicester in June 2020, where you get that intersection of outbreaks of low income work and so on?
+
+**Professor Sir Whitty**: It may well have been. I think the logic there is real, but the data aren't there. The example where the data are clear is -- because it was so heavily studied, was in care homes. Care homes where sick pay was readily provided had lower rates of Covid in general than ones where sick pay was not, and I think that is reasonably clear, in a sense, direct evidence of the link between these.
+
+**Mr Jacobs**: You describe heated debate around the issue. Given what might be thought to be the apparent sort of simple logic of people on low income may not be able to self-isolate without support, why did that logic not sort of win through into significant action?
+
+**Professor Sir Whitty**: Well, I mean, I think I can answer half the question -- in fact, a quarter of the question, in a way. There is no doubt that I and many other people in -- from the health professions -- and others, Dido Harding, others -- highlighted this issue right from quite early on. Issues about how it should then be addressed are ones that I don't feel I have any particular competence in and I didn't offer a view as to what was the right mechanism to deal with this. It's actually quite a complex area. But the principle --
+
+**Mr Jacobs**: Sorry, Professor, just given the time, we heard a bit about that from David Halpern, about the different types of mechanism and relative --
+
+**Professor Sir Whitty**: Yes, all I am just saying is I engaged in debate saying this was an important issue; I didn't get involved in the debate about what the right mechanism for addressing it might be.
+
+**Mr Jacobs**: Yes.
+
+Mr Thomas just a few moments ago on behalf of FEHMO suggested that it was important to evaluate whether the risk factors of economic disadvantage and their relationship with disparate impacts of the pandemic were effectively addressed. Do you think this issue of financial support is one area where the risk factors were ineffectively addressed?
+
+**Professor Sir Whitty**: I would have preferred to have had an even more vigorous approach to this very specific issue, yes. And there is plenty of documentary evidence for that you'll have seen.
+
+**Mr Jacobs**: Can we just look at one example of the issue being raised in government. If we could have the Patrick Vallance schedule, page 170. You will see an entry from 8 September 2020. Sir Patrick says, or writes:
+
+"I made the point about having to give incentives for self-isolation, PM agreed and said he would take it up with [Chancellor] afterwards. Chris and I were aligned and presented what needs to be done. I left the call. Apparently it descended into chaos and CMO not clear where it will land."
+
+Professor, if you recall why it descended into chaos let us know, but broadly, is this indicative of the difficulty in getting the importance of this issue to land with key decision-makers?
+
+**Professor Sir Whitty**: I mean, without remembering the exact meeting, the general tenor of this is one which I recognise.
+
+**Mr Jacobs**: Final question: do you think that in order to respond more effectively for a future pandemic, and to lessen the disparate impacts of a future pandemic, we need to be ready to take a more robust approach to financially supporting self-isolation?
+
+**Professor Sir Whitty**: I think where self-isolation, and particularly repeated self-isolation -- I think that's an important additional point -- is likely to be part of the state's response to a major public health threat, I do consider this is an important issue that needs to be taken into account, and indeed I think we say so in our technical report because we thought this was an important public health point, not just -- just a wider point.
+
+**Mr Jacobs**: Professor, my Lady, thank you.
+
+**Lady Hallett**: Well done, Mr Jacobs.
+
+That completes your evidence for this module, Sir Chris, thank you very much indeed. I'm sorry if it's all been a bit pressurised towards the end of this morning. I suspect if I hadn't imposed such a tight timetable we could have taken a week asking you questions, if that's any consolation, possibly not.
 
 But do please rest assured, and everybody else can rest assured, that obviously I'll consider all the material that has been provided in writing, it's not just the evidence you give here orally that will be considered, everything will be considered.
 
