@@ -43,6 +43,10 @@ def fetch_hearing_page(item):
     if date == '2023-05-12' or date == '2023-05-05' or date == '2023-04-13':
         return
 
+    # Been put in wrong type
+    if title == 'INQ000320588 - Witness statement of Lesley Fraser, Director General Corporate, dated 23/10/2023.':
+        return
+
     filename_pdf = f'data/{date}-{title}.pdf'
     filename_txt = filename_pdf.replace('.pdf', '.txt')
     filename_out = filename_pdf.replace('.pdf', '.scraped.txt')
