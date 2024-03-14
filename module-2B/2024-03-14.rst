@@ -1,0 +1,819 @@
+Transcript of Module 2B Public Hearing on 14 March 2024.
+========================================================
+
+*(10.00 am)*
+
+**Lady Hallett**: I'll check that it's 10 o'clock. Yes, it is. I gather there has been a slight change to the order. Mr Straw, I think you're going first.
+
+Submissions on Behalf of John's Campaign and Care Rights UK by Mr Straw KC
+--------------------------------------------------------------------------
+
+**Mr Straw**: Thank you very much, my Lady.
+
+This module concerns core decision-making but I'm focusing on those needing and providing care for two reasons.
+
+Firstly this group perhaps suffered more severely as a result of the pandemic and the response to it than any other. It should, in consequence, have had a central place in decision-making. It did not; it was often overlooked, or when it was considered it was treated less favourably than others.
+
+Secondly, this group of people is a useful microscope through which the Inquiry can examine what went wrong with core decision-making more broadly. The problems in this area are often symptomatic of core flaws. Those in need of care should have been a priority for decision-makers from the very start of the pandemic because of their exceptional vulnerability both to Covid-19 and to the restrictions imposed in response. The Welsh Government was made aware of this vulnerability and the need to urgently protect those needing care from an early stage.
+
+To pick just one example among many, on 11 March 2020, Public Health Wales produced a paper which drew attention to the extremely serious likely impact on older people and those with comorbidities, in terms of hospitalisation and mortality. As a consequence, Public Health Wales strongly advocated urgent attention directed at the elderly population cared for in residential and nursing homes in Wales.
+
+Despite this clear and stark warning, which reflected the concerns of many others on the ground, the Welsh Government continued to look the other way. Those concerns either were not listened to or, if they were listened to, nothing was done about them.
+
+With much of the government's response, our clients were left asking the same question that your Ladyship had to repeatedly ask Mr Goodall, Mr Gething and other witnesses: what did you do? All too often, no concrete or substantive action was identified in response. I will consider eight examples of this now.
+
+Firstly, discharge from hospitals to care homes. Asymptomatic transmission and the consequent importance of testing were well recognised in the scientific evidence by the time of the 17 March 2020 decision. We detail this in our written closings.
+
+Contrary to the suggestion of some witnesses, the evidence was not only of asymptomatic illness, it was also of asymptomatic transmission. It is clear that this evidence was overlooked at some level. Whether that failure occurred at the level of the scientific advisers or of core decision-makers is, perhaps, open to question.
+
+I should note the World Health Organisation was less sure of the risks until July 2020, but applying the precautionary principle and given the great vulnerability of those in care homes, prior testing was in any event necessary.
+
+Ministers were plainly aware of serious concerns that had been raised by stakeholders from an early stage about discharge without prior testing and the great vulnerability of those in care homes to the introduction of disease by this route. Those stakeholders included the Older People's Commissioner, Care Forum Wales, Care Inspectorate Wales, numerous providers and local government leaders. Those concerns should have been listened to and acted upon, but they were not.
+
+There had been suggestions that the decision not to test may have been linked to limitation on the availability of tests, but Dr Goodall indicated that there were about 1,800 tests available a day in mid-March, and the number dramatically increased from the beginning of April. As we explain in more detail in our written closings there were only about 18 patients discharged per day without a prior test in March 2020 and about 11 a day in April 2020 in Wales. So those discharged constituted, as a maximum, only 100th of the available testing capacity.
+
+The importance of not sending infectious patients into the tinder box of a care home was so great that allocating this relatively tiny handful of the available tests to this context was plainly justified. And indeed the First Minister agreed with this yesterday, he described this as a fair point and accepted how vulnerable those in care were.
+
+Alternatively, if your Ladyship considers that there were not sufficient tests, then it's important to ask why not. A similar issue, as Mr Gething put it, is the woefully inadequate levels of PPE. Having a big enough stockpile of tests and PPE is a fundamental basis for an effective response to a pandemic. The need to ensure the UK has enough access to tests and PPE for any future pandemic ought, in our respectful submission, to be a key recommendation made by this Inquiry. The costs of not being properly prepared going into a pandemic, for example the huge number of additional deaths and the need to close down the economy, plainly hugely outweigh the costs of being properly prepared by having enough stockpiles of PPE and tests.
+
+The second example is data. There was, as the Office for Statistics Regulation put it, a data chasm in social care. Deaths from Covid-19 were not properly counted at an early stage. Dr Cooper said data in the care home sector was a "significant challenge":
+
+"... there wasn't a system that really could be relied upon for us to help inform action or look at the reality of what was happening in any sort of systemised data way [on the ground]."
+
+The third example, stakeholders and the implementation gap. There was some limited stakeholder engagement by the government. For example, the government consulted with the Older People's Commissioner and Care Forum Wales and later, in 2021, with the Disability Equality Forum.
+
+This was a good start, and contrasts to the lack of any significant engagement by the UK Government. But it did not go anywhere near far enough. There remained two serious deficiencies. So, firstly, the involvement of stakeholders was too limited. The commissioner, while of course very important, does not have a formal structure which ensures that government understands the concerns of all those in care, she doesn't represent younger or all of the disabled people.
+
+Professor Foster considered that disabled people were not adequately represented in political decision-making. She explained a number of problems which may have been avoided, had there been better representation. Those problems included the failure to think about the consequences of the restrictions and the removal of the human rights of those in residential institutions.
+
+Similarly, Dr Cooper accepted that the government should have set up settings-based meetings with people with lived experience of care homes.
+
+The second deficiency was what's been called an implementation gap. Professor Foster explained that this was "the area we are really worried about", referring to the authors of the Locked Out report. The input of stakeholders at the core policy level was not being implemented. This concern was echoed by Ms Herklots, who said that there was a significant disconnect between what was being promised at policy level and what was being delivered on the ground. It was not enough for the government just to listen, they also needed to act.
+
+The First Minister yesterday certainly agreed, in his words, that there was an implementation gap, and indicated that there were many contributory reasons for it. He accepted lessons should be learned. They included that the ownership pattern of care homes in Wales was problematic, and it meant that, firstly, the views of the disparate audience were not sufficiently represented and, secondly, the complex pattern of intermediaries, as he put it, made it difficult to distribute things like PPE.
+
+He made suggestions for improvements including a central register of care homes and care councils. We very much agree that there should be improvements but respectfully suggest that these problems should already have been rectified.
+
+There was a wider lack of co-ordination across the Welsh Government and with local authorities. Mr Llewelyn explained that there was a failure to properly engage with local authorities from an early stage. He said that there was experience and capacity within local government and had it been used at an earlier point then it would have led to better regulations and better guidance.
+
+Dame Morgan accepted that there was inadequate co-ordination, including with the Welsh Local Government Association.
+
+The document, "A Review of the Health & Social Services Response Structure to COVID-19", which was in September 2020, identified a number of problems with internal co-ordination in the government's response structure. This included a lack of clear accountability as to the roles of cells, which included the planning and response cell and its social care subgroup, and the report accepted that at times this created confusion.
+
+The fourth example is indirect harm. Core decision-makers, in our submission, failed to properly recognise and investigate indirect harm, failed to pay sufficient attention to it and consistently made decisions which ignored or devalued that harm.
+
+The core decisions, especially early in the pandemic, were normally made solely or largely on the basis of whether they would reduce Covid-19 or whether they would stop the NHS from being overwhelmed.
+
+Other harms, for example dementia or cancer, or devastating the care sector, were ignored initially and later given insufficient weight. While this may have been understandable to begin with, given the challenge that Covid-19 posed, that doesn't mean it was right. A death due to dementia is no less important than a death from Covid-19 and it should not have been devalued.
+
+Recommendations. This is a sub-part of this fourth example. The Inquiry is respectfully invited to consider making a recommendation to the following effect:
+
+Restrictions should not be imposed unless all reasonable efforts have been made to identify the harms that would arise, and that's both Covid-19 and indirect harms.
+
+Secondly, there should be a balance between the benefit in reducing Covid-19, of the restriction, against the indirect harm that should be caused by the restriction.
+
+Thirdly, the balance should take into account personal autonomy and individual needs given the fundamental importance of those factors. That importance is well illustrated in the care sector. The decision, for example, whether a care home resident will spend their last months isolated, in severe decline, with an increased risk of death from non-Covid-19 causes, or face an increased risk of Covid, is a very difficult and fundamental decision, and the resident should have a central say in it.
+
+The fifth example is conflicting and unclear guidance. There were many calls for clear and consistent guidelines for those needing care, from March 2020, which were not heeded. For example, Ms Herklots' request on 14 April 2020 for an urgent action plan met with a wholly inadequate response, and an action plan was not published until 30 July 2020.
+
+Guidelines and regulations were unclear, contradictory and confusing. Vague definitions of criminal offences caused confusion and unfair prosecutions. The Welsh Local Government Association offered to provide their expertise to help prepare and draft legislation, but this was overlooked by the government.
+
+There ought to have been an individual in central government who had specific responsibility for ensuring that communications about Covid-19, and about rules or guidance, were clear and consistent, and that individual should have understood how to communicate with people who may have difficulties in understanding. It appears that there was no such specific individual.
+
+The sixth example is restrictions on visits. Preventing contact between those needing care and their carers or loved ones caused very serious harm. The government was repeatedly invited to make certain specific changes from an early stage which would have allowed safe visiting. Just to give one example, they included that an essential caregiver should have been given the right to visit a person in care. The essential caregiver would have been provided with the same testing and PPE as an ordinary member of staff and may be expected to limit contact with others. Although that recommendation was made from a very early stage it wasn't implemented and there has been no good reason why not.
+
+The seventh example is parity with the NHS. There were many ways in which the care sector was put in second place behind the NHS. Mr Llewelyn said social care workers felt that they were neglected by the government and did not have parity of esteem with other care workers. Similarly Ms Herklots explained that social care was definitely seen as secondary to the health service in a number of different ways. She gave examples and they include social workers or essential carers were not recognised as key workers in the same way as NHS workers, staff and visitors to those in care were not given equivalent testing, and social care staff were not given their pay for sickness absence associated with Covid-19. Similarly, the NHS was prioritised for supplies of PPE and testing over the care sector.
+
+The eighth and final example is a group, other examples of systemic, less favourable treatment of those in care. There was deeply worrying evidence that, at least at the start of the pandemic, positive decisions were made not to make healthcare available to those needing care. Ms Herklots explained that health professionals had stopped visiting care homes. Ms Provis, Ms Grant, and the Amnesty report drew attention to a range of evidence that critically ill care home residents were refused all sorts of medical care, ambulances, transfer to hospital and so on, on a blanket basis and for no good reason.
+
+Similarly, there was widespread evidence of "Do not attempt CPR" forms being imposed on those in care without their consent. Unpaid carers were particularly neglected by core decision-makers. They should have been an important issue for the government, because of the huge number of unpaid carers, particularly in the pandemic, and because of the particular vulnerabilities of those giving and receiving unpaid care. The problems had been brought to the government's attention but really nothing or very little was done about them.
+
+In summary, as these eight examples show, there were many respects in which those in care were neglected. An important question for this Inquiry is why. One answer is that, taken cumulatively, those examples indicate discrimination against those who needed care and against older people, ageism. Professor Foster said disabled people were generally seen throughout Covid as dispensable. The Locked Out report details evidence of disabled people experiencing medical discrimination, restricted access to public services and social support, and an erosion of basic human rights. Ms Herklots had serious concerns about ageism and that older people's rights were not being sufficiently protected.
+
+Another linked answer to the question is that core decision-makers abandoned the duties in the Equality Act and Human Rights Act. There is little evidence of those duties being considered within the Covid response. For example, we've seen no recognition of the right to respect for family life by core decision-makers, that restrictions must be the least onerous necessary, and the important principle within that right of personal autonomy.
+
+The Locked Out report concluded:
+
+"Disabled people's human rights, including the basic right to independent living, have been discarded during the pandemic."
+
+And we agree.
+
+Similarly, the public sector equality duty was repeatedly not complied with. The Locked Out report concluded:
+
+"The use of Equality Impact Assessments ... during the pandemic have been conspicuously absent."
+
+"... I think had they been undertaken, some of the issues that we raised in the report would have been discovered", Professor Foster said.
+
+Ms Herklots echoed those concerns, and Mr Miles accepted that, in future, the government should establish an earlier pattern of each type of formal impact assessment. While abandoning human rights and equality duties must have been the easy option, if anything, those duties were even more critical in a time of crisis than otherwise. Protected groups are at far greater risk, and decision-makers are most in need at this time of a framework to help them draw these difficult balances.
+
+In conclusion, my Lady, as Baroness Morgan said on 12 March, the pandemic isn't over. That is especially true for people in care who remain subject to restrictions. We respectfully invite you to carefully consider making recommendations not just for a future pandemic but also for those who are still suffering because of this one.
+
+Those are my submissions.
+
+**Lady Hallett**: Thank you very much, Mr Straw.
+
+Just so everybody appreciates, you've mentioned there your written closing submissions, I will obviously be taking into account the written submissions very carefully and the idea of the oral submissions is to highlight the features that appear in your written submission, and that applies to all core participants.
+
+Thank you very much.
+
+**Mr Straw**: Thank you.
+
+**Lady Hallett**: Mr Friedman, are you going next?
+
+**Mr Friedman**: Yes, my Lady.
+
+Submissions on Behalf of Disabled People's Organisations by Mr Friedman KC
+--------------------------------------------------------------------------
+
+**Mr Friedman**: In this module we act for two disabled people's organisations or DPO, they are Disability Wales and Disability Rights UK.
+
+All the governments you have studied purported to champion their categories of vulnerable people and to act on their behalf. The Inquiry will evaluate the success of various endeavours, but for disabled people there is a real basis to fear that in Wales this is as good as it gets, and it was not good enough.
+
+The Welsh Government system of civil contingency was not resilient. In spite of its humanist values and collaborative practices, government could not deliver quickly and widely enough to its population. We want to address you on some of the reasons why that was so, but we also want to ask, because it is a question that we think my Lady must ask, what is it that would render emergency systems in Wales and the UK more resilient in the future?
+
+Starting with why Wales was not resilient.
+
+This module shows that the small state quality of Welsh Government, presiding over some 3 million people and with embedded close relations, has both possibilities and challenges. Certainly social partnership meant something in Wales when different groups came together to assist government response as well as they could. You see this collaboration during the pandemic when the Social Partnership Council expanded beyond its traditional membership of unions and commerce to include various statutory commissioners and the council for voluntary action, although not the DPO.
+
+Helena Herklots, as the Commissioner for Older People, was able to tilt the minister to introduce more concrete planning for the needs of older people when the minister's original inclination was not to do so.
+
+Likewise, it was in Wales and not England or Scotland that close and dynamic collaborative meetings took place between DPO and government. Those meetings with Deputy Minister Hutt started in early April 2020. The UK Government did not even table a discussion on the pandemic's impact on disabled people with ministers until 21 May, and did not start meetings with DPO until July, before they promptly finished them.
+
+However, the problem for Wales during the pandemic is that it was too small, both in terms of the power it held and its capacity to do things differently. It was too small not to be taken for granted by Westminster. In Welsh unionism, the UK Government did not face the nationalist challenge of the Scottish Government or the perennial special measures necessitated for the Northern Irish one. The result was Wales being informed about decisions rather than being consulted upon them on numerous occasions. It was not invited to SAGE for its first five meetings. It learned, barely days before enactment, that devolved public health law and not reserved aspects of UK civil contingency law would govern lockdowns.
+
+Wales could have gone for a sooner and longer October firebreak, but it stumbled in political and economic headwinds which made it cautious about acting, and especially so when it felt unsupported by the UK Government. Wales was also too small to escape being parochial and limited in what it could do locally to really change its outcomes. There was not a world-class epidemiologist like Mark Woolhouse to email the Chief Medical Officer early on and focus minds. Sir Frank Atherton and Dr Orford did not have the difficult ministerial client that Professors Whitty and Vallance had, but it seems that they did not make clear the gravity of Covid-19 as early and as rigorously as they should have done.
+
+For all the real value that can be placed on the close relationships that facilitate small government in Wales, they did not always lead to joined-up planning. The leadership of Public Health Wales was constantly in conversations with the CMO in January and February 2020, knowing how much Wales was going to be exposed in terms of its population profile, but these conversations did not translate into consequential advice to the Welsh Government about the level of the threat. On 24 January, 3 March and, even to his astonishment, 11 March, Quentin Sandifer failed in his attempt to turn a crisis framed as a health issue into a multi-agency, full-society response that it had to become.
+
+The data gaps in Wales were poor to the point where it is hard to trust that its tragic numbers were not in fact worse. Wales did not routinely collect data on protected characteristics with regard to hospitalisation and ICU treatment. It did not register all Covid deaths in its care homes from the outset. In line with the UK, it still does not systematically gather health data on individual impairment and did not gather information to reflect the social model of disability to ascertain what disabled people might need, even though Wales has led the UK on the importance of the social model for over 20 years.
+
+Like the rest of the UK, the Welsh Government's lack of situational awareness of its care sector was fatal. However, unlike the rest of the UK, Wales in 2015 incorporated a requirement to have due regard to the United Nations convention on the rights of disabled people into the code of conduct under the Social Services and Well-being (Wales) Act.
+
+My Lady can return to this in Module 6 but it is not clear at all how Welsh government or the social services of Wales interpreted that convention, especially with regard to data collection and emergency planning.
+
+My Lady, these queries of Wales raise serious questions for devolution, because, regardless of what one calls it, we live in a United Kingdom with a lower case federalist division of powers and responsibilities. It would neither be possible or sensible for public health choices to be made by state apparatus not steeped in and accountable to the local population. And yet the people on the margins of each part of this system were rendered vulnerable by its flaws, and in that we include disabled people.
+
+The DPO therefore ask: what would make the system more resilient in a future pandemic or similar whole-society crisis? That is your ultimate question. The DPO use Welsh Government as the case study. They use disabled people as the litmus test, as that is their concern, but also because vulnerability and impairment are part of the universal life cycle, although the disproportionate impact of that vulnerability is socially determined.
+
+A state that is truly responsive to that reality needs this Inquiry to help it find the co-ordinates of change.
+
+First, the case of the DPO during these government modules is that the system was vulnerable, not people. The opposite of vulnerability is resilience. Resilience is not a natural phenomenon. Some organisations, families or individuals might be more robust than others but resilience is about assets, and it is the state that plays a key role in generating, protecting and facilitating those assets. This is truly the starting point. Overlooking this enables individualising the problem, overestimating that something will happen without intervention or, worse, accepting that nothing can be done.
+
+Second, while it is tempting to think that things could be done better if there were only better people in place -- and Minister Jane Hutt was valued by DPO in this regard, and others have been criticised -- a system that overly relies on personality lacks resilience, because it is too dependent on singular points of failure or singular points of success.
+
+In a whole-system crisis there clearly needs to be a better way than hoping our leaders make the right judgement calls. The necessary surge of services must happen because of pre-planning and practice, not chaotic improvisation. Different levels of political and civil society must come together despite their differences. There needs to be a more integrated system of collective resilience.
+
+Our third point is that the beginning of that system would involve dedicated machinery with a core aim of generating resilience in UK devolved and regional governments. The machinery has to be intergovernmental, irrespective of whether UK central government takes a leading or facilitating role. It needs dedicated ministers at each level of government to mitigate the consequences of inequality. It has to be assisted by executive agencies that operate in partnership with local organisations. The matter can be reviewed after the Northern Ireland module, but it requires revamped commissions concerned with equality and human rights which, amongst other things, need more effective powers. With all that machinery, we need disabled people as leaders and managers rather than still too often managed and led.
+
+Fourth, the effectiveness of any resilience system involves synchronisation between the centre and the locality. You cannot have situations as befell the Welsh Local Government Association, where those who will have to deliver emergency services are the last to know about them.
+
+Likewise, the notion of whether Welsh local authorities relied on the easement of care duties under schedule 12 of the Coronavirus Act remain just that, a notion. No local authorities filled out a form to say it was withdrawing services, yet no audit has been done of the manner in which services and easements were curtailed. That is the Welsh version of the problem. My Lady knows it happened elsewhere.
+
+The answer lies in creating a structure of national, regional and local resilience organisations, not mere meetings. They must have statutory duties, adequate funding and external auditing. There were in Wales, as in all other nations, assumptions about the readiness and capacities of local authorities, health boards and care settings which were essentially intuitive. They should have been informed by periodic inspection. DPO, but also other third sector groups, must be enrolled into all these organisations with status and funding. They can no longer be seen as some sort of amorphous voluntary populus whose views might be considered without any structured core participation.
+
+Fifth, if government wants state organisations and their personnel to deliver on resilience against inequality, they need to provide continuous training and learning about how to do so. In terms of who is to give the training, it is crucial that it includes lived experience expertise, including from DPO and third sector, but also bereaved families and frontline workers.
+
+Sixth, as part of treating, training and learning, government, civil servants, third sector and private sector all need to develop a far greater skill in the practice of co-production and co-design. This language of co-production is not just an idea, it is a central tenet of Welsh Government policy and has been commended by a range of state and non-state actors in other modules. It is a method, important to DPO and central to the latest developments in key international human rights law, but its relevance is broader than that.
+
+In disaster management, the aim of co-production and co-design is not just to be kind, but to be smart. In the provision of scientific advice it ensures that advice remains grounded in social reality. In response to an emergency, as the British Red Cross would put it, it's about making your friends before you need them.
+
+It is also not just about talking. As Jane Hutt suggests, it concerns acknowledgement of information shared, consideration of its relevance, and feedback on what then happens. It mitigates the lack of diversity and potential biases that will occur when politicians and experts hold conversations only amongst themselves, and it creates better outcomes if decisions have been stress tested by the people who will potentially live and die by them.
+
+My Lady should recall that the Disability Unit in the UK Cabinet Office wanted to create a national disabled people's panel as part of its "ambitious planning" that was never taken up. There needs to be UK and devolved nation convened taskforces with DPO to coproduce emergency risk assessments and planning for disabled people and that work then needs to be channelled into general planning at various national, devolved and regional levels of state.
+
+Seventh, human rights protection of disabled people matters in pandemics because they are the people that are disproportionately affected. If governments are committed to those rights, they need to specifically show how they comply with them in this field, admit the gaps, and create legally enforceable means to resolve disputes of contested interpretation, otherwise rights remain merely aspirational rather than practical.
+
+Wales has codified a requirement to consider the United Nations Convention on the rights of disabled people, it has created an obligation to have due regard to the UN Convention on the Rights of the Child since 2011, but these rights are not yet embedded in real-time decision-making, especially as regards emergency planning and data in relation to disabled people.
+
+To secure those rights before they are needed, they need to be incorporated into the law of Wales but also the law of the whole of the UK.
+
+Further, if one is serious about equality and non-discrimination, then the form filling and absence of real-time scrutiny that have made the method of impact assessments impotent has to end. Across a range of equality and rights-based mandatory considerations, impact assessments should involve both thinking and collaboration with the third sector to make the discipline the centre of gravity of good governance and the source of real resilience.
+
+Our eighth point concerns the gaps in data systems and analysis that are truly profound. Neither local resilience nor effective delivery to the people who need it will properly exist without a more sophisticated system of data collection and its deployment. The ONS did a good job at the top of the structure, but there needs to be a far wider network of data collection, distribution and analysis with the technology to assist it. We are supposed to be in the midst of an information revolution, but its possibilities have not reached yet the interests of marginalised people.
+
+There also needs to be a practice of co-production and co-design of services by DPO and other representative groups to enable national data projects to happen in a way that can be trusted not only by government but also by those who are governed.
+
+Our ninth point concerns people. Harnessing the positive qualities of people and groups requires proper integration between state and society. This is not merely a communication exercise; it's about structure and action. There needs to be organised, practised, data-informed, inclusive and valued connection between the centres of power and the critical parts of the human geography that whole-society crisis response must be able to reach and collaborate across. That includes independent experts and agencies, those who deliver on the ground, whether it's local government, other Category 1 responders, the third or the private sector, but also the people, families, streets and communities that make up everyday ordinary life, the very essence of what government is there to protect.
+
+That leads to our final point, which is the moral economics of all of this. My Lady has heard our submissions that human rights will not be enough in a pandemic without social and economic rights. You will come to your own view of whether or how much to express that in accordance with your terms of reference. In concrete terms, the DPO want equality and human rights impact assessments to be applied to budgeting, including the duties to consider socioeconomic disadvantage under section 1 of the Equality Act, and they want all governments to practice co-production and co-design of economics with all its people and not just more powerful interests.
+
+My Lady, economics can, of course, be the subject of political differences, but the recommendations we and others are putting to you are actually about coalition and society recognising its greater interconnectedness, its sense of shared ethics and the price that was paid for not putting value on things that should have been more valued.
+
+On any view, the changes now needed to avoid pandemic inequalities must involve considerable and progressive effort to make democracy more social again, and more socially connected than it has been for some time now.
+
+Rhodri Morgan, one of the architects of the modern government of Wales, said that devolution would create a living laboratory in which different policy ideas could be explored. The Covid pandemic caused some of the great and tragic living experiments of our time. It is this Inquiry that must gather the learning up and make its recommendations.
+
+**Lady Hallett**: Thank you very much, Mr Friedman.
+
+Ms Heaven.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice Cymru by Ms Heaven
+----------------------------------------------------------------------------------
+
+**Ms Heaven**: Thank you, my Lady.
+
+The Covid-19 Bereaved Families for Justice Cymru have come to this Inquiry seeking truth, justice and accountability for all those bereaved by Covid-19 in Wales. At the outset of this module we set out in stark terms the total number of Covid-19 deaths registered in Wales up to 2 February 2022: 12,510. That figure increased to 12,559 by 16 February 2024.
+
+The impact film and the powerful evidence of Elizabeth Grant and Amanda Provis served as a tangible heartbreaking reminder of the tremendous loss of life and trauma experienced by the bereaved. As Elizabeth Grant reminded us, thousands of deaths on the dashboard were desensitising people to the fact that this was actually people, they were loved people, they'd just become statistics and numbers.
+
+The deceased must not be reduced to statistics and the trauma experienced by the Welsh bereaved must not go unheard. The Welsh bereaved witnessed day after day the individual and systematic failure to adequately protect their loved ones as Covid-19 spread like wildfire through hospitals and care homes, fuelled by inadequate testing regimes and insufficient PPE. The Welsh bereaved want answers.
+
+Against this poignant backdrop, the Welsh Government has repeatedly shirked a granular inspection of Welsh decision-making by refusing to open itself up to scrutiny in a Welsh-specific Inquiry, seeking instead to blame the UK Government.
+
+It is also regrettable that this Inquiry, and indeed this module, has been forced to spend so much time asking about missing evidence and destroyed WhatsApps. The Welsh Government has consistently sought to deflect blame by asserting what appears to have been a party line, that decision-making was not made on WhatsApp. As you rightly identified, my Lady, the real issue is one of record-keeping and public accountability, and it is worrying that many of the witnesses before you, including the First Minister for Wales, Mr Drakeford, did not appear to appreciate this. It was not the policy that was wrong, what was wrong was that government communication during a national emergency was deleted.
+
+My Lady, we invite the Inquiry to publish all the WhatsApps so that the Welsh people can see what their government was using informal messaging for.
+
+At the outset of this hearing, the Welsh bereaved invited witnesses to be transparent, reflective and accountable. A reasonable request of Wales' democratic leaders one might think. The Welsh Government does not appear to have heeded this plea. The evidence given to this Inquiry can be characterised by a lack of willingness, in many quarters of Welsh Government, to give open accounts of what went wrong and why, and to accept that mistakes were made, which they undoubtedly were. Much like the tenor of the Welsh Government's written evidence, its oral evidence has been laden with the heavy caveat of hindsight, whilst seeking to deflect blame on to others. The Welsh Government has approached this Inquiry determined to robustly defend their decisions.
+
+This was most starkly illustrated by the way Mr Drakeford and Mr Gething gave their evidence to you. Both refused to accept that any mistakes had been made. For example, they refused to accept that a precautionary approach should have been taken to asymptomatic transmission in April 2020, which is simply staggering given the evidence we know they had from SAGE, the UK Government and their own advisers.
+
+Between them they also refused to accept a failure in planning for this pandemic. Mr Drakeford did not accept that he should have cancelled mass gatherings and Mr Gething only accepted this with the qualification of hindsight.
+
+They both defended the delays by the Welsh Government on introducing testing in care homes and tried to explain away the Welsh Government's obviously illogical divergence on face coverings.
+
+Mr Drakeford even failed to accept that he should have attended COBR early, whilst in the same breath criticising Boris Johnson for exactly the same thing. In all the other modules, my Lady, you've heard some reflection and some acceptance that mistakes were made, and it is deeply worrying to the Welsh bereaved that their government seems incapable of doing the same. This ought to raise a real concern that lessons have not truly been learnt here in Wales.
+
+Now, early response. The Welsh Government's initial response can be summarised in three words: passive, slow and disjointed. Valuable time was lost in January, February and the early part of March 2020, when the virus was allowed to spread, with ministers and advisers complacently waiting for the first case to arrive in Wales and, thereafter, responding with sloth-like urgency. It was obvious from late January 2020 that what was happening internationally could soon happen in Wales.
+
+The Chief Medical Officer for Wales, Frank Atherton, warned the First Minister by 24 January 2020 that there was a significant risk the virus would arrive in Wales.
+
+At the 29 January 2020 COBR meeting, the UK Government confirmed its intention to prepare for the reasonable worst-case scenario.
+
+The Welsh Government should have been electrified at this point, but it was not. Instead, it took a laissez-faire approach, only discussing Covid-19 in Cabinet on 25 February, notwithstanding the clear risk and the evidence that the NHS in Wales was at risk of becoming overwhelmed.
+
+Mr Drakeford's response was to refer to informal chats in the corridors of power and a suggestion that Covid-19 was happening elsewhere, suggesting that the signals were not there at the time, as it was low risk and so "not pressing". Mr Drakeford appears to have conveniently forgotten that on 31 January 2020 his Chief Medical Officer, Frank Atherton, formally increased the risk level from low to moderate, alongside the other UK chief medical officers, and issued a press statement on that date stating that this meant the UK should plan for all eventualities. INQ000048722.
+
+We invite the Inquiry to publish this notice from Sir Frank of 31 January so that the public can see the evidence for themselves.
+
+The Welsh Government could and should have acted sooner in the areas where they did have responsibility, namely health and social care. They could have ensured infection prevention and control measures were in place, that hospitals were prepared, that there was surge capacity, that care homes knew what to do in the event of an outbreak. They could have started earlier to count up the PPE. They could have liaised with key partners, establishing effective consultative fora, and formulated co-produced plans on a whole range of non-pharmaceutical interventions. Instead, they did not act with urgency at this stage but waited for the virus to arrive. This was not national strategic leadership.
+
+Chris Williams and Tracey Cooper from Public Health Wales were aware of the looming threat of Covid-19 and were mobilising from mid to late January 2020. In a call to arms they called for prompt action from the Welsh Government. The frustration felt by Chris Williams and Tracey Cooper was palpable in their evidence to this Inquiry. If Public Health Wales could see the threat "coming down the line", why couldn't the Welsh Government?
+
+Mr Drakeford in his evidence suggested the reason he didn't hear from Public Health Wales was because their concerns were not being passed to him by his Chief Medical Officer. This was a very poor example of blaming others, and another example of deflection from Mr Drakeford. Again, this was not national strategic leadership.
+
+The sentiments expressed by Dr Quentin Sandifer, then lead strategic director of Public Health Wales, have been borne out by the evidence that you have heard:
+
+"What I think was missing in the first few weeks, from 8 January 2020 when I first became aware to 20 February 2020 when the [Health and Social Services Group] Coronavirus Planning & Response Group first met, was national strategic leadership and co-ordination from the Welsh Government."
+
+Now, Mr Drakeford was very dismissive of Dr Quentin Sandifer in his evidence to the Inquiry, but on his own admission little was being done in that early period. It might be suggested that, rather than gallivanting around Brussels attending cultural events on St David's Day on 4 March 2020, Mr Drakeford would have better served the Welsh people by attending COBR and also communicating with Public Health Wales and Dr Sandifer.
+
+Now, in relation to lockdown, Dr Hoyle, Dr Williams, Dr Cooper and Professor Gravenor all say that the national lockdown should have been introduced two weeks earlier as a minimum. Mr Drakeford in his evidence said that it was only on 21 and 22 March 2020 that he and Nicola Sturgeon were calling for a national lockdown. The Welsh bereaved question why on earth was more pressure not being exerted earlier by the Welsh Government on the UK Government?
+
+PPE. By the end of January 2020 at the very latest it must have been obvious that if Covid-19 arrived in Wales, PPE was bound to be needed and potentially in large quantities and very quickly, however we heard that the Welsh Government's health countermeasures group, which was tasked with operational co-ordination and oversight for PPE, did not start that work until 12 February 2020.
+
+The lack of urgency this shows in thinking through the supply and delivery of PPE is difficult to understand. Why was this crucial work not started at the very first opportunity?
+
+As regards PPE for social care, the evidence showed the first decision by the Welsh Government to provide substantial help to the sector was not taken until 19 March 2020. Care providers could approach local health boards for PPE, but only if a case of Covid-19 had been confirmed. Well into April 2020 serious problems with PPE continued, as evidenced by the Welsh local governments' call for action and the joint statement on 12 April 2020 from the British Medical Association and Wales TUC, calling for assurances from the Welsh Government that health and social care staff would get the PPE they needed.
+
+There is no doubt that those in dire need of PPE in these early weeks were profoundly failed by the Welsh Government.
+
+Mass gatherings. The Welsh Government was slow to ban mass gatherings in the face of known rising rates of community transmission. The scientific evidence by 11 March 2020 was that banning mass gatherings could result in a reduction in infection-related deaths by 2%. The Scottish Government took the decision to cancel mass gatherings of over 500 people to release pressures on the emergency services. Notwithstanding these known benefits, the Welsh Government recklessly declined to take the initiative to cancel a Wales v Scotland rugby match scheduled for 14 March 2020 in the face of significant concerns raised and a recommendation to do so by Public Health Wales, leaving it to the Welsh Rugby Union to make the decision whether to do so, which of course they did.
+
+In his evidence, Frank Atherton and indeed Mr Drakeford clung desperately to the absence of direct SAGE advice on banning mass gatherings to justify the position, accepting only with the caveat of hindsight that banning mass gatherings would have given the correct signal to the public. In his evidence, Mr Gething drew comparison between indoor and outdoor events and the cultural significance of rugby. This does not explain why the Welsh Government allowed two Stereophonics concerts to proceed on 14 and 15 March 2020. This was not national strategic leadership but rather a total abdication of responsibility by the Welsh Government.
+
+Care homes. It is of course the case that the Welsh Government had to protect hospitals, but this should not have been at the expense of vulnerable care home residents who were in effect locked in without visitors and without a voice.
+
+The Welsh Government had a duty to protect all vulnerable people, yet when the virus erupted in March and April 2020, the Welsh Government recklessly exposed those in care homes to Covid-19 when on 9 April 2020 they introduced a policy directing care homes to accept people with symptoms of Covid-19.
+
+This was at a time when they knew from the Welsh Local Government Association and the Older People's Commissioner, Helena Herklots, that the virus was spreading like wildfire in care homes. This was also at a time when they knew there was an inadequate and inconsistent supply of PPE, that there was no testing regime, and that residents were dying in circumstances where, in the words of Ms Herklots, those deaths were not even being counted.
+
+It is deeply upsetting to those who lost loved ones in care homes to hear Frank Atherton dismiss their concerns because "the numbers were not large", and assert that there was PPE when we know this was simply not consistently the case, and then to pass the buck on to Public Health Wales who apparently were left to give some advice on infection control.
+
+The obvious questions were simply not asked. For example, who was going to care for the sick supposedly isolated residents? It was of course the healthcare workers, who would also be caring for many others in a context where there were no tests and quite possibly no adequate PPE.
+
+The Welsh Government's decisions on 22 and 29 April 2020 to test everyone being discharged to a care home and provide step-down facilities for those who tested positive was a change that came later in Wales as compared to England. Similarly, the decision to extend testing to all staff and residents in care homes was not taken until 16 May 2020, slower than all the other three nations.
+
+Why did the Welsh Government simply wait for leadership from the UK Government on these matters? Why was it not leading the field in the area of testing and being proactive rather than reactive? The Welsh Government wants to be compared in this Inquiry to the UK Government, and indeed all the other four nations. Well, in respect of testing in care homes and of health care workers, the Welsh Government clearly came last.
+
+Transmission. As early as 28 January 2020, SAGE and in turn the Chief Scientific Adviser for Wales were aware of the possibility of asymptomatic transmission. In the absence of certainty on asymptomatic transmission, but in the context of clear evidence of risk, Welsh Government decision-makers could and should have adopted a precautionary approach. The failure to do so is unacceptable and had devastating consequences in Wales.
+
+Mr Gething was presented in this Inquiry with a wealth of evidence demonstrating a growing awareness of asymptomatic transmission from as early as 4 February 2020. Mr Gething accepts that he knew about much of this evidence, and at an early stage, and on his own admission he knew about the CDC report of 27 March 2020, which clearly stated that asymptomatic transmission is real and should be assumed and "once Covid is introduced into a long-term nursing facility, rapid transmission can occur".
+
+It is difficult to understand, then, how Mr Gething could think it appropriate to make a public press statement on 2 May 2020 stating:
+
+"At the moment, the evidence does not support the blanket testing of everyone who does not have symptoms."
+
+When a different position was being taken by the UK Government in England, this was a clear failure in public health messaging which directly conflicted with the four nations approach.
+
+Despite the overwhelming evidence at his disposal, Mr Gething was unable to share Matt Hancock's biggest regret of not pushing harder for asymptomatic transmission to be a baseline assumption. Instead, Mr Gething referred again to hindsight, and sought to fall back on the advice he claimed to be receiving, and the fact that he was not being told to act, again seeking to blame others. But why did Mr Gething need to be told what to do by his advisers? And why was he looking for scientific certainty on asymptomatic transmission and taking a pick and mix approach to the science?
+
+As soon as it became obvious that the UK Government had changed its approach to testing, why did Mr Gething not simply ring up Matt Hancock as a matter of urgency to understand the rationale for the change and to better understand the science and to understand what immediate action was required in Wales? Sitting back and simply waiting is not an example of ministerial leadership.
+
+Mr Drakeford also relied on hindsight and said with no caveats or nuance that when it came to asymptomatic transmission the scientific evidence simply wasn't there in April 2020, and we know that he told the Senedd on 29 April 2020 that there was no value in testing asymptomatic patients. Again, we know from the evidence disclosed to this Inquiry that this was simply not the case. How could Mr Drakeford have been so ignorant of what the evidence and the science showed, we ask?
+
+My Lady, we ask you pay very close attention to the witness statement of Albert Heaney, the then director of social services. This is a very important statement, but it clearly tells you that on 23 to 24 April Public Health England shared the results of a survey of care homes which indicated asymptomatic transmission with NERVTAG and with the Welsh Government, and it noted growing international evidence of asymptomatic transmission of Covid-19 in care homes.
+
+The Welsh bereaved want to know why Mr Drakeford and Mr Gething did not tell the Welsh people the unvarnished truth, which was that there was evidence that the virus might be spreading asymptomatically and that testing was crucial. The people of Wales needed to know this information in order to best protect themselves. Was the reality that the Welsh Government was trying to hide from the Welsh people their chaotic response and the fact that they were lagging behind the United Kingdom Government?
+
+Masks. Engaging in unjustifiable divergence is most starkly illustrated by the approach to face coverings taken by the Welsh Government, with Frank Atherton at the helm. There is simply no justification for there to have been any divergence on face coverings in the community across the four nations. Divergence on face coverings would obviously confuse the public and undermine public trust in the science. It was divergence and weak public messaging that created a risk of mask discrimination or face mask militancy in a public who didn't understand or trust the inconsistent and contradictory advice they were being given.
+
+It ought to have been obvious that to leave the public mystified by the so-called scientific advice would do untold damage to the public's willingness to trust their government. There was, in truth, no downside to mandating face coverings in the community. These things ought to have been obvious to Frank Atherton and to the First Minister for Wales, Mark Drakeford, and indeed to the whole Welsh Government, and it's simply incredible to the Welsh bereaved that not even on this topic could Frank Atherton accept that he had failed the Welsh people, but he only accepted that, looking back, "I do wonder whether it would have been a better decision just to simply align".
+
+As for Mr Drakeford, this is another area in which leadership was simply absent. It is also deeply concerning to the Welsh bereaved that in early June 2020 TAC advice was apparently amended following discussions with Mr Gething resulting in the Welsh public not being told that the World Health Organisation was recommending that vulnerable people in the community, where they were 60 and had underlying comorbidities, needed access to medical masks. The Welsh bereaved ask: when was the Welsh public actually given this piece of information?
+
+Autumn firebreak. The Welsh Government knew in September 2020 from SAGE and TAG that they needed to act decisively, they knew local lockdowns were a failed experiment, but when the Welsh Government did decide to diverge and go it alone on a firebreak, they did so in a way that was slow and ineffectual, waiting too long for the lead to be taken by the UK Government, such that the steps that were taken were too little and too late. The modelling request was delayed, the parameters were overly limited, and there's no evidence of advance planning on financial scope for action. It is simply not good enough for the Welsh Government to blame the UK Government for the timing of the firebreak. The evidence simply does not support this assertion.
+
+The Inquiry's not been able to get to the bottom of whether ministers knew that four weeks would push the virus deep into December, close to the time when the vaccine would arrive. This was an obvious and vital piece of information that ministers ought to have at least weighed in the balance. The consequences of not doing so will not be lost on the Inquiry, given the high death rates in Wales in late 2020 and early 2021. And of course then when it came to easing restrictions after the firebreak, the Welsh Government opened up society too quickly, contrary to the advice of Frank Atherton and the Chief Scientific Adviser for Health, Rob Orford.
+
+Now, the Covid-19 Bereaved Families for Justice Cymru wish to make clear, on this topic of firebreak and modelling more widely, that the Swansea modelling team did their absolute best and this should be recognised by the Inquiry, as should the disregard at the way these academics were treated by the Welsh Government, who had to work for free in their evenings whilst also living through a pandemic. These were dedicated professional members of the Welsh public who stepped up to fill the void caused by the Welsh Governments' woeful planning failures. They were treated badly and this is nothing short of a scandal.
+
+Intergovernmental relations. The Welsh bereaved question whether the Welsh Government genuinely did seek to forge relations that would enable the best chance of alignment of policy and public messaging with the UK Government or whether there was in fact a tendency towards silos and a default position of one upping and blaming the UK Government. There should have been no place for playing politics in a pandemic with lives at stake.
+
+So, finally, my Lady, as you know, the Welsh bereaved are incredibly grateful for your efforts and that of the Inquiry team in coming to Wales and bringing some scrutiny to bear on the handling of the pandemic. The Welsh bereaved feel very keenly that you have gone to great lengths to listen to the Welsh people and to hear their stories of bereavement and for that they are very grateful.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much, Ms Heaven.
+
+Mr Gardner.
+
+Submissions on Behalf of the Children's Commissioner for Wales by Mr Gardner
+----------------------------------------------------------------------------
+
+**Mr Gardner**: My Lady, the voices and rights of children and young people are often forgotten. This is all too easy because children may not have the information or platforms available to them to have their voices heard.
+
+On Day 1 of this module sitting here in Cardiff this Inquiry played an incredibly moving impact film. The impact of the pandemic on those who spoke on that film was stark and the loss experienced cannot be measured. But this said, there was an important omission from that film: it did not include a child or young person discussing the impact of the pandemic on them.
+
+Now, the pandemic had an immediate impact on all children and young people in Wales, inequalities caused by poverty and disability in children became more pronounced, children lost many activities that we all took for granted in childhood. As Professor Holland said, these are not nice to haves, but they are an important part of the development of children, and that's recognised in Article 31 of the United Nations Convention on the Rights of the Child. Professor Holland also highlighted that we are seeing a longer-term adverse impact on children's confidence, their school attendance and mental health since the pandemic.
+
+Whilst the pandemic had an immediate and devastating impact on older generations, on the disabled and on those who require care, equally the impacts will be had on children for a generation.
+
+So what was the risk and what was the impact on children? The Inquiry has received detailed evidence on risks generally. Dr Chris Williams stated that the risk from infection to children is low and it must be put in the context of the relatively low severity, the burden on children and the negative effects of school closures.
+
+The evidence before the Inquiry also suggests that schools themselves were not environments driving transmission of Covid-19 at particularly great rates. That is shown in the SAGE advice of 16 October 2020 and again in the Public Health Wales advisory note for 1 November 2021.
+
+The latter of those notes that the closure of educational institutions in the second wave only resulted in a 7% reduction in infections compared to business closures, which resulted in a 35% reduction.
+
+Indeed, yesterday Counsel to the Inquiry referred the First Minister to a TAG report of 7 January 2021 which advised that schools should not be used as a control measure for reducing R, particularly if non-pharmaceutical interventions are being observed.
+
+Now, of course any reduction in contact will reduce infections in some way, but the actual risks need to be considered against the hidden harms.
+
+The TAC report dated 3 June 2020 identified that school closures were having a significant harmful impact on children. The impact included severe impairment to learning, adverse impact on those with additional learning needs, the digital gap exacerbating socioeconomic inequality, and the loss of social engagement, as well as the impact on mental wellbeing and the loss of the protective environment of schools for vulnerable children.
+
+As the report noted, the longer that schools are closed, the more profound the difficulties will be and the greater the cost and challenge to overcome them.
+
+With a view to understanding the impact of the pandemic on children, the commissioner conducted two surveys entitled "Coronavirus and Me" with children and young persons across Wales. They were in May 2020 and January 2021. The Commissioner also conducted a firebreak lockdown listening day with children. These surveys and interventions showed that the impact of Covid-19 on children in Wales was indeed profound. Children reported that they were feeling lonely and isolated by the restrictions that were put in place.
+
+There was, however, an additional important piece of information arising from these initiatives. Many children had a strong sense of fairness. They thought it was fair that there were measures in place to protect older people, but they were also filled with a sense of injustice linked to the appearance that economic necessities, such as opening businesses and hospitality, were being given priority over their long-term education and social needs. This was exacerbated at times when it wasn't always clear to children when, how or why decisions had been reached.
+
+As a group, it was apparent that children and young people were willing to make great sacrifices, not because Covid-19 was such a threat to them, but because if they did not it was a threat to others. This attitude is to the great credit of our youngest generation. When children and young people said that they were willing to make this great sacrifice, the commissioner asks: what was done in return to help them, and was it enough?
+
+My Lady, I turn to the role and the experience of the commissioner in the pandemic and the liaison with the Welsh Government.
+
+The commissioner considers that the liaison with the Welsh Government and its willingness to learn and adapt is a different and far more positive experience than that of her counterpart in England. The social partnership model and the willingness of the Welsh Government to listen and learn in order to inform decisions she says should be commended.
+
+From mid-March 20 onwards the commissioner had regular engagement with ministers and officials, including weekly telephone calls. To the credit of the Welsh Government, as time went on officials and ministers saw that the commissioner could bring something to the table and displayed an eagerness and willingness to hear the experiences of children.
+
+The commissioner commends to the Inquiry the model of the Social Partnership Council, which allowed ministers, officials and the Chief Medical Officer to explain the rules, the latest evidence and major decisions which were to be announced and allowed, and it allowed those stakeholders present to raise issues and concerns. This was an effective way to make sure leaders across all sectors were engaged and had input into vital decisions.
+
+Nonetheless, the Commissioner would respectfully adopt the statement made in oral evidence by Professor Debbie Foster that what was lacking in the pandemic was proactivity, there was a lot of reactivity.
+
+Whilst commending the Welsh Government's willingness to engage with key stakeholders, there is still learning which can come from the handling and consideration of the rights of children during the pandemic and in particular in the initial days of the pandemic.
+
+The commissioner's written closing submissions will provide more detailed submissions on discrete issues such as face coverings, the clarity and application of guidance around contact with family in children's homes, and for children in care and youth justice issues, but today the commissioner highlights some themes where improvement could be made.
+
+Theme one is the timing of initial action and Welsh Government preparedness. Concerning evidence has arisen as to the Welsh Government's preparedness and timing for its initial decision on 18 March 2020 to close schools.
+
+Firstly, it is concerning that the decision to close schools was taken on 18 March 2020 without any legal advice. This is in contrast to the decisions to close businesses, caravan parks and even footpaths where legal advice was taken, as indeed confirmed by Mr Miles in his statement.
+
+It is presumably due to this lack of legal advice that the decision to close schools was taken by the Welsh Government when, in the absence of the Coronavirus Act 2020, it did not have the power to do so.
+
+I pause to note the collective response from the Welsh ministers who appeared before the Inquiry that there was no such decision, only clear advice.
+
+The education minister's published announcement on 18 March reads as follows:
+
+"Today, I can announce that we are bringing forward the Easter break for schools in Wales. Schools across Wales will close for statutory provision of education at the latest on 20 March 2020.
+
+"Today's decision will help ensure an orderly closure ..."
+
+With that information, I leave it to the Inquiry to draw its own conclusions as to whether a decision had been made.
+
+The lack of legal advice also denied the minister the opportunity to be reminded of her legal duties to children and the Rights of Children and Young Persons (Wales) Measure 2011, to which I will return.
+
+Secondly, it is concerning the decision to close schools was taken at such a rushed pace. It is recognised that COBR was not recommending school closures as late as 16 March 2020. Nonetheless, it appears that there had been no contingency planning in the months of January and February 2020 despite, as the Inquiry was informed by Vaughan Gething in evidence, that school closures were a possibility under the response plan and discussions highlighting the possibility of school closures had been taking place since at least mid-February if not sooner.
+
+If proper contingency planning had been started at that time, school closures may have been shorter or even avoided. They may have been implemented in a smoother way, with legal advice and putting in place support for children and young people which they would need for a long period of time away from school.
+
+Further, if proper contingency planning had taken place, the Welsh Government would have had time to assess, understand and consider the impact on children and their rights by involving the commissioner in the decision and by undertaking a children's rights impact assessment. A lack of early planning and conversation with the commissioner, who was in regular contact with children from diverse backgrounds, would have highlighted the need for mitigations relating to the digital divide, disabled children's access to online lessons and the safety and wellbeing of children for whom school is a haven.
+
+Several ministers have come before this Inquiry to suggest that these oversights were due to the pace at which decisions were having to be made. The commissioner does not doubt the pressures of that period, nonetheless the commissioner questions whether the necessity to work at such pace is largely self-inflicted and down to the lack of preparedness and planning. This was to be to the significant detriment to the children of Wales.
+
+My Lady, theme two is the voice of children and young persons. Article 12 of the United Nations Convention on the Rights of the Child guarantees children and young persons the right to express their views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.
+
+This right and all other rights under the UNCRC must be given due regard in all decisions made by the Welsh Government as they affect children by virtue of the Rights of Children Measure.
+
+The practical importance of listening to children was set out in the report "Protecting the mental wellbeing of our future generations", July 2022, in which the executive summary states:
+
+"Having opportunities to express views, and have their views valued is identified by young people as being beneficial for mental wellbeing and can lead to more effective policy responses."
+
+At the outset of the pandemic, it's clear that the voices of children and young people in Wales were not being sought or considered. When the decision to close schools was taken on 18 March, where were the voices of children in that decision which would affect them so significantly? As was confirmed by Professor Holland in her oral evidence, the Children's Commissioner was not consulted on the decision. Jane Runeckles confirms in her evidence that no consideration was given to whether to consult the commissioner. So to confirm, the statutory advocate of children's rights in Wales under the Care Standards Act 2000 was not consulted in the most significant decision affecting children in living memory.
+
+Communication with children and young people around restrictions requires their involvement. As Professor Ann John highlighted in her statement:
+
+"Designing effective communication and interventions with young people will require an appreciation of young peoples' own understanding of the situation and their losses. Outputs need to be age appropriate and there is a need for simple behavioural instructions framed in a contextually relevant way."
+
+As well as consulting the commissioner, an example of how this could be done is the listening day organised in response to the announcement of the autumn 2020 firebreak and indeed the "Coronavirus and Me" surveys.
+
+My Lady, theme three is the consideration of the rights of young people and children's rights impact assessments. In Wales the Inquiry will be aware that there is a duty under the Rights of Children and Young Persons (Wales) Measure 2011 on the Welsh Government to have regards to the rights of children under the UNCRC in exercising its functions. The Children's Rights Scheme 2021, at paragraph 3.1, also requires the Welsh Government to undertake a children's rights impact assessment (CRIA) to understand the social, economics, cultural and environmental effects of decisions on children.
+
+Professor Holland observed in her oral evidence that a CRIA should be started as soon as a new policy or decision is being considered. It is a tool for thinking about the impact on children and their rights. It should think about mitigation of adverse impacts which are identified as part of the assessment. It should be an active, live document.
+
+The CRIA document itself is important, but more important is the substantive consideration of rights and needs of children. The duty under the 2011 Measure is one of substance, not form. There is an obligation on the Welsh Government to consider children's rights and doing so contemporaneously will lead to better decision-making. If this is done contemporaneously in a CRIA document, then that will help to assist evidencing compliance with the duty, but it is not definitive. It is consideration of the substantive rights and mitigation measures feeding into decision-making at the time that will constitute exercise of the duty.
+
+This Inquiry has heard concerning evidence relating to failings in the use of assessments during the pandemic. In evidence a number of ministers and officials were asked in the absence of undertaking a contemporaneous CRIA whether they considered the duties under the 2011 measure. They repeated the same point: there was no time to prepare the forms but they had the issues on their mind.
+
+The Inquiry will have to grapple with whether such vague, after-the-event assurances are sufficient in the absence of documentary evidence of the same.
+
+We do know that for several major decisions no CRIA was created at the time. Four examples set out in Professor Holland's evidence are: the initial decision to close schools, support for children with additional learning needs, the use of face masks in schools, and the impact of self-isolation on children.
+
+Further, as noted in Professor Holland's evidence when CRIA were completed they were often completed late, they were far removed from the original decisions and reflected back.
+
+They raised concerns that the CRIAs were being -- weren't being content -- completed -- I apologise.
+
+The commissioner raised concern that the CRIAs were being completed retrospectively. A CRIA should not be about retrofitting children's rights/considerations into decisions, that they never had this in mind at the time.
+
+This defeats the purpose of the CRIA, which is to ensure that the rights of children are at the forefronts of minds of decision-makers and may lead them to consider and mitigate the impact of the decisions on children before those decisions are taken and implemented.
+
+The Commissioner is concerned that these important duties as they apply in Wales are not sufficiently understood or consistently applied in either substance or a procedural sense within the Welsh Government. The Inquiry is asked to consider the significant and consistent evidence of failures to apply the 2011 Measure, and whether more substantive training and understanding of the same in the Welsh Government is required, and whether structural alterations are required to ensure these important duties are applied.
+
+My Lady, my final topic is whether things could have been done differently, what lessons can be learnt, could children's experiences have been different.
+
+Now, in times of great adversity and significant pressure on decision-makers, it is all the more important the systems are in place to ensure the rights and protections of the most vulnerable in society are upheld, as they are the ones who will be most impacted by monumental shifts and pressures on society. In that light, the failings identified by the commissioner are important for two reasons.
+
+Firstly, listening to the voices of children, contemporaneous and active consideration of children's rights and contemporaneous CRIAs are important safeguards built into the law in Wales which, if adhered to as part of a timely and prepared decision, may have mitigated the impact of the pandemic on children.
+
+In particular, adherence at the point of the first school closure would have reminded decision-makers that schools are more than educational and allowed time to put mitigation measures in place. The digital gap could have been addressed, financial and emotional support could have been put in place, safeguarding measures could have been introduced. Indeed, adherence when considering the easing of restrictions may have led to the re-opening of schools earlier than they were and certainly before businesses and hospitality were able to re-open. This would have lessened the educational, developmental, emotional and mental health harms inflicted.
+
+Secondly, the failings identified are not simply a feature of the pandemic. Whilst giving oral evidence yesterday, the First Minister proudly announced that Wales introduced a scheme to provide free holiday school meals and this ran for longer than any other nation; he did not mention that on 27 February 2024, in the case of The King (on the application of RLQ) v Welsh Ministers, case number AC-2023-CDF-000107, the High Court declared that the Welsh Government's decision on 28 June 2023 to end that provision was unlawful because in taking the decision the Welsh Government failed to consider the rights of children under the 2011 Measure and under the public sector equality duty.
+
+When taking that decision, the Welsh Government left the announcement to the last minute, they did not consult with the commissioner, they did not obtain the views of children or young persons or any persons with protected characteristics, and they did not undertake an integrated impact assessment, a CRIA or an EIA.
+
+The complaints sound worryingly familiar and illustrate that the problem is systemic and persists to date.
+
+My Lady, in conclusion the commissioner respectfully recommends to the Inquiry the following lessons.
+
+There is a need for CRIAs to be undertaken at the time of decisions and for the voice and rights of children to be considered when decisions are taken relating to children. This action is not simply reflective of legal obligations in Wales, it is a necessary conduit to better decision-making around children and mitigation of adverse measures which may impact them.
+
+There is a need when making decisions about children and young persons to do things differently depending on age, living arrangements and existing inequalities. The impact of school closures is significant and decision-makers must, from the very beginning, and continuously, weigh the risk to life against the risks we know school closures pose to children.
+
+Schools must be ready for online learning. Digital connectivity for pupils and staff is key and those who do not have it must receive support.
+
+Finally, the Children's Commissioner should be engaged and consulted early and used as a resource in good decision-making relating to children.
+
+My Lady, the commissioner thanks the Inquiry for allowing her involvement as a core participant of this module and hopes her submissions and assistance help guide the Inquiry to make recommendations for a better decision-making system and support children better in the future.
+
+My Lady, diolch yn fawr.
+
+**Lady Hallett**: Thank you, Mr Gardener.
+
+Just one thing: you mentioned that the impact film played at the beginning didn't include the experience of a child. As you know, this module is focusing on key decision-making, and the Inquiry is very conscious of the impact on children and later investigations will put the focus firmly on children and young people and the loss of social development and the like from closing of schools as well as the loss of education.
+
+And also the Inquiry team are working hard to capture the experiences of children now. From my work as a barrister and as a judge, I'm very conscious that you need to get these memories recorded before memories fade, so thank you very much.
+
+**Mr Gardner**: My Lady, two quick observations.
+
+One, no criticism was intended; it was
+
+an illustrative tool.
+
+Two, I have a seven year old son, Jacob, who I am
+
+sure would be delighted to be in the film.
+
+I'm grateful.
+
+**Lady Hallett**: A lot of people offer to give evidence,
+
+Mr Gardner, but I haven't had a 7-year old yet.
+
+Thank you, I will return at 11.40.
+
+*(11.25 am)*
+
+*(A short break)*
+
+*(11.40 am)*
+
+**Lady Hallett**: Mr Jacobs.
+
+Submissions on Behalf of the Trades Union Congress and Wales Trades Union Congress by Mr Jacobs
+-----------------------------------------------------------------------------------------------
+
+**Mr Jacobs**: My Lady, these are the observations in closing
+
+of the Trades Union Congress, the TUC, and the
+
+Wales TUC. I appear with Ms Ruby Peacock, instructed by
+
+Thompsons Solicitors.
+
+From the perspective of the TUC and the Wales TUC,
+
+looking through the lens of those who worked through the
+
+pandemic, with a particular focus on those sectors in
+
+which workers faced the greatest risk, the story of this
+
+module is of the strengths of social partnership but
+
+also of some ways in which workers in Wales were failed
+
+in the pandemic response.
+
+We start with social partnership and how we say this Inquiry should assess its contribution to decision-making processes of the Welsh Government during the pandemic.
+
+In questioning of general secretary of the Wales TUC, Shavanah Taj, Counsel to the Inquiry went through a list of requests made of the Welsh Government by the Wales TUC and enquired about the extent to which each were actioned.
+
+That was an entirely appropriate line of questioning. This Inquiry clearly and properly appears to have a tight focus on actions: what action was taken, what action ought to have been taken. But assessing the value and role of social partnership requires more than a narrow analysis of what was requested and what was therefore changed. Inputs and outputs in core political decision-making are multifactorial, a request made of the Government being answered may well be indicative of the value of social partnership, but a request being unanswered does not disprove its value.
+
+Foundationally, social partnership is more than a mechanism for demands, it is about sharing views and seeking a shared understanding and approach. That enhances decision-making in direct but also indirect ways. It enables government to be more responsive to the needs of those at work, but also serves public confidence in the government, and there is clear evidence of that in Wales during the pandemic.
+
+The health minister was accurate in his evidence when he explained that the Shadow Social Partnership Council was a good forum for sharing information and good practice and for the consideration, challenge and enhancement of policy developed in response to the pandemic. It gathered all the main stakeholders and helped to provide similar timing and consistency of message.
+
+Social partnership, that pursuit of shared understanding, also avoids the distrust and attrition between government and stakeholders that can be so destructive of good decision-making. This Inquiry has not heard, in this module, of decision-making driven by a corrosive lack of trust between government and its partners. In contrast to the evidence in Module 2 in relation to the UK Government, the Inquiry has not seen a government in the mode of "no surrender to the unions", making bad decisions out of an instinctive desire to be oppositional.
+
+None of that is to say, of course, that social partnership did not also have concrete benefits. The Inquiry has heard, for example, that there was an early engagement with a number of stakeholders, including unions, on issues relating to the disproportionate impacts upon black and minority ethnic groups. The key example was the Wales TUC's contribution to the health and social care subgroup of the First Minister's BAME advisory group to design a tool which could be used to assess the risk posed by Covid-19 in the workplace and help protect those at greater risk. It was used widely throughout Wales following its introduction in May 2020.
+
+As we set out in our opening statement, the physical distancing requirement in the workplace in Wales was supported by concrete steps to ensure it was observed. It was introduced as a legal requirement on 4 April 2020 which formed part of a package of specific rules to support workplace health and safety upon which unions had had an opportunity to meaningfully engage. The equivalent provision in England was set out in guidance and only required observation of social distancing where possible.
+
+In advance of the legal requirement coming into effect, the Wales TUC had advance notice of the provision, having been consulted on it, and had the opportunity to establish a whistleblowing hotline to enable workers to report breaches of the legal requirements.
+
+In relation to financial support for self-isolation there are errors which we will come on to but there was also evidence of a responsiveness and an understanding, albeit belated, as to the need to support those continuing to attend work.
+
+In the evidence of Rebecca Evans, there was at least some recognition that adequate financial support would likely have a positive impact upon suppressing transmission of the virus, and goes some way to ameliorating the unequal impacts of the pandemic.
+
+That acknowledgement and understanding, to a point, contributed to the pandemic response. The self-isolation support payment was increased to £750 in August 2021, a change reflecting an understanding of how the scheme was operating on the ground and the fact that there remained a financial disincentive for self-isolation.
+
+There is also some evidence that, via closer partnership with local authorities, the scheme in Wales was a more accessible one.
+
+A further concrete way in which Welsh Government responded to the repeatedly expressed concerns of social partners, including the Wales TUC, was the establishment of a social partnership group to report on the provision of PPE. As Shavanah Taj set out in oral evidence, this group enabled the Welsh Government to inform key partners about the stock levels of PPE, efforts being made to procure more, how PPE was being distributed and when further supplies could be expected.
+
+Although this did not immediately resolve the supply issues, it was a reassuring avenue of communication which enabled social partners to further disseminate the information, ultimately offering reassurance and increasing public confidence. It contributed to improvements at least in the provisions of PPE.
+
+However, it is clear that notwithstanding some of the advantages of social partnership, there were key areas in which workers in Wales could have been better supported. The context is not just the many who lost their lives, but also those who suffered trauma in responding to the pandemic, and the many who suffered and continue to suffer from Long Covid.
+
+First, PPE delivery. In his opening remarks, Counsel to the Inquiry reflected upon a message sent by the health minister to himself recording the observations of a Welsh hospital consultant: complete chaos at our hospital, no protection for nurses, very low morale, masks not being released.
+
+This account is reminiscent of the reports unions were receiving from frontline workers, not only those in healthcare, but in social care and the many other sectors which continued to work at the early stage of the pandemic, notwithstanding the difficulties they were facing in accessing PPE.
+
+In her evidence, Shavanah Taj described the instance where the Wales TUC was contacted by the husband of a mental health nurse who had been in physical contact with a patient who had later tested positive for Covid-19 but had not been wearing PPE, due to an assumption during the early stage of the pandemic that it was not necessary in that setting for PPE to be worn.
+
+So the issue was not only scarcity of supply, but also of inadequate workplace guidance on the circumstances in which PPE was required.
+
+In the instance involving the mental health nurse and in relation to many other reports of lack of access to PPE in the workplace, Wales TUC was able to convey that report to the relevant organisations and action was taken to resolve that individual case.
+
+However, lack of access to PPE and accurate guidance regarding its use was an issue which, although it gradually improved, required numerous interventions, as Ms Taj explained in oral evidence, it was an area where the Wales TUC felt they had to keep pressing the Welsh Government, although it is right to acknowledge that significant progress was ultimately made.
+
+Second, though the provision of financial support for self-isolation had its strengths from the Welsh perspective, it also had its failures. This was more than a matter of fairness. Poor adherence to self-isolation placed an upward pressure on the R rate, and so it was a matter of keeping that R rate under control.
+
+Self-isolation was a means of suppressing the R rate which did not have the awful impacts of measures such as closing schools, and that was all the more reason for it to have been a focus. It was also an issue that affected those on lower incomes in high risk jobs had already faced poorer health outcomes, and so it was also a matter of taking measures that lessened some of the disparate impacts of the pandemic.
+
+The UK Government was far too slow to respond to this issue, with a financial support scheme not introduced until September 2020. But in Wales the response was even slower. In Wales the main financial support scheme was brought in a month later and eight months after self-isolation was introduced as a key NPI.
+
+Tellingly, countries that properly supported self-isolation did better, South Korea being an example. Surprisingly, Mark Drakeford was dismissive of the idea that lessons could have been learned during a pandemic from such countries, suggesting that the differences were a feature of different cultural norms. We don't agree. Supporting self-isolation, as an example, made just as much sense in Wales and there were no cultural barriers to doing so.
+
+In response to questions, the Minister for Finance and Local Government Rebecca Evans accepted that she would have wanted to provide financial support sooner and further accepted that the point of the Barnett guarantee in July 2020 could have been a point at which financial support was introduced. That at least is welcome.
+
+The third, my Lady, relates to those working in the social care sector. The need in Module 6 of this Inquiry to consider the structural problems within social care is ever clearer. It is striking, for example, that the health minister saw it as government going above and beyond its role in an unprecedented way to take any steps at all to support the provision of PPE to those in social care. Perhaps that may be right, but it shows the void that needed to be filled.
+
+In a similar vein, in turning to try to address some of the demands in the social care sector, the Welsh Government did not have even the starting point of knowing who the providers of care were. As the First Minister said in his evidence, there was no single register of where every care home in Wales is located.
+
+This was all reflected in the oral evidence of the chief executive of the Welsh Local Government Association, Dr Chris Llewelyn, who explained:
+
+"... there was a general sense that the needs of social care staff as a whole weren't being taken into account ... there was a sense within the workforce that they were being neglected ..."
+
+And:
+
+"... an issue of parity of esteem with other healthcare workers."
+
+The Wales TUC encountered significant difficulties advocating on behalf of social care workers. As Shavanah Taj explained in her evidence, it requested that Welsh Government utilise the consequential funding from the infection prevention and control fund introduced in England in May 2020 to provide equivalent funding for care sector workers in Wales, but as of October 2020 still did not have a clear explanation as to the cause of the delay.
+
+There has been evidence, my Lady, in this module about the sensitive topic of ingress of the virus into care homes and the most significant route being via care staff. The narrative that sees care staff merely as vectors of the virus is one, my Lady, that looks through the wrong end of the telescope. It will inevitably compound the feeling in the sector of staff being undervalued and unappreciated.
+
+Particularly with asymptomatic transmission, care staff carrying the virus is unavoidable, so the question is: what could have been done about it? The narrative should be one that asks why it is that we have a care sector serviced by so many in insecure work, working across several homes; why so little was done to support the sector in restricting movement of staff between homes; why was there not better PPE to protect both staff and residents?
+
+Those are the relevant questions, my Lady, not: did care staff carry the virus?
+
+The fourth relates to enforcement of health and safety in the workplace. The Wales TUC found consistent evidence that a significant number of employers failed to take sufficient infection prevention and control measures during the pandemic. There was a dearth of proper enforcement, both by Health and Safety Executive and by local authority enforcement health protection officers. Inadequate funding of bodies able to enforce health and safety standards in workplaces has resulted in enormous reductions in the occurrence of in-person workplace inspections and enforcement actions. There is a desperate need for enforcement to be adequately resourced.
+
+As a result, many workers faced unsafe conditions during the pandemic and had very little recourse to report workplace health and safety issues other than to their union representatives.
+
+Concluding, my Lady, it is unquestionably the case that these features of the pandemic response, and no doubt many others, gives rise to a need for robust recommendations and lesson learning by government. It is hoped by my clients that the Welsh Government will take forward your recommendations with the benefit of social partnership to ensure that the planning benefits from the experiences of frontline workers who were in the thick of the pandemic response.
+
+My Lady, those are the closing remarks of the TUC and the Wales TUC. They have been grateful for the opportunity to contribute in this module of the Inquiry.
+
+**Lady Hallett**: Thank you very much, Mr Jacobs.
+
+I think the next speaker is Mr Allen, who's attending remotely, I think. Mr Allen.
+
+Submissions on Behalf of the Welsh Local Government Association by Mr Allen KC
+------------------------------------------------------------------------------
+
+**Mr Allen**: My Lady, can you hear me?
+
+**Lady Hallett**: Hear you but can't see -- ah, yes. Got you, both hear you and see you.
+
+**Mr Allen**: Ah, good, thank you.
+
+Well, good morning. I must thank you, first, for your work so far on this module, which is so important for all people in Wales.
+
+Your report will be read in due course by a wide audience, including the families of the bereaved and those seriously ill with Covid and Long Covid, politicians and officers past and present, and many volunteers who were involved and may be again, and their organisations, and others in civil society, and of course key officers in the Welsh local authorities and their partner organisations who did so much to respond to the emergency and support their communities throughout.
+
+The WLGA, the Welsh Local Government Association, that I represent, is sure that your report will provide a comprehensive and critical understanding and description of the key events in Wales during the pandemic. Yet, my Lady, we all know that while the past can be understood, it cannot be undone. So in the WLGA's submission, what may well prove to be most important are the recommendations for future action that will emerge from this understanding.
+
+That is especially so if they are clear, meaningful and purposeful, as we expect they will be, so that if and when the people of Wales were ever to suffer another pandemic, its governance would prove to be better prepared and more focused and able to act more swiftly and effectively.
+
+The WLGA therefore sees this module as our collective chance to think hard about what is necessary to make that better future a real possibility. That said, my closing remarks do not need to be very long. The WLGA has already made detailed submissions, which I do not need to repeat. These are in the closings submissions for Module 1, my opening remarks for this module, and the two witness statements from its chief executive, Dr Llewelyn and, indeed, his evidence, which actually has been referred to several times this morning.
+
+The WLGA hopes and believes that you will find that those recommendations made in those submissions and evidence are both detailed and appropriately targeted. Nothing has been said in either the written or oral evidence in this module that has caused the association to want to go back on them, so I don't need to amend, paraphrase or repeat them now.
+
+Today in my closing remarks I have only four points to make for the WLGA.
+
+The association thinks it's likely that you will already have them well in mind, so we do add that these points are made orally as much for the no less important, collateral purpose of ensuring that the Welsh Government and relevant national bodies see where we stand and pick up on them. Each is a call for urgent consideration for their immediate adoption.
+
+Firstly, there is a fundamental issue concerning the timing and degree of engagement by significant Welsh bodies with the WLGA and its member local authorities. On this, the WLGA submits that though strategic engagement between local government leaders and Welsh Government ministers, including the First Minister, was good and improved throughout the crisis, yet this was not always reflected within and across government at official level.
+
+From the very beginning, the Welsh Government, the NHS and Public Health Wales should have had a much richer engagement with local government in order to understand how policy proposals could be best operationalised. The failure to do this was a significant oversight and it led to delay and to a suboptimal national response, and must not be repeated.
+
+This is a call for a major change of perspective. The WLGA seeks a better and earlier engagement built on trust and a respect for the capabilities, resourcefulness and flexibility of local government. Welsh Government should set strategy and describe rather than prescribe detailed policy if they are to allow, as they must, local authorities and their partners to be agile and adaptable in responding to local circumstances with urgency.
+
+And as local government has significant resource issues, so it must also be understood that if new tasks are to be undertaken while the old are maintained, then either more resource will be needed or it will be necessary to have shared co-operative thinking to re-align existing resources to those new tasks.
+
+Later in the pandemic, as the WLGA has said explicitly, the need to engage at the formative stage with local government did begin to be better understood within and across Welsh Government. Had there been fuller, early and consistent involvement of local government across all aspects of Welsh Government, then national preparedness would have been more resilient. The WLGA has noted, as we feel sure you have, that there has been some recognition of this point in the oral evidence you've received. There has certainly been no contrary argument. And there must be no danger of that recognition being lost; it needs to be known that there is comprehensive organisational learning throughout all the layers of Welsh Government concerning early engagement, the need for trust in local government, and how this can and must be utilised to ensure the most practical and effective policy development.
+
+My Lady, there's a consequential second point here. This concerns the process of review and capture of the lessons that should be learnt. As the WLGA said in its written closing submissions in Module 1, see generally paragraph 147, the value in such early co-working and co-design must be captured and owned collectively at all levels of government in Wales. It is relevant to policy decisions concerning all the main issues, such as stand-up arrangements, operational delivery, financial, technology issues, staffing and communication skills.
+
+Unfortunately, you will have heard that, although there have been lessons learnt reviews, these have not been conducted on a fully inclusive basis, planning together for the future.
+
+My Lady, that has to be put right straightaway, because the process of learning from the past is a whole-system issue, and not merely one for the Welsh Government alone.
+
+To aid this, the WLGA has discussed and recommended, see particularly Dr Llewelyn's second witness statement at paragraphs 47 to 54, that there should be a programme of secondments and multi-agency learning, and we commend these proposals to you.
+
+Thirdly, while a focus on the health service is important, this must not obscure the need for an equal focus on the services provided by local authorities. It was inevitable, given the terrible statistics about the potential for hospitals to be overrun, that there was a heightened awareness of the precious role of the health service, and the WLGA does not in any way criticise this heightened awareness. Yet it is submitted that it is also absolutely important that central government politicians need, in such times of crisis, to give equal consideration to the critical roles of the wider public sector and local government in particular.
+
+The evidence before this Inquiry has made it obvious why this is so: people desperately needed support in the community in almost every way that it's possible to imagine, and that responsibility fell to local government. It played a role fully comparable in importance to that of the health service in managing issues such as schools, hubs, free school meals, key workers, shielding, logistics for testing, NPI enforcement, and of course business support.
+
+The last point, my Lady, that the WLGA wishes to make in these oral submissions is that the pre-existing legislation is not fit for purpose of supporting the country through global emergencies of equivalent scale and length of time. It is an issue of legislative adequacy. I'll mention the Civil Contingencies Act first.
+
+Through both Modules 1 and 2B, the WLGA has commented and Dr Llewelyn has explained that the Civil Contingencies Act, whilst adequate for short-term local emergencies controlling small-scale communicable disease transmissions, was not designed for a prolonged and profound emergency such as a global pandemic.
+
+This is because it lacks a key political dimension: it fails to recognise, and so to accommodate, the importance of political leadership, both in the development and ownership of strategy and in the oversight of key decision-making during both the response and recovery phases.
+
+Now, the Civil Contingencies Act is not the only enactment that requires reconsideration. It is an equally important task for the Inquiry to consider the efficacy of existing public health legislation, which, though adequate similarly for controlling small-scale communicable disease transmissions, was not designed for a global pandemic.
+
+There are several important issues concerning this which have been set out in the evidence and submissions. One key concern that must be mentioned today is the interrelationship of this legislation with other crisis-related measures. For instance, there is a significant issue as to whether, in the event of a future pandemic, public health legislation should have primacy over the Civil Contingencies Act, or whatever may replace it in due course, and, if not, what relationship it should have.
+
+The urgent enactment of a new Coronavirus Act in 2020 to meet the Covid-19 emergencies has already demonstrated that both pieces of legislation did not meet the test of being fully fit for purpose in such a global pandemic. So the WLGA sees it as being a significant challenge for the Inquiry to make recommendations that would fill that void by providing a much greater preparedness for the future and avoiding any need again to enact emergency legislation. And these should aim to put local government on a firmer and more confident footing, so as to be able to act with legal competence from the outset and thus to undertake their key task of protecting local communities and the vulnerable from the kinds of harm that they endured. And, of course, it must be said yet again that local government must be adequately resourced to fulfil their roles.
+
+My Lady, those are our submissions, and I must thank you and the Inquiry team again for undertaking this task that is so important to Wales. And, on a more personal note, for permitting me to make these submissions to you virtually rather than in person. Thank you.
+
+**Lady Hallett**: Thank you, Mr Allen. Thank you very much for your help.
+
+Right, I think we now have Mr Kinnier.
+
+Submissions on Behalf of the Welsh Government by Mr Kinnier KC
+--------------------------------------------------------------
+
+**Mr Kinnier**: My Lady, if you lost a loved one to Covid-19, if you continue to suffer from impact of the virus, or if your livelihood was or continues to be affected by that virus, you will rightly want to know whether the Welsh Government could have done more sooner or more effectively or differently so that your loved one would not have died or the long-term adverse effects of the virus would have been stopped or your job and livelihood preserved.
+
+Welsh ministers recognise that the difficult decisions they made in response to the pandemic caused very significant disruption to and change in people's lives and livelihoods. Communities and local services suffered, and indeed continue to suffer. On more than one occasion the First Minister has said that if he knew in early 2020 what he knows now in 2024, of course the Welsh Government would have acted differently. For example, Mr Drakeford explained that local lockdowns did not work as he had hoped, but faced with rising incidence of the virus in certain areas, a concern to open up society as swiftly as caution allowed, and in an effort to strike a balance between the competing harms, local lockdowns were a worthwhile measure worth taking.
+
+In evidence, all witnesses from the Welsh Government set out how they would have acted differently had they had the benefit of the knowledge which we now have about the virus, including, for example, its long term after-effects. But the decisions made by the Welsh Government are to be judged by what was known at the time about the nature of the virus, which was very little indeed in early 2020, and in circumstances where swift action and hard decisions were necessary to protect the people of Wales.
+
+In opening, Counsel to the Inquiry said that there may have been any number of right decisions in response to the pandemic. Ultimately the question is whether, taking into account the many relevant and often conflicting factors, but especially rapidly evolving knowledge of the virus, the Welsh Government's decisions were reasonable. Self-evidently, different decisions could have been made, all of which were nonetheless reasonable responses to the unprecedented challenge of Covid-19 to civil society.
+
+To have taken one reasonable course when an alternative reasonable option was also available does not make the course taken wrong or in some way flawed. The answers to the questions posed rightly by Counsel to the Inquiry in opening are complex and we will set out our answers in detail in our written statement.
+
+To do justice to that complexity and in order to make effective recommendations in due course, the Inquiry will consider the fine detail of both the written and the oral evidence. For each decision, there was no single right answer. In particular, no decision was free from consequence. None could have guaranteed that no one would have lost their life to the virus.
+
+Some suggested alternative actions were, on analysis, unrealistic. To take one example, there was no real prospect that the Welsh Government could have unilaterally locked down Wales before the UK Government itself acted on 23 March 2020. It was far from certain that the population would have accepted the severe restrictions of a lockdown before one had been imposed elsewhere in the UK and at a time when Wales was yet to reported any confirmed cases of the virus.
+
+To have imposed the most draconian restrictions on individual liberty in peacetime, in one of the parts of the UK least affected by the disease, when such actions had not been taken in those parts most affected by the virus, for example the southeast and London in particular, was, in the First Minister's words, "entirely unfeasible". There was no possibility of Wales sealing itself off from the rest of the UK and the wider world and waiting for a vaccine.
+
+On some occasions it was suggested to Welsh Government witnesses that they should have learned and applied the lessons of the first lockdown to later lockdowns. The evidence shows the Welsh Government learning from its previous decisions and taking steps to inform itself and, indeed, change.
+
+In just one example, Eluned Morgan described how, learning from the first wave of the pandemic, restrictions were placed on staff moving between care homes when facing the emergence of the Omicron variant.
+
+Lessons learned exercises took place during the period under consideration by this module which enabled the Welsh Government to reflect on its response, including what worked well and where change was necessary.
+
+But the criticism that lessons from the first lockdown specifically ought to have been applied to the later lockdown is misplaced, for reasons which were carefully explained by the Inquiry's expert, Professor Wincott.
+
+In the first lockdown in March 2020, the governments of the United Kingdom were seeking a wholesale reordering of society in order to combat the virus. By the time of the autumn firebreak in October 2020 and the Christmas lockdown, the public policy challenge was seeking to strike the sensitive and difficult balance between the safe re-opening of society whilst reducing at the same time the incidence of the virus.
+
+In short, a simplistic comparison between the policy responses in March 2020, October 2020 and late 2020 and early 2021 is not comparing like with like.
+
+On other occasions it was suggested that in some way the evidence was more definitive or clearer than in fact it was. There was never any sense, once the initial lockdown was over, that scientific and expert opinion was of one mind. Within the Welsh Government, ministers, officials, clinicians and scientists had to grapple with evidence that was often volatile, sometimes contradictory and frequently incomplete. But decisions had to be made, and they were made in good faith and with the best understanding possible at that time, whilst balancing the very real harms that the Inquiry has examined over the last three weeks.
+
+Some criticisms have reflected the diverse and in some respects conflicting range of views held among the core participants before you. The timing and length of the firebreak in October 2020 is one such example.
+
+The BFJ Cymru group questioned the Welsh Government's justification for the timing, length of the firebreak, and questioned the significance of the decision made by the UK Government not to bring forward the start of the job support scheme to coincide with the start of the firebreak in Wales.
+
+By contrast, the Children's Commissioner's concern is the consequences of the timing and length of the firebreak on children's education, and in particular years 9 and above who were asked to stay at home during the firebreak, and how the reasons for that decision were explained to the public.
+
+My Lady, faced with the evidence of increasing incidence in September 2020, and in light of SAGE and TAC advice about the benefits of a firebreak or circuit-breaker, Welsh ministers decided to impose a 17-day firebreak which was the shortest possible length consistent with achieving a sharp and deep effect on the incidence of the virus. That reflected the consistent effort to strike a reasonable balance between protecting lives, protecting livelihoods, and re-opening society safely.
+
+The Welsh Government sought to achieve that balance by keeping children in childcare, primary and special schools open, and secondary schools, which were only open to years 7 and 8 after half term and also to those taking public exams. The balance was struck in that way because other secondary children in years 9 upwards were thought to be more mature and more able to engage with self-directed learning for one week.
+
+My Lady, that is just one example of the many balancing decisions that had to be made.
+
+Consideration of the needs of the vulnerable and disadvantaged was fundamental to the Welsh Government's decision-making throughout. My Lady has asked witnesses what action was taken to protect those needs, and the detail of the responses can be seen in the 86 witness statements that the Welsh Government has provided to this Inquiry for the purposes of this module. But to give some non-exhaustive examples:
+
+First, the Welsh Government worked with local authorities and others to identify the most vulnerable children and ensure that they could still attend school.
+
+It ensured that children who were entitled to free school meals would receive meals when schools were closed, including through the summer holidays.
+
+Children with additional learning needs had their rights protected in Wales throughout the pandemic.
+
+A digital offer to pupils in Wales was implemented quickly, and steps were taken to tackle digital exclusion with laptops and internet dongles.
+
+These actions were underpinned by the need to support the safety of students and teachers alike, the physical and mental wellbeing of students and staff, the ability of pupils to keep on learning and, crucially, to return to their school and on to the next stages in their education.
+
+Secondly, in April 2020 the First Minister established the Black, Asian and Minority Ethnic Covid-19 Advisory Group to examine the disproportionate impact of the virus on minority ethnic people and communities, and implemented the recommendations of its subgroups.
+
+Thirdly, Jane Hutt, the present Minister for Social Justice, led the Welsh Government's Disability Equality Forum and, after Wales was locked down, adapted it to provide a means of communication and consultation with disabled people and their representatives. The recommendations in Professor Foster's report, commissioned by Jane Hutt, I think in June 2020, are being implemented.
+
+Fourthly, as has been explained, data modelling in Wales took account of the higher proportion of older people in the population which informed decision-making. The Older People's Commissioner was a member of the Shadow Social Partnership Council, and in that forum and indeed elsewhere she was a forthright and respected advocate of the interests of older people.
+
+Fifthly, the Shadow Social Partnership Council was an invaluable means of bringing together the Welsh Local Government Association, the CBI, the Federation of Small Businesses, TUC Cymru, third sector representatives, the Future Generations, Welsh Language, Older People's and Children's Commissioners.
+
+What other criticisms have been made of the Welsh Government's actions elsewhere? There is a degree of unanimity that the council served its purpose well. That forum allowed for open, constructive and often robustly challenging discussions about how best to protect the interests of the vulnerable and all other sections of society. Crucially, those discussions took place before decisions were made.
+
+My Lady, the Inquiry has received evidence regarding the closeness of the working relationships between individuals within the Welsh Government and public bodies and their representatives, particularly in the NHS in Wales. Those strong and close working relationships, in part enabled by the geographical size of Wales, meant that Welsh ministers heard directly and on a daily basis how the pandemic was impacting on different communities and within different sectors at different times. Those accounts were crucial in informing the key decisions that were made as part of the Welsh Government's response to the virus.
+
+This extended to close cross-party co-operation and information sharing, as the Inquiry has also heard, in the form of the Covid core group that was established by the First Minister in the early stages of the pandemic. The group included, as well as the key ministers with responsibility for developing the government's response, representatives of stakeholder bodies, and that was in addition to the wide range of views sought through the Social Partnership Council.
+
+My Lady, one point which is important is that throughout the course of the pandemic, the Welsh Government was subject to robust parliamentary scrutiny in the Senedd. That was effective, and as my Lady is aware, towards the winter of 2020 there was no easy consensus in the Senedd on how best to respond to the continuing pandemic.
+
+The close working relationships are a defining feature of the way in which decisions are made by the Welsh Government and they enabled ministers to act on relevant, up-to-date information received from the bodies that were best placed to provide it.
+
+That is a particular and important strength of the structures that exist in Wales which the Welsh Government would respectfully urge the Inquiry to keep in the forefront of its mind when considering decision-making systems and structures more generally. These are benefits that would inevitably be diluted, if not lost altogether, were a more centralised emergency decision-making structure to be introduced.
+
+My Lady, in closing, the final word from the Welsh Government must be to remember the very many families who lost loved ones, and to recognise those who have suffered and continue to suffer the effects of the pandemic in every part of Wales.
+
+My Lady, thank you.
+
+**Lady Hallett**: Thank you very much, Mr Kinnier.
+
+Mr Poole. Closing remarks by LEAD COUNSEL TO THE INQUIRY for MODULE 2B
+
+**Mr Poole**: My Lady, only a couple of short points from me.
+
+With your permission, the Inquiry has already adduced in evidence and also published a number of documents through the course of these hearings. This comprises pages of documents brought up on the screen during the hearings, statements of witnesses who have given oral evidence. As with previous modules, we expect that you will inevitably wish to have in evidence a wider body of material than that to -- for the purposes of writing your report.
+
+The Module 2B team has therefore already provisionally identified a list of additional documents which we seek your permission to adduce. These include around 120 statements of witnesses who have not given oral evidence but whose statements you may wish to rely on when compiling your report, as well as full versions of documents which have been part adduced during the hearing.
+
+We have also written to core participants to give them the opportunity to propose additional documents for publication, and we ask core participants to provide such requests to the legal team, including those mentioned in oral submissions today, and then, in the normal way, the extent to which those will be published will obviously be a matter for your Ladyship and you will, of course, need to have regard to any sensitivities in those documents and their relevance.
+
+If your Ladyship will indulge me for one further moment, I would like to pay tribute to all those who have made these hearings in Cardiff possible and have either been here with us or behind the scenes.
+
+All the members of the Inquiry team have worked tirelessly in playing their part in the conduct of these vitally importance hearings for the people of Wales. They all have my sincere thanks for their hard work and dedication. In particular, may I express publicly my thanks to the Module 2B solicitor and paralegal team, brilliantly led by Charlotte Whitaker and, last but certainly not least, my amazing counsel team, Laura Paisley, Louise Cowen, Helena Spector and Lauren Hitchman, and also Kate Wilson and Abi Johnson who were unfortunately not able to join us here in Cardiff.
+
+Closing Remarks by the Chair
+----------------------------
+
+**Lady Hallett**: Thank you very much indeed, Mr Poole, I'm very grateful to everybody.
+
+That completes the oral evidence and submissions in Module 2B, key decision-making in Wales.
+
+I hope that the people of Wales feel that we have addressed most of their significant concerns, albeit I have always said we may not be able to address them all.
+
+I will now assess all the evidence, both the oral and written evidence, and also the submissions before reaching any conclusions; and I have to emphasise that I have yet again to say, because the message doesn't seem to be getting through, I have yet to reach any conclusions and I am not acting on any assumptions, and I will consider all the material that has been provided.
+
+People focus on the oral evidence for understandable reasons, because it's so much in the public eye, but it is just one part of the process. It's an important part, because it enables Counsel to the Inquiry and for the core participants to test the evidence in public. They ask their questions -- not my questions, their questions -- to help me eventually reach what I hope people will accept are fair and reasoned conclusions, and I promise to publish those conclusions as soon as we reasonably can.
+
+Finally, I'd like to echo the gratitude expressed by Mr Poole just a moment ago. I'd like to thank so many people -- I'll sound like an Oscar winner in a minute -- so many people for helping get these Inquiries completed on time here in Cardiff.
+
+The Inquiry team, obviously, both the secretariat and the legal team. I don't think people always realise what goes on behind the scenes to get hearings like this heard effectively, but a huge amount of work goes on. I know the Inquiry team have worked extraordinarily hard, and I know that the core participants have obviously also worked extraordinarily hard and made their usual substantial contribution.
+
+There are others: there are the tech team, as I'm going to call them, who have survived -- with only one hiccup -- being overheated, as I insisted on not having arctic conditions; and the stenographer, obviously; the interpreters in our booth, I think they've also been getting quite hot at times, so I'm sorry to them, it seems we had an Inquiry of two parts when it comes to temperature; the staff at the hotel; and lastly --
+
+I think it's lastly, let me just check, I think it is --
+
+the members of the public who have been with us in
+
+person and online, and I know how much the interest and
+
+support of members of the public, particularly a number
+
+of members of the Welsh bereaved, have been to
+
+the Inquiry. They may not always agree with my
+
+decisions, but that's fair enough, and that's
+
+inevitable, but they do accept them and they're always
+
+constructive, and I am very grateful to them.
+
+So that completes these hearings. The next
+
+substantive hearings will be in Belfast on 30 April.
+
+Thank you all again.
+
+*(12.30 pm)*
+
+*(The hearing concluded)*
+
