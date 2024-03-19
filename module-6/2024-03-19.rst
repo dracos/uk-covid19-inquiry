@@ -1,0 +1,1084 @@
+Transcript of Module 6 Preliminary Hearing, on 19 March 2024
+============================================================
+
+*(10.30 am)*
+
+Introductory Remarks by the Chair
+---------------------------------
+
+**Lady Hallett**: Good morning, everyone.
+
+This is the first preliminary hearing into Module 6, which will be focusing on the care sector.
+
+Leading Counsel to the Inquiry team for Module 6, and indeed for Module 3, is Ms Jac Carey King's Counsel. In a moment, she will tell us what the issues are that I have to consider today and as a result of this hearing. After Ms Carey has spoken, I will then hear from those core participants who wish to make opening submissions.
+
+Just so everyone knows who is following online or here in the hearing room, I will also be receiving written submissions, they will all be published, so the aim of the oral submissions from core participants is to highlight the most significant issues that they wish highlighted. It's not that they need to go through all the matters that they've set out in their oral submissions, and we have quite a few to get through today so I shall immediately call on Ms Carey. Statement by LEAD COUNSEL TO THE INQUIRY for MODULE 6
+
+**Ms Carey**: Thank you, my Lady.
+
+My Lady, the devastating impact of the Covid-19 pandemic on those living and working in the adult social care sector is going to need little introduction, and certainly little introduction to those in the hearing room today and those following online. But by way of context for this module, the ONS statistics for March 2020 to the week ending 21 January 2022 suggest there were 45,632 Covid-19-related deaths of residents in care homes in England and Wales, and in Scotland between March 2020 and June 2022 the Care Inspectorate received 3,592 notifications of deaths related to Covid-19 from care homes, and in Northern Ireland between March of 2020 and March of 2022, according to the Northern Ireland Statistics and Research Agency, there were 953 Covid-19 deaths in care homes.
+
+My Lady, that's over 50,000 deaths.
+
+The decisions that may have contributed to those figures will doubtless be examined in Module 6, but it is not just a question of statistics and data. Each number represents the loss of a loved one, often, as we will hear, in circumstances where they were not accompanied by family and friends saying goodbye at bedsides, but they died surrounded by PPE and by the imposition of visiting restrictions which prevented or inhibited them dying in the company and presence of those who loved them.
+
+So whilst those tragic statistics from care homes may have made the headlines, the impact of the pandemic was felt not just in residential and care homes, but also more widely across the adult social care sector.
+
+In fact, most adult social care in the UK is not provided in care homes, but in what is sometimes called domiciliary care, ie services provided to support someone in their own home. It's not just about old people, my Lady. Moreover, adults of a working age, ie those between 18 and 64, make up a significant proportion of those accessing and requiring social care. So Module 6 is considering the impact not only on the elderly and those in later life but also on those other adults that require that care.
+
+Of course, in addition to those receiving care and the impact on their families, there is the impact on those providing care. And whilst the size of the workforce in each nation inevitably varies, the adult social care workforce in England alone is estimated to be in the region of 1.5 million people, with more women than men working in this sector, women provide more unpaid care than men, the sector has a high proportion of workers from black, Asian and ethnic minority groups, and in some parts of the UK, for example here in London, a high proportion of migrant workers.
+
+Sadly, care workers and those providing care in the home were in the occupations at the highest risk of death from Covid-19.
+
+Now, that brief and sobering introduction gives an indication of the breadth and scale of the adult social care sector and explains in part why Module 6 has had to focus on particular care settings and issues, and I'll return to that, if I may, when we look at the provisional outline of scope.
+
+These proceedings are, of course, being recorded and livestreamed to other locations and there are a number of core participants who are following online this morning. In live streaming these proceedings, your Ladyship is fulfilling the obligation set out in the Inquiries Act to take such steps as you consider reasonable to ensure that members of the public are able to attend or see and hear the simultaneous transmission of proceedings. It also allows, live streaming, the hearing to be followed by more people than can be present in the hearing room at Dorland House.
+
+Although we don't anticipate it to arise today, as is routine in public inquiries, where there may be matters mentioned that are potentially sensitive, the broadcasting of the hearing is subject to a three-minute delay, and that provides the opportunity for the feed to be paused if something sensitive arises and anything unexpected is aired which should not be.
+
+As I say, I mention that feature not because we anticipate it arising today but so that those who are following from further afield understand the reasons if there is a break in proceedings.
+
+My Lady will have an agenda for today's hearing which has been circulated and indeed is displayed on the screens here at Dorland House, and the first item for consideration this morning is the designation of core participants.
+
+Module 6 received over 50 applications, some of which were joint applications, for core participant status, of which 27 have been granted. Given that it is the first preliminary hearing in this module, it is appropriate for me to introduce them, and indeed there are 14 core participants in the hearing room this morning.
+
+There are those representing the Covid Bereaved Families for Justice UK, and the Covid-19 Bereaved Families for Justice Cymru, the Northern Ireland Covid Bereaved Families for Justice and the Scottish Covid Bereaved are here, along with the core participant group John's Campaign, Care Rights UK and the Patients Association. Disability Rights UK, Disability Action Northern Ireland, Disability Wales and Inclusion Scotland have been known or are known as the disabled people's organisations, and they are to your right, my Lady.
+
+We have the Frontline Migrant Health Workers Group, the British Association of Social Workers, the National Association of Care and Support Workers, the Royal College of Nursing, the Trades Union Congress.
+
+Care England, National Care Forum and the Homecare Association are a core participant group. Scottish Care. A joint core participant group of the Association of Directors of Adult Social Services, the Local Government Association and the Welsh Local Government Association. The Care Quality Commission, the Regulation and Quality Improvement Authority and the Care Inspectorate.
+
+The Department of Health and Social Care, Department for Health Northern Ireland, the Scottish Territorial and Special Health Boards, the Convention of Scottish Local Authorities (known colloquially as COSLA), the Scottish Ministers, the Welsh Government.
+
+And we have the four public health authorities: Public Health Wales, UKHSA, Public Health Scotland, and the Public Health Agency, Northern Ireland.
+
+A list of all of the core participants that you have designated for Module 6 is now published online on the website.
+
+My Lady, for those who were not granted core participant status, or for those who did not apply to be designated as a core participant, can I reiterate that not being a core participant in Module 6 in no way precludes any person or group from: applying in a later module; bringing any matter to the attention of the Inquiry and, importantly, providing evidence and information to Module 6; if appropriate and relevant, giving evidence at the public hearing. And if an individual affected by the pandemic wishes to take part, they can do so in the Inquiry's listening exercise, Every Story Matters.
+
+Item 2 on the agenda is the provisional outline of scope for Module 6, and I've asked that it is put up on the screens in front of your Ladyship, and indeed around the room, because it's an important document and it's a document about which you will hear submissions throughout the day.
+
+Module 6 will examine the impact of the pandemic on the publicly and privately funded adult social care sector, known as the care sector, in England, Scotland, Wales and Northern Ireland. As you can see, set out there it will consider the consequences of government decision-making on those living and working within the care sector. This includes adult care in residential homes, including care provided in the home, but not care provided within daycare centres or in supported housing. It includes the decisions to free up capacity in hospitals by discharging patients into adult care and residential homes. It will address the steps taken in adult care and residential homes to prevent the spread of Covid-19 and examine the capacity of the adult care sector to respond to the pandemic. And the module will consider the impact of the pandemic on the residents, their loved ones and the impact on staff working within the care sector.
+
+Set out below are particular aspects that the module will examine. There are eight in total. They are not ordered in terms of any hierarchy, and I make that clear at the outset, but the matters that will feature include this: the impact of the pandemic on people's experience of the care sector. This will focus on residents and their loved ones, and those working within the care sector, and will include consideration of the unequal impacts on them.
+
+The structure of the care sector and the key bodies in the UK and the devolved administrations will be looked at, at the start of and during the pandemic. That will include staffing levels and bed capacity immediately prior to the pandemic.
+
+It will look at the key decisions made by the UK Government and the devolved administrations in respect of the care sector, including the decisions relating to the discharge of people from hospitals into the adult care and residential homes in the early stages of the pandemic.
+
+The module will examine the management of the pandemic in adult care and residential homes. This will include the measures preventing the spread of Covid-19, such as infection prevention and control measures (also known as IPC), look at testing for Covid-19, the availability and adequacy of personal protective equipment (PPE), restrictions on access by and to healthcare professionals, and visits from loved ones.
+
+The module will consider the use of Do Not Attempt Cardiopulmonary Resuscitation orders, or DNACPRs, and the communications with residents and their loved ones about the resident's condition and treatment, including discussions and decisions about DNACPRs.
+
+The module will look at changes to the regulatory inspection regimes within the care sector, deaths related to the infection of Covid-19, including deaths of residents and staff, and infection prevention and control measures for those providing care in the home, including by unpaid carers.
+
+Now, my Lady, that scope is necessarily provisional. Although it introduces a wide range of topics, it's neither practical nor advisable to identify at this stage all the issues that the evidence and material obtained under the Rule 9 process will address. Once that material has been obtained, the module is designed to accommodate and obtain documentation and from which then issues can be further distilled.
+
+In due course Module 6 will circulate a list of issues to help identify the key issues arising from evidence, and in this regard we are grateful for the many helpful and thoughtful suggestions set out in the written submissions.
+
+At the outset, though, given the public concern about the discharge decisions, and the fact that this policy primarily affected adult patients, I should make clear that the Inquiry does not intend to examine children in care in this module, and indeed aspects of the impact of the pandemic on children and young people will in any event be considered in a later module. Moreover, Module 6 provisional scope encompasses all adults requiring social care and not, as has been suggested by one core participant, only the elderly.
+
+The Inquiry considers that the provisional scope provides a proper framework of the key issues and matters that the Inquiry is likely to enquire into, and that it sufficiently indicates for people and organisations who have relevant information and evidence, as well as the core participants, to be able to commence their preparations.
+
+These issues will, however, be further developed once the response to the majority of the Rule 9 requests for evidence have been received.
+
+A number of core participants have made suggestions for other matters that should be included in the provisional outline of scope. It's not practical for me to address you on all of those today. They all require careful consideration and it may be that some of those areas, for example the impact of the proposal to make vaccination a condition of deployment for healthcare workers in England, are intended to be covered by the scope and are already within our contemplation, albeit they've not been expressly referred to in that scope.
+
+There are, however, some specific matters raised in the submissions received about the scope that I would like to address today. The Covid Bereaved Families for Justice Cymru submit that Module 6 should be subdivided so that, in addition to Module 6, there are Modules 6A, 6B and 6C, looking at the social care systems in Scotland, Wales and Northern Ireland respectively. It is said that this would not only reflect the constitutional position, given that social care is a devolved matter, but also reflect the fact that the way social care is structured is different in each country, and that different decisions were taken in the countries at different times.
+
+In our submission, no such division is necessary. The themes and topics identified in the provisional outline of scope enable the Inquiry to take account of any structural differences in the way each country's social care system is set up, without the need for individual hearings.
+
+Moreover, your Ladyship has made plain that this Inquiry must be conducted efficiently, and the addition of further hearings would be contrary to your clear intentions in that regard.
+
+It is further suggested that the scope should be re-worded so that there are specific subparagraphs for each nation, essentially repeating each part of the scope three more times. My Lady, in our submission, that is an unnecessary amendment. The opening of the scope makes clear that the module will consider the impact of the pandemic on the publicly and privately funded adult social care sector systems in England, Scotland, Wales and Northern Ireland.
+
+A number of core participants have submitted that the scope of Module 6 should be widened to include the impact of the pandemic on other care settings, such as sheltered accommodation, supported living, shared lives schemes, hospices, assisted living and respite care.
+
+Now, some of those settings in effect provide care to an individual in their own home, with the amount of support being provided varying greatly. For example, care in the home encompasses a carer visiting an individual's private residence for a short time to provide personal care, for example getting someone up in the morning or helping them to wash or dress, but it also includes much more intensive support. Other settings, such as supported living, involve care in a home where there are a small number of residents and individuals, or sheltered accommodation where there is a warden on site.
+
+So although there are a number of different settings in which people are provided care, it will not be necessary or proportionate to examine all the settings. The Inquiry considers that by focusing on adult and residential care and care provided in the home, by which we mean care provided in one zone accommodation by carers who do not live or work in the home, and therefore which doesn't fall under the umbrella of supported housing, the Inquiry will have a sufficiently broad base upon which to make meaningful recommendations with regard to the critical issues.
+
+There will necessarily be a significant focus on residential care homes due to the risks the pandemic posed to residents and their inherently vulnerable status across all the age demographics and the challenges of implementing effective IPC in care and residential homes, as well as their role as potential vectors of transmission.
+
+My Lady, that is not to diminish the importance of other settings, but instead it reflects the very real need to make meaningful recommendations in advance of any future pandemic, and to address the stark impact of Covid-19 on such residents, including the disproportionate number of deaths.
+
+It follows from what I have said that -- the emphasis on critical issues, that the Inquiry will be unable to examine all the potential issues arising within the adult social care sector. There will necessarily need to be a focus on issues of significance, of wide impact, and of relevance to recommendations in the event of future pandemics.
+
+So, understandably, some core participants have urged the Inquiry to examine a multitude not only of settings but of other issues, such as the potential increased use of restraints or sedation for some individuals needing care. They are obviously important issues for some adults in social care, but it will be appreciated, I hope, that it is not possible to examine each and every area of concern, nor would it be proportionate to do so.
+
+Doubtless, my Lady, you will wish to consider the submissions made about the other settings and other matters that should fall into scope, and indeed, as the evidence emerges, if it suggests that other settings or issues need to be considered, the Inquiry will keep that matter under review.
+
+May I just make two other observations in relation to the scope. In relation to preparedness, Module 6 does not intend to repeat or rehearse the evidence given in Module 1, although in due course Module 6 will obviously disclose relevant material that's been provided to Module 1 and indeed any of the other earlier modules. However, it is not part of the Inquiry's terms of reference to consider the state of the adult social care systems in the UK prior to the pandemic, save unless it is necessary to do so to understand how the pandemic in fact affected adult social care during 2020 to 2022.
+
+Finally, this observation: it may be that the pandemic threw a harsh and painful light on issues such as pre-pandemic underfunding and the undervaluing of the adult social care sector, but Module 6 is focused on the impact of the pandemic, not on those wide-reaching and historic concerns and problems, and so, in our submission, it is not, therefore, within Module 6's remit or scope to seek to fix or address those long-standing issues, although, again, I know you will want to consider very carefully the submissions that are made on that topic.
+
+Turning to the next item on the agenda, which is evidence gathering and the Rule 9 requests for information.
+
+Module 6 has started the process of identifying and issuing Rule 9 requests from relevant organisations and individuals, and they will include, just to give the headlines, the relevant government departments and agencies and ministers responsible for adult social care, the regulators, trade unions and membership organisations, relevant care providers, charities and interest groups, and bodies and organisations and core participants that can provide impact evidence.
+
+The Inquiry is grateful for all the suggestions made in the written submissions as to who should receive a Rule 9 request and the Inquiry legal team has already started to consider those proposals.
+
+One aspect of the Rule 9 work being undertaken is to try to obtain evidence from the local authorities in England, Wales, Scotland -- and there are different arrangements in Northern Ireland so I'll just focus on England, Wales and Scotland for the moment -- looking at the local authorities who are responsible for social care.
+
+In this regard, in November 2023, Module 6 asked the Local Government Association to conduct an online survey of all its members. All 337 members in England and Wales responded. My Lady, the survey covered a wide range of topics, but I'd like to give you a flavour of some of the findings of the survey. There's just seven I'd like to refer to this morning, the first of which is this:
+
+Following the onset of the pandemic, councils responded saying they adapted rapidly, with a large majority of the councils reporting a change in the structural mechanisms of decision-making. So, for example, councils reported undertaking a wide range of activities to support care providers, with nine out of ten providing and purchasing and distributing PPE.
+
+Local government respondees felt that social care was sometimes treated as an afterthought compared to the NHS. In those survey responses they said two fifths of English councils reported that their orders for PPE were deferred to the NHS very or fairly often during the first six months of the pandemic. And respondents noted differences in staff capacity and vaccination and testing guidelines between the NHS and the social care sector, putting the latter at a perceived disadvantage.
+
+Respondees commented on visits by healthcare professionals and said they were frequently limited by the restrictions imposed during the pandemic, and it was reported that those limitations resulted in longer waits for treatment, inadequate treatment, necessary transfers to hospital not being undertaken, or, conversely, unnecessary transfers to hospital being undertaken.
+
+Eight in ten English councils reported that the NHS discharged people from acute hospitals into care homes without routinely testing them first, and almost nine in ten respondents said that care homes in their area were sometimes unaware of patients' Covid-19 status on receiving them from hospital.
+
+The survey asked about delays in receiving Covid-19 tests, and indeed delays in receiving the results made it harder to control outbreaks of Covid-19. Nine out of ten councils reported that test result delays made it difficult to control outbreaks, and to some extent compounded the difficulties caused by obtaining the tests in the first place.
+
+Respondents to the survey consistently emphasised the confusing nature of key guidance distributed by central government and some national agencies. In this regard, three-fifths of respondents in England reported that the national infection prevention and control policies worked either not very well or not at all well, although 95% of respondents said that care homes in their area were able to isolate residents who potentially had Covid-19 at least to some extent.
+
+My Lady, finally, this: the Covid-19 pandemic was reported by respondents to have had a highly negative impact on unpaid carers, with councils stepping up to help provide them and those they cared for with support. Over nine out of ten respondents reported that unpaid carers in their area suffered from mental stress, increased physical demands and/or a lessening of available respite.
+
+Now, that is just a snapshot of the findings of the survey, and the Inquiry anticipates being able to publish the findings in one of the early phases of disclosure.
+
+In relation to Scotland, the Inquiry is grateful to COSLA, the Convention of Scottish Local Authorities, for their offer of assistance with providing a Scottish version of the survey, an offer which Module 6 will gladly accept.
+
+The arrangements in Northern Ireland are somewhat different, because there the five health and social care trusts are responsible for social care, and so Module 6 is in the process of considering how best to obtain this evidence, if possible, in relation to Northern Ireland.
+
+More generally across the Inquiry, Rule 9 requests for documentation and witness statements are being issued on an iterative basis, and additional requests may be made of some recipients focusing on particular issues in due course.
+
+As the Rule 9 requests will be issued on a rolling basis to organisations and witnesses, some issues will come into greater focus, no doubt, during the course of the investigation.
+
+In line with your determination made in Module 1, core participants will not be provided with copies of the Rule 9 requests made by the Inquiry, but disclosure to the core participants of the Rule 9 requests themselves, as opposed to the documents and the material generated by those requests, is neither required by the rules nor generally established by past practice and, furthermore, in our submission it would serve little practical purpose, given the wide scope and the detailed nature of Rule 9 requests that are being made.
+
+Whilst dealing with that, in addition your Ladyship has already determined that position statements are not required or needed and we would invite you to confirm that this remains the position in Module 6.
+
+To ensure, though, that core participants are properly informed, the Inquiry will ensure that Module 6 lead solicitor provides monthly updates to core participants on the progress of Rule 9 work, and those updates will include a summary of who's received Rule 9 requests, the topics those requests cover, what categories of documents have been requested, when the request was made and, indeed, when the response is expected.
+
+That brings me on to disclosure to core participants and item 4 on the agenda.
+
+In common with the approach taken in the preceding modules, Module 6 will adopt the following approach to disclosure: all core participants will receive all documents disclosed in Module 6, not just those documents relevant to them. The disclosure will be subject to three things: a relevance review, a de-duplication exercise, and redactions in accordance with the Inquiry's redactions protocol. There is a significant team of solicitors, barristers, paralegals already in place to review the relevance of material that has been received.
+
+We will make disclosure in tranches on a rolling basis, and disclosure updates will also be provided in the monthly update by the Module 6 solicitors team, informing core participants of the progress that has been made in obtaining relevant documents.
+
+Now, the Inquiry has already identified material potentially relevant to Module 6 that has been provided to other modules. This material will be reviewed for disclosure and we hope to start making disclosure in the summer of 2024. I know that some core participants have queried why disclosure cannot be made earlier, and if it can be, it will be. But in reality, drafting the Rule 9 requests, allowing the recipients sufficient time to respond, reviewing and providing feedback on draft statements and then redacting and then disclosing the final signed statement and exhibits takes many months, such that, in our submission, summer seems a realistic start date.
+
+Allied to disclosure is the issue of expert material and the instruction of expert witnesses.
+
+Module 6 has provisionally identified a number of areas where expert evidence is likely to assist in examining some of the matters set out in the provisional outline of scope, and there are three areas that have already provisionally been identified.
+
+The first is an expert on what I have called the structure and capacity of the adult social care sector across the UK. It is envisaged that this expert or experts will include an outline of how the care sector is structured and funded, and any key differences across the UK. And there are in effect four different adult social care sector systems at play here.
+
+It will look at the numbers and types of care homes and providers, workforce capacity at the start of and during the pandemic, and the expert report, I repeat, will consider the position in all four nations.
+
+Module 6 also intends to instruct an infection prevention and control expert. This is likely to include matters such as the development of the scientific understanding of Covid-19, including routes of transmission, and in particular in relation to care settings at the start and then throughout the pandemic. It will also look at IPC guidance relevant to the care sector, and issues relating to PPE within the care sector.
+
+Module 6 has also identified this area for potential expert evidence, and it's to look at the impact of the pandemic on those with specific conditions which commonly underpin the need for social care.
+
+Now, the Inquiry is already considering which specific condition or conditions should be covered by expert evidence into the impact. This part of the module's work is focused not on the providers of care, but very much on the individual receiving care and how the pandemic affected them, and to include where possible what are called indirect harms.
+
+For obvious reasons, the Inquiry will not be able to obtain expert evidence on all relevant conditions, but it is hoped that expert evidence will be complemented by other evidence obtained through the Rule 9 gathering process, and we are considering looking at the impact on those with learning difficulties, people with mental health difficulties, those with dementia, physical difficulties, and those with multiple or complex needs.
+
+That's not to say that some people don't, I'm afraid, suffer from a number of those conditions, nor is it to pigeonhole people, but there has to be a sensible way to try to understand the way the pandemic impacted people with those kinds of difficulties.
+
+In this regard, we note the disabled people's organisations' submission that expert evidence on impact should not be based solely on condition but on whether the eligibility criteria is met.
+
+Now, the Inquiry legal team wants to consider that submission, but note that one part of the eligibility criteria is looking at the adult's needs and whether they arise from or are related to a physical or mental impairment of illness, and so it may be that, practically speaking, these are two sides of the same coin. But, again, we are considering the submissions received in that regard.
+
+In relation to those three areas, and indeed any other future area for expert evidence, the identity of the expert witnesses and the questions and issues they will be asked to address will be disclosed to the core participants before the expert reports are finalised. So the core participants will be able to provide observations on the draft expert report. We anticipate that where there are significant differences of view amongst expert opinion, these will be made clear on the face of the reports, and of course in due course can be tested during oral hearings.
+
+The appointment of the experts to the Inquiry are, though, matters exclusively for the Inquiry, although we have received already a number of helpful suggestions from core participants as to who should be appointed. We will consider those experts, and indeed the additional areas of expert evidence, and I've no doubt that you will hear further submissions about that today. So, before deciding on any additional areas, no doubt you'll wish to listen to those oral submissions.
+
+My Lady, item 5 on the agenda considers the Inquiry's listening exercise, Every Story Matters.
+
+Every Story Matters has been established to gather, analyse and summarise the experiences of those affected by the pandemic and the UK's response to it. Module 6 will have an Every Story Matters report covering people's experiences of care. The report will be anonymised but disclosed to the core participants and used in evidence so they can form part of the Inquiry's written record. The report will identify trends and themes and include illustrative case studies which may demonstrate systemic failures.
+
+Every Story Matters aims to obtain information from anyone who wishes to contribute and has been designed so that anyone and everyone in the UK can contribute if they wish to do so. Specifically in relation to Module 6, the Inquiry is particularly interested to hear from people who have interacted with the care sector, including the residents living within the adult social care sector and those who are cared for at home and their loved ones, those managing public and privately funded care homes, people working in adult social care settings during the pandemic, including those providing care at home, whether they are paid or unpaid.
+
+To date, nearly 5,500 people have shared their experiences of the care sector with Every Story Matters and there have been a number of listening events at care homes that have taken place, but can I reiterate the Inquiry encourages anyone else who would like to participate to go online and share their story.
+
+In addition to that, Every Story Matters is going to commission targeted research about the impact of lockdowns and visiting restrictions, including on the physical and mental health of those who receive and provide care, and looking at end-of-life care, DNACPR decisions and bereavement, the information that was provided to and about patients being discharged from hospitals, access to emergency and routine healthcare for residents in care homes, and it will look at IPC measures.
+
+There is a proposed what are called key lines of enquiry that have been shared with core participants, along with the categories of potential audience groups that it is proposed are included in the sampling for those qualitative interviews, and again we are grateful for all the submissions that have been made in respect of the key lines of enquiry. These will be revisited once your Ladyship has had a chance to consider all of the submissions and made any necessary final decisions about the scope of Module 6.
+
+The final matter on the agenda is this, my Lady, in relation to future hearings. There will be a further preliminary hearing for Module 6 held in due course at Dorland House. We anticipate that the public hearing in Module 6 will take place in London in the summer of 2025. The disabled people's organisations have asked the Inquiry to consider whether a British Sign Language interpreter could be used in Module 6 for some or all of the public hearing. The need, feasibility and cost of this suggestion is a matter that the Inquiry is looking into, and your decision about this can be communicated to core participants in due course.
+
+Your Ladyship has already indicated that you will publish the written submissions that you received. In addition to those written submissions there are 12 core participants present today who wish to make oral submissions, and the first to address you is Ms Morris King's Counsel on behalf of the Covid Bereaved Families for Justice UK.
+
+**Lady Hallett**: Thank you very much indeed, Ms Carey, I'm very grateful.
+
+Ms Morris.
+
+Submissions on Behalf of Covid Bereaved Families for Justice UK by Ms Anna Morris KC
+------------------------------------------------------------------------------------
+
+**Ms Morris**: My Lady, I appear on behalf of the Covid Bereaved Families for Justice UK. You have received our written submissions and I propose to use the short time I have to focus on and highlight some key topics.
+
+The first topic I'd like to address with you, please, is the issue of the provisional scope, and firstly in relation to preparedness.
+
+This is not just an issue, in our submission, for Module 1. The Inquiry should look at the preparedness of the adult social care sector as a core theme of Module 6, and at paragraph 13 of our submissions we have made it clear that it will be essential for the Inquiry to understand the significant variations in the way that the adult social care sector is regulated, commissioned and provided across the four nations and jurisdictions, to inform both the investigation and the impact of the pandemic and any recommendations on the integration and governance of adult social care to strengthen future pandemic response.
+
+This needs to be properly reflected in the timetable, in our submission, my Lady. It's been helpfully set out this morning by Ms Carey King's Counsel that the four different sectors will be examined with care, but of course that requires timetabling consideration for England, Scotland, Wales and Northern Ireland to have appropriate time to be addressed and properly explored.
+
+One issue that is necessary to explore in addition is whether the pandemic highlighted the urgent need for a national care service or services in each of the four jurisdictions. In our submission, the absence of a joined up national care service is an issue which may be highly relevant to the recommendations you may wish to make in due course and should be kept in the forefront of the Inquiry's mind throughout Module 6.
+
+We repeat our concern that the Inquiry needs to set time aside to deal with all four systems sufficiently as there are likely to be differences in structures, resourcing and operation, and we urge the Inquiry to discuss with the core participants how that can be achieved.
+
+One way we say that can be achieved is to replicate the Inquiry's approach in Module 3 and spotlight residential care settings and domiciliary care providers from each of the four jurisdictions. In our submission, this would be a proportionate approach, but one that requires some modification for Module 6 because of the disparate and fragmented nature of the adult social care sector and the way it's provided across both community and residential settings, and regularly both.
+
+In particular, we suggest the Inquiry could spotlight residential settings with the highest and lowest infection and mortality rates, to compare approaches and match settings and provide -- as against inspection ratings. We recognise that the Inquiry will not be able to focus on individual experiences. Our families suggest that there are examples of exceptionally good and exceptionally poor practice and there may be a case for spotlighting residential settings and care providers in the catchment areas of the spotlight hospitals that are being focused on for Module 3.
+
+We welcome within the inclusion of the Inquiry's scope an examination of domiciliary care, because the Health Foundation reports that there were over 4,500 excess deaths amongst people receiving domiciliary care in England during the first wave of the pandemic up until July 2020, which is higher in proportional terms that in care homes during the same period. A large number of our families' loved ones died whilst living at home and receiving care and support from unpaid carers, adult social care and nursing professionals.
+
+However, any investigation into different settings where care is delivered is incomplete without a thorough investigation into infection prevention and control and movement of staff across settings. This must include the role of agency staff, the regulation of cross-sector workers, as well as the impact of zero-hours contracts and staff sickness.
+
+We also ask the Inquiry to further clarify on how far the scope goes with respect to which parts of the sector are included and which are not, for example within the context of sheltered accommodation, and if not, why not.
+
+Can I touch now, please, on the issue of discrimination. It's recognised that disparities of outcome from the pandemic for some racialised minorities is a persistent factor in most aspects of this Inquiry. Likewise, the impact of ageism and ableism in the matters the Inquiry proposes to investigate in Module 6 cannot be overstated.
+
+Although paragraph 1 of the provisional outline of scope may be broad enough to cover these issues and broader issues of socioeconomic inequalities, it's submitted that the impact of structural and institutional discrimination, and particularly racism, ageism, ableism and sexism, should be expressly included in the scope for Module 6.
+
+The Inquiry may to some degree carry forward the evidence from earlier modules but there is also a clear need for further reports that relate specifically to this module.
+
+It's important that the scope of Module 6 includes the whole spectrum of social care, not only the adult social care sector as it relates to older people. The experience and impact on adults with intellectual disabilities is essential given the high mortality rates amongst this group, as outlined by Professors Watson and Shakespeare in their evidence to Module 2.
+
+Covid Bereaved Families for Justice families were appalled at the evidence of tacit and actual ageism uncovered by the Inquiry in Module 2, which was deeply painful and concerning. Given the impact of ageism during the pandemic was beyond the scope of Professor Nazroo's Module 2 report, the Inquiry is invited to seek expert evidence on the impact in Module 6 from Professor Nazroo or another suitably qualified expert.
+
+We're grateful to the Inquiry for agreeing to instruct an expert to provide evidence to the Inquiry on the impact on those with dementia, and we also ask the Inquiry to consider expert evidence on the unequal impact of the pandemic on people with intellectual disabilities, and we press upon you our paragraph 41 of our submissions regarding the unequal impacts in respect of certain physical health conditions.
+
+I hear what Ms Carey says about the reality that the Inquiry cannot consider all physical and mental health conditions, but we press upon the Inquiry the consideration of specific conditions including COPD, autoimmune diseases, type 2 diabetes and those that have suffered a stroke.
+
+We make a specific submission at paragraph 42 of our written submissions about additional areas of evidence that can be assisted with expertise, and we invite the Inquiry to obtain expert evidence on the structural and institutional discrimination as it relates to the impact of the Covid-19 pandemic on the ASC sector, as set out above, and in doing so the structures and performance of the sector in two other countries where the ASC sector is said to be well developed, in order to compare impacts and to seek learning for recommendations.
+
+My Lady, we entirely recognise that the Inquiry is not tasked with undertaking a wide-ranging international comparative study or judging where the UK finished in league tables. Our submission relates to providing limited comparators against which to pose the performance of the adult social care sector across the UK. Furthermore, by identifying systems which may have performed better, the Inquiry may be assisted in terms of recommendations for the future.
+
+This submission is made on a proportionate basis. There are eminent experts in the field of comparative international health and social care, and to commission for such evidence would be both proportionate and likely to be of assistance to you, in our submission.
+
+Before moving away from experts, we do note with some concern that in departure from other modules the Inquiry is not providing core participants with the names of experts to be instructed. In our submission, given the time between now and the start of the module, it's difficult to see what purpose this lack of disclosure can serve, but we will in all situations assist the Inquiry by the provision of any experts that we submit could assist the Chair's exploration.
+
+If I may make some final points on scope. We welcome the inclusion of visits from loved ones at paragraph 4 of the provisional outline of scope. Clearly, this was a matter of utmost public concern during the pandemic and is a matter of great concern to our families. At its heart the issue underlines the importance of family, community and dignity in death and bereavement during a pandemic.
+
+Given the obvious impact on residents who were particularly vulnerable when not receiving visits from their loved ones, such as those with dementia or learning disabilities, the Inquiry is invited to include visits from loved ones as a distinct issue and not only as an aspect of infection prevention and control.
+
+More broadly, my Lady, in relation to witnesses, this is a module which we say cries out for evidence from the bereaved to identify systemic issues from the perspective of those most affected and their lived experience. We can supply the Inquiry with a schedule of family witnesses, as in other modules, from which we'll invite you to call a proportionate number to give oral evidence. These are submissions that you will also find echoed in those made by the disabled people's organisations and John's Campaign.
+
+Some practical matters, my Lady. We continue to note the difficulties caused for our ability to effectively engage and assist the Inquiry when the Inquiry does not share Rule 9 letters of instruction to the experts. We have made oral and written submissions on this issue on a number of occasions, as have we made in respect of the requirement for position statements. I won't repeat them here, but in our submission the Inquiry's evidence gathering process does not appear to us to be getting smoother, and we repeat that position statements would greatly assist the Inquiry in its processes.
+
+In respect of disclosure, there's a pressing need for disclosure to be made early. We entirely recognise the Inquiry will have very few significant breaks from September 2024 before Module 6 commences, and will be having to prepare concurrently Module 3, Module 4 and Module 5, as will the bereaved families, and we would require a commitment to disclosure being made as early as possible and starting as soon as possible.
+
+In respect of Every Story Matters, we have made submissions on a number of occasions about our position for the bereaved families. We continue to ask questions about who is doing the evidence gathering, what the analysis is, and who is writing the reports. These questions, in our submission, have still not been answered to our families' satisfaction, which undermines their confidence in that process.
+
+Finally, my Lady, we entirely understand the amount of work and preparation that goes into the Inquiry's work around Module 6, but in order for all core participants to work effectively to assist you and to ensure that those we represent can effectively participate in the process, there needs to be clarity and certainty around the start date and the time estimate.
+
+My Lady, those are my submissions, unless I can assist you further.
+
+**Lady Hallett**: Thank you very much, Ms Morris.
+
+Ms Campbell, I think you're going next.
+
+Submissions on Behalf of the Northern Ireland Covid-19 Bereaved Families for Justice by Ms Campbell KC
+------------------------------------------------------------------------------------------------------
+
+**Ms Campbell**: My Lady, thank you.
+
+You know that, together with my colleagues here in court today and those who will be following these proceedings, we represent the Northern Ireland Covid Bereaved Families for Justice, and, my Lady, it would be difficult for me today to overstate the importance of this particular module to the Northern Ireland Covid Bereaved.
+
+In conversations with my colleagues, we estimate that some 90% of our client group have raised with us concerns about the treatment of their loved ones in the Northern Ireland care sector in the course of the pandemic. 90%. And although that figure is appalling, it perhaps becomes less surprising when statistics that are available from the Northern Ireland Statistics and Research Agency are considered. Those indicate that between March 2020 and June 2022 persons aged over 75, or persons aged 75 and over, accounted for almost 74% of Covid-related deaths in Northern Ireland, and over the same period almost, that being March 2020 until May 2022, there were some 1,284 Covid-related deaths of care home residents.
+
+That figure is slightly more than the figure my learned friend Ms Carey King's Counsel quoted to you this morning, only because the bracket, the window, is extended by some eight weeks.
+
+But whatever figures we look at, the stark reality is that almost one in three people who died in Northern Ireland from Covid were care home residents, and that figure doesn't reflect the deaths of those who lived at home and who were receiving support from the care sector, or those who died at home or in hospital. And nor, of course, do those figures alone properly expose or reflect the intersectional nature of discrimination that may have faced by many of those who died, discrimination on grounds of ageism or ableism or low socioeconomic status or sex or race.
+
+My Lady, the experience of the Northern Ireland Covid Bereaved will show that for many it felt like those who were most vulnerable to contracting Covid-19 also became the most likely to be exposed to the illness, by virtue of their contact with or residence within the Northern Ireland care sector.
+
+If I may, on behalf of the Northern Ireland Covid Bereaved, bring to your attention the following seven points that arise from their shared experience.
+
+Far too many of those who died from Covid were acutely vulnerable to contracting Covid because of ill-thought out policies within the health and social care system, and with particular reference to that policy of discharging Covid positive patients from hospital into the care sector.
+
+That discharge of Covid patients into care homes had a devastating and far-reaching impact in the north, and many of our clients believe they lost their loved ones as a direct result of that policy.
+
+Secondly, far too many who lost their lives were acutely vulnerable to contracting Covid because of poor infection prevention and control policies within individual home settings. Many care homes, it seems, struggled to simply isolate individuals, struggled due to lack of facilities, struggled due to adequate staff or resources.
+
+Thirdly, far too many who died, including those receiving home help, as we call it, or domiciliary care, were vulnerable due to staffing practices, including: care workers who wittingly or, of course, in most cases, unwittingly carried the virus from home to home, from patient to patient; care workers who were not provided with or who were not adequately or appropriately using personal protective equipment; and those on zero-hours contracts who felt that they had no choice but to continue to work.
+
+Fourthly, there were significant delays in the diagnosis of Covid within care home settings, and therefore delays in isolating those who had become infected.
+
+My Lady, mindful of the risks that Covid brought to vulnerable people within a care home setting, the need for proper testing, proper equipment, adequately trained staff to undertake symptom monitoring in line with guidance is of key importance, and there is concerning evidence from our client group that many care homes in the north, certainly within the first year of the pandemic, didn't have all of the required equipment or trained staff to effectively monitor symptoms.
+
+Fifth, far, far too many of those who died were cut off from their families and isolated during the pandemic, with no family members to communicate with, much less to advocate on their behalf in their isolation.
+
+The importance -- and, my Lady, we know you know this -- of family contact with residents, the negative and sometimes traumatic effect of visiting restrictions on the physical and, of course, the mental wellbeing of residents and on the mental health of carers can't be overstated. In many cases, the restrictions imposed on visiting were cruel and felt punitive and failed to take into consideration the real importance of family relations and social interaction.
+
+Sixth, far too many of our families experienced fear and confusion about medications that were prescribed, and far too many experienced the trauma of realising a DNACPR had been imposed or was being imposed on their loved ones without consultation or any meaningful agreement.
+
+Seventh, far too many of those who died, died alone, in states of confusion and isolation, and without family members comforting them in death.
+
+Now, my Lady, it is reassuring to see that those issues which come to the fore within our client group are either outlined in your provisional scope document or have been reflected in submissions from your counsel this morning.
+
+You know, because you've spoken to many of our client group, that we have a great deal to say on the issue, that a great number of bereaved families have a lot to say about their experience of the adult social care sector in the north, and they have been patient in Module 1 and in Module 2, biding their time for the appropriate opportunity to give evidence.
+
+That opportunity, we say, should come in Module 6. We urge you in this module to allocate sufficient time to hear the evidence of sufficient numbers of the bereaved, recognising that their evidence can assist you a great deal in the issues that are outlined in your provisional and, in due course, your final scope of this module.
+
+My Lady, a word about the social care system in Northern Ireland, or rather, if I may, three words: underfunded, complicated, and, during the pandemic, unregulated.
+
+Underfunded. You have heard evidence in Module 1 about the dire state of the Northern Ireland health and social care system, you already know about the reports and the reviews and the recommendations that had been made but not enacted. But perhaps what has not been as clear is that although each was packaged as a health and social care system review, in fact they were primarily healthcare-focused, with little detailed consideration or attention given to the social care sector.
+
+We anticipate that you will hear evidence commencing in Module 2C in a number of weeks that social care legislation in Northern Ireland is riddled with disconnected and outdated laws, absent any sense of coherence and theme, or any joined-up ambition in outcome. You will certainly hear that when the pandemic hit care homes in the north were already in a state of crisis, with long-standing issues of workforce shortages and long overdue reform.
+
+In real terms, social care was and is the poor relation of our already downtrodden and impoverished healthcare system. For that reason we say that the evidence that you hear in Module 1(sic) about the Northern Ireland adult social care sector shouldn't simply commence in January or March 2020. If you are to make meaningful recommendations, you must hear evidence about why and how it was that the social care sector was so ill equipped and so unprepared for the pandemic.
+
+It's not, of course, an inquiry into austerity or an inquiry into the adult social care system funding, but in order to properly consider preparedness for future pandemics, we must understand how it was we were so ill prepared in 2020.
+
+My Lady, it's complicated. In 2020 there were just shy of 500 care homes registered in Northern Ireland. Some were run, as you've heard this morning, by one of the five health and social care trusts, some by voluntary organisations, but the vast majority, perhaps as much as 90%, were privately owned.
+
+The complicated structure of accountability for service provision spanning that public and private and voluntary sphere meant that for many of our families when they wanted information or when they wanted to challenge decision-making there was a lack of clarity about where to go. It was almost impossible to identify from whom to seek the answers.
+
+There lacked clarity in practice over the duties and responsibilities of various providers. There lacked clarity on funding, particularly vis-à-vis private healthcare providers. There lacked clarity on guidance across health and social care trusts, on patients' rights and family rights, and there lacked consistency in the application of such guidance as there was.
+
+My Lady, the Inquiry will need to carefully address against that background how it is that the evidence is to be gathered in relation to the Northern Ireland care sector. It has already been recognised that the local government survey doesn't transpose easily across on to the Northern Irish system, and in that regard our client group is a well of information and resource and suggestions, and we're ready to work with your team in order to identify the most appropriate recipients of Rule 9 requests, indeed a process that we have already commenced in Module 3.
+
+My Lady, unregulated.
+
+Against a background of that complex system, you will hear that during the pandemic there lacked regulatory oversight because regulatory oversight was withdrawn on the direction of the Department of Health in March 2020, arguably at a time when residents and their families needed it most.
+
+The Regulation and Quality Improvement Authority (RQIA), responsible for monitoring and inspecting the health and social care services, and the promotion of the quality of those services, it would appear was directed to suspend routine investigations in March 2020. The inherent risks, my Lady, of reducing inspections at the same time as ensuring that visiting restrictions were imposed on families are obvious.
+
+There are a number of issues that we can point to that really do depict the state of confusion and chaos. Perhaps the clearest example we've identified in our written submissions at paragraph 22 comes in the form of care partner guidance. Some might say a belated recognition that those in care, be it older persons, those with dementia, residents with learning difficulties, those with Down's Syndrome, required a care partner not just for support but also for advocacy, but the reality for many was that care homes appeared either unaware or unable or unwilling to implement that guidance, leading to distress and confusion for residents and families alike.
+
+My Lady, touching on experts before I finish, there is, as you will have gathered, in the Northern Irish context, a great deal for this module to consider, and it's for that reason that, whilst we endorse that you've just heard, and indeed we endorse everything that you've heard from Ms Morris, but in relation to expert witnesses we underscore that a "one witness fits all" approach may not work when it comes to Northern Ireland. It will be important that the experts that you instruct have sufficient expertise in our devolved system in order to meaningfully assist you, and if that cannot be achieved in a single expert on any topic, we are again ready to assist you and your team with the identification of individuals with an appropriate level of Northern Irish expertise.
+
+My Lady, this is, of course, an early stage in the preparation for Module 6. The issues that I have raised this morning must be explored in the fullness of time, but we raise them at this early stage to stress that the social care system in Northern Ireland must receive due care and attention within Module 6, and whether that is by way of a sub-module, which we know has been raised by our colleagues from Wales, or whether it's in a specific phase of Module 6, sufficient time, resources, adequate witness evidence, and full attention must be given within this module to social care in Northern Ireland if this Inquiry is to properly address and understand the response of the Northern Ireland adult social care system to the pandemic, and of course to make meaningful recommendations for change, should a future pandemic befall those who are reliant on adult social care.
+
+My Lady, those are all the submissions that I make this morning, unless I can assist you further.
+
+**Lady Hallett**: Thank you very much for your help, Ms Campbell, very grateful.
+
+Shall we hear from Mr Henry before we break? Mr Henry.
+
+Submissions on Behalf of Scottish Covid Bereaved by Mr Henry
+------------------------------------------------------------
+
+**Mr Henry**: My Lady, I appear this morning on behalf of the Scottish Covid Bereaved as one of the counsel, including Claire Mitchell King's Counsel, Kevin McCaffery, advocate, and David Welsh, advocate, instructed by the Inquiries team at Aamer Anwar & Company.
+
+My Lady, Scottish Covid Bereaved have provided written submissions to the Inquiry and would adopt those. My submissions this morning, while brief, are in five parts.
+
+Firstly, I will make some general submissions in relation to this module. I will then address liaison with the Scottish Inquiry, disclosure, expert reports, and Every Story Matters.
+
+Turning to the first part of my submissions, my Lady, the Scottish Covid Bereaved are grateful to the Inquiry for being included as a core participant in this module. Module 6 is of particular significance to a number of the bereaved whose loved ones died in care homes. While they can share with the Inquiry their own experiences of the care sector, they wish to know why their loved ones died, they wish to know why certain decisions were taken by the UK and Scottish Governments, and whether those decisions led to deaths.
+
+They wish to know whether there were failings relating to decisions to discharge patients from hospitals into the care sector, whether there was early discharge when further hospital treatment was required, whether GPs were attending care homes, and how staff at care homes were expected to administer medicines, and what consideration had been given to those who required care at home. And, my Lady, perhaps most pertinently, why Covid-positive patients were discharged from hospitals.
+
+My Lady, Scottish Covid Bereaved are aware from research published by the Scottish Inquiry that by mid-2020 care home residents accounted for 50% of all Covid-19-related deaths in Scotland, a higher percentage than in both England and in Wales.
+
+By early June 2020 more people had died of Covid-19 in Scottish care homes than in hospitals, with 1,818 deaths occurring in care, compared with 1,815 deaths in hospitals.
+
+As Counsel to the Inquiry set out this morning, my Lady, between March 2020 and June 2022 there were 3,592 notifications of deaths related to Covid-19 in care homes in Scotland.
+
+As I hope this illustrates, my Lady, this module is of significance to the Scottish bereaved. In relation to the matters in the outline scope of the module, my Lady, members of Scottish Covid Bereaved have serious concerns about the use of DNACPRs during the course of the pandemic. These concerns particularly focus on issues of communication and ensuring that relatives clearly understood what DNACPR meant, and that ultimately this could be a medical decision.
+
+There are also concerns around capacity, my Lady, and what steps were taken to ensure that loved ones were able to understand and consent to DNACPRs.
+
+It's the experience of Scottish Covid Bereaved, my Lady, that there were differences in how DNACPRs were recorded in medical notes and communicated to the wider healthcare team.
+
+My Lady, the Scottish Covid Bereaved note and welcome that the module will focus on infection prevention and control (IPC) measures. The Covid bereaved consider that IPC guidance includes not only PPE but also fundamental aspects of IPC such as hand hygiene and cleaning regimes in wards, units and clinical areas, with a particular emphasis on high-traffic and communal areas such as toilets. It is understood that ventilation, and in particular HEPA air filtration and its use in the removal of airborne contaminants, is an essential element of IPC practice.
+
+Given the unique challenges posed by residents within care homes, such as those suffering from dementia, the Scottish Covid Bereaved wonder what consideration was given to the movement of residents within care homes when the IPC guidance was being prepared. It's hoped, my Lady, that this module can give the bereaved the answers that they seek.
+
+As your Ladyship will be aware, out of all the hardships suffered by the bereaved throughout the pandemic, one of the most difficult to deal with has been being unable to be with loved ones in their final moments. Scottish Covid Bereaved note that rules around visiting were not uniformly applied across different care homes, and even for those who were fortunate enough to be able to visit their loved ones in their last hours, their experiences varied.
+
+Scottish Covid Bereaved consider that there was often a lack of communication with relatives about their loved ones' health, particularly where there was a deterioration towards the end of life. The bereaved consider that a lack of testing and PPE meant that they were unable to visit their loved ones face-to-face. Though there was the possibility of electronic communication, this proved difficult for those who were deaf or hard of hearing or suffering from dementia, and the Scottish Covid Bereaved welcome this being covered in Module 6, my Lady.
+
+Moving on to liaison with the Scottish Inquiry, my Lady, I'm sure your Ladyship will be aware that the impact hearings for the Scottish Inquiry are under way in Edinburgh, that those impact hearings have raised a number of issues which the Scottish Covid Bereaved consider are relevant to this module of your Ladyship's Inquiry.
+
+It's noted that, from the outline scope of Module 6, it appears that there will be some overlap with the Scottish Inquiry's third portfolio, which is examining the provision of health and social care services. The Scottish Covid Bereaved are aware that the Scottish Inquiry intends to examine, amongst other matters, the provision of social care in care and nursing homes, issues relating to the transfer of patients from hospitals, and the testing of patients and the use of the DNACPR notices.
+
+My Lady, the Scottish Covid Bereaved understand that it's this Inquiry's intention in relation to Scottish matters to seek to minimise the duplication of investigation, evidence gathering and reporting with the Scottish Inquiry. Given that the responsibility for much of what is to be covered in this module, at least from a Scottish perspective, was within the Scottish Government's devolved competency, Scottish Covid Bereaved look forward to hearing how the two Inquiries intend to co-operate in relation to the subject matter of this module and any practical implications of this co-operation.
+
+The Scottish Covid Bereaved hope that this Inquiry will fully consider the matters in the module's outline of scope as they apply to Scotland. In that regard, my Lady, Scottish Covid Bereaved note the suggestion of the Welsh bereaved that the Inquiry adopt a similar approach in Module 6 as it did in Module 2 and have Modules 6A, 6B and 6C, looking at Scottish, Welsh and Northern Irish responses. Scottish Covid Bereaved would welcome such an approach, my Lady, although we note all that was said by Counsel to the Inquiry this morning.
+
+Moving on to the issue of disclosure, my Lady, we note all that is said in Counsel to the Inquiry's note and has been said this morning. The Scottish Covid Bereaved look forward to the commencement of the disclosure procedure in the summer of 2024. We are somewhat limited in the submissions that can be made this morning until such time as the results of that disclosure process has been made known and distributed to the core participants.
+
+Scottish Covid Bereaved are mindful, however, my Lady, of the difficulties faced by the Inquiry in obtaining certain evidence from the Scottish Government in Module 2A. This was perhaps the most stark example of the difficulties the Inquiry can face when attempting to recover evidence, and a reminder that the process is often far from straightforward.
+
+Scottish Covid Bereaved are sure that the Inquiry will make every possible effort to ensure that it has obtained all relevant evidence and it's hoped that there will be timeous compliance with the Inquiry's Rule 9 procedure from all the core decision-makers across all four nations.
+
+One concern which the Scottish Covid Bereaved have, my Lady, relates to the timing of disclosure and its likely availability to core participants.
+
+For those core participants who have also been core participants in other modules, they are now accustomed to the vast amount of material which is disclosed and which requires to be considered in each module. Given the anticipated scope of Module 6, my Lady, it seems likely once again that there will be a substantial amount of disclosure. There is, my Lady, some apprehension that the timing of the disclosure will leave core participants and their representatives insufficient time to properly consider all materials. The preparation for this module will of course overlap with the preparation and the hearings for other modules, and it's hoped that all steps are taken to make sure that disclosure is made available as quickly as possible for adequate preparations to be made.
+
+In relation to expert reports, my Lady, Scottish Covid Bereaved understand that, as has been the case in other modules, the Inquiry intends to instruct a number of expert reports again, to assist it by providing written reports and giving oral evidence at the hearings.
+
+Scottish Covid Bereaved will make further submissions in this regard once the identity of the experts and the questions and issues they will be asked to address are disclosed to core participants.
+
+At this stage, my Lady, Scottish Covid Bereaved submit that it's hoped that the experts will be instructed who will have sufficient and requisite experience in relation to those matters concerning Scotland and the Scottish Government, and Scotland's own set-up of care home and care provision.
+
+The Scottish Covid Bereaved note the submissions of the UK bereaved, my Lady, who have submitted that the Inquiry should consider the impact of structural and institutional racism and discrimination, and that the expert report should consider racism, ageism, ableism and sexism. The Scottish Covid Bereaved would welcome such an approach, my Lady.
+
+Finally, my Lady, turning to Every Story Matters, Scottish Covid Bereaved are aware that the Inquiry's research specialists are exploring the opportunities to conduct targeted research in relation to particular topics based on the key lines of enquiry. We note that those key lines of enquiry are set out by Counsel to the Inquiry in her note, and your Ladyship has Scottish Covid Bereaved's submissions in relation to those key lines.
+
+Scottish Covid Bereaved look forward to positively engaging with the Inquiry and the research specialists. It welcomes the proposed research and has suggested to your Ladyship a number of groups and organisations who may be able to assist the Inquiry in that regard.
+
+My Lady, unless there are any other matters to be addressed, those are the Scottish Covid Bereaved's submissions.
+
+**Lady Hallett**: Thank you very much for your help, Mr Henry.
+
+**Mr Henry**: Thank you, my Lady.
+
+**Lady Hallett**: Right, we'll take a break now and come back at 12.05.
+
+*(11.48 am)*
+
+*(A short break)*
+
+*(12.05 pm)*
+
+**Lady Hallett**: I have caught people by surprise, but not you, Ms Gowman.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice Cymru by Ms Gowman
+----------------------------------------------------------------------------------
+
+**Ms Gowman**: Thank you, my Lady.
+
+Good afternoon. As you know, I represent Covid Bereaved Families for Justice Cymru, and I will refer to them as the Cymru group.
+
+We firstly wish to thank you, my Lady, for granting the Cymru group core participant status in this module. As you know, having met the group, a large proportion of them lost loved ones after they contracted Covid-19 in social care settings, and as a result the Cymru group feels that they have real standing on the issue of the impact of Covid-19 on the social care sector in Wales.
+
+The Inquiry has received written submissions from the Cymru group, and I don't propose to repeat the same.
+
+Turning firstly to my first topic, the structure of Module 6, as you've heard, my Lady, the group invites the Inquiry to consider adopting the approach taken in Module 2 by introducing sub-modules 6A, 6B and 6C to specifically address the impact of the pandemic on the devolved administrations.
+
+We have listened to what has been said by Counsel to the Inquiry and of course we understand the need for proportionality, but we wish to make the following final points for your consideration before you make your determination.
+
+As my Lady is acutely aware, health and social care are devolved competencies, with responsibilities sitting firmly with the devolved administrations. And as has been clear in earlier modules, devolution is not an artificial construct, rather it has resulted in tangible variations across the four nations in respect of significant pillars of legislation, political decision-making, structures and implementation.
+
+The Cymru group feels strongly that subdivision of the modules would not only reflect the constitutional position but, on a practical basis, it would enable equal allocation of the Inquiry resources to ensure a robust investigation of the issues in respect of each of the four nations making up the UK.
+
+If the Inquiry is not minded to subdivide the modules, we submit that the provisional outline of scope ought to be slightly revised and, as stressed by Ms Morris King's Counsel, sufficient time allocated to allow for the position in Wales, and indeed each of the devolved administrations, on each of the identified issues within scope to be thoroughly scrutinised.
+
+Turning to the provisional outline of scope, the key areas of concern for the Cymru group are set out at paragraph 9 of the submission. Overall, the group considers that the scope is sufficiently broad to encompass its key areas of concern, subject to the following observations.
+
+Firstly, the scope identifies that the Inquiry will not consider the state of adult social care systems in the UK prior to the pandemic, save where necessary to understand how the pandemic impacted on adult social care. We agree with the submission of the Trades Union Congress that it will inevitably be necessary to consider to some extent the broader context of the state of the care sector in each of the four nations at the outset of the pandemic, because it's only within this context that the root cause analysis of any negative impacts of the pandemic can be fully understood to inform the lessons to be learnt.
+
+Secondly, my Lady, the provisional outline of scope suggests that the ambit will cover "adult care in residential homes, care provided in the home, but not care provided within day centres or in supported housing".
+
+The Cymru group agrees with the submissions made other core participants that clarity surrounding definitions is required. For example, the Cymru group considers that the present outline of scope is in fact unclear as to whether nursing homes as distinct settings from residential homes would be included.
+
+Similarly, accommodation settings such as sheltered accommodation, extra care, hospices and shared lives are not mentioned, and clarity surrounding definitions is important.
+
+The Cymru group agrees with the written submissions of CBFFJ and Northern Ireland group that the Inquiry's experts on the structure of adult social care may assist in further refining the provisional outline of scope and the list of issues to come.
+
+Further, the Cymru group supports the call of other core participants for the Inquiry to expand its exploration to a broader range of adult social care settings, not necessarily all settings but certainly a broader range. We understand what has been said by Counsel to the Inquiry on the need for proportionality, but we agree in particular with the submission of National Care Forum, Homecare Association and Care England, that the Inquiry's intended narrower focus risks neglecting a large cohort of individuals whose needs and circumstances during the pandemic were distinct from those residing in care homes, and at homes that are equally meritorious of consideration.
+
+Third, on the issue of the decision-making by the UK Government and devolved administrations, this is issue 3 of the scope, the group welcomes the Inquiry's intention to further explore the decision to discharge people from hospitals into the care sector. As you will recall, this was a significant concern for the Cymru group in Module 2B, the Welsh Government having recklessly endorsed and exposed those in care homes by discharging hospital patients without testing, against the context of inadequate and insufficient PPE and inadequate testing of staff more broadly.
+
+In addition to hospital discharge, the Cymru group seeks confirmation that the Inquiry will explore under this heading: firstly, the impact of any inadequacies in the Welsh Government's engagement with the sector; secondly, the impact of deficiencies in a co-produced approach to response planning; thirdly, whether sufficient regard was paid to early warning signs and vulnerabilities emanating from within the social care sector; fourthly, the impact of delayed introduction of testing for all staff and residents; and fifthly, the impact of inadequacies in PPE.
+
+Finally, the Cymru group invites the Inquiry to consider under this heading the impact of social care legislation easements under the Coronavirus Act, which in essence had the effect of absolving the local authorities from the requirement to carry out needs assessments of adults with social care needs but also adult carers, and also of its duty to meet eligible care and support needs arising.
+
+Fourth, on the issue of the provisional scope, is the management of the pandemic on the ground, and the Cymru group invites confirmation to be provided that this will include, firstly, how infection control was managed prior to individuals entering the broad range of social care settings, secondly, how it was managed in a broader range of care settings once arrived, including testing, segregation and PPE, and, finally, how infection control was managed between settings and, in particular, the movement of staff.
+
+This topic should also include whether sufficient regard was had on the ground to the risk of asymptomatic transmission and airborne transmission. And if regard was not had, why not.
+
+Fifth, on the issue of the provisional scope, Do Not Attempt Cardiopulmonary Resuscitation notices. You will know, my Lady, that most members of the Cymru group's loved ones were placed on DNACPRs as soon as they tested positive for Covid, without due process. Often neither the deceased nor family were consulted over the decision, and many members, some of whom held a power of attorney or a deputyship over health and welfare, only discovered that a DNACPR was in place after records were requested. And even where patients had been informed, many simply did not understand the implications of being under such an order.
+
+The final point I make on the provisional scope, my Lady, is in respect of bereavement support.
+
+The impact films and evidence given by the bereaved in modules to date has served as tangible heartbreaking reminders of the tremendous loss of life but also the trauma experienced by the bereaved. Against this context, it's understood that none of the Cymru group bereaved members were made aware of any bereavement support offered by the social care sector during the pandemic, and we say that this should be explored to some extent in this module.
+
+Now, within the context, my Lady, of the provisional scope, I turn to evidence gathering and disclosure. The Cymru group submits that in order to properly examine the Module 6 issues in Wales, Rule 9 statements should be requested and received from relevant individuals and organisations in Wales.
+
+The group notes that requests have been sent to various recipients and we seek confirmation for the avoidance of doubt that this includes organisations and institutions whose members work within the social care sector in Wales: the Welsh divisions of the Welsh colleges, and charities, groups and non-governmental organisations operating in Wales, for example the WLGA, local authorities, health boards, Care Inspectorate Wales, the Older People's Commissioner for Wales, the Equality and Human Rights Commissioner for Wales, Care Forum Wales, Social Care Wales, Public Health Wales, and finally, the Welsh Institute for Health and Social Care.
+
+We also consider that it would be of assistance to obtain evidence from frontline staff in Wales in order to understand how policies, procedures and guidance were implemented on the ground, and the Cymru group is happy to write to the ILT with further specific suggestions if this would assist.
+
+The same point, my Lady, applies to disclosure insofar as the Cymru group maintains that disclosure needs to be requested from and received from key Welsh bodies who are relevant to decision-making on this topic in Wales.
+
+Moving on to the instruction of expert witnesses, in a similar vein to submissions made in respect of Rule 9, the Cymru group submits that in order to properly examine the Module 6 issues in Wales, experts must be instructed who have sufficient expertise to be able to provide evidence dealing with Wales specifically, and in that regard we adopt the submission made by Ms Campbell King's Counsel in the context of Northern Ireland.
+
+In addition to the experts having sufficient expertise, they must also search for, document and analyse the Welsh data in order to scrutinise the position in Wales. The Cymru group invites the Inquiry to consider providing the core participants with confirmation of the identity of experts in advance so that any potential pitfalls can be identified at an early stage and any representations can be made as appropriate.
+
+Insofar as Rule 9s, disclosure and expert evidence is concerned, the Cymru group reiterates its request for such documents to be disclosed to the core participants as soon as reasonably practicable in order to allow for sufficient preparation time ahead of a substantive hearing.
+
+Turning to my final topic, my Lady, Every Story Matters and the participation of the bereaved in Module 6.
+
+The Cymru group has considered the key lines of enquiry for Every Story Matters as outlined at paragraph 41 of CTI's note, and considers that they broadly mirrored the issues of particular concern for the group. The key lines of enquiry, however, should, we say, be expanded to cover provision other than care homes and domiciliary care in order to ensure that a whole raft of evidence is captured in that means.
+
+The Cymru group again will work with the CTI to identify specific lines of enquiry as required.
+
+What's clear, my Lady, from previous modules is that the bereaved families have and will continue to provide powerful and valuable information regarding their experiences, as they ultimately witnessed first-hand the devastating consequences of the pandemic on the care sent in Wales, and to this end we echo the requests made on behalf of other core participants that the bereaved be given a further opportunity to give oral evidence in this module. Some of the issues that the Cymru group members can provide helpful evidence on involve PPE, testing, segregation, DNACPR and, perhaps more harrowing, end-of-life care.
+
+Turning to my concluding remarks, my Lady, the Cymru group's members experienced and continue to experience suffering and trauma due to the devastation caused by Covid-19, and to provide one account for one of our members, she says that her father died from Covid whilst living in a care home. She states that within four days of being informed of a staff-induced outbreak at the home, her father contracted the virus and passed away. And she says this:
+
+"Although we knew it was inevitable that my dad would pass at some point due to the cruel disease of dementia, at no point did we ever imagine that we wouldn't see him for 11 months, that not one of the family members could be there when he died, and that he wouldn't get the dignified funeral that he so much deserved. We have been left devastated. Mum's life isn't the same; she seems lost, demotivated and no longer has a sense of purpose. She visits the grave one to two times weekly and this has now become her main focus, to make sure Dad's grave is clean. We find it hard to even think about what happened without reliving the horror and trauma all over again. I know that in my lifetime I'll never be able to truly get over this and wouldn't wish this to happen to anybody else."
+
+And it's on that basis that the Cymru group continues to seek truth, justice and accountability for all those bereaved in Wales, and for those additional reasons the Cymru group will continue to work proactively with the Inquiry to robustly explore the evidence, to understand what went wrong and why, so that lessons can be truly learned to minimise the potential for future suffering.
+
+Diolch yn fawr, thank you for listening, my Lady.
+
+**Lady Hallett**: Thank you very much, Ms Gowman.
+
+Mr Friedman.
+
+**Mr Friedman**: My Lady, before I begin, I hope you don't mind if in front of you I congratulate Joanne Cecil King's Counsel, who we know was elevated yesterday.
+
+For those watching, it's a tradition, at least at the Bar, to do that, but it's also important, when we thank Ms Carey King's Counsel and all of her team for preparing this module, that she has the benefit of having Ms Cecil King's Counsel working with her and for this process.
+
+**Lady Hallett**: Very nice thought, Mr Friedman, thank you. And I think it must be the first time Ms Cecil has been referred to as Ms Cecil KC in a hearing, so thank you very much.
+
+Submissions on Behalf of Disabled People's Organisations by Mr Friedman KC
+--------------------------------------------------------------------------
+
+**Mr Friedman**: My Lady, as you know, we act for four disabled people's organisations across the UK. They are Disability Rights UK, Inclusion Scotland, Disability Wales and Disability Action Northern Ireland.
+
+Disabled people's organisations, or DPO, are organisations that are run by and for disabled people. They are to be distinguished from charities that represent disabled people, however well, rather than enabling them to represent themselves.
+
+The DPO thank you in recognising them as core participants in this module. It is a module of great importance to them and the people they work with. That is because when government, bureaucracy and science responded during the pandemic, the care sector is where the most immediate humanitarian consequences of that response came to bear, where disabled people suffered the most disproportionate fatalities and other harms, and where the likelihood that such would be the case was considerably foretold by the state of the sector when the pandemic began.
+
+That being the case, my Lady knows the DPO have a single starting point for all your modules. It was the system that was vulnerable, not people. Forgive me repeating an observation in the presence of new teams, but overlooking this as a starting point enables individualising the problem, overestimating that something will happen without intervention or, worse, accepting that nothing can be done.
+
+On that basis, can we express gratitude for work already done by the Inquiry team but also the submissions of core participants for today. They all describe a system profoundly lacking in resilience. It is wrong to interpret the source of that vulnerability as lying with disabled people or the frontline workforce. To adopt the analogy used by Mr Jacobs on behalf of the Welsh TUC last week, that is to look through the wrong end of the telescope.
+
+On the way forward for this part of this Inquiry, can we therefore make five short points.
+
+The first, this module, like health and vaccines, is going to involve a whole-system investigation. It will combine in one module the evidence of politicians, technicians, service providers, managers, workers and those individuals, families and communities who were both in need of care and assistance and provided it unpaid.
+
+When the Inquiry thinks about experts and other witnesses, as well as reading already available reports and studies, it will be important to seek a descriptive map of the whole system. That includes describing the sector's fragmentation, complexity and fragility, and high turnover of staff who were themselves in vulnerable states of employment and protection.
+
+Our sense is that when you do that, especially through the lens of the four nations and not just England, you will do something that has never been done before, and in the process enable the different parts of the system to learn many things that it does not yet properly know about itself.
+
+My Lady, given that, the DPO support the important submissions of the National Care Forum, Homecare Association and Care England that if your definition of "care provided in the home" does not include the various supported and independent ways that disabled people live at home and receive care, then you deny yourself a sizeable part of the map.
+
+By design, the experience particularly of younger disabled people and those with learning disabilities will be left out. That would be wrong in itself. It would also leave out the lessons to be learned about smarter and more targeted NPIs, including how disabled people with state assistance could set up supported living networks in the pandemics and emergencies to come.
+
+Of course, the level of detail in which these matters are gone into will be a matter for time management. We have already seen you do that in the curation of the live witnesses in previous modules, combined with the written statements and exhibits. With that approach, and the careful choice of case studies and what we've now heard the bereaved families refer to as spotlighting, a lot of ground can be proportionately covered. Alongside other core participants, we simply do not want you to cut out completely a central category of the care sector which would have the consequence of distorting the population profile of the whole module. That does not mean the Inquiry has to deep dive into every home setting in the same way.
+
+Our second point concerns context. As your counsel team apprehend, we do say that, without repeating itself, the Inquiry needs to consider the pre-pandemic situation of the sector in order to understand why the system buckled once the crisis began. We agree with, amongst others, the Covid Bereaved Families for Justice UK and the Northern Ireland bereaved families that part of that consideration should include a renewed and targeted focus on how structural inequality and discrimination specifically impacted this care sector part of state and society. I hope my Lady already appreciates that the effort is critical to scene setting and identifying where the vulnerabilities of the system lay and indeed how those vulnerabilities should have been foreseen.
+
+How that can be done proportionately includes, as my Lady has been doing, disclosing into this module the various expert reports and other publications that have been adduced in previous modules. On this, CPs could make suggestions as to what should go into a core file of materials. Equally, there is benefit in asking experts on the care sector to consider the implications on(?) budgeting and reforms in the immediate pre-pandemic period.
+
+My Lady has already heard from DPO witnesses that it produced a state of emergency for them before the pandemic began. Finally, as suggested by others, those who provided reports on structural inequality at the beginning of Module 2 should be asked to provide either a group or individual updates, applying their minds specifically to the care sector.
+
+Our third point is the statutory easements. As the Cymru group has just outlined, these were provisions contained in the Coronavirus Act to allow local authorities to suspend their care services and assessments when staffing and other activities required.
+
+For England and Wales, these were contained in schedule 12 of the Act and for Scotland they were contained in sections 16 and 17. These provisions have not been mentioned yet in the CP submissions other than by the National Care Forum, and we just heard them mentioned now, and we respectfully think they are important in this module, given the other points the DPO are already making.
+
+In three nations, the very first thing the Covid emergency state did in law to protect the so-called vulnerable was to ease its duties in relation to them. The fact that it was the very first thing is an important indication of how vulnerable the state knew the system was. Easement rendered people in need of care more vulnerable, but nevertheless was something done, what lawyers call, in accordance with law. In lay persons' terms, it legalised it and licensed it.
+
+The fact, as we understand it, no local authority in Wales notified its use of the easement and only a few local authorities in England said they might is not good news, especially when DPO and others report such a massive decline of services and there was no independent auditing then or now to establish what truly went on.
+
+My Lady, this is a question that should be inserted into relevant Rule 9 requests.
+
+Our fourth point is human rights, and especially the human rights of disabled people. I can take this very shortly.
+
+Firstly, the four nations are absolutely not in the same boat about what they say they want to do about rights. However, their delivery on such aspirations as they do have will be sorely compromised if we do not have a United Kingdom approach to the issue.
+
+Secondly, a major cause of the flaws in the system you will study in Module 6 derived from non-compliance with the human rights of disabled people, in terms of planning, consultation and data collection.
+
+Our final point concerns recommendations. Your counsel's note for today reminds us of one of my Lady's core values, which is the imperative to make recommendations as the Inquiry goes along.
+
+It follows that CPs have to learn to participate that way too, to make our suggestions as we go along, which is obviously only for intermittent parts of the Inquiry's journey. We suggest for this module that my Lady more specifically asks the witnesses in the Rule 9 questionnaires: what would you particularly recommend for future pandemic preparation, and why? And that witnesses come to the Inquiry prepared to discuss.
+
+That may be happening generally, but the Inquiry is now entering the sharp end of the system, and it's all very well to want to make meaningful and effective recommendations, but the Inquiry and all its CPs will need help.
+
+The DPO say now that part of the change required is for the views and agency of disabled people to become far more valued in their own right, but also for disabled people to stop being analysed as passive recipients of care or mere dependents.
+
+They want the Inquiry to examine and consider recommendations that would enable the care system to empower disabled people as individuals and groups within that system. They also want the system to become more resilient in terms of including them in the co-production and co-design of its future. They therefore thank the Inquiry again for making this module and their involvement in it with others one of the places to start that task.
+
+**Lady Hallett**: Thank you very much indeed, Mr Friedman, very grateful.
+
+I think we have a slight change of order, I think Dr Townson, are you going next?
+
+Submissions on Behalf of National Care Forum, Homecare Association and Care England by Dr Townson
+-------------------------------------------------------------------------------------------------
+
+**Dr Townson**: Thank you, my Lady.
+
+My name is Jane Townson and I'm CEO of the Homecare Association, making this statement on behalf of the National Care Forum, Care England and the Homecare Association.
+
+The National Care Forum is a membership body for not for profit care and support organisations in England, although its members have services in all parts of the UK.
+
+Care England is a representative body for independent adult social care providers in England, including single care homes, small local groups, national providers and not for profit voluntary organisations and associations as well as private providers.
+
+The Homecare Association is the UK's only membership body exclusively for home care providers.
+
+We are pleased to have been designated as core participants in Module 6 of the Covid Inquiry, having also been granted core participant status for Module 2. We look forward to assisting the Inquiry with its critically important work, in particular helping the Inquiry to understand the social care sector and the impact the pandemic had upon it.
+
+However, we note with some concern that those granted core participant status do not include a wider range of organisations who might also be able to assist the Inquiry in ensuring that the voices of all those providing and drawing on support in the sector are heard.
+
+We are grateful for the opportunity to make this opening statement, to highlight key concerns outlined in our written submission about the general neglect and misunderstanding shown towards the social care sector and the risks that may arise if the scope of the module is drawn too narrowly.
+
+In our closing statement as core participants for Module 2, we drew attention to three concerns. First, decision-makers continually overlooked and sidelined social care at critical points. Second, they misunderstood its scope and diversity. Third, they placed it at a disadvantage compared to the NHS. Indeed, the focus of decision-making appeared to be protecting the NHS rather than citizens in all communities. They saw social care mainly as care homes for older adults rather than as a diverse system of care and support services for people of all ages and abilities, who depend on these essential services to live with dignity and autonomy, with a workforce of 1.6 million, larger than the NHS.
+
+Repeatedly we saw decisions and guidance that failed to consider their needs. For example, initial government guidance stated that face masks were unnecessary because it was "very unlikely that people receiving care in a care home or the community would become infected". Guidance was developed with healthcare settings in mind, with little or no consideration for the practical realities of delivering social care in people's homes and communities.
+
+The flow and communication of guidance from government and key stakeholders was poor and chaotic.
+
+PPE supply and guidance for the social care sector was also shambolic during the first wave, with little understanding of the pre-existing usage of PPE in the care sector and the needs of those working in and being supported by the sector.
+
+A prolonged lack of prioritisation of testing in social care settings, particularly those beyond care homes, allowed the virus to spread unchecked with devastating consequences.
+
+Wider community settings and home care could not regularly test until 2021. Implementation of key policies related to hospital discharges and the withdrawal of community health support and visiting restrictions without proper consultation with the social care sector and the people they support led to confusion, anxiety, inconsistency and harm.
+
+The glaring absence of social care expertise in the main SAGE advisory group meant they did not adequately consider the unique challenges and needs of the sector in the scientific advice informing policy decisions.
+
+The roll-out of vaccines was initially disorganised and inconsistent for social care workers and people drawing on care in community settings, leaving them at heightened risk.
+
+Decision-makers frequently disregarded and undervalued the dedicated professionals working in social care, who put their own health and wellbeing on the line to continue providing care and support in the most challenging of circumstances.
+
+Implementation of vaccination as a condition of deployment for those working in care homes was against the advice and guidance of senior leaders in social care. It is noticeable that once the policy was to be applied to the NHS it was quickly withdrawn.
+
+Application of blanket Do Not Attempt Resuscitation orders without due consideration of individual circumstances and without conversations with individuals and family caused immense distress and a fundamental breach of human rights.
+
+Visiting guidance showed a lack of understanding of the needs of people with learning disabilities, dementia and other conditions, causing untold anguish and deterioration in mental and physical wellbeing.
+
+The sudden withdrawal of vital community services such as day centres and respite care left many individuals and families struggling to cope without essential support. The extended isolation of those drawing on support and care services, even when society re-opened, exacerbated feelings of loneliness, abandonment and despair.
+
+While care providers appreciated the emergency funding provided by the government, it often arrived too late, focused on short-term fixes rather than long-term sustainability and came with burdensome bureaucratic requirements that diverted precious time and resources away from direct care delivery. Data collection systems were cumbersome, duplicative and provided little tangible benefit to the providers tasked with submitting information, while offering few meaningful insights to inform real-time decision-making.
+
+The Care Quality Commission, like many agencies, changed the way it worked. Whilst CQC remained the central point for providers to raise concerns and to provide data on the safeguarding and operational impacts of Covid-19 within care, the data they held needed to be more clearly articulated at the outset of the pandemic.
+
+Further down the line, their focus on risk drove a series of behaviours from which we are yet to recover.
+
+**Lady Hallett**: Could you just slow down a little? I appreciate you've got limited time, but if you could just slow down a little, I think, otherwise the stenographer will be struggling. Thank you.
+
+**Dr Townson**: In considering these important issues, it is essential that the Inquiry truly listens, values and acts on the voices and experiences of the entire social care sector, including those drawing on services and professional care experts.
+
+Turning to our submissions on the proposed scope for Module 6, we are concerned that the Inquiry risks inadvertently perpetuating some of the same mistakes and erroneous assumptions that undermined the pandemic response.
+
+In the note from Counsel to the Inquiry dated 1 March 2024 it was suggested that, although there are a number of different settings in which adult social care is provided, it will not be possible or proportionate to examine all the settings. The Inquiry considers that by focusing on adult care and residential homes and care provided in the home, the Inquiry will have a sufficiently broad evidence base upon which to make meaningful recommendations.
+
+By focusing narrowly on care homes and a restrictive definition of care in the home, the Inquiry would be overlooking a significant portion of social care including populations most severely affected by Covid-19. It is crucial for the Inquiry to recognise that social care extends far beyond the confines of residential care homes for older people: it encompasses a broad and complex spectrum of community-based services, supported housing, assisted living and home care for individuals of all ages, with a wide range of needs, including physical disabilities, learning disabilities, autism, mental health conditions, brain injuries and more.
+
+These various models of care often overlap and intersect, with support being delivered in people's own homes and communities, tailored to their individual circumstances and aspirations. Focusing only on the subset of services would be a gross oversimplification and cannot catch the true scope and impact of the pandemic on social care. We urge the Inquiry to acknowledge that people with learning disabilities and autism were among the most disproportionately affected by the pandemic, with mortality rates a staggering three to four times higher than the general population.
+
+Most of these individuals receive care and support outside of residential care homes, though often through supported living arrangements that enabled them to lead fulfilling lives in their own homes. Failing to investigate their experiences along with the experiences of the skilled and compassionate workforce that supports them would be a grave oversight, undermining the very purpose of this Inquiry.
+
+By expanding the scope of Module 6 beyond residential care homes and a limited view of home care, the Inquiry can avoid perpetuating the same misunderstandings and oversights that hindered the pandemic response and instead put forward well informed recommendations to improve policy, practice and preparedness for the future.
+
+In summing up, the social care sector showed incredible dedication, composition and resilience throughout the pandemic. We have, though, also faced enormous challenges, heartbreaking losses and a persistent lack of recognition and support. Policymakers neglected social care before the pandemic, during the pandemic and after the pandemic. We trust the Inquiry to give voice to our experiences, to scrutinise the systemic issues that affected the pandemic response, and to pave the way for meaningful change that ensures the sector and those it supports will never be left behind or forgotten again.
+
+We are committed to working closely with the Inquiry team, providing the evidence, insights and expertise necessary to paint a comprehensive and nuanced picture of social care. Together we have an opportunity to honour the sacrifices made, to learn from the hardships endured, and to build a stronger, fairer and more resilient social care system for the future, one that truly values and supports the millions of people who depend on it and the dedicated workforce that makes it possible.
+
+Those are our opening submissions, my Lady.
+
+**Lady Hallett**: Thank you very much, Dr Townson.
+
+Next I think it's Ms Morgan.
+
+Submissions on Behalf of John's Campaign, the Patients Association and Care Rights UK by Ms Morgan
+--------------------------------------------------------------------------------------------------
+
+**Ms Morgan**: Good afternoon, my Lady.
+
+I appear on behalf of John's Campaign, the Patients Association and Care Rights UK.
+
+Each of these organisations has expertise in the individual experience of social care during the pandemic. They are representative of individuals who were and continue to be deeply affected by Covid-19 and the response to it. They include social care users in a variety of settings and people providing care, including unpaid carers.
+
+These submissions will first highlight some of our core participants' key areas of concern for this module, outline proposals for key groups to focus on for research and Rule 9 evidence, and mention some key issues relating to expert evidence.
+
+We continue it to rely in full on the detail in our written submissions for this hearing.
+
+In our written submissions we have identified several key areas of concern relevant to this module. I will highlight seven of these today.
+
+First, the Inquiry has suggested that it does not intend to consider settings beyond residential care homes or care provided in domestic homes.
+
+Our core participant group urge the Inquiry to also consider supported or assisted living settings.
+
+Those in supported living settings are an important cross-section of people in care for three reasons. People in these settings are particularly vulnerable; a Mencap report found that 78% of people living in specialist supported housing are people who have learning disabilities and/or autism as their primary support need.
+
+The needs of and particular obstacles faced by those receiving and providing care in supported living facilities are different to other care settings and are equally worthy of investigation.
+
+People in these settings were treated differently to people in care homes and those receiving domiciliary care in many aspects. For example, the UK Government produced distinct guidance for supported living facilities.
+
+We agree with the National Care Forum submissions that through the pandemic there was little consideration of the breadth and diversity of care and support settings and services, and we wish to emphasise that the needs of those receiving care are also broad and diverse.
+
+Our core participant group are keen to stress how important it is that the Inquiry focus on people, rather than institutions.
+
+Our second key area of concern is consideration of whether legislative duties were overlooked. The evidence available so far, particularly as considered in Module 2B, indicates that those in care were valued less than others, their lives were considered to be worth less than those of other people. This is an issue of serious public concern which should be examined.
+
+The evidence indicates that duties in the Equality Act 2010, whether the equality duty in section 149 or the reasonable adjustment duty or otherwise, were ignored.
+
+Similarly, there is considerable evidence that the human rights and autonomy of those needing care were abandoned. The need to seek consent was often ignored, whether in making decisions about DNACPRs or deprivation of liberty. Duties in the Medical Capacity Act and deprivation of liberty safeguards were overlooked.
+
+Other related concerns including the increased use of sedation and antipsychotic drugs to manage distressed behaviour and a deterioration in quality of care without consent, use of restraint and enforced isolation without consent, the disregard of the legal responsibilities of people with guardianship duties or powers of attorney, and blanket approaches to restrictions on access to family and friends, who often provide essential care, without taking into account the harm that this may cause.
+
+An important more general issue of principle is that while it may be easy to dispense with these duties at a time of crisis, they are even more important then than in normal times, particularly when oversight and regulation is reduced, and they should be fiercely protected.
+
+Third, a particularly stark example of poor decision-making relevant to this module is the impact of discharge from hospitals into care homes. This particularly concerns the policy in March and April 2020 to discharge patients from hospital into care homes without comprehensive prior testing. Our core participant group in particular invite the Inquiry to consider the number of Covid-19 cases or deaths that this policy caused, and the impact in terms of how it affected future decision-making.
+
+We have detailed in our written submissions why, particularly in light of the evidence in Module 2B, it is necessary to instruct an independent expert on these matters.
+
+Fourth, our core participant group are concerned about regulation and oversight, or the lack thereof, during the pandemic. It appears that regulatory functions were suspended at the outset.
+
+For example, on March 16, 2020, the CQC announced that it would be ceasing its routine inspections of care homes. The CQC observed a sharp fall in notifications by providers about the outcomes of applications to deprive a person of their liberty. The Local Government and Social Care Ombudsman, in their words, suspended "all casework activity that demands information from or action by local authorities and care providers in light of the coronavirus outbreak". That was during -- from 26 March to 29 June 2020. The same was true of a number of other regulators and complaints mechanisms relating to those needing care.
+
+This was not appropriate at a time when regulators and complaints mechanisms were needed most, particularly as loved ones were also shut out and unable to observe the care being provided.
+
+There is considerable evidence of a substantial increase in the abuse of vulnerable people in need of care during the pandemic, which proper oversight was in place to prevent, and these matters ought to be investigated.
+
+Fifth, our core participant group ask the Inquiry to consider the indirect harm caused by NPIs to people living in care homes and supported living facilities, particularly the management of outbreaks, restrictions on visits and movement. In many ways, indirect harm was considerably worse than the harm caused by Covid-19. Indirect harm includes the huge number of excess deaths from causes other than Covid-19 during the first wave of the pandemic, the number of additional physical and mental illnesses, the ninefold increase in people waiting for medical treatment, including for serious conditions such as cancer, the severe deteriorations in physical or mental health, the number of people who died alone and the ongoing distress and trauma this caused to bereaved loved ones.
+
+Crucially, a death caused by dementia was just as important as a death caused by Covid-19. There was widespread failure to measure indirect harms, for example to obtain data on what indirect harm would be caused by a particular restriction, to understand and take into account indirect harms, to make decisions by balancing the benefit of a particular measure in terms of the Covid-19 harm it would prevent against the indirect harm it would cause, and to achieve an appropriate balance between protecting people from the harm of Covid-19 and protecting wider health and wellbeing.
+
+We welcome, as have Covid Bereaved Families for Justice UK, the inclusion of visits from loved ones in the provisional outline of scope for Module 6. However, we agree that the Inquiry should consider this as a distinct issue and not only as an aspect of infection prevention and control.
+
+The sixth area of concern I wish to highlight today is the recording of deaths in care homes during the early part of the pandemic, and the need to investigate whether Covid-19 was under-reported. This is important because it may have affected the pandemic response in care homes.
+
+Finally, we consider it important for this module to take into account unpaid carers across the range of settings in which they provide care. That is because unpaid carers are an invaluable group. In England and Wales they contribute £162 billion to the economy every year, meaning that the value of unpaid care provision is broadly equivalent to the annual budget of the NHS itself, which received £164 billion in funding in 2020 to 2021.
+
+There were specific obstacles faced by unpaid carers, including: not being recognised as carers in the same way as a paid carer, a significant increase in caring responsibilities during the pandemic, where the person they cared for lived in the community; and restrictions preventing them from carrying out their caring responsibilities where the person they cared for lived in a care setting.
+
+Those obstacles are important, far-reaching and should not be overlooked by this module.
+
+As set out in our written submissions, we refer to several potential audience groups. We put these forward as proposed populations for targeted research and for the Inquiry to take into account when considering organisations and witnesses which to issue Rule 9 requests.
+
+We consider that those living with dementia, including Alzheimer's, should be a key group for the Inquiry's consideration. This is because dementia is the leading cause of death in the UK. Around 1 million people live with it. Dementia and Alzheimer's remained the leading cause of death in the UK in care homes throughout the pandemic, higher than Covid-19.
+
+People living with dementia suffered particularly badly from indirect harms arising from the restrictions. People living with dementia often depend very heavily on essential and family carers for their physical and mental wellbeing. During the pandemic, they were, in many cases, separated from that critical source of care by the NPIs. This caused very serious harm.
+
+For example, the Alzheimer's Society report concluded that lockdown isolation caused shocking levels of decline for people with dementia. Person-centred care is the only treatment known to improve dementia and by removing family or family carers, this form of treatment was denied.
+
+An equality impact assessment on 27 August 2020 identified, in respect of those with dementia, a worsening functional independence and cognitive symptoms during the first month of lockdown in 31% of people surveyed, exasperated agitation, apathy and depression in 54% of those surveyed, and a deterioration of health status in 40%.
+
+There are particular issues as to the response to the pandemic in care homes which concerned people living with dementia. An obvious example is how to balance the need to limit the spread of Covid with the need for a person with dementia to have sustained contact with their essential carer. Too often, family members were treated as visitors rather than an essential part of the care team. These issues are also relevant to people with similar cognitive impairments.
+
+Another focus group that our core participant group recommend is people with highly complex disabilities, for example severe global developmental delay and profound and multiple learning difficulties. This may cover a range of disabilities, and often involves people living with a combination of different conditions. It's important for the Inquiry to consider the most vulnerable people in need of care, who are most dependent on their closest and most familiar carers. This group was particularly badly affected by the restrictions on visiting and their separation from family members and essential caregivers.
+
+In relation to expert evidence, our core participant group welcome and endorse the proposed topics for expert evidence identified by the Inquiry. We have also suggested some additional topics in our written submissions which broadly track some of the themes I have highlighted today. For example, it is necessary to obtain expert evidence on the indirect harms of the pandemic as this appears not to have been done at the time.
+
+One particular topic I'd like to highlight is employment arrangements and staffing in care homes. Staffing arrangements is an important issue that had a huge impact on the safe and proper operation of care homes during the pandemic. In particular, that includes low wages, zero-hours contracts, the lack of statutory sick pay, staff shortages and agency workers being used across multiple settings.
+
+All of these issues are relevant to the ability of care homes to properly protect people living in them and made it difficult for care staff to isolate where necessary.
+
+Also relevant to this is the impact of care home insurance and high premiums on the decisions made by care homes relating to restrictions. In contrast to hospitals, which were given an indemnity against liability for infection transmitted on their premises, care homes were faced with the additional concern about employer/employee liability which made it even more difficult for them to facilitate family member or essential carer visits. As care home insurance is only provided by a limited number of companies, providers had very little option.
+
+As the Inquiry will have seen, our core participant group have made various suggestions in our written submissions about potential experts to assist with this module. This includes experts in the care sector, experts in specific conditions such as dementia and expert consultants.
+
+The proposed individuals are all experts with strong reputations in their fields and with relevant expertise that is likely to be hugely beneficial to the Inquiry for this module.
+
+In conclusion, our core participant group are grateful for the continued opportunity to participate in the Inquiry. They wish to emphasise the importance of considering the individual needs of the people they represent, who were too often treated as a homogeneous group to which blanket policies could be easily applied.
+
+Unless there is anything else you would like me to address, my Lady, those are my submissions.
+
+**Lady Hallett**: Thank you very much, Ms Morgan, for your help.
+
+I think it's time to break now. I shall return at 2 o'clock.
+
+*(1.00 pm)*
+
+*(The short adjournment)*
+
+*(2.00 pm)*
+
+**Lady Hallett**: Is it Mr Marquis? Marquis. I'm sorry, Mr Marquis. I bet it was Marquis once.
+
+Submissions on Behalf of Frontline Migrant Health Workers Group by Mr Marquis
+-----------------------------------------------------------------------------
+
+**Mr Marquis**: It was once.
+
+Thank you very much, my Lady. Along with Katharine Newton KC, I represent the Frontline Migrant Health Workers Group, we are instructed by the Public Interest Law Centre.
+
+I propose to summarise our written submissions, to give an overview of the group's work in the care sector and then make some submissions on scope that follow on from their experience.
+
+First of all, the group would like to thank the Inquiry for including them in this module, but also for the particular inclusion of home care within the module's scope.
+
+The group is a collective of two trade unions, the United Voices of the World and the Independent Workers Union of Great Britain, and a community consortium, Kanlungan. Kanlungan is a charitable organisation consisting of several Filipino and Southeast Asian community groups. They work for the welfare and interests of migrants, refugees and diaspora communities from South East Asia in the UK. Their members work across the care sector, including nurses, non-clinical staff and home carers.
+
+IWGB and UVW are non-TUC-affiliated trade unions with membership in several sectors, including the social care sector. Their members works as care workers, cleaners and kitchen staff, often in outsourced gig economy positions. Group members are overwhelmingly working class, in low paid and precarious employment.
+
+The majority are women and migrant and/or ethnic minority workers. As such they fall within the protected characteristics of the Equality Act.
+
+However, the group wishes to emphasise at the outset that systemic issues such as outsourced employment are applicable across the working class, regardless of ethnicity and gender.
+
+Most members work outside the NHS and local authority care homes in the privatised care sector. Many work in the informal care sector, in private homes. In the first months of the pandemic, as government tried to free up capacity, hospitals were forced to discharge patients into the care sector. The government's policies ensured that patients were discharged without testing or isolation into care homes that were populated by the clinically vulnerable and staffed by the most disadvantaged of workers.
+
+An underfunded NHS was effectively told to shunt the problem elsewhere. Care workers were placed under immense pressure to meet the needs that the healthcare system could not meet.
+
+Pre-pandemic, 61% of care sector workers were employed by private providers, with just 7% by local authorities and 6% by the NHS. The average public sector pay was around £10 an hour, the average private sector pay was around £8.40, which is below the living wage. There is a heavy reliance on outsourced workers, particularly in the private sector, where a full third of social care jobs were classified as insecure. Home care workers, that figure was 56%, on zero-hours contracts.
+
+Almost a quarter of the national care sector workforce are from ethnic minority backgrounds, rising to 70% in London, and 82% nationally of social care workers are women.
+
+It cannot have come as a surprise to anyone that in May 2020 the ONS were reporting that care workers were among the occupations at the highest risk of death. Historically, the main social determinant of health inequality is income: the poorer you are, the more precarious your employment, the more exposed you are and the more likely you are to die.
+
+Care sector workers are some of the lowest paid workers in the country, even when they have the benefit of an employment contract. Outsourced workers, without the contractual protection needed to demand safer conditions from their employers, were at even greater risk.
+
+Migrant care workers were all the more vulnerable. When immigration status is tied to employment, you cannot refuse unreasonable demands from employers without losing both your job and your home.
+
+Migrant workers who were undocumented had no protection at all.
+
+In care homes, the two major pandemic issues were understaffing and PPE. Understaffing was chronic pre-pandemic, and evidently a lack of sufficient staff leads to unsafe workplaces, and this was inevitably exacerbated when the virus ripped through the care sector.
+
+A key feature of the gig economy is that workers had to work in multiple care homes, filling gaps caused by understaffing and sickness. The very nature of their employment made them vectors of the virus.
+
+The causes of understaffing are multifaceted. Low pay and insecure employment are plainly major considerations. Outsourced workers in the private sector often put pre-Covid understaffing down to profit margins. As one member put it, it's about profit rather than proper care.
+
+Whatever the reasons, an understaffed sector cannot be resilient to a pandemic. The government's post-pandemic response to understaffing was to issue employment-linked visas to 70,000 overseas workers in 2023, in effect outsourcing the problem internationally and subsidising the cost of care in the UK through low wages.
+
+This doesn't address the problem and, in the context of the government's hostile environment policies, it creates precisely the subclass of worker that group members have reported. And some examples: migrant workers being disproportionately allocated to higher risk environments, unable to object because of their immigration status being dependent on --
+
+**Lady Hallett**: I'm sorry to interrupt, Mr Marquis, but I've got to be really careful in what I'm addressing. I have terms of reference -- I cannot change the whole of society. My terms of reference relate to the pandemic and the response -- the preparedness for, which we've done in Module 1 to a large extent, and response to. I'm afraid you are, I'm afraid, trespassing on areas where I cannot go. The other area I cannot go are party politics. So if you could please just focus on the issues that I'm addressing this module, I would be extremely grateful.
+
+**Mr Marquis**: My Lady, these workers that I'm just referring to were disproportionately allocated to higher risk environments, and there --
+
+**Lady Hallett**: That I understand, but if you could make sure it is related to the care sector and the pandemic. Some of your remarks sounded a bit more general. Maybe I misunderstood, I'm sorry if I did.
+
+**Mr Marquis**: I'm trying to set the scene, my Lady. But I'll continue and I'll endeavour to stay as close to the scope as possible.
+
+Workers in the care sector who had "no recourse to public funds" conditions applied to their visas found themselves destitute in the event of sickness and fearful of seeking medical treatment, including testing and vaccination, due to the risk of medical charges and immigration consequences.
+
+Sick workers with work-dependent immigration statuses were often pressured to return to work in order to cover staff shortages.
+
+On PPE, group members report a total lack of PPE in care homes at the outset of the pandemic, leaving them unprotected when hospital patients were discharged into their care. A single example: at a nursing home in North London, UVW workers took to making their own masks by laminating pieces of plastic and fixing them around their heads with elastic sourced from their leggings. When employed staff were provided with PPE, outsourced staff were often forced to work without the same protection. When PPE was provided, it was frequently in the face of employer intransigence, often of a lower standard, ill fitting and provided without guidance on use.
+
+There are frequent examples, which I've put within our written submissions, of care staff raising concerns about mismanagement that in part came about as a result of infrastructure issues and in part came about as a result of accountability issues.
+
+We also have examples of outsourced workers reporting employers refusing to pay sick pay. The inadequacy of statutory sick pay led to sick workers facing destitution or, in some cases, facing no option but to continue to work even whilst they were ill.
+
+Home care workers make up a large cohort of Kanlungan's members. Many have employment-dependent immigration status. A large proportion have irregular immigration status and are informally employed without contracts. Their roles often involve giving complex care to vulnerable people.
+
+During the pandemic, home care workers were overexposed through a lack of PPE but also through an expectation to continue working and to continue caring when either they or their employers were infected with the virus.
+
+These workers were invisible to national statistics and so did not inform the significantly higher infection and subsequently mortality rates in ethnic minority communities. They faced the same issues as their outsourced and documented colleagues, but with the additional burden of the immigration policies that I was referring to earlier.
+
+Some examples, because they are important, my Lady: the wages of the outsourced staff were significantly lower than that I've referred to -- of the undocumented staff, sorry, than that I've referred to previously; the effectively undocumented workers working in "no work and no pay" positions; transient and crowded housing, making it all the more difficult stay safe from the virus.
+
+The group's members experienced the strain, grief and fear of their colleagues and patients. They cared for residents who should have been in hospital, and they were with them, of course, when they died. They did so whilst exposed and unprotected themselves, taking the virus back home to their own families when they finished work, and they did that on a wage that cannot be lived on, in work that is wrongly considered to be menial.
+
+In the words of one member, "I don't need claps, I need proper PPE and dignified pay."
+
+So, my Lady, in terms of the scope, we appreciate that the scope is provisional and dependent on the Rule 9 requests. We ask when making those requests that the Inquiry consider the experience of the group's membership and ensure that that informs the subsequent list of issues.
+
+We endorse what many others have said this morning on the pre-pandemic period in respect of understaffing. This aspect of the pre-pandemic state of social care is fundamental to understanding the impact on the sector. Understaffing, pay, conditions and underfunding are historic problems and the analysis has to be able to explore that history.
+
+The point 2 analysis must look at pay and conditions and the percentage of workers in precarious employment across the whole sector and as a comparison between the public and private sectors, and should, we say, look at the rationale for placing key workers such as these in these positions of precarious employment.
+
+The structural analysis should examine the percentage of staff from migrant backgrounds with visas linked to their employment, and in respect of the home care sector, an analysis of the extent to which that is regulated and, where possible, estimates of the contribution of undocumented workers to the sector over the pandemic period.
+
+Finally, my Lady, point 3, the scope's point 3. We say that this analysis must include the consideration given to the impact on staff and the particular need to protect them, given that they were in the most deprived quintiles of the working population. That evaluation should extend to specific categories of staff who were all the more vulnerable due to precarious employment and their immigration statuses. Bearing in mind the proportion of care staff from ethnic minority backgrounds, the analysis must include the consideration of staff who had been made vulnerable by hostile environment policies.
+
+Lastly, on points 4 and 8, when expert evidence is sought in respect of infection control, we ask for it to include two things: first, evidence on the surface transmission time of the virus and the impact of that on the cleaning staff, given that they were the first line of infection control and the last in line for PPE; and, secondly, an analysis of the failure of PPE supply chains and an exploration as to why PPE was not available for care sector staff.
+
+So those, my Lady, are our preliminary submissions.
+
+**Lady Hallett**: Thank you very much, Mr Marquis, and I'm sorry for interrupting you, I may have misunderstood you, as I said.
+
+Thank you.
+
+Right, Mr Payter.
+
+Submissions on Behalf of National Association of Care and Support Workers by Mr Payter
+--------------------------------------------------------------------------------------
+
+**Mr Payter**: My Lady, I represent the National Association of Care and Support Workers, or NACAS for short. I'm here today with Paul Featherstone, who is NACAS's founder and sits to my right.
+
+This is the first module in which NACAS has sought to participate in your Inquiry as a core participant. With that in mind, and for the unfamiliar, NACAS is an independent professional body that advocates for care and support workers, promotes the recognition and value of their work, and provides its members with support, education and other resources, as it did during the pandemic.
+
+It is the only such organisation dedicated exclusively to care workers. It has an ethnically diverse membership, which consists of those working in the full range of adult social care roles, including within care homes and in home care, and the employed, self-employed and those engaged on zero-hours contracts.
+
+NACAS is proud to be a core participant in this module and is grateful to your Ladyship for giving care workers a distinct voice in Module 6. As a group, care workers are so often underrepresented in public life, and NACAS is committed to contributing to your Ladyship's investigation.
+
+Care workers suffered the devastating impact of the pandemic acutely. The available data suggests that the mortality rates for those employed in social care were among if not the highest by occupation in the United Kingdom. That death rate was contributed to by a number of factors that make care workers generally more vulnerable, including their socioeconomic status, immigration status, gender and race. Indeed, as compared to the general population, care workers are disproportionately from a black and minority ethnic background and the vast majority are women.
+
+As the pandemic took hold, the conditions in which care workers worked, often to the point of exhaustion, to deliver vital services, deteriorated from what was already a parlous state. With little or no training, care workers were required to adapt their heavy and emotionally challenging workloads to respond to those for whom they cared who may or were suffering from the virus.
+
+They often did so with no or limited access to PPE or testing, inadequate and ever-changing guidance on infection prevention and control, difficulties in evidencing their key worker status, and without access to sick pay. That work also involved implementing what were heartbreaking do not resuscitate instructions and limitations on family visits. Such was the commitment to those for whom they cared, some carers took the extraordinary step of separating themselves from their own families and moving into their places of work.
+
+My Lady, considering the essential and difficult nature of their role, as recognised by so many of us as we clapped on our doorsteps, it is striking that care workers are not only overburdened in their tasks but some of the most poorly paid in society.
+
+The low value put on care work, at least by reference to its apparent financial worth, is important we say to this Inquiry, because the available research suggests it contributed to, for example, understaffing and the need for carers to hold multiple jobs in different places, which in turn contributed to the response of the sector to the pandemic.
+
+We are confident the Inquiry will investigate all of the issues relevant to the impact of the pandemic on care workers, including what we think may prove to be uneven impacts depending on factors such as employment status.
+
+My Lady, our written submissions focused on the proposed scope of Module 6 and we adopt those submissions and indeed the submissions of the core participants that have gone before us.
+
+From a care workers' perspective we would encourage your Ladyship to consider the pre-pandemic state of adult social care in a number of areas because, in NACAS's experience, and as the available research suggests, the dire state of many of the systems underpinning the adult social care sector had a significant bearing on the response of that sector to the pandemic.
+
+We think such consideration will be of critical importance to your Ladyship's recommendations to strengthen the response of the sector to a future pandemic and, simply put, the position of the sector the day before the pandemic struck cannot be disentangled from what happened on the day when it began.
+
+Many of the points have already been made by others before me, but may I just highlight five key points affecting care workers that we would invite the Inquiry to explore.
+
+The first is structure and whether the structure of the adult social care sector affected the response. This includes whether sporadic funding arrangements impacted on strategic planning and robustness of the sector, including capacity. It also includes whether different business models, including publicly funded, small-scale, large-scale, private funding and highly financialised care home providers led to variable investment in staff and infrastructure, and whether that had an impact, and we adopt the submission made by the Covid-19 Bereaved Families for Justice about spotlighting different settings. We suggest that could include private and public settings. There is evidence to suggest that where there is better investment, that may have led to better outcomes during the pandemic.
+
+It also includes consideration of whether the fragmented nature of services had an impact, particularly in England and Wales where health and social care sectors are not integrated as they are in Scotland and Northern Ireland.
+
+The second point is systemic issues affecting care workers, some of which I have touched upon and which may have contributed to the pandemic response, including pay, working conditions, workloads, the insecurity of employment, the lack of training, low staff retention, high turnover rates, the absence of profession regulation and the low status attributed by some to the work of caring.
+
+The third point is the position of care workers in relation to policies and guidance and whether their position was given adequate and timely consideration when policies such as the one to discharge untested patients from hospitals into care settings and guidance such as in relation to testing and infection prevention and control, whether the position of care workers was considered when they were being developed, communicated and implemented.
+
+That includes consideration of whether any such consideration and the resultant policies and guidance took into account the diverse range of roles fulfilled by care workers, including the position of the employed and self-employed, the latter of whom were less able to access PPE, testing and financial support.
+
+It also includes consideration of whether those determining policy and guidance took into account the complexity of the sector, including its infrastructure and the ability of smaller organisations to implement ever-evolving requirements.
+
+The fourth point is the support that was available to care workers of all statuses and whether it was adequate, bearing in mind the obvious risks of transmission to those for whom they cared.
+
+The fifth point, and I'm grateful for the indication from your counsel this morning on this topic, whether appropriate consideration was given to the impact on care workers of the mandatory nature of vaccination requirements and what alternative approaches might work in a future pandemic.
+
+My Lady, as to experts, we think the Inquiry may benefit from expert evidence on a number of the issues we have identified. We adopt what has been said before. We would be grateful, as others have suggested, to be told who the Inquiry proposes to instruct so we may contribute to that discussion.
+
+Disclosure, finally, my Lady. Like other CPs, we invite disclosure as early as possible to assist us to prepare. As a new core participant in your Ladyship's Inquiry, we have asked your team to assist us with what evidence from other earlier modules, including oral evidence, we should be familiar with. We note a number of CPs have cited such evidence in their submissions to you today. We are grateful for the indication from your team about it. We would be grateful to have that as soon as possible so we can get up to speed as soon as possible.
+
+Thank you very much.
+
+**Lady Hallett**: Thank you very much, Mr Payter, very grateful.
+
+Ms Morris.
+
+Submissions on Behalf of the Royal College of Nursing by Ms Fenella Morris KC
+-----------------------------------------------------------------------------
+
+**Ms Morris**: My Lady, on behalf of the Royal College of Nursing, may I make first some submissions on the issue of scope which are intended to be focused.
+
+We submit that the issue of what aspects of the social care sector require to be considered by the Inquiry are essential, require to be addressed at this stage.
+
+The College submits that the question "What was the impact on the social care sector?" can only be addressed in the light of the characteristics of the sector at the time. So, to adopt and build on the submissions of Mr Friedman KC that the system buckled when the crisis began, we say that the appropriate analogy is perhaps of a hammer hitting a wall. A weak structure, which we say was the case with the social care sector at the beginning of the pandemic, will buckle, but a robust one will not.
+
+In that case, what characteristics of the social care sector made it weak so that it buckled under the impact of the pandemic and require further investigation by the Inquiry?
+
+First of all, we echo the submissions of many of the core participants that it was a lack of adequate staffing.
+
+Secondly, another key characteristic was the poor relation status of the social care sector as against the healthcare, and we say that affected outcomes in a number of critical domains.
+
+First of all, there was a lack of access to adequate equipment such as PPE and testing, and, secondly, the decision to move patients from hospitals to social care without due regard for the effects of that. Thus, we say what requires to be investigated is that lack of adequate staffing, lack of adequate equipment, and the inflexion of the decision-making process.
+
+Staying with the issue of staffing, almost 7% of nursing posts in the social care sector were unfilled at the start of the pandemic. Of those who were working, their ability to work was affected by their own Covid infection and a need to shield. That meant that pressures on those working were intensified, ultimately leading to moral distress and sometimes psychological injury. In consequence, there are ongoing shortages in nursing provision, particularly in the social care sector, and that is increasing that sector's vulnerability to a future pandemic.
+
+One solution which this Inquiry is invited to consider by the College is that there is legislation in this country that imposes accountability on central government for workforce planning and supply as a key recommendation of the Inquiry, and we submit that that should form part of Module 6.
+
+Thirdly, since infection was so poorly controlled in social care settings, the Royal College of Nursing reminds the Inquiry of its request in the preliminary hearing for Module 3 that the Inquiry seek from all the relevant bodies a full suite of infection prevention and control guidance for the period, a chronology of when it was issued, by whom, and how it was disseminated. Because that, the College submits, is a further key aspect of how, as it's been put today, Covid ripped through the social care sector.
+
+Finally, and in addition to its written submissions, having heard the submissions of Mr Friedman KC, the College also adopts his submission that Rule 9 questionnaires include the question: what would you recommend for future pandemic planning? And that witnesses attend prepared to answer that key question, given the vital purpose of the Inquiry.
+
+That concludes my submissions.
+
+**Lady Hallett**: Thank you very much, Ms Morris.
+
+Mr Jacobs.
+
+Submissions on Behalf of the Trades Union Congress by Mr Jacobs
+---------------------------------------------------------------
+
+**Mr Jacobs**: Good afternoon, my Lady. These are the submissions of the Trades Union Congress.
+
+The TUC brings together over 5 million working people who make up its 48 member unions. Those affiliated unions with a particular interest in Module 6 include Unison, GMB and Unite, each of which represent a substantial number of those who work in the sector.
+
+The experiences of those who work in the sector and the experiences of those who rely on residential or domiciliary care are, my Lady, two sides of the same coin. One depends on the other, and in that sense the TUC has an interest in the array of issues to be considered in this module.
+
+But of course it is the experiences of those who work in the sector upon which the TUC's input will be particularly focused.
+
+The challenges faced by those working in the sector were obviously significant and some of the fault lines have already been canvassed in Modules 1 and 2 and in submissions of others before you today, which I will not repeat.
+
+We were grateful to hear Counsel to the Inquiry in opening to note the 1.5 million who work in the sector in England alone and some of the characteristics of the workforce.
+
+These summary submissions will focus, my Lady, on one point. It is the extent to which this module will need to consider, in the discharge of your terms of reference, some of the structural challenges facing the sector which pre-existed the pandemic.
+
+My Lady, perhaps something of a theme in some of the submissions before you today.
+
+Counsel to the Inquiry in their written note, and again in submissions today, describe that it is not part of the Inquiry's terms of reference to consider the state of adult social care systems in the United Kingdom prior to the pandemic, save where necessary to understand how the pandemic impacted on adult social care.
+
+As a matter of principle, that is no doubt correct, but it begs an important question: to what extent is it necessary in order to understand how the pandemic impacted on adult social care to consider the state of adult social care systems prior to the pandemic?
+
+The TUC says that the inescapable reality, however messy and difficult it may be, is that the impact of the pandemic is a function of the state of the adult social care system going into it.
+
+The extraordinary challenges of the pandemic met with the challenges of a chronically underfunded and fragmented social care sector, delivered by many thousands of local authority and private care providers with little central strategic direction, oversight and data, served by an understaffed, underpaid and undervalued workforce, many in insecure work.
+
+In an echo, I think, of an observation made by Ms Campbell on behalf of the Northern Ireland Covid Bereaved this morning, these matters will be relevant not only to understanding the impact of the pandemic, but also to the making of meaningful recommendations. That is because, my Lady, change cannot be achieved in a vacuum from the structural challenges.
+
+Your Counsel to the Inquiry addressed this issue this morning and said this:
+
+"... [that] it may be that the pandemic threw a harsh and painful light on issues such as pre-pandemic underfunding and the undervaluing of the adult social care sector, but Module 6 is focused on the impact of the pandemic, not on those wide-reaching and historic concerns and problems, and so, in [Counsel to the Inquiry's] submission, it is not, therefore, within Module 6's remit or scope to seek to fix or address those long-standing issues ..."
+
+My Lady, that was a submission made, entirely properly, of course, in recognition of the need to adhere carefully to your terms of reference, but, respectfully, we say that it is mistaken. The place to which it may inadvertently lead is that it is not the function of this Inquiry to fix the roof but to focus on where best to place the buckets that catch the dropping water. That, my Lady, would be a mistake.
+
+At the very least, we urge this module to gather the evidence and for you, my Lady, to proceed with an open mind. The conclusion of a full and fearless Inquiry might ultimately be that the roof needs to be fixed. That a problem is historic does not mean that it is not relevant to pandemic response, and it may mean that a recommendation addressing it is desperately needed.
+
+You cannot, my Lady, as you observed just a few moments ago, fix all of society, but we do invite the funnel of your investigations to start broadly and not to cast some of the broader structural issues to one side for fear of them being too broad or having a political hue. They may prove to be centrally relevant.
+
+In a related point, it was observed by Counsel to the Inquiry that this module does not intend to repeat Module 1, clearly it should not, but Module 1 considered resilience and preparedness up to the start of the pandemic, including in the social care sector. That leads to what is perhaps the most important and relevant of questions: how did those features of resilience and preparedness play out during the pandemic? In that sense, Module 1 must be a platform for this module, Module 1 need not be repeated but its evidence and findings should be of core relevance, and we hope that that is what is envisaged.
+
+My Lady, the structural challenges to which we invite your focus are set out in more detail at paragraphs 9(a) to 9(j) of our written submission. I do not repeat the detail of those matters here, but we invite careful consideration of them.
+
+In our written submissions, we do also make observations in respect of expert evidence, Every Story Matters, and the important role of the evidence of frontline staff to this module, but on those matters we stand behind our written submissions and do not repeat them here.
+
+My Lady, unless I can assist further.
+
+**Lady Hallett**: No, thank you very much, Mr Jacobs.
+
+Ms Curtain, I think you complete the submissions.
+
+Submissions on Behalf of the Welsh Government by Ms Curtain
+-----------------------------------------------------------
+
+**Lady Hallett**: Have you got a green light?
+
+*(Pause)*
+
+**Ms Curtain**: It's on, thank you.
+
+**Lady Hallett**: Got you.
+
+**Ms Curtain**: My Lady, prynhawn da, good afternoon, Hannah Curtain on behalf of the Welsh Government.
+
+The Welsh Government is grateful for the opportunity to participate in Module 6 and grateful for the opportunity to make these brief oral submissions. As in all other modules, the Welsh Government offers its full co-operation and support for your Inquiry's work in examining the impact of the pandemic on the adult social care sector in Wales.
+
+My Lady, the Welsh Government recognises that Module 6 will require the investigation of difficult questions. Service users of the care sector include some of the most vulnerable individuals in society and the Welsh Government recognises the particular suffering and loss that was experienced by those individuals and by their loved ones during the pandemic.
+
+The Welsh Government would restate its deep sympathy to those who lost loved ones or who otherwise suffered during the pandemic.
+
+Similarly, the care sector was supported during the pandemic by the individuals who worked tirelessly and with great courage and dedication to continue to provide care to those who needed it, and that includes those individuals who were employed in the sector and unpaid carers and volunteers.
+
+The Welsh Government would restate its profound gratitude to those individuals for their committed service and for the many personal sacrifices that were required to continue to work under that exceptional strain.
+
+It is entirely right that Module 6 should examine both the experience of those individuals and the broad range of decisions that were taken by the Welsh Government and by others in relation to the management of the pandemic in the care sector.
+
+The Welsh Government would emphasise that it fully recognises the importance of that scrutiny and, indeed, it welcomes that scrutiny, which will enable lessons to be learned for the future.
+
+The Welsh Government is committed to providing every assistance that it can to the Inquiry to allow for that investigation to take place.
+
+My Lady, diolch, thank you.
+
+**Lady Hallett**: Thank you, Ms Curtain.
+
+Anything by way of response?
+
+**Ms Carey**: Only this, my Lady: whether it's a leaky roof or a structurally weak wall, the scale of the Module 6 task, listening to today's submissions, is unenviable, and I know that you will want to consider the eloquent and thoughtful submissions you heard with real care.
+
+All raise important matters and provide you with much to think about, but that must be balanced as against the very real need to focus on the key issues and the key recommendations and the competing demands not just within Module 6 but across the Inquiry as a whole, and so I have no doubt that you will in due course issue a determination to the core participants once you have had a chance to think about all that's been said today and written.
+
+**Lady Hallett**: Thank you very much, Ms Carey. I think no more construction analogies.
+
+**Ms Carey**: No.
+
+**Lady Hallett**: Thank you all very much indeed.
+
+I want to repeat my thanks: the submissions today have been very constructive and instructive and, as
+
+Ms Carey says, I shall consider them all with great
+
+care.
+
+I should also like to commend the entire team for
+
+their timekeeping. I think you are the first module
+
+list of participants who have managed to come in under
+
+time rather than over time.
+
+So thank you all very much for being so efficient
+
+and focused and, as I say, as Ms Carey says, I shall
+
+issue a determination once I've had a chance to consider
+
+all the matters that you've raised.
+
+Thank you very much. I think the next substantive
+
+hearing is Belfast on April 30, but I think I may have
+
+another preliminary hearing before then.
+
+Thank you all.
+
+*(2.40 pm)*
+
+*(The hearing concluded)*
+
