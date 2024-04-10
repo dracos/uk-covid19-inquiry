@@ -1,0 +1,1207 @@
+Transcript of Module 3 Preliminary Hearing, on 10 April 2024
+============================================================
+
+*(10.29 am)*
+
+**Lady Hallett**: We'll wait until on the dot of 10.30.
+
+*(Pause)*
+
+**Lady Hallett**: It may not be on the dot, but good morning, everybody.
+
+This is the third preliminary hearing into Module 3, an investigation of the impact on the healthcare systems during the pandemic, and we have a huge amount to get through, so I shall say no more and ask Ms Jacqueline Carey King's Counsel, who is Lead Counsel to the Inquiry for this module as well as for the care module, to outline the issues that I have to consider today.
+
+Ms Carey.
+
+**Ms Carey**: Thank you, my Lady. Statement by LEAD COUNSEL TO THE INQUIRY for MODULE 3
+
+**Ms Carey**: As you have just made clear, this is the third preliminary hearing in Module 3, and of the 36 core participants in this module, 20 I think are present in the room today at Dorland House and a number of others are attending online.
+
+I know that in advance of today's hearing you've received written submissions from a number of core participants, many of whom I know wish to expand upon but not repeat those submissions orally today.
+
+It is not practical or necessary for me to respond to all of the matters raised, but as we go through the agenda there are various aspects that I will seek to address from Counsel to the Inquiry's perspective.
+
+I think the agenda has been put up on the screens at Dorland House. There are updates in relation to Rule 9s, expert witnesses, disclosure, Every Story Matters, and the timetable for the public hearings in due course.
+
+So may I turn, please, to an update in relation to Rule 9 requests.
+
+As at the start of this month, Module 3 has sent over 190 Rule 9 requests to individuals, organisations and government bodies across the UK, and we have received back 91 signed statements, of which 69 have been disclosed.
+
+The Module 3 solicitor team monthly update note provides details of the recipients of those requests and indeed an overview of the topics which they have been asked about. Recent Rule 9 requests have been sent to the respective health ministers and cabinet secretaries during the relevant period, namely Matt Hancock and Sajid Javid, Robin Swann, Jeane Freeman, Humza Yousaf, Vaughan Gething and Eluned Morgan.
+
+For the avoidance of confusion, it may be helpful for me to clarify that, contrary to the submissions of some of the core participants, these were not late requests but were as a result of a deliberate decision by the Inquiry legal team to await the receipt of the bulk of the corporate statements, some of which have been delayed, and I'll come back to that in a moment, and for some of the witnesses to have been -- given evidence in Modules 2, 2A and 2B.
+
+As you might imagine, my Lady, the Module 3 team has been keen to ensure that all relevant information and evidence was taken into account when drafting focused Rule 9 requests for those individuals, and accordingly, in our submission, it would have been premature and inefficient for those Rule 9s to have been issued sooner.
+
+The deadlines for those Rule 9 statements are mid to late May of this year, so four months before the start of the hearing, and if there are any requests for extensions from those individuals, then those applications will be scrutinised to ensure that their timely onward disclosure to the core participants is not hampered.
+
+Over the course of the Rule 9 process the Inquiry has provided recipients of Rule 9 requests with a deadline by which the draft statements should be submitted. Now, some recipients have asked the Inquiry for an extension by which to file their response and, in appropriate cases, reasonable extensions have been granted. However, since the last preliminary hearing, your Ladyship has considered it necessary to issue what are called section 21 Inquiries Act notices to a number of government department/agencies, to ensure that all matters raised in the Rule 9 requests are properly addressed and that the evidence is provided in time to allow the Inquiry legal team to progress its work.
+
+By way of background, the department and agencies in question received their Rule 9 requests in the spring of 2023, they were issued between March and May of last year, and applications for extensions for deadlines were often granted. However, the Inquiry became increasingly concerned to hear that some delays in receiving evidence was said to have been a result of the work required on other modules, whether preparing statements or preparing for public hearings, even in circumstances when many months had elapsed between the Rule 9 requests being issued by Module 3 and the draft statement or parts thereof being received.
+
+In deciding to issue section 21 notices you were cognisant not only of the demands placed on those departments by other Inquiry modules, and indeed by other public inquiries, but also of the everyday pressures of the respective department's normal work, particularly over the winter, and I know that you took this into account when setting and, where necessary, varying section 21 deadlines.
+
+Those section 21 notices have been issued to four government bodies and departments: UKHSA, Department of Health and Social Care, the Welsh Government Health and Social Services Group, and the Department of Health Northern Ireland.
+
+All deadlines have been met. In some instances the statements provided do not adequately address all matters set out in the Rule 9 request or indeed in the section 21 notice. That has been the case with a question to the Welsh Chief Medical Officer, some questions in one part of the Department of Health's response, some questions in the revised draft corporate statement by the Welsh Government, and some questions in the Department of Health Northern Ireland corporate statement. So consequently, further Rule 9 requests and/or varied section 21 notices have been issued with a short deadline for a response to ensure that all topics are fully answered.
+
+In addition to the Rule 9 requests sent by the Module 3 team, the Inquiry is grateful for the suggestions made by core participants as to which additional individuals or bodies should receive a Rule 9 request and/or be sent a supplemental Rule 9 request. These suggestions are actively being considered in particular to ensure that any further requests are proportionate and sufficiently focused on assisting the Inquiry with any future recommendations your Ladyship may make. Where the module already has a body of evidence covering a particular topic or the request does not fall within a key area that is within scope, it is unlikely the Inquiry will consider it necessary to issue a Rule 9 request or a supplemental Rule 9.
+
+Now, my Lady, within the Rule 9 requests there are a number of discrete topics to which I'd like to return. The first is what is known as the "spotlight hospitals". As you may appreciate, one of the challenges for a module of this size is to obtain evidence about the impact of national decision-making upon those operating within the healthcare system, including how hospitals responded, if I can put it like this, "on the ground" to the Covid pandemic; and so in this regard, in December of last year Module 3 sent Rule 9 requests to 22 hospitals across the length and breadth of the UK. The requests focused on examples of the steps taken to respond, how the hospitals responded to the challenges faced, and we sought practical examples of their response.
+
+The focus of the requests was therefore very much from the perspectives of the people working in the hospitals rather than from the perspectives of the patients or their families.
+
+Now, my Lady, whether the use of the phrase "spotlight hospitals" is the correct terminology to describe the evidence-gathering exercise perhaps might be debatable, but the aim of this work is to gather evidence from the hospitals themselves as to how the pandemic affected them and the staff working in them.
+
+While a number of core participants have welcomed the Inquiry's approach to the spotlight evidence, others have expressed concerns about the number of hospitals involved or the methodology behind the selection of the hospitals, and so it might assist this morning if I set out a little more detail about those matters.
+
+The purpose of the spotlights is not to identify hospitals most severely affected by the pandemic, nor is it to conduct an examination nation by nation, region by region, or hospital by hospital. It is not a comparative exercise comparing one hospital's response against another, nor could it be. As was made clear in the update note sent out in January but covering the December work, and in accordance with the Inquiry's terms of reference, it is not the Inquiry's intention to examine or compare the circumstances surrounding the treatment of individual patients or the outcomes of their treatment. The intention of requesting the information from the spotlight hospitals is to assist my Lady in identifying recurring themes and particular issues that arose with respect to the healthcare system's response.
+
+The themes that will emerge inevitably will not be considered as an exhaustive list nor necessarily representative of the experiences in each and every hospital across the UK, but as the evidence comes in it will come to form part of the Inquiry's broader investigation into the operational and healthcare pressures or challenges faced by the healthcare systems across the UK during the relevant period.
+
+The number and location of the spotlight hospitals were chosen so as to gain evidence from across the four nations, taking into account matters including respective populations within each nation, covering some rural and urban areas. And accordingly, two spotlight hospitals were selected from each of Northern Ireland, Scotland and Wales, with the remaining 16 spotlights being selected from England. The number of spotlights is inevitably limited, given that this exercise is but one aspect of Module 3's work and the need to be proportionate, not just within Module 3 but across the Inquiry's work as a whole. In our submission, this would be consistent with your Ladyship's obligations under section 17 of the Inquiries Act, to act with fairness and with regard to the need to avoid unnecessary cost, whether to the public or to the witnesses.
+
+The Inquiry has been asked to send spotlight Rule 9 requests to a hospital in each of the seven healthcare boards in Wales, and the five health and social care trusts in Northern Ireland. I note that were the Inquiry to adopt that approach across the entire UK, it would result in spotlight requests being sent to hospitals in each of the 14 territorial NHS boards in Scotland, and potentially to nearly 230 NHS trusts in England, so a total of 250 hospitals across the UK, in our submission a course of action that would be disproportionate and contrary to your commitment to run this Inquiry efficiently.
+
+My Lady, as you will have appreciated from the written submissions, the Covid-19 Bereaved Families for Justice Cymru raised specific concerns amongst their members about nosocomial infection rates, or hospital-acquired infection, in Wales. They submit that in the absence of a separate Welsh Covid-19 public inquiry, Module 3 should spotlight a hospital in each of the seven boards in order to obtain an accurate and/or reflective picture of what happened in Welsh hospitals.
+
+My Lady, in my submission, this request misunderstands the aim behind this part of the Inquiry's work, which is to provide a UK-wide perspective on recurring themes regarding the healthcare systems, and importantly it is not to investigate particular issues in Wales. The request that this Inquiry reflect sufficiently and broadly the dominant and distinct issues which arose in Wales risks, in our submission, falling into the kind of comparative exercise that is not appropriate.
+
+In relation to hospital-acquired infection rates in Wales, Module 3 has already obtained a large amount of evidence on this issue, including in the statements and exhibits provided by the Welsh CMO, Frank Atherton, Public Health Wales, and the Welsh Government Health and Social Services Group.
+
+Now, my Lady, one of those statements was disclosed in a tranche of disclosure made yesterday. Two of the statements are due for disclosure in the coming tranches to be made, but those statements taken as a whole help to establish how hospital-acquired transmission was identified, understood and addressed in Wales throughout the relevant period.
+
+Now, clearly I appreciate, given that much of this disclosure is to come, it's understandable that the core participants are yet unaware of the evidence that is available and the totality of that evidence. But in addition, the infection prevention and control experts are being asked to summarise and critically analyse official estimates of hospital-acquired infection, in all four nations, as well as the alternative estimates published in the scientific literature.
+
+When selecting the spotlight hospitals, the Inquiry considered a number of different factors, including the questionnaire responses provided by some trusts, health boards and health and social care trusts, and identifying from those responses hospitals which may be able to provide practical information and evidence to the Inquiry.
+
+Module 3 also selected some hospitals where the trust or board did not provide a response to the Inquiry's questionnaire, and we also sought out publicly available information about particular issues arising in hospitals, and the Rule 9 requests were sent to the medical or clinical director or chief medical officer or equivalent at each of the 22 hospitals across the UK.
+
+The requests specifically asked that the statement be provided by an appropriate individual or individuals who were able to provide evidence about events during the relevant period rather than a corporate statement from the senior management team at the trust or the board responsible for that hospital.
+
+The requests themselves sent to each hospital covered the same topic areas and questions. In addition, the Inquiry asked some hospitals about specific issues that were raised either in the questionnaire responses or were revealed in open source research on the hospital in question where those issues might have indicated systemic problems in response to Covid-19.
+
+All 22 hospitals have now responded. The draft statements have had feedback provided on them, and they are now in the process of being finalised ready for disclosure. Initial analysis of the statements suggest that some common themes are emerging, and, my Lady, this is just a small snapshot of some of the evidence, but there are themes emerging such as staff shortages prior to the pandemic and/or shortages -- to workers isolating and becoming ill during the pandemic.
+
+A number have raised relaxation in nursing fixed ratios of care. Other responses reveal the numbers of workers suffering from Long Covid and the varying methods of support offered by hospitals for staff with Long Covid. Issued raised include practical problems with the physical condition of the estate, particularly in older hospital buildings, which presented challenges implementing IPC guidance, for example narrow corridors or poor ventilation.
+
+There is evidence in those statements about variations in approaches to visiting restrictions. Also evidence, particularly from the English spotlights, about the impact of vaccination as a condition of deployment, or VCOD as it's known, not just in terms of ascertaining numbers of workers who were or weren't vaccinated, but also often the damaging effect of the proposal on staff relations and morale. A number of the spotlights speak of the impact on workers from ethnic minority backgrounds.
+
+There were some innovative practices adopted by some of the hospitals. May I just give you one or two examples. There were booking systems for visitors, family liaison officers to aid virtual communications, there were virtual follow-up of antenatal and postnatal Covid-positive women.
+
+There were examples of the lengths to which some of those working in hospitals went to provide care. Just one example, in Altnagelvin in Northern Ireland workers placed little wooden hearts in the pockets of patients who were approaching death as a small connection to their loved ones that could not be with them in hospital. There are some painful accounts of the impact on staff working in hospital, for example in Manchester Royal Infirmary, one of the elderly wards in wave 2 experienced seven patient deaths within 24 hours, whereas outside of the pandemic it was death every one to two weeks.
+
+As I say, they are but just some examples of the evidence obtained by the spotlight hospitals. The hospitals were not asked about any plans they had in place for dealing with the pandemic, this evidence being more appropriately obtained from the respective Department of Healths, but, that said, a number of the spotlights provided evidence of the plans they put in place as the pandemic took hold. And in our submission the totality of this evidence, combined with the Rule 9s sent to the government departments, means it's not necessary to instruct an expert to consider the question of preparedness separately to the consideration of preparedness in the existing reports that the Inquiry already has.
+
+My Lady, some core participants have expressed a concern that the signatory to the spotlight statement might provide a rose-tinted view or that the statement has been written from an unduly corporate perspective. In fact, having reviewed a number of the draft statements myself, overall we do not consider this concern has materialised, and in fact there is now a body of evidence attesting to how the pandemic affected the hospitals and their staff, including those working on the frontline.
+
+My Lady, three of the core participants have submitted that spotlights should be extended to include other services, for example primary care, pharmacies and ambulances. Module 3 has considered this suggestion carefully but considers that the evidence received from the relevant royal colleges, ambulance trusts and other associations and bodies, properly and proportionately examines issues affecting these parts of the healthcare system.
+
+May I turn to a different aspect of the Rule 9 work that is going on, and deal with some research that has recently been commissioned, because, in addition to the spotlights, the Inquiry has commissioned a research survey on escalation of care decisions made by frontline healthcare workers, and the primary issue being considered is how frontline clinicians made decisions about escalation of care during the extreme circumstances of the pandemic, and whether thresholds for escalating a patient's care were altered based on resource availability rather than clinical need. That includes decisions about the assessment of patients in the community and escalating them to hospital and then, once in hospital, escalation to critical care.
+
+The project aims to hear from a wide range of healthcare professionals involved in decisions about escalation of care, including paramedics, 111 call handlers, clinical advisers, GPs, A&E doctors and doctors based on general wards and doctors and nurses based on critical wards. The Inquiry has commissioned IFF Research to conduct this project. IFF Research is a company with significant experience and technical expertise in running large-scale surveys of healthcare professionals, and further information on the project will be provided in the monthly update notes in due course.
+
+The final matter I wish to raise in relation to the Rule 9 update is in relation to impact evidence. Module 3's scope makes clear that it will examine the impact of the pandemic on people's experiences of healthcare during the pandemic, including through illustrative accounts, and so in addition, therefore, to the accounts given by those individuals who have contributed to the Inquiry's listening exercise, Every Story Matters, Module 3 has invited 21 of the core participant groups in Module 3 from across the UK to provide short summary accounts from a specified number of individual members of those groups or individuals supported by those groups during the relevant period about their experience of the healthcare system.
+
+The core participant groups include all of the bereaved family groups, charities, other groups such as the clinically vulnerable, those with Long Covid, professional membership organisations, and it's hoped that in this way a range of experiences during the pandemic will be captured.
+
+The summaries are designed to help the Inquiry identify those witnesses who may be able to speak to systemic issues, including, for example, individuals working on the frontline, such as healthcare workers, cleaners, porters, ambulance staff, paramedics, pharmacists, doctors and nurses. And they will be able to speak to concerns about, for example, PPE and about the sheer physical, mental and emotional toll that the pandemic took.
+
+A small number of these witnesses will be formally asked to provide statements and some of those will be asked to give oral evidence at the public hearing. That will be in addition to other evidence about the impact of the pandemic on individuals, as set out in some of the other statements the Inquiry has received, as well as in Every Story Matters.
+
+My Lady, the Inquiry legal team has started to review the summaries with a view to identifying those individuals who may receive a Rule 9 request. Where a witness is not called to give evidence, we anticipate inviting you to adduce that written statement into evidence by publishing it on the Inquiry website.
+
+It follows from what I have said that, in addition to Every Story Matters, some impact evidence will be called at the public hearing and some statements are likely to be published, but I know that a number of the core participants urge the Inquiry to hear from a larger selection of impact witnesses. My Lady, in our submission, it's not about calling any set or specific number of witnesses but rather about ensuring you hear from a range of individuals who are best placed to convey the impact of the pandemic based on their respective experiences.
+
+My Lady, that's all I wish to say about the Rule 9 update. May I just deviate slightly from the agenda and actually deal with expert witnesses now before going on to disclosure, which might in fact make more sense in relation to a number of the submissions that you are to receive this morning.
+
+The Inquiry has identified eight areas for expert evidence and seven of the reports are progressing well and are on track. I know that some core participants have repeated their request to have sight of the letters of instruction. This remains an unnecessary step, in our submission. Sight of the draft report and the option to comment on the draft report provides ample opportunity for core participants to contribute to the final expert report. I can confirm that the expert reports are all addressing matters affecting the UK and not just looking at the position in the country in which the expert is based.
+
+The first of those reports is a report in relation to Long Covid, and the report of Professor Chris Brightling and Dr Rachael Evans was disclosed yesterday in the tranche of disclosure made. They also, I think you'll recall, prepared a report for Module 2, and that has been disclosed to the Module 3 core participants. Whilst addressing you on the topic of Long Covid, some core participants repeat their request for Module 3 to look at whether Long Covid should be designated as a disability or an occupational disease, and for you to look at the financial support for those diagnosed with Long Covid. My Lady, I know, will not be assisted by repetition, and you have already ruled that this is not a matter falling within the scope of Module 3, so unless any new information is brought to your attention in the course of this preliminary hearing, I would invite you to confirm your earlier ruling.
+
+The second report that has been commissioned is in relation to intensive care. The draft report by Dr Ganesh Suntharalingam and Professor Charlotte Summers has been sent to core participants and I know that they will be working on that and their comments are due by 16 April.
+
+Four non-Covid conditions are being looked at within the scope of Module 3: ischaemic heart disease, colorectal cancer, hip replacements, and in-patient children and young people's mental health services. There are expert reports on all four conditions that have been commissioned. All four reports will examine from a healthcare systems perspective the impact of the pandemic on diagnosis, care and treatment of the respective non-Covid conditions, and the reports are looking at how diagnostic and treatment pathways were maintained during the pandemic, and the outcome of delays to diagnosis and/or care and treatment on patient outcomes.
+
+So taking each in turn, in relation to ischaemic heart disease, Professor Christopher Gale, who is a professor of cardiovascular medicine at the University of Leeds, and his colleague, Dr Ramesh Nadarajah, who is a cardiology speciality registrar, have prepared a draft report and that was shared with core participants earlier this week.
+
+The reports in relation to elective hip replacement surgery and on in-patient children and young people's mental health services, the drafts are due to be received by the Inquiry in May. And in relation to colorectal cancer, Professor Aneel Bhangu and his colleague, Dr Dmitri Nepogodiev, who are based in the University of Birmingham, have been instructed in relation to colorectal cancer, and their draft report is likely to be sent to core participants for their comments in May.
+
+There is an expert report commissioned in relation to primary care and emergency pre-hospital care. Professor Helen Snooks, who is a professor of health services research at Swansea University, and Professor Adrian Edwards, who is a professor of general practice at Cardiff University, have been instructed to provide a draft report examining a number of aspects of healthcare outside of hospitals, and their report will comment on changes to primary care, the way in which it was accessed, including the transition to remote primary care, such as the use of either telephone triage or video calls, oximetry at home, other remote monitoring. They are going to look at emergency pre-hospital care, including changes to 999 and 111 calls, and impact on ambulance services, including response time by category, handover time, outcome, whether related to likely Covid-19 or not. They are going to look at the escalation from community care to hospital care.
+
+They are also going to look at the shielding programme, including how the shielding criteria evolved over time, a summary of relevant published academic research on some of the positive and negative impacts of the shielding programme, and an evaluation of any known qualitative or quantitative differences between England, Wales, Northern Ireland and Scotland in the outcomes of the shielding programme, if that is available.
+
+It is not the Inquiry's present intention to ask the experts to provide their opinion on the impact of Covid-19 on children's experiences of the healthcare system, including clinically vulnerable and clinically extremely vulnerable children.
+
+Now, that draft report is likely to be sent to core participants in May. I know that the John's Campaign core participant group submits that this report should cover healthcare provision in people's homes, care settings, mental health units and other community settings. My Lady, as you are aware, access to healthcare in some care settings is a matter being examined in Module 6. Moreover, as you already made clear in your ruling following the second preliminary hearing in this module, the other settings are not referred to within the scope of Module 3, and in the November monthly update note you confirmed that the impact on mental health services would not be examined in Module 3.
+
+In light of those matters, the Inquiry does not intend to expand the areas that this expert report will cover. May I make it clear, however, that the impact of the pandemic on the mental health of healthcare workers is a matter about which evidence has been and is being gathered, and I hope that that allays any misunderstanding on the part of some core participants that this module is not looking at the harm caused to the mental health of those working in the healthcare sector.
+
+Finally, the final report that is being commissioned by the Inquiry is that in relation to infection prevention and control (IPC).
+
+My Lady, in my note to the core participants last month, I explained that progress in relation to the expert report on IPC is not as Module 3 anticipated or would have wished. In short, of the original five experts identified in September 2023, only two are now available to continue with this work. Those two are Clive Beggs and Hajo Grundmann. Clive Beggs' draft report will shortly be ready to be disclosed to core participants. That report focuses on the mechanism of transmission of Covid-19, the role of ventilation and air cleaning systems in hospitals, and the role of respiratory protective equipment (RPE) in mitigating the transmission of Covid-19.
+
+Although the Inquiry had initially envisaged producing an overarching IPC report to which all IPC experts contributed, rather than delay the provision of feedback on this report, the Inquiry intends to ask core participants to comment on Professor Beggs' draft report so that this aspect of IPC expert evidence can be progressed.
+
+In relation to the other aspects of IPC, and in particular to changing clinical guidelines, testing and other IPC interventions and experiences on the frontline, the Inquiry has devoted considerable time to identify suitable replacements.
+
+Dr Gee Yen Shin, a consultant virologist and director of IPC at University College London Hospitals NHS Foundation Trust, Professor Dinah Gould, an independent IPC consultant and an honorary professor of nursing at City University London, and Dr Ben Warne, an academic clinical lecturer and speciality registrar in infectious disease and general internal medicine, have all now confirmed that they are willing and able to write a report covering the remaining IPC issues within scope, and so I anticipate and very much hope that the IPC expert report is now very much back on track.
+
+A number of core participants invite you to consider other areas for expert evidence. The Covid Bereaved Families for Justice UK and the Northern Irish Covid Bereaved Families for Justice submit that Module 3 needs to obtain further evidence about the disproportionate outcomes on black and minority ethnic healthcare workers and discrimination, whether that's on the basis of age, sex, gender, disability, and on people suffering different types of mental health conditions.
+
+They suggest that the experts in previous modules who considered these matters should produce, where necessary, Module 3 specific addenda. In our submission, this is not necessary. Those reports provide you with the necessary context and background to a number of different disproportionate impacts, and those reports will therefore complement the statements and evidence obtained by Module 3 which examine disproportionate impacts, including, to name just one statement, in the statement from the NHS Race and Health Observatory.
+
+The John's Campaign core participant group ask that Module 3 obtains expert evidence on the use and, it is said, misuse of DNACPR notices. My Lady, a large number of the Rule 9 requests sent by Module 3 have asked about the use of DNACPR notices, so we do not consider it is necessary to instruct an expert on this topic.
+
+I think, as I may have said at an earlier preliminary hearing, it would not be possible to instruct experts on every area within the scope of Module 3, or indeed on every impact felt and suffered, and so the John's Campaign group also requests that Module 3 obtain expert evidence on how those with learning disabilities accessed healthcare services and the impact on the learning disabled and those with cognitive impairments, and my Lady, that is, in our submission, one of those areas where the module simply cannot accede to every request, no matter how important the topic is for those people who suffer with those disabilities.
+
+Three of the core participants have submitted that an expert should be appointed to comment on the use of private sector contracting and outsourcing during the pandemic. Module 3 has requested and/or already received evidence relating to the use of private hospitals during the pandemic. And I emphasise the phrase "use of private hospitals" as that is the phrase that appears within Module 3's scope. Accordingly, the Inquiry legal team does not consider that the expert evidence is required on this topic.
+
+My Lady, the Royal Pharmaceutical Society submit that an expert should be appointed who has expertise in pharmacists and pharmacy to consider matters including the impact of IPC guidance on pharmacy teams and the adequate provision of PPE to pharmacists. Module 3 has sought evidence on these and other topics from a number of witnesses and so it does not consider that an expert in addition to that evidence is necessary.
+
+Turning to, my Lady, the next matter on the agenda, and that is disclosure.
+
+In addition to the 12 tranches of disclosure already made by Module 3, there are over 80 draft statements that are either being reviewed and feedback prepared or where the Inquiry has given feedback and requested that the statements be finalised.
+
+Recent tranches of disclosure in March and April this year contain a significant proportion of corporate witness evidence from organisations and departments such as NHS England, DHSC, the Office of the Chief Medical Officer, UKHSA, the Health and Safety Executive, Public Health Scotland and NHS services, Scotland. Those statements are lengthy and detailed and cover a wide range of topics relevant to Module 3's scope.
+
+In addition, there have been and there will be disclosure of statements of some of Module 3's core participant groups, which highlight specific areas of concerns relevant to their members. It's inevitable that reading and assimilating all that material will take some time, and therefore the Inquiry legal team considers that, in order to have a more meaningful and detailed second draft of the list of issues, the second draft of the list of issues should be circulated once the disclosed material has been analysed.
+
+The Inquiry currently holds 14,000 documents, totalling around 157,000 pages which will be disclosed on Module 3 in due course. I see my Lady's eyes raised.
+
+**Lady Hallett**: I'm just thinking, not much for me to do then.
+
+**Ms Carey**: That doesn't include the statements and associated exhibits which are not yet signed or provided to the Inquiry.
+
+Now, I provide those figures so that core participants know the scale of disclosure that will be forthcoming, and I hope that it will assist them in their resourcing arrangements for reviewing those documents. It's not meant to scare, but to try to assist with what is coming in the next few months.
+
+A number of core participants have requested that disclosure or the majority thereof is completed by the end of June of this year. Now, the Inquiry is working hard to review and disclose material in Module 3, but it must be acknowledged that much of the disclosure work is still going on Module 2C, which I think starts at the end of this month, and goes into May, and so consequently some of the Inquiry's resources are diverted to that module, and indeed to later modules which have public hearings in 2025.
+
+The Inquiry's resources, like those of material providers, are not unlimited and difficult decisions must be made. But may I make it plain, Module 3 is equally keen to complete the better part of disclosure by the end of June or early July, and that ambition may be all the more achievable as the Inquiry is currently prioritising the disclosure of the statements and exhibits provided to Module 3 directly, as this is of particular relevance. The Inquiry recognises that the quantities of material being disclosed each week must increase significantly from the current rate and so we will be increasing the amount of paralegal resource available to Module 3 and anticipate that that will double the current rate at which disclosure is being made.
+
+There are also a number of ways in which core participants and material providers can assist the Inquiry to speed up the rate of current disclosure. A number of material providers are seeking significant extensions of time in which to review provision or redactions to material beyond the standard three working days, including extensions of up to two weeks. Going forward, Module 3 is unlikely to be able to grant any significant extensions; as I have said, we need to double the quantities of material being disclosed each week, and material providers may wish to bear this in mind when deciding who will review the material for redactions and how to seek instructions from clients who may be on leave.
+
+Some core participant material providers are still engaging in protracted and evolving correspondence about the redaction of senior officials' names. To give one example, UKHSA has recently changed the list of individuals it considers to be senior officials, which is causing ongoing redaction issues. It's also asked Module 3 to redact the names of people from other government departments, such as Clara Swinson, who is a director general at DHSC, Graham Medley, a member of SAGE, and Ruth May, who is the Chief Nursing Officer in England.
+
+The Inquiry's established position is that it will only redact the names and email addresses of those whom it considers to be junior officials, and in our submission those three individuals, for example, are clearly not junior.
+
+Engaging in correspondence about these matters at the material provider review stage of course takes time for the Inquiry's legal team to respond to and resolve, all of which diverts resources from the actual review, redaction and disclosure task. Material providers are therefore urged to assist the Inquiry in this important task where they can and respond as swiftly as possible to queries and not repeatedly raise the same issue where the Inquiry has made its position clear, not change the names they asked to redact, and not to seek redactions on publicly available material.
+
+So, taking that as a whole, with a renewed ambition from the Inquiry's perspective and the co-operation, I know, from the core participant material providers and other material providers, it is hoped that we will be in a position to complete the bulk of that disclosure by the end of June or early July.
+
+In addition, Module 3 has reviewed the transcripts of evidence from Modules 1 and 2, and the relevant transcripts and statements will be disclosed in a separate discrete tranche of disclosure. Work is ongoing reviewing the transcripts of evidence from Modules 2A and B. That has commenced, and 2C module will be reviewed in due course.
+
+My Lady, the penultimate matter on the agenda is Every Story Matters.
+
+Over 11,000 experiences of healthcare services during the pandemic have been shared with Every Story Matters via the online web form, with many more sharing their experiences of having had Covid-19, bereavement and Long Covid. The Inquiry has heard from people around the UK directly as part of Every Story Matters events programmes, including members of the public, bereaved families, Long Covid survivors and healthcare staff.
+
+In addition, 450 individuals have participated in the research interviews for Every Story Matters, including 212 patients and 238 healthcare workers and other professionals in healthcare roles.
+
+All those experiences are being analysed and brought together in the first Every Story Matters report for the Inquiry, and that report is due to be provided to the Inquiry in the middle of this month, following which it will be reviewed by the Inquiry legal team, feedback provided, and it will be finalised and formatted. Those matters take a little time and we anticipate that the report will be shared with the core participants by the end of June.
+
+Finally, my Lady, the public hearings.
+
+Module 3 public hearings will commence on 9 September this year and take place in two phases, each lasting five weeks. The Inquiry is not planning to hold hearings in the weeks of 14 and 21 October, and so the second phase will begin on 28 October. Requests have been made to move the two-week break, but I understand that this cannot be accommodated. The Inquiry does not currently anticipate holding a further preliminary hearing for Module 3 before the start of the public hearings in September. However, I know that the Inquiry will keep this under review and will inform all core participants if it considers a further preliminary hearing to be necessary.
+
+A number of the core participants submit that a ten-week hearing time is insufficient to examine the matters within Module 3 and have asked that additional hearing time be allocated. My Lady, you have already allocated ten weeks of hearing time to Module 3, making this the longest public hearing to date, but even so you may think that it is simply not possible to include more than is already envisaged.
+
+Moreover, you have been clear that the Inquiry will not run on and on and that you want to hear evidence and make recommendations in a timely manner. Given the Inquiry's programme of work, including, for example, preparation for hearings in 2025 and the publication of reports, it will not be possible to extend the hearing time, nor will it be possible to move the two-week break.
+
+The Inquiry legal team notes that a number of written submissions have repeated core participants' offers to assist the Inquiry in its work, and we will hope this will be extended to being focused on those matters that require examination and exploration in the public hearing, knowing that your Ladyship will have considered in full the written statements and evidence contained therein.
+
+So in preparation for the public hearings, as I've already alluded to, the second draft of the list of issues we hope to circulate by the end of May, along with a provisional list of witnesses, and we will invite the core participants' submissions on those documents in due course.
+
+The monthly update notes will provide detail about the process for evidence proposals to be sent to core participants, and the precise pre-Rule 10 procedure to be adopted by Module 3, but at the outset I must observe, with 36 separate core participant groups and organisations, suggestions for pre-Rule 10 questions need to be proportionate and focused. Not every question or point can be raised or needs to be put to every witness, and core participants are asked to reflect carefully on this before making any pre-Rule 10 applications in Module 3.
+
+Module 3 will adopt the process used in earlier modules and accordingly ask that pre-Rule 10 requests are limited to key and significant matters, and to matters that the core participants does not anticipate CTI will cover. It assists no one and it's not conducive to an efficient process for the Inquiry legal teams, nor indeed for the core participant legal teams, for pre-Rule 10 applications to be made in respect of questions that Counsel to the Inquiry are obviously going to ask.
+
+Moreover, the Inquiry legal team considers that the contents of any pre-Rule 10 applications may be better focused on questions in areas that might lead you to making meaningful recommendations for the future.
+
+My Lady, I make those observations knowing that all core participants have repeatedly assured your Ladyship of their desire and willingness to assist the Inquiry in its work, and we hope that that renewed focus will help the public hearings run smoothly and efficiently and ensure that core participants' particular interests in a witness or a topic are advanced either by Counsel to the Inquiry's questions or by the core participants' questions themselves.
+
+Further guidance on the evidence proposals and the pre-Rule 10 process will be provided in the monthly update notes in due course.
+
+My Lady, that's all I propose to say by way of Counsel to the Inquiry's submissions to your Ladyship. Can I invite you, please, to publish the written submissions on the website later today, and I think the first core participant to address you is Mr Weatherby King's Counsel.
+
+**Lady Hallett**: Thank you.
+
+Submissions will be published.
+
+**Ms Carey**: Thank you very much, my Lady.
+
+**Lady Hallett**: Mr Weatherby.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice by Mr Weatherby KC
+----------------------------------------------------------------------------------
+
+**Mr Weatherby**: Good morning, my Lady. As you know, I appear for Covid Bereaved Families for Justice UK.
+
+As we hope we have done consistently so far, our submissions are made in the spirit of assisting the Inquiry in fulfilling its terms of reference.
+
+Can I say at the outset that we have looked carefully at the submissions of other, particularly the non-state, core participants, and we support many perhaps most of the points so clearly made by them and I'll try not to overlap too much, treading on their lawns.
+
+In particular, we support the submissions of Mind, urging the Inquiry to include adult mental health within Module 3. Our submissions, which I will say a little bit more about in due course, resonate with FEMHO and others regarding the need for further discrimination evidence. And we specifically endorse submissions made about the issue of the downgrading of Covid as an HCID, high-consequence infectious disease, in March 2020, made by, I think, the BMA and the Covid-19 Airborne Transmission Alliance, and no doubt you will recall this is an issue that we raised in questioning of Professor Van-Tam in Module 2.
+
+So, turning swiftly to the issues on the agenda, Rule 9s and evidence gathering. We're grateful for the updates. We've raised a number of issues. I'll raise them orally in two short sections, if I may, firstly, evidence gathering generally and, secondly, spotlight.
+
+On the general level, we note the Inquiry has had to resort, as Ms Carey has set out this morning, to section 21 notices because document producers hadn't responded or hadn't responded sufficiently to requests made as long ago as last spring, and although that has achieved progress, as one would expect, much does remain from the updates outstanding.
+
+We're not unsympathetic to the amount of work that goes into providing disclosure, we're not unsympathetic to the fact that many of the evidence providers are also engaged in providing services. However, the work that needs to be done doesn't get less if it's not attended to expeditiously, non-compliance makes things worse for the evidence providers themselves, and delay just causes problems elsewhere in the process.
+
+The answer, the simple answer, is that document providers must do as the Inquiry requests within the timescales set, and we respectfully urge you to use section 20 perhaps more liberally in terms of ensuring that happens. Additional resources have to be allocated if necessary. And if they're not, the consequent delays will result in at least three effects, in our submission: one, the wasting of substantial amounts of public money; two, further untold stress to families, witnesses, all directly involved; and, three, impeding the reaching of your conclusions and recommendations which are so vital.
+
+I'm sorry if all that sounds so obvious, but it needed saying, in my submission.
+
+Moving on to spotlight hospitals, we note the explanation of how example facilities have been selected. We raise no objection in principle to this sort of approach, but we have raised a number of points in the written submissions from paragraphs 6 onwards. We would have raised these earlier had there been consultation about the spotlights and we might have been in a position to have assisted the Inquiry earlier and better had that happened.
+
+The points we raise are in four categories. One, selection itself. Two, the evidence gathering from the chosen facilities. Three, whether the approach should be adopted for other healthcare facilities. And four, the issue of preparedness.
+
+In respect of selection, we note what had been carefully set out in terms of the selection of hospitals across the four nations and jurisdictions and across population spread. We understand the approach, that it's designed to get a spread of evidence from across the UK, and we understand the questionnaire approach that was adopted to it, although we haven't had disclosure of those questionnaires as of yet.
+
+No method of selection is going to be perfect, but, as we've set out in our written submissions, there are key issues that we would urge further consideration on. For example, and only by way of example, at paragraph 7, we've noted the choice of hospitals in Northern Ireland includes the main cities but not rural areas. We'll leave that to the Northern Ireland team to develop. And we've noted that both of the hospitals selected in Wales are in South Wales, which rather excludes the healthcare experience from across the rest of the country and the other health boards there, many of which are very different from the South Wales metropolises, and we note the Cymru team's written submissions on that too and we won't trespass on those.
+
+Again, a minded-to approach might have allowed us to have assisted on that issue earlier.
+
+Similarly, we've raised the point about whether the demographics of the areas of the hospitals were considered as well as the more straightforward issue of population spread.
+
+In our submission, the different racial and ethnic minority communities served by hospitals is of great importance, and should have been part of the selection criteria.
+
+We hope that the Inquiry will seek evidence from healthcare workers and bereaved families with experience from the spotlight hospitals, and also from further afield than the spotlight hospitals as well. As you've heard, we've submitted a schedule of summaries which we hope will help in that selection. I'll deal with that in a moment, freestanding as a topic, if I may. But just on this section of the spotlight hospitals, I note that one of the accounts by way of example that we've put forward is a bereaved family member who was also a frontline doctor during the pandemic and who in fact worked in a hospital in North Wales. So the selection of individuals such as that might help in dealing with some of the perceived deficiencies in the approach.
+
+Secondly with respect to spotlight hospitals, evidence gathering. We note what's been said about seeking evidence from chief medical officers. We recognise and absolutely agree with the intention to go beyond the corporate view, but we do maintain our concerns that this isn't likely to achieve that, because CMOs are themselves members of health trusts and boards and they may have their own motivations to present what we've suggested might be a rose-tinted view.
+
+So we urge the Inquiry to take a much wider view and seek evidence from patient groups, patient advice and liaison services, where that applies, trade unions and professional bodies, for example.
+
+At paragraph 11 we've indicated our concerns that the timetable's ambitious to consider such a wide set of issues and evidence across four healthcare systems. We repeat an earlier submission that to make the spotlight approach work that it may be of assistance to commission a panel of experts to assist in analysing and honing the evidence so that only that which is important to the Inquiry need be called or can be collated by people with expertise in that kind of area.
+
+We again indicate that we would be very much open, we would encourage a collaborative approach to this with your team. Calling evidence over 22 hospitals in such a short period of weeks is going to be challenging, and there need to be innovative ways presented of dealing with that.
+
+We have raised, maybe too persistently, the issue of position statements. I'm not going to raise that issue again generally, but, with respect to spotlight hospitals, this is an area where seeking a corporate summary of what happened at particular institutions and trusts of what went right and wrong through their own lens may well be an effective way of, again, honing the ambit of the evidence. Position statements allow that to happen so that Rule 9s can then drill down into the detail, and there are a number of inquiries where that approach has been taken successfully.
+
+Thirdly, on spotlights, we urge that a similar approach is taken with respect to other healthcare facilities and services, we've raised 111, 999, ambulance trusts, healthcare centres, GP surgeries and mental health facilities. Again, we're well recognising of the imperatives of time, but in order to do justice to the terms of reference for Module 3, a concentration primarily on hospitals is, in our submission, not taking the issues far enough.
+
+Fourthly and finally, with respect to spotlights, preparedness. From paragraph 12 we've highlighted a concern that the Inquiry appears to be overlooking preparedness in this module. The examination of preparedness in Module 1 related to a high level only, not to the healthcare or social care sectors. We've set out in writing to remind the Inquiry what was said earlier by Counsel to the Inquiry in the earlier hearings, and in particular in the preliminary hearing for Module 1 where it was asserted that preparedness for healthcare and social care would be dealt with within their own modules, and we'd urge a rethink on that.
+
+It's imperative, in our submission, that this is done. It's not sufficient that the position is restricted to staff shortages just prior to pandemic, as asserted in the CTI note. In our submission, the Inquiry should look at the plans from each of the 22 spotlight hospitals and health boards for a pandemic, what their understanding was of the applicable national planning related in particular to IPC, infection prevention and control, isolation, testing, visitation, resilience, staffing, bed capacity, surge capacity, triage systems, stockpiling, medical equipment, oxygen and PPE.
+
+Moving on, evidence from bereaved witnesses. We've heard what's been said this morning. We're pleased that the Inquiry has decided to call a proportionate number of individuals with direct knowledge or experience of topics within Module 3. Many of our families have such experience of systemic themes. We urge a calling of a proportionate number of them to that end. The voices of bereaved family members and others are powerful within hearings themselves, and hearing the lived experience is of obvious importance to this Inquiry, as in just about all others.
+
+We've provided a schedule. Again, we would be grateful for collaboration and co-operation with your team about where that's taken.
+
+In selecting witnesses, we note that the Inquiry has, entirely properly, sought similar evidence from other CP groups. In the selection of the witnesses we ask you to have consideration of the central position of the bereaved, the substantial number of families CBFFJ represents across the four nations, we urge you to consider diversity, and we urge you to consider how the evidence is relevant to the systemic issues of Module 3.
+
+We've raised the issue of discrimination. We've set this out in some detail in writing. We've addressed it regularly in each module. With respect, you have listened to us on those issues. But disparities of outcome for racialised minorities and issues relating to the treatment of disabled people amongst others are well known not just to the Inquiry but also there's a real importance to those issues within this module.
+
+Issues of institutional discrimination within the health services, plural, are very much live issues, and we would absolutely encourage the Inquiry to rely on the evidence so far called but also to look carefully at it as to what other issues could be assisted by addendum reports from those experts or, indeed, possibly further reports from others. And those would include issues as to the disproportionate number of deaths of BAME healthcare workers compared to the demographics of the workforce, issues as to whether persons of particular minorities were disproportionately on the frontline and, if so, why, and issues of preparedness regarding protection with regard to particular characteristics or needs, PPE, but it goes beyond that of course.
+
+In terms of disclosure, we're grateful for the update that's been provided. We note that there was very late disclosure in both Modules 1 and 2. On our analysis, by one month before the hearings we had received 42%, and 61% of the disclosure which ultimately came to us, that was one month before the hearings. Now, of course that was due certainly in part to the pace of the Inquiry and that it was working. There has been a longer period for preparation of Module 3, and therefore we hope that the recognition of these issues by Ms Carey this morning will lead to an earlier disclosure of the bulk of the material.
+
+We're experienced enough to know that of course disclosure continues and so you can't put a stop date on it, but if there is a concentration, a real concentration, on the date that we've suggested and Ms Carey has mentioned this morning, the end of June, then that will help all of us. We are nervous about it, given the amount of disclosure that has been made to date, and the fact that we are only five months away, but we do hear that we're being listened to on this subject.
+
+Experts. We've made submissions regarding consultation around experts and letters of instructions before, we don't resile from them but we're not going to repeat them again, they're in our written submissions again.
+
+We would note that where we have been involved in putting forward experts, then our perception is that that has assisted the Inquiry, and therefore we would hope going forward that that would be borne in mind by your teams.
+
+In our written submission we have raised one further particular note that hasn't been noted this morning, no reason it should have been, it's at paragraph 34 of our submissions, and we've asked you to consider instructing an expert to provide evidence of how healthcare systems of other countries fared.
+
+We don't want to be misunderstood about this. We're not seeking wide-ranging evidence from across the globe, we're not seeking evidence to show where the UK should be positioned on some sort of international league table, that issue arose out of unevidenced assertions by the former Prime Minister, and we don't intend to go back to it.
+
+The purpose of commissioning such a report here would be to look to lessons from elsewhere which might assist your analysis of what happened in the UK, but, more importantly, may inform recommendations, and we've suggested two countries, simply to keep the issue in proportion, in perspective. An expert report would not significantly affect the timetable. In our submission, countries should be selected in consultation with a suitable expert, and be of similar economic profile to the United Kingdom, countries perhaps such as South Korea and Germany, or perhaps Norway. But that, we say, should be a matter for discussion between the Inquiry and experts.
+
+In the absence of such evidence, you'll be assessing what happened and what recommendations to make rather in the abstract. The Inquiry needs all the help it can get, and it appears to us that learning from elsewhere might be particularly helpful.
+
+Finally, with respect to hearing dates, we've heard what Ms Carey has said. We simply note that there are two weeks of half term that covers most of the country; if the period of break of two weeks was pushed back by one week, it would cover both of those. We're not aware of what the problems with doing that are, but we would urge you to have a further look at that.
+
+Those are our submissions, unless there's anything else I can assist with.
+
+**Lady Hallett**: No, thank you very much indeed for your help, Mr Weatherby, very helpful.
+
+I think, Mr Bindman, you're going to go next before we take a break.
+
+Submissions on Behalf of the Northern Ireland Covid-19 Bereaved Families for Justice by Mr Bindman
+--------------------------------------------------------------------------------------------------
+
+**Mr Bindman**: My Lady, I appear on behalf of the Northern Ireland Covid Bereaved Families for Justice. You've received our written submissions and I propose to use the short time that I have to bring to the fore some key topics on behalf of the Northern Ireland Covid Bereaved.
+
+As you are aware, uniquely in the United Kingdom, Northern Ireland has a fully integrated system of personal social services with healthcare, referred to as "health and social care". The Health and Social Care (Reform) Act 2009 created a single regional Health and Social Care Board. This single regional Health and Social Care Board, working in conjunction with the Public Health Agency, commissioned services to meet assessed need and promote general health and wellbeing. These services were provided by six newly established health and social care trusts: Belfast's, Northern, South Eastern, Southern, Western and the Northern Ireland Ambulance Service HSC Trust; along with other HSE arm's length bodies.
+
+Each health and social care trust was accountable for its performance and for ensuring that appropriate assurance mechanisms were in place. This obligation rested with the Health and Social Care trusts' board of directors. It was the responsibility of the Health and Social Care trust board to manage local performance and to manage emerging issues in the first instance. The -- and I'll call them HSCT boards for short, the HSCT boards remain responsible for performance management and assurance in respect of all of the HSCT's activities.
+
+There has been further modification in the Health and Social Care Act 2022 but the background prior to 2022 is important as it lays the foundation for many matters which I seek to bring to your attention today. Specifically in the context that many of our clients believe that each of the trusts or the trust areas functioned inadequately during the pandemic, none more so than in hospital settings and care homes. Our clients have genuine concerns about the trusts' guidance, standard of care, implementation of visitation, family liaison, end of life care and DNR and DNACPR protocols and the stark lack of consistency on these issues across the trusts.
+
+Much if not all of the inconsistency across the trusts stems from the fragmented and complex health and social care structure operating for a relatively small population. This granulated structure has led to the existence of different policies and procedures and thus differing standards of care and treatment across the trusts.
+
+I lay out that background, my Lady, to give some context to the submissions that I intend to make.
+
+The Northern Ireland Covid Bereaved Families for Justice feel strongly that there should, if possible, be a forensic examination as to how each health and social care trust responded to the pandemic, with emphasis on the compelling differences in standards of care and approaches taken.
+
+To this end, as you will have noted from correspondence from PA Duffy Solicitors on behalf of the Northern Ireland Covid Bereaved Families for Justice to the Inquiry, we implore it to send Rule 9 requests for information to the chief executives of each of the five health trusts in Northern Ireland.
+
+In light of the division of the trust areas, and on the eve of Module 2C, tranches of disclosure support the commonly held view amongst our group that there were different care and treatment standards employed across the HSC trusts due to different policies and procedures being employed. The result, we say, was a postcode lottery.
+
+Examples from our client base include patients who were unable to receive IV antibiotic treatment at home outside the Belfast trust. This particular client's mother had to be admitted to hospital for this treatment and subsequently went on to contract Covid-19 in hospital. The family were told that if she was in the Belfast trust, IV antibiotics could have been administered at home, meaning that there was clearly an unnecessary exposure of the vulnerable or a vulnerable person to the virus.
+
+Another example of obvious divergence of approach concerns the expectations, rules and protocol for testing of trust staff. Many of our clients have flagged this as a matter of particular concern, particularly in relation to domiciliary care. Our clients observe the screening of staff providing domiciliary care was not prioritised to the same extent as it was for staff in clinical or care settings.
+
+Many of our clients reasonably believe that domiciliary staff members brought Covid-19 into their vulnerable family member's home with little or no precautions taken to prevent the spread of infection, including not wearing PPE and giving inadequate responses as to why they were not wearing the same.
+
+In our submission, the trust executives ought to be called to the Inquiry to answer and to explain who was responsible for overseeing the drawing up and implementation of preventative standards for domiciliary care. It is only with first-hand accounts given by the relevant heads of the trust divisions that there can being a full and proper examination of the decision-making employed, the reasons for the same and an assessment of the outcomes, both intended and unintended, if not obvious, of those decisions.
+
+What is not clear to our client base is whether there was any effective collaboration between trust executives, it appears on the face of it there was not, and if not, why not. We are keen to understand the level of communication between each of the five chief executives and their relationships. What were their reasons for employing certain decisions over others? Were experiences and lessons pooled and shared or did the trusts work in silo? The resultant effect, as referred to previously, was a postcode lottery.
+
+By way of example of some of the experiences of our group, they query why some trusts employed liaison officers to keep families updated and others did not. Communication or the lack thereof is a key theme for the Northern Ireland Covid Bereaved Families for Justice, whose friends and family were not properly and adequately appraised of the care and even deaths of their loved ones and, as a consequence, are left to suffer the purgatory of the unknown.
+
+This has understandably added to the trauma of their loved ones' passing. One of our group, Sarah Todd(?), lost her mother in 2021, her mother died in hospital. Ms Todd was not informed that her mother's condition had deteriorated. Ms Todd was not informed that her mother had even passed away.
+
+So I turn then, my Lady, to deal with the issue of spotlighting hospitals. Whilst recognising the enormous pressures of time this module already faces and that a considered decision has been made to choose the two largest hospitals in Northern Ireland, the Northern Ireland Covid-19 Bereaved Families for Justice are apprehensive that the focus on these hospitals will inevitably be at the exclusion of other hospitals, particularly given that the hospitals chosen are situated in the two largest cities in Northern Ireland whereas 37% of the population in Northern Ireland live in rural areas, such that there are other hospitals that serve those communities. The product of the current spotlight hospitals information may not be representative of the experience faced by our clients. Of the six health and social care trusts I have referred to, the current identified spotlight hospitals will only come under the umbrella of the Belfast and Western Trusts and do not examine the decision-making and, importantly, the impact of those decisions on three other trusts.
+
+Because of the differences in decisions made by different trusts, a one-size-fits-all approach simply cannot apply.
+
+For example, the Inquiry may well be interested in a serious incident which was declared in the Southern Health and Social Care Trust as a result of three clusters of the Covid-19 virus at Craigavon and Daisy Hill Hospital between August and October 2020. In the three outbreaks a total of 15 of 32 patients with Covid died. These included specifically the haematology ward outbreak at Craigavon, where seven of the 14 patients with the virus died, in the male medical ward outbreak at Daisy Hill, six of the 13 patients died, and in the 4S ward outbreak at Craigavon, two of the five patients with Covid died.
+
+A serious adverse incident report was published in September 2023 and found that the lack of regular screening of in-patients or healthcare workers hampered early detection of hospital-acquired Covid infections. It also cited insufficient and inadequate isolation facilities, overcrowding and inadequate space for social distancing in the emergency department of Craigavon Hospital.
+
+Naturally, questions arise as to how the outbreak compared to the decision-making and outworkings in other trust areas. If there were other systems in place that protected other hospitals, why were they not adopted in the Southern health trust? Were the systems that were adopted different to the other trusts? Can it be said that the differences led to this significant incident?
+
+It follows, in our submission, that without some flexibility there is a danger that the unique healthcare structure in Northern Ireland may result in the Inquiry being unable to sufficiently contrast the differing approaches made by health and social care trusts. For that reason, we ask that consideration is given to adding spotlight hospitals to the current list and potentially considering three or four hospitals in total across the five different health and social care trusts. We've identified those in Antrim and Craigavon as being the appropriate hospitals.
+
+Finally, my Lady, and on a more general note, we seek some clarification regarding matters raised about the crossover of issues in earlier modules.
+
+At the preliminary hearing for Module 1 on 25 April 2023, Mr Keith King's Counsel clarified that preparedness in hospitals and care homes was not an issue which would be explored beyond general terms in respect of the UK Government and the devolved administrations declaring how hospitals and care homes should prepare for civil emergencies and pandemics. Principally:
+
+"... [a] more detailed examination of preparedness in hospitals and care homes, especially at an operational level, must be for healthcare and care sector modules."
+
+That is a quote.
+
+We welcome that clarification, but now, on the cusp of Module 3, seek further explanation as to how the close interplay that Module 3, the impacts on healthcare systems in the four nations of the UK, and the outworkings of particular decisions made by respective healthcare systems, cross or span into issues that come under the rubric for Module 6, the care sector.
+
+By way of example, in a letter dated 3 April 2020, the health trusts wrote to the care home registered providers clarifying the hospital discharge protocol regarding testing, making clear that there was no expectation that patients are tested for Covid-19 before discharge from hospital to a care home. Less than three weeks later, and by 22 April 2020, there were 297 confirmed cases of Covid-19 in 60 care homes in Northern Ireland.
+
+In respect of the lived experiences of our client base, in the witness statement prepared by Marian Reynolds(?) for Module 2C, she recounts how her aunt was discharged from hospital in poor health with effectively the same care package that had been in place before she was admitted to hospital, with no adaptation for the significant deterioration in her aunt's health, or that the family support that had previously been there was absent because they too were suffering from Covid. When the health trust were challenged about this, the family were offered an anecdote about another person who was discharged on the same care package. This was cold comfort to the family, who knew that the arrangements were demonstrably inadequate, and put Ms Reynolds' aunt at serious risk. Whilst failings of this nature may have been present prior to the pandemic, the impact of the reduced oversight of mechanisms during the pandemic compounded the problem and elevated the risk.
+
+So, my Lady, it's for those reasons that we ask the Inquiry to consider our request in respect of the health and social care trusts and the spotlighting hospitals.
+
+Unless, my Lady, there are any matters which I can assist with, those are the submissions.
+
+**Lady Hallett**: Thank you very much, Mr Bindman.
+
+We shall break now. I shall resume at 12.10 to hear from Mr Henry.
+
+*(11.54 am)*
+
+*(A short break)*
+
+*(12.10 pm)*
+
+**Lady Hallett**: Mr Henry, I think it is, next, isn't it?
+
+Submissions on Behalf of Scottish Covid Bereaved by Mr Henry
+------------------------------------------------------------
+
+**Mr Henry**: Yes, good morning, my Lady.
+
+I appear on behalf of the Scottish Covid Bereaved as instructed by the Inquiries team at Aamer Anwar & Company.
+
+Your Ladyship has received our written submissions and I adopt those submissions. I propose to use my time this morning to make brief further submissions in relation to disclosure, expert reports, other witnesses and timetabling.
+
+Turning first to the issue of disclosure, the Scottish bereaved note all that has been said by Counsel to the Inquiry in relation to that this morning. It is hoped that your Ladyship's notices under section 21 of the 2005 Act allow for the all the matters in the relevant Rule 9 requests to be addressed and for evidence to be provided to the Inquiry timeously.
+
+Your Ladyship has submissions from a number of core participants in relation to the issue of disclosure. I don't intend to rehearse those submissions, save to repeat our submission that, standing the volume of disclosure, it is hoped that all possible steps are taken to allow for the disclosure process to be finalised in good time to allow for all matters to be finalised in advance of the substantive hearings.
+
+Moving on, my Lady, to expert reports, your Ladyship has the Scottish bereaved's comments in relation to the report concerning Long Covid and we will provide our comments on other reports in due course.
+
+Scottish Covid Bereaved note that in relation to primary care and emergency pre-hospital care, Professors Snooks and Edwards have been instructed to provide a report in that regard. We note what has been said this morning by Counsel to the Inquiry about these reports covering all four nations of the UK, but, given the different healthcare system in Scotland, it may be that we have additional submissions about the need for a discrete report in relation to Scotland, but we await the disclosure of that report, my Lady, and we will make any submissions required in due course.
+
+We note the submissions of the UK and Northern Irish bereaved about the need for reports to cover issues of structural and institutional discrimination. That is an approach that the Scottish Covid Bereaved would welcome, although we do note all that has been said by Counsel to the Inquiry this morning.
+
+Turning, my Lady, to other witnesses, the Scottish bereaved consider that the Inquiry requires to hear the evidence of the former Scottish Chief Medical Officer, Dr Catherine Calderwood, during the substantive hearings. We are of course aware of the issues surrounding securing Dr Calderwood's evidence which arose in Module 2A, and it is hoped that steps can be taken to allow for Dr Calderwood to give evidence, even if that is outwith the hearings currently set.
+
+Finally, my Lady, moving to the issue of timetabling, the Scottish Covid Bereaved understand that a great many issues will require to be addressed during the substantive hearings. We have concerns about whether this can be done in the assigned hearings and we would welcome a further preliminary hearing to address the issue of the witness list and timetabling. We do, however, welcome Counsel to the Inquiry's confirmation this morning that the two-week break in the hearings will not be pushed back. Although I understand that other core participants have submissions on this matter, my Lady, were the two-week break to be pushed back it would no longer coincide with the October week school holiday in Scotland and we'd have issues for those in Scotland who have childcare responsibilities.
+
+So, my Lady, those are my submissions, unless there are any matters which your Ladyship requires to be addressed.
+
+**Lady Hallett**: No, thank you very much for your help, Mr Henry, I'm very grateful.
+
+Right, Ms Weereratne. You're hiding back there.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice Cymru by Ms Weereratne KC
+-----------------------------------------------------------------------------------------
+
+**Ms Weereratne**: Trying to make myself seen and heard.
+
+Good morning, my Lady.
+
+**Lady Hallett**: Good morning.
+
+**Ms Weereratne**: Aswini Weereratne, I appear on behalf of Cymru Covid Bereaved Families for Justice. You have our written submissions on which we rely this morning, and I'd like to address four points in addition. Firstly, on section 21 notices, we note that a section 21 notice has been served on the Welsh Government Health and Social Services Group. Non-compliance and lateness have been ongoing issues throughout this Inquiry, and on previous modules as well with the Welsh Government. In submissions for the last preliminary hearing in September 2023 on this module, the Welsh Government stated its commitment to co-operate fully with the Inquiry and that two detailed responses to Rule 9 requests had already been provided. Our clients are disappointed, therefore, and angered to hear that, in spite of reassures given, the Welsh Government's compliance has necessitated a section 21 notice from my Lady.
+
+Secondly, then, I would like to turn to spotlight evidence and spotlight hospitals, and this is a very important issue and of some concern to our clients. We have had lengthy correspondence on this issue with the Inquiry legal team since early February. Our clients are grateful for the time that the Inquiry has given them on this issue, and also grateful for Ms Carey's submissions this morning and in her note. They address some, though not all, of our concerns. Our clients have expressed their extreme unhappiness with the selection of two hospitals in Wales for this task, and our concerns and our clients' unhappiness will be repeated and amplified today.
+
+Regrettably, there has been no shift in the Inquiry's position, as we've heard, and our clients feel heard but not listened to. We will consider carefully what we have heard today, but our clients do remain somewhat uncertain as to how this proposal is intended to actually work. From our understanding of this task, there are still a number of shortcomings in the proposal, which lead us to question its value.
+
+The operation of and responses in Welsh hospitals are of course a key focus for Cymru bereaved families, and our clients are anxious that their concerns are properly aired and interrogated in this Inquiry, and this anxiety underlines our submissions on this point today.
+
+Also I want to echo that in Module 1 Mr Keith King's Counsel created an expectation that the detail of preparedness on healthcare would be featured in this module, and it's very important to our clients that this is done with regard to Wales.
+
+My Lady may recall that a significant proportion of the membership of this group lost their loved ones as a result of hospital-acquired Covid-19 or in the care home following discharge of hospital patients without testing.
+
+The first point I'd like to make is on location, and it arises from the fact that in her note Ms Carey notes that the spotlight evidence is intended to cover both rural and urban areas, but in fact only hospitals from two areas of South Wales have been selected, and that's been commented on by others as well. Large swathes of Wales, the rest of South Wales, for example, North Wales and rural areas, are not covered by the selection made. While it may be reasonable not to actively seek information from the areas worst affected, in our submission it makes little sense, where evidence points to a particular problem in a particular area, to ignore that during this exercise or not to seek to build on it.
+
+For example, the National Nosocomial COVID-19 Programme report was provided by the Welsh Government earlier this year for a period ending 31 January 2024. This showed that the highest rate of nosocomial infection was in North Wales, within Betsi Cadwaladr health board, and that the rates of nosocomial infection varied greatly across Wales. Hence our reference to the postcode lottery in Wales and Wales' particular geographical and demographic characteristics in our written submissions.
+
+Failure to consider this variance in our submission not only limits the voice of those bereaved in other areas of Wales, but also leaves a gap in understanding of the UK-wide issues, which we now understand is what this evidence is directed at.
+
+There are a number of relevant issues raised by our members which we have already brought to the Inquiry's attention, and these arise across the health boards, and examples are also at annex A of our written submissions, which have been provided for context.
+
+We raised concerns with the Inquiry legal team in correspondence about the rates of nosocomial infection, healthcare facilities and access to healthcare facilities in North Wales as an example, based on the experiences of our clients, of an area where useful evidence may be sought. One of the stated aims of the spotlight process is to identify key themes and particular issues. We would question again whether two hospitals from South Wales can adequately identify the key themes and issues of the whole country, in which different regions had different demands placed on them.
+
+So the point we make is that each health board faced unique challenges and responded differently to common challenges, so that key themes in Wales need broader scrutiny. Understanding the range of issues within Wales is surely critical and crucial to add to the Inquiry's understanding of UK-wide issues.
+
+Looking at the rationale and criteria applied as set out in counsel's note, at paragraph 9 it's stated that:
+
+"The purpose ... was to obtain evidence [of] the impact of national decision-making and leadership upon those operating within healthcare systems, including how hospitals responded 'on the ground' to the ... pandemic."
+
+We agree, it's a laudable and proper aim, and we focus in particular on the words "on the ground", because we struggle to see how these aims are in fact satisfied by evidence from a Chief Medical Officer, a point that's already been made, but if I may, we also say that this will be inevitably at too high a level to be useful and, in our submission, will be unlikely to convey a true and vivid sense of what it was like to battle with the pandemic on a daily basis in the wards of the chosen hospitals, whether in Wales or elsewhere.
+
+From the topic list in paragraph 13 of counsel's note, at (a), for example, on staff shortages, is it not relevant also to hear from staff on the ground how staff shortages impacted on their work within those hospitals? Would that not provide a more rounded picture of any problems? This will again, we submit, bring to life -- and this is important -- for the public, the Inquiry and CPs what it was actually like for the frontline staff at the chosen hospital, a crucial level of understanding, in our submission, for the crafting of meaningful recommendations.
+
+At paragraph 9 counsel's note states that spotlight evidence is not the only way by which Module 3 will examine the impact of the pandemic on those working and being treated in hospitals. Whilst that was not elaborated on in the note, we did hear this morning that impact evidence requested from CPs and the accounts in the Every Story Matters process will be used in this regard.
+
+The questions in our submission that still arise are: how will it fit with and make sense of the spotlight evidence? Will core participants be given an opportunity to respond to that evidence?
+
+If the intention is to use expert evidence to fill any gaps, for example on analysing the rates of nosocomial infection across the UK, then we would make the following observations: experts are not able to cover the actual experiences of staff on the ground, and counsel has alerted us to a problem with the infection prevention and control expert evidence at paragraph 31 of her note, though of course we do note her submissions on that this morning.
+
+So our concerns about gaps in evidence more generally about the Welsh experience are underlined by the expert draft intensive care evidence which has recently been circulated and the responses are formally due on 16 April. For now we can say that our view is that the draft report does not adequately deal with devolved issues and would be responding with details on this by the deadline set. That is a lacuna which raises for our clients the concern that the Welsh experience is not being sufficiently addressed in this module.
+
+Further, on gaps in the evidence, we heard that other evidence on nosocomial infection rates, for example, is available from the Chief Medical Officer of Wales, Public Health Wales, and Welsh Government Health and Social Services Group. Again, and I'm sorry I'm being repetitive on this, our point is that this is high-level evidence and unlikely to throw light on the impact on the ground of decisions and leadership for healthcare workers interpreting guidelines from on high. On some issues, as noted in the draft intensive care report, guidance differed from area to area, leaving clinicians to decide how best to respond.
+
+Lastly, we say that there is no indication as to whether or how evidence gathered by the spotlight process is to be tested. Is its reliability to be taken as read, or will CPs be given an opportunity to interrogate it, and if so on what basis? If it's not tested, we would question its value to the Inquiry, or even how useful or proportionate an exercise this actually is. This may be a particular concern to devolved nations. It's definitely a concern to the understanding of issues in Wales.
+
+I do offer my apologies for sounding so disgruntled and negative about this process, but this is what our clients feel. It's a very important strand of the Inquiry and, without fully explained reassurances as to how else the key issues and themes will be elicited, the mantra that "the experience in Wales will be thoroughly examined" begins to sound somewhat hollow.
+
+We do acknowledge the burdens on the Inquiry and we do raise concerns as to how this is a proportionate use of the Inquiry's resources in relation to Wales.
+
+So we do ask once more that this is reviewed and that if statements from each of the seven health boards cannot be taken, then at least that one or two of the other health boards are considered from other parts of Wales and are included in this exercise, and also that consideration is given to including staff and clinicians from the chosen hospitals.
+
+My third point was on delay in listing. Our experience in other modules is that disclosure has been late and sometimes comes after the event. It's not unusual. In Module 1, crucial evidence of risk registers was disclosed on 12 and 13 July last year, when the Welsh witnesses had already given evidence and we had no longer the opportunity to put these documents to those witnesses. Similar issues were encountered in Module 2B. We understand that delays are unavoidable but repeatedly CPs are having to play catch-up. It inevitably impacts on effective participation, and in particular where lay participants are concerned, who need more time to absorb what is disclosed even with legal advice.
+
+With respect, we say it's not sufficient to say it's a knock-on effect of the late production of disclosure by other state bodies. It doesn't really help our clients. We are concerned that the balance between timing, resources, CP participation, could be struck better and that more time for hearings and also for Rule 10 questions is necessary.
+
+We are anxious that there should be no delays in the timetabling, but added to the woes already referred to is the listing of hearings virtually back-to-back. In general written submissions are due one to two weeks before a hearing and three to four weeks after the conclusion of a hearing, so the overlap and demands on the work is clear, and especially where there is, say, six weeks between hearings. This is onerous and potentially impacts on the fairness for CPs and their ability to respond adequately.
+
+I was going to make a fourth point on expert points, but I have already made the points I wanted to make on that.
+
+So just on Rule 9 requests, we have heard what Counsel to the Inquiry has said and we've raised in our written submissions at paragraph 4 the requests that we have already made, which we have repeated in our written submissions.
+
+So, with the greatest of respect and repeating the
+
+understanding that time and resources are not
+
+a bottomless pit, Cymru families feel that they must
+
+record their disappointment and frustrations at this
+
+point, but we do look forward to continuing to work and
+
+collaborate with the Inquiry in the work of this module.
+
+My Lady, thank you very much, and unless there's
+
+anything further I can assist you with, those are my
+
+submissions.
+
+**Lady Hallett**: No, thank you.
+
+Mr Straw.
+
+Submissions on Behalf of John's Campaign, Care Rights UK and the Patients Association by Mr Straw KC
+----------------------------------------------------------------------------------------------------
+
+**Mr Straw**: Thank you. My Lady, I'd like to address eight topics this morning.
+
+First, the need for people to be central to this questions. The very first line of the NHS Constitution for England is "The NHS belongs to the people". The reason why the constitution repeatedly makes clear that the patient will be at the heart of everything the NHS does is that this is the most effective way of organising a health system. In the same way we submit that the most effective way that this module can examine the impact of Covid-19 on the health system is to place people at its heart. It is only by focusing on the lived experiences of individual patients or staff that this Inquiry will fully understand and learn from the pandemic and from its response.
+
+In consequence, we warmly welcome the indications from the Inquiry in this module that it will focus on individuals. However, we are concerned with the approach that appears to be taken to spotlight hospitals in this respect, and I'll come back to that in a moment, if I may.
+
+The second topic is the issues to be investigated. We made some submissions about the Inquiry's provisional list of issues previously, for the purpose of the last preliminary hearing. There has been no specific response to those submissions, and the timescale for a revised list of issues is now said to be the end of May. We would invite the Inquiry, if possible, to produce the revised list of issues sooner than the end of May, if it can do, because this would provide assurance to core participants that their submissions are being addressed and it's also very important to guide future preparation.
+
+In light of recent developments, the CPs, our CPs, have further submissions about what issues should be investigated.
+
+So, firstly, healthcare outside hospital. The hospital setting, while of course is very important, should not be given disproportionate attention in this module. It's important to also investigate the impact of Covid and the response to it on healthcare outside hospitals and to consider healthcare holistically across the range of relevant contexts. Healthcare is provided in hospitals, but also in GP surgeries, by community care, at home, in residential care, in hospices and in a number of other settings. As the NHS Constitution for England states, at 5:
+
+"The NHS works across organisational boundaries ... The NHS is an integrated system of organisations and services bound together by the principles and values reflected in the Constitution. The NHS is committed to working jointly with other local authority services, other public sector organisations and a wide range of private and voluntary sector organisations to provide and deliver improvements in health and wellbeing."
+
+We submit that that approach again should be reflected in the Inquiry. An investigation which encompasses healthcare outside the hospital is important for two key reasons.
+
+Firstly, non-hospital healthcare involves critical services which are provided to a very large number of people. For example, the NHS provides some 95 million contacts in community services each year. Restricted access to community services for many meant that non-Covid-related health needs were left unidentified and untreated and this led to serious illnesses and deaths.
+
+The second reason is that healthcare outside hospital raises specific and different issues with respect to Covid and the response. To take some broad and basic examples, the risks of Covid infection were different outside hospital. Effective infection prevention and control measures were different, and the dangers of not providing non-Covid healthcare and treatment were also different.
+
+We note that a number of other CPs have made similar submissions to this for the purpose of this hearing, including the British Medical Association at paragraph 28, and CATA, paragraphs 3.1 to 3.2, which we endorse.
+
+The next additional issue is regulation and oversight. Issue 2 in this module's provisional list of issues is core decision-making and leadership. We urge the Inquiry to include within this the way in which systems for complaints, regulation and oversight of healthcare operated during the pandemic. Those systems were suspended or otherwise hugely disrupted. It's difficult to see that that was appropriate, since regulation and oversight were no less important during a pandemic and this ought to be examined.
+
+The third additional issue is end of life healthcare or other care. Palliative care for patients with Covid-19 in acute hospitals is issue 5(b) within the list of issues for this module. It's unclear whether other forms of end of life or palliative care are covered. These are important topics that were overlooked during the pandemic and which ought, we say, to be covered at some stage by this Inquiry.
+
+There are a number of issues of public concern in this area, which include the following four:
+
+First, the lack of end-of-life care for non-Covid conditions, a lack of end-of-life care for any condition outside of acute hospitals. This left many people to die alone and without support.
+
+The second issue of concern, the reasons for the lack of end-of-life care, these may include entrenched systemic inadequacies and that older and disabled people were considered to be expendable.
+
+The third issue, restrictions on visits from carers and loved ones.
+
+And fourthly, whether those delivering palliative care outside hospitals were provided with sufficient PPE and other support.
+
+So we invite the Inquiry to make clear that it will investigate these issues at some point and we also invite it to consider calling expert evidence on end-of-life care. This may be obtained from the Cicely Saunders Institute at King's College London, and in particular from Professor Irene Higginson, and we'll forward a copy of her CV to the Inquiry so it may be considered.
+
+The fourth and final additional issue is that we agree with Mr Weatherby King's Counsel in urging you to include preparedness for health and social care within this module.
+
+The next topic is spotlight hospitals. While this is a potentially useful aspect of this investigation, we submit that it should not be exclusive and should not preclude a full and proper investigation of the relevant systemic issues by other means.
+
+CTI's note for this hearing at paragraph 9 appears to recognise this and that this won't be exclusive, but to give an example, topic (h) in paragraph 13 of CTI's note is visiting restrictions. One of the concerns of the CPs who I represent is that visiting guidelines were interpreted and applied very differently between different hospitals and other healthcare settings. In some places they were applied very restrictively and this led to serious harm. Some examples of this are set out in our witness statement, paragraphs 37 to 39.
+
+Now, while this might be examined to a degree by the spotlight hospital process, it's unlikely to be fully understood by that route, so we submit other evidence is necessary in order to fully investigate it.
+
+Now, this morning Ms Carey King's Counsel appeared to suggest that evidence will not be taken from patients or their families in respect of the spotlight hospitals, only staff. Now, if I've interpreted that correctly, then we would object to that approach. For the reasons I gave at the start, we submit that it's very important that evidence is taken from patients. Without that lived experience, the perspective from spotlight hospitals will be one-sided and will overlook key issues.
+
+The next topic is mental health. As to the investigation of adult mental health by this Inquiry, the November 2023 update note stated that, while this won't be examined in this module, Module 3, it will be investigated in another module or other modules.
+
+It's not clear which module will examine this important issue, or why it doesn't fit most obviously within this module, and that's why I'm raising this again now.
+
+We respectfully submit that it is important that adult mental health is investigated. The pandemic response restrictions on visits, for example, had a very severe impact on those with psychiatric problems in hospitals or otherwise. Mind's submissions for this hearing give some examples of this at paragraph 19, and our witness statement gives other examples. Mental health healthcare is an integral part of the broader healthcare system and we agree with Mind that, as a consequence, it should fall within this module. In any event, we respectfully invite the Inquiry to confirm in which module this will be investigated.
+
+The next topic is further evidence. We make six suggestions for further evidence, whether this comes from experts or from other witnesses who are able to help. This is set out in detail in our written submissions, so I'll just briefly summarise and add a few additional points, if I may.
+
+So firstly, the use of do not resuscitate or do not attempt CPR notices. This is issue 6(b) within the provisional list of issues for this module. There is evidence that these notices were issued on a very wide scale on an inappropriate basis, that is without consulting the person and/or their representative, and it's arguable that there were broad systemic issues behind this, for example age, disability or other discrimination, or at least that there were inadequate local or national guidelines. The examination of this issue we say would benefit from a witness, again not necessarily an expert witness, but someone who can digest and summarise the complex evidence as to how these notices were used inappropriately across a broad range of settings and can help identify whether there were systemic flaws behind that misuse.
+
+The second new area of evidence is access to healthcare outside NHS premises. CTI's note indicates that Professors Snooks and Edwards will examine a number of aspects of healthcare outside hospitals and we welcome that. Ms Carey King's Counsel has partly dealt with this earlier today concerning mental health, but we invite this Inquiry to make clear that it has instructed the professors to include healthcare provision in as full a range of settings as possible outside hospital, so including community settings, in people's homes, care settings and so on. As touched upon above, there were specific and different issues of concerns applicable to healthcare outside NHS premises.
+
+The third area of evidence, the clinically extremely vulnerable population. This population is covered by issue 11 on the Inquiry's list of issues. We invite the Inquiry to obtain evidence, potentially expert evidence, about certain subissues within this point, namely (i) whether the conditions which were considered to be extremely vulnerable were appropriately categorised as such; (ii) whether the restrictions on access to healthcare and other matters which resulted from this categorisation were proportionate; and (iii) whether alternative but less onerous means of protecting these individuals from Covid should have been adopted.
+
+The fourth area of additional evidence is access to and impact on healthcare services for those with learning disabilities and cognitive impairments. Again, Ms Carey has touched upon this this morning. The pandemic response had a particular and severe impact on people with learning disabilities and cognitive impairments, for example with dementia, not least in accessing healthcare. People with learning disabilities were around eight times more likely to die during the pandemic. This isn't a peripheral healthcare issue; it is central.
+
+There are a number of specific and discrete issues of concern which govern this group which, we respectfully submit, ought to be investigated in this module. They include lack of access to familiar caregivers and widespread failure to make reasonable adjustments to ensure that this group of people could access healthcare. We therefore invite the Inquiry to consider investigating this issue and with that in mind we suggest an expert who would be able to help do so, Dr Emma Wolverson, clinical psychologist and reader in ageing and dementia at the University of Hull, and again we'll forward a copy of her CV to the Inquiry.
+
+The fifth area of evidence, carers in healthcare, we submit that this module ought to examine the critical and inseparable role of carers, including family carers in healthcare. Given the specific and often overlooked role that they played, this module may benefit from expert evidence about unpaid carers in the NHS.
+
+Then the sixth area of additional evidence is nosocomial transmission in hospitals. This falls within issue 8 in the Inquiry's list of issues, and we invite the Inquiry to consider whether expert evidence would assist in respect of this issue, particularly in relation to certain specific topics that are set out in our written submissions.
+
+The final two areas of -- topics I'd like to cover are, firstly, cross-module issues, so issues which cut across two different modules or more. NHS have invited the Inquiry to clarify how issues which cut across more than one module will be examined and where the dividing lines are. An example is the DNACPR issue.
+
+Now, if the Inquiry will do as NHS England asks, we invite it to bear in mind that in a number of ways health and social care are inseparable, and this means that for some cross-cutting issues it's not proper to investigate the issue in isolation in each setting. Do not attempt CPR as an example, it appears that the bodies/systems and other factors that are responsible for the widespread misuse of these forms are inseparable and it's therefore necessary in order to properly understand this issue to consider it across the whole range of health and social care settings.
+
+Some other issues, however, might be investigated separately in more than one module. End-of-life care is an example. It appears that this Inquiry intends to investigate it in both Module 3 and Module 6, and we endorse that approach, given that those who are responsible for it and for the issues are broadly separable. However, we would invite the Inquiry to maintain a degree of flexibility in light of the evidence which is obtained.
+
+The last brief point, if I may, is that in -- concerns expert questions and instructions. In Module 6 this Inquiry has decided that it will provide to core participants the questions it gives to experts. There are obvious good reasons for doing so, which we've set out in the past. We respectfully invite this module to reconsider its position and to take the same approach as will Module 6.
+
+My Lady, unless there is anything else, those are our submissions.
+
+**Lady Hallett**: Thank you very much, Mr Straw, very grateful.
+
+Ms McCabe.
+
+Submissions on Behalf of Clinically Vulnerable Families and 13 Pregnancy, Baby and Parent Organisations by Ms Mccabe
+--------------------------------------------------------------------------------------------------------------------
+
+**Ms McCabe**: My Lady, yes, thank you very much.
+
+I act with Adam Wagner and Rosa Polaschek on behalf of two core participants. The first is Clinically Vulnerable Families and the second is 13 Pregnancy, Birthing and Parent Organisations. We are instructed by Slater and Gordon solicitors on behalf of both, and I have Shane Smith in attendance with me today.
+
+My Lady, on behalf of the 13 Pregnancy, Birthing and Parent Organisations I have no substantive submissions to make at this hearing, save to say we're very grateful for the updates from Ms Carey King's Counsel this morning, in particular the Inquiry's aim for disclosure to be complete by the end of June or early July, bearing in mind the school holidays, and also to say that the Pregnancy, Birthing and Parent Organisations are working hard to identify suitable individuals to provide impact evidence to the Inquiry, and they were very grateful to be asked to do so.
+
+My Lady, on behalf of Clinically Vulnerable Families, who I will refer to as CVF, there are five topics I wish to address today.
+
+The first, my Lady, is the inclusion of the clinically vulnerable and clinically extremely vulnerable as a separate equality group.
+
+My Lady, this is a submission which was made by Mr Wagner at the last preliminary hearing, but it's an issue that CVF feel particularly strongly about, and no ruling was made on it, so they have asked me to repeat the submission today.
+
+My Lady, the pandemic, as you'll be aware, had and continues to have a distinct impact on clinically vulnerable people. They remain at higher risk of severe disease from Covid-19 and they've had to make difficult choices about the extent to which they can participate in all facets of public life since public health measures have been withdrawn.
+
+CVF's core concern, my Lady, is that the distinct impact on the clinically vulnerable was insufficiently considered throughout the pandemic, and at present they feel that the clinically vulnerable as a group have practically been forgotten, within the healthcare system but also in wider society.
+
+CVF are therefore keen to ensure that this very serious oversight is not repeated in the Inquiry, and so, in that context, CVF's overarching submission is that the Inquiry must consider clinically vulnerable people with an appreciation of their distinct interests in this module and that it must specifically bear clinically vulnerable people in mind when investigating the healthcare response to Covid-19.
+
+Now, your Ladyship will recall that the Inquiry's terms of reference include an obligation to consider any disparities evident in the impact of the pandemic on different categories of people, and the terms of reference make clear that those categories include but are not limited to those relating to protected characteristics under the Equality Act. So evidently the scope of the categories of people is within the Inquiry's discretion.
+
+My Lady, the Inquiry's equalities and human rights statement on the website currently states that when investigating unequal impact among different groups, the characteristics which will be considered are: groups with protected characteristics, geographical differences, social economic background, occupation and immigration status.
+
+While those are all hugely important groups, CVF were disappointed to see that the clinically vulnerable are not identified as a relevant group or characteristic within that statement, notwithstanding the submissions made on their behalf at the last hearing.
+
+So CVF therefore repeat their submission that the equalities and human rights statement should be amended to add clinical vulnerability to Covid-19 to the list of characteristics which will be considered by the Inquiry when investigating unequal impact among different groups or populations.
+
+Whilst this may appear to be a fairly small step by the Inquiry, CVF submit that amending that statement would be a tangible demonstration of the clinically vulnerable's important place within this Inquiry and will ensure that the mistake of overlooking this group is not repeated in the Inquiry as it too often was during the main phases of the pandemic.
+
+My Lady, my second topic is reasonable adjustments at the substantive hearing in the autumn. CVF are exceptionally grateful to the Inquiry's operations team for the steps taken to enable their in-person participation at preliminary hearings to date. Your Ladyship may be aware that CVF has been engaged in correspondence with the operations team in respect of appropriate reasonable adjustments which will allow CVF members to attend and fully participate in the substantive hearings.
+
+CVF does acknowledge that online attendance at those hearings is possible. However, they're very keen for CVF members to have safe access to the physical space if at all possible and they remain concerned that this will not be possible as matters stand.
+
+CVF will continue to liaise with the operations team in respect of this, and they sincerely hope that a creative solution will be identified to enable their full participation in the substantive hearing.
+
+My Lady, my third topic, expert evidence.
+
+From CVF's perspective, the Inquiry must ensure that it has the evidence necessary to properly consider the impact of the pandemic on clinically vulnerable people as a key demographic. With that in mind, they have two brief points to raise.
+
+The first is a point of clarification on the current expert evidence. CVF are very grateful for the Inquiry's confirmation that some of the experts already instructed will address the challenges faced by the clinically vulnerable. In particular, Professor Snooks and Professor Edwards' report on primary care and emergency pre-hospital care will address issues around the shielding programme. They were very pleased to learn that.
+
+But in addition to the points which were summarised today, which will be addressed by Professor Snooks and Professor Edwards, the Inquiry is invited, if it has not already done so, to instruct those experts to specifically consider the long-term effects of shielding on all shielding people, but in particular, my Lady, the psychosocial effects of shielding. CVF's very strong view, which is supported by its members' lived experience, is that the psychosocial impact of shielding is just as important as any other long-term effect, and that must be addressed in that evidence for the Inquiry to have a full understanding of the shielding programme.
+
+My second point on expert evidence is simply to endorse the submissions made by -- some of the submissions made by the John's Campaign core participant group, and specifically on the instruction of a specific expert in respect of the clinically extremely vulnerable population, albeit if that request is granted CVF would want to feed into the contents of the instructions, and CVF also endorse John's Campaign's submissions in respect of obtaining an expert in respect of hospital-acquired transmission of Covid-19, especially airborne hospital-acquired transmission. So CVF ask that the Inquiry seriously considers those requests.
+
+My fourth and penultimate topic, my Lady, is the importance of Module 3 addressing the impact of Covid-19 on children's experiences of healthcare. CVF have already noted that there is no explicit reference to children in the provisional scope of Module 3, and they are of course aware that there is a separate module upcoming on education and children. However, that does not, in CVF's submission, distract from the need to consider children's particular and distinctive experiences of healthcare as part of Module 3.
+
+We note what was said by Ms Carey King's Counsel this morning in respect of Professor Edwards and Professor Snooks' report specifically, but notwithstanding that, CVF submit that the impact of Covid-19 on children's experiences of healthcare, including clinically vulnerable children, and the impact of shielding or not shielding on clinically vulnerable children, fall within the scope of Module 3, and would be grateful for confirmation of that from the Inquiry.
+
+If the Inquiry does not propose to consider those issues within the purview of Module 3, then CVF seek confirmation of whether they'll be considered in the forthcoming separate module on children.
+
+My Lady, finally, some brief observations on the submissions made by other core participants in respect of spotlight hospitals. CVF hear what was said in respect of that this morning. They do echo the concerns about a rose-tinted corporate view, but they will review the statements with interest when they are disclosed. And, briefly, CVF endorse a specific submission made by Covid Bereaved UK at paragraph 13 of their written submissions, which is that -- the concern that a focus on a very limited number of spotlight hospitals may be at the expense of consideration of wider systemic issues that were faced by the population, for example differences between NHS trusts in respect of their approach to DNACPR and the Covid-19 decision support tool, which is of particular concern to CVF.
+
+My Lady, unless I can assist further, at 3 minutes to 1, those are my submissions on behalf of CVF.
+
+**Lady Hallett**: Excellent timing, Ms McCabe. Thank you very much indeed for your submissions.
+
+Break now? Right, we shall break now and I shall return at 2 o'clock.
+
+*(12.57 pm)*
+
+*(The short adjournment)*
+
+*(2.00 pm)*
+
+**Lady Hallett**: Right, Ms Hannett? Ah, you're there.
+
+Submissions on Behalf of Long Covid Kids, Long Covid Physio, Long Covid SOS and Long Covid Support by Ms Hannett KC
+-------------------------------------------------------------------------------------------------------------------
+
+**Ms Hannett**: I appear on behalf of the four Long Covid groups, Long Covid Kids, Long Covid SOS, Long COVID Physio and Long Covid Support.
+
+I'm assisted by Ms Iengar and Ms Sivakumaran, and I'm instructed by Jane Ryan of Bhatt Murphy Solicitors.
+
+The Inquiry has our written submissions. I propose to focus on key issues for our clients. That focus is not intended to diminish the importance of the remaining points raised in our submissions, but the Inquiry has them and will no doubt consider them with care.
+
+With that in mind, I propose to make submissions on five broad topics: first, the scope of Module 3; second, the Rule 9 process to date; third, disclosure; fourth, the length of the hearing; and fifth, the timetable for the Inquiry's recommendations.
+
+The first topic, my Lady, is a request for clarification as to the scope of Module 3 in three respects. These points are set out in paragraphs 5 to 16 of our written submissions, but in summary are as follows.
+
+The first point of scope is that the Long Covid groups seek a clarificatory ruling as to where the impact of vaccines on Long Covid will be investigated, and whether that is to be in Module 3 or in Module 4. There is evidence that vaccines both reduce the severity of existing Long Covid and reduce, albeit not wholly prevent, new cases of Long Covid developing. These are matters that must be explored by the Inquiry, not least because people continue to suffer from Long Covid and its effects.
+
+My clients made submissions at the last preliminary hearing asking for confirmation that these issues would be considered in Module 3, given the Inquiry's decision to refuse them core participant status in Module 4, and that the reasons for that refusal included the point that the characterisation and identification of post-Covid condition, including Long Covid, and its diagnosis and treatment, falls within Module 3.
+
+The Long Covid groups note the distinction drawn in the second preliminary hearing ruling between the development of therapeutics up to the point of use, a matter for Module 4, and the use of therapeutics, a matter for Module 3, but respectfully ask that it put be beyond doubt in your ruling on preliminary hearing 3 that Module 3 will include an examination of the impact of vaccinations on Long Covid.
+
+That's the first point of scope, my Lady.
+
+The second point of scope is a request for confirmation that the Inquiry will consider the economic impact of Long Covid on healthcare workers, in particular on their ability to continue working and the consequential financial impacts and, further, that the Inquiry will investigate the impact on healthcare workers of the decision not to designate Long Covid as an occupational disease.
+
+My Lady, you ruled at the last preliminary hearing that issues relating to the designation of Covid-19 as a disability and the creation of a compensation scheme were out of scope, but these are two separate points, my Lady. As to the economic impacts, the Long Covid groups maintain that a proper focus on the physical health and wellbeing of healthcare staff, as required by issue 7(a), necessarily includes an examination of the wider economic impacts for healthcare workers who contracted Covid-19 and who developed Long Covid.
+
+Similarly, that Long Covid was not recognised as an occupational disease has implications for issue 8(d), namely RIDDOR reporting requirements for healthcare workers. The RIDDOR regulations prescribe the occupational diseases which must be reported. Long Covid is not one of them. There is evidence as to the under-reporting of workplace Covid-19 via RIDDOR already before the Inquiry, both from the Scottish TUC and the Health and Safety Executive, and indeed the Health and Safety Executive witness statement notes that as of 31 October 2023 only 36 RIDDOR reports for Long Covid had been received.
+
+In the absence of a designation of Long Covid as an occupational disease, trusts are left with a discretion as to whether to report or not, and we say it's artificial to look at RIDDOR reporting but not to look at the decision-making around whether or not Long Covid should be designated as an occupational disease, and we say this is key to making proper recommendations as to the prevention of the spread of Covid and an understanding of how best to manage workplace safety.
+
+For these reasons we ask that the Inquiry make clear that both of these points, economic impact and Long Covid as an occupational disease, are in the scope of Module 3.
+
+The final point of scope concerns the manner in which the Inquiry will investigate the barriers to patients, both adults and children, accessing Long Covid services and clinics and the variation in the quality of those services.
+
+The Long Covid groups will in due course invite the Inquiry to make findings as to the adequacy of those services and recommendations as to how they could be improved, and we ask now for clarification as to how evidence to address these issues will be obtained.
+
+One possibility, as we suggest in our written submissions, would be to apply an equivalent approach to Long Covid clinics as that being applied to spotlight hospitals. We note the submissions of Counsel to the Inquiry this morning about the lack of need or lack of perceived need to expand the spotlight hospital approach to other services, given the totality of the evidence, but we say that equivalent evidence does not appear presently to be before the Inquiry in respect of Long Covid services and we ask the Inquiry to give that some further consideration.
+
+In summary, on the first topic of scope, the Long Covid groups say that all three points are fundamental to the proper investigation of Long Covid in the healthcare system. They ask, first, the Inquiry to confirm that they will be dealt with in Module 3, and if not, for the Inquiry to confirm in which module they will be addressed.
+
+My Lady, that's the first topic.
+
+The second topic concerns the Rule 9 process and we address this in paragraphs 18 to 21 of our written submissions. Two key points arise on which I wish to address you in oral submissions.
+
+First, the Long Covid groups understand that necessarily the Inquiry will focus on the healthcare response at a relatively high level, but the detail does, in our submission, remain important, and we regret to note that the witness statements disclosed to date that address Long Covid provide evidence at such a high level of generality that no meaningful conclusions can be drawn from them.
+
+So, for example, it appears that none of the Rule 9 recipients have been specifically asked to comment on Long Covid in children. As a result, none of the witness statements disclosed to date make reference to this, even the statement from the Royal College of General Practitioners and the statement from Public Health Scotland, and we also note that morning that Counsel to the Inquiry confirmed that the expert report on pre-hospital care will not comment on children's access to healthcare.
+
+For the avoidance of doubt, we don't accept that those kinds of gaps can properly be plugged by the use of the Rule 10 process. There is limited time for the hearings, which will inevitably limit the number and scope of the Rule 10 questions that can be asked. Further, these aren't points of clarification. They rather reflect a broader need for evidence to be sufficiently detailed in the first place, and indeed we note Counsel to the Inquiry's reminder this morning that pre-Rule 10 questions need to be proportionate and focused.
+
+The Long Covid groups do wish to assist the Inquiry in this respect and to this end we will continue the correspondence that has been started directly with the Inquiry's legal team with suggestions of where further detail is required.
+
+The second key point, my Lady, on the Rule 9 process concerns Rule 9 statements for the spotlight hospitals. We join cause with many of the other core participants to note that these must go further than just the chief medical officer or equivalent. In particular, my clients invite the Inquiry to seek evidence from a range of frontline healthcare workers, including those privately contracted by the NHS in the spotlight hospitals.
+
+My clients welcomed Counsel to the Inquiry's clarification this morning that the evidence sought from spotlight hospitals includes a number of workers suffering from Long Covid and the varying methods of support offered by hospitals, and further we welcome the clarification that the issues raised include problems with the physical condition of the estate, infection protection and control guidelines, narrow corridors and poor ventilation.
+
+We note Counsel to the Inquiry's assurance that they're satisfied that the evidence obtained is not rose-tinted but we are concerned there's a real risk this approach may lead to not providing a balanced evidential picture of the issues that affect affected healthcare workers. The Inquiry will only have one side of the picture, and it's unclear how that evidence will be tested.
+
+So we therefore repeat our request for the Inquiry to expand their request of the spotlight hospitals beyond one individual statement and to seek evidence from a variety of sources, such as patient groups, professional bodies and trade unions, so that core participants may be satisfied that the Inquiry is receiving a balanced picture.
+
+Further, in this respect, we endorse the submissions made this morning by Mr Weatherby that the evidence sought from spotlight hospitals should include preparedness. Questions around applicable national planning, infection protection and control, testing, staffing and support for healthcare workers are of central concern.
+
+As we outline in our written submission, the Long Covid groups' experience is that of a healthcare system unprepared to protect healthcare staff from developing Long Covid and unprepared to manage and support healthcare staff who suffered from Long Covid.
+
+My Lady, the third topic concerns disclosure. We have dealt with this in paragraphs 22 to 23 of our written submissions. We welcome the significant amount of disclosure that the Inquiry has provided to date, but, again, we join cause with the other core participants in noting that it remains imperative that the reminder of the witness statements are provided with sufficient time to allow the Long Covid groups and the other core participants sufficient time to prepare properly for the Module 3 hearing.
+
+To this end we invite the Inquiry to do two things. First, to ensure that most or all of the disclosure is received by the end of June 2024 at the latest, and we welcomed the comments of Counsel to the Inquiry this morning to that end. But, second, to provide a timetable or roadmap now indicating when particular witness statements and underlying material are likely to be provided, to enable both my clients and other core participants to properly prepare and marshall their resources.
+
+My Lady, the fourth topic concerns the length of the hearing. We address this in paragraph 24 of our written submissions. Again, like other core participants, we are concerned about the adequacy of the 40-day allocation for the Module 3 hearing, and in particular the Long Covid groups note the importance of there being a sufficient exploration of Long Covid, not least because people continue to contract Long Covid and suffer its avoidable impacts.
+
+We say that the current timetable gives rise to a real risk of there being insufficient time to ensure Long Covid receives the focus it requires, and we respectfully ask the Inquiry to keep the timetable under review and to monitor, in the light of the evidence that's received, whether it remains satisfied that Long Covid issues, amongst others, can be fairly and thoroughly undertaken within Module 3 in the scheduled time period.
+
+If Long Covid cannot be dealt with fully in the current Module 3 timetable, including the matters of scope that I began these submissions with, the Inquiry is asked to consider whether Long Covid should be dealt with in a separate freestanding module, as suggested by the Royal College of Nursing.
+
+My Lady, my fifth and final topic concerns the Inquiry's recommendations. My clients welcome your recommendation for a monitoring process, including that the institutions responsible for implementing the recommendations should respond within six months. The recommendations are urgent, and have immediate and ongoing relevance, given that people continue to contract Long Covid.
+
+In conclusion, the Long Covid groups look forward to assisting the Inquiry in the Module 3 hearing, but unless I can assist you further, my Lady, those are the submissions on behalf of the Long Covid groups.
+
+**Lady Hallett**: Thank you very much for your help.
+
+Right, who is next? Ms Sen Gupta. There you are, hiding at the back.
+
+Submissions on Behalf of the Frontline Migrant Health Workers Group by Ms Sen Gupta KC
+--------------------------------------------------------------------------------------
+
+**Ms Sen Gupta**: My Lady, I am.
+
+My Lady, I appear on behalf of the Frontline Migrant Health Workers Group, together with my learned friend Piers Marquis. We are instructed by the Public Interest Law Centre. The group is comprised of United Voices of the World, Independent Workers' Union of Great Britain, and Kanlungan Filipino Consortium.
+
+We take this opportunity to highlight briefly some of the points made in our written submissions. We've divided up our oral submissions into those on the substance of the evidence your Ladyship ought to hear as part of Module 3, and those on process and procedure in respect of the public hearings listed to begin in September and timely preparation for those hearings.
+
+In relation to substance, I address our proposals in relation to, first, the scope of the expert evidence; second, the scope of the evidence from spotlight hospitals; and, third, the scope of the issues in Module 3.
+
+In relation to process, we note CTI's helpful update on disclosure, for which we're grateful. I will briefly touch on, first, the need for position statements from state CPs; second, the length of the public hearings; and, third, the need for restriction orders for vulnerable witnesses, as appropriate.
+
+My Lady, turning then first to substance and expert evidence.
+
+As your Ladyship is aware, one of the systemic issues of particular concern to our clients is the impact of outsourcing on the NHS in the context of the pandemic. This is about the use of contract workers as well as NHS employees within NHS hospitals. For the avoidance of any doubt, it is not about the use of private hospitals. The Inquiry has received our separate written representations that your Ladyship and CPs would be assisted by the instruction of an expert in this area.
+
+There have been significant concerns raised from within the NHS about the impact of this outsourcing on the healthcare system and those working in it, in particular with regard to unfavourable contract terms, working conditions and the overall impact on healthcare efficiency.
+
+Clearly, we submit, this is all highly pertinent to Module 3's scope. We submit that your Ladyship and the Inquiry would be greatly assisted by instructing such an expert, and invite your Ladyship's ruling in this regard.
+
+Second, spotlight hospitals.
+
+We submit that evidence from the spotlight hospitals should not be limited to senior managers. Evidence should also be obtained from frontline staff in both clinical and non-clinical roles, including those in outsourced positions and migrant workers with employment-dependent visas. They ought to be heard, given the crucially important role they played during the pandemic.
+
+Further, we have identified in our written submissions some particular points which we submit should be covered and we have explained why we say that is the case. I need not repeat those submissions orally, and refer your Ladyship to them.
+
+Third, on substance, we support the submissions of Mind and FEMHO and the John's Campaign CP group on the need for access to adult mental health services to be included as a key area of examination in Module 3. The impact of the pandemic on mental health generally and the mental health of our clients' members in particular was extremely significant. Your Ladyship and CTI have already reflected this at paragraph 7(b) of the provisional list of issues, for which we're grateful.
+
+Our clients' members carried the stress of an understaffed healthcare system and worked through their fear, uncertainty and exhaustion to provide essential services in the pandemic response. The trauma of working on the frontline of a pandemic, unprotected both physically and contractually, cannot be understated. The consequent impact on the ability of the healthcare systems to respond to the pandemic, as a result of health workers' declining mental health, is paramount to the task at hand in this module. Examination of the impact of the pandemic on healthcare ought, we respectfully submit, to include an examination of the impact on access to adult mental health as well as treatment for physical health conditions.
+
+My Lady, process.
+
+First, position statements from state CPs.
+
+We invite your Ladyship to direct that the state CPs prepare and submit position statements in advance of the public hearings in order that CPs have sufficient notice of their respective positions and are able to prepare accordingly.
+
+Second, length of the public hearings.
+
+Like many other CPs, we are concerned that ten weeks will not be enough for the public hearings, given the breadth of this module, though we note what CTI has said in this regard.
+
+Third, and finally, restriction orders for vulnerable witnesses.
+
+Many of our groups' members are in precarious employment or have leave to remain directly tied to their employment. They are thereby exposed to potential repercussions should they provide impact evidence to your Ladyship on systemic failures.
+
+They have important evidence to give to your Ladyship. By way of example, one staff nurse worked on the Covid and non-Covid wards from the outset of the pandemic, she contracted Covid at work and had to be signed off after developing Long Covid. She raised concerns about PPE early in the pandemic and was ignored and reprimanded by senior managers. She witnessed discriminatory treatment of Filipino and other BAME and migrant staff in the hospital. She has not received adequate support from her employer since being diagnosed with Long Covid.
+
+By way of further example, we refer to two outsourced cleaners. During the pandemic, they raised concerns that they were being instructed to work on Covid wards without adequate training and without prior warning of contamination risk. There was also a notable lack of PPE, lateral flow tests, and access to vaccinations. They were given no time to wash or disinfect themselves before being sent to clean other non-Covid wards.
+
+They raised additional concerns that cleaners who contracted Covid-19 were not paid when self-isolating. This had led to outsourced cleaners who were unable to afford the unpaid sick leave, continuing to work whilst unwell. They did not have access to Covid-19 vaccinations, whereas the directly employed NHS hospital cleaners did. The vaccination programme appeared to function as a two-tier system which treated employees as more important than outsourced staff, despite their shared risk of exposure. It was only through pursuing a grievance process with the hospital that IWGB was able to secure vaccinations for these workers.
+
+We request that your Ladyship hears impact evidence from these vulnerable individuals and we request that these vulnerable individuals are suitably protected from their further public service in giving such evidence to your Ladyship's Inquiry by restriction orders as appropriate.
+
+My Lady, in conclusion, we're very grateful to your Ladyship and to the Inquiry team for all your considerable dedication to this module. We will continue to assist the Inquiry in whatever ways we can.
+
+Those are the submissions of the Frontline Migrant Health Workers Group. My Lady, unless I can be of any further assistance.
+
+**Lady Hallett**: Thank you very much indeed for your help, Ms Sen Gupta, very grateful.
+
+I saw the lectern arrive in good time. You're obviously very ready to go, Mr Odogwu, thank you.
+
+Submissions on Behalf of the Federation of Ethnic Minority Healthcare Organisations by Mr Odogwu
+------------------------------------------------------------------------------------------------
+
+**Mr Odogwu**: Thank you, my Lady. I represent the Federation of Ethnic Minority Healthcare Organisations and will use the shorthand of FEMHO in my oral submissions.
+
+As you will be aware, FEMHO is a large consortium of black, Asian and minority ethnic healthcare workers. Our members were on the frontline and behind the scenes throughout the pandemic, working tirelessly under brutal pressures and conditions across the UK to support the public health services.
+
+A striking feature of the Covid-19 pandemic was the disproportionate impact on healthcare workers. Many of our members lost their own lives, colleagues, friends, family and loved ones whilst suffering from physical and mental burn-out because of the conditions they were required to work in.
+
+According, my Lady, FEMHO provides the Inquiry with a unique and pivotal voice on the impact of the pandemic on healthcare systems and staff.
+
+Your Ladyship will have received our written submissions and I don't propose to repeat the same in my oral submissions.
+
+My submissions today will focus on four main topics: first, scope; second, the Rule 9 requests and disclosure; third, expert and impact witnesses; and fourthly, public hearings.
+
+Dealing firstly with scope.
+
+The Inquiry had previously indicated that a revised list of issues would be provided in the spring of 2024. It is now being suggested that a second draft will be made ready for the end of May. Any further delay in the provision of the revised list of issues is likely to be counterproductive, given the tight timeframes we are already under. It is also unnecessary.
+
+We say respectfully there are obvious omissions from the provisional list of issues that ought to be immediately addressed. FEMHO stands firmly behind its submissions made at previous preliminary hearings that the examination of race inequality, both in terms of impact and root causes, should be explicit in the list of issues.
+
+We know your Ladyship has demonstrated already in this Inquiry a recognition of the importance of the issue of discrimination and inequality. It is therefore surprising to my clients that there has been no direct response from the Inquiry to those submissions.
+
+The list of issues as presently drafted make no reference to -- specifically to the issue of race inequality, and this can be contrasted with the specific references to inequalities in relation to other vulnerable groups, for example those relating to age and disability.
+
+A comprehensive investigation into the impacts of Covid-19 on the healthcare system must include a thorough consideration of race inequality. It is important that this is officially acknowledged in the list of issues. In order to assist your Inquiry, we submit the revised list of issues should include the following five issues:
+
+(1) Whether and if so how structural inequalities influenced the capacity of the healthcare systems and workers.
+
+(2) Socioeconomic factors such as the impact of poverty, discrimination and social exclusion.
+
+(3) Specific challenges faced by ethnic minority healthcare workers including inadequate access to PPE and occupational health support, and increased exposure to the virus due to high risk clinical roles.
+
+(4) The impact of government policies and decisions or lack of them on black and minority ethnic people in the healthcare system.
+
+(5) Engagement and consultation and inclusion with black, Asian and minority ethnic communities and healthcare workers in the development of policies or interventions.
+
+We echo calls made by other core participants for greater clarity on the remit of healthcare within Module 3. We urge the Inquiry not to narrow its focus purely on hospitals, and instead take an expansive view that encompasses primary and community care services.
+
+Finally, in respect to scope, we support the submissions made by the Long Covid groups. FEMHO's membership includes a cohort suffering from Long Covid after occupational exposure, some of whom have had profoundly negative consequences and experiences in obtaining support and adjustment from their employers.
+
+We share the view that the scope of Module 3 should include an examination of how healthcare staff who developed Long Covid as a result of their occupational exposure have or have not been supported.
+
+The second issue is Rule 9 requests and disclosure.
+
+FEMHO welcomes the Rule 9 requests to the spotlight hospitals and notes what was said this morning. We have, though, three observations about the gathering of evidence on what was happening on the ground during the pandemic.
+
+First, a point that has been advanced by other core participants, we consider that the Inquiry would benefit from carrying out a similar exercise in gathering information from a range of primary care services and not just hospitals. We note CTI's observations that evidence already gathered means this isn't necessary. We would suggest the spotlight approach that we encourage you to adopt would ensure the Inquiry hears from a range of people, including GP surgeries, mental health facilities, ambulance trusts and other frontline community healthcare centres.
+
+Second, we are concerned that the Rule 9 requests have been sent to the chief medical officers or equivalent roles, and we therefore echo the other submissions made by core participants in this regard.
+
+We do note Ms Carey's submission this morning that requests specifically ask that the statement be provided by an appropriate person or individual. It is imperative that the spotlight hospitals take an open and transparent approach to their responses, and defensive corporate statements from members boards responsible for particular hospitals would undermine the integrity of this approach.
+
+The Inquiry should ensure evidence is obtained from a full range of personnel in the hospital and primary care settings, including frontline workers. The responses should reflect the experiences of healthcare workers across the different levels and areas within the individual hospitals and be candid in acknowledging any issues and negative experiences that were encountered.
+
+Third, whilst we are grateful to the Inquiry in sharing the summary of topics that were covered in the spotlight hospital requests, we are concerned about the absence of specific references to evidence regarding the impact of treatment on vulnerable groups, and in particular black and Asian, minority ethnic healthcare workers.
+
+In our submission, the Rule 9 requests ought to include topics specifically addressing racial inequalities, including but not limited to whether appropriate and effective risk assessments were carried out in the deployment of black, Asian and minority ethnic healthcare workers, the extent of any diversity within the leadership, disproportionality in decisions regarding re-deployment of staff into red zones or other high clerical(sic) risk areas, and, finally, whether concerns regarding PPE access and suitability were raised and appropriately addressed.
+
+In relation to the wider disclosure process, whilst acknowledging the constraints caused by delays in material provider provision to the Inquiry team, we remain concerned as to the progress with onward disclosure of material to the core participants.
+
+We have our full submissions set out at paragraphs 3.1 to 3.3 in our written submissions and note what was said earlier. We simply stand behind those submissions and echo calls from other core participants on this point.
+
+Thirdly, my Lady, expert and impact evidence.
+
+The Inquiry's commitment to placing possible inequalities at the forefront of this investigation is of particular importance to FEMHO in this module, as this is where we say the impact of inequality cuts the sharpest.
+
+In line with that commitment, expert evidence on racial inequality on all aspects of healthcare and disproportionate outcomes should be obtained for Module 3. This should look at both patients and staff. We fully endorse and support the submissions made on behalf of the Bereaved Families for Justice group, that there is a need for further healthcare-specific evidence in this regard.
+
+FEMHO implores the Inquiry to go further than merely examining impact, but to investigate the root causes of the underlying inequalities within the healthcare system. It can achieve this by adopting what we say is a three-pronged approach.
+
+First, the Inquiry should instruct its existing experts to produce addendum reports and, where necessary, instruct further experts to address the Module 3 specific matters in relation to discrimination and race inequality. We certainly do encourage the use of the existing expert evidence prepared for the purposes of other modules. However, it is inadequate, in our submission, to examine the Module 3 specific issues by merely adducing those reports.
+
+We respectfully do not agree with Counsel to the Inquiry's submission this morning that the background and context of those existing reports provides sufficient evidence in of itself to this module. They do not address the institutional or systemic issues within the healthcare setting which it is imperative that this module investigates.
+
+Second, FEMHO urges the Inquiry to prioritise calling a proportionate number of witnesses who are from diverse backgrounds, disciplines and locations across the UK and who can speak to a range of systemic issues relevant to Module 3. FEMHO has many such witnesses who can provide this evidence. Our position is that the experience of FEMHO members speaks directly to the issues of health inequality as workers and users of the healthcare system. Their voice should not be limited to the Every Story Matters reports.
+
+We are grateful for and encouraged by the requests for short summaries of impact evidence from a number of our members. We look forward to engaging with the Inquiry and endeavour to assist in this regard. To assist this process, my Lady, Saunders Law, those instructing me, have sent a letter to the Inquiry team requesting that consideration is given to providing some protection to those individuals who are coming forward, such as anonymity. We are aligned with Ms Sen Gupta KC's submissions just now in this regard.
+
+As your Ladyship will appreciate, many of our junior members and those in lower band and support roles have legitimate concerns about negative consequences and negative repercussions of speaking out.
+
+Third, we invite the Inquiry to request evidence from the researchers on the UK-REACH project, which is a study focused on the experiences of minority ethnic healthcare workers during the pandemic. We are grateful for Ms Carey's confirmation that the Inquiry are actively considering requests from core participants for further Rule 9 requests to be made to individuals or bodies. In our submission, it would greatly benefit Module 3 if witness evidence is obtained from UK-REACH, as well as the study reports, which we are happy to provide the Inquiry.
+
+We also urge the Inquiry to revisit its consideration of adult mental health services within Module 3. Again, we welcome Ms Carey's confirmation this morning that the mental health of healthcare workers is being examined. Individuals' experiencing mental health problems died disproportionately during the pandemic and the data indicates that black, Asian and minority ethnic healthcare workers were overly represented within that cohort. Its impact on the healthcare system and its obvious impact on patients in accessing appropriate care should be examined, and we therefore endorse and support the submissions on behalf of Mind.
+
+Finally, my Lady, in regards to public hearings, FEMHO shares the genuine concerns advanced on behalf of other core participants regarding the limited duration afforded to evidential hearings for Module 3. Given the breadth of the scope and the issues to be investigated, we are of course keen that progress is made expeditiously but we respectfully invite the Inquiry to allocate more days to Module 3 for it to be meaningful and effective.
+
+We also support submissions on behalf of the Bereaved Families for Justice group that a further preliminary hearing is likely to be necessary in preparation for the substantive hearings.
+
+Finally, we would also echo the concerns about timetabling and limited time windows before the public hearings are due to commence. We would urge the Inquiry to adopt a pragmatic and sensible timetabling approach, namely prioritising early disclosure, particularly witness statements, allowing more time for EPs by starting this process earlier, aligning timetables with school holidays, and avoiding deadlines during and immediately after August.
+
+My Lady, those are our submissions, unless there are any questions.
+
+**Lady Hallett**: No, very grateful to you, thank you very much, Mr Odogwu.
+
+Right, who is next? Mr Simblet. Oh, there you are.
+
+Submissions on Behalf of the Covid-19 Airborne Transmission Alliance by Mr Simblet KC
+-------------------------------------------------------------------------------------
+
+**Mr Simblet**: Thank you, my Lady.
+
+As my Lady knows, we represent the Covid-19 Airborne Transmission Alliance, CATA, who you have met in the previous two preliminary hearings. As we said on those occasions, CATA is here to help your Inquiry to conduct an effective investigation, to obtain a proper evidential basis for meaningful and informed recommendations, and to encourage those to be expeditiously implemented before any future pandemic.
+
+Today, I wish to build on what I hope are regarded as our constructive written submissions and to emphasise that understanding how Covid-19 is and was transmitted is essential to any assessment of the appropriateness of the UK Government response to the pandemic.
+
+That's particularly so in this module, where it's important to look at health and safety within the healthcare system during the pandemic, and appropriate to raise this at this last preliminary hearing since such proper understanding of Covid transmission should inform fundamentally how you organise this module, including what it covers, managing disclosure and the obtaining and selection of witnesses.
+
+So I shall address three points today.
+
+First, the implications of airborne transmissibility of the Covid virus in the healthcare system.
+
+Secondly, how that informs what should be considered to be healthcare in the context of this module.
+
+And, thirdly, the IPC expertise the Inquiry should draw on.
+
+So first, my Lady, this being potentially our last opportunity to do so before the substantive Module 3 hearings, is: why is the airborne transmissibility of Covid-19 important for an investigation of the healthcare system?
+
+Well, CATA submits that there were profound cascading consequences flowing from the initial response to the pandemic within the droplet paradigm and the very slow march to appreciating the virus's airborne nature.
+
+The impact on the healthcare system was grave. The failure to recognise the airborne nature of the Covid-19 virus, alongside the departure from existing policies, practices and procedures for dealing with unknown viruses, was disastrous.
+
+As CATA has explained previously in its written and oral submissions, there were procedures in place in the healthcare systems for dealing with airborne viruses, and it is a fundamental health and safety principle that airborne precautions should be followed until there is scientific evidence to the contrary. That's referred to as the precautionary principle. And this basic tenet underpinning health and safety legislation and practice should have informed the approaches to disease prevention and control within the healthcare system.
+
+In fact, what happened was exactly the opposite. As we've said in our written submissions at 2.6, alert messages were sent to healthcare workers stating that Covid-19 is not airborne in its transmission and is droplet carried. That was seriously misleading and wrong. As we have put it in our written submissions at paragraph 2.1, SARS-CoV-2 is unequivocally an airborne transmitted pathogen, that is to say it is carried in tiny droplets known as aerosols. These are sufficiently small that they remain suspended in air for long periods of time and, when inhaled, initiate disease.
+
+So the UK Government's pandemic response treating SARS-CoV-2 as transmitted primarily by droplets as opposed to being an airborne virus was seriously flawed and remained so.
+
+Any uncertainty around the means of transmission should have led on the precautionary principle to the presumption that the virus transmission was airborne and triggered the appropriate protections against this disease, and this serious misstep needs to be considered at all stages of your process.
+
+One direct impact upon CATA's membership of this failure was in terms of healthcare workers' safety and the nature of such personal protective equipment as was provided.
+
+So why were healthcare workers wearing only surgical masks? The appropriate kit to guard against airborne transmission is respiratory protective equipment such as powered respirators and FFP3 respirators.
+
+Or, as the BMA have highlighted in their written submission, why was a stop order placed on FFP3 procurement in June 2020? This concerning revelation must be investigated thoroughly by the Inquiry, given the profound impact it may have had on healthcare workers' safety during the pandemic.
+
+These issues are not just about healthcare worker safety, important though that obviously is, they affected the wider public with whom the healthcare workers were dealing, because the public were exposed to greater risks of infection and, of course, suffered an impact on the healthcare system through staff absences.
+
+My Lady, the airborne nature of Covid also informs the second matter to be addressed: what should be investigated as healthcare systems in Module 3?
+
+CATA's always advocated for an expansive view of healthcare. Our written submissions express the concern that an overly restrictive definition of healthcare in Module 3 will result in a failure to investigate properly or at all healthcare administered within community settings.
+
+At the last preliminary hearing in September 2023 we were joined by other core participants, who submitted that Modules 3 and 6 should run in tandem, since what is considered healthcare and social care cannot easily and sufficiently be demarcated.
+
+When looking at healthcare systems, the definition, we say, cannot depend on whether care is received in a hospital or not. We support on this point particularly the written submissions from John's Campaign and we say further, first, an airborne virus does not stop at the door of the hospital; those working in healthcare systems very often do not only work in hospitals, and we've given many examples in our written submissions; and, thirdly, there was conflicting advice, instructions, variations in equipment and practice provided either to the same categories of people in their different places or particularly the same people working in different places who receive conflicting instruction according to where they actually are.
+
+So that, we say, cannot properly be examined unless you change what appears to be the approach. We say that the Inquiry can only discharge its proper investigative duties if it interrogates also the impact of Covid-19 on community healthcare during the course of Module 3, and we seek confirmation that this matter will be considered appropriately within this module.
+
+So it's important for us to say this is not just simply a lament about hospitals or topics omitted from this module. Rather, our point is: if you don't investigate the conflicting advice, instructions and policies and practices properly, you may end up with incorrect conclusions. You could proceed on a false premise, namely failing to understand how the interdependent nature of healthcare systems -- and that word is important, "systems" -- and the people in them were affected by Covid. You would proceed on a false assumption that the impact in hospitals can be examined as if a hospital is isolated from the rest of the healthcare system. That is simply wrong and would almost inevitably lead to wrong answers.
+
+Thirdly, my Lady, the Inquiry's engagement with the appropriate infection prevention and control, IPC, guidance and appropriate expertise.
+
+We had provided various materials about that, we are pleased to be told today of the progress that there has been on that. Our submission is that health and safety law such as the COSHH regulations and RPE standards appear to have been ditched in favour of IPC guidance without legitimate or transparent justification, and we submit that the experts must address that issue.
+
+It's also, we say, important for the Inquiry to obtain -- well, to utilise such expert evidence on the correct approach to IPC guidance, not just looking back during Covid but to provide clarity ahead of the next pandemic.
+
+Again, there were existing procedures in place which were not followed in relation to similar respiratory viruses. There was already substantial learning which could and should have been drawn upon at the outset of the pandemic in the formulation of the appropriate IPC guidance, and we support the Royal College of Nursing's call for a clear chronology of when, by whom and how the IPC guidance was varied and then disseminated.
+
+The failure of IPC measures and the failure to recognise the fact of airborne transmission is thus key to understanding the significance of other issues that have been raised previously by CATA and other CPs in this Inquiry. For instance, inadequate and unsuitable respiratory protective equipment and why the failures in relation to those were so catastrophic may well inform, for instance, the differential impact on those from a minority ethnic background, as highlighted by FEMHO and the Frontline Migrant Workers, among others.
+
+More broadly, and as we and other CPs have submitted briefly, the failure to look after healthcare workers not only caused and still causes the loss of their lives, health and financial security, it still has enduring consequences on healthcare provision now. On this we agree with the submissions of the BMA at paragraphs 10 to 15 and welcome their support in paragraphs 20 to 22 of their submissions for the issues relating to the departure from usual health and safety reporting procedures and the RIDDOR requirements about which we've made submissions previously.
+
+The expert evidence that you hear, my Lady, is important not only for the understanding of past choices but also to frame any recommendations for the future. Lack of access to such expertise was a significant factor that led to the vulnerability of healthcare to this airborne risk, and its lack of appreciation of the significance of an airborne transmission was a significant failure.
+
+To conclude, my Lady, after today there are only 151 days until the hearings begin. That sounds a lot of time. It's less than six months, and there is an immense amount to organise if this module is to investigate properly.
+
+CATA remains, of course, available to provide all possible assistance.
+
+**Lady Hallett**: Thank you very much for your help, Mr Simblet, very grateful.
+
+Ms Davies.
+
+Submissions on Behalf of Mind by Ms Davies
+------------------------------------------
+
+**Ms Davies**: My name is Ms Davies, I'm head of legal at Mind, the mental health charity. I'm assisted today by Ms -- or Mrs Abdul Vincent Nightingale(?) and Ms Nimareng(?), part of the dedicated Mind legal team, and this gives me an opportunity to wish Eid Mubarak to my colleagues who are missing today.
+
+It's probably not well known that Mind was set up by the post-war Labour government, who set up our NHS and modern welfare state and social services. They had recognised in their vision for the country that a separate voice was needed for those with mental health problems, who were even more sorely discriminated against and stigmatised than they are today.
+
+Our mission was set then and remains today not to give up until those people with mental health problems are given the support and the respect that they need, and our submission is not set against the historic task of this Inquiry, which is to learn the lessons that can be learnt from the pandemic for the prevention of future suffering. Counsel Ms Carey has said that the Inquiry will look at key and significant issues. It's my job to persuade you that what happened to the nation's mental health during the pandemic and the impact on health services is both key and significant.
+
+We appreciate that the Inquiry has to grapple with twin beasts, the scale of the information it has to review and the pace that must be adopted in order that recommendations will be practicable for future generations or indeed this generation, should another pandemic reach our shores.
+
+We see the argument that was put at the last preliminary hearing that we cannot examine every condition during this Inquiry or look -- that was affected by the pandemic, and we cannot look in every nook and cranny. However, mental health problems are not every condition. They're a condition that everyone can get. In normal times, however we seek to define that now, one in four people will seek help for their mental health in any given year.
+
+During the pandemic, the scale of those mental health problems became gargantuan. Substantial parts of those mental health problems were, we say, predictable. We knew that SARS-1 carried post-viral depression syndrome, and it was reasonable to assume until told otherwise that SARS-2 would do the same. The impact of lockdown and shielding was bound to be detrimental for a significant portion of the population shut off from their social contact and their social support. We saw mass bereavements, often without the chance to say goodbye, and that created an obvious need.
+
+Our health service staff were under intolerable stress, and were facing both death and Covid with inadequate PPE. The shutting of schools was bound to affect both parents and children alike, although perhaps the intensity of that was less predicted, according to the parents that I know, and yet there appeared not to be a public health mental health plan to address what we say were these population health predictable issues. And why is that?
+
+You know, I could say -- I could give you a general opinion about the stigma and the status of those with mental health problems, but surely the answer is more nuanced than that, and I say a perfectly proper question for this Inquiry to address.
+
+On top of those predictable problems, there were less expected issues. Many people with no prior mental health problems experienced first and very serious episodes of psychosis and found that their lives -- actually particularly those who were intubated in ICU, for some reason, and those people found that their lives unravelled as a result of those illnesses. 8 million people sought and were turned away from mental health services because they were deemed not to be sick enough. Recent evidence showed that one in nine children who -- are still carrying a mental health disability that started during the pandemic. Recently figures were released that said that people in their 20s were off sick from work more than people in their 40s. The response from the government was not to learn some of the lessons that might have been -- to intervene in that issue, but that mental health culture had gone too far.
+
+We at Mind would say there's no such thing as mental health culture, there are only people and their families who are suffering.
+
+**Lady Hallett**: I'm sorry to interrupt, Ms Davies, but we do have limited time. Could we go back to the issues I have to decide today in the preliminary hearing, please.
+
+**Ms Davies**: Yes.
+
+There was -- also perhaps less predictable were questions such as lack of PPE. That meant that there was rationing and prioritisation. Mental health in-patient and community services were not priorities for PPE, and that had an impact. This meant that during the first few weeks of lockdown, when a quarter of mental health in-patients were discharged early, community services, who were also not a priority, found themselves with what they say were both confusing guidance and inadequate or no PPE. This meant that the people who were meant to look after the discharged patients were simply not there or not knowing what to do.
+
+Psychiatric nurses are less trained in infection control, and that and the lack of PPE led to some really dreadful experiences for those that were left in hospitals. So, for example, we have had stories of people who lost all of their leave, even though they had previously many hours a day, and people who were locked in their rooms for up to five days at a time, in isolation, and who were denied access to basic things like showers.
+
+Could this have been handled better? Is there something we could do different? These, we say, are perfectly proper questions that this Inquiry could answer.
+
+In terms of staff mental health, I know from my own experience at the Nightingale hospital that they developed a programme of putting on your psychological PPE. Counsellors were available at all shifts. This wasn't rolled out across the NHS. I don't know why. And again, we say this is something the Inquiry can look at.
+
+In terms of when mental health might be looked at, we were told that if not here then maybe we'd look in Module 6. There was nothing in Module 6 about mental health, and we say that Module 3 is the best place to look at these issues. Or the Inquiry I suppose could have a separate module, but that's not for me to tell you to do, it's just a suggestion. Or the Inquiry could move some of the children's mental health into looking at children in schools, because the schools are such an integral part of the mental health referral system.
+
+And let me make clear, Baroness Hallett, I'm not disgruntled, I am hopeful. This is one of the most important events that we have taken part in. We want the Covid Inquiry to succeed. We want its legacy to be that of a forward-looking Inquiry that breaks with the tired tradition of excluding those of us with mental health problems because it's often easier to do so. Unless I can assist you further, that's the end of my submissions.
+
+**Lady Hallett**: Thank you very much. Thank you for your help.
+
+I think we can take one more before we break, unless I'm told ... yes, Ms Morris.
+
+Submissions on Behalf of the Royal College of Nursing by Ms Morris KC
+---------------------------------------------------------------------
+
+**Ms Morris**: My Lady, our submissions are brief and so that's probably a sound choice.
+
+I make submissions on behalf of the Royal College of Nursing. We maintain our written submissions and therefore we don't repeat them now.
+
+We are encouraged by Counsel to the Inquiry's summary this morning --
+
+**Lady Hallett**: The dance of the lecterns, Ms Morris, you should know about that now.
+
+**Ms Morris**: I'm just trying to be quick.
+
+We are encouraged by Counsel to the Inquiry's summary of the evidence gleaned from the spotlight hospitals, and the reason for that is that her summary of the content mirrors closely many of the key issues upon which the College itself focuses.
+
+We also welcome the indication as to the impact evidence which the Inquiry will take, and in particular that it will be hearing from some nurses who were on the frontline.
+
+Finally, we support the proposal made by Ms Hannett KC in relation to healthcare workers with Long Covid, because many of our members are in the situation of having Long Covid, and both because of its materiality for what happened at the time but of course for its materiality for the healthcare system going forward. Staff shortages are a problem which has only intensified and there also will be, we say, potentially greater recruitment problems if healthcare workers perceive that they are not going to be protected or looked after if they sustained such an injury in the course of their work.
+
+That concludes my submission, my Lady.
+
+**Lady Hallett**: Oh, they were brief, thank you very much indeed, Ms Morris. In which case I'm going to go to, who is next, Ms Domingo.
+
+Submissions on Behalf of the British Medical Association, the National Pharmacy Association and the Royal Pharmaceutical Society by Ms Domingo
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+**Ms Domingo**: Thank you, my Lady. I think my submissions today will also be reasonably brief.
+
+My Lady, I will make three sets of submissions this afternoon on behalf of three separate core participant organisations, the BMA, the National Pharmacy Association and the Royal Pharmaceutical Society.
+
+The submissions will focus on the key issues and lines of enquiry that each of these organisations consider essential for exploration by the Inquiry within Module 3, and these are the submissions on behalf of the British Medical Association.
+
+As the Inquiry has heard in earlier modules, the pandemic had a tremendous impact on healthcare workers and their patients. The UK's health services entered the pandemic significantly understaffed and under-resourced, which severely affected the ability of these systems to weather the storm when Covid arrived. Healthcare staff worked tirelessly to safeguard the nation's health during the pandemic, often at great personal cost to their own physical and mental health.
+
+The impacts of the pandemic were not felt equally for patients or for staff and many impacts continue to this day.
+
+Module 3 is a key opportunity for the Inquiry to examine these experiences and ensure crucial lessons are learnt and improvements implemented.
+
+The BMA's submissions today are focused on the issue of safety of healthcare workers during the pandemic, and they highlight how a number of critical safety failures placed healthcare workers at unnecessary risk. These include the inadequate provision of appropriate PPE and RPE, coupled with inadequate infection prevention and control guidance, as well as failures to comply with health and safety requirements such as risk assessments and the reporting of occupational death and disease.
+
+The BMA has already detailed its very serious concerns about inadequate PPE, RPE and IPC guidance in Modules 1 and 2 and the impact this had on doctors and other healthcare workers on the frontline. However, the BMA considers that Module 3 will be the opportunity to address these issues in more detail. Of particular concern is the recommendation within IPC guidance in favour of the use of fluid-resistant surgical masks (FRSM) for the routine care of patients with confirmed or suspected Covid-19. FRSM masks are not PPE. They do not provide adequate protection against aerosol transmission, and this particular issue is symptomatic of a wider failure to properly recognise the risk of aerosol transmission and to recommend and implement appropriate measures in response.
+
+The evidence of Professor Catherine Noakes in Module 2 offered a number of explanations for the reluctance to fully acknowledge this risk, including the significant resource and operational implications for hospital infection control measures. This same issue is acknowledged within the technical report produced by the chief medical officers and chief scientific advisers, which is fully referenced within the BMA's written submissions, and identifies the management of PPE and best infection control advice as the issue that probably provided the greatest point of tension between medical practitioners and those trying to provide a standard approach to IPC.
+
+The BMA submits that this widespread acknowledgement within the profession of the significance of the issue requires thorough consideration by the Inquiry, including the extent to which the safety of healthcare workers was compromised in favour of operational or cost considerations.
+
+Connected to inadequate PPE and IPC is the failure to comply with health and safety legislation. All employers are subject to a legal duty to undertake suitable and sufficient risk assessments, yet there was a widespread failure to do so within healthcare settings, with 69% of doctors responding to a BMA survey who contracted Covid-19 in 2020 telling the BMA that they had not been individually risk assessed before acquiring Covid.
+
+BMA surveys also identified that ethnic minority doctors more commonly went without PPE, felt worried or fearful about speaking out, and felt that risk assessments had been ineffective.
+
+Similarly workplace protections are provided within the Reporting of Injuries, Diseases and Dangerous Occurrence Regulations 2013, or RIDDOR, which require the reporting of a disease attributed to occupational exposure to a biological agent.
+
+However, despite healthcare workers being at significantly higher risk of Covid-19 infection because of the nature of their work, there was significant under-reporting of cases of Covid-19 in healthcare settings throughout the pandemic.
+
+Reporting is crucial to understanding infections at health service staff level, how infection spreads within healthcare settings and how to better protect staff and patients. This is critical information during a pandemic like Covid-19. However, there was considerable under-reporting of disease and death under RIDDOR. This under-reporting has made it even more difficult for staff suffering from Long Covid to access financial recompense, and the BMA asks the Inquiry to consider the adequacy of the RIDDOR guidance produced by the Health and Safety Executive and whether there is any evidence that reporting was discouraged.
+
+To conclude, while these submissions contain only brief selected examples of the ways in which the safety of healthcare workers were compromised, they evidence a systemic failure which the BMA asks the Inquiry to fully examine.
+
+Sadly, there are doctors and healthcare workers who lost their lives due to inadequate protection at work and others who have suffered and continue to suffer significant physical and mental health impacts from working throughout the pandemic. This includes Long Covid, the impact of which remains, in far too many cases, ongoing and potentially career ending.
+
+These are extremely serious issues that require careful scrutiny by the Inquiry, so that meaningful and effective improvement can take place, and the BMA asks that they are examined in detail within the Module 3 hearings.
+
+My Lady, shall I move on to --
+
+**Lady Hallett**: Certainly, thank you.
+
+**Ms Domingo**: I shall move on to the submissions on behalf of the National Pharmacy Association.
+
+These submissions highlight three principal issues that the NPA considers relevant to the scope of Module 3 and that ought to be examined within the Module 3 hearings later this year.
+
+The first issue is the central role that community pharmacy plays in local communities and in tackling health inequalities across the UK.
+
+Community pharmacies are part of primary care and they have a unique understanding of the health needs of the populations and the communities they serve. They are disproportionately located in areas of higher deprivation, delivering health services to communities that need them most, and they play a crucial role in reducing health inequalities. A local pharmacy is one of the few places where patients can walk in off the street and access healthcare advice and treatment without an appointment.
+
+During the pandemic, community pharmacies played a core role in maintaining access to healthcare services. They became the first port of call for many patients, and NPA members experienced a huge increase in demand for healthcare advice and medicines, including an increase in the number of patients seeking advice for more serious health or mental health conditions.
+
+NPA members reported a significant increase in the number of prescriptions dispensed from February to March 2020, and phone calls to pharmacies more than tripled during this period. Home deliveries of medication to vulnerable patients more than doubled, and many pharmacies experienced long queues outside their doors.
+
+The role played by community pharmacy during the pandemic provided crucial support and resilience to the healthcare system. Pharmacists and their teams worked tirelessly to maintain service provision and ensure the supply of medicines to their local populations. Many medicines became difficult to source, and expensive as demand outstripped supply, and staff spent long hours sourcing medicines.
+
+The increased demand on community pharmacy during the pandemic had a significant impact on pharmacists and their teams, resulting in stress, fatigue and mental health issues for many NPA members. Given the essential nature of their frontline role, the Inquiry is asked to consider whether there was sufficient investment by government in the infrastructure needed to integrate community pharmacy into the broader health system and to support effective co-operation across the health service.
+
+The second key issue is that community pharmacy was often overlooked and under-recognised. Despite the central role played by community pharmacy in the delivery of NHS care throughout the pandemic, community pharmacists and their teams were not given comparable treatment to other frontline healthcare workers, which meant that often they did not receive the support that they needed.
+
+The most significant and demoralising example of the different way in which community pharmacy was treated by government was the initial exclusion of pharmacy workers from the life assurance scheme for frontline workers in England. The NPA asks the Inquiry to fully investigate the circumstances that gave rise to this omission.
+
+Another example relates to PPE, which was not initially available to community pharmacy through the NHS, requiring many pharmacy teams to source and fund their own protective equipment.
+
+The supply of PPE was a challenge and pharmacy teams put themselves at risk to help patients stay well, often working in close proximity to others and reusing PPE repeatedly for days or even weeks.
+
+The NPA suggests that the Inquiry examines whether government properly and fairly considered the circumstances of all healthcare workers who contributed to the pandemic response.
+
+Thirdly, the Inquiry is asked to consider the resilience of the independent community pharmacy sector in responding to a future pandemic. Community pharmacy entered the pandemic facing financial and workforce crises due to long-term underinvestment in the network. These issues presented significant challenges for community pharmacy in responding to the pandemic and increased the difficulties in providing services to patients and maintaining staffing levels. Even though the pandemic clearly showed that pharmacies are an essential part of health and social care, real-term funding cuts have continued and the independent community pharmacy sector find itself in a worse situation than at the outset of the pandemic, with pharmacies closing at the rate of approximately eight per week.
+
+A strong community pharmacy network is an essential element of healthcare services in the UK, and the NPA invites the Inquiry to consider the role of community pharmacy in pandemic planning and in the overall resilience of the UK's healthcare system to respond to a future pandemic.
+
+I have one final set of submissions. Shall I proceed?
+
+**Lady Hallett**: Yes, please.
+
+**Ms Domingo**: My Lady, the third and final set of submissions are made on behalf of the Royal Pharmaceutical Society. They highlight five key areas that the RPS submits should be examined by the Inquiry in Module 3.
+
+First, safety at work for pharmacists. Failures to ensure the safety of healthcare workers and pharmacy teams including through appropriate use of risk assessments and the provision of suitable PPE must be considered. The Inquiry is specifically asked to examine whether rules on testing, contact tracing and self-isolation, including infection prevention and control guidance, were appropriate for all healthcare settings, including pharmacies.
+
+For example, social distancing in pharmacy settings was often impractical and the RPS received reports of inconsistent approaches to self-isolation rules around the country, which potentially meant that some pharmacies had to close or were no longer able to support patient care.
+
+Second, the role played by pharmacists working within hospital settings. The work of pharmacists within hospitals is sometimes overlooked. During the pandemic, hospital pharmacists cared for the most critically ill patients with Covid-19, transforming services to support colleagues and ensuring the supply of medicines for critical care. Pharmacists also played a key role in rapidly establishing field hospitals, and the RPS submits that these contributions should be examined in Module 3.
+
+Third, a significant concern which is shared with the NPA, the repeated and systemic difference in treatments between pharmacists who provided NHS-contracted services compared with healthcare workers directly employed by the NHS.
+
+The disparity in treatment can be seen in the exclusion of pharmacists from visa extensions provided to other healthcare workers in March 2020, in the absence of specific mention of pharmacists and their teams in guidance regarding key workers, which impacted childcare provision at school hubs and, perhaps most egregiously, in the omission of pharmacists from the life assurance scheme for the families of frontline health and care workers in England in April 2020.
+
+Despite their crucial role providing care throughout the pandemic, the pharmacy profession, and particularly community pharmacy, was often an afterthought in government planning, guidance and communications, and this had a hugely detrimental impact on their morale and wellbeing.
+
+Fourth, the resilience of pharmacy services in the event of a future pandemic or health emergency.
+
+During the Covid pandemic, community pharmacies were easily accessible and provided vital medication, health advice, testing and vaccinations; they played a pivotal role in protecting the health of their communities. However, community pharmacy is under very significant pressure, which is leading to the closure of pharmacies in local communities. There is also a significant concern around the health and wellbeing of pharmacists and their staff and workforce capacity. The pandemic placed enormous strain on staff, and RPS workforce surveys demonstrate that pharmacists are suffering from burn-out and Long Covid. At the start of the pandemic, access to wellbeing services was not universal across the UK and the RPS submits that all pharmacists should have equal access to wellbeing support, including for Long Covid, regardless of where they work.
+
+The pandemic exposed the international complexity of the medicines supply chain, leading to shortages of many commonly used medicines such as paracetamol, as well as medicines used in critical care. In the years since, it has become increasingly common to see medicines shortages within fragile supply chains, and the RPS has recently launched a new research project to examine this issue in more detail.
+
+The Inquiry is asked to consider the resilience of medication supply and pharmacy services across all care settings in the event of a future pandemic, specifically the current investment and planning in the medicines supply chain, in medicines production facilities, including aseptic pharmacy facilities in hospitals, and in the role of frontline and volunteer workforce in preparation for future pandemics.
+
+The fifth point is on lessons learned.
+
+The RPS submits that lessons learnt must include longer-term reforms to better manage demand and build resilience across the health service. The pandemic highlighted the need for professional empowerments and regulatory flexibilities to allow all health professionals to put patients first. This included steps to help pharmacists better manage the impact of medicine shortages on patient care, such as enabling the re-use of unused medicines in care homes and hospices.
+
+The RPS also wishes to emphasise the importance of early engagement by government and NHS leadership with pharmacy stakeholders. For example, around medicine delivery services and supporting the planning and roll-out of the mass vaccination programme and the need for pharmacists in all care settings to have read and write access to patient records to support patient care.
+
+The RPS encourages the Inquiry to seek to identify lessons such as these so that they can be embedded within working practices going forward, to ensure that we are better prepared in the future.
+
+Finally and in relation to experts, it was mentioned earlier this morning by Counsel to the Inquiry that the RPS seeks the appointment of an expert in pharmacy and I wish to clarify that the RPS is not proposing an additional expert witness, rather that the instructed experts -- for example in critical care, primary care, and IPC -- take account of the role played by pharmacists and the impact on pharmacists and pharmacy settings.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much, Ms Domingo.
+
+Anything by way of response, Ms Carey?
+
+**Ms Carey**: Nothing from me, my Lady.
+
+Closing Remarks by the Chair
+----------------------------
+
+**Lady Hallett**: Well, thank you very much all indeed.
+
+I confess that when I was reminded there were 36 core participants, 15 of whom wanted to make oral submissions, I was a little concerned, but may I congratulate everybody on the focus of their submissions and the timeliness of them.
+
+I shall consider -- I would say consider them all, but I'm going to have to say this in a moment, and I will, having considered them, issue a ruling -- and I'm not going to say "consider them all" because there's one decision that I'm afraid I cannot revisit and I shall not revisit, and I think it's only fair to everybody that I make that plain this afternoon, and that is the decision as to the timetable of this module.
+
+For reasons I'll explain in a moment, this module, Module 3, will start in early September. As Ms Carey explained, it will last for ten weeks, with a two-week break in the middle to ensure that everybody is effectively prepared for the second half of the hearings.
+
+Let me just give one or two of the reasons that have led me to that decision. As anybody who has ever read my terms of reference, they'll know they are extraordinarily broad. They are the broadest terms of reference any statutory Inquiry has ever faced, and we have a huge amount of work to get through and, because I've set a tight timetable and because I want to get recommendations implemented as soon as possible, that means that I have to get through the work as soon as possible, and that means that the longer I allow for any one module, the more issues I add to the scope of any one module, then the more delay to other modules.
+
+So at the moment 2025 has a whole sequence of modules that hope to have their hearings in 2025, including care and children and young people, and I have to say that if I made Module 3 go longer then I'd ask people: what would they say to the core participants and those interested in care and in children and young people?
+
+I also have to say that if I do decide to add to the issues of Module 3, something will have to give, in other words there isn't unlimited time. So although I fully understand why people have made the submissions that they have, and I fully understand the concerns, I'm afraid we have to live with the time and the resources that we have.
+
+I also wish people to understand -- and not everyone seems to understand this -- that because an issue is not included in a specific module does not mean the Inquiry will not be considering it at all.
+
+As many people will understand, there are a number of ways in which we can gather evidence. Oral hearings is part of it, but also we can -- I can commission research, I can commission expert evidence, there are a number of different ways in which I can gather material. Oral hearings are just one part. They are an important part, because they hold people to account in public, but they are only one part of the Inquiry process, and I will not reach any conclusions until I have analysed and been assisted in the analysis of all the relevant written material before me.
+
+So please do not think that because you do not see the express words "X, Y, Z" in a specific module that means that X, Y, Z will not be considered. I am exploring all the different ways at the moment with the team and, as soon as I'm able to do, I will make my plans for the future public. And I'm sorry that it takes time but, as I'm sure again those with Inquiry experience will understand, we learn a lot as we go along and there has been a huge amount on the plate of the Inquiry team, but I will make it public as soon as I can, because I know people want to know what's going to happen so they can prepare themselves accordingly.
+
+So I will make everything public when I can, I will make the ruling public when I can, and if people want to see the rulings or the written evidence to which I've just referred, they can always access the website.
+
+So thank you all very much indeed.
+
+I think the next public hearing is in Belfast, I think, at the end of April.
+
+So thank you all for your help and for the constructive nature of the submissions, and that's all for this afternoon.
+
+**Ms Carey**: Thank you, my Lady.
+
+*(3.26 pm)*
+
+*(The hearing concluded)*
+
