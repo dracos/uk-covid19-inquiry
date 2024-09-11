@@ -9,7 +9,7 @@ import urllib.parse
 
 session = requests_cache.CachedSession(expire_after=86400*7)
 
-BASE = 'https://www.covid19.public-inquiry.uk/wp-json/c19inquiry/v1/feed/'
+BASE = 'https://www.thirlwall.public-inquiry.uk/wp-json/c19inquiry/v1/feed/'
 
 def fetch_hearings():
     i = 1
