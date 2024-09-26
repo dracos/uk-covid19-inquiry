@@ -45,6 +45,8 @@ def parse_transcripts():
     for f in sorted(glob.glob('data/*.scraped.txt')):
         Speech.witness = None
         date, title = re.match('data/(\d\d\d\d-\d\d-\d\d)-(.*).scraped.txt$', f).groups()
+        if date == '2024-09-24':
+            Speech.witness = 'Michael McBride'
         if m := re.search('Module (2[ABC])', title):
             sect = 'module-' + m.group(1)
             os.makedirs(sect, exist_ok=True)
@@ -336,6 +338,7 @@ def fix_heading(s):
     s = re.sub('|'.join(rep), lambda m: m.group(0).upper(), s)
     rep = [ 'Of', 'By', 'The', 'To', 'On', 'For', 'And' ]
     s = re.sub('\\b' + '\\b|\\b'.join(rep) + '\\b', lambda m: m.group(0).lower(), s)
+    s = re.sub('Ma?c[a-z]', lambda mo: mo.group(0)[:-1] + mo.group(0)[-1].upper(), s)
     return s
 
 parse_transcripts()
