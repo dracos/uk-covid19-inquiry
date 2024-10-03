@@ -95,6 +95,7 @@ def convert_four_up_pdf(text):
         if re.match(r' ?1 +INDEX', line): break
         elif 'INDEX' in line: state = 'index'
         elif re.match(' *Statement by LEAD COUNSEL TO THE INQUIRY \. 2$', line): break
+        elif state == 'index' and re.match(' *\(continued\)$', line): break
 
         m = re.match(r' +(\d+)(?: +(\d+))? *$', line)
         if m:
