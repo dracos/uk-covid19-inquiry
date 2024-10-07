@@ -44,14 +44,14 @@ def parse_speech(speech):
 def parse_transcripts():
     for f in sorted(glob.glob('data/*.scraped.txt')):
         Speech.witness = None
-        date, title = re.match('data/(\d\d\d\d-\d\d-\d\d)-(.*).scraped.txt$', f).groups()
+        date, title = re.match(r'data/(\d\d\d\d-\d\d-\d\d)-(.*).scraped.txt$', f).groups()
         if date == '2024-09-24':
             Speech.witness = 'Michael McBride'
         if m := re.search('Module (2[ABC])', title):
             sect = 'module-' + m.group(1)
             os.makedirs(sect, exist_ok=True)
             outfile = f'{sect}/{date}'
-        elif m := re.search('Module (\d)', title):
+        elif m := re.search(r'Module (\d)', title):
             sect = 'module-' + m.group(1)
             os.makedirs(sect, exist_ok=True)
             outfile = f'{sect}/{date}'
@@ -88,11 +88,11 @@ def strip_line_numbers(text):
             line = line.replace('\014', '')
 
         # Empty line
-        if re.match('\s*$', line):
+        if re.match(r'\s*$', line):
             continue
 
         # Start of index, ignore from then on
-        if re.match(' *\d* +I ?N ?D ?E ?X$', line) or '...............' in line:
+        if re.match(r' *\d* +I ?N ?D ?E ?X$', line) or '...............' in line:
             state = 'index'
             continue
         if state == 'index':
@@ -100,7 +100,7 @@ def strip_line_numbers(text):
 
         # Just after last line, there should be a page number
         if num == 26:
-            m = re.match(' +(\d+)$', line)
+            m = re.match(r' +(\d+)$', line)
             assert int(m.group(1)) == page
             continue
 
@@ -121,7 +121,7 @@ def remove_left_indent(data):
     for page in data.keys():
         min_indent = 999
         for num, line in data[page]:
-            if re.match('\s*$', line):
+            if re.match(r'\s*$', line):
                 continue
             left_space = len(line) - len(line.lstrip())
             if left_space:
@@ -148,7 +148,7 @@ def parse_transcript(url, text):
         new_para_indent = 4
         for num, line in data[page]:
             m1 = re.match(' *((?:[A-Z -]|Mc)+): (.*)', line)
-            m2 = re.match('([QA])\. (.*)', line)
+            m2 = re.match(r'([QA])\. (.*)', line)
             if m1 or m2:
                 new_para_indent = 7
         if '2023-10-16' in url and page in (94,96,108,178):
@@ -163,27 +163,27 @@ def parse_transcript(url, text):
                 continue
 
             # Empty line
-            if re.match('\s*$', line):
+            if re.match(r'\s*$', line):
                 continue
 
             line = line.replace('MAPEC_', 'MAPEC)')
-            line = line.replace('**', '\*\*')
+            line = line.replace('**', r'\*\*')
 
             # Date at start
-            m = re.match(' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd)? (August|September|October|November|December|January|February|March|April|May|June|July) 202[1234]$', line)
+            m = re.match(r' *(Mon|Tues|Wednes|Thurs|Fri)day,? \d+(nd)? (August|September|October|November|December|January|February|March|April|May|June|July) 202[1234]$', line)
             if m:
                 date = line.strip() # datetime.strptime(line.strip(), '%A, %d %B %Y')
                 continue
 
             if state == 'adjournment':
-                if re.match(' *(\(.*\))$', line):
+                if re.match(r' *(\(.*\))$', line):
                     # Meta message immediately after heading
                     spkr = getattr(speech, 'speaker', None)
                     yield speech
                     yield Speech(speaker=None, text=line)
                     speech = Speech( speaker=spkr, text='' )
                     continue
-                if re.match(' *(.*)\)$', line):
+                if re.match(r' *(.*)\)$', line):
                     # End of multi-line meta text
                     state = 'text'
                     speech.add_text(line.strip())
@@ -200,7 +200,7 @@ def parse_transcript(url, text):
                 state = 'text'
 
             # Time/message about lunch/adjournments
-            m = re.match(' *(\(.*\))$', line)
+            m = re.match(r' *(\(.*\))$', line)
             if m:
                 spkr = None
                 if speech:
@@ -211,7 +211,7 @@ def parse_transcript(url, text):
                 continue
 
             # Multiline message about adjournment
-            m = re.match('(?i) *\((The (hearing|Inquiry) adjourned|On behalf of)', line)
+            m = re.match(r'(?i) *\((The (hearing|Inquiry) adjourned|On behalf of)', line)
             if m:
                 yield speech
                 state = 'adjournment'
@@ -227,7 +227,7 @@ def parse_transcript(url, text):
                 continue
 
             # Questions
-            m = re.match(' *(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
+            m = re.match(r' *(?:Further question|Question|Examin)(?:s|ed) (?:from|by) (.*?)(?: \(continued\))?$', line.strip())
             if m:
                 yield speech
                 speech = Section( heading=fix_heading(line), level=2)
@@ -235,7 +235,7 @@ def parse_transcript(url, text):
                 continue
 
             # Headings
-            m = re.match(' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
+            m = re.match(r' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
             if m:
                 yield speech
                 speech = Section( heading=fix_heading(line) )
@@ -245,9 +245,9 @@ def parse_transcript(url, text):
                 continue
 
             # Witness arriving
-            m1 = re.match(" *((?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
+            m1 = re.match(r" *((?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
             m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
-            m3 = re.match(" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
+            m3 = re.match(r" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
             if m1 or m2 or m3:
                 m = m1 or m2 or m3
                 if m3:
@@ -266,7 +266,7 @@ def parse_transcript(url, text):
                     witness_heading.heading += ' and '
                     if re.match(' *and$', data[page][num][1]):
                         next_witness = data[page][num+1][1]
-                        m4 = re.match(" *((?:[A-Z0-9' ,-]|Mc|Mr)+?)(,?\s*\(.*\)|, (?:sworn|affirmed))$", next_witness)
+                        m4 = re.match(r" *((?:[A-Z0-9' ,-]|Mc|Mr)+?)(,?\s*\(.*\)|, (?:sworn|affirmed))$", next_witness)
                         if m4:
                             witness_heading.heading += fix_name(m4.group(1).strip())
                             narrative += '*\n\n*%s%s.' % (m4.group(1), m4.group(2))
@@ -282,8 +282,8 @@ def parse_transcript(url, text):
                 continue
 
             # Question/answer (speaker from previous lines)
-            m = re.match(' *([QA])\. (.*)', line)
-            if m and not re.match(' *A\. The list of issues\.$', line):
+            m = re.match(r' *([QA])\. (.*)', line)
+            if m and not re.match(r' *A\. The list of issues\.$', line):
                 yield speech
                 if m.group(1) == 'A':
                     assert Speech.witness
@@ -328,8 +328,8 @@ def fix_name(name):
     #if ' and ' in name or (' of ' in name and ',' not in name):
     #    return name
     # Remove middle names
-    name = re.sub('^(DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir) (\S+ )(?:\S+ )+?(\S+)((?: KC)?)$', r'\1 \2\3\4', name)
-    name = re.sub('^(?!DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir)(\S+) (?!Court)(?:\S+ )+(\S+)', r'\1 \2', name)
+    name = re.sub(r'^(DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir) (\S+ )(?:\S+ )+?(\S+)((?: KC)?)$', r'\1 \2\3\4', name)
+    name = re.sub(r'^(?!DAC|DS|Dr|Miss|Mrs|Mr|Ms|Baroness|Lord|Professor|Sir)(\S+) (?!Court)(?:\S+ )+(\S+)', r'\1 \2', name)
     return name
 
 def fix_heading(s):
