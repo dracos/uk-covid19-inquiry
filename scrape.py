@@ -72,12 +72,12 @@ def fetch_hearing_page(item):
         return
 
     with open(filename_txt, 'r') as fp:
-        text = convert_four_up_pdf(fp.read())
+        text = convert_four_up_pdf(fp.read(), date)
 
     with open(filename_out, 'w') as fp:
         fp.write(text)
 
-def convert_four_up_pdf(text):
+def convert_four_up_pdf(text, date):
     # Remove header/footer from all pages
     text = re.sub('\014? *(The )?UK Covid-19 Inquiry  *\d+ .*? 202\d', '', text)
     text = re.sub(' *\(\d+\) Pages \d+ - \d+', '', text)
@@ -96,6 +96,7 @@ def convert_four_up_pdf(text):
         elif 'INDEX' in line: state = 'index'
         elif re.match(' *Statement by LEAD COUNSEL TO THE INQUIRY \. 2$', line): break
         elif state == 'index' and re.match(' *\(continued\)$', line): break
+        elif state == 'index' and date == '2024-10-08' and re.match(' *(.*?\(affirmed\).*|for MODULE 3)$', line): continue
 
         m = re.match(r' +(\d+)(?: +(\d+))? *$', line)
         if m:
