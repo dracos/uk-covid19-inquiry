@@ -236,7 +236,7 @@ def parse_transcript(url, text):
 
             # Headings
             m = re.match(r' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
-            if m:
+            if m and line.strip() != 'GP':
                 yield speech
                 speech = Section( heading=fix_heading(line) )
                 if m.group(6):
