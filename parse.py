@@ -304,6 +304,9 @@ def parse_transcript(url, text):
                 speech = Speech( speaker=speaker, text=m.group(2) )
                 continue
 
+            if not isinstance(speech, Speech):
+                raise Exception(f'{page},{num:02d} {line} - not a speech')
+
             # New paragraph if indent at least some spaces
             m = re.match(' ' * new_para_indent, line)
             if m:
