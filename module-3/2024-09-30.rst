@@ -1,5 +1,5 @@
-Transcript of Module 3 Public Hearing on 30 September 2024.
-===========================================================
+Transcript of Module 3 Public Hearing on 30 September 2024
+==========================================================
 
 *(10.30 am)*
 
@@ -17,7 +17,7 @@ Professor Sir Atherton
 Questions From Counsel to the Inquiry for Module 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Lady Hallet**: Welcome back, Sir Frank.
+**Lady Hallett**: Welcome back, Sir Frank.
 
 **Professor Sir Atherton**: Thank you, my Lady.
 
@@ -71,11 +71,11 @@ You have provided two witness statements to this module of the Inquiry. That's I
 
 **Professor Sir Atherton**: They would largely be led by the Minister for Health and Social Service, or social care, through Andrew Goodall as the chief executive of the NHS, yes.
 
-**Lady Hallet**: Could you keep your voice up.
+**Lady Hallett**: Could you keep your voice up.
 
 **Professor Sir Atherton**: I will try, my Lady.
 
-**Lady Hallet**: Thank you.
+**Lady Hallett**: Thank you.
 
 **Ms Nield**: Can we look, please, at paragraph 79. That's page 27 of your first witness statement.
 
@@ -475,11 +475,11 @@ Where you were provided with scientific evidence that was unclear or uncertain o
 
 **Professor Sir Atherton**: It would be one of the ways in which my advice was formulated. It would be one of the considerations I would give to evidence as it became available.
 
-**Lady Hallet**: Dr Atherton, as -- you're obviously right, I have heard different definitions of the precautionary principle. Do you have the same understanding as Professor Sir Chris Whitty, which is the precautionary principle applies where there are no downsides to taking a particular course of action? Is that how you interpret the precautionary principle -- or significant downsides?
+**Lady Hallett**: Dr Atherton, as -- you're obviously right, I have heard different definitions of the precautionary principle. Do you have the same understanding as Professor Sir Chris Whitty, which is the precautionary principle applies where there are no downsides to taking a particular course of action? Is that how you interpret the precautionary principle -- or significant downsides?
 
 **Professor Sir Atherton**: Well, I do, my Lady, and that's one of the difficulties with the precautionary principle. I could give you an example from way beyond Covid but it might take too long but I will if it would help.
 
-**Lady Hallet**: Depends on how long.
+**Lady Hallett**: Depends on how long.
 
 **Professor Sir Atherton**: I will do it very quickly.
 
@@ -655,11 +655,11 @@ But do you have any recollection of Dr Eleri Davies explaining to you the reason
 
 **Professor Sir Atherton**: No, I'm sorry, I can't remember that.
 
-**Lady Hallet**: Are you moving to a different topic?
+**Lady Hallett**: Are you moving to a different topic?
 
 **Ms Nield**: I am.
 
-**Lady Hallet**: As you may remember, Dr Atherton, we break regularly. I shall return at midday.
+**Lady Hallett**: As you may remember, Dr Atherton, we break regularly. I shall return at midday.
 
 *(11.45 am)*
 
@@ -1199,7 +1199,7 @@ Do you know whether it was mandatory for the NHS bodies in Wales to ensure that 
 
 My Lady, I wonder if that's a good point.
 
-**Lady Hallet**: Certainly. 2.00, please.
+**Lady Hallett**: Certainly. 2.00, please.
 
 *(1.03 pm)*
 
@@ -1477,13 +1477,13 @@ So I am reassured that the system does have that training, that -- and the monit
 
 **Professor Sir Atherton**: I'm sorry to go. Back to your question maybe.
 
-**Lady Hallet**: The question was: is there any reason why the policy of ReSPECT used in parts of England should be used in Wales as well?
+**Lady Hallett**: The question was: is there any reason why the policy of ReSPECT used in parts of England should be used in Wales as well?
 
 **Professor Sir Atherton**: As I say, we do have an advance care policy and we -- that's updated regularly. It's not owned by the Welsh Government, it's a network issue again. As I understand it, the clinical leads of that do look, whenever the policy is updated, at the ReSPECT process.
 
 There are some concerns in Wales from some groups that it's perhaps not the -- it doesn't meet all of the needs in Wales. I think the principles of the ReSPECT process are incorporated within our advance care planning but the tool itself, elements are taken from it but I don't think there's a desire to -- wholescale just to adopt that policy. We have our own policies in Wales which we believe are robust, and actually, in some ways, more comprehensive, because it's not just a policy, it's a suite of tools which people can use.
 
-**Lady Hallet**: Thank you.
+**Lady Hallett**: Thank you.
 
 **Ms Nield**: Moving on now to your views of the lessons learned from the healthcare system response to the Covid pandemic, what do you consider to be the most important lesson that can be learned from the response of the clinical healthcare system in Wales? And do you have any recommendations building on that for future pandemics?
 
@@ -1503,7 +1503,7 @@ Yes, those I think are the main areas that I think -- I am sure our communicatio
 
 **Ms Nield**: Thank you very much, Dr Atherton. I have no more questions for you.
 
-**Lady Hallet**: Thank you, Ms Nield.
+**Lady Hallett**: Thank you, Ms Nield.
 
 Mrs Weereratne.
 
@@ -1632,7 +1632,7 @@ The next point then is that testing of asymptomatic healthcare workers in Englan
 
 *(Pause)*
 
-**Lady Hallet**: No, I'm not going to stop it. Somebody can alter that later if it has been mentioned in error. We can go back over it and amend it. We're short of time this afternoon, so no.
+**Lady Hallett**: No, I'm not going to stop it. Somebody can alter that later if it has been mentioned in error. We can go back over it and amend it. We're short of time this afternoon, so no.
 
 Please carry on.
 
@@ -1720,11 +1720,11 @@ I just wanted to ask you about the Covid pathway. There's a letter that we have,
 
 That pathway was then distributed through a private company and the reason it's not available now I think is because it was in the domain of the private company rather than owned by Welsh Government.
 
-**Lady Hallet**: I think we're going to have to leave it there.
+**Lady Hallett**: I think we're going to have to leave it there.
 
 **Ms Weereratne**: And that was my final question.
 
-**Lady Hallet**: Okay, thank you very much. Very grateful. Sorry about the interruption.
+**Lady Hallett**: Okay, thank you very much. Very grateful. Sorry about the interruption.
 
 Right, Ms Hannett.
 
@@ -1799,14 +1799,14 @@ I think it's also important to flag that we need to support people with Long Cov
 
 Thank you, my Lady.
 
-**Lady Hallet**: Thank you, Ms Hannett.
+**Lady Hallett**: Thank you, Ms Hannett.
 
 Ms Waddoup. Over there.
 
 Questions From Ms Waddoup
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Lady Hallet**: I don't think you are switched on.
+**Lady Hallett**: I don't think you are switched on.
 
 **Ms Waddoup**: Dr Atherton, I ask questions on behalf of Clinically Vulnerable Families, and I would like to ask you first, please, about communication.
 
@@ -1848,7 +1848,7 @@ So it was felt that the best protection for those groups was through the provisi
 
 My Lady, those are all my questions.
 
-**Lady Hallet**: Thank you very much indeed.
+**Lady Hallett**: Thank you very much indeed.
 
 Mr Thomas.
 
@@ -1861,7 +1861,7 @@ Questions From Professor Thomas KC
 
 My Lady, just so you don't become confused, I'm taking my questions 3 and 4 out of order. I'm doing them first.
 
-**Lady Hallet**: Thank you.
+**Lady Hallett**: Thank you.
 
 **Professor Thomas**: Dr Atherton, I'm representing the Federation of Ethnic Minority Healthcare Organisations (FEMHO), who advocate on behalf of healthcare workers from the black, Asian and minority ethnic communities who were disproportionately affected by the pandemic, okay.
 
@@ -1885,7 +1885,7 @@ So I think those are fairly specific.
 
 **Professor Thomas**: My Lady, question 4 has just been answered so I'm going to come back to questions 1 and 2.
 
-**Lady Hallet**: Thank you.
+**Lady Hallett**: Thank you.
 
 **Professor Thomas**: In your statement at paragraph 267 you mention that Covid-19 exacerbated existing inequalities, and in paragraph 273 you discuss how reducing these inequalities became a central ambition to shift towards prevention.
 
@@ -1933,7 +1933,7 @@ The other bit of your question, broader, is more societal, is we do need to look
 
 Thank you, my Lady.
 
-**Lady Hallet**: Thank you, Mr Thomas.
+**Lady Hallett**: Thank you, Mr Thomas.
 
 Mr Simblet.
 
@@ -1968,7 +1968,7 @@ It wasn't tenable because the HCID units only have a certain amount of capacity,
 
 Thank you.
 
-**Lady Hallet**: Thank you, Mr Simblet.
+**Lady Hallett**: Thank you, Mr Simblet.
 
 Ms Jones, Jessica Jones, get the right one.
 
@@ -2001,14 +2001,14 @@ So the precautionary principle really wasn't an issue there. The precautionary p
 
 **Ms Jones**: Thank you.
 
-**Lady Hallet**: Thank you very much.
+**Lady Hallett**: Thank you very much.
 
 Mr Pezzani. You are over there.
 
 Questions From Mr Pezzani
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Lady Hallet**: I'm not sure we're getting you.
+**Lady Hallett**: I'm not sure we're getting you.
 
 **Mr Pezzani**: Dr Atherton, I ask questions on behalf of Mind, the mental health charity. The first question is this: at paragraph 269 of your first witness statement you explain how in July 2020 you advised the First Minister that you remained concerned that the restrictions which were in place were leading to significant negative impacts on mental health and well-being, which were particularly acute for the young.
 
@@ -2052,17 +2052,17 @@ And even the -- the support I was, you know, applauding your organisation, the o
 
 Thank you.
 
-**Lady Hallet**: Thank you very much.
+**Lady Hallett**: Thank you very much.
 
 Right, Dr Atherton, I think that completes the questions we have for you. I hope it hasn't been too long a day for you.
 
 **Professor Sir Atherton**: Thank you, my Lady.
 
-**Lady Hallet**: I am going to say the same as I have said to your colleagues. I appreciate the burden we place upon you and your office when the Inquiry asks you to contribute to the Inquiry by providing written material or by giving evidence. I will tell the teams to please not impose upon you again unless we absolutely have to. So if you do get more requests, then I am afraid it will be because they consider it inevitable. So thank you very much for your help to date.
+**Lady Hallett**: I am going to say the same as I have said to your colleagues. I appreciate the burden we place upon you and your office when the Inquiry asks you to contribute to the Inquiry by providing written material or by giving evidence. I will tell the teams to please not impose upon you again unless we absolutely have to. So if you do get more requests, then I am afraid it will be because they consider it inevitable. So thank you very much for your help to date.
 
 **Professor Sir Atherton**: Thank you, my Lady.
 
-**Lady Hallet**: I shall return at 3.40.
+**Lady Hallett**: I shall return at 3.40.
 
 *(3.28 pm)*
 
@@ -2070,7 +2070,7 @@ Right, Dr Atherton, I think that completes the questions we have for you. I hope
 
 *(3.41 pm)*
 
-**Lady Hallet**: Mr Mills.
+**Lady Hallett**: Mr Mills.
 
 **Mr Mills**: My Lady, the next piece of evidence comes from our first spotlight hospital. For availability reasons we move from day of Welsh evidence to Northern Ireland. With that, may I please call, via the video link, Dr Catherine McDonnell, who will affirm.
 
@@ -2079,7 +2079,7 @@ Dr Catherine McDonnell
 
 *DR CATHERINE McDONNELL (affirmed).*
 
-**Lady Hallet**: Dr McDonnell, I'm sorry if we've kept you waiting. I am afraid we overran a bit this afternoon. Thank you.
+**Lady Hallett**: Dr McDonnell, I'm sorry if we've kept you waiting. I am afraid we overran a bit this afternoon. Thank you.
 
 Questions From Counsel to the Inquiry for Module 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2284,7 +2284,7 @@ And I think the fourth one, I would obviously be passionate about is that we rea
 
 My Lady, that's all I ask.
 
-**Lady Hallet**: Thank you very much.
+**Lady Hallett**: Thank you very much.
 
 Mr Wilcock.
 
@@ -2367,7 +2367,7 @@ But I'm not saying that perhaps people didn't understand just to use the complai
 
 My Lady, that's all I ask and I think it's 4.30 exactly.
 
-**Lady Hallet**: Perfect timing, Mr Wilcock. Thank you very much indeed. I think that completes the questioning for the doctor.
+**Lady Hallett**: Perfect timing, Mr Wilcock. Thank you very much indeed. I think that completes the questioning for the doctor.
 
 Dr McDonnell, thank you so much for your help, I'm really grateful, and obviously for all the work that you and your colleagues did during the worst parts of the pandemic. Thank you.
 

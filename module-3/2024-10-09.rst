@@ -213,11 +213,11 @@ Can you describe to us the impact that working during the pandemic had on your m
 
 **Mr Mills**: Thank you.
 
-**Lady Hallett**: Can I just ask, was it a private
+**Lady Hallett**: Can I just ask, was it a private hospital or
 
-hospital or an NHS hospital? Please don't name the
+an NHS hospital? Please don't name the hospital but was
 
-hospital but was it private or NHS?
+it private or NHS?
 
 **Ms Nora Ohrenstein**: As far as I know it is a private hospital.
 
@@ -1415,57 +1415,15 @@ As I say, I can't comment on whether that's happened this time. We don't believe
 
 **Ms Munroe KC**: Thank you. Frailty scoring and DNACPR. We have dealt quite a lot with DNACPR, so perhaps looking more at the frailty scoring aspect here.
 
-You refer to the NICE in your report at pages 45 and 46, paragraph 108 -- the NICE algorithm of agreement that emphasised the limitations of using Clinical Frailty Scale.
+You refer to the NICE in your report at pages 45 and 46, paragraph 108 -- the NICE algorithm of 22 March 2020, which was part of a broader written agreement that emphasised the limitations of using Clinical Frailty Scale.
 
-Do you believe that as a result of the NICE
+Do you believe that as a result of the NICE algorithm and guidance, there was a risk that clinicians would perhaps over estimate clinical frailty scores associated to factors such as age, pre-existing health conditions when considering whether patients were eligible for ICU admission, ventilation, and other hospital care at a time when there was a severe constraints on resources and capacity?
 
-algorithm and guidance, there was a risk that clinicians
+**Dr Suntharalingam**: So that guidance was separate to our piece of work. I think my understanding is that it was brought out in a form which talked about the frailty score without qualification, and was then rapidly withdrawn and replaced with a version that made some points about not misinterpreting frailty in the context of stable disability.
 
-would perhaps over estimate clinical frailty scores
+And just to sort of gloss that a little bit, the frailty score, which is a clinically validated tool used in the care of the elderly community as a marker of biological frailty, in other words, people's bodily tissues slowly deteriorate to the point where their ability recover from illness is impaired, and there are proxy measures for that, which include their state of mobility and general health.
 
-associated to factors such as age, pre-existing health
-
-conditions when considering whether patients were
-
-eligible for ICU admission, ventilation, and other
-
-hospital care at a time when there was a severe
-
-constraints on resources and capacity?
-
-**Dr Suntharalingam**: So that guidance was separate to our
-
-piece of work. I think my understanding is that it was
-
-brought out in a form which talked about the frailty
-
-score without qualification, and was then rapidly
-
-withdrawn and replaced with a version that made some
-
-points about not misinterpreting frailty in the context
-
-of stable disability.
-
-And just to sort of gloss that a little bit, the
-
-frailty score, which is a clinically validated tool used
-
-in the care of the elderly community as a marker of
-
-biological frailty, in other words, people's bodily
-
-tissues slowly deteriorate to the point where their
-
-ability recover from illness is impaired, and there are
-
-proxy measures for that, which include their state of March 2020, which was part of a broader written                        22          mobility and general health.
-
-Inevitably, in putting things into that sort of
-
-framework, things get simplified, and for example, the
-
-need for being bed-bound or need for carers and so on becomes part of the assessment. And one of the dangers of it is that somebody who, for example, might need carers for another reason such as learning disability, but that doesn't reflect biological weakness, so to speak, in their bodily tissues, may become labelled with that. So a clarification was made by the authors of the NICE guidance which was not ours, that firstly this shouldn't be used under 65 where it is not validated. The tool is validated in those older, and that care should be taken to consider other factors.
+Inevitably, in putting things into that sort of framework, things get simplified, and for example, the need for being bed-bound or need for carers and so on becomes part of the assessment. And one of the dangers of it is that somebody who, for example, might need carers for another reason such as learning disability, but that doesn't reflect biological weakness, so to speak, in their bodily tissues, may become labelled with that. So a clarification was made by the authors of the NICE guidance which was not ours, that firstly this shouldn't be used under 65 where it is not validated. The tool is validated in those older, and that care should be taken to consider other factors.
 
 Now, in the terms of the guidance and your question, the later work that was done very clearly paired those discussions with capacity and escalation, mutual age, and CRITCON or other measures of units being overwhelmed, so in any formal sense, people should not be using the tool because they had not been authorised to do so because the nation was not in a state of CRITCON 4.
 
@@ -1697,13 +1655,55 @@ We looked briefly at this earlier today, but if we just come away from this text
 
 **Dr Stephen Mathieu**: So, in order for us to be able to deliver the pandemic level of care in terms of the GPIC standards of -- the ratios that we recommend, those additional staff would be required, and it is worth just pointing out that that's for every 12 hour shift. It is double those numbers for a 24 hour period.
 
-Just to give a sense of what that is. For one critical care nurse -- for us to have one critical care nurse looking after a level 3 patient on intensive care, 24 hours a day, 7 days a week, you would need about five to six whole-time equivalent critical care nurses to cover that.
+Just to give a sense of what that is. For one critical care nurse -- for us to have one critical care nurse looking after a level 3 patient on intensive care, to six whole-time equivalent critical care nurses to
 
-**Counsel Inquiry**: Given that this is the amount of staff that would be needed at a peak of the pandemic, do you accept that during peaks of pandemics, if we had a pandemic that stretched ICU capacity to the same degree or in fact greater than was the case in January 2021, do you accept that it is necessary to allow staffing ratios to be stretched in that scenario?
+cover that.
 
-**Dr Stephen Mathieu**: I think we have to accept that that's the best that we could provide in terms of stretching the staffing ratios because the staff that are needed, were needed, are simply not there. So one of the lessons around that is how we can be better prepared for the future. The corollary of that is that we do stretch the staffing ratios. We know that that's not the recommendations. The recommendations are based on what is the right staffing ratios to keep patients safe. So we know there is an impact from us doing that, both in terms of the patient quality care that we can deliver, but also the impact on the staff themselves.
+**Counsel Inquiry**: Given that this is the amount of staff that would be
 
-There are other repercussions of stretching the work of the staffing ratios, which is the only way that we can try and improve the number of practitioners, improve the quality of care, is to redeploy staff from other areas, with the collateral damage of those decisions being that will impact on the services that they would usually provide for, and we have seen that through the delays in planned surgery, and that truly is one of the collateral damages of the Covid pandemic.
+needed at a peak of the pandemic, do you accept that
+
+during peaks of pandemics, if we had a pandemic that
+
+stretched ICU capacity to the same degree or in fact
+
+greater than was the case in January 2021, do you accept
+
+that it is necessary to allow staffing ratios to be
+
+stretched in that scenario?
+
+**Dr Stephen Mathieu**: I think we have to accept that that's the best that we
+
+could provide in terms of stretching the staffing ratios
+
+because the staff that are needed, were needed, are
+
+simply not there. So one of the lessons around that is
+
+how we can be better prepared for the future. The
+
+corollary of that is that we do stretch the staffing
+
+ratios. We know that that's not the recommendations.
+
+The recommendations are based on what is the right
+
+staffing ratios to keep patients safe. So we know there
+
+is an impact from us doing that, both in terms of the
+
+patient quality care that we can deliver, but also the
+
+impact on the staff themselves.
+
+There are other repercussions of stretching the
+
+work of the staffing ratios, which is the only way that
+
+we can try and improve the number of practitioners, hours a day, 7 days a week, you would need about five                 24           improve the quality of care, is to redeploy staff from
+
+other areas, with the collateral damage of those decisions being that will impact on the services that they would usually provide for, and we have seen that through the delays in planned surgery, and that truly is one of the collateral damages of the Covid pandemic.
 
 **Counsel Inquiry**: Can I ask you about that, following up on what you said about the need to redeploy staff from other areas. From the intensive care perspective, professionals working routinely in intensive care, what was the impact of having to work with staff that weren't ordinarily trained in intensive care?
 
@@ -2016,11 +2016,7 @@ And Rachel Ashton, also from the John's Campaign, was a nurse working during the
 
 And there are two statements from Josh Miller and Priyanka Patel, both of whom are members of the Royal Pharmaceutical Society. Mr Miller was based in Scotland and gives evidence from his perspective there. Ms Patel was a student at the start of the pandemic, and so brings to bear some slightly different evidence about how the pandemic affected her, her studies and her training thereafter. May --
 
-**Lady Hallett**: Thank you. Not only may they be published but I wish to emphasise, yet again, that I will ensure that they are all read extremely carefully and the contents considered. The oral part of these hearings is just one part. The written material is as important and I am just sorry that we haven't got the time to call everybody to give oral evidence. We just
-
-don't. Thank you very much. Very well, 10 o'clock
-
-tomorrow please.
+**Lady Hallett**: Thank you. Not only may they be published but I wish to emphasise, yet again, that I will ensure that they are all read extremely carefully and the contents considered. The oral part of these hearings is just one part. The written material is as important and I am just sorry that we haven't got the time to call everybody to give oral evidence. We just don't. Thank you very much. Very well, 10 o'clock tomorrow please.
 
 *(3.26 pm)*
 
