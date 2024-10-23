@@ -1,0 +1,444 @@
+Transcript of Module 9 Preliminary Hearing, on 23 October 2024
+==============================================================
+
+*(10.30 am)*
+
+**Lady Hallett**: Good morning, everyone. This is the first preliminary hearing into Module 9 economic response. I'm very grateful to the core participants who have submitted very helpful written submissions. They are constructive and they are very focused and they concentrate on the issues that we have to consider in this module.
+
+Mr Richard Wright King's Counsel, leading counsel for this module, in a moment will explain what those issues are and how the module team plans to address them during the course of its investigations and then the hearings.
+
+After that, I shall hear from those core participants who wish to supplement their written submissions, all of which will be published online thereafter. Sorry, I can't speak this morning!
+
+Thank you very much. Mr Wright.
+
+Statement by Lead Counsel to the Inquiry
+----------------------------------------
+
+**Mr Wright**: On 17 March 2020 in a speech in Downing Street, the Chancellor of the Exchequer declared that:
+
+"The coronavirus pandemic is a public health emergency but it is also an economic emergency. We have never, in peacetime, faced an economic fight like this one."
+
+He continued:
+
+"This Government effort will be underpinned by Government interventions in the economy on a scale unimaginable only a few weeks ago."
+
+My name is Richard Wright and I am the senior counsel with responsibility for the preparation and delivery of Module 9: Economic Response.
+
+Module 9 is the only module in the Inquiry that will examine in depth the economic response of government to the pandemic across the four nations of the United Kingdom. Given the scale of that response, the potential scale of this module should not be underestimated. I will return to that subject, my Lady, when I address the provisional scope of Module 9 a little later in this hearing.
+
+I appear at this preliminary hearing today with my learned friends Ms Wilson and Ms Dhanoa, who are part of the counsel team for Module 9 and, in accordance with the agenda for this hearing, I will address you, so far as this module is concerned, on the following areas: (a) the designation of core participants; (b) the outline of the provisional scope; (c) evidence gathering, including Rule 9 requests; (d) the instruction of expert witnesses; (e) disclosure to core participants; (f) Every Story Matters; and, finally, (g) future hearing dates for Module 9.
+
+There will then be an opportunity for those designated as core participants to make submissions, if they wish to do so.
+
+A few words, if I may, about the hearing. These proceedings are, of course, being recorded and live streamed to other locations. In making these arrangements, your Ladyship is fulfilling the obligation pursuant to Section 18 of the Inquiries Act 2005 to take such steps as you consider reasonable to ensure that members of the public are able to attend or see and hear a simultaneous transmission of the proceedings. Live streaming this hearing also allows the hearing to be followed by a greater number of people than would be able to be accommodated within the hearing room or any overspill rooms.
+
+There are 15 core participants present in the hearing room today and a further three are attending remotely.
+
+As is routine in public inquiries, where there may from time to time be matters mentioned of a potentially sensitive nature, the broadcasting of the hearing will be conducted with a three-minute delay. This provides the opportunity for the feed to be paused if anything unexpected is aired which should not be. We do not expect this to arise over the course of today but I mention it so that those who are following proceedings from further afield can understand the reason for any such short delay.
+
+Pursuant to Rule 5 of the Inquiry Rules, 18 applicants, some of whom were joint applicants, have been designated as core participants in Module 9. They are, in no particular order:
+
+First, the Trades Union Congress represented today by Mr Sam Jacobs;
+
+Second, UK Hospitality, not legally represented today but their Chief Executive Kate Nicholls OBE is present and very welcome here;
+
+Third, Disabled People's Organisations represented by Danny Friedman, King's Counsel;
+
+The Child Poverty Action Group represented by Julia Smyth; the Long Covid Groups, that's Long Covid Support and Long Covid SOS, represented today by Sarah Hannett, King's Counsel;
+
+The Cabinet Office, represented by Richard Cole; His Majesty's Treasury, represented by Mr Neil Block, King's Counsel;
+
+Mr Block also represents His Majesty's Revenue & Customs, or HMRC, and the Department for Work and Pensions, or DWP;
+
+Mr Nicholas Moss, King's Counsel represents the Department for Business and Trade, which was formerly the Department for Business, Energy and Industrial Strategy;
+
+The Ministry of Housing, Communities and Local Government, which was formerly the Department for Levelling Up, Housing and Communities is represented today by Mr Robert Dickason;
+
+Mr Jonathan Glasson, King's Counsel represents the Department for Transport;
+
+Appearing remotely is Mr Michael Way, representing Scottish ministers;
+
+Similarly appearing remotely, Laura Thomson, King's Counsel, on behalf of the Convention of Scottish Local Authorities or COSLA;
+
+The Welsh Government is represented by Mr Jack Castle;
+
+The Local Government Association and Welsh Local Government Association by Thelma Stober today;
+
+The Department for the Economy of the Northern Ireland Government is represented remotely by Maria Mulholland;
+
+Finally, the British Business Bank represented today by Clare Whittle.
+
+A list of the core participants that you have designated, my Lady, for Module 9 will be published on the Inquiry website.
+
+For those who were either not granted core participant status or for those who did not apply to be designated a core participant, I wish to reiterate that not being a core participant in Module 9 in no way precludes any person, entity or group from first bringing any matter to the attention of the Inquiry; second, providing evidence and information; third, where appropriate and relevant, giving evidence at a hearing; and fourth, in the case of an individual affected by the pandemic, taking part in the Inquiry's Listening Exercise, Every Story Matters.
+
+So turning to the scope, the unprecedented economic challenge presented by the pandemic can be measured by the corresponding scale of the economic response of the UK Government and the governments of the devolved nations. The number of distinct interventions across those governments runs to several hundred. The interventions of government range from well-known UK-wide schemes to protect jobs, such as the coronavirus job retention scheme (which is commonly known as furlough), to less familiar, perhaps, targeted support for key sectors or industries, such as the Travelling Show People Fund administered by the Scottish Government.
+
+There will be few, if any, individuals or organisations throughout the United Kingdom that were unaffected by the economic impact of the pandemic and who did not, to some extent, engage with the economic interventions introduced by Government. The scale of the economic impact and the corresponding scale of the response means that the Inquiry will have to maintain a tight focus on the key themes and issues that emerge from the evidence that we are in the process of gathering.
+
+The provisional scope of Module 9 is in these terms. This module will identify the broad range of economic interventions taken by government across all nations of the United Kingdom in response to the pandemic, such as: (i) support for business, jobs and self-employed, including the Coronavirus Job Retention Scheme, the Self-Employment Income Support Scheme, loan schemes, business rates relief and grants; second additional funding for relevant public services; third, additional funding for the voluntary and community sector; and, fourth, benefits and sick pay and support for vulnerable people.
+
+The module will consider how economic support was in fact delivered by the UK Government, the devolved administrations and local government by conducting an examination of some of the key interventions. In doing so, it will consider issues including:
+
+(i) How was economic decision-making structured and undertaken by the UK Government, the devolved administrations and local government? To what extent was there an open exchange of economic information, forecasting and expert advice. In particular, who was providing economic advice and how was that advice received, considered and shared within the UK Government, the devolved administrations and local government? How effectively were the structures and systems for economic decision-making across those governments aligned and with what effect? How wide was the consultation as to the range of economic measures considered or implemented?
+
+Second, how were the interventions made by the UK Government, the devolved administrations and local government funded? In particular, how were the allocated funds identified and generated?
+
+Third, by what criteria and with what policy objectives were individual economic interventions identified and developed? In particular, how was the timing of interventions determined and communicated across the UK Government and the devolved administrations? What consideration, if any, was given to the equality of impact of the economic support delivered as between particular groups, including those who were at greater risk or otherwise vulnerable?
+
+Fourth, how were mechanisms for delivery identified, developed and implemented? How effective and successful were such mechanisms? How was success defined, evaluated and/or monitored? How was it ensured that support was appropriately targeted and effective? How, if at all, was the equality of the impact of support delivered monitored and were steps taken to reduce any disparities?
+
+Fifth, how were decisions taken to end the support provided and what criteria determined the timing of the cessation of support?
+
+Sixth, what steps were taken to safeguard public monies and manage financial risk? What steps were taken to reduce or prevent fraudulent and erroneous claims? Were those measures adequate and appropriate?
+
+Seventh and finally, was there any variation in the support offered across the United Kingdom. If so, how and why did that variation come about and did any identified departure from a UK-wide approach of support reduce or increase the efficacy of the support offered?
+
+My Lady, I'm going to make both some general observations on the draft outline of scope and also some short submissions relating to some of the matters raised in the written submissions received from core participants prior to this preliminary hearing. Generally, those core participants who have provided written submissions have acknowledged the need for a focused approach to the scope of this module and supported the approach that we have advocated in our written note.
+
+In keeping with the need to maintain a tight focus, the provisional scope, consistent with the terms of reference of the Inquiry, reflects the fact that Module 9 is primarily an investigation into the response of government to the economic impact of the pandemic; it is not an investigation of the nature and scale of that impact.
+
+The focus of the module is not upon establishing an exhaustive factual narrative account of the economic measures taken by government, but rather a forensic examination of the systems and structures that were in place across government to manage the economic response to the pandemic, the identification of the core policy objectives of government that informed its economic response and an evaluation of the design, implementation and efficacy of the measures taken as against their stated objectives.
+
+As your Ladyship has made absolutely clear throughout the Inquiry to date, the unequal impact of the pandemic and the response to it on at-risk or vulnerable people has been at the heart of this Inquiry since its inception. Consideration of the equality or inequality of the support that was provided will run through all aspects of the investigation with a focus on what consideration, if any, was given to those who were at greater social or economic risk, how the impact on vulnerable groups was monitored and what steps were taken to reduce any disparities identified. We intend to take a broad approach when considering this unequal impact in Module 9, consistent with your Ladyship's approach in earlier modules, and the Inquiry's equalities strategy.
+
+Further, we also intend to include specific consideration of those who were economically vulnerable. Our consideration will not be limited to the support of business or those who were and remained in work throughout the pandemic. Those who were socially or economically vulnerable before the pandemic, or became so as a result of the pandemic, plainly fall within the scope of Module 9.
+
+The examination of the broad sets of questions identified in the provisional outline of scope will be conducted by an in-depth analysis of some of the key economic interventions of government. That will involve the examination of interventions that were delivered by the UK Government and also interventions delivered by the devolved administrations and through local government. Which interventions are identified for in-depth analysis and the final form and content of that analysis will be informed by the process of evidence-gathering and by our ongoing engagement with the core participants.
+
+Given the scale of the economic response, we submit that an in-depth examination of a proportionate selection of schemes will best enable the Inquiry to identify lessons that can be learnt and inform any recommendations for the future.
+
+The provisional scope reflects the terms of reference of the Inquiry in also requiring Module 9 to consider additional funding for relevant public services and, consistent with the general economic focus of Module 9, this strand of investigation will be focused upon measures taken by government to support public services that were central to the wider functioning of the economy: for example, the support provided to rail and bus networks and operators to ensure that essential transport infrastructure was maintained during the pandemic.
+
+It is also important to stress that additional funding for the voluntary and community sector is an important strand of the scope. A number of core participants have commented upon the need to capture the experiences of those who worked in those sectors and I will say a little more about that when I address your Ladyship on the Rule 9 and evidence-gathering process, if I may.
+
+The scope also references the requirement in the terms of reference that the Inquiry considers steps taken to safeguard public money and manage financial risk, and that includes consideration of measures taken to reduce fraud and error. That aspect of the investigation is likely to focus on scheme design and implementation and not, given the temporal remit of the Inquiry ends with the day it was established, upon the success or otherwise of measures taken post-pandemic to audit, reclaim or recover monies expended in error or as a result of fraud.
+
+The issues will undoubtedly continue to be refined over time and some may emerge during the evidence-gathering process, and we are grateful to all core participants for their constructive engagement in preparation for this preliminary hearing and for the considered written submissions that we received. I need to briefly address some of those submissions at this stage.
+
+A number of core participants have stressed that, from their perspectives, the pre-pandemic economic context for the groups that they represent is paramount and that any examination of the economic response of government must be conducted through the lens of that pre-existing economic context. Whilst those core participants are right to observe that the investigation in Module 9 must have due regard to the pre-existing context, we make the following submissions:
+
+First, Module 9 follows earlier modules and, in particular, Modules 1 and 2 that have considered to some significant extent the context in which the pandemic occurred. Module 9 does not present an opportunity to retread the ground that has already been covered in those earlier modules; rather, it will build on the evidence that has previously been received by the Inquiry.
+
+Second, whilst Module 9 must have regard to the pre-pandemic context, it is not within the scope of this module to investigate the political decisions of previous governments that gave rise to it.
+
+Third, Module 9 is concerned with the economic response of the government to the pandemic. The pre-existing structures through which that response was delivered, including the benefits system, will of course have to be examined in this module. The examination of those structures does not, in our submission, bring within the scope of this module a political analysis and argument as to the wider ambit of state support outside the response to the pandemic.
+
+We are also invited by those representing Long Covid Groups to give assurances that consideration of those suffering from Long Covid will run through all aspects of our investigation in this module. The Inquiry has well in mind the experience of those who have contracted Long Covid and those who may have consequently become economically vulnerable, but any examination of those issues must be proportionate and within the constraints of the wider module.
+
+With that in mind, to take an example, the funding of occupational support specifically for healthcare workers suffering from Long Covid appears to fall out with the scope of Module 9.
+
+The TUC note, in their submissions, the overlap between Module 7 (which is Test, Trace and Isolate) which will consider factors influencing compliance including the financial and practical support to those required to isolate, and this module, which will consider a broad range of support, including benefits, sick pay, and support for vulnerable people.
+
+Your Ladyship explained in your ruling on 10 July 2024 that Module 7's focus will be on what practical and financial support was available in the limited context of how that support impacted on isolation as a result of testing and tracing policies. Module 7 will investigate, in a focused and proportionate way, the specific financial support put in place as part of the Test, Trace and Isolate systems adopted as one of the factors influencing compliance. The counsel teams on Module 7 and this module are working closely together and Module 9 is intended to commence where the boundaries of Module 7 and other earlier modules end.
+
+And so, whereas Module 7 is considering those matters from a public health perspective, Module 9 will examine them from an economic perspective only.
+
+Turning then to evidence requests and a Rule 9 update. The Inquiry legal team has already made what we consider to be very good progress in terms of commencing the process of evidence-gathering. As we hope was clear from our written note circulated to core participants in advance of this hearing, we are adopting a multifaceted approach to evidence-gathering. In addition to the issuing of Rule 9 requests to organisations and individuals, we are in parallel gathering evidence from organisations that are broadly representative of those businesses and individuals who are likely to know experienced and accessed the schemes implemented by government in their economic response to the pandemic. The experience of individuals will be captured by the use of the Inquiry's listening exercise, Every Story Matters. None of these evidence-gathering tools sit in silos and, for example, if responses to questionnaires identify further areas of investigation, then further Rule 9 requests may be made of organisations or individuals.
+
+The Inquiry has already sent questionnaires to initial tranche of 56 organisations that represent the interests of the self-employed, business and charitable groups across a range of sectors. The returns from these questionnaires will assist the Inquiry in gathering information, identifying themes and informing areas for further investigation that can be targeted in Rule 9 requests where appropriate. This is very much a first tranche and further questionnaires will follow.
+
+In that respect, we acknowledge that the initial 56 organisations do have a primarily business focus and that it might appear that the voluntary and community sector, those representing vulnerable groups, have not been included in this strand of investigation. We assure those core participants who raised this concern that the Inquiry legal team has very much in mind the need to gather evidence from organisations that are representative of, or operating within, those sectors. We are in the process of issuing a further tranche of questionnaires to a number of those organisations, having adapted the form and content of the questionnaires with the aim of captured information of particular relevance to those sectors.
+
+The Rule 9 requests themselves are being or will be issued on an iterative basis. The first tranche of requests will be to institutions, and the requests to His Majesty's Treasury is in the final draft form and will be issued imminently. The requests that we have made of recipients will be focused on particular issues or topics arising from the Provisional Outline of Scope for Module 9. The Inquiry legal team has very much in mind the potential breadth of this module and the corresponding need for Rule 9 requests to be as tightly focused as possible on the key issues and themes that will run through our investigation.
+
+The TUC, CPAG, Long Covid Groups and Disabled People's Organisations have included suggestions in their submissions for recipients of either questionnaires or Rule 9 requests. We thank those core participants for their engagement on this issue and those submissions will be considered.
+
+Further Rule 9 requests will be issued on a rolling basis, to other relevant individuals, organisations, professional bodies or other entities who hold information relevant to Module 9's investigation. It goes without saying that anyone who holds information or documents that they may wish to provide to the Inquiry as being relevant to Module 9's Provisional Outline of Scope may do so, without awaiting a Rule 9 request. Where organisations or individuals have previously provided evidence to the Inquiry, we are taking that as the baseline for our investigation and are seeking to build on that evidence and material previously provided.
+
+In line with a determination made in Module 1, core participants will not be provided with copies of the Rule 9 requests made by the Inquiry. Disclosure to the core participants of the Rule 9 requests themselves (as opposed to the relevant documents and material generated by them) is neither required by the Inquiry Rules nor generally established by past practice. Furthermore, it would serve little practical purpose given the wide scope and detailed nature of the Rule 9 requests that are being made.
+
+To ensure that core participants are kept properly informed, the Inquiry will ensure that the Module 9 lead solicitor provides monthly updates to core participants on the progress of the Rule 9 work. Such updates will include a summary of who has received Rule 9 requests, the topics those requests cover, what categories of documents have been requested, when the request was made and by when a response is expected. The Inquiry legal team confirm that, for the purposes of Module 9, core participants will receive monthly updates commencing at the beginning of December of this year.
+
+Turning then to experts.
+
+The Inquiry currently considers expert evidence will assist the Module 9 investigation to establish the economic context in which the pandemic occurred and the range of viable economic policy options that were available to government. The Inquiry has therefore provisionally identified a number of topics on which the assistance of expert witnesses may be sought.
+
+These broad areas are: (a) economic policy making, so, consideration of the principles of good policy making in the design and delivery of economic interventions within the framework governing public expenditure. And, an assessment of the structures and processes used during the pandemic.
+
+(b) public finances and macroeconomics: the macroeconomic considerations underlying different categories of economic support packages and the value and any risks inherent in such interventions. Analysis of the funding mechanisms available to government and the role of monetary policy.
+
+(c) devolved and local government finance: building on evidence already given in Modules 2A to C and considering the funding sources available to the devolved administrations and the mechanisms available to local government to enable it to deliver support in a pandemic.
+
+(d) the labour market and inequality: including a summary of the literature on the impact of previous crises on individuals, previous emergency labour market policies, identification of those in the labour market who were most vulnerable and consideration of the equality of impact by occupation, region, gender, age, income level, and where possible ethnicity and disability.
+
+And (e) benefits: to provide an explanation of the benefits and transfer system and provide context as to the historic levels of spend. To analyse the efficacy of the implementation and delivery of support via the benefit system as part of the economic response to the pandemic.
+
+Whilst the appointment of experts to the Inquiry are exclusively matters exclusively for your Ladyship as Chair, we are grateful to those core participants who have made suggestions about the potential areas of expert evidence or as to the identity of experts they consider to be appropriately qualified to comment on certain issues. Accepting the well-made observations of the Scottish and Welsh Governments, we accept that insofar as devolved and local government finance is concerned, that any instructed experts will need to consider the position in each of the devolved nations and the economies of the devolved nations are varied.
+
+The identities of instructed experts will be contained in the module lead solicitor's update notes. Once experts are instructed, these notes will also provide further details of the topics which the experts will address in their reports, thereby enabling core participants to comment on those matters should they wish to do so. Core participants will also have the opportunity to comment on the draft reports of the experts prior to their finalisation.
+
+Turning then to disclosure, the Inquiry has already identified material potentially relevant to Module 9 that has been provided to other modules. This material will be reviewed for disclosure and Module 9 hopes to start making disclosure of this material by the end of 2024.
+
+Disclosure will be specific to Module 9 such that the information and documents received through the Rule 9 process will be reviewed and, if considered relevant for disclosure, redacted in line with a redactions protocol so as to remove sensitive material.
+
+Disclosure of relevant, redacted documentation will take place in tranches. All core participants in Module 9 will receive all of the disclosable documents for that module? The electronic disclosure system that will be used to provide documents to core participants will be Relativity.
+
+Turning then to Every Story Matters, although the focus of Module 9 is not to examine in detail the impact of the pandemic itself on the economic or on individuals, the human experience of those who accessed (or who did not access or were unable to access) the schemes offered by government will help inform us about the success or failure of delivery of support and will inform the recommendations made for the future. We intend to utilise the Inquiry's listening exercise, Every Story Matters, in order to capture that human experience and make use of it in this module's proceedings.
+
+Themed records produced by Every Story Matters will be submitted into the investigation. These records will be anonymised, disclosed to the Inquiry's core participants and used in evidence, so that they can form part of the Inquiry's written record. Every Story Matters will identify trends and themes that illustrate systemic issues and may include illustrative case studies.
+
+A proposed set of key lines of enquiry for Every Story Matters has been shared with core participants along with the categories of potential audience groups that is proposed are included in the sampling for qualitative interviews. We are grateful for all written representations received in respect of the key lines of enquiry which will be considered once your Ladyship has heard all of the submissions from core participants and made any necessary decisions about the scope of Module 9.
+
+Turning then to future dates for this module. A further preliminary hearing will take place at Dorland House in the autumn or winter of 2025. The date will be notified to core participants in good time and published on the Inquiry's website.
+
+Current plans will see the public hearings in Module 9 take place in the winter of 2025 here at Dorland House. Updates on timetabling will be provided to the core participants in due course and will also be available on the Inquiry's website.
+
+My Lady, those are the issues on which I seek to address you as Counsel to the Inquiry. I am now going to give way to those five core participants who wish to make oral submissions in the course of this the hearing. I think it's intended that, rather than taking a break now, your Ladyship would like to hear from Danny Friedman, King's Counsel on behalf of the Disabled People's Organisations and then potentially the Trades Union Congress before we take the break.
+
+**Lady Hallett**: Thank you very much, Mr Wright, very grateful.
+
+Mr Friedman?
+
+Submissions on Behalf of Disabled People's Organisations by Mr Friedman KC
+--------------------------------------------------------------------------
+
+**Mr Friedman**: Thank you, my Lady, and thank you too to Mr Wright and his team for the preparation of today.
+
+We act for Disability Rights UK and Disability Action Northern Ireland. They are disabled people's organisations, or DPO, meaning that they are organisations run by and for disabled people. They are particularly grateful to be core participants in this module because they want economic decision-making in this country to become more aware of and made more responsive to disabled people.
+
+The DPO want that not for reasons of narrow identity politics but because we are all in a state of diverse and changing conditions. None of us are static in our bodily and psychological resilience. In that sense, we are all vulnerable. All of us entitled not to be excluded and not to be diminished in our full and effective participation in society on an equal basis with others, and Covid makes that plain.
+
+But Covid also makes plain that some of us are more vulnerable than others, and that is largely because of political choices that our economy is based on. When the government stepped in to close the economy, to then transfer it into homes, to pay wages not to work and sustain businesses without them doing business, it described itself as doing something exceptional. What the DPO want my Lady to think about is whether what government was doing was just an enhanced and far more transparent version of what it always does.
+
+That is why the DPO have suggested a starting point to this module that asks what if, in fact, the economic policies during the pandemic were not radical at all. What if the policies deliberately failed to distribute to those in need but instead leveraged sovereign debt to prioritise loans, borrowing, wages and easements of multiple regulations and duties, and what if those support measures were given vastly greater prioritisation over interventions for those who were unable to substantially engage in any of those parts of the economy or to benefit from any of that type of support.
+
+Then, at the very same time, what if those economic policies relied upon a largely free or astonishingly low paid industry of human care, an industry based on the social capital of women, families, disabled people caring for disabled people, and a workforce generated by poverty and migrancy, all which was barely thought about at all in Treasury policy formation, let alone afforded monetary value or macroeconomic status.
+
+Finally, what if that occurred after a decade of fiscal austerity that chose to cut government spending, that diminished disabled people's financial, logistical, spatial and health capabilities, as well as the support services in the care sector they relied upon.
+
+My Lady, we make these observations to prepare for your ninth, not your first, module. The Inquiry has now seen, as Mr Wright has just alluded to, that there is context and that, when the pandemic broke out, not only was there no plan for disabled people but the failure to plan was not recognised then and, at least at the end of Module 2 evidence, it was still not recognised.
+
+In the closing submissions for Module 2, the DPO therefore suggested a thought experiment of what proper recognition for disabled people during the pandemic would have looked like. At the very least, it would have publicly confronted from the outset that cuts in benefits and services over the previous decade had drastically compromised the resilience of disabled people to deal with the existential threats of the virus, but also the consequences of the response to it.
+
+That level of public reckoning and consequential planning did not happen. In particular, the government's pandemic economic decision-making manifestly did not redistribute money and resources to disabled people. The primary steps taken by the Department of Work and Pensions to support vulnerable individuals were relaxations of the conditions and procedures for claiming benefits, which in normal times are notoriously harsh for those obliged to comply with them.
+
+In financial terms, Universal Credit was topped up by £20 a week but there was no equivalent top-up for 2 million largely disabled people on legacy benefits, nor was the top-up of the £67.25 for carers' allowance in England. The average wage for paid carers was just over £9 an hour.
+
+My Lady, from the point of view of disabled people who lived with these realities, may I just therefore limit oral comments to three aspects of the provisional outline of issues. The first point is that issue 1 will investigate how the decision-making processes across government was structured. On that, the DPO also has a starting position. When it comes to disabled people, there is no structure to government economic decision-making. The Inquiry has already seen that disabled people fared badly under the current constitutional arrangements of government, which is to say they are politically vulnerable.
+
+First, there is no integrated government approach to ensuring joined up consideration of disabled people. That is a fundamental problem because issues relating to disabled people including impairment-specific matters as well as intersectional ones do not enjoy high levels of cross-government awareness. Whereas SAGE existed to assist contemplation of the impact of pandemic public health policies, there was never a financial equivalent to work through the implications of economic policies. No doubt the Inquiry will receive statements reflecting a Whitehall confidence that the Treasury could act as its own equality impact adviser.
+
+Given the predisposition of all bureaucracy not to consider disabled people, the DPO question whether the Treasury veto of that proposal to have its own SAGE was the right thing to do in a crisis of this kind. It certainly had the consequence of excluding external advisers from a diverse range of backgrounds, including disabled people and DPOs.
+
+The second related structural problem is that the UK machinery of government responds badly to the unequal impact of disasters because it does not have the effective mechanisms or ministerial-led systems to act on behalf of marginalised parts of societies when disasters strike. For Module 9, the problem will be well exemplified by the ineffectiveness of the Disability Unit and the Officer of the Minister for Disabled People to shape UK pandemic economic policy formation beyond the limits of prioritising the delivery of business continuity in the payment of benefits.
+
+In addition, what the Inquiry's devolved government decision-making modules have already strongly suggested is that the machinery of government lacked arrangements for the Treasury to properly consider the differences in the economic geography of disabled people's health inequalities across the United Kingdom.
+
+The third problem with structure is that, beyond government, disabled people and their representative organisations don't count as a consultation partner in the way that other actors in the economy do. On this, government witnesses, other widely respected figures and human rights obligations, are now beginning to align around the language of co-production and co-design. However, the practice arising from the obligation in the United Nations Convention of the Rights of People with Disabilities, that requires disabled people and their representative groups to be actively involved and closely consulted on policies that affect them, is still highly limited.
+
+Its results can also be tokenistic, such that, even when pandemic emergency funds were announced, it was often unclear how they would be used and/or how they could be accessed and so many disabled people and DPOs did not get near to them.
+
+One the often claimed virtues of sound government is to cost proposals and to act with fiscal responsibility. Going forward, the DPO have already asked the Inquiry to consider the greater potential of costing in accordance with social responsibility or, as commentators call it, human rights based budgeting. It involves proper and transparent equality impact assessment but also genuine collaboration between different layers of state and society in the development of budget funding and its targeted delivery.
+
+Moving to provisional issues 3 and 4, they rightly seek to consider the impact of economic decision-making on "those who were at greater risk or otherwise vulnerable". What that provisional wording does not do explicitly is to recognise that there were collateral impacts that could make people at greater risk and otherwise render them vulnerable. For the DPO, this includes decisions about economic interventions affecting carers of all kinds: that includes care workers in care homes, temporary bank and agency care workers who work in multiple locations and settings, personal assistants who were employed by disabled people themselves using the direct payment scheme, and unpaid and informal carers.
+
+On the economics of the care home sector, DPO have specifically asked the Inquiry to consider the sufficiency of steps that were taken to prevent care workers inadvertently spreading the virus. My Lady, you will recall the disagreement with within government based on the Vivaldi Report in July 2020 that showed that care workers enhanced fatal transmission of Covid-19 in the first wave because they did not get sick pay and/or because they could not afford to work in only one care home.
+
+This led Minister Whately in December 2020, with her Secretary of State's backing, to recommend a furlough-type scheme that would have limited labour to single care settings and compensated workers for lost earnings. The Treasury did not accept that proposal, despite recognition in the minutes of the ministerial Covid-O group of clear and shared understanding of the need to stop staff movement between care homes.
+
+In Module 2, Mr Sunak, as previous Chancellor of the Exchequer, reserved the Treasury position as to why that was the case, as he had not been directly involved in the decision-making. My Lady, we respectfully ask that, even if witnesses are questioned about this in Module 6, it may well be that the resolution of that line of inquiry with treasury witnesses should be contemplated to complete in Module 9.
+
+Finally, issue 5 refers to the criteria and the timing of the cessation of economic support. We take this to mean: why did Covid economics end when it ended? That is obviously a valid question. But disabled people did not experience cessation of what they never had. Indeed, this provisional issue carries with it a troubling related issue. The DPO want to know what happened to the support and services for disabled people that was stopped during the pandemic and in some cases never resumed?
+
+By the time the Inquiry gets to Module 9, you will have a huge amount of information about that from the impact evidence and the Inquiry's project Every Story Matters. Module 9 will be the opportunity to get the Treasury's side of the story for the pandemic period, to hear from witnesses, both ministers and senior civil servants, as to whether and how they registered certain exceptional areas of economic need and where the prioritisation for spending lay.
+
+At the point of cessation of economic support, there was also a government policy to build back better and we ask the Inquiry to seek to discover what role, if any, the Treasury had in its formation. For all its professed transformational approach, the policy continued to pre-pandemic economic priorities and their resultant inequalities, which even a global disaster did not dislodge. Building Back Better was therefore continued reliance on unpaid and low-paid labour to provide care and other essential services, combined with retrenchment of benefits and economic support for vulnerable people, including disabled people across the UK.
+
+For DPO, this was building back worse and even more so because of the narrative that Covid economics was somehow unprecedented, progressive, successful and humane, and that hardships endured were only the terrible consequences of fate, rather than the product of political choice. It is that very narrative about the pandemic that makes disabled people vulnerable. The DPO can only hope that, in the Inquiry's modules to come, government and expert witnesses have brighter and more truly transformational economic ideas about planning for the pandemics of the future.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much indeed Mr Friedman. As ever, some very interesting points and just one of them which is very important, I'm very conscious of the point about staff moving between care homes and I've made it plain to all the teams that it must not fall between the gaps. I think Mr Jacobs has addressed me on it before and so I am conscious, obviously, of all the points that you make but I am very grateful to you.
+
+**Mr Friedman**: Thank you, my Lady.
+
+**Lady Hallett**: Mr Jacobs? Submissions of behalf of Trades Union Congress by MR JACOBS
+
+**Mr Jacobs**: Good morning, my Lady. As you are aware, these are submissions of the Trades Union Congress. They can be really quite short in part because there is broad agreement as to the proposed scope of this module.
+
+The Trades Union Congress seeks to be the voice of Britain at work and working people, as the pandemic hit, faced not just the immediate physical health risks of the pandemic but also its vast economic consequences and the loss of businesses, jobs and livelihoods.
+
+A primary concern of the TUC throughout was to ensure that action was taken to protect jobs to the greatest extent possible. It is an area in which there was some collaborative work with the government as to the establishment of economic support schemes, including but not limited to the Coronavirus Job Retention Scheme.
+
+An overview of the TUC's input and that of its affiliated unions is provided in our written submissions and I do not repeat that now. Those schemes achieved a lot but there will be important lessons to learn as to how they can be more effective should they be necessary once again.
+
+One aspect of significant concern not resolved during the pandemic was the particularly difficult position of those in insecure work, of which there were and are a very great many, and those who face self-isolation with support limited to the extremely low level of statutory sick pay or no sick pay at all. My Lady, you are very familiar with those concerns from earlier modules, particularly Modules 2 and 7, but we are pleased to see sick pay feature in the outline of scope and we note and welcome the approach set out by Counsel to the Inquiry this morning that the evidence in this module will take off from where it is left by Module 7.
+
+Other core participants have referenced the important context of austerity and its relationship with pre-existing inequalities as important contexts for this module. The TUC, as core participants in earlier modules, have seen the evidence on that topic, in particular from Modules 1 and 2 and it will be important to draw it into this module.
+
+Finally, we know that consideration will be given to the list of organisations annexed to our written submission, all of which represent different sectors of the workforce as potential recipients of questionnaires and Rule 9 requests.
+
+Beyond that, my Lady, we look forward to working with the Inquiry team in this module and those are our submissions.
+
+**Lady Hallett**: Thank you very much, Mr Jacobs. In which case I think we might go to Ms Hannett, unless you prefer I take a break?
+
+Submissions on Behalf of Long Covid SOS and Long Covid Support by Ms Hannett KC
+-------------------------------------------------------------------------------
+
+**Ms Hannett**: Not at all, my Lady.
+
+I appear on behalf the Long Covid Groups in this Module, that's Long Covid SOS, and Long Covid Support. I am assisted by Ms Iengar and Ms Sivakumaran. I am instructed by Ms Jane Ryan of Byatt Murphy solicitors.
+
+My Lady, Long Covid SOS was established in June 2020 as a volunteer-run patient advocacy and campaign group. Long Covid SOS advocates for recognition, research and rehabilitation for people impacted by Long Covid. Long Covid SOS became a registered charity in May 2022.
+
+Long Covid Support began as a peer support Facebook group in May 2020, registering as a charitable company in May 2021. Long Covid Support provides support and information to sufferers of Long Covid and campaigns for equitable access to high quality healthcare, employment and welfare rights, and research into treatment of Long Covid. Together, in this module, they represent the cohort of the population whose lives have been devastated by Long Covid.
+
+The Inquiry has our written submissions. Amongst other points, these make detailed proposals as to disclosure, at paragraphs 19 to 20, to topics we consider should be included in the expert evidence the Inquiry proposes to obtain -- that's paragraph 21 -- and to suggested key lines of enquiry for Every Story Matters, paragraph 22.
+
+My Lady, I don't propose to make further submissions on those points, anticipating that the Inquiry will consider the points that we have made in writing with some care. Rather, I propose to focus these observations on three points.
+
+First, the economic impact of Long Covid, both on individual sufferers and on the economy more widely; second, the provisional scope of Module 9 and, finally, third, Rule 9 requests.
+
+My Lady, first dealing with the impact, in order to understand the economic impact of Long Covid, one must first understand the size of the cohort it affects, and the nature of the impact that it has.
+
+The most recent statistics from the Office for National Statistics say an estimated 2 million people who represent 3.3% of the population in England and Scotland experience self-reported Long Covid as of March 2024. 74.7% of those with self-reported Long Covid, an estimated 1.5 million people, reported that Long Covid adversely affected their daily activities. At 19.2%, that's 381,000 people, reported their ability to undertake daily activities had been limited a lot.
+
+Long Covid has therefore created a cohort of newly disabled people. The economic effects of Long Covid on those individuals have been profound and long-lasting. A December 2023 report from the National Institute for Health and Care Research found that 52% of respondents with Long Covid worked fewer hours or had stopped working. On average, people had a 25% drop in earnings, which equated to 10,000 -- over £10,000 each in lost earnings. Further, 32% of respondents needed care from an informal carer.
+
+Those individual impacts are not evenly distributed throughout society. The July 2022 report for the Institute for Fiscal Studies reported the economic effects of Long Covid were disproportionately concentrated on the more deprived groups.
+
+These individual stories of economic impact add up to a significant impact on the UK economy. A study by Cambridge Econometrics suggests Long Covid may have a macroeconomic cost of 1.5 million of GDP each year.
+
+Further, the IFS report described the impact of Long Covid as being equivalent to 110,000 workers being off sick on any given day. These findings reflect the experiences of the members of the Long Covid Groups who have suffered loss of earnings, regression in career advancement, complete loss of livelihood, financial instability and, in some cases, the loss of their homes.
+
+My Lady, I turn second to scope. The Long Covid Groups make three points about the scope of Module 9. First, at paragraph 8 of the written submissions, they identified a number of key themes which call for in-depth analysis in Module 9.
+
+First, the provisional of financial support for self-isolation and other economic policies aimed at reducing transmission of Covid-19 during lockdowns or during the infection of the worker.
+
+Second, the provision of long-term sick pay, and other financial and occupational support for people whose ability to work was impacted by Long Covid, either temporarily or permanently, and that should include the self-employed, my Lady.
+
+Third, the provision of funding for public services to support people for Long Covid, for example, ensuring that dedicated funding for Long Covid services is ringfenced.
+
+Fourth the provision of guidance and support for business and organisations on how to support workers and employees who suffer from Long Covid, including when to carry out an occupational assessment and to introduce reasonable adjustments to facilitate employees' return to work.
+
+That's the first point on scope.
+
+The second point on scope, as Counsel to the Inquiry indicated this morning, the Long Covid Groups do ask that the issue of Long Covid be looked at as a thread running through the topics to be examined by the module. We don't accept that this is disproportionate. We make this request to ensure that Long Covid is not siloed as a discrete topic. Rather, Long Covid and the economic response to it is properly to be regarded as directly connected to the economic response to Covid-19.
+
+Finally third the Long Covid Groups remain concerned about the examination of occupational support for healthcare workers. Counsel to the Inquiry confirmed this morning that this issue falls outside of Module 9. Yet, the Inquiry legal team in Module 3, Healthcare, have indicated it won't be looked at in Module 3 telling us that the issue falls within Module 9.
+
+The Chair will be aware that the Long Covid Groups have written to the Module 3 Inquiry legal team raising concerns about this issue falling between these two modules. Members of the Long Covid Groups who worked on the frontline as healthcare workers have lost their livelihoods after developing Long Covid from a workplace-acquired Covid-10 infection.
+
+The economic interventions necessary for those healthcare workers who damaged their own health to safeguard the health of others should be a critical part of this the Inquiry's work.
+
+Therefore, the Long Covid Groups urge the Inquiry to provide a clear indication this issue will be examined, and an indication of in which module.
+
+My Lady, turning, finally, third to Rule 9 requests, the Long Covid Groups welcome the explanation given by the Inquiry legal team as to the progress of the evidence-gathering exercise for Module 9. We make two overarching points about the approach to the Rule 9 so far.
+
+First, the requests thus far are tilted towards business networks and we welcome the acknowledgement by Counsel to the Inquiry this morning that a balance of worker and employee evidence is important.
+
+Second, the questionnaires and Rule 9 requests must include questions to recipients about the impact of and any response to Long Covid. Government departments should be asked about if and how the impact of Long Covid was taken into account in its economic decision-making. And we provide more detailed submissions on that point, my Lady, in paragraph 18 of our written submissions.
+
+In paragraph 17 of our written submissions, the Long Covid Groups identify a number of other non-governmental organisations that the Inquiry would be assisted by hearing from, and we ask that the Inquiry give careful consideration to those suggestions.
+
+In conclusion, the Long Covid Groups look forward to assisting the Inquiry with its important work in Module 9 and unless I can assist you anymore further those are sure submissions.
+
+**Lady Hallett**: Thank you very much indeed, Ms Hannett, everyone is being extremely efficient this morning, so unless anyone has any objections, I think we will go to Ms Smyth and then Mr Castle.
+
+Submissions on Behalf of Child Poverty Action Group by Ms Smyth
+---------------------------------------------------------------
+
+**Ms Smyth**: Thank you, my Lady. I appear on behalf of the Child Poverty Action Group which I will refer to as CPAG or C-PAG, but CPAG is the proper abbreviation.
+
+CPAG is a charity which works on behalf of the large number of children in the UK who are growing up in poverty, and I'll come on in a moment to say what that actually means.
+
+At the outset, CPAG want to acknowledge the devastating impact that the pandemic has had on children and families and, of course, the wider population. And, needless to say, very much welcome the grant of core participant status and the work which has been done by the Inquiry to date on this Module, and particularly welcome the involvement of the DPOs as a core participant.
+
+So the Inquiry has two sets of written submissions from us. Our main written submission is dated 11 October and our key lines of enquiry submission is dated 18 October, and we of course invite the Inquiry to consider all of those submissions but we wanted to take the opportunity now just to address some key and supplementary points and, if I may, I will adopt the following order.
+
+So first, to address what is poverty; second, to deal with CPAG and its expertise; and then, third, to highlight some substantive topics which for CPAG are absolutely key, and then finally just to briefly address some final procedural matters.
+
+So turning then to the first of those points, what is poverty, we've given detail in footnote 1 of our written submissions of 11 October of an important CPAG report which is called "Ending Child Poverty: Why and How", and what that explains very broad terms is that government statistics, annual government statistics are used to measure poverty. And, broadly, what it means is not having enough resources to meet the household's needs or not having the living conditions which are widely accepted in society in which you live as being usual.
+
+So for a child in poverty in the pandemic, that might mean that her parents didn't have enough money to ensure that her home was warm and free from damp, or it could mean inadequate access to the internet to do her schoolwork, or it could mean seeing the additional anxiety and stress her parents suffered as they struggled to keep up with their bills, having lost work, despite their best efforts to shield her from it. And, strikingly, some 1 in 4 children in the UK are growing up in poverty. And, also strikingly, of those children, 7 in 10 have at least one parent in work.
+
+It's still the case that in 2024, the strongest statistical predictor of how a child will succeed at school is family income, and needless to say, CPAG invites the Inquiry to place those children at the heart of Module 9.
+
+The second thing is that we've set out in detail in our written submissions about CPAG and its work and obviously I won't repeat that, but just to highlight three particular areas of expertise. The first is CPAG's technical expertise which we deal with in paragraph 4. And it's not only the author of some highly respected books, but it also advises the advisers. So, in other words, it acts as a specialist source of support to welfare rights advisers across the country.
+
+Second, it has absolutely unparalleled knowledge and understanding of how the benefits system operates on the ground which it gets not only from its co-ordination and liaison with allied organisations but also its work with individuals. That's in paragraph 5 of our submissions, and it means that CPAG is uniquely in place to assist the Inquiry with that aspect of this module.
+
+Then finally, as the Inquiry will have seen, there has been a wealth of work done by CPAG to understand the specific impact on the pandemic and that is all itemised in paragraph 6.
+
+So moving then to the third part, which is to deal with some substantive points, the Child Poverty Action Group's core submission is that many children and families entered the pandemic facing poverty and structural disadvantage and were failed and continue to be failed by the inadequacy of the economic measures which were introduced in response. So could I just draw out three points from our written submissions.
+
+First, we welcome what has been said this morning by Counsel to the Inquiry about the context and, of course, we appreciate that this Inquiry is not making political recommendations. Nonetheless, CPAG says that it's absolutely impossible to consider the adequacy of the economic interventions and, in particular, the benefits position, without understanding the position when the UK entered the pandemic.
+
+So, as we say in our written submissions, on the eve of the pandemic, the context was that benefits had been heavily cut in monetary terms and, in addition, policies, such the benefit cap, severed the connection between need and levels of support and that is in a context, as we say in paragraph 9, of disproportionate levels of poverty in certain protected groups.
+
+That had the consequence that those who entered the pandemic in poverty were particularly vulnerable to its economic impacts. They didn't have the resources to meet its demands and they bore the economic brunt as a result and, in that sense, we were not "all in it together". CPAG will share with the Inquiry its experience of those effects and it's suggested organisations which can do the same.
+
+So it is one of CPAG's core concerns for the Inquiry to understand this pre-existing context and crucially to examine whether this context was properly taken into account when designing and administering economic interventions, particularly benefits. If that didn't happen, then it's vital to understand why not and to examine what can be done to avoid that being repeated in future.
+
+Then second, turning to substantive measures, CPAG's position is that the measures which related to the design of the support failed to address and alleviate the stark impact of the pandemic on children and families who were already in poverty. So one example we've given, and it's been mentioned by Mr Friedman, is in paragraph 15.1 the £20 uplift in Universal Credit. Of course, while that was welcome for some, it was a blunt tool. For example, it didn't take account of family size. So both a single adult and a lone parent who was home schooling two children both received the same £20. Secondly, the benefit cap continued to operate in the pandemic so some families never saw the benefit of that £20. Even more strikingly, some actually saw their benefit decrease and, to give an example if somebody lost work, as a result of losing that work, they may have become subject to the benefit cap for the first time. So the impact of the pandemic on them was that they lost benefit.
+
+Then the final point we made in our written submissions to highlight now is that CPAG say that substantive failings were compounded by decisions taken in relation to administration of the benefit system, and we address that in paragraph 15.2.
+
+Could I just highlight two things at this stage. The first is that poor messaging resulted in real problems and often people didn't know that they had entitlement or they didn't recognise that they would lose entitlement. So one of the examples we've given is that it was several months before there was clear messaging that claiming Universal Credit would lead to a permanent loss of legacy benefits, even for people who ultimately were not eligible for Universal Credit.
+
+The second point we make is this: understandably, the government will want to address fraudulent benefits claims and to ensure that it pays the right amount of benefit but the experience of CPAG is that failings in administration in reality meant that many families weren't asked for relevant information or they didn't know that they needed to provide it and so genuine errors were made in their claims.
+
+To give another example, many families missed the retrospective identity check on the Universal Credit computer systems, often because they had ended they'd Universal Credit claims. As a result, they have received retrospective demands for payments and some are still trying to resolve that now.
+
+That's not to seek to go outside the scope of the matters addressed by counsel this morning. What CPAG say is: that needed to be built into implementation of the system, so if easements are to be applied, don't unfairly penalise people later, is essentially the point.
+
+So all of these individuals are genuine claimants who are often living in very difficult circumstances and they are still negotiating now not only the severe financial effects of the pandemic but also the stress and anxiety of DWP review exercises, often without support.
+
+So we invite the Inquiry to consider a number of things in that part of this module but, overarchingly, to consider whether government shortcomings have led to genuine claimants being caught up in those review exercises.
+
+To conclude that part of the submissions and in terms of recommendations, the core concern of CPAG is to ensure that recommendations are made to ensure financial investment for disadvantaged children and families, not just to recover from the consequences of the pandemic but also to ensure that we don't leave vast numbers of families and children already in poverty -- and I've given the statistics for that -- to bear the economic brunt of any future pandemic.
+
+Then, finally, just on a couple of procedural matters, CPAG support all the DPO suggestions in relation to Rule 9 requests. We've made a number of points in our written submissions in relation to the scope of Module 9, both the 11 and 18 October submission. If your Ladyship can bear with just to briefly draw out one point, and that relates to migrant groups, which we address in paragraph 22.
+
+In short, what CPAG say is that it's crucial to examine the position of those who had no access to benefits at all or who could only access benefits in very limited circumstances and, importantly, many of these migrants were in this country lawfully with leave to remain. Of course, given the circumstances of the pandemic, they couldn't leave the country, even if they'd wished to do so. So we've specifically made that point and we say that that is a group that ought to be specifically considered.
+
+Otherwise, we don't repeat our written submissions and CPAG very much looks forward to working with and assisting the Inquiry going forward.
+
+**Lady Hallett**: Thank you very much indeed, Ms Smyth, very grateful.
+
+I think it's Mr Castle, Welsh Government.
+
+Submissions on Behalf of the Welsh Government by Mr Castle
+----------------------------------------------------------
+
+**Mr Castle**: Bore da, my Lady. I appear on behalf of the Welsh Government. The Welsh Government reaffirms its full commitment to the Inquiry and its determination to provide the fullest possible co-operation, so that the decisions it took in response to the pandemic are thoroughly scrutinised.
+
+To that end, and as in all other modules, the Welsh Government will ensure that the Inquiry is provided with all the evidence it needs to fulfil its terms of reference.
+
+Economic decision-making, including support for businesses, additional funding for public services, voluntary and community sectors and support for vulnerable people in Wales is central to Module 9 and it is devolved to Welsh ministers.
+
+My Lady, as you know, the Welsh Government has provided written submissions which address in some detail the provisional scope of this module. I won't repeat those, other than to note that specific economic initiatives were established in Wales and they were separate for UK-wide economic response.
+
+The Welsh Government took significant steps to support businesses public services and vulnerable individuals during the pandemic. This included but was not limited to, an economic resilience fund which was the core financial scheme providing financial assistance for eligible businesses and organisations in Wales during the pandemic; a local government hardship fund; a third sector Covid-19 response fund for the voluntary and community sector, including Welsh charities and not for profit organisations, bodies which faced huge financial and operational pressures during the pandemic; a bus hardship fund and later a bus emergency scheme, as well as an emergency measures agreement with Transport for Wales Rail Services to support services at a time when use of public transport was at a record low; and a self-isolation support scheme was also established in Wales as a discretionary scheme whose purpose was to ease the financial barriers faced by people of low incomes when needing to self-isolate.
+
+The Welsh Government fully understands the importance of recognising the difficulty suffered by people from different communities and backgrounds, including those who were at greater risk or otherwise vulnerable and welcomed the indication that the equality of economic interventions, including equality of impact, is to be considered in Module 9.
+
+In providing support to businesses and the voluntary and community sectors, the Welsh Government was in regular contact with organisations in Wales in putting together packages of economic support. The Welsh Government also took steps to communicate in Welsh with organisations that worked in that language, thereby ensuring they were not unduly disadvantaged when accessing information about the available support.
+
+The Welsh Government is pleased to see in Counsel to the Inquiry's note, provided ahead of today's hearing, that a number of the national social partners and stakeholders that it engaged with during the pandemic have received questionnaires to support its work in this module. We would also suggest that questionnaires are sent to other specific devolved organisations, which played an important role in informing and decision-making in Wales, Scotland and Northern Ireland.
+
+We have made representations on this in our written submissions to assist the Inquiry and offer any further assistance if needed.
+
+The Welsh Government also welcomes the expert report on devolved and local government finance but it would ask the Inquiry to make sure that all expert reports prepared for Module 9 properly consider devolved matters and the distinctive and different economies of the four nations, in order to ensure that the Inquiry gathers as complete an evidential picture as it can.
+
+As the Inquiry progresses on to its ninth module, the Welsh Government will continue to strive to learn lessons from the handling of the pandemic. The Welsh Government warmly supports the continuing importance rightly given to Every Story Matters. Understanding the human experience of those who accessed or who did not access or who were unable to access the economic schemes offered in the four nations will form a central part of the Inquiry's work.
+
+The scope of Module 9 and the lines of enquiry identified in Counsel to the Inquiry's note raise important issues of far-reaching concern for all four governments. Those matters include: equality of access to support; the reasons for any disparities in the provision of support; whether government interventions had an unequal impact, with consideration given to those who were at greater risk of financial hardship or were vulnerable, whether economically or otherwise. The lessons learned in this module will ensure that this Welsh Government, and future Welsh governments, have the best possible information to prepare for, and respond to, any future public health challenges.
+
+Diolch yn fawr, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Mr Castle.
+
+Well, I'm extremely impressed by the efficiency and economy of all those who made submissions. I don't know if you wanted to add anything, Mr Wright?
+
+**Mr Wright**: No, thank you very much, my Lady.
+
+**Lady Hallett**: Well, it all bodes extremely well for the conduct of this module. I found all the submissions very constructive and helpful and I thank everybody for their participation.
+
+That completes this preliminary hearing and I shall return on Monday, 28 October when Module 3 resumes its hearings at 10.30. Thank you all very much.
+
+*(11.52 am)*
+
+*(The preliminary hearing concluded)*
+
