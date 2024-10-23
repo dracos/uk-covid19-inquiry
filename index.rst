@@ -47,4 +47,5 @@ Contents
    module-6/index.rst
    module-7/index.rst
    module-8/index.rst
+   module-9/index.rst
    core-participants.rst
