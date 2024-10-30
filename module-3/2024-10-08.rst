@@ -831,11 +831,11 @@ I think it's right, as a result of your medical problems, were you on the shield
 
 **Lead 3**: Okay. So if you have your own experience to bring to bear as well as speaking on behalf of CVF, please do say so.
 
-Can I start, please, with clinically extremely vulnerable people and the shielding list. Indeed, we have heard about the make-up of the CEV list from Professor Whitty and others who gave evidence to us earlier, but it might just be easier to call up on screen, please, INQ000409574_0010 just to remind ourselves, without having to go through it, those that, as at 1 April, were deemed to be the highest clinical risk, and a number of different people with medical vulnerabilities set out theres.
+Can I start, please, with clinically extremely vulnerable people and the shielding list. Indeed, we have heard about the make-up of the CEV list from Professor Whitty and others who gave evidence to us earlier, but it might just be easier to call up on screen, please, INQ000409574_0010 just to remind ourselves, without having to go through it, those that, as at 1 April, were deemed to be the highest clinical risk, and a number of different people with medical vulnerabilities set out there.
 
 I think, is it right, that CVF have concerns about who was on it who should not have been, and conversely who was not on it who should have been, so can I ask you about those two sides of the coin, please.
 
-**Dr Catherine Finnis**: Yes, that's absolutely right. So as we understand it, there was an algorithm initially that -- who identify people who should be put on the shielding list, but there were people, because algorithms are never perfect and there's a data quality issue I think you have heard about within the NHS anyway, some people weren't identified by the algorithm. They were then left thinking, "Well, you know, I don't appear to have been told that I'm being shielded", and that then led them to contact their general practitioner to ask whether they indeed could be added on.
+**Dr Catherine Finnis**: Yes, that's absolutely right. So as we understand it, there was an algorithm initially that -- who identify people who should be put on the shielding list, but there were people, because algorithms are never perfect and there's a data quality issue that I think you have heard about within the NHS anyway, some people weren't identified by the algorithm. They were then left thinking, "Well, you know, I don't appear to have been told that I'm being shielded", and that then led them to contact their general practitioner to ask whether they indeed could be added on.
 
 However, that did bring about delays to shielding and, as we'll go on to talk about, probably the benefits of shielding was that you actually had a passport, through that shielding letter, to enable you to work from home. So people who were delayed not being able to do that and who, for example, had frontline jobs as you have just heard the previous witness say, were required to still go into frontline jobs until they had those letters.
 
@@ -903,9 +903,9 @@ This particular text was really, you know, worrying because, again, highly disem
 
 So a lot of us were very perplexed by these texts. We didn't really know what to do. We felt really stuck. Many people, we didn't know how to get our prescriptions and these texts, they make it seem quite sort of easy, you know, you can order repeat prescriptions online on the NHS app. Lots of people didn't have the NHS app at that point. Lots of us weren't plugged into remote pharmacy deliveries at that time because obviously before we could go to the pharmacy and collect our medications on the way home from work, for example.
 
-But suddenly we're being told we can't do all of these normal things and we must now ask others people, and that was really problematic for our group. I just want to talk about the clinically vulnerable if I can here, because I think it's really important because although they were never formally shielded, they were obviously told they were at higher risk and they too often needed medication, for example diabetics, asthmatics, needed really life-saving, important medication. They also were sort of advised to obviously ask family and friends, et cetera, but there was a real problem that developed with the clinically vulnerable, as I understand it from members in our group, who said that well -- "Oh, you are only clinically vulnerable, you are not clinically extremely vulnerable, you are not shielded." And people started to not want to put themselves in harm's way to help those people.
+But suddenly we're being told we can't do all of these normal things and we must now ask other people, and that was really problematic for our group. I just want to talk about the clinically vulnerable if I can here, because I think it's really important because although they were never formally shielded, they were obviously told they were at higher risk and they too often needed medication, for example diabetics, asthmatics, needed really life-saving, important medication. They also were sort of advised to obviously ask family and friends, et cetera, but there was a real problem that developed with the clinically vulnerable, as I understand it from members in our group, who said that well -- "Oh, you are only clinically vulnerable, you are not clinically extremely vulnerable, you are not shielded." And people started to not want to put themselves in harm's way to help those people.
 
-**Lead 3**: Dr Finnis, can I just stay with that text for one moment. Do you on behalf of your members think there should be no texts at all in these circumstances or is it there's an issue with the timing with which they came at and then, indeed, an issue with the content and the way it was delivered? I just want to be clear about what your sort of position is and how we might do something differently in the future?
+**Lead 3**: Dr Finnis, can I just stay with that text for one moment. Do you on behalf of your members think there should be no texts at all in these circumstances or is it there's an issue with the timing with which they came out and then, indeed, an issue with the content and the way it was delivered? I just want to be clear about what your sort of position is and how we might do something differently in the future?
 
 **Dr Catherine Finnis**: I think it was a good idea to use all communication, to be honest. We would say that the timing was too late. It was already lockdown, wasn't it, by now so we should have received these before that.
 
@@ -925,7 +925,7 @@ Did CVF's members experience this and, if so, what was the impact on them of rec
 
 **Dr Catherine Finnis**: So just to clarify, these were people who should have been shielded, so just late letters.
 
-I mean, so we have members throughout group who were told or given information about -- to shield over the, you know, the whole period, over the whole 18-month period of shielding. Initially there was all sorts of problems. There were people for whom they certainly didn't get their letter straight away. It was a bit of a problem, as I recall, in terms of using it as a passport to being able to work from home if you didn't have the written letter. It felt as though the written letter was still the formal communication rather than a text message.
+I mean, so we have members throughout group who were told or given information about -- to shield over the, you know, the whole period, over the whole 18-month period of shielding. Initially there was all sorts of problems. There were people for whom they certainly didn't get their letter straight away. It was a bit of a problem, as I recall, in terms of using it as a passport to be able to work from home if you didn't have the written letter. It felt as though the written letter was still the formal communication rather than a text message.
 
 **Lead 3**: We've touched on there some of the measures that were designed to assist those who were on the shielded patients list, including entitlement to Statutory Sick Pay which would have helped in those examples where people could no longer go to work.
 
@@ -937,7 +937,7 @@ I think you also say that in the information that was sent out there was early e
 
 Now, put aside the controversies about the amount of transmission and how it was transmitted, why would it have made a difference if there had been information about the route of transmission?
 
-**Dr Catherine Finnis**: It would empower people. So people would be able to, with advice and guidance, try and prevent their risk, their real risk and also understand what the risk really was because without really being told or just wash your hands, I mean, Covid obviously is an invisible risk, but not telling people the route of transmission, just telling people to 'Stay at Home', it was -- being made a prisoner in your own home without any real understanding why and how you might -- why can we not go outside our house, and shielded people lived in different places. Some people lived in the middle of the country. So why could they not go for a walk outside their house or, indeed, their garden we were initially told not to go into our gardens.
+**Dr Catherine Finnis**: It would empower people. So people would be able to, with advice and guidance, try and prevent their risk, their real risk and also understand what the risk really was because without really being told or just wash your hands, I mean, Covid obviously is an invisible risk, but not telling people the route of transmission, just telling people to 'Stay at Home', it was -- being made a prisoner in your own home without any real understanding why and how you might -- why can we not go outside our house, and shielded people lived in different places. Some people lived in the middle of the countryside. So why could they not go for a walk outside their house or, indeed, their garden we were initially told not to go into our gardens.
 
 **Lead 3**: Can I ask you this: you may have heard some of the evidence that suggests there was uncertainty about the route of transmission. Do you think it would have helped CVF people if the communications had said: we don't know yet what the route of transmission is. Would that have been important to CVF's members?
 
@@ -999,7 +999,7 @@ I think there was also a decrease in CEV people attending planned admissions and
 
 As a shielder yourself, may I ask, do you think the upsides outweigh the downsides or vice versa?
 
-**Dr Catherine Finnis**: Yes, I think they do and I think they did. I think that the problem was -- it's difficult, isn't it? In talking the past I think that's true because we were left with nothing else at that point, it was kind of dire straits, as you have heard, and that actually to get the information out really quickly to people who, as shown here were at very much higher risk of death, to get them as safe as could be, anyway at that time, I think that it was -- it was of benefit but I'm not sure that's true for a future pandemic. I would hope that there would be, obviously hopefully from this Inquiry that, you know, suggestions for better planning and things could be arranged in a better way and more empowering way for people who are at greater risk rather than just leaving this only option of locking them away.
+**Dr Catherine Finnis**: Yes, I think they do and I think they did. I think that the problem was -- it's difficult, isn't it? In talking about the past I think that's true because we were left with nothing else at that point, it was kind of dire straits, as you have heard, and that actually to get the information out really quickly to people who, as shown here were at very much higher risk of death, to get them as safe as could be, anyway at that time, I think that it was -- it was of benefit but I'm not sure that's true for a future pandemic. I would hope that there would be, obviously hopefully from this Inquiry that, you know, suggestions for better planning and things could be arranged in a better way and more empowering way for people who are at greater risk rather than just leaving this only option of locking them away.
 
 **Lead 3**: You say in your statement that the negative effects of shielding were at least in part because of the poor quality of the guidance rather than necessarily the need to shield itself, and I wonder if I might be easier to look on screen, please, at your paragraph 57.
 
@@ -1073,7 +1073,7 @@ In your poll in June 2022, if I understand it correctly, 54% of the contributors
 
 **Lead 3**: -- to 91%? Now, do you know why there was the jump between June and October?
 
-**Dr Catherine Finnis**: Yes, because it was the drop in the face masks from hospitals.
+**Dr Catherine Finnis**: Yes, because it was the dropping of face masks from hospitals.
 
 **Lead 3**: Right. And have your members told you that --
 
@@ -1095,15 +1095,15 @@ It's my fault, Dr Finnis. INQ000409574_0055. Just one of the quotations that you
 
 I just wanted to bring to life something that one of your members had said to support the findings of the CVF survey. I think, though, you were going on to say, doctor, and it's my fault I interrupted you, that there was several things in the current guidance that you wanted to tell us about.
 
-**Dr Catherine Finnis**: Yes. So that's the, as I say, the gov.uk, and it's replicated within the NHS guidance as well. It says four key things. Firstly, it advises us not to be around people who have Covid-19 nor people who have respiratory infections. It tells us to try and do -- to get the people visiting us to do a lateral flow test before they visit us. It tells us to ask people who visit us to consider wearing a mask of face covering -- that does actually say face mask or face covering -- or us to use a face mask or face covering, and it also tells us to consider ventilation.
+**Dr Catherine Finnis**: Yes. So that's the, as I say, the gov.uk, and it's replicated within the NHS guidance as well. It says four key things. Firstly, it advises us not to be around people who have Covid-19 nor people who have respiratory infections. It tells us to try and do -- to get the people visiting us to do a lateral flow test before they visit us. It tells us to ask people who visit us to consider wearing a mask or face covering -- that does actually say face mask or face covering -- or us to use a face mask or face covering, and it also tells us to consider ventilation.
 
 It also tells us not to go into busy crowded areas, and to reduce attending those.
 
-I just want to really kind of talk about the juxtaposition of that guidance with healthcare. How can people who are advised to follow that guidance now stay fully access healthcare today?
+I just want to really kind of talk about the juxtaposition of that guidance with healthcare. How can people who are advised to follow that guidance now safely access healthcare today?
 
 **Lead 3**: Yes. Do you get any information as to who is or isn't Covid-positive?
 
-**Dr Catherine Finnis**: No, there is now no testing. There's no formal testing, so you can be put next to somebody who is Covid-positive. Of course, clinically extremely vulnerable or high users of healthcare, that's our greatest problem. When we walk into A&E, we're in a busy crowded environment, multiple people coughing the last time I went into A&E, I cannot follow the guidance.
+**Dr Catherine Finnis**: No, there is now no testing. There's no formal testing, so you can be put next to somebody who is Covid-positive. Of course, clinically vulnerable or high users of healthcare, that's our greatest problem. When we walk into A&E, we're in a busy crowded environment, multiple people coughing the last time I went into A&E, I cannot follow the guidance.
 
 **Lead 3**: Is that in part why CVF advocates in the statement, as they do, for the return of face masks in all high-risk healthcare settings for both patients and staff?
 
@@ -1131,7 +1131,7 @@ Can I ask, has there been any examples among CVF members where they've asked a s
 
 Now, a number of practical measures set out there. Are any of those happening routinely as far as CVF members are concerned?
 
-**Dr Catherine Finnis**: No. I mean, generally not. So nothing happens automatically at all despite that guidance in the NHS and in the government -- the Gov.UK. So, I mean, practically all really of people that were within clinically vulnerable families have significant underlying conditions, so we frequent healthcare, myself included, often, so we have tested all these things. We do wear FFP3 and FFP2 and it's very variable but, as I said, many people do get a very bad reception, not personally actually, but certainly many people have really suffered what you would term or we have termed "CVF mask abuse".
+**Dr Catherine Finnis**: No. I mean, generally not. So nothing happens automatically at all despite that guidance in the NHS and in the government -- the Gov.UK. So, I mean, practically all really of people that were within clinically vulnerable families have significant underlying conditions, so we frequent healthcare, myself included, often, so we have tested all these things. We do wear FFP3 and FFP2 and it's very variable but, as I said, many people do get a very bad reception, not personally actually, but certainly many people have really suffered what you would term or we have termed in CVF as "mask abuse".
 
 We have no way at the moment to ask staff to wear masks and in fact even if we do, we often find that it's not then done. So, for example, we've had clinically vulnerable people who have gone in for an operation who would normally wear a mask who are worried that after they are anaesthetised, for example, in the recovery room they are worried they will be exposed to Covid and they've asked whether they can -- that people wear masks. Either there's a battle at that point, to be honest, because it's not guidance, you know, they follow IPC, you know. Or somebody says they can and then when they arrive it's not anyway. So it's kind of two points where that fails.
 
@@ -1191,7 +1191,7 @@ I mean, really as far as back as you know shielding ended, I mean, none of us, d
 
 One of the things that really worries me, and in fact it happened this morning when I was coming up on the train, I noticed two individuals wearing masks. Both of them, though, were not wearing them correctly. One was wearing what you would term a fabric face covering, and one was wearing an FRSM. And both of them were wearing under their noses, and it really affects me now, because I really feel that people that are now wearing masks are probably clinically vulnerable. I'm almost feeling like I should have a stash of FFP2s with me that I start to give out to people, because CVF's mission is still mainly online, but there is no public health messaging, information on the television or radio, there's no healthcare professionals that are informing people with clinical vulnerability and high risk to Covid that they are still at risk, even.
 
-And unless you really understand the science or you are part of, for example clinically vulnerable families or you have been wand by your physician then, generally speaking, it's been minimised in all quarters of life, even in healthcare.
+And unless you really understand the science or you are part of, for example clinically vulnerable families or you have been warned by your physician then, generally speaking, it's been minimised in all quarters of life, even in healthcare.
 
 **Lead 3**: You mentioned a moment ago shielding stopping and I'd like to ask you about that, please, in two respects.
 
@@ -1205,7 +1205,7 @@ Can I just start with the decision to pause shielding in August 2020, and is thi
 
 **Dr Catherine Finnis**: Yes, absolutely. So people who were, you know of much higher risk and we've seen the increased death rates of these people were suddenly in August 2020 -- it was literally like the withdrawal of suddenly all this support. So suddenly there was no access to supermarket slots, there was no access to help with going to the pharmacy. None of us were vaccinated at that time, and it coincided with Eat Out to Help Out. There was no public advice for people who were still high risk at that time, that they were still higher risk.
 
-Nothing had changed in those people that meant that they were now lower risk. Although there was less current, at that time, in that part of August in the community, of course we know the story that happened, which is that the case rose again throughout that period, and shielding was not brought back in, I believe, properly until I think some tiers -- because we went into tiers, and I think sometimes if you were in tier 4 you were expected to shield, I think for me that was kind of December, but I think formal shielding happened again in January 2021.
+Nothing had changed in those people that meant that they were now lower risk. Although there was less current, at that time, in that part of August in the community, of course we know the story that happened, which is that the cases rose again throughout that period, and shielding was not brought back in, I believe, properly until I think some tiers -- because we went into tiers, and I think sometimes if you were in tier 4 you were expected to shield, I think for me that was kind of December, but I think formal shielding happened again in January 2021.
 
 So for a huge period of time, clinically extremely vulnerable and shielded people were really left to their own devices without any help and support at all, either advice or practical support.
 
@@ -1239,7 +1239,7 @@ Clinically Vulnerable Families, we have -- I've done myself various videos tryin
 
 **Lead 3**: You've mentioned the clinically vulnerable, and I would like to just ask you a little about that. Clearly we are aware that there was a different definition and you've mentioned the absence of measures to protect the clinically vulnerable as opposed to the clinically extremely vulnerable, but I think it's right that CVF provide a degree of support to clinically vulnerable households, and if it helps you, Dr Finnis, I'm at paragraph 89 in your report, but could you just help us with some of the measures that CVF have taken to support clinically vulnerable households?
 
-**Dr Catherine Finnis**: Yes, that's right. So just to be absolute clear, though about our definition. So Clinically Vulnerable Families represent clinically vulnerable households. Within clinically vulnerable households there are clinically extremely vulnerable, or shielded people, and clinically vulnerable. So "clinically vulnerable", if you like, is a bigger --
+**Dr Catherine Finnis**: Yes, that's right. So just to be absolutely clear, though about our definition. So Clinically Vulnerable Families represent clinically vulnerable households. Within clinically vulnerable households there are clinically extremely vulnerable, or shielded people, and clinically vulnerable. So "clinically vulnerable", if you like, is a bigger --
 
 **Lead 3**: Yes.
 
@@ -1301,7 +1301,7 @@ Many, many of our group now have got air filters. I think it's one of the common
 
 **Lead 3**: Just one other consequential cost that may get lost in this. I think you make the point in your statement that many CVF members now feel they have no choice but to access healthcare through private hospitals because they consider the NHS is unsafe due to the risk of hospital-acquired infection. Can you just help us. Have you got any sense of how many members are having to resort to private healthcare rather than going through the NHS?
 
-**Dr Catherine Finnis**: Again, so when I did a thematic analysis of the group it was certainly one of the dominant things that came about, was certainly the financial burdens, and certainly private healthcare is certainly something -- I mean, it depends if people can afford it or not, but I think, generally speaking, if people can afford it even if it's at the very end of their affordability, for example, I think -- I don't know where it is -- but within my statement there's a quote from somebody who I think took out their pension funds to --
+**Dr Catherine Finnis**: Again, so when I did a thematic analysis of the group it was certainly one of the dominant things that came about, was certainly the financial burdens, and certainly private healthcare is certainly something -- I mean, it depends if people can afford it or not, but I think, generally speaking, if people can afford it even if it's at the very ends of their affordability, for example, I think -- I don't know where it is -- but within my statement there's a quote from somebody who I think took out their pension funds to --
 
 **Lead 3**: Pause there, Dr Finnis, because there's two quotes on that page.
 
