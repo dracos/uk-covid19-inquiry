@@ -22,6 +22,8 @@ html_show_sphinx = False
 
 html_theme_options = {
     'logo_only': False,
+    'language_selector': False,
+    'version_selector': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'style_nav_header_background': '#030f98',
