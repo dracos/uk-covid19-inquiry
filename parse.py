@@ -298,7 +298,7 @@ def parse_transcript(url, text):
             m = re.match(' *((?:[A-Z -]|Mc|O\')+): (.*)', line)
             if m:
                 yield speech
-                speaker = fix_name(m.group(1))
+                speaker = fix_name(m.group(1).strip())
                 if not interviewer:
                     interviewer = speaker
                 speech = Speech( speaker=speaker, text=m.group(2) )
