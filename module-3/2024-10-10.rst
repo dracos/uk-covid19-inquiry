@@ -219,7 +219,7 @@ Would you usually expect those decisions about DNACPR to have been taken prior t
 
 **Counsel Inquiry**: -- was that correct, but work was already underway at that point on developing version 3.
 
-Can we look at INQ000251666_0001, please.
+Can we look at INQ000251666\_0001, please.
 
 I think this was published in September 2020; is that correct?
 
@@ -1513,7 +1513,7 @@ So it follows, Professor, doesn't it, that these ONS results do not include the 
 
 **Professor Habib Naqvi**: Yes, I guess so.
 
-**Mr Marquis**: Well, again for the record -- we don't need to call this up, but should there need to be confirmation of this, INQ00089742_0021, which is one of Her Majesty's Government's quarterly reports on progress to address Covid-19 health inequalities. That document specifically states that any death of someone who arrived in England and Wales after the census would not be included in the ONS analysis.
+**Mr Marquis**: Well, again for the record -- we don't need to call this up, but should there need to be confirmation of this, INQ00089742\_0021, which is one of Her Majesty's Government's quarterly reports on progress to address Covid-19 health inequalities. That document specifically states that any death of someone who arrived in England and Wales after the census would not be included in the ONS analysis.
 
 So, having heard that, now you're aware of that, would you agree with my initial question that migrants who arrived after March 2011 would not be counted in that analysis?
 

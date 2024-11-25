@@ -171,7 +171,7 @@ The operation of the NHS was essentially for each of the four of us on those cal
 
 **Lead 3**: All right. May I ask you, please, about a read-out of one of the weekly calls.
 
-Can we have on screen INQ000279766_1.
+Can we have on screen INQ000279766\_1.
 
 This is a read-out of a meeting between you and the ministers in the other nations. It's 18 May 2020. And if we just scan down the page, we can see there a number of topics, not all of which are within Module 3's scope. But at the bottom bullet point:
 
@@ -249,7 +249,7 @@ So from 27 January I had daily meetings on Covid and, for instance, Sharon Peaco
 
 **Lead 3**: Can I pause you there so we can just look at 27 January. It's set out in your statement meeting record.
 
-Could we have on screen INQ000421858_13.
+Could we have on screen INQ000421858\_13.
 
 And one can see there -- you say you raised concerns with officials.
 
@@ -483,7 +483,7 @@ But, really, for all of these questions you are going to have to ask Sir Simon S
 
 **Lead 3**: All right. Let me ask you not about the impact on the staff that were stretched in that way but on the impact, actually, on those in ICU.
 
-Could I have on screen, please, INQ000480139_7.
+Could I have on screen, please, INQ000480139\_7.
 
 I think, Mr Hancock, you've been sent an extract from an ICNARC report who look at intensive care data and we have heard from Kathy Rowan who heads up ICNARC. She told us, if one looks at paragraph 6.1, that:
 
@@ -641,7 +641,7 @@ Some of these questions are not designed to trip you up, Mr Hancock --
 
 **Lead 3**: Can I just stick with what happened to Susie.
 
-And can I have up on screen, please, INQ000483295_8.
+And can I have up on screen, please, INQ000483295\_8.
 
 This, Mr Hancock, is a serious incident investigation report that was carried out into the care that she received, and one can see that she was admitted to intensive care. The essential advice was if she worsens she should be considered for escalation up to ICU.
 
@@ -675,7 +675,7 @@ Did you ever get examples of particular problems like this brought to you? I kno
 
 **Lead 3**: The Inquiry has sent you its research conducted by IFF, and can we just have a look at that because it's not an isolated experience.
 
-Can I have up on screen INQ000499523_3.
+Can I have up on screen INQ000499523\_3.
 
 And we have there a summary of the research. I'm not going to suggest to you, Mr Hancock, this is representative of entire healthcare professionals but clearly a large number were surveyed, over half of whom, 58% of healthcare professionals, reported that some patient could not be escalated to the next level of care due to lack of resources --
 
@@ -1069,7 +1069,7 @@ Now, the -- as I've said many times, the operational running of the NHS is for N
 
 **Lead 3**: All right. I'd like to ask you about an email that you, I think, were sent.
 
-Can we have up on screen INQ000421416_3.
+Can we have up on screen INQ000421416\_3.
 
 We are in March 2020, Mr Hancock, I think around the 28th or thereabouts, and this is an email that was forwarded on to you, all right?
 
@@ -1145,7 +1145,7 @@ I want to just ask you about hips in particular.
 
 Can we have on screen INQ000474262.
 
-Because this is an excerpt from the -- INQ000474262_61, please.
+Because this is an excerpt from the -- INQ000474262\_61, please.
 
 This is an extract from the hip experts that the Inquiry has heard from.
 
@@ -1339,7 +1339,7 @@ So I raised it with the Prime Minister, I raised it with the Treasury, I will ha
 
 **Mr Matt Hancock**: Yeah.
 
-**Lead 3**: And in your statement -- perhaps if we could have up on screen INQ000421858_20, which sets out the use that was made of the private sector, or independent sector, as you call it in your statement, between March and May 2020.
+**Lead 3**: And in your statement -- perhaps if we could have up on screen INQ000421858\_20, which sets out the use that was made of the private sector, or independent sector, as you call it in your statement, between March and May 2020.
 
 **Mr Matt Hancock**: Yeah.
 
@@ -1377,13 +1377,13 @@ The Prime Minister, based on the urging of the Mayor of London who was -- and mo
 
 **Lead 3**: All right, well, let's look at that exceptional pressure.
 
-Can I have up on screen, please, INQ000474285_17.
+Can I have up on screen, please, INQ000474285\_17.
 
 This is an extract from the expert report of Professor Snooks who looked at the pressures on 999, 111 services, and a number of pre-hospital --
 
 **Mr Matt Hancock**: Yes.
 
-**Lead 3**: But in short, once it comes up on screen -- INQ000474285_17, and if it doesn't work I'll do it another way, Mr Hancock, all right?
+**Lead 3**: But in short, once it comes up on screen -- INQ000474285\_17, and if it doesn't work I'll do it another way, Mr Hancock, all right?
 
 This shows us sort of a broader view of number of calls to NHS 111, either answered within 60 seconds, abandoned after at least 30 seconds, and the calls answered over 60 seconds.
 
@@ -1475,7 +1475,7 @@ Were you aware that there was some people that were actively not contacting NHS 
 
 **Mr Matt Hancock**: We need to make sure that that is a clear part of communications throughout, I think, and that's what we did. The challenge is in communications. Communicating more than one message at once is always very difficult and this was a two-part message, which is Stay at Home, (unless you really need the NHS in which case please do go).
 
-**Lead 3**: You mentioned NHS 111 First and could we just have back up on screen, please, INQ000409864_2.
+**Lead 3**: You mentioned NHS 111 First and could we just have back up on screen, please, INQ000409864\_2.
 
 There's a bullet point missing at the top which says 111 First, don't worry about that, but you mention there:
 
@@ -1509,7 +1509,7 @@ So you don't want A&E bursting at the seams, effectively; is that what you're sa
 
 Ambulances, please. We have heard, inevitably, about increases in both the number of calls and the waits people had to endure before an ambulance was available to get them. Can I ask you, please, about some of the things that people told the Inquiry's Every Story Matters record.
 
-Could we have on screen, please, INQ000474233_110. Thank you very much.
+Could we have on screen, please, INQ000474233\_110. Thank you very much.
 
 And can you see in the middle of the page, Mr Hancock:
 
@@ -1969,7 +1969,7 @@ So the point I'm making, and the reason I'm making it emphatically, is that what
 
 **Lead 3**: Can we have a look, please, at the rates of nosocomial infection.
 
-And can I ask, please, that it's put on screen INQ000348633_11.
+And can I ask, please, that it's put on screen INQ000348633\_11.
 
 This is a PHE document looking at deaths -- well, the rate of hospital-acquired infection and indeed the deaths that may have flowed from that.
 
@@ -2599,7 +2599,7 @@ Now, Mr Hancock, you wanted from very early on all staff to be included in the l
 
 But I've tried to describe that in a way that doesn't -- that is an explanation rather than trying to you know ...
 
-**Lead 3**: Can I just ask you about that. I asked Sir Chris Wormald and he said that the reason they weren't initially included was because it wasn't agreed by the Treasury, nothing to do with NHS England. Were you aware that the decision -- that all pharmacies -- and it ended up only being pharmacists and GPs in hospitals was a Treasury_related decision? It sounded like you're saying --
+**Lead 3**: Can I just ask you about that. I asked Sir Chris Wormald and he said that the reason they weren't initially included was because it wasn't agreed by the Treasury, nothing to do with NHS England. Were you aware that the decision -- that all pharmacies -- and it ended up only being pharmacists and GPs in hospitals was a Treasury\_related decision? It sounded like you're saying --
 
 **Mr Matt Hancock**: I wasn't aware of it. But I -- in the dynamic of how hard we pushed, that will have been the end -- that will have been the last thing on the list, I would have thought, from an NHS England point of view.
 

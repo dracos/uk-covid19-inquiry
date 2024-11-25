@@ -221,7 +221,7 @@ In relation to the PIPP stockpile, is it correct that in June of 2019 NERVTAG ad
 
 **Sir Christopher Wormald**: That is, indeed, correct and at the time of the pandemic broke out we were in the very early stages of that procurement, it having followed an entirely normal procurement process in peace time.
 
-**Lead 3**: The reality is, though, as you set out in your statement, as at 18 February -- can we have a look on screen, please, at INQ000389241_0057.
+**Lead 3**: The reality is, though, as you set out in your statement, as at 18 February -- can we have a look on screen, please, at INQ000389241\_0057.
 
 Having been advised in June '19 to get gowns, as at 18 February there was not a single surgical gown, was there, in that stockpile?
 
@@ -301,7 +301,7 @@ I am so sorry, I just wanted to go back. You said the sleeping contracts hadn't 
 
 **Ms Carey**: No, not at all.
 
-Sir Christopher, may we look at how close to the wire we came by reference to a table set out in your statement INQ000389241_0063. Just whilst that's being brought up on screen, to help you, on 3 March the Secretary of State was made aware that NHS Supply Chain had introduced demand management measures, as it's called, to prevent over-ordering of stock and was planning to release the PIPP stock to maintain continuity of supply.
+Sir Christopher, may we look at how close to the wire we came by reference to a table set out in your statement INQ000389241\_0063. Just whilst that's being brought up on screen, to help you, on 3 March the Secretary of State was made aware that NHS Supply Chain had introduced demand management measures, as it's called, to prevent over-ordering of stock and was planning to release the PIPP stock to maintain continuity of supply.
 
 **Sir Christopher Wormald**: Yes, that is correct. What I'll say about this --
 
@@ -389,7 +389,7 @@ Clearly you've acknowledged there was a supply issue with gowns.
 
 **Sir Christopher Wormald**: Yes.
 
-**Lead 3**: And can we have up on screen, please, INQ000050008_14.
+**Lead 3**: And can we have up on screen, please, INQ000050008\_14.
 
 This was published on 10 April and in that plan at paragraph 1.24 it says:
 
@@ -445,7 +445,7 @@ Now, obviously hospitals was what the system was designed to deliver. We had an 
 
 **Lead 3**: Thank you.
 
-I ask you that because could we have up on screen, please, INQ000339335_01.
+I ask you that because could we have up on screen, please, INQ000339335\_01.
 
 There are what are called the hotline Covid-19 disruption reports. This is the one from 26 March at 1 o'clock. You can see there a large number of detail provided in the report, but it's the NSDR call data that I'd like to ask you about, where we can see on this date, at this time, what the position was for the preceding few days. And calls arrived approaching 2,000 by 19 March but it's the calls abandoned that I wanted to ask you about, Sir Christopher.
 
@@ -513,7 +513,7 @@ So the chances of me better knowing how to run a call centre than people whose e
 
 **Lead 3**: -- but I do want to come on in time to June 2020. And if it helps you, I'm at paragraph 236 in the second statement.
 
-Could we have up on screen, please, INQ000389241_74.
+Could we have up on screen, please, INQ000389241\_74.
 
 I want to ask you about the halting of the buying of PPE stocks because I want to be clear about what was halted, when and why.
 
@@ -777,7 +777,7 @@ So I understand the difficulties here though it wasn't our decision.
 
 **Sir Christopher Wormald**: Yes.
 
-**Lead 3**: -- and I'd like us just to look, please, at INQ000059879_27 to start with.
+**Lead 3**: -- and I'd like us just to look, please, at INQ000059879\_27 to start with.
 
 This was taken from the report which sets out the various data that went into creating the shielded patient list --
 
@@ -1007,7 +1007,7 @@ You then have the question that you've raised about where do you draw the line o
 
 **Lead 3**: Right. Pausing there, please.
 
-Can we have a look at an email chain, INQ000050020_3.
+Can we have a look at an email chain, INQ000050020\_3.
 
 Bearing in mind the background you set out, there was then discretion to add groups in.
 
@@ -1057,7 +1057,7 @@ And I think as I'm not -- I don't think I've read the Tweets in question and I d
 
 **Lead 3**: Can I move to GPs and the number of appointments that were face to face, home visits via remote consultation. This is set out in your fourth witness statement.
 
-Could I have up on screen, please, INQ000469724_6.
+Could I have up on screen, please, INQ000469724\_6.
 
 Sir Christopher, the department acknowledges the pandemic led to unprecedented changes to the work and behaviour of GP practices, and then has set out there the various numbers of appointments. Is this UK-wide or England only?
 

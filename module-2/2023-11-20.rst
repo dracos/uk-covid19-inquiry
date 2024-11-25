@@ -1931,7 +1931,7 @@ Questions From Mr Dayle
 
 Can I invite you first to have a look at paragraph 552 of your witness statement, if it could be brought up, please.
 
-It's at INQ000238826_180, it's the first paragraph of the section of your witness statement entitled "Covid-19 Disparities", and you say this:
+It's at INQ000238826\_180, it's the first paragraph of the section of your witness statement entitled "Covid-19 Disparities", and you say this:
 
 "I was aware that the pandemic, and the measures required to tackle it, [could] have an unequal impact. As I stated at more than one press conference, the virus fed off inequality and drove inequality ... It was entirely foreseeable that pre-existing structural and health inequalities within ethnic minority and other vulnerable groups would result in disparities in risk and outcome."
 
@@ -1947,7 +1947,7 @@ I can't recall exactly when we would have given that advice, and in a sense it's
 
 **Mr Dayle**: Very well.
 
-Could we now turn to one of your diary entries of 17 April 2020 at INQ000273901_604. In the interests of time, I will read what it says:
+Could we now turn to one of your diary entries of 17 April 2020 at INQ000273901\_604. In the interests of time, I will read what it says:
 
 "... Yvonne opened up the only two areas we agreed to steer clear of -- ethnicity (we don't have the answer yet) and she wasn't even asked the question [...]"
 

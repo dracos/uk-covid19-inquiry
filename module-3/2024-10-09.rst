@@ -634,7 +634,7 @@ Can I ask you about the CQC findings.
 
 **Ms Carey**: No, not at all because actually it alights on exactly what I was going to ask about with the CQC findings.
 
-Could we call on screen INQ00474255_27.
+Could we call on screen INQ00474255\_27.
 
 My Lady will recall there was an interim report and then a final report done by the CQC and it really just picks up on the questions your Ladyship was posing. The CQC found that the healthcare professionals they spoke to:
 
@@ -858,7 +858,7 @@ I shall return at 11.45 am.
 
 Professor Summers, can I turn to you, please, and just look briefly at ICU capacity in 2021. Because we concentrated a lot on the early stages of the pandemic, and I think you make the point in your report that, in fact, by early 2021 there was a far larger surge in critically ill patients than there had been earlier on in the pandemic. If it helps you, I'm at page 60 in your report.
 
-I wonder if we could call up on screen figure 11 at INQ000474255_0060.
+I wonder if we could call up on screen figure 11 at INQ000474255\_0060.
 
 With your help, Professor, I would like you just to explain -- we are not going through all the regions but all four nations are represented on this figure, which is the regional increases in occupied ICU beds above baseline, provided by The Intensive Care Society, and it is really to get a sense of how different it was in 2021 than how it was in 2020, or, in some cases, it is the data from 2019.
 
@@ -940,7 +940,7 @@ I should also point out that also, the type of care of critically ill people tha
 
 So, being inside the walls of an intensive care unit doesn't necessarily mean you did or did not receive critical care.
 
-**Ms Carey**: Understood. I think, though, Professor, you are aware of the research that was conducted by the Inquiry and have seen the findings of the survey. Can we have up on screen INQ000499523_0017.
+**Ms Carey**: Understood. I think, though, Professor, you are aware of the research that was conducted by the Inquiry and have seen the findings of the survey. Can we have up on screen INQ000499523\_0017.
 
 This is a slide depicting what happened during the first wave and people contributing to the survey, and there were nearly 1700 healthcare professionals who were spoken to UK-wide. If one looks at the critical care nurse and the critical care doctor, they were asked during the first wave how they were able to escalate by role the frequency of their inappropriate to escalate, and the critical care nurses said that there was 20% of them that had to make a decision about that on a daily basis, 19% for critical care doctors, and we can see the varying statistics there.
 

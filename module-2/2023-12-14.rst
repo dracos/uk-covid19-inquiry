@@ -40,7 +40,7 @@ Now, the big question, the why. Let's delve into that question of why black, Asi
 
 "Historical and ongoing structural racism means that ethnicity remains strongly associated with social location, status and power, leading to inequalities in access to key economic, physical, political, social and cultural resources."
 
-That's INQ000280057_0015, paragraph 42 for the reference.
+That's INQ000280057\_0015, paragraph 42 for the reference.
 
 Structural racism meant that during the pandemic people from ethnic minority backgrounds were at a disadvantage in their access to resources for prevention against and treatment and care for Covid-19.
 

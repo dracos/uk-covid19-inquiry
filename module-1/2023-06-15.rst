@@ -907,7 +907,7 @@ In relation to Covid-19, has the reproductive number dropped over the course of 
 
 **Professor David Heymann**: -- which is what cannot sustain transmission.
 
-**Counsel Inquiry**: Could we display, please, paragraphs 99 to 101 of Professor Heymann's witness statement, his report, which is at INQ000195846_0021. Thank you.
+**Counsel Inquiry**: Could we display, please, paragraphs 99 to 101 of Professor Heymann's witness statement, his report, which is at INQ000195846\_0021. Thank you.
 
 I'm just going to read through this with you, Professor Heymann, dealing with the various symptoms of Covid-19.
 

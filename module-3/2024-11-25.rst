@@ -287,7 +287,7 @@ So, I knew that -- so, looking at this, I would have known then, but I would hav
 
 Can we just look at some of the projects that were being envisaged.
 
-And can I have on screen INQ000283460_4.
+And can I have on screen INQ000283460\_4.
 
 This is just a summary of some of the projects, but you can see that there was one being done by University College involving more than 4,500 people with Long Covid to test the effectiveness of existing drugs to treat Long Covid.
 
@@ -363,7 +363,7 @@ I also -- by the way, I also started a separate review of government's handling 
 
 **Lead 3**: Can I just jump forward a few months and look at the waiting times in relation to Long Covid again.
 
-And can we have up on screen, please, INQ000479860_9.
+And can we have up on screen, please, INQ000479860\_9.
 
 Sir Sajid, this is now January 2022. We just looked at September 2021 data.
 
@@ -401,7 +401,7 @@ And I must also say though I think that during that time, this period, November 
 
 **Sir Sajid Javid**: Yes.
 
-**Lead 3**: Can we have up on screen, please, INQ000474233_0180. And the section beginning "Other pandemic changes to healthcare often made it harder to access care for Long Covid, adding further frustration":
+**Lead 3**: Can we have up on screen, please, INQ000474233\_0180. And the section beginning "Other pandemic changes to healthcare often made it harder to access care for Long Covid, adding further frustration":
 
 "... some experiences highlight the difficulties faced in using a telephone or online consultation to communicate their symptoms and the impact this had on them. Contributors were frustrated that telephone or online appointments did not provide care to the same standard as seeing a healthcare professional ..."
 
@@ -519,7 +519,7 @@ I also just want to add, you asked me about winter preparation, but even before 
 
 **Lead 3**: The final document before we perhaps break for lunch.
 
-If I may, can we just have up on screen, please, INQ000270035_4.
+If I may, can we just have up on screen, please, INQ000270035\_4.
 
 Sir Sajid, this is an Omicron NHS planning meeting or, I should say, a note of that meeting on 7 December 2021. I won't take you through all of it but you can see there that you're present. There's a number of names that are familiar to us now present.
 
@@ -729,7 +729,7 @@ And that was a balanced decision. I think we absolutely made the right decision 
 
 **Sir Sajid Javid**: Yes.
 
-**Lead 3**: Can I just show on screen, please, INQ000474214_13.
+**Lead 3**: Can I just show on screen, please, INQ000474214\_13.
 
 I just want to look with you, Sir Sajid, at the impact it had on the hospitals and the kind of work they had to do in preparation for the rollout of VCOD.
 
@@ -747,7 +747,7 @@ And if we could just scroll down to the next paragraph:
 
 You can see there it added to the workload, stress and anger amongst all members of staff, and clearly had a significant adverse impact on workforce morale.
 
-So that's an example from Lewisham. May I give you a slightly different example, and could we go, please, to INQ000472879_7. This is from Warwick Hospital. And paragraph 34.
+So that's an example from Lewisham. May I give you a slightly different example, and could we go, please, to INQ000472879\_7. This is from Warwick Hospital. And paragraph 34.
 
 "130 [of their] staff were in patient-facing roles and due to be dismissed ... represented 2.6% of the overall workforce ..."
 
@@ -825,7 +825,7 @@ So my point is, it's not unusual to expect health workers to have a higher bar i
 
 **Lead 3**: May I ask you, please, about some of the inequalities and vulnerabilities that Covid, to use your phrase, shone a light on.
 
-And it may help just to have in our minds -- can I have up on screen, please, INQ000309453_8.
+And it may help just to have in our minds -- can I have up on screen, please, INQ000309453\_8.
 
 This is some data, Sir Sajid, that came from the PHE review, conducted before your time, but if you can see there in the middle of the page the rates of death from Covid by ethnicity that have been adjusted, as best one is able to, to take into account location, disadvantage and the like. But one can see there a clear impact on males, male Bangladeshis, black African men, Pakistani men, Indian men, before we get down to rates of death for "White other". And I think you were aware, weren't you, when you came into post, that there was this disproportionate impact on men, and indeed women, from BAME backgrounds.
 
@@ -915,7 +915,7 @@ And the NHS just sort of stopped at pulse oximeters and didn't, sort of, think: 
 
 **Sir Sajid Javid**: Yes.
 
-**Lead 3**: -- and it did conclude that for people with darker skin tones, pulse oximeters did overestimate the true oxygen levels, as you have just pointed out, and it was potentially -- pulse oximetry overestimation gets worse in patients with low or more dangerous levels of oxygen saturation. And if anyone wants to look at it, perhaps we could call up on screen INQ000438237_51, the review, which I assume you've read, Sir Sajid?
+**Lead 3**: -- and it did conclude that for people with darker skin tones, pulse oximeters did overestimate the true oxygen levels, as you have just pointed out, and it was potentially -- pulse oximetry overestimation gets worse in patients with low or more dangerous levels of oxygen saturation. And if anyone wants to look at it, perhaps we could call up on screen INQ000438237\_51, the review, which I assume you've read, Sir Sajid?
 
 **Sir Sajid Javid**: Yes.
 

@@ -315,11 +315,11 @@ Questions From Lead Counsel to the Inquiry for Module 3
 
 **Ms Natalie Rogers**: That's true. There are also people involved in the organisation who are interested in either, you know, furthering research or clinical care for people with Long Covid.
 
-**Lead 3**: Can I ask, please, that we call up on screen INQ000370954_5, please, and paragraph 1.14.
+**Lead 3**: Can I ask, please, that we call up on screen INQ000370954\_5, please, and paragraph 1.14.
 
 Ms Rogers, if it's easier for you to look on the screen rather than put your head down into the statement, all well and good. But I just want at the outset if I may, through you -- sorry, shall I give the number again?
 
-INQ000370954_5. Thank you very much. And if we could highlight paragraph 1.14. Thank you.
+INQ000370954\_5. Thank you very much. And if we could highlight paragraph 1.14. Thank you.
 
 I think just at the outset of the statement you very helpfully set out overarching concerns of the core participant group and you say this:
 
@@ -647,7 +647,7 @@ Long Covid Kids, is this correct, in September 2020 produced a film called "Our 
 
 **Lead 3**: Well, can I -- let's look at how some of the families were affected and put on screen your paragraph 5.3.
 
-INQ000370954_45, please.
+INQ000370954\_45, please.
 
 There's a reference we can see there at 5.3 to the sharing of the film. Clearly each family's experience was distressing, similar and yet unique. In terms of Long Covid in children, all had experienced a lack of awareness and support from GPs about post-viral conditions. Complete lack of awareness about the incidence of Long Covid in children and indeed in turn the absence of treatment pathways. All had been told or made to feel they were neurotic or over-concerned parents.
 
@@ -1458,7 +1458,7 @@ And there's a completely different financial cost. So the AMPDS is a commercial 
 
 **Lead 3**: Can I ask you about the metrics, or the performance metrics as they're called, for ambulance response times and your paragraph 10.
 
-Perhaps if we could call up on screen, please, INQ000474285_8 and 9.
+Perhaps if we could call up on screen, please, INQ000474285\_8 and 9.
 
 I think people will see now why we haven't descended to the detail of all of the different categories. But I want to pick the most serious category for each of the nations so we can understand where we were pre-pandemic.
 
@@ -1622,7 +1622,7 @@ In England, and if we could have up on screen page 17 and figure 4, this is the 
 
 **Lead 3**: -- 1.1 million out of over 2.5 million were abandoned at some stage during the call.
 
-I think you say there was a similar pattern in Wales to that demonstrated in England, and although not quite the same data in Scotland -- could we call up on screen INQ000474258_33 -- NHS 24 did provide some data. It's not quite in the same format but if we see there these are the calls offered, calls answered and the average time to answer. Beginning of March 2020, 8,157 calls, 6,249 of which were answered. Average time in about 10 seconds.
+I think you say there was a similar pattern in Wales to that demonstrated in England, and although not quite the same data in Scotland -- could we call up on screen INQ000474258\_33 -- NHS 24 did provide some data. It's not quite in the same format but if we see there these are the calls offered, calls answered and the average time to answer. Beginning of March 2020, 8,157 calls, 6,249 of which were answered. Average time in about 10 seconds.
 
 And if we go down to 23 March, up to 12,000 calls, only 3,324 of which were answered, and it's gone from being answered in 10 seconds to an average answer time of 1 hour, 11 minutes and 34 seconds.
 
@@ -1810,7 +1810,7 @@ Can you help me with both of those, what were they trying to do and did they ach
 
 **Professor Helen Snooks**: Yes, I also believe 999 were diverted to these services. I'm not sure if I'm right on that.
 
-**Lead 3**: Okay. I think -- can we look on screen at INQ000474285_21.
+**Lead 3**: Okay. I think -- can we look on screen at INQ000474285\_21.
 
 CRS, the Covid Response Service was set up in March 2020, and the CCAS, the clinical assessment service, was only started in April, which is why there's a zero in that column.
 

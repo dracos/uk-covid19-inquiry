@@ -607,7 +607,7 @@ With the OSCE centres closed, and they didn't open until July 2020, we would hav
 
 **Dame May**: 171. Thank you.
 
-**Lead 3**: If we could have on screen, please, INQ000421219_0005 is the page reference, thank you very much.
+**Lead 3**: If we could have on screen, please, INQ000421219\_0005 is the page reference, thank you very much.
 
 Can you just help us, in non-pandemic times, in critical care, what should be the nursing-to-patient ratio?
 
@@ -1045,7 +1045,7 @@ Did you become aware of the reason or reasons why women did not want to access m
 
 **Lead 3**: I think in particular during wave 1 you became aware of evidence that there was a particular reluctance to access maternity services from black, Asian and minority ethnic communities -- I'm at paragraph 339, Dame Ruth -- and did that result in, I think, four specific actions being taken to try to encourage women from those communities to come forward?
 
-Can we look on screen very briefly at INQ000280429_2, please.
+Can we look on screen very briefly at INQ000280429\_2, please.
 
 Can you see this is taken from, I think, the Maternity Transformation Programme, but can you see in the middle there, England's most senior midwife has recommended the following common sense steps:
 
@@ -1908,7 +1908,7 @@ Every bit of guidance we've ever issued before the pandemic, during the pandemic
 
 Under no circumstances, and I think Ruth may have said this this morning -- under no circumstances is a blanket approach ever, ever appropriate.
 
-**Lead 3**: Can I ask you about an example, if that be the right word, behind your tab 15 and at INQ000300091_0009, please, which is a note of the executive director's daily calls on 3 April. It's probably going to come up on screen in a moment. There we are. I just want to ask you about the PPE box.
+**Lead 3**: Can I ask you about an example, if that be the right word, behind your tab 15 and at INQ000300091\_0009, please, which is a note of the executive director's daily calls on 3 April. It's probably going to come up on screen in a moment. There we are. I just want to ask you about the PPE box.
 
 **Professor Jean White**: Right.
 
@@ -2428,7 +2428,7 @@ Now, that didn't last, because we then moved -- I don't think that lasted becaus
 
 **Ms Fiona McQueen**: Complete assent. You know, increased testing would have been enormously beneficial, I think right across society, but since we're here to talk about health, within our health system.
 
-**Lead 3**: A different aspect of CNRG's work, please, in relation to face mask guidance and, Ms McQueen, it's at your paragraph 35 and I may need to put up on screen the table that you've set out in your statement, could we have, please, INQ000474225_0013. I think really you've set out a timeline there of the changes to the face mask guidance that was brought in in various stages in 2020.
+**Lead 3**: A different aspect of CNRG's work, please, in relation to face mask guidance and, Ms McQueen, it's at your paragraph 35 and I may need to put up on screen the table that you've set out in your statement, could we have, please, INQ000474225\_0013. I think really you've set out a timeline there of the changes to the face mask guidance that was brought in in various stages in 2020.
 
 June 2020, there is introduction of interim guidance on the wider use of face masks, decision to introduce the face masks in adult hospitals and care homes for the elderly, and the reason for the change is set out there: to help reduce nosocomial transmission in hospitals and care homes.
 
@@ -2528,7 +2528,7 @@ So there were times -- and, similarly, with a letter I wrote in May about AGP or
 
 **Ms Fiona McQueen**: And before doing that I talked -- because I was hearing concerns, I talked to the IPC team because I didn't want to be seen to be trumping them and I wasn't saying this was IPC advice, but cardiopulmonary resuscitation is such an emotional response, as well as a physical response, to try and save your patient's life and I just didn't think it was worth arguing about whether it was FRSM or FFP3, I thought it was better to give people as much support as we possibly could.
 
-**Lead 3**: May I change topic slightly, please, and just ask you about the temporary register. We know that certainly by April 2020 the figures of those returning to the temporary register were broken down nation by nation. Could we just put up on screen INQ000421170_0004, please, and we've looked at this now with your counterparts and I just wanted to look at the Scottish position. So by 21 April, there were 1,272 nurses and/or midwives going back on to the register in relation to Scotland and the question really for you is how many of those were actually deployed to the frontline, do you know?
+**Lead 3**: May I change topic slightly, please, and just ask you about the temporary register. We know that certainly by April 2020 the figures of those returning to the temporary register were broken down nation by nation. Could we just put up on screen INQ000421170\_0004, please, and we've looked at this now with your counterparts and I just wanted to look at the Scottish position. So by 21 April, there were 1,272 nurses and/or midwives going back on to the register in relation to Scotland and the question really for you is how many of those were actually deployed to the frontline, do you know?
 
 **Ms Fiona McQueen**: So I don't know but I think anecdotally not that many, because remembering we -- a live registration we revalidate every three years, so somebody could have, they could almost be five or six years out of practice when they came on to the temporary register, and I've already heard evidence from my two CNO colleagues about choice, so people may not have wanted to go to the front line and we certainly used people on the temporary register or on the other -- we also had returners -- within the vaccination centres.
 

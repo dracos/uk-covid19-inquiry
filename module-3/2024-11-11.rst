@@ -60,7 +60,7 @@ Questions From Mr Wagner
 
 You exhibit a graph in your fourth statement, at paragraph 1185, and I'd like it to go on the screen, please.
 
-It's INQ000485652_323. Thank you.
+It's INQ000485652\_323. Thank you.
 
 So you can see there it goes from January 2017 to May 2022, and it's:
 
@@ -525,7 +525,7 @@ Can I just ask you about this. The 17,000 buildings, they're not all hospitals, 
 
 **Lead 3**: Understood. All right, that just gives us an indication of the scale of your job in running NHS England.
 
-And can I also ask to be put on screen, please, INQ000409251_336.
+And can I also ask to be put on screen, please, INQ000409251\_336.
 
 I just want to remind ourselves of some of the waves and the numbers of patients involved across our relevant period. And we can see there during the first lockdown the weekly patients in hospital are indicated by the blue line, so approaching, in early 2020, up towards the 20,000 number of patients.
 
@@ -609,7 +609,7 @@ And there can be no two ways about it, Ms Pritchard, is this right, that enterin
 
 **Lead 3**: We have, I think you've probably been told, looked a lot at critical care capacity but I just would like to look at more general availability of beds, and three documents, please.
 
-Could we have on screen, please, INQ000113287_6.
+Could we have on screen, please, INQ000113287\_6.
 
 And, Ms Pritchard, if you have tabs it's tab 3 but it might just be easier to use the screen.
 
@@ -957,7 +957,7 @@ The impact of that investment and all of those different initiatives meant that 
 
 **Lead 3**: Can I jump forward then in time to winter 2020 and into 2021, and in your statement you make clear that that was a period of extreme pressure on the NHS over that winter.
 
-Can we have a look on screen, please, just as a quick indication of it, INQ000409251_0134, your paragraph 501, Ms Pritchard.
+Can we have a look on screen, please, just as a quick indication of it, INQ000409251\_0134, your paragraph 501, Ms Pritchard.
 
 But here we are as at New Year's Eve, in 2020, 1,050 additional critical care beds had been opened and national occupancy for critical care had passed 100% of the standard. So baseline had been met; is that correct, we were now into using upsurge capacity?
 
@@ -1005,7 +1005,7 @@ So to transfer patients anything like this distance you would only do in a circu
 
 Now, I appreciate, Ms Pritchard, that it's not coming from a clinician's perspective.
 
-Could we have up on screen, please, INQ000474486_7.
+Could we have up on screen, please, INQ000474486\_7.
 
 Ms Pritchard, the Inquiry has seen this document before but it is the CRITCON declarations across the relevant period. And if, with the assistance of the document handler, can we highlight the black, which is to represent CRITCON 4 declarations. They're very difficult to see. They run at the top of the screen. And remind ourselves that CRITCON 3 is described as being at full stretch. And CRITCON 4 is described as being an emergency where resources are overwhelmed, possibility of triage by resource or withdrawal of critical care due to resource limitation is being considered.
 
@@ -1089,7 +1089,7 @@ We are doing at the moment a review of staff support, partly to make sure that w
 
 **Lead 3**: Can I ask you about one other matter in relation to the data and it's the way in which capacity in critical care units was communicated.
 
-Could I show on screen, please, INQ000474255_22, and at the same time, if able, underscore 39.
+Could I show on screen, please, INQ000474255\_22, and at the same time, if able, underscore 39.
 
 And whilst that's being put up, Ms Pritchard, we've heard from two intensivists, Professor Charlotte Summers and Dr Ganesh Suntharalingam, that in England critical care bed occupancy is reported as a proportion of not only the existing capacity but of the surge capacity and to that extent it is different from how the other nations report their capacity.
 

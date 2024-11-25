@@ -251,7 +251,7 @@ So, for Covid, early in the pandemic the estimate was that it was around 2.5 in 
 
 **Ms Carey**: I think you go on to say -- look, in your report, into the fatality rate, and there's a graph I'd like us to put up on screen.
 
-Can I have, please, INQ000474282_18. Already there, thank you very much.
+Can I have, please, INQ000474282\_18. Already there, thank you very much.
 
 You'll have to help me, Dr Warne, with this. What does the top graph show and what is the point that is trying to be depicted by this graph?
 
@@ -487,7 +487,7 @@ So that means this testing was only done in a very select few areas, whereas in 
 
 Can I change topic and turn to you, Dr Warne, and included in the report is a section entitled "Controversies surrounding the transmission route of Covid and the implications for PPE", and if it helps you, Doctor, I'm at 6.10.
 
-Can I ask to be called up on screen page 64 of the report, it's INQ000474282_0064. Would you be able to highlight the five bullet points, because, if I may say, this rather encapsulates the areas of controversy that we have been dealing with. You say:
+Can I ask to be called up on screen page 64 of the report, it's INQ000474282\_0064. Would you be able to highlight the five bullet points, because, if I may say, this rather encapsulates the areas of controversy that we have been dealing with. You say:
 
 "However, there has been disagreement in the scientific and medical communities, and a changing evidence base during the course of the pandemic, related to:
 
@@ -805,7 +805,7 @@ A manual is -- infection prevention experts appear to use the word "manual" and 
 
 **Ms Carey**: Now, help us, please, if you wouldn't mind, Professor, with your paragraph 4.4 where you set out the WHO criteria for developing IPC manuals, which I think came in in 2018.
 
-Can we perhaps put it on the screen. It's INQ000474282_42, excuse me.
+Can we perhaps put it on the screen. It's INQ000474282\_42, excuse me.
 
 If we could go to the bottom of that page, and paragraph 4.4, I think the definition is set out. That's it, there we are:
 
@@ -955,7 +955,7 @@ It might be helpful to just put that up on screen, actually, but you say:
 
 "A structured approach is advocated when formulating guideline recommendations. Ideally it should involve the use of an evidence-to-decision-framework."
 
-Could we put up, please, INQ000474282_49, which is Professor Gould's report.
+Could we put up, please, INQ000474282\_49, which is Professor Gould's report.
 
 Paragraph 4.36, at the bottom there:
 
@@ -1255,7 +1255,7 @@ Dr Shin, you're a large London teaching hospital, so dare I say I'm going to ass
 
 **Ms Carey**: Challenges in relation to supply and distribution, and I think you say, between the three of you, you have no personal experience of PPE supplies not arriving or being exhausted in your NHS trusts, you're not aware of any examples of specific NHS trusts running out of PPE. Some specific products ran out, if I understand it correctly, but alternative PPE was sought and supplied.
 
-But you are aware of the concerns outside of your trusts -- I see nods from both you and Dr Warne -- and can I ask you please about a survey conducted, I think, by the BMA, the RCN and the Royal College of Physicians, and could we have up on screen, please, INQ000474282_128.
+But you are aware of the concerns outside of your trusts -- I see nods from both you and Dr Warne -- and can I ask you please about a survey conducted, I think, by the BMA, the RCN and the Royal College of Physicians, and could we have up on screen, please, INQ000474282\_128.
 
 Could we highlight figure 14, please. I'd just like your help, Dr Shin, with what the survey found. I think it was conducted in 2020 and it set out the findings of the different, three different groups contributing to this. Do I take it that, if we take eye protection, that in high-risk environments the Royal College of Nursing reported that 22% of the people responding had difficulties obtaining eye protection? Am I reading that correctly?
 
@@ -1733,7 +1733,7 @@ Can I ask you about your paragraph 11.3 though, and can you just set out for us 
 
 By comparison, influenza the average incubation period is about a day, one to two days, so a much shorter space of time for us to look back and say, "Where was the patient, who did they come into contact with, how do we investigate and manage this problem?"
 
-**Ms Carey**: That brings us on to -- can I have on screen, please, INQ000474282_103 and table 2. I'd like to look at the way in which Public Health England assigned the likelihood of an infection being in hospital, against that background of the incubation period.
+**Ms Carey**: That brings us on to -- can I have on screen, please, INQ000474282\_103 and table 2. I'd like to look at the way in which Public Health England assigned the likelihood of an infection being in hospital, against that background of the incubation period.
 
 My Lady, we touched on this briefly yesterday with Professor Hopkins and some of the data and I skated through what the definitions were.
 

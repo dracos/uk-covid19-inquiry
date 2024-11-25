@@ -1450,7 +1450,7 @@ January to March 2020, can I ask you this: by the time that Covid-19 was declass
 
 **Professor Susan Hopkins**: I think they were prioritised to prioritise the greatest risk areas that were considered at the time to the protection that was available to protect people.
 
-**Lead 3**: Can I ask you about the extent to which the lack of supply or supply difficulties affected the early guidance, and can we look on screen, please, at INQ000398198_2. It's an IPC cell meeting from 4 March. Now, you're not in the cell, are you, Professor, I want to make that clear. But just to look through you, if I may, can we see the supply chain update as at 4 March?
+**Lead 3**: Can I ask you about the extent to which the lack of supply or supply difficulties affected the early guidance, and can we look on screen, please, at INQ000398198\_2. It's an IPC cell meeting from 4 March. Now, you're not in the cell, are you, Professor, I want to make that clear. But just to look through you, if I may, can we see the supply chain update as at 4 March?
 
 Can we highlight that, thank you very much.
 
@@ -1482,7 +1482,7 @@ So if you think that there are many thousands of people coming into the NHS each
 
 **Lead 3**: My Lady, can I just deal with the position in early April 2020 and then perhaps break for lunch.
 
-Professor, can I ask you, please, if you turn in your bundle to paragraph 308 and on 2 April, on behalf of the UK IPC cell, PHE published updated Covid-19 guidance and can we look, please, at INQ000348325_0004. This made a number of changes to IPC guidance but it's the sessional use that I'd like to ask you about, please, Professor.
+Professor, can I ask you, please, if you turn in your bundle to paragraph 308 and on 2 April, on behalf of the UK IPC cell, PHE published updated Covid-19 guidance and can we look, please, at INQ000348325\_0004. This made a number of changes to IPC guidance but it's the sessional use that I'd like to ask you about, please, Professor.
 
 Now, let me ask you this: was this change to requiring sessional use of PPE driven in reality by lack of PPE or supply chain issues?
 
@@ -1906,7 +1906,7 @@ And in January 2021 at the discussions at the Senior Clinicians Group we asked w
 
 1 April was when it started and it reported in May so I think it's just important to get the timeline. So these things take time to get the people in, to ask them whether they're willing to give up their time and then to provide the evidence.
 
-**Lead 3**: Can we look at the findings of the REP and it might be easiest to call up on screen your statement. Could we have INQ000410867_0134 and paragraph 335 in your statement, Professor.
+**Lead 3**: Can we look at the findings of the REP and it might be easiest to call up on screen your statement. Could we have INQ000410867\_0134 and paragraph 335 in your statement, Professor.
 
 Thank you. Could we highlight paragraph 335:
 
@@ -1998,7 +1998,7 @@ All of those require slightly different elements but I would come back and say t
 
 **Lead 3**: That brings me on to I think January 2022, when the IPC guidance wasn't Covid-19-specific but was published for seasonal respiratory viruses, so presumably flu, RSV and the like. All right.
 
-Can we have a look, please, on screen, at INQ000348433_20.
+Can we have a look, please, on screen, at INQ000348433\_20.
 
 And this is from that guidance and you will see there that RPE or FFP3 or powered air purifying respirator hoods, it says:
 
@@ -2436,7 +2436,7 @@ I think that that would require healthcare workers to consent to share that data
 
 **Ms Carey**: Can I broaden the data to an area where there is some data and ask you, please, about the estimates of how many patients in hospital caught hospital-acquired Covid-19.
 
-Can we call up on screen, please, INQ000348633_0011.
+Can we call up on screen, please, INQ000348633\_0011.
 
 My Lady, tomorrow Dr Warne will help deal with hospital-acquired infections but there is just some data I would like your help with, please, Professor.
 

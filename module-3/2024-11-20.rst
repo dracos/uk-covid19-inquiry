@@ -185,7 +185,7 @@ If you look at what we did, there was a ripple into every part of the service as
 
 And can I start with the framework that you published on 13 March and perhaps if we could have a look at your paragraphs 108 and 109 in your statement, Mr Gething.
 
-Can we have on screen, please, INQ000474242_32.
+Can we have on screen, please, INQ000474242\_32.
 
 If it helps you, Mr Gething, we have them on the screen.
 
@@ -295,7 +295,7 @@ If Cardiff and Vale, for example, had wanted to transfer patients and ask mutual
 
 **Lead 3**: Can I ask you about one of the quotations given by a critical care doctor in Wales to the research that the Inquiry undertook.
 
-Can we have on screen, please, INQ000499523_22.
+Can we have on screen, please, INQ000499523\_22.
 
 Mr Gething, this cannot be and nor is it suggested on behalf of the Inquiry this is necessarily representative. I hope you will take that into account but here is a critical care doctor who told the researchers:
 
@@ -375,7 +375,7 @@ So I know there is a lot of focus on masks but at one point we were worried abou
 
 **Lead 3**: Yes, I was -- exactly -- going to ask you about that, Mr Gething.
 
-To help you and those that are following, can we have up on screen, please, INQ000214235_21.
+To help you and those that are following, can we have up on screen, please, INQ000214235\_21.
 
 This is a report from the Auditor General about the procuring and supplying of PPE that was done in April 2021 but it looked back to 2020. And I think the plan was for the stockpile and other supplies to last at least 15 weeks; is that right?
 
@@ -405,7 +405,7 @@ So the systems we had weren't just about buy anything, it was about buy what we 
 
 **Lead 3**: I didn't mean to interrupt you, Mr Gething, but it may be her Ladyship's procurement module will look those that sought to take advantage of the difficulties of which you spoke. But can I ask you about a difficulty that was brought to your attention.
 
-Can we have up on screen INQ000299062_7.
+Can we have up on screen INQ000299062\_7.
 
 It's an email sent to you, Mr Gething, from a consultant at a hospital on 24 March, so very early on in the pandemic, and the sender says:
 
@@ -493,7 +493,7 @@ Can I ask you, please, about Long Covid. It was known at the start of the pandem
 
 **Lead 3**: That May framework I think was updated in October, and can I ask that we have a look at your paragraph 345, Mr Gething, in your statement.
 
-It's INQ000474252_130.
+It's INQ000474252\_130.
 
 It may be coming up on screen for you as well, Mr Gething. There you are.
 
@@ -729,7 +729,7 @@ And I had to go and see my own mother. And so actually me delivering her shoppin
 
 I think you know from the work of the subgroup of the BAME Covid-19 advisory group that there was a disproportionate impact on minority ethnic communities.
 
-Could we have up on screen, please, INQ000227599_2.
+Could we have up on screen, please, INQ000227599\_2.
 
 It's the front page, Mr Gething, of a report from the BAME Covid-19 Socioeconomic Subgroup from June 2020.
 

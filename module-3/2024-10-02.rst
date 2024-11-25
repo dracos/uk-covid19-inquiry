@@ -654,7 +654,7 @@ So that's the default.
 
 I think an important --
 
-**Ms Carey**: Pause there, because there's a figure that shows that, I think, and can I have up on screen, please, INQ00474255_21, and figure 4, which I think will demonstrate that you can move between levels 2 and 3 depending on how ill the patient is. Thanks you.
+**Ms Carey**: Pause there, because there's a figure that shows that, I think, and can I have up on screen, please, INQ00474255\_21, and figure 4, which I think will demonstrate that you can move between levels 2 and 3 depending on how ill the patient is. Thanks you.
 
 If we just look at the -- tertiary care and ECMO out of it for the moment, but if we look at, in an acute hospital, at level 3 and level 2, I assume the arrows there under "Critical Care" are to show there may be a movement between the types of care you might need.
 
@@ -1066,7 +1066,7 @@ It says basically that CRITCON 4 must only be implemented on a national directiv
 
 **Dr Suntharalingam**: No, exactly, absolutely right.
 
-**Ms Carey**: I want to just look before -- at CRITCON levels in April 2020 and can I have up on screen, please, INQ000226890_27. Because we -- now knowing what the CRITCON levels are, we can see here on any given day throughout April, and I think we should say that CRITCON levels are reported twice daily, is that right, at 8 am and 8 pm, or thereabouts?
+**Ms Carey**: I want to just look before -- at CRITCON levels in April 2020 and can I have up on screen, please, INQ000226890\_27. Because we -- now knowing what the CRITCON levels are, we can see here on any given day throughout April, and I think we should say that CRITCON levels are reported twice daily, is that right, at 8 am and 8 pm, or thereabouts?
 
 We can see the declarations made to NHS England in April 2020. Level 3 is the red, level 2 is the orange, level 1 is the yellow and if we look perhaps to the left of the screen in and around -- thank you very much -- can we see a tiny few number of CRITCON 4 declarations as represented by the black on the graph?
 

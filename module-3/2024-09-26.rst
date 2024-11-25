@@ -1270,7 +1270,7 @@ I'm not going to go through every entry, but there will be a couple of dates I w
 
 **Lead Module3**: -- and then deal separately with clinically vulnerable, and really the identification of the conditions that gave rise to CEV status.
 
-And perhaps if we call up on screen your actual statement it would be easier to do it that way. Could we have INQ000410237_0086.
+And perhaps if we call up on screen your actual statement it would be easier to do it that way. Could we have INQ000410237\_0086.
 
 There are -- there, forgive me -- yes.
 
@@ -1328,7 +1328,7 @@ We also said the GPs could remove people from the list as well as add them, so i
 
 **Lead Module3**: Can we look on screen just at a couple of headline figures in relation to the shielding list.
 
-Could you pull up, please, INQ000410237_0080.
+Could you pull up, please, INQ000410237\_0080.
 
 Here is the timeline that you have helpfully set out.
 
@@ -1486,7 +1486,7 @@ If it would be helpful, I can give a slightly more technical answer, but that de
 
 **Lead Module3**: Well, can I ask you about Professor Snooks's conclusions, and then we'll consider whether we need to descend to the technicalities.
 
-Could I have up on screen, please, INQ000474285_52. And I think you are aware, Professor Whitty, that Professor Snooks has considered some of the evidence and evaluated some of the evidence on the efficacy of the shielding programme. And she concludes at her paragraph 147 and 148:
+Could I have up on screen, please, INQ000474285\_52. And I think you are aware, Professor Whitty, that Professor Snooks has considered some of the evidence and evaluated some of the evidence on the efficacy of the shielding programme. And she concludes at her paragraph 147 and 148:
 
 "There is no evidence of overall reductions in Covid-19 infection associated with shielding, except in the subgroup of rheumatoid arthritis. There is evidence that hospital acquired infection was higher in the shielded group. As the mechanism for protecting CEV people from serious harm or death during the pandemic is to avoid infection, these results cast doubt on the effectiveness of the shielding policy."
 
@@ -1756,7 +1756,7 @@ So I'm just making the general point. But I think you should avoid -- I think th
 
 **Ms Carey**: I would like to ask about risk factors, please.
 
-Can I have up on screen INQ000410237_44.
+Can I have up on screen INQ000410237\_44.
 
 There were, as the pandemic demonstrated, a number of people at higher risk than others of being infected and/or dying.
 

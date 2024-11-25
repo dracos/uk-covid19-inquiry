@@ -541,7 +541,7 @@ Can you give us an example of culturally incompetent or inadequate guidance?
 
 So all of those seminars -- there were many that -- we've given you a glimpse of some of them but there were so many of them.
 
-**Lead 3**: Yes, I'd like to just look, please, at INQ00099685_0004, and if we can just slowly scroll through, there's about four or five pages of different adverts. Some are relating to the vaccines but we go through a number of different webinars, lectures and the like, being hosted by members of FEMHO to try and communicate with different BAME communities.
+**Lead 3**: Yes, I'd like to just look, please, at INQ00099685\_0004, and if we can just slowly scroll through, there's about four or five pages of different adverts. Some are relating to the vaccines but we go through a number of different webinars, lectures and the like, being hosted by members of FEMHO to try and communicate with different BAME communities.
 
 Can you help us, was this co-ordinated by anyone or was this work being done off these organisations own back if I can put it like that?
 
@@ -831,7 +831,7 @@ I think it's right, as a result of your medical problems, were you on the shield
 
 **Lead 3**: Okay. So if you have your own experience to bring to bear as well as speaking on behalf of CVF, please do say so.
 
-Can I start, please, with clinically extremely vulnerable people and the shielding list. Indeed, we have heard about the make-up of the CEV list from Professor Whitty and others who gave evidence to us earlier, but it might just be easier to call up on screen, please, INQ000409574_0010 just to remind ourselves, without having to go through it, those that, as at 1 April, were deemed to be the highest clinical risk, and a number of different people with medical vulnerabilities set out there.
+Can I start, please, with clinically extremely vulnerable people and the shielding list. Indeed, we have heard about the make-up of the CEV list from Professor Whitty and others who gave evidence to us earlier, but it might just be easier to call up on screen, please, INQ000409574\_0010 just to remind ourselves, without having to go through it, those that, as at 1 April, were deemed to be the highest clinical risk, and a number of different people with medical vulnerabilities set out there.
 
 I think, is it right, that CVF have concerns about who was on it who should not have been, and conversely who was not on it who should have been, so can I ask you about those two sides of the coin, please.
 
@@ -865,7 +865,7 @@ But certainly it was very late.
 
 I guess the group of people for whom we represent that were able to shield informally the most were older people who were retired.
 
-**Lead 3**: Yes. Well, can I ask you about that, because can we have a look on screen, please, at INQ000474233_0190, and I think, Dr Finnis, you have read the "Shielding" chapter of the Every Story Matters record, and indeed on the first page of the shielding section, there is reference there to a number of clinically vulnerable and clinically extremely vulnerable telling ESM about how frightened they were at the start of the pandemic, and we can see there in the second sentence down:
+**Lead 3**: Yes. Well, can I ask you about that, because can we have a look on screen, please, at INQ000474233\_0190, and I think, Dr Finnis, you have read the "Shielding" chapter of the Every Story Matters record, and indeed on the first page of the shielding section, there is reference there to a number of clinically vulnerable and clinically extremely vulnerable telling ESM about how frightened they were at the start of the pandemic, and we can see there in the second sentence down:
 
 "Early in the pandemic, some avoided all contact with people outside of their immediate family because they were anxious about catching the virus. Some did this before there was any official advice, aware of the risks associated with their health conditions."
 
@@ -1003,7 +1003,7 @@ As a shielder yourself, may I ask, do you think the upsides outweigh the downsid
 
 **Lead 3**: You say in your statement that the negative effects of shielding were at least in part because of the poor quality of the guidance rather than necessarily the need to shield itself, and I wonder if I might be easier to look on screen, please, at your paragraph 57.
 
-It's INQ000409574_25 and on to page 26, which just sets out and encapsulates the concerns about the guidance and it's that -- there you are, paragraph 57:
+It's INQ000409574\_25 and on to page 26, which just sets out and encapsulates the concerns about the guidance and it's that -- there you are, paragraph 57:
 
 "Our view is that the negative effects were at least in part because of the poor quality of the guidance rather than necessarily the need to shield. The content of the guidance was sometimes scary and constantly changed. The advice was often unachievable and certainly was insufficiently reassuring ... Additionally ..."
 
@@ -1089,7 +1089,7 @@ In your poll in June 2022, if I understand it correctly, 54% of the contributors
 
 **Ms Carey**: I'm doing it now. I'm so sorry, my Lady.
 
-It's my fault, Dr Finnis. INQ000409574_0055. Just one of the quotations that you have provided the Inquiry with. Quote 47 there, from a CVF member:
+It's my fault, Dr Finnis. INQ000409574\_0055. Just one of the quotations that you have provided the Inquiry with. Quote 47 there, from a CVF member:
 
 "I feel healthcare is no longer safe, now that masking has been removed, I find every visit stressful I spend a week before and after feeling very anxious and worried. I can't cancel appointments, I need my treatments, I still need facial surgery for my skin cancer, but I have delayed having a minor surgery to have my port removed. It seemed safer in 2020 because everyone [was] masked, there were more virtual appointments available, and the hospitals were much quieter."
 
@@ -1115,7 +1115,7 @@ I just want to really kind of talk about the juxtaposition of that guidance with
 
 **Lead 3**: Yes. The statement that you have provided actually goes on to outline some interim measures that CVF would advocate for.
 
-Could we look on screen at INQ000409574_58, please.
+Could we look on screen at INQ000409574\_58, please.
 
 It's your paragraph 145, Dr Finnis. You set out there some of the measures that the CV people would contend for: allowing people to wear their own, either FFP3 or FFP2; enabling people at higher risk to easily request staff to wear masks before their appointments.
 
@@ -1167,7 +1167,7 @@ I know the team and I have other commitments at lunchtime, so I will return at 2
 
 **Ms Carey**: Dr Finnis, may I just pick up on one thing you told us about before the lunch break, which was you made reference to mask abuse, and I'd like just to have a look at one of the quotations that you've included in your statement.
 
-Could we call up on screen INQ000409574_0023, and quote 13 there from one of your members that says they were:
+Could we call up on screen INQ000409574\_0023, and quote 13 there from one of your members that says they were:
 
 "... taking [their] child to an appointment at Great Ormond Street ... parked the car and was approached by a man and a woman who were shouting at me. They were really 'in my face' and swearing. The man threatened to 'punch me up' and then that 'he hoped our car would be all right' whilst we left ... to go to our appointment. We were all wearing masks. The woman told us there was no need as we were all outside."
 
@@ -1305,7 +1305,7 @@ Many, many of our group now have got air filters. I think it's one of the common
 
 **Lead 3**: Pause there, Dr Finnis, because there's two quotes on that page.
 
-Can I go to INQ000409574_66. It may not be the pension quote but I have seen that one as well, but there's a quote here at 57 from a CVF member. Thank you:
+Can I go to INQ000409574\_66. It may not be the pension quote but I have seen that one as well, but there's a quote here at 57 from a CVF member. Thank you:
 
 "I took early retirement, so my private health insurance stopped. I decided to pay myself, which this year was over £6,000, which is a very heavy financial burden. In 2021 I and to have a new heart valve and pacemaker and I simply would not risk an NHS hospital."
 

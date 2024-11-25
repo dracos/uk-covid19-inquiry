@@ -1580,7 +1580,7 @@ One observation, and criticism that's been made of the Treasury, is that it prod
 
 Is that something that accorded with your time there within Treasury?
 
-**Mr Sajid Javid**: During my time at the Treasury, including my time as a junior minister in the Treasury as well, my view was if you wanted a sort of counter-analysis, a counter_narrative, you had to ask for it as a minister it would not be something that would automatically be presented to you if you're faced with a policy decision.
+**Mr Sajid Javid**: During my time at the Treasury, including my time as a junior minister in the Treasury as well, my view was if you wanted a sort of counter-analysis, a counter\_narrative, you had to ask for it as a minister it would not be something that would automatically be presented to you if you're faced with a policy decision.
 
 **Counsel Inquiry**: Thank you. In terms of the way that it operates across government and feeds in those analyses, would it only do so when it was advancing a policy objective?
 

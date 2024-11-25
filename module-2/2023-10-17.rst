@@ -181,7 +181,7 @@ In your statement at paragraphs 4.11 and 4.12, perhaps we can call them up, you'
 
 **Counsel Inquiry**: So on 9 January, you say:
 
-"It's better in many ways that this incarnation appears to be less severe once infected. However, our ability to control it is driven by our ability to find cases. If being 'mild' makes it harder to find, it _could_ pose a greater health threat."
+"It's better in many ways that this incarnation appears to be less severe once infected. However, our ability to control it is driven by our ability to find cases. If being 'mild' makes it harder to find, it \_could\_ pose a greater health threat."
 
 Then if we can just look at the other tweet, which is on the top of the next page, I think. So you're referring to a further report, and you say the characteristics seem to be -- presumably this is one of the cases:
 
@@ -193,7 +193,7 @@ Then if we can just look at the other tweet, which is on the top of the next pag
 
 And then you say:
 
-"A version of SARS with a lower infection fatality rate _could_ be a much bigger public health problem."
+"A version of SARS with a lower infection fatality rate \_could\_ be a much bigger public health problem."
 
 Could you describe, perhaps in lay terms, what the concerns you were expressing in those two tweets were, particularly with regard to the lower infection fatality rate?
 
@@ -873,7 +873,7 @@ In fact if we can go to the next page, please, it's the paragraph starting "Ther
 
 So that's the counterfactual point again. But you go on to ask:
 
-"Is there a treasury team to whom we can send a plausible set of scenarios and ask directly how much better one scenario might be than another? We have a _little_ bit of time and this question has arisen many times."
+"Is there a treasury team to whom we can send a plausible set of scenarios and ask directly how much better one scenario might be than another? We have a \_little\_ bit of time and this question has arisen many times."
 
 So did you get an answer to that question as to whether there was a Treasury team you could engage with?
 

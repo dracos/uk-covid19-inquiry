@@ -922,7 +922,7 @@ I think, importantly, we talk about the shielded cohort but this is not -- these
 
 **Lead 3**: I think having started the programme, in your statement you make reference to the future of the shielding programme -- at your paragraph 49 -- and possible growth of the group asked to shield and you were asked to provide some advice to the Department of Health in that regard and I'd like to ask you about the advice you gave which I think is probably set out in part in an email.
 
-INQ000151804_2, please, page 2.
+INQ000151804\_2, please, page 2.
 
 We are in late April of 2020. And there is quite a long email, which I won't go through, that starts on page 3 but there was a request of you and others as, I think the department and the ministers were thinking about considering changing shielding as they were thinking about reviewing social distancing. So that's the sort of context in which the email arises.
 
@@ -1044,7 +1044,7 @@ Can I just ask you this, though: clearly, there was the pause of the shielding i
 
 **Professor Dame Harries**: Thank you. I seem to remember.
 
-**Lead 3**: We can put it up on the screen, actually, it's INQ000410865_20.
+**Lead 3**: We can put it up on the screen, actually, it's INQ000410865\_20.
 
 **Professor Dame Harries**: Perhaps if I talk through while that's coming up and I'll hopefully check if it's what I think it is. I think at the time we were in the summer period. We knew, or we were pretty confident there would be further waves, obviously we're now used to that, but at the time it was difficult to know when they might come. There was a higher chance of any wave impacting more badly during the winter when people tend to stay indoors and accumulate closely together, and apart from a few areas it felt that that was the right time to give a signal or to encourage people to be out more. It was both a climatic -- I mean, Covid hasn't settled into a particularly seasonal pattern, but the risks are different during the winter months, and there was a particular concern as well that for individuals, when they started, the initial period was advised to be a minimum of 12 weeks, and the concern was actually if we needed to advise people to shield again during the winter in those coming months, it would be very difficult for people, both mentally and physically, to be right out of the system for a whole year.
 
@@ -1114,7 +1114,7 @@ Professor Harries, may I just finish off with a few questions in relation to the
 
 I just would like your help about one piece of guidance.
 
-Can we turn to INQ000410865_33, please.
+Can we turn to INQ000410865\_33, please.
 
 **Professor Dame Harries**: Just while that's coming, can I just go back. So, overall, DHSC was not responsible for the whole shielding programme.
 
