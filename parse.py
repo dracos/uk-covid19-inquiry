@@ -44,7 +44,7 @@ def parse_speech(speech):
 def parse_transcripts():
     for f in sorted(glob.glob('data/*.scraped.txt')):
         Speech.witness = None
-        date, title = re.match(r'data/(\d\d\d\d-\d\d-\d\d)-(.*).scraped.txt$', f).groups()
+        date, title = re.match(r'data/(\d\d\d\d-\d\d-\d\d)-(.*?)\.+scraped\.txt$', f).groups()
         if date == '2024-09-24':
             Speech.witness = 'Michael McBride'
         if m := re.search('Module (2[ABC])', title):
@@ -57,6 +57,8 @@ def parse_transcripts():
             outfile = f'{sect}/{date}'
         else:
             outfile = f'{date}'
+
+        title = re.sub('Transcript of Module (\d[ABC]?) (Preliminary|Public) Hearing,? on 0?', '', title)
 
         with open(f, 'r', encoding='utf-8') as fp:
             if os.path.exists(f'{outfile}.rst'):
