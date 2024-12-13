@@ -92,7 +92,7 @@ def convert_four_up_pdf(text, date):
     for line in text:
         #print('*', line)
         if re.match('\s*$', line): continue
-        if re.match(r' ?1 +INDEX', line): break
+        if re.match(r' ?1? +INDEX', line): break
         elif 'INDEX' in line: state = 'index'
         elif re.match(' *Statement by LEAD COUNSEL TO THE INQUIRY \. 2$', line): break
         elif state == 'index' and re.match(' *\(continued\)$', line): break
