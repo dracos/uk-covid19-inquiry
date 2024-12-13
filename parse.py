@@ -222,7 +222,7 @@ def parse_transcript(url, text):
                 continue
 
             # Multiline heading
-            m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Submissions on behalf of)', line)
+            m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Opening statement by LEAD COUNSEL TO THE INQUIRY for$|Submissions on behalf of)', line)
             if m:
                 yield speech
                 state = 'adjournment'
@@ -238,7 +238,7 @@ def parse_transcript(url, text):
                 continue
 
             # Headings
-            m = re.match(r' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ([A-Z0-9 ]*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
+            m = re.match(r' *(((Opening|Closing|Reply|Response|Further) s|S)(ubmissions?|tatement)|(Closing|Concluding|Opening|Introductory) remarks) by ((?:[A-Z0-9 ]|for)*)(?:,? KC)?(?: \(continued\))?$|[A-Z ]*$', line.strip())
             if m and line.strip() != 'GP':
                 yield speech
                 speech = Section( heading=fix_heading(line) )
