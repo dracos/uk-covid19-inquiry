@@ -1,0 +1,479 @@
+Transcript of Module 7 Second Preliminary Hearing, on 06 February 2025
+======================================================================
+
+*(10.30 am)*
+
+**Ms Cartwright**: Good morning, my Lady, can you see and hear me?
+
+Opening Introductory remarks by THE CHAIR
+
+**Lady Hallett**: I can, thank you, Ms Cartwright. Thank you very much.
+
+Good morning, everyone, this is the second preliminary hearing for Module 7, in shorthand "Test and Trace". I am conducting the Inquiry remotely, everyone else, including the Inquiry team, are present in the hearing room at Dorland House, and I shall now ask Ms Sophie Cartwright King's Counsel to outline the issues I have to consider this morning.
+
+Ms Cartwright.
+
+Statement by Lead Counsel to the Inquiry for Module 7
+-----------------------------------------------------
+
+**Ms Cartwright**: Thank you.
+
+My Lady, I am Sophie Cartwright King's Counsel, the senior counsel for Module 7, the focus of which, as you've just identified, concerns, in summary, the approach to testing, tracing and isolation during the pandemic in England, Wales, Scotland and Northern Ireland, and to make recommendations.
+
+I appear along with other members of the counsel team for Module 7: my learned friends, Ms Malhotra, Ms Nice, Mrs Islam, Ms Nagesh and Ms Omotosho.
+
+Lead solicitor for Module 7 is Ms Morris OBE, who is supported by a wider team of solicitors, paralegals and members of the secretariat.
+
+This the second preliminary hearing in Module 7. The first preliminary hearing took place on 27 June 2024. May I welcome all Core Participants and their legal representatives who are present at today's hearing, whether in person or online. Can I also thank the Core Participants who provided written submissions in advance of today's hearing.
+
+These written submissions will be published following this hearing.
+
+Some of the matters raised within the submissions I will address as we go through today's agenda but can I assure each of the Core Participants that their submissions have been considered with care by the Inquiry legal team.
+
+In accordance with the agenda for this preliminary hearing, I will address you, so far as this module is concerned, on the following areas: first, an update on Rule 9 requests; second, disclosure to Core Participants; third, expert witnesses; fourth, Every Story Matters; fifthly, the timetable concerning the provision of Provisional List of Issues document, list of witnesses, and proposals for Rule 10 process; and, finally, future hearing dates.
+
+There will then be an opportunity for those who have been designated as Core Participants for this module to make submissions if they wish to do so.
+
+In addition to the Inquiry's counsel and solicitor team, there are a number of Core Participants present in the hearing room today, with further in remote attendance. Seven Core Participants are unable to attend today.
+
+Present in the hearing room and represented in no particular order are the following Core Participants: Covid-19 Bereaved Families for Justice UK, represented by Ms Munroe King's Counsel; Northern Ireland Covid-19 Bereaved Families for Justice, represented by Mr Nugent, Covid-19 Bereaved Families for Justice Cymru, represented by Mr Stanton; Scottish Covid Bereaved represented by Ms Mitchell King's Counsel; the Federation of Ethnic Minority Healthcare Organisations, represented by Mr Dayle; the Trades Union Congress represented by Mr Jacobs; NHS England, represented by Ms Crabtree; His Majesty's Treasury, represented by Mr Smith; and the Department of Transport, represented by Mr Mertens.
+
+Present over the link are NHS National Services Scotland and Public Health Scotland, represented by Mr McConnell King's Counsel; Scottish Health Boards represented by Ms MacQueen; Scottish Ministers, represented by Ms Drysdale King's Counsel; the Department for Education represented by Ms Ward King's Counsel; Baroness Arlene Foster of Aghadrumsee DBE and Paul Givan MLA, represented by Mr McBurney; the Local Government Association and the Welsh Local Government Association, represented by Ms Stober; the Welsh Government, represented by Ms James; and Northern Ireland Public Health Agency, represented by Mr Donnelly.
+
+A full list of Core Participants in Module 7 and their recognised legal representatives is published on the Inquiry website.
+
+My Lady, as detailed within the Counsel to the Inquiry's note circulated before today's hearing, Module 7 received a late application for Core Participant status on behalf of Ms Michelle O'Neill MLA, the First Minister of the Northern Ireland Executive. My Lady, you granted that application on 31 January of this year.
+
+Turning, then, to practical arrangements for today's hearing. The proceedings are being recorded and live streamed to other locations. This allows the hearing to be followed by a greater number of people than would be able to be accommodated within this hearing room.
+
+My Lady, it also goes a considerable way to satisfying the obligation set out in section 18 of the Inquiries Act to take such steps as you consider reasonable to ensure that members of the public are able to attend or see and hear a simultaneous transmission of proceedings.
+
+Also, as is routine in public inquiries, the broadcasting of this hearing will be conducted with a three-minute delay. This provides the opportunity for the feed to be paused if anything unexpected is aired, which should not be. We do not expect this to arise over the course of today but I mention it so that those who are following proceedings from further afield can understand the reason for any short delay.
+
+Turning then to the first item on the agenda, the update in respect of Rule 9 requests.
+
+As of this hearing, Module 7 has issued 233 (sic) Rule 9 requests sent to individuals and organisations for witness statements and associated documents. The Module 7 solicitor team's monthly update notes have provided details of the recipients, and an overview of the topics about which they have been asked. We are grateful to recipients of Rule 9 requests for the efforts they have made to comply with the Inquiry requests in a timely manner.
+
+In some cases, extensions to deadlines have been agreed to allow departments, organisations, and individuals to focus on providing responses to requests made in earlier Inquiry modules. However, there are a number of draft statements still awaited in respect of Rule 9 requests issued. This has been the subject of liaison and scrutiny by the Inquiry legal team. Clarification has been required as to firm dates when those outstanding draft statements will be provided.
+
+There is no room for complacency.
+
+The Inquiry legal team are confident in almost all cases that these will have been received by the end of February and a final small number by the beginning of March.
+
+Significantly, Module 7 is yet to receive drafts of witness statements following Rule 9 requests issued for what are anticipated to be important corporate witness statements from the Department of Health and Social Care and the UK Health Security Agency. This in particular has been the subject of regular correspondence and discussion by the Inquiry, with both DHSC and UKHSA, to progress these Rule 9 requests and to consider the extensions that have been sought. A clear timetable has been agreed for Module 7 to receive these completed corporate draft statements as soon as possible and as detailed.
+
+The draft Module 7 corporate statement from the Department of Health and Social Care will be received on 28 February 2025. Sections of this draft statement and exhibits have already been provided on a rolling basis for the Inquiry legal team review.
+
+Turning, then, to the Department of Health and Social Care's individual statement requests. In respect of other outstanding individual statements, where DHSC are assisting relevant witnesses, the timetable for provision of these outstanding draft statements has required further clarity and a commitment to meet a clear deadline. This was the subject of a further helpful discussion, as recently as 31 January 2025, with the Department of Health and Social Care and the Inquiry legal team, for which I am grateful.
+
+I can now confirm that in respect of Matt Hancock's Module 7 Rule 9 request, this was issued on 31 October 2024. The latest update is that this will be provided by end of February with an aspiration for provision of the same by 14 February 2025. Module 7 are clear that this draft statement is required as a priority and by no later than 21 February 2025.
+
+Sajid Javid's Module 7 Rule 9 request was issued on 17 October 2024. The latest update is that this is being completed in line with the deadlines for completion of Mr Hancock's draft statement and, similarly, Module 7 are clear that this draft statement is required as a priority and by no later than 21 February 2025.
+
+Lord Bethell's Module 7 Rule 9 request was issued on 31 October 2024. The latest update is that this will be submitted by probably late February. This draft statement is required as a priority, due to the importance of Lord Bethell's role and liaison with the private companies in respect of contracts of significance to Test, Trace and Isolate. This statement is required to be received by no later than 28 February 2025.
+
+Matthew Gould's Rule 9 request was issued on 15 November 2024. The latest update is that the draft is on track for mid-February.
+
+In January 2025 additional Rule 9 requests were issued to the National Institute for Health and Care Research and to Lord Kamall. The Department of Health and Social Care have responded in that no confirmation can be given as to when the NIHR statement will be provided in draft, but Lord Kamall's statement will likely be provided before the end of February, and Module 7 has communicated that we require as a priority the date when the NIHR draft will be received.
+
+Turning then to UKHSA. In respect of the UKHSA draft corporate statement being prepared by Dame Jenny Harries, we are grateful for confirmation that this will be received by 21 February 2025. We are aware that this has been the product of much hard work and will be in a format that could be disclosed, save for any clarifications that are sought or raised by the Inquiry legal team. It has also been confirmed that this corporate statement will incorporate and address the Rule 9 request made in relation to the Joint Biosecurity Centre.
+
+Additionally, the statement of Baroness Dido Harding is anticipated and will be provided by the end of the month. It is expected that Baroness Harding's statement and Dame Jenny's witness statements will be disclosed to Core Participants by the beginning of March.
+
+Then turning to an update in respect of the statement of Mr Johnson. Module 7 is yet to receive a draft witness statement from Mr Boris Johnson. This has been the subject of discussion and it has been confirmed that this draft statement will be received by no later than 14 March 2025.
+
+My Lady, as of today, 98 draft witness statements have been received and are either being reviewed with a view to the giving of feedback or for confirmation as to finalisation by signature. As the draft statements are reviewed, decisions are being taken as to whether any follow-up Rule 9 requests to organisations and witnesses are necessary or required. These will be issued only if truly necessary to Module 7 scope and will be progressed as a matter of urgency.
+
+The Inquiry legal team will continue to actively chase receipt of the outstanding draft statements. A detailed update will be provided in the February monthly note at the end of the month. This will address in detail the further progress made following today, so that there is clarity by the end of the month as to what statements are outstanding and will fall to be disclosed in March. Core Participants will continue to be kept properly informed through the Module 7 solicitor updates in March and April.
+
+Module 7 appreciate and understand the requests made in the submissions on behalf of each of the Covid bereaved groups, that they wish to receive disclosure of these statements and completion of the disclosure process as soon as possible to assist with their operations for the hearing.
+
+Covid Bereaved Families for Justice UK and Northern Ireland in their submissions wish a date two months prior to the hearings to be set for the bulk of disclosure to have been made. They request this to concentrate the minds of document and statement providers who still have to comply and to set a clear target date for the Inquiry team, whilst allowing Core Participants time to effectively participate. Further careful review is being undertaken by the Inquiry legal team as to the various issues raised in each of the submissions received for this hearing, many of which have been and will be addressed by the Rule 9 statements that will be disclosed.
+
+It is appreciated that as disclosure of the Rule 9 statements is only just beginning and in light of the approach of the Inquiry not to provide Core Participants with copies of the Rule 9 requests made, inevitably, a number of the clarification requests within the submissions will be addressed by disclosure of the statements. However, there are a small number of issues and requests made in the submissions that will be addressed now.
+
+Covid-19 Bereaved Families for Justice Cymru in their submissions make a request in relation to witness proposals beyond those issued to date by Module 7. This has been considered and a focused Rule 9 request has been issued to the former Older People's Commissioner for Wales, Heléna Herklots and also has been issued to the Older People's Commissioner for Northern Ireland.
+
+A request is also made in the submission of Covid Bereaved Families for Justice Cymru for evidence from the seven local health boards in Wales. Module 7 had, before receiving the submissions, progressed the drafting of a local health questionnaire to be sent to health bodies in England, Scotland, Northern Ireland and Wales. The seven health boards will be issued these questionnaire and the responses disclosed to Core Participants.
+
+Module 7 does not, however, intent to issue a Rule 9 request to the Chief Medical Examiner for England and Wales, as requested by the Covid-19 Bereaved Families for Justice Cymru. The formulation of this suggestion refers to 9,000 deaths in Wales from 2020 to 2021 that occurred in health and social care settings and were examined by the Chief Medical Examiner. Reception of evidence is sought to seek the views of the Chief Medical Examiner relative to this cohort of deaths, which would necessarily need each individual death to be reviewed.
+
+The request is seeking to identify if these individual deaths were as a result of Covid-19 nosocomial infection and, further still, whether failure to test was a contributory factor.
+
+The scope of Module 7 has been clearly formulated and published. Module 7 scope is to be read in conjunction with the Inquiry's overarching terms of reference and, specifically, the aims set out at paragraph B state as follows:
+
+"Although the Inquiry will not consider in detail individual cases of harm or death, listening to those accounts will inform its understanding of the impact of the pandemic and the response, and of the lessons learnt."
+
+Previous modules have adhered to those parameters, and it is right that the evidence to be adduced within this module is similarly directed. As will be appreciated, Module 7 will receive general evidence on the issue of testing in hospital settings prior to discharge from hospital.
+
+Scottish Covid Bereaved families for justice raise issues surrounding the differing experiences of permanent and agency staff who worked in care homes and discussions relating to do not attempt cardiopulmonary resuscitation notices. Although sector testing is addressed in the Scottish-focused Rule 9 requests issued, Module 7 is keeping a careful focus on Module 7's provisional outline of scope. We are confident that the statements to be disclosed will touch upon the experience of workers, where relevant, to the system of test, trace and isolate.
+
+Similarly, Covid Families for Justice Cymru raise a number of issues relating to testing within care homes, discharge to care homes without testing, and asymptomatic testing.
+
+Careful liaison continues to take place with Module 6 whose scope includes steps taken in adult care and residential homes to prevent the spread of Covid-19. Whilst these issues of relevance to TTI have been raised across the Rule 9 requests issued, necessarily, and as is obvious, Module 7 must keep a careful focus on its scope.
+
+Covid Bereaved Families for Justice UK and Northern Ireland, in its joint submissions, seek clarification as to whether decision making to stop testing and tracing in Northern Ireland, on 12 March 2020, in co-ordination with the UK Government but in the absence of substantive evaluation of whether there was merit in continuing with Test and Trace in Northern Ireland, has been addressed. I can confirm that this issue has been addressed in our Rule 9 requests, and will be addressed within a number of the statements to be disclosed, which the Inquiry legal team has seen in draft. Module 7 will address the decisions and the timing of relevant decisions concerning test, trace and isolate.
+
+FEMHO and Covid Bereaved Families for Justice UK and Northern Ireland, in their submissions, raise concern as to issues of discrimination and the disproportionate impact on people from ethnic minority backgrounds and disabled people.
+
+Each Rule 9 issued in Module 7 has made clear the commitment to investigating the unequal impact of the pandemic on different categories of people across the United Kingdom, with particular consideration of groups with protected characteristics, geographical differences, social economic background, occupation and immigration status.
+
+Each Rule 9 issued in Module 7 has also asked for inclusion within the statement of any relevant evidence that can be given as to, firstly, did decision makers consider the impact of policy decisions on each of these groups. And, secondly, were the decisions taken as a result adequate in mitigating the impact of the pandemic on these groups.
+
+Module 7 has also issued number of Rule 9 requests to impact and equality organisations, as has been made clear in the monthly update notes.
+
+FEMHO have also specifically raised the question of unequal treatment in the enforcement of TTI in the context of racism and institutional racism.
+
+Module 7 has asked those responsible for enforcement at various levels about issues of diversity, equality, impact on those with protected characteristics, and, in particular, the experience of those from ethnic minority communities.
+
+Covid Bereaved Families for Justice UK and Northern Ireland seeks clarity as to whether Module 7 will include a comparative international analysis between UK systems and that of other countries.
+
+Module 7 is exploring the UK's response and system of test, trace and isolate.
+
+The Inquiry terms of reference make clear that, in meeting its aims, the Inquiry will have reasonable regard to relevant international comparisons.
+
+As part of the work of Module 7, we have considered international approaches but a detailed comparative analysis would not be reasonable or required by the terms of reference.
+
+That being said, Core Participants will receive a number of statements and disclosure of documents that address international comparisons relevant to TTI.
+
+By way of example, an incredibly helpful and detailed Rule 9 statement on this issue will be disclosed from Professor Martin McKee, professor of European public health at the London School of Hygiene.
+
+Professor McKee is also Research Director at the European Observatory on Health Systems and Policies, a member of Independent SAGE, a member of the EU Expert Panel on effective ways of investing in health. He is Research Director of the European Observatory, responsible for the Covid-19 Health System Response Monitor, collating information on national responses to Covid-19, run in partnership with the World Health Organisation and the European Commission. He is a health adviser to the WHO and also Regional Director for Europe, a member of the Pan-European Commission on Health and Sustainable Development in light of the pandemic, and was also a past president of the BMA from 2022 to 2023.
+
+Module 7 will hear live evidence from Professor McKee at the hearing in May, and we are grateful to Professor McKee for confirming his attendance already.
+
+Secondly, moving to disclosure to Core Participants. As I've already detailed, a significant number of draft statements have been received and are being reviewed. Good progress is being made in respect of to the review of the draft stents and disclosure of these will follow. The majority of the statements can be expected to be disclosed over the next eight weeks.
+
+The Module 7 team have been prioritising the issuing of the remaining primary Rule 9s and, now that work is drawing to a close, the team's next priority will be on issuing feedback letters and disclosing final signed statements. Updates as to the likely order of feedback and disclosure of witness statements will be provided in the regularly monthly solicitor updates and in the regular meetings between material providers and the Module 7 team.
+
+The Module 7 team has disclosed a significant volume of material identified as relevant to the scope of Module 7. Eight tranches of disclosure have been disclosed to date with the last disclosure tranche having been made on 23 January of 2025. The ninth tranche of disclosure is scheduled to take place on 10 February 2025. Disclosure will thereafter continue on a rolling basis.
+
+Turning, then, to the third item on the agenda: expert witnesses and evidence. Significant progress has been made in respect of the instructions of the experts and receipt of the draft expert reports. On 17 January 2025, the draft expert reports for Module 7 were disclosed to Core Participants. Core Participants had an opportunity to provide comments by 29 January 2025, and the experts will now be asked to consider relevant comments with a view to provision of final reports to the Inquiry and onward disclosure in March.
+
+The first disclosed draft expert report provides an analysis of adherence to behaviours associated with the test, trace and isolate system by lead author Professor Arden, with author contributions from Professor Swanson for Scotland, Dr Phillips for Wales, and Dr Shorter for Northern Ireland, thus ensuring a perspective from each of the four nations.
+
+Professor Arden is Professor of Health Psychology and Head of the Centre for Behavioural Science and Applied Psychology at Sheffield Hallam University. Professor Swanson is a Professor of Health Psychology based at the University of Sterling. Dr Phillips is a Reader in Health Psychology, and Deputy Associate Dean for Research in the Cardiff School of Sport and Health Sciences. And Dr Shorter is a Reader in Clinical Psychology in the School of Psychology at Queen's University Belfast.
+
+The second disclosed draft expert report provides an analysis of the effectiveness of Covid-19 financial support and the impact on adherence with the test, trace, isolate system from Richard Machin, Associate Professor in Social Policy in the Social Work, Care and Community Department at Nottingham Trent University.
+
+Professor Machin specialises in research on the UK social security system, poverty, financial wellbeing, and the impact of inequalities.
+
+Module 7 thanks Core Participants for consideration of the issue detailed within counsel's note circulated prior to submissions relative to the involvement of Mr Pickford in supporting Professor Machin. No Core Participant has raised an objection, and the Inquiry maintains, and we are grateful for the confirmation, that the matter identified creates no issue with Mr Pickford's contributions to the Machin report or his continued assistance to Professor Machin.
+
+My Lady, as has been detailed within the update notes, throughout July, August and September 2024, the Inquiry team met with a number of potential experts relating to testing technologies and strategies. Despite the extensive scoping of possible experts and numerous interviews, the Inquiry has not identified an appropriate independent witness with appropriate expertise to provide a report on this topic.
+
+The Inquiry has, however, identified number of SAGE and independent scientists, think tanks and research institutes, who were involved in providing advice to relevant advisory bodies in relation to testing technologies and strategies during the Covid pandemic. Rule 9 requests have been issued and the Inquiry has already received a large number of draft witness statements in response, which will be disclosed to Core Participants, and on rolling basis as more are received.
+
+Module 7 is particularly grateful for the responses to these requests for witness statements from these organisations, scientists and academics. Their work, research and advice has real importance relative to Test, Trace and Isolate during the pandemic.
+
+A large number of individuals have kindly, once again, given time to share their important and valuable evidence to inform the work of Module 7. We anticipate that a number of these distinguished experts, academics and scientists will be called to give live evidence in May.
+
+Turning next to Every Story Matters. Module 7 is currently working on the Module 7 Every Story Matters record with our research partners IPSOS. The Module 7 legal team is in the process of reviewing the Module 7 Every Story Matters record, and we confirm that we anticipate sharing the final record with Core Participants in March 2025, eight weeks before the Module 7 hearings.
+
+Fifth, timetable.
+
+In preparation for the public hearings which will commence on 12 May 2025, the Inquiry intends to circulate, around 12 weeks in advance of the hearing and in late February, a provisional list of witnesses, along with a provisional list of issues. Core Participants will of course be invite to respond.
+
+Covid Bereaved Families for Justice UK and Northern Ireland urge a review of the hearing timetable for Module 7. Module 7 are focused and committed to, alongside the wide-ranging disclosure of Module 7's investigatory material to Core Participants, undertaking a focused examination at the hearing of the key and central issues to Module 7 scope. This will be undertaken with a focus on the evidence to inform appropriate and meaningful recommendations.
+
+Finally, in respect of timetable, proposals for the Rule 10 process will be circulated by 7 April 2025.
+
+My Lady, in respect of item 6 on the agenda, future hearings, as has been made clear on the Inquiry website, the public hearing in Module 7 will take place at Dorland House between 12 and 30 May 2025. There will be an impact film broadly connected with the issues addressed in Module 7, which will be played at the commencement of the Module 7 public health hearings.
+
+My Lady, that concludes all of the matters on which I wish to address you on behalf of Counsel to the Inquiry. And can I just in fact thank my learned junior. In fact, I indicated that we'd issued 233 Rule 9 requests. I apologise, it should have been 223. Thank you.
+
+So my Lady, that clarification having been made, a number of Core Participants wish to address you orally during the course of this hearing, and so can I invite you to hear from those now.
+
+Can I first turn to Ms Munroe King's Counsel to make the oral submissions she wishes to make in respect of the Covid-19 Bereaved Families for Justice UK.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Ms Cartwright.
+
+Ms Munroe.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice UK by Ms Munroe KC
+----------------------------------------------------------------------------------
+
+**Ms Munroe**: Thank you. Good morning, my Lady.
+
+Today, along with Ms Maragh, counsel, and Ms Fletcher from BJC solicitors, we represent the Covid Bereaved Families for Justice UK. However, my Lady, you will shortly be hearing from Mr Nugent on panel, of the Northern Ireland group. Together, we commend the joint written submissions on behalf of both groups for this Module 7 preliminary hearing, which sets out, we hope, clearly and succinctly the major concerns in respect of Module 7 on behalf of our families.
+
+My Lady, can I take this opportunity, at this point, to say that the discussions and correspondence in the run-up to today's preliminary hearing, and indeed this morning, that we've had with Ms Cartwright King's Counsel and her team have been extremely constructive and we very much welcome the approach that she takes and has taken, and the time that she took this morning to speak individually to each CP and go through our relative respective submissions. I suspect, as a result of that, there will be less repetition and more areas of agreement and I hope, consequently, slightly shorter submissions from many of us, but I do thank her.
+
+My Lady, before addressing on the substantive submissions, I thought it might be useful and helpful to highlight a couple of publications and quotes which, in our submission, are illustrative of how important this module is in its international context and dynamics. It is important that in examining, test, track, isolate and support, one doesn't isolate the analysis. There is much to learn from how other nations approached these universal problems.
+
+Five years ago at the very height of the pandemic, of the World Health Organisation called on all countries to ramp up their testing programmes as the best way to slow the advance of the coronavirus pandemic and also urge companies to boost production of vital equipment to overcome acute shortages.
+
+"We have a simple message to all countries: test, test, test", said the World Health Organisation Director General, Tedros Ghebreyesus at a news conference in Geneva, calling the pandemic, "the defining global health crisis of our time".
+
+In the same year, defend, in an article in Eurohealth, entitled "Successful find-test-trace- isolate-support systems: how to win at snakes and ladders", the authors, Ms Rajan, Mr Cylus and Mr McKee noted:
+
+"In order to ease lockdown restrictions and prevent a second wave of infections, countries must be able to find, test, trace, isolate and support new coronavirus cases."
+
+The simplicity of the test, trace, isolate mantra dramatically understates the multitude of time-dependent processes that must occur seamlessly for the strategy to work effectively, and I note from that quote one of the authors, Mr McKee, is indeed the individual that Ms Cartwright King's Counsel has been breaking of.
+
+Thirdly in a publication from 2022, entitled "Development Cooperation TIPs: Tools, Insights, Practice", Germany in particular was highlighted because they took a stepped approach to the challenges faced by the virus. Before making the case to the federal Parliament for additional funding, the jury matter of law government first mobilised its existing capacity. It did so by tracking needs thematically instead of by region or country, which was something rather unique to Germany.
+
+It is clear, my Lady, from those few short quotations, the utility of understanding the issue on a global basis.
+
+My Lady will be aware that we represent a wide and diverse group of individuals who bring to this Inquiry not only their shared experiences of the pandemic but also their unique individual knowledge and understanding of all aspects of the pandemic, from preparedness, impact, through to implementation of measures to mitigate and combat it. Module 7 is of particular relevance to many of our families because it represents some of the most important tools that were developed to combat the pandemic. With a module such as this, our families believe it is vital that there is a thorough investigation of how successful or otherwise these measures were.
+
+Where things veiled it is necessary not only to dissect and investigate, in order to understand why they failed, but as importantly, to consider ways in which things can be improved, changed and ameliorated. This is obviously crucial going forward so that we will be better placed to have the correct tools to combat any future pandemic.
+
+In the time available, my Lady, we don't propose to deal with all the matters in our written submissions but simply to touch upon some of the matters raised this morning very helpfully by CTI and look at three specific points: experts, discrimination, and support.
+
+Much, as I said, has been answered by CTI from our discussions and in the opening this morning, which was particularly helpful. Such, as I said, an open and collaborative approach is very much welcomed, both by the lawyers and the families, and we hope we can continue this going into Module 7 itself in May.
+
+In terms of experts, we note what is said. We had, in previous submissions, and indeed in our written documents for today's hearing, specifically addressed the issue of comparative experts and experts in relation to discrimination and I hear what is said on behalf of CTI.
+
+We've said it before and I'll say it again, my Lady: the quality and calibre of the experts instructed in the Inquiry thus far has been extremely impressive and they have added real value to the process. Something I've particularly noted, my Lady, is that the expert evidence often complements and expands and underpins the lived experience of the families and the more anecdotal evidence from key players, such as doctors, nurses, healthcare workers on the frontline, and those who are the interface between the chronically ill and vulnerable members of the public, and others, such as BAME and those who are faced with health inequalities, those who are working the hostile environment, such as migrant workers, and as we've very recently in the last module heard, those in communities such as those who are disabled, the Gypsy, Roma and Traveller communities, who are largely absent or completely written out of the narrative altogether.
+
+So when one has the expert evidence that we have had so far, it has been extremely cogent because it as I said, underpins some of that very visceral and at times difficult to listen to evidence and adds weight to already impressive accounts.
+
+What is said in relation to the comparative analysis, we are heartened by that, because Mr McKee, as I said, is somebody we quoted, independently, in fact, of hearing about the role he is going to play in this module, and is somebody that we were obviously aware of previously. Whilst it may not be an expert report per se, it's akin to an expert report and, ultimately, my Lady, it's -- rather than the title -- is an expert report -- is a witness -- it's the quality of the evidence that one will hear and the information that that evidence will hopefully bring to bear upon and assist with the findings that you have to make. Certainly from what's been said about Professor McKee, he would fall into that category of somebody who really will be adding value to the proceedings. So we're very heartened by that.
+
+In relation to testing technologies and strategies, again, I don't doubt for a second that the enquiries have been extensive. I know that at the moment an expert hasn't been found. Obviously, if somebody is found in the time between now and May, we will welcome that but, in the alternative, again, we're heartened by what is said in terms of who can perhaps give evidence to the Inquiry in relation to that.
+
+That, perhaps, brings me neatly to the question of discrimination and experts. I can perhaps deal with those together.
+
+We had urged previously the Inquiry to consider together whether an expert commissioned to report on aspects of discrimination and inequality in this module was necessary and could be found. Again, my Lady, I hear what is said on behalf of CTI, and the Rule 9 question -- again, we're grateful because we've never had an opportunity to hear those questions before -- that addresses specific points of investigations of unequal impact upon individuals and organisations, and inequality organisations being particularly targeted, is very important and is welcomed.
+
+What we would say, however, is it also needs to be borne in mind that the impact of structural discrimination and racism needs to be addressed. It's not simply a question of investigation but looking at the structures. That is something that has come out from the other modules we've heard to date, even where there hasn't been specific experts. The evidence from the witnesses very much talk about the structures, talk about and look at and try to analyse, as best they can, issues about structural discrimination and racism, because that is how one actually dismantles the problem. If you can identify the structures, why they are in place, then that's the starting point for dismantling those structures. So I would simply ask that that is borne in mind when looking at those Rule 9 questions, and looking at the types of evidence that we would hope to receive from chose to individuals.
+
+No doubt, in part, the reason why so many of the witnesses and that theme of structural racism and discrimination has sort of been a thread in the Inquiry, has been not simply because those who we represent, the families and Northern Ireland, have made it part and parcel at the forefront of their submissions, but organisations, such as FEMHO, who have been very helpfully Core Participants in a number of modules and very much have that at heart.
+
+Can I just say, my Lady, Mr Dayle in due course will be addressing you, but we have read those and adopt his submissions, and in particular the points made at paragraphs 9 and 10 of his written document. But I'll not steal his thunder. He will deal with those in due course.
+
+My Lady, then going on to the question of support. We deal with that in paragraph 3 of our written submission. Our central point is a simple one: a system of test and trace, isolate and support has long been established as a core pillar of a public health role in responding to infections, and one cannot, sort of, compartmentalise and isolate, as it were, those four individual points. Support is an integral part of the whole picture and it needs to be seen it as a vital component and not marginalised, ignored or understated.
+
+Again, my Lady, we are heartened by what is said in terms of the experts that have been instructed thus far, and the points that will be raised, no doubt, in further questioning from them and indeed other witnesses that we don't yet have available to us because of disclosure.
+
+I should have said at the outset, of course, everything that I do say, my Lady, is predicated on the fact that a lot more disclosure is to come, and I suspect more of our questions, that perhaps remain unanswered, will be answered with later disclosure.
+
+We note -- having read the submissions prior to today, we note what is said, in particular on behalf of the Welsh group, about testing in care homes and hospitals. In their submissions, understandably, it is specific to the issue in Wales, but I know that that is obviously concern to our families that we have in Wales, but also to our families in England as well, because it is not -- from what we can see, my Lady, it certainly wasn't a necessarily blanket rule that in English and Scottish hospitals and care homes that testing was routinely done or that indeed it was done in a sufficiently rigorous fashion. So that is obviously an area that we would again endorse and adopt those submissions, because it's an area that the Inquiry in Module 7 will want to consider carefully.
+
+My Lady, finally, on disclosure, again, thank you, Ms Cartwright King's Counsel for what is said. I know it is unfortunate that the modules are sort of coming fast and furious and we're all working under pressures of time, some CPs with very small legal teams, but obviously timely disclosure is of great importance because it allows everyone to read -- and perhaps it focuses the mind in terms of questions that, actually, who should be asked -- we should be directing written questions to, rather than, sort of, a more scatter -- I'm not saying that we do this -- a scattergun approach, but sometimes when one has more time it focuses the mind.
+
+In conclusion, my Lady, obviously it is important that this module identifies any shortcomings -- that are clearly identified and properly understood, and rectified with due expedition. As we are constantly reminded through the course of the Inquiry, it is not a case of when there will be another -- if there will be another pandemic, but rather when there will be another pandemic and what we will do. We cannot afford to repeat the mistakes of the past. It literally is a matter of life and death. And there can be no higher level of urgency and motivation to make it right.
+
+My Lady, those are our submissions.
+
+**Lady Hallett**: Thank you very much indeed, Ms Munroe, and thank you for your comments about -- I'm delighted to hear about the construction and positive relationship between you and the Inquiry team. Thank you.
+
+Ms Campbell, I hope we're not going to pick on you again today?
+
+**Ms Cartwright**: It is, in fact, Mr Nugent, my Lady, that will be --
+
+**Lady Hallett**: Oh, is it Mr Nugent, is it? Are we going to pick on you, Mr Nugent?
+
+Submissions on Behalf of Northern Ireland Covid-19 Bereaved Families for Justice by Mr Nugent
+---------------------------------------------------------------------------------------------
+
+**Mr Nugent**: If we can get the microphone working, we might. You can hear me okay, my Lady? Thank you.
+
+My Lady, at the outset, may I echo the sentiments of Ms Munroe in respect of the constructive approach of Counsel to the Inquiry for Module 7. Similarly, for us, it has been most helpful and we're very grateful for that.
+
+My Lady, on 30 January 2020, the World Health Organisation issued advice stating as follows:
+
+"... it is still possible to interrupt virus spread, provided that countries put in place strong measures to detect [the] disease early, isolate and treat cases, trace contacts, and promote social distancing ... commensurate with the risk."
+
+From a Northern Ireland perspective, we were in a relatively privileged position to have the time to follow that advice, and to put in place those requisite strong measures. We were, at the time, behind the curve of England, and we could benefit from its experience.
+
+As you know, my Lady, we're a very different society, a smaller population, with fewer people living in densely populated areas or using public transport systems, for example. It would be almost a full month before our very first case would arrive, at the very end of February 2020, and over the few days that followed, the numbers would increase relatively slowly in Northern Ireland.
+
+Test, trace and isolate had the capacity to succeed there.
+
+Why, then, we would ask you to explore, my Lady, was it not possible for us to, as the WHO put it, interrupt the virus spread by detecting the disease, tracing its course and isolating it?
+
+Why, just 12 days after the virus had been detected in Northern Ireland, was our system of test, trace and isolate apparently stopped, at a time when we still had significant capacity?
+
+If it is correct that test and trace was stopped in Northern Ireland, and in the other devolved administrations also, because England had moved to the delay phase of the Covid response plan, what consideration was given to the wisdom of that decision, and by whom? And significantly, my Lady, what were the consequences of it?
+
+Richard Pengelly, the then Permanent Secretary to the Department of Health gave evidence about this during Module 2C. He said and I quote, my Lady:
+
+"... this was a UK-wide decision that was being taken, and all the devolved administrations were part of that decision."
+
+His evidence was clear: there was no meaningful scrutiny of this decision in Northern Ireland as to whether there was any merit in continuing to test and trace, as this was simply swept up in the broader decision.
+
+Northern Ireland Covid Bereaved Families for Justice are gravely concerned by that apparent reality, my Lady, and, we respectfully suggest, so should be the Inquiry. Our client group trust that these issues and the consequences of them will be addressed by this module of the Inquiry.
+
+And in terms of consequences, my Lady, we draw your attention to three issues raised in the Rule 9 statement of Hazel Gray on behalf of the Northern Ireland Bereaved Families for Justice.
+
+Firstly, in the absence of a robust system to test, trace and isolate the virus, the isolation of vulnerable groups and individuals became the norm. Failure to effectively use measures such as testing to lessen restrictions, for example, on visiting loved ones in care or in hospital is therefore a significant concern on the part of our families.
+
+Secondly, and simultaneously, inadequate measures to protect those benefiting from care, including testing within care homes and health care facilities, not least at the point of transfer from one to the other, leaves the lasting impression that loved ones were positively given the virus behind otherwise locked doors.
+
+Thirdly, the absence of routine testing of healthcare workers reinforces that impression.
+
+My Lady, you will recall the evidence of Dr Catherine McDonnell in Module 3 of this Inquiry. She was the medical director of the Western Health and Social Care Trust. She told you that Altnagelvin Hospital departed from regional guidance on testing, and, in practice, undertook testing of more staff than would have occurred under the guidance which was formally in place.
+
+As a result of that, my Lady, they identified Covid positives amongst staff who were otherwise non-symptomatic. And as a result, they protected both staff and patients.
+
+That an apparent success story relied on the departure from the guidance should be a matter of real concern, as should the inadequate measures to ensure that those who had to work, in particular with the health care and care systems, were isolating when they were supposed to. Or were there financial disincentives against isolation for some staff?
+
+We know, my Lady, that we are not alone in voicing these concerns. Many are represented in the written submissions of the Cymru group, and we know they are shared by the UK Covid Bereaved group also.
+
+We recognise the overlap of the issues raised in Module 6 as raised by Ms Cartwright this morning, but having said that, my Lady, the impact of the failings in the test, trace and isolate are not unique to the care system, as you will know. We know that Module 7 has, as at December 2024, sent Rule 9s to a variety of impact organisations, seeking to capture experiences across a range of society, including children, women, disability groups, migrant representatives and others.
+
+My Lady, a similar point was made yesterday in the Module 6 preliminary hearing, you might recall. Umbrella groups such as Age UK cannot be assumed to reflect the experiences in Northern Ireland, nor can, for example, migrant groups or children's organisations who are based in London.
+
+Again, my Lady, we are ready to assist and invite the Inquiry to gather representative voices from Northern Ireland.
+
+My Lady, aside from those Northern Ireland-based concerns, may I respectfully adopt the submissions of Ms Munroe KC, in particular on the following core issues: firstly, the disclosure process. And I'm very conscious of the fulsome update from Ms Cartwright KC today in this regard and we thank her for that.
+
+The second is the instruction of experts.
+
+The third is international comparative analysis.
+
+And the fourth is timetabling.
+
+I'll conclude with this point, my Lady, and I'm conscious that Ms Munroe KC has already touched upon the topic of international comparative analysis, and of course I also take account of the submissions of Counsel to the Inquiry this morning, and collectively I think we look forward to receiving the statement of Professor McKee on this issue, the Inquiry is nevertheless reminded, my Lady, that international comparative analysis, as far as test, trace and isolate is concerned, has particular resonance in Northern Ireland, where the phrase "the virus doesn't stop at borders" has real meaning.
+
+You've heard on countless occasions, my Lady, that Ireland is a single epidemiological unit, and yet there is precious little evidence of how test, trace and isolate policies were developed with that scientific and health care-based reality in mind.
+
+Could and should we have done better? How do countries like Germany fare with an open land border with eight other countries, for example? How did small island nations like New Zealand compare? What can we learn about future pandemic responses if we broaden our horizon, if only for a day's worth of evidence? Perhaps those are issues that Professor McKee can address in his evidence.
+
+My Lady, we understand the pressures of time and resources. But we contend that it would be a worthy diversion in the context of this particular module. Thank you very much, my Lady.
+
+**Lady Hallett**: Thank you very much. I'm very grateful, Mr Nugent.
+
+Right, I think it's now Mr Stanton.
+
+**Mr Stanton**: Thank you, my Lady. I hope you can hear me.
+
+**Lady Hallett**: Yes, I can.
+
+Submissions on Behalf of the Covid-19 Bereaved Families for Justice Cymru by Mr Stanton
+---------------------------------------------------------------------------------------
+
+**Mr Stanton**: Thank you, my Lady.
+
+My Lady, I make these submissions on behalf of the Covid-19 Bereaved Families for Justice Cymru group. As you'll be aware, the issue of nosocomial infections and deaths in hospitals and care home settings in Wales is a major concern of the group, and the testing failures of the Welsh Government were a significant contributory factor to these tragic circumstances.
+
+From the written submissions provided on behalf of the group, I propose to highlight four key areas of failure with which you will already be familiar, but in respect of which we hope you and the Inquiry team will find it helpful to hear the Welsh-specific perspective.
+
+The first is the suspension of contact tracing between March and June 2020. A key concern of the group's members is that contact tracing in Wales was halted in March 2020 and did not restart until June 2020, almost two months after the peak of the first wave. In this regard, the group wishes to understand why contact tracing was suspended, whether the justification provided for suspension, namely that the UK was moving from the contain to the delay phase, was an accurate and complete explanation, or whether the real reason for suspension was in fact a lack of capacity; why there was such a lengthy delay in reintroducing a tracing programme, given its importance; and what was being done by the Welsh Government in the early stages of the pandemic to speed up testing and tracing infrastructure.
+
+The second area is the failure to test hospital patients upon discharge to care homes. Over 1,000 patients were discharged from hospital into care homes in Wales prior to the introduction of testing on discharge on 29 April 2020. This practice seeded infections into vulnerable communities and was exacerbated by the lack of PPE, testing and effective treatment and equipment available in care homes.
+
+My Lady, the lack of awareness of the risks that this policy posed, including the lack of awareness of asymptomatic transmission, can be seen within the email correspondence from early March 2020, disclosed by the Inquiry at INQ000183761, which we suggest is a line of inquiry to be pursued. Further, the introduction of testing on discharge in Wales was inexplicably delayed, and came some two weeks after testing on discharge was introduced in England on 16 April 2020.
+
+The third area is testing within care homes. The failure of the Welsh Government to provide routine testing in care homes is a matter of very great concern for the group and encapsulates everything that was wrong about the approach of the Welsh Government to the pandemic, including a failure to take a precautionary approach to the risks of asymptomatic and aerosol transmission, inaccurate claims that testing had no value, numerous changes of policy, a lack of transparency and delays in implementation, including in comparison with other UK countries.
+
+Statements made by the former First Minister, Mark Drakeford, on this issue include on 29 April 2020, stating that:
+
+"The reason we don't offer tests to everybody in care homes, symptomatic and asymptomatic, is because the clinical evidence tells us that there is no value in doing so."
+
+And on 6 May 2020, that he had not:
+
+"... seen any clinical evidence that led me to believe that testing of non-symptomatic residents and staff in care homes, where there is no coronavirus in circulation, had a clinical value."
+
+Both these statements were made after the commencement of routine testing in care homes in England from 28 April 2020.
+
+My Lady, over this period, a member of the group who owned and ran a care home in Wales campaigned extensively for routine testing because of the risks of asymptomatic transmission and also because elderly and vulnerable care home residents were falling ill and dying within 48 hours of becoming symptomatic, without Public Health Wales being able to provide testing in this short period between symptoms and death.
+
+On 16 May 2020, the Welsh Government announced routine testing in care homes and, on the same day, testing was carried out at the care home of the group member mentioned and, as feared, the testing resulted in several positive tests of asymptomatic staff and residents.
+
+On 19 May 2020, the group member asked her MP for these results to be passed to the First Minister and the Health Minister and stated:
+
+"This virus is an invisible killer and the only way it is going to be eradicated in care homes is to have the staff tested weekly, especially as their children return to school, so we all know who is shedding Covid-19 and they can stay away until safe to return."
+
+My Lady, the group wish to know why the Welsh Government was so blind to these risks and precisely what clinical evidence they relied upon to justify their position prior to 16 May 2020 that there was no value in routine testing.
+
+The fourth key issue is that of the consistent delays by the Welsh Government in implementing essential safety measures behind other UK nations. As already mentioned, these include testing on discharge from hospital some two weeks after England, and routine testing in care homes 18 days after England. These were critical periods in the pandemic and, while delays of two weeks might not seem significant, the absence of testing allowed infection to spread unchecked and will sadly have contributed to increased infections and death, as described by the group's member when referring to the virus as "an invisible killer".
+
+My Lady, in respect of proposed witnesses, as mentioned yesterday at the Module 6 preliminary hearing, the key decisions in Wales were taken by the former First Minister, Mark Drakeford, former Health Minister, Vaughan Gething, the CMO for Wales, Sir Frank Atherton, and additionally, in respect of this module, by the CSO for Wales, Dr Rob Orford, all of whom made public statements that routine testing was not effective, and we ask that they be considered for oral evidence at the Inquiry's hearings.
+
+My Lady, we made other proposals for witness statements in our written submissions, and Ms Cartwright helpfully indicated earlier, prior to the hearing's commencement, that those would be pursued in respect of the former Older People's Commissioner for Wales, Heléna Herklots, and the seven local health boards in Wales, and we're very grateful for that indication.
+
+My Lady, I'd like to conclude by raising a small number of further lines of inquiry. First, a rapid review on testing in Wales reported to the Welsh Government in mid-April 2020, and resulted in a change in testing policy on 18 April 2020. The group has made efforts to identify this rapid review report but has been unable to obtain a copy and, in these circumstances, we ask the Inquiry to consider doing so.
+
+Second, the group campaigned extensively for an investigation of nosocomial infections in Wales from Covid-19 and, in April 2022, the National Nosocomial Covid-19 Programme was established. The programme published a report of its work in 2024, which includes references to testing deficiencies in Wales. Again, Ms Cartwright, very helpfully, prior to the hearing, has indicated that those lines of inquiry are being pursued by the Inquiry and, again, we are very grateful for that indication pause.
+
+Third and last, my Lady, we had suggested that enquiries were made of the Medical Examiner for England and Wales. Ms Cartwright has explained in full the reasons that the Inquiry is not pursuing that line of inquiry. We entirely understand and accept that's a matter for the Inquiry. The only point we would add to that, and with apologies for perhaps not making this plain in our submissions, is the reason for suggesting an inquiry would be to identify any underlying analysis of the 9,000 deaths in Wales. We entirely accept that it is not for this Inquiry to pursue the individual circumstances of deaths but it is possible, we suggest, that the Medical Examiner has undertaken some analysis of that large group, which may be worth pursuing.
+
+My Lady, those are the submissions on behalf of the group. Can I join in with my colleagues in indicating that we're very grateful for the helpful and collaborative approach taken by the Inquiry team in this module. Thank you.
+
+**Lady Hallett**: Thank you very much indeed for your help, Mr Stanton.
+
+Ms Mitchell?
+
+Submissions on Behalf of Scottish Covid Bereaved by Dr Mitchell KC
+------------------------------------------------------------------
+
+**Dr Mitchell**: My Lady, touching on that last point again, we're grateful to Counsel to the Inquiry for speaking to us this morning and also for providing the detailed notes setting out the matters to be addressed at the second preliminary hearing, and for her submissions this morning.
+
+The Scottish Covid Bereaved have a great many concerns as to how the Test and Protect policies and strategies were developed and deployed in Scotland. A Rule 9 statement has been provided to the Inquiry setting out these concerns. Now isn't the time to repeat all of them but, put short, the bereaved consider that the testing capacity in Scotland and indeed the wider UK was wholly inadequate at the start of the pandemic.
+
+Testing, tracing and isolation was the key to protecting the most vulnerable in our society. We flagged yesterday the concern of the lack of testing the most vulnerable in our society from hospital to care homes, and the failure of testing elderly and care home residents. Test, tracing and isolating, was the key to unlocking the door to allow relatives to visit vulnerable loved ones in care homes and hospital settings and, in many cases, allowing them to be with loved ones in their final moments. For many, they remained locked out, and their loved ones died alone.
+
+When the next pandemic comes, having a test, trace and isolation system in place, that will be adequately resourced and efficient so that it can be quickly put into operation, will be vital to our pandemic response. The bereaved were therefore pleased that the Chair has confirmed in Module 7 that it will consider specific financial support in place as part of the TTI systems adopted as one of the factors in influencing compliance. Many of the bereaved are concerned that a lack of funding meant that people were required to go to work, whether symptomatic or not, and this is may have directly affected their loved ones.
+
+I do not repeat today our plea, as ever, in respect of disclosure. We know the Inquiry is working as fast as it can and as hard as it can in getting that, and we look forward to receiving that when we do. The Scottish Covid Bereaved look forward to receiving the provisional list of witnesses and note the dates given this morning by Ms Cartwright KC. The bereaved have already provided the Inquiry with submissions and key lines of inquiry highlighting, in addition to matters identified by the inquiry, issues surrounding the differing experience of permanent and agency staff who worked in care homes.
+
+This morning, again, we are grateful to Counsel to the Inquiry who spoke to us, assuring us that there will be evidence in respect of people who worked during the pandemic through the prism of test, tracing and isolating, and we're grateful to her for that confirmation.
+
+As the Scottish Covid Bereaved have previously highlighted, there is of course a memorandum of understanding between this Inquiry and the Scottish Covid-19 Inquiry. Both Inquiries are required to work together to minimise duplication of their investigation, evidence gathering and reporting. We note that the memorandum of understanding is understandably drafted at a relatively high level. The bereaved are having some difficulty in understanding where lines are to be drawn, and which issues are to be dealt with by this Inquiry and which are to be considered by the Scottish Inquiry.
+
+They would welcome any guidance, if possible, in relation to this matter in respect of this module, and the reason for this, my Lady, is simply to minimise Rule 9 question duplication.
+
+These are the submissions on behalf of the Scottish Covid Bereaved.
+
+**Lady Hallett**: Thank you very much indeed, Ms Mitchell. As ever, very grateful.
+
+Mr Dayle, I think you complete the speakers this morning.
+
+Submissions on Behalf of the Federation of Ethnic Minority Healthcare Organisations by Mr Dayle
+-----------------------------------------------------------------------------------------------
+
+**Mr Dayle**: Yes, indeed, my Lady. Good morning.
+
+I represent the Federation of Ethnic Minority Healthcare Organisations (FEMHO) in a counsel team led by Mr Leslie Thomas KC and instructed by Saunders Law. You are invited, as ever, my Lady, to consider these very brief submissions alongside the written ones that we've also made.
+
+It bears stating that perhaps more than any other module in your Inquiry, my Lady, Module 7, the investigation of test, trace and isolate, or TTI, will necessarily put the issue of trust front and centre, in particular, trust between members of the Black, Asian and Minority Ethnic, or BAME, communities, and the state. The matter of trust and its implications for our members in conducting their work during the pandemic has, as you know, been a recurring theme in earlier modules. We have previously encouraged you to pursue lines of inquiry that show the link between trust and access to healthcare and, continuing in this vein, we say too that this module should further explode the notion of BAME community as hard to reach for the purpose of TTI.
+
+My Lady, FEMHO is confident that your investigations in this module will uncover the racialised approaches that you've heard of before, that were taken regarding enforcement of TTI measures.
+
+In mirroring -- what we say mirroring the wider concerns about racist policing, for example, FEMHO says that the disproportionate use of enforcement measures against BAME communities served to reinforce scepticism about the public good of these measures, and cast them as much of the regular fare, worthy of the same old scepticisms from black and brown people.
+
+My Lady, your investigation has so far established that, in most personal decisions about how to engage with even the most well-meaning infection prevention and control measures, it is not sufficient for the government to simply run a message that the benefits of a particular measure will far outweigh the risks. The evidence we have heard thus far is that government messaging is seldom ever trusted implicitly. Members of the BAME community are more likely to question the bona fides of government measures given deeply rooted historical factors.
+
+There are just far too many, we say, recent controversial examples of racialised government surveillance and law enforcement. Around the time that TTI measures were being rolled out, for example, there was much scrutiny of law enforcement arising out of the murder of George Floyd in the USA. The Black Lives Matter campaigns that followed, and which swept across the UK, drew attention to transparency in issues of state surveillance and criminal justice enforcement and, like a split screen in epic reel, there were examples of flagrant breaking of TTI- related rules by the very political leaders who made them. It's not difficult to see the challenges of obtaining buy-in to TTI measures from members of the BAME community.
+
+So in our written submissions we identified the two areas in which we indicated that our attention in Module 7 would be focused: one, the role of BAME healthcare workers, such as our members, in supporting TTI measures by providing access to their communities, and a trusted voice for circumventing some of the scepticism; and, two, the way in which some would say somehow people of colour were more likely to end up with a fixed penalty notices in respect of Covid regulations related to TTI.
+
+In pursuing lines of inquiry during the hearings, we will seek to be forward looking around how matters of trust may be addressed for the purpose of effective TTI programmes in the future. FEMHO is of the view that there is room for more thoughtful programmatic ways of deploying BAME healthcare workers in efforts to reach their wider community.
+
+My Lady, it is because we do anticipate that these important considerations will unfold from your investigations in Module 7, why we are of the view that the experts on race and ethnicity that previously attended at this Inquiry should be recalled. And here I pause to acknowledge the assurances given by Ms Cartwright KC that her team appreciates our argument for expert involvement on this issue, and that the Inquiry will endeavour to secure if not a bespoke expert, as before, then someone who can speak authoritatively to, or answer questions in relation to, these very important issues.
+
+The expert, such as they are identified, can assist you, my Lady, in contextualising how issues of trust had what we say is a direct bearing on the effectiveness of TTI measures, and assist you in your considerations of how these matters might be constructively addressed in the next pandemic.
+
+We commend the submissions that we made at the last hearing, at the first preliminary hearing, and indeed, in our written submissions, and we also acknowledge the support that was kindly offered by Ms Munroe KC on behalf of the UK Covid Bereaved Families in this regard.
+
+So, unless there are any questions arising from these observations, my Lady, those will be our submissions at this time.
+
+**Lady Hallett**: Thank you very much indeed, Mr Dayle.
+
+Ms Cartwright, I don't suppose you have anything to say by way of reply?
+
+**Ms Cartwright**: Not by way of reply, my Lady, but can I just confirm that I've had notification that when I did the introductions this morning, I can confirm that Mr Bassett, junior counsel, is present on the link representing the interests of Ms Michelle O'Neill.
+
+Secondly, my Lady, just to thank the stenographer, Louise Pepper, for allowing us to sit a little longer than usual to enable to complete this hearing in one sitting.
+
+Those matters being said, those are the only things I intend to address you in respect of today, my Lady, and to thank you also for your time.
+
+**Lady Hallett**: Thank you, Ms Cartwright.
+
+Well, I will obviously bear very much in mind all the submissions made orally today and indeed all the written submissions that have been provided.
+
+I am delighted to hear some of the comments about the very constructive and positive approach adopted by the Core Participants and the Inquiry team and the relationship they have been developing, and I look forward to working with everybody in such a constructive and positive manner. Thank you all very much indeed.
+
+That concludes the hearing this morning.
+
+**Ms Cartwright**: Thank you, my Lady. Good morning.
+
+*(11.52 am)*
+
+*(The hearing concluded)*
+
