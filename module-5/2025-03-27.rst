@@ -1,0 +1,1699 @@
+27 March 2025
+=============
+
+*(10.00 am)*
+
+*(Proceedings delayed)*
+
+*(10.11 am)*
+
+**Lady Hallett**: Good morning, Mr Sharma.
+
+**Mr Sharma**: Good morning, my Lady. We are starting a little later than usual, but we will complete Mr Williams's questioning on time.
+
+Mr David Williams
+-----------------
+
+*MR DAVID WILLIAMS (sworn).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Sharma**: Mr Williams, before I start asking you some questions, I understand there are some words which you wish to say.
+
+**The Witness**: Mr Sharma, thank you.
+
+I would just like to preface this session with an acknowledgement of the deep and enduring impact that the pandemic had on the people of this country, those who were ill, the families of those who died, frontline staff in the NHS, social care, the third sector. It's the context, clearly, for this Inquiry, it's also the context for the decisions that I and my teams in the Department of Health were making during the period that we are going to examine today.
+
+I have looked at the impact video for the start of this module, and the depth of emotion and impact not only from five years ago, but how present and real that remains with the families of those who died, with staff working on the front line is, I mean, palpable, and I think a really important context for evidence today.
+
+In the context of PPE, clearly there's an impact there around supply and confidence in our support to frontline staff delivering difficult work in really difficult circumstances, and how they approached that job. Also an impact on families in terms of the ability of institutions to offer access to family members whilst maintaining infection control, and that's also a really important context for me for how good a job, collectively, we did.
+
+But I'd also just like to acknowledge that staff working on these deals, staff supporting the department in its rapid procurement work, were themselves dealing with the daily ins and outs of the disease. They were either ill themselves or had family members who were ill, dealing with the consequences of lockdown, all of those stresses in their private life alongside really demanding work.
+
+The impact directly of Covid-19, the impact through displacement of other healthcare -- the impact of lockdown on social mental health wellbeing, as well as the economic impact is the backdrop, in the end, for a range of decisions that we were making at the time and I expect we will explore that more fully in the session ahead's thank you.
+
+**Mr Sharma**: Thank you very much, Mr Williams.
+
+Could I begin, please, with the two witness statements you've provided to the Inquiry. They are INQ000475015 and INQ000475014. Could you be kind enough to confirm they're true to the best of your knowledge and belief?
+
+**Mr David Williams**: They are, yes.
+
+**Counsel Inquiry**: To begin by your background, you are, I understand, a civil servant by career. You first joined the Ministry of Defence in 1990 and it is there that you've spent the majority of your career; is that right?
+
+**Mr David Williams**: That's correct.
+
+**Counsel Inquiry**: In 2015 you were the Director General of Finance and Group Operations at DHSC; is that right?
+
+**Mr David Williams**: That's correct.
+
+**Counsel Inquiry**: And on 5 March 2020 you were made the Second Permanent Secretary at DHSC?
+
+**Mr David Williams**: That's also correct.
+
+**Counsel Inquiry**: And since 6 April of 2021, you have been a permanent secretary back at the Ministry of Defence?
+
+**Mr David Williams**: Correct.
+
+**Counsel Inquiry**: Just to begin, please, with your role as the Second Permanent Secretary and then your role as an accounting officer, could you please explain to the Inquiry what that entailed during the pandemic?
+
+**Mr David Williams**: Yes. So look, I was a member of the Senior Leadership Team of the Department of Health and Social Care during the period that you have set out. So my role as Second Permanent Secretary was both providing direct support to Sir Chris Wormwald, as Permanent Secretary, in the sort of full range of activity that the department was undertaking, ensuring, in terms of my sort of pre-pandemic responsibilities, that the department itself was organised and able to deal with the various aspects of Covid-related regulations, so how we were supporting remote working, how we were managing social distancing within the workplace, ensuring the department itself was able to function whilst being compliant with the, sort of, Covid rules of the day.
+
+Operating as part of the Senior Leadership Team in setting direction for the department, supporting staff in their work, ensuring that we were able to onboard the resources that we had. And then specifically, as an additional accounting officer, responsible for a range of procurement and other activity through the pandemic, including rapid procurement of ventilators, of PPE, procurement of capacity, whether that was lab capacity, through to individual test kits, to support the NHS Test and Trace Programme, as well as broader financial support, close working with NHS England and other parts of the system.
+
+**Counsel Inquiry**: Thank you very much. Sorry to interrupt.
+
+**Mr David Williams**: That's all right.
+
+**Counsel Inquiry**: But just to place your role in context, we are going to focus this morning on one part of your role which is as an accounting officer --
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: -- but also acknowledging that whilst you were an accounting officer you had a number of other important responsibilities within the Department of Health and Social Care?
+
+**Mr David Williams**: Yes, that's correct. No one day was ever really quite the same.
+
+**Counsel Inquiry**: The Inquiry has heard evidence from another accounting officer, Mr Young, and has also received written evidence from the third accounting officer, Mr Fundrey. Just in terms of the differences between the three of you, it's right, isn't it, that your authorisations in terms of being an accounting officer were those above £100 million, and those for Mr Young and Mr Fundrey were those below 100 million; is that right?
+
+**Mr David Williams**: That's correct. I was formally appointed additional accounting officer by Chris Wormwald, and that brings with it a degree of personal accountability to Parliament. Mr Young and Mr Fundrey were both directors working for me, and I delegated those responsibilities below 100 million in the way that you have set out.
+
+**Counsel Inquiry**: Just focusing in on that relationship between you, Mr Young and Mr Fundrey, were you working collectively in those decisions to make accounting approvals or were they personally dealt with by you? How did work on a day-to-day basis?
+
+**Mr David Williams**: So, look, they were professional, highly competent officials in whom I had a lot of trust. For issues -- for deals below that £100 million threshold, they had freedom and flexibility to sign those deals off without reference to me, but we were engaging and working closely together on a day-to-day basis and if they had concerns, or they wanted some guidance from me, they would raise them.
+
+Some of the deals that came to me would have been through their assessment before they came to me. Some of them came to me because the price or volume of the deal changed, which meant that it came above the threshold.
+
+So we had distinct responsibilities, but we worked closely together in a climate that I would describe as a high degree of professional trust.
+
+**Counsel Inquiry**: In terms of the numbers of contacts and volume, the vast majority were below the £100 million threshold, and so they were approved by Mr Fundrey and Mr Young. You, by contrast, estimate that you were only involved in about ten contracts; is that right?
+
+**Mr David Williams**: Yeah, about ten is what I've said in my statement. It might be a few more, a few more than that, but I'd be surprised if it was more than 20.
+
+**Counsel Inquiry**: Managing Public Money, please. We've covered this a little bit with Mr Young so I hope I can deal with it with you briefly.
+
+The principles of Managing Public Money, we don't need to bring them up: regularity, propriety, value for money, feasibility and deliverability, they're the principles that Mr Young said he was abiding by. It's the same with you, isn't it?
+
+**Mr David Williams**: Yeah, it's the same set of principles, although, clearly, as an accounting officer you bring an element of personal judgement to how those principles are applied.
+
+**Counsel Inquiry**: You make reference in your written statement, it's page 6, paragraph 18 and 19, to two practical ways in which Managing Public Money had to be applied. You make reference to "the application of sheer common sense" as being one of the criteria or one of the principles that you brought to bear; is that right?
+
+**Mr David Williams**: Yes, indeed, Managing Public Money itself says that nothing in that guidance should get in the way of actually applying common sense to the decisions that accounting officer's making.
+
+**Counsel Inquiry**: And you also make the observation from Managing Public Money that the rules cannot be set for every situation or every circumstance, and that's where what you've described as your judgement being critical?
+
+**Mr David Williams**: Absolutely, and look, clearly the circumstances of the pandemic were unprecedented, and so whilst the principles themselves remained unchanged, how they were applied, the judgements that we made, the risk appetite that we had, was not static through this period.
+
+**Counsel Inquiry**: Bearing that in mind, do you recall any of the PPE contracts which arrived on your desk that you didn't approve?
+
+**Mr David Williams**: By the time they got to me, deals had been through quite a rigorous process of commercial evaluation, quality assurance and technical evaluation, deal making and financial assurance. So normally, if there were issues that would have prompted me to want to say "no", they wouldn't have come to me. So I can't immediately think of any deals that I personally rejected. I can think of deals where I've asked for further clarification or confirmation of the terms or confirmation of the requirement.
+
+**Counsel Inquiry**: You also refer in your written evidence to relying not only on the content of the AO packs, ie, the frontispiece and then all of the documents that come behind it, but also on steers from Mr Marron and Dame Emily Lawson. Could you help us, please, with what steer or what assistance they provided you in the assessment of deals?
+
+**Mr David Williams**: So one of the important inputs to that accounting officer judgement is an understanding of the requirement, and what I really looked to Dr Lawson and Mr Marron jointly, was their understanding, their confirmation, that there was a requirement for the PPE that we were buying within the timescales that we expected it to deliver. Dr Lawson also brought an element of additional, sort of, commercial nous to the recommendations alongside the teams working below us.
+
+**Counsel Inquiry**: Setting aside, just for a moment, the individuals you worked with, to focus on a theme throughout this module, which is value for money.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: That being one of the principles in Managing Public Money and also critical in your assessment of the deals and the contracts which landed on your desk. In terms of value for money, one of the areas in which DHSC worked was on something called price benchmarking. Could you help the Inquiry, please, with what price benchmarking is and how that assisted in your determination of the deals?
+
+**Mr David Williams**: Yeah, if I might, understanding that time is precious, let me just take one step back, though. At the macro level, and we had set out in advice to the Secretary of State in late March -- look, in a world where, at its peak, hundreds of people were dying every day, there was an impact on society through lockdown, and deep economic cost, a willingness to spend money in the expectation or the anticipation that it might shorten the pandemic or shorten lockdown by a week was money well spent and a risk that I was willing to take. So that's the macro context of the value for money on decisions that we were making.
+
+But within that what you wanted to understand was whether, you know, deal A was a better prospect than deal B, if you had more than one option in front of you. Price benchmarking was a way in a really volatile, global market where prices were fluctuating, escalating materially, was a way of understanding how the price of a deal in front of us related to the average price that we might have been paying over the previous week or the previous 14 days. It was an important financial input into the decision making, not the only one, the level of prepayment, for instance, was also a factor. And the financial calculus was itself only one element that I or Mr Fundrey or Mr Young will have assessed in coming to our accounting officer judgement.
+
+**Counsel Inquiry**: And just to make sure the price is not taken out of context as it might be, you refer in your statement, similar to what you've just described to the Inquiry, that your decision having been taken and considered in the round, and of the factors that you and others were taking into account, you refer to the existing stock levels, the quantity of the offer, the apparent quality of the equipment being procured, the price for which price benchmarking is relevant, the delivery time and the particular terms and conditions, for example in relation to prepayment.
+
+And you were making a judgement call as an AO in respect of each of those criteria to weigh up the offer.
+
+**Mr David Williams**: Yes, that's correct. And look, in early April where we were particularly worried about stock levels and you could see the impact that distribution challenges was having on frontline staff and their concerns about availability of the PPE at the ward level rather than at the national level, a focus on timeliness of supply and our confidence of actually getting our hands on the PPE was a more important factor than simple price benchmarking.
+
+Later in the process, as we had built up a greater resilience in days or weeks of supply, then some of that calculus would change.
+
+**Counsel Inquiry**: Could we have a look, please, at a document INQ000496719. Thank you.
+
+This is PPE Buy Cell pricing benchmarks. This one is issued on 20 May, data, from 15 May. If we could turn to page 2, please.
+
+If we have a look, setting aside the chart on the left to one side, on the right-hand side, looking down the column at gowns, thank you. What this is setting out are the sorts of prices in the first box, the unit price in quarter 4, 2019, so the price pre-pandemic, effectively. Looking at the average unit price between April and May, £2.69, and then the changes in price is 156%. So I just want to have a look at that.
+
+And if we can turn forward, please, to page 3, and just to zoom in, please, we're going to look at gowns and coveralls in the examples we're looking at. So if we zoom in, please, to the top. Again, the price pre-pandemic, £7.33, and then the increase in price which is seen in April and May to £16.32, and then the six-week pricing development, 123%.
+
+Then I'm going to ask you some questions about this but just to provide context to the fluctuations in prices that you describe.
+
+Could we have a look, please, at page 31. This is for gowns. And this is showing, in that chart the ranges of prices which are being paid for gowns from March through to May, with the weighted average there represented by the blue line going up and down.
+
+This is what you're describing by looking at the range of prices which are available and price benchmarking; is that right?
+
+**Mr David Williams**: Yes, I mean, this was a report done, as you say, in May. We would look at reports like that. We would also just look at knowledge that the team had about what were the deals that we had signed off in the previous week, what were the prices there and, of course, it was also relevant about what were the prices being offered, what could we negotiate down on the deals that we had in front of us.
+
+I mean, just on this particular table, two slight caveats, although I think the general picture of price volatility and substantial increases in prices across all categories of PPE during this period is that it's not fully data cleansed for whether or not the deal included shipping. So a deal without transport would be cheaper than a deal with, and if you were really worried about early delivery and you were airfreighting, then the price would be different than if you were shipping.
+
+Within the gowns category, this covers non-sterile and sterile gowns and, as you might imagine, the price for sterile gowns is higher. So it is illustrative of the kind of market we were operating in. It is illustrative of the fluctuation in prices, in particular you can see a lot of that in that first phase of late March through to end of April, early May. But if you wanted to know why there's a spike in prices right at the end of April, beginning of May, then you would need to look at all the other factors that went into the decision.
+
+**Counsel Inquiry**: We're going to come on to some of those factors as we look to at some of the AO packs.
+
+Just to make it clear, I am not suggesting, as we go through these AO packs, that this document was available to the person who was considering them. And in fact, just to follow on from the point that you've just made, in terms of the information available to you, as the accounting officer, or indeed to Mr Fundrey and Mr Young, clearly it wasn't this document. This summarises what the situation was over the course of the previous month.
+
+How were you able to make assessments about whether the prices per unit were offering value for money for the items on the AO packs which you considered and authorised?
+
+**Mr David Williams**: So we would have, in the packs, I mean, obviously an indication of the price in the deal, together with information on either the price that we'd been paying over the previous week or two weeks, or what the price had been in the last sort of handful of deals that had been agreed.
+
+We would also have a benchmark about other deals that were in the offing, so the PPE buy team would be managing more than one prospective deal at any one time. So they could see what the range of market prices at that time would be. But, of course, we would then also have information on those other factors, as we have discussed.
+
+So there was, I would say, reasonable data on pricing but not perfect.
+
+**Counsel Inquiry**: No. And also subject to many of those caveats which you've illustrated. So shipping being the most obvious?
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: In terms of the information available to you as the AO, the description that we have had from Mr Marron is that the deals were making their way through the eight-stage process before they arrived on your desk for authorisation; is that broadly right?
+
+**Mr David Williams**: That's broadly right, yes.
+
+**Counsel Inquiry**: In terms of the visibility that you had on other deals that may be coming down the pipeline, what did that look like and how did that factor into your decision making and those of Mr Fundrey and Mr Young?
+
+**Mr David Williams**: So, firstly, a deal for my agreement or authorisation wouldn't just -- I mean, it did end up in my inbox, but it wouldn't just end up in my inbox without any notice. There would be engagement with the team about, you know, "We have a deal coming to you, we're expecting to get you to buy here, these are the things that we are currently looking at."
+
+There would be data available -- I mean, I did not attend the sort of daily stand-ups of the PPE buy team, but there was data available in the system and from time to time I would engage with it on the range of deals that were also in development.
+
+Sometimes, not often, normally I would be given a single deal to sign off, but sometimes I would be given a note which said, "We've been pursuing three deals, we recommend these two but for reference here is the third that we now propose not to take forward."
+
+**Counsel Inquiry**: Thank you. Let's look at some practical examples, please. As we go through them, I'm not suggesting in any way that these are the ones that you considered; I'd just like to hear your reflections, please, on the information which was available to the AO, particularly around price benchmarking and the categorisation of the items being offered. They are all -- just so that you're clear, they are all about either gowns or coveralls.
+
+**Mr David Williams**: Okay.
+
+**Counsel Inquiry**: And we've just seen the two prices up on the screen a moment ago. Have in your mind, please, that that April to May average gown price was £2.69 and the average price for coveralls was £16.32, just as we go through this, so that we can obtain your reflections.
+
+Could we have up on screen, please, INQ000521800. Thank you. If we can zoom in, please, to the bottom.
+
+"We have just been informed ..."
+
+Thank you.
+
+"We have just been informed that there is an extreme shortage on gowns and coveralls. If we can expedite this order through when would you be able to deliver as a matter of urgency, like tonight."
+
+Just before we unpack this, in terms of gowns and coveralls, from your perspective, was that interchangeable? Was there less demand for one and more demand for the other? Did that change during the course of the early stage of the pandemic?
+
+**Mr David Williams**: So, they -- well, I mean, they were interchangeable to the extent that if you didn't have access to gowns, then, I mean, a coverall would be acceptable, but on the whole what we were focusing coverall purchase on, as far as I recall, was on specific workforce groups. So paramedics, for instance, people out and about, in and out of ambulances, needing more movement, coveralls allowed them to perform the full range of their task without constantly having to put gowns on and off, so --
+
+**Counsel Inquiry**: Sorry, I ought to have done this at the beginning, but just in very brief layman's terms, please, the difference between a gown and a coverall?
+
+**Mr David Williams**: So -- and I'm probably at the layman end of the spectrum here as well -- we were buying aprons which were, as I say, I think, one size fits all, covers the front of the body, ties at the back. We were buying gowns, both non-sterile, really for protection in general usage, sterile for use in surgical situations, which would have, you know, more of an arm to it, would be closer fitting and provide a greater coverage.
+
+Coveralls are more like a-- I'm trying to avoid saying a -- sort of a "onesie", which is now the only word I can get in my mind, but, you know, trousers, legs, zip, arms. So quite a different product.
+
+Now, if you have an absence of lower spec but satisfactory products, you could always use a higher spec one, but on the whole, on coveralls, we were buying those to target particular work groups that needed that level of flexibility, freedom of movement, and just for the ... well, the capability that a coverall offered.
+
+**Counsel Inquiry**: For the purposes of the questions I'm going to ask you, there are differences, aren't there, between the prices paid for each of those two categories of gowns you describe, sterile, non-sterile, and then separately again in respect of coveralls; is that right?
+
+**Mr David Williams**: Yes, that's right.
+
+**Counsel Inquiry**: Could we have a look, please, at INQ000521799.
+
+If we can zoom in, please, to "Market price assessment". Thank you.
+
+I'm just going to go through some of these documents quite quickly. So:
+
+"'Normal' prices ... [including] for Gowns £1.57 ... negotiated unit price [in this case] is ... £8.00 ..."
+
+And then you mention there the shipping cost.
+
+Then if we can look at the final sentence, forgive me. It then says at the bottom that:
+
+"The delivered unit price for these Protective Coveralls is average compared with other recent purchases."
+
+Then if we can turn over to page 2, thank you.
+
+Then at the very bottom:
+
+"Make all reasonable attempt to ensure prices [the very bottom box] are [below] 25% above the average unit price paid to date ... No (prices exceed 25%)."
+
+Just on this document, it refers to gowns, and then it refers to protective coveralls, then it refers to benchmarking.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: And trying to come below the 25% limit. What are your reflections, if you had a document like this, in terms of what it was may have been being bought, what enquiries would be made to make sure that the benchmarking was at the right product at the right price?
+
+**Mr David Williams**: So, look, without knowing which deal this is, what I take from the extracts that you've shown is that this is for a purchase for a blend of gowns and coveralls, and, as we've explored, there was quite a range between the average prices for those two distinct items. What I don't have here is a feel for the relative volumes within this deal of those two different types of product.
+
+I think the language at the end of that paragraph that you showed around -- for the protective coverall element, it being broadly in line with average prices. And of course the point about an average price is that sometimes you'll be buying below, sometimes you'll be buying above.
+
+Look, there is information here, there will be more information in the supporting packs, but, depending on the date and the timing, factors like the level of stock, our confidence in inflow from other deals, the timeliness of delivery here, our confidence in the supplier, was this was a new supplier or somebody we had used before, would all be relevant -- the level of upfront payment, for example, all of that would be relevant to the decision.
+
+And price -- price benchmarking was an important and interesting input to that. Rarely on its own was it decisive, certainly in the cases where -- by the time they came to me. But there are, equally, examples of the buy team, the Clearance Board rejecting deals on basis of price, using price benchmarking.
+
+**Counsel Inquiry**: Forgive me, the Clearance Board is an entity that came into being on about 4 May; is that right?
+
+**Mr David Williams**: Yes, that was established in early May.
+
+**Counsel Inquiry**: And the purpose of that was to provide an additional level of assurance, a sort of ninth stage in the process, is that right?
+
+**Mr David Williams**: So an additional level of insurance in part prompted by some conversations we had been having with the government banking service about their nervousness of the -- I mean, it's a necessary feature of the deals that we were doing, but multi-hundred-million dollar deals in a foreign country -- in foreign currency with substantial prepayment into third countries through suppliers with not much track record is, if you have any sort of fraud detection system, will set all of those bells running. And of course, those were issues that we were grappling with ourselves, but in conversation with the government banking service over that first Bank Holiday weekend, we agreed to establish this additional level of clearance and, indeed, we got a better flow of information with the banks themselves about their understanding of some of the counterparties that we were dealing with.
+
+**Counsel Inquiry**: So for somebody in your position, after 4 May of 2020, presumably that's another level of assurance. It's been through another group of people looking at the contracts; is that right?
+
+**Mr David Williams**: Absolutely. Look, it was three of our most senior commercial officers and then the finance lead, deputy director level, working for Jon and Chris, who in the end made the payments.
+
+**Counsel Inquiry**: Thank you.
+
+Another example, please. INQ000560854.
+
+This is another April 2020 deal. We've seen these documents in part before with Mr Young. These are the documents which summarise, don't they, the content of the AO pack and the --
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: -- material features of the transaction for your review or for the review of the other AOs. Here it says the unit price delivered for gowns, on page 1, is £8.20 to £8.40.
+
+Forgive me, if we could turn over the page to page 2. That's it, thank you.
+
+The market price assessment. Again, here the guide price for coveralls/gowns is £1.57, and the negotiated delivery unit price is £8.20 and £8.45. Recent orders for gowns had been £6 delivered, so under the current conditions the negotiated delivered unit prices are deemed to be reasonable.
+
+If we could turn over to page 3 and then zoom into the average --
+
+**Lady Hallett**: Sorry, you said £6, Mr Sharma, sorry to interrupt.
+
+**Mr Sharma**: Oh, I'm sorry.
+
+**Lady Hallett**: It says 16.
+
+**Mr Sharma**: £16. Thank you, my Lady.
+
+Then if we turn over to page 3, the average unit price paid to date for these items. And as my Lady has observed, the gowns, "Average UK price paid is £10.30, though recent purchases have been £16 delivered. This price is favourable."
+
+So again, in this document a conflation between gowns and coveralls it seems.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: Yet if we were looking at the benchmarking for gowns and coveralls they'd be quite different, wouldn't they?
+
+**Mr David Williams**: Well, yes, so one, I mean, the benchmarking data that you were showing earlier takes a longer timeframe. So it will start from late March, where before we saw an awful lot of the price escalation. So that's not necessarily comparing like with like. Though it's a point of reference.
+
+As I said, in my sort of responses earlier, benchmarking in the terms of the deals that we were doing against ones that we had recently done and our most recent experience of prices over the previous week or two weeks was really effectively how we were doing this.
+
+In this particular case, if it's the one I think I am (sic), but I won't say which one I think it is, there is a particular.
+
+**Counsel Inquiry**: Forgive -- just so it's clear, the reason why you're not is because it's been redacted --
+
+**Mr David Williams**: No, no, at our request. That's right.
+
+**Counsel Inquiry**: -- (overspeaking) -- commercially sensitive information.
+
+**Mr David Williams**: Yes. So without going into any commercially sensitive information, I think this deal came up at a time where we were both concerned about the successful inflow of deals that we had already done. We were concerned about constraint on raw material supply in the future, and therefore had one eye not only on the price that we had been paying but where we thought the market might go in the future. And at that moment in time this was a decent price.
+
+**Counsel Inquiry**: Thank you. We'll come on to the assessment of all of the criteria in respect of these transactions at the end, if we may.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: Could I move on, please, to another example, INQ000569902. And page 1 again. If we zoom in, please, to "Value and Price":
+
+"The average unit price for Gowns is £11.07 with the minimum price being paid £3.75 and the maximum price being paid £31.50. This unit price of £7.79 is therefore below the average of price paid. Initially the supplier proposed £7.90 per unit but I was able to reduce this to £7.79."
+
+Here an example, is it not, of an enormous range of prices --
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: -- for the item? If you were going to benchmark this item, would you benchmark it against gowns or does this look more like a benchmark against coveralls?
+
+**Mr David Williams**: Well, what I don't know is whether the £31.50 was a coverall price. So, again, I think this is -- the summary here is probably conflating gowns and coveralls, but you would expect more detailed information to be available in the supporting pack.
+
+**Counsel Inquiry**: Could we have a look, please, at another example, INQ000569906. If we zoom in to the box at the bottom:
+
+"The price per unit ... £7.20 (No VAT) ..."
+
+In this case it includes the shipment, so that factor of the shipment has to be taken into account with this one.
+
+"The [minimum] price [revealed] has been £3.76 and [again] ... maximum £31.50 with an average unit price at £17.63. The price of £7.20 per unit is competitive when considering the recent prices received to date."
+
+Just -- it may be just a feature of that is particular -- this particular AO pack, but here it looks like, in order to arrive at the average unit price, what's happened is that someone has added the £3.76 and the £31.50 and then they've divided it by two and then arrived at £17.63. That's what it looks like. I don't know whether that's a coincidence or not. But just in terms of the price, again, £31.50, here potentially the conflation of gowns with coveralls again, bearing in mind the higher price that's on here?
+
+**Mr David Williams**: Yeah, considerably -- I mean, you're right, £17.63 is indeed an average of those two numbers, and the information we were looking at earlier was a weighted average, which is when you are taking a longer-term view for a benchmark. I would agree, I think, with your inference that that's probably more useful, a useful point.
+
+Look, I mean, I think the challenge with all of this sort of retrospective price benchmarking is that it was an input into the decision making but in the end the price that really mattered was what you could actually do a deal for. Had we been able to negotiate the price down? Were there other offers that were available with similar quantities, quality, delivery, timescales? And, you know, the ability to pay at what the price had been two weeks previously simply -- I mean it simply wasn't there.
+
+So was the data perfect? No. We were making decisions at pace, with imperfect data. On the data that we had, I would stand by, you know, the majority, if not all of the decisions that we made, but it was the nature of the environment in which we were operating that these deals were being done with the best data we had available.
+
+**Counsel Inquiry**: Please don't infer from the questions I'm asking you that I'm not accepting the pressure and the pace at which you and your team had to work, and of course the requirement to get PPE to the frontline of the NHS and social care. The purpose of this is so that, as we'll turn to in a moment, we can find out if there's a better way of doing this in the future.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: Just one final example, please, it's one we've looked at before in the Inquiry.
+
+It's INQ000512396. And if we could turn to page 1.
+
+And at the bottom, the "Description of [the] goods", "Coverall -- Suit Non-Sterile", if we could zoom into that, please. There the prices are expressed in dollars.
+
+If we can zoom out again, please.
+
+Then over the page to "Market price assessment":
+
+"The current price of PPE irrespective of the item is increasing daily."
+
+700,000 coverall suits.
+
+Then if we can turn over to page 3.
+
+If we can zoom in, please, to "Average unit price paid to date for these items":
+
+"£19.26 average for coveralls to date -- on an ex-works basis."
+
+Ex-works, is that a reference again to the logistics, to the cost of transport? Or is that --
+
+**Mr David Williams**: So I think that would be from the factory, excluding transport.
+
+**Counsel Inquiry**: Thank you. And then, just underneath, this is a slightly different example because in this case it says:
+
+"Gowns ..."
+
+Which is what's in demand --
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: "... (with coveralls as a substitute) ..."
+
+And it's the gowns that:
+
+"... are in a stock critical position."
+
+But the decision here is taken to acquire coveralls.
+
+Then if we can zoom out again, and then on the 25% criteria:
+
+"Make all reasonable attempt to ensure prices are [below] 25% ..."
+
+Yes, prices are within the 25% ratio.
+
+Just to pause on this one for a moment, here the demand data was that what ought to be being acquired were gowns with coveralls only a substitute. Is that right?
+
+**Mr David Williams**: Yes, so as I said previously, we were trying to target coveralls for those workforce groups that specifically needed them, but where there were critical shortages, using better quality against more demanding specs, PPE, as a substitute for other products, was an approach that we would take.
+
+**Counsel Inquiry**: Could I ask you a question, please, about the price benchmarking of a transaction such as this in which the item which is in demand is gowns but the item which is being procured is coveralls. If you were to price benchmark this transaction against that for gowns, one would end up with the conclusion that this is significantly above the price being paid for gowns, broadly speaking, with the figure in mind that I referred to at the beginning of questioning.
+
+**Mr David Williams**: You would. So I would imagine that the factors in signing this one off were extremely low levels of gowns and the inability to secure gowns supply in a timely enough fashion --
+
+**Counsel Inquiry**: So --
+
+**Mr David Williams**: -- at quantities that we needed.
+
+**Counsel Inquiry**: Of course. So some one in your position in order to make the -- forgive me for saying this, the assumption -- of course it is, because we're looking at this here --
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: -- that in order to make the decision as to whether you were going to acquire gowns or coveralls in this situation, you'd have to make a judgement based on the data available to you that there are no other gowns being offered to you at the usual gowns price; is that right?
+
+**Mr David Williams**: Yes.
+
+**Counsel Inquiry**: Yeah.
+
+**Mr David Williams**: If I may --
+
+**Counsel Inquiry**: Of course.
+
+**Mr David Williams**: -- I think at that period in mid-April, and I think you have this in other witness statements, the deals that were being pursued, a number of them, you know, we would have our 8.30 stand-up meeting. A number of those deals would have fallen overnight because the stock would have been bought up by somebody else, so it was a very dynamic, fluid market. Purchase of, if you like, over-specced PPE to ensure that we had some stock, even if it's more expensive than ideally we would have liked, I think in the circumstances is a reasonable judgement.
+
+**Counsel Inquiry**: Of course. And accepting what you've said a moment ago about the pressure and the pace and the fact that this was a system which had to buy that which was presented to it. I mean, that was the way it worked, was it not?
+
+**Mr David Williams**: Essentially, yes. That was the -- one of the challenges that we were dealing with is that we were processing and evaluating a very large quantity of bids into the system rather than it being a targeted pursuit of deals that we thought would deliver. I mean, in fact it was a blend of those approaches across this period. But for the parallel supply chain in particular, it was essentially dealing with offers that were made to us.
+
+**Counsel Inquiry**: If we were going to look at this price benchmarking system now to plan for a pandemic in the future, would it not be preferable to have more granular detail about the categories of the offers and the specificity of each of the items being supplied so that the price benchmarking could be more accurate?
+
+**Mr David Williams**: Look, I mean, generally speaking in this area, I think having better data, I mean, would clearly be helpful, accepting that in a crisis there's always going to be some limitations on it. Yes, if you are looking at -- I mean, as I think I suggested on the overarching document that you shared previously, understanding whether the deal has got logistics costs in or is simply the purchase price, understanding the differentiation between types of PPE within an aggregated description is important if you really want to make the most of price benchmarking.
+
+I think it was sort of adequate, just about, for its purposes, based on the fact that it was only one element of the input into the decision making that we were taking, and it's possible that even with more granular information, that the decisions we would have made would have been the same.
+
+**Counsel Inquiry**: That's very fair. If I could ask you finally this question about value for money.
+
+**Mr David Williams**: Yeah.
+
+**Counsel Inquiry**: In terms of making the decision of somebody in your position with all of that information available to you, weighing up all of those different factors, do you think, or do you know of a system by which all of that information could be automated and weighted and triaged so that you're only able to focus on the most important data so that you know, for example, in a transaction, whether the risk on this transaction is price or the risk on the transaction is in terms of due diligence?
+
+**Mr David Williams**: There are definitely lessons that we can make about the system support that we had in this area, not least because we were bringing together teams from different government departments who were used to working with different systems. I think by the end of this, sort of, phase in the summer of 2020 as we'd introduced in the Department of Health a new Atamis system, that was actually not in a bad place, but having joined-up IT that both allows you to manage and triage and track the offers that we are getting, monitor their progress through the system, and give you decent prices -- price information and other information on what is then being done with those deals, getting that in and training on it as part of preparedness for a future pandemic would absolutely be in my, kind of, recommendations for the future.
+
+A single system that in the end can boil down all of the factors that an AO needs to worry about, I think, as I've (unclear), the judgement in the end is quite contextual, and the factors that weighed more heavily with me in the deals that I was looking at in early April were not quite the same as the factors that I was weighing in late May or June. And not quite the same for PPE as when I was thinking about lateral flow test procurement or whatever. So --
+
+**Counsel Inquiry**: Would I be summarising it fairly if I said that what changed was that the weighting of those factors changed so that whereas perhaps at the beginning of the pandemic, the requirement was to just buy as much as possible because of the scarcity of the resource, whereas later on, a slightly different approach could be taken once stockpiles had been built up?
+
+**Mr David Williams**: Well, both about stockpiles, but also -- and I come back to that point about my engagement with Jonathan Marron and Emily Lawson -- that the requirement, based on our expectations of demand, was generally difficult to -- genuinely difficult to predict, based on modelling about how we thought the pandemic would progress, and obviously in that first wave we were learning clinically about the pandemic as well as about, you know, how it evolved.
+
+Nor did we have good usage data to start off with, particularly from the NHS, and from the social care system. Indeed, we went into this without really having a comprehensive view of holdings of PPE across the NHS at the national, regional and local level. So there are a number of ways in which the data can be tidied up for the future.
+
+**Mr Sharma**: Mr Williams, thank you very much. I don't have any further questions for you.
+
+**Lady Hallett**: Thank you, Mr Sharma.
+
+Ms Mitchell, I think you have a question.
+
+Questions From Dr Mitchell KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Dr Mitchell**: Yes, I appear as instructed by Aamer Anwar & Company on behalf of the Scottish Covid Bereaved.
+
+It's a matter which you touched on towards the end of your evidence in relation to recommendations, where you were talking about suitable IT to manage and triage and track offers.
+
+We've heard evidence in the Inquiry that people were being taken away from the job that they needed to do answer queries that were being given to people, and my question had been for you: should it have been made clear that after referrals there ought not to have been any more feedback as it took people away from the job they should have been doing?
+
+Now, I imagine your answer to that is probably yes.
+
+**Mr David Williams**: Probably, yes. So let me just very briefly expand on that. I mean, there was important contact with suppliers, sometimes through referrers, in order to fill in gaps in the information that had been provided, to ensure that we had the best information available. As far as possible, you would want those contacts to be initiated by the PPE team, rather than responding to, in some cases, quite a range of, I think, unreasonable pressure for updates on progress.
+
+**Dr Mitchell KC**: It's really the latter that I was thinking of.
+
+**Mr David Williams**: Yeah. So, look, evidence into the system responding to queries from ministers, senior officials, that kind of wider stakeholder management I think is a legitimate part of the process. If we had had better -- I mean, a sort of CRM-type system, a better IT system that would allow that information to be generated automatically rather than through manual intervention, I think that's where we need to be next time round.
+
+I think my personal regret is that some of the -- I think bordering on -- I mean, I understand the context but bordering on unacceptable behaviour and pressure that was being put on members of the buy team in particular, whilst some of it was escalated to senior officials working for me, not much of that got to me very early in the period. And I think senior engagement with some suppliers or with some of the more persistent referrers, to say, "Enough now" -- so whether it's a guidance or a set of protocols or whether actually what it needed was senior intervention to say, "You've just got to stop, we're going to process the deal, it's going to be assessed fairly against criteria, we'll come back to you when we need more information", I personally regret that I wasn't more in that space.
+
+In some ways it's only preparing for some of the -- you know, the session today and some of the witness statements that I've fully appreciated some of that pressure that my team were under.
+
+**Dr Mitchell**: I'm obliged.
+
+My Lady, the witness has answered in advance the rest of the questions that I wished to answer (sic).
+
+Questions From the Chair
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Thank you very much indeed, Ms Mitchell.
+
+That completes our questioning for you, Mr Williams.
+
+Can I ask, when you were brought in, in March 2020, from the MoD, had there been a second permanent secretary at the DHSC or were you brought in especially because of Covid, or was it coincidence or what happened?
+
+**Mr David Williams**: No, I was already working in the Department of Health, so I'd left the Ministry of Defence in 2015 and had been working there as a director general. I was then bumped up to second PUS in role, not least to bring those sort of formal accounting officer responsibilities alongside Chris Wormwald.
+
+**Lady Hallett**: Thank you. Sorry, I misunderstood the dates. I thought you'd arrived just before the impact of Covid was being appreciated but obviously you'd been there before.
+
+**Mr David Williams**: It was, however, I think, the first time the department had had a second permanent secretary, and there have been two since me. There is a current role there still.
+
+**Lady Hallett**: Thank you.
+
+And can I just say this, I know you don't need me to add it but I think you're entirely right to emphasise the really difficult circumstances that people were under.
+
+I think some people are inclined to forget how difficult it was to work from a back room at home without access to your colleagues under huge pressure and trying, obviously, to get PPE out to save lives and protect people. So may I thank you and your colleagues for everything that was done to try to get the equipment out.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Thank you, Mr Williams.
+
+That, I think, completes the evidence, Mr Sharma.
+
+I've been asked to break now because there are one or two things that need to be done, apparently, before we start closing submissions. So I shall return at 11.25.
+
+*(11.11 am)*
+
+*(A short break)*
+
+*(11.25 am)*
+
+**Lady Hallett**: Mr Wald.
+
+Housekeeping
+
+**Mr Wald**: My Lady, before we turn to closing submissions, and very briefly, there are two matters on which I'd be grateful for your assistance. The first is that in the evidence just now a document was brought up on screen which contained unredacted commercially sensitive information.
+
+We would therefore be grateful if you would grant a restriction order over the sensitive information within that document, and the document reference is INQ000521800.
+
+**Lady Hallett**: I do.
+
+**Mr Wald**: Thank you, my Lady.
+
+The second matter is that there is additional material that we ask your permission to adduce into evidence and to be published on the Inquiry's website. That material runs to 14 items, and includes some additional evidence in relation to the Meller contract.
+
+If I could ask that the list of documents be brought up on the screen now. Thank you.
+
+The material provides important additional and contextual information which it is anticipated will assist you, my Lady, when considering the evidence that you have heard in this investigation, and for your report.
+
+**Lady Hallett**: Those documents may be published. Thank you.
+
+**Mr Wald**: My Lady, thank you.
+
+I think we then move on to closing submissions.
+
+**Lady Hallett**: Thank you.
+
+Ms Morris, I think you're up first. Closing statement on behalf of Covid-19 Bereaved Families
+
+for Justice UK by MS MORRIS KC
+
+**Ms Morris**: Thank you, my Lady.
+
+My Lady, my submissions on behalf of Covid Bereaved Families for Justice UK, start with reminding you that at the heart of this module is the stark reality that there was a failure by the Westminster government to protect the NHS and save lives with the provision of adequate PPE.
+
+Politicians have told this Inquiry that only they lived in the real world which the rest of us could never understand in terms of the pressures, decisions, and difficult phone calls they had to make in the procurement exercise. They claim that this was an unmitigated success and they would not do anything differently.
+
+However, the Inquiry has heard clear evidence from the real world that clinicians and carers lived in that supply of PPE to staff across the health and care sectors was, as Professor Banfield from the BMA said, "woefully inadequate".
+
+This is despite the UK Government spending £8.6 billion of public money on PPE but the government's inadequate preparedness and inefficient procurement systems resulted in a £3.8 billion of wasted PPE that could not be used in the NHS.
+
+In the real world this meant that there were patients, clinicians, health and social care workers, exposed to preventable infections from Covid-19.
+
+Daniel Mortimer described his members being unable to ensure the safety of their staff. Primary care members reported having to rely on local shops, beauty and tattoo parlours to access PPE supplies, at times having to use crowd funding to buy equipment.
+
+In the real world, this meant that people were prevented from seeing their loved ones in hospitals and care homes. In the real world, clinicians were faced with difficult choices as to how to treat patients, and as Professor Moonesinghe recognised, it is possible that the pressure of a lack of essential life-saving equipment like ventilators may have changed the way that clinicians thought about how to escalate some critical care patients. Something that many of the families that we represent experienced.
+
+But my Lady, the cost of inadequate PPE was not just to people but to the public purse. In simple terms, every pound we overpaid for PPE or wasted on contracts for defective PPE was a pound that could have been spent on the health and social care sector.
+
+The UK paid an unacceptably high Covid premium for its PPE. Chris Young told the Inquiry that the Cargo Services Far East contract was 900% above benchmark price. The DHSC told their accounting officers only that they should make "best attempts" to stay within the 25% rolling benchmark.
+
+And there was also a price for the waste of PPE on a scale that, according to Lord Agnew, blocked the Felixstowe docks. There was an estimated £4 billion of wasted PPE that had to be disposed of or stored and at a continuing cost to the public purse.
+
+My Lady, the root cause of this failure in the procurement response was a failure of preparedness. As Professor Moonesinghe told the Inquiry, we were woefully unprepared even for what was thought to be the reasonable worst-case scenario. There were insufficient stockpiles and a lack of centralised data in respect of what was held by trusts in England or nationally. Any stockpiles that were held were modelled on an influenza pandemic and were difficult to access in deep storage.
+
+The NHS Supply Chain was only ever designed as a business-as-usual process with no contingency planning in place for the increased burdens of a pandemic.
+
+My Lady, there was a price for this poor preparation. The total lack of preparedness meant that when the pandemic hit, the DHSC were what Lord Agnew described as "rabbits in the headlights".
+
+Professor Sanchez-Graells was clear that at the outset of the pandemic in the UK, the government had a perfectly good legal framework and procedures for procurement, including emergency procurement, but because of a lack of preparedness, the system was quickly overwhelmed. And when it became overwhelmed, there was a choice. A choice whether to follow a rule-based transparent and accountable process, to develop a data-led foundation to identify what was needed and to follow a principled and consistent approach to inviting, managing, and processing offers.
+
+But those in power took an opportunity, as Lord Bethell said, to take away the 100 years of conditioning within the Civil Service, no more Cautious Charlies, as Mr Gove characterised. There was a new risk appetite set by the Prime Minister, and Mr Hancock, to take a more buccaneering approach and throw the constraints of existing good procurement processes overboard. This 'whatever it takes' approach by the DHSC undoubtedly influenced the speed at which offers to the PPE Buy Cell were processed, the time spent on due diligence, and the price the government was prepared to pay.
+
+As Mr Rhys Williams told the Inquiry, the government's call to arms only increased the overwhelm and caused huge problems.
+
+At the heart of a failure to prepare was the lack of direct relationships with the PPE manufacturers or larger retail wholesalers. This meant that the UK simply didn't know where to turn to scale up supply, and into that void, aided and encouraged by the call to arms, stepped numerous intermediaries and agents. These new entrants into the PPE market moved quicker than the UK Government to locate the manufacturers and secure supply, sometimes gazumping the government in the process, thereby further contributing to the global supply pressures and price increase, whilst enabling those intermediaries to make massive profits from the pandemic.
+
+My Lady, there was undoubtedly a roaring noise of people offering PPE, all with differing motives. Some philanthropic, some motivated by profit. Professor Sanchez-Graells said at this point the senior leadership of the PPE Buy Cell should have taken appropriate steps to reassure all those making offers that their offers were being considered, and reduced the pressure on the Buy Cell. This was what he called the legitimate operational requirement.
+
+This would have allowed them to develop and apply a consistent and criteria-based approach to rapidly triaging offers. It could and should have maintained a single point of entry, and build capacity to triage those offers.
+
+Of course, my Lady, we accept there must be a way of triaging offers to enable the quick identification of legitimate offers. Companies that already supplied the NHS, already made PPE, or were large global suppliers of goods would have made it to the front of any sensible triage.
+
+The choice, instead, was to create a VIP Lane, that allowed politically exposed people to jump to the front of the queue and to expose those civil servants working in the PPE Buy Cell to unbearable pressure. This was what Professor Sanchez-Graells said was dealing with the problem in the worst possible way.
+
+There is no question that the VIP Lane was unlawful. Having already lost two legal cases and with levels of public concern still high from what has been revealed in open source material and other investigations about profiteering and cronyism, those at the heart of the scandal had another choice to make at this Inquiry: act with candour, finally accept the failures of the systems they created, and assist the Inquiry with forward-looking recommendations for how best to perform emergency procurement to inform our responses to the next pandemic.
+
+Instead, those politicians have attacked the Inquiry and rejected its scrutiny. There has been a chorus of denial that the public would expect them to have done anything differently. Any suggestion that there was any other way other than to let their friends and associates get to the front of the queue was branded wholly naive.
+
+Mr Hancock accused the Inquiry of being hostile. Lord Agnew used even more choice language, and used exasperated examples of known crooks saving Britain in the past. Mr Gove even went as far as to say that it was a required aspect of a democratic accountability for politicians to refer and chase offers.
+
+But it's important to remember that not all these referrers were democratically elected. Many were unelected peers appointed by the ruling party and able to wield their influence within government. Lord Chadlington in his referral of SG Recruitment and Baroness Mone in her involvement in PPE Medpro are just two examples.
+
+This is not ministers acting within their specialist portfolio checking that all that could be done was being done by civil servants on their policy area; this was ministers and politically exposed people, with no expertise in procurement, or, worse, politicians who were likely to directly benefit from the award of contracts, applying undue pressure to those processing offers within the VIP Lane.
+
+In our opening submissions, we focused on the referral of SG Recruitment, one which came to Lord Feldman, a former Conservative Party chairman, from Lord Chadlington, another Conservative Party peer.
+
+It must have been obvious to Lord Feldman from the emails that the Inquiry has shown to him that Lord Chadlington could benefit financially from any government contracts.
+
+Lord Feldman triaged the referral and spoke to David Sumner of SG Recruitment. He thought he was a "good chap", and admitted that he had a "soft spot for someone who was ex-military and ex-SAS", and credentialised themselves in that way.
+
+This was a recruitment company with no experience of manufacturing PPE and with a pre-pandemic turnover of under half a million pounds, that was then processed by the VIP Lane and was ultimately awarded two contracts, collectively worth just under £50 million. SG Recruitment is reported to have made £1.1 million profit from those contracts.
+
+It is likely from the written material recently disclosed by the Inquiry to Core Participants that the Inquiry could conclude that both Mr Sumner and Lord Chadlington had the intention of using government contracts as a stepping stone to expanding their business and thereby increasing their personal financial benefit.
+
+This profiteering was enabled by the VIP Lane in its prioritisation of offers based on who was making the referral and whether it was therefore a "trusted offer".
+
+As we set out in the preliminary hearing to this module, we've always maintained that this Inquiry needs to investigate relevant contracts from offer through to conclusion. This would have involved hearing from those who are processing the offers in the VIP Lane, such as that from SG Recruitment, at every stage.
+
+In fact, the Inquiry hasn't heard any evidence from those conducting the due-diligence checks, the Closing team, or anyone within the Technical Assurance team.
+
+The effect of this is that each of the witnesses the Inquiry has heard from has been able to say that they expected someone else to have ensured that all the necessary checks were done.
+
+My Lady, it is clear that the VIP Lane did have real advantages to those who had their offers processed by it. Professor Sanchez-Graells explained that the emergency procurement should be, by nature, a time-limited procurement exercise, as there's only ever going to be a limited number of emergency contracts in a window before you go back to business as usual, therefore it matters who gets there first. There are no prizes for second place.
+
+Dr Hall accepted that a VIP Lane offer probably got to Technical Assurance quicker, and Lord Deighton confirmed that VIP Lane offers had access to "handholding" to support them to navigate the workings of government.
+
+Mr James said in his written evidence that he thought the VIP offers had a designated contact in the Technical Assurance team, unlike the non-VIP Lane.
+
+This, my Lady, conferred two benefits: first, the VIP Lane team could ask for the highest priority offers to be processed more swiftly by the Technical Assurance even than other VIP Lane offers. Ms Matthias referred to the existence of VVIPs. These were the very, very important people: suppliers who had contacted them directly via an MP, lord, lady, PM, private office, and those within the Cabinet Office were keen that they had a speedy response.
+
+Second, they could find out the reasons for rejection and feed them back to the supplier, which had the benefit of them being able to improve their product and continue the negotiations.
+
+In addition, Mr Young told the Inquiry that within the VIP Lane, contracts that would normally have had weeks of due diligence went through a much shorter process, the benchmark of which was whether it was subjectively proportionate, taking into consideration the urgency of the need, given the lack of preparedness, the risk appetite set by the government and the incredible pressure of the noise the processing team was subject to whilst desperately trying to secure PPE.
+
+No doubt as a result of all these processes, the conversion rates of the VIP Lane were significantly higher. Mr Marron's evidence was that 11.86% of VIP Lane offers were awarded contracts compared to 1.13% of non-VIP offers.
+
+Importantly, Sir Chris Wormwald, then the most senior civil servant within the DHSC and the principal accounting officer, acknowledged that two great an emphasis was placed on who made the referral as opposed to the nature and the promise of the lead. He said the problem was not with the differing standards of assessment but who got to the front of the queue, and, as a result, some less promising leads were given too great a priority.
+
+As Professor Sanchez-Graells concluded, the VIP Lane was an affront to good procurement. Mr Gove, Mr Hancock and other politicians have sought to undermine his evidence, but they can't get around the criticisms in his evidence; he is a pre-eminent expert. So they resorted to personal diatribes, accusing hims of a flawed analysis, without providing the Inquiry with any proper legal or academic challenge to his findings.
+
+The Inquiry should be concerned about this approach and what it says about a culture of learning within government. We endorse Professor Sanchez-Graells' view that the fact that, all this time later, those involved don't recognise that billions of pounds were spent unlawfully speaks of a dysfunctional culture of lesson learning.
+
+It's also now well known that 50% of the companies channelled down the VIP Lane provided PPE that was not fit for purpose. And the Inquiry has not heard from a single witness or a single supplier to answer to this waste of money and resources.
+
+Overall the government's inadequate preparedness and inefficient procurement systems resulted in £3.8 billion of wasted PPE that could not be used in the NHS.
+
+My Lady, by way of conclusion, good governance matters. Standards matter. Transparency matters. Better procurement means that governments can spend their money faster and better in times of emergency. As the UK Anti-Corruption Coalition said in their witness statement, the problems associated with the UK's emergency response are more than just procurement missteps and reflect something wider.
+
+The recent decline in good governance and political standards. The story of the pandemic requires us to reflect on the conduct of ministers, Members of Parliament, Members of the House of Lords, special advisers, political donors and other actors.
+
+My Lady, those I represent are not a small group of people being whipped up into believing a politically motivated conspiracy theory as Lord Agnew suggested. The public did, as Mr Gove and Lord Bethell both identified, have an expectation that the government would rapidly source and supply sufficient and safe PPE. But the public also expected its government to secure adequate amounts of appropriate PPE to protect our diverse health and social care and public sector, and to protect the already stretched public purse from fraud, profiteering and cronyism.
+
+My Lady, your Inquiry should be clear in its findings about the failings of the UK's pandemic procurement. After four weeks of evidence at further public expense to public funds, it cannot shy away from making criticisms of the VIP Lane, and those who profited from it. We also urge you to make clear recommendations for the future that insist on a foundation of good data, good governance, ethical practices and transparency.
+
+The public and the bereaved families expect no less.
+
+**Lady Hallett**: Thank you very much indeed, Ms Morris. I am extremely grateful.
+
+Ms Campbell, I think you're up next.
+
+Closing statement on behalf of Northern Ireland Covid-19 Bereaved Families for Justice by MS CAMPBELL KC
+
+**Ms Campbell**: Thank you, my Lady.
+
+The UK and devolved entities were not ready. Procurement provision and supply chains were not set up to enable effective responses to the pandemic. Inventory management systems did not exist or were not up to the task. Stockpiles were out of date or wholly insufficient. Coordination across the UK and the devolved administrations was, as ever, on the hoof, superficial, and the source of frustration.
+
+Response plans, certainly at the UK level, appear to have been drawn up in a panic and put into action by a small army of individuals operating, as you have observed this morning, from back bedrooms, on laptops, armed with Excel spreadsheets and their mobile phones, and ultimately, working within a process that was more focused on triaging people than product. A system that was, giving it perhaps a most generous interpretation, ripe to be hijacked by shysters and fraudsters and operating at huge financial, political and human cost that will be felt for generations to come.
+
+While we did not agree with all of Lord Agnew's evidence, he is right when he says that a huge debt legacy has been left to our children's generation who will have to struggle to pay it off.
+
+The expression "it was worse than a crime; it was a mistake" comes to mind, except it wasn't just one mistake; the mistakes were systemic and prolonged and enduring, and when it comes to the bereaved families, their children will pay not just a financial debt, but many will carry a huge emotional one.
+
+My Lady, it has not escaped the notice of the Northern Ireland Covid Bereaved, nor will it have escaped your notice, we suspect, that for several witnesses the answers to many questions in this module has been more combative, more dismissive, even more evasive than in previous modules. You have heard staunch defences suggesting that the VIP Lane was "necessary" and it was naive to think otherwise. That should the need or opportunity arise in future it would or even should be recreated.
+
+Perhaps the rationale for that defensiveness comes from having established a deeply-flawed system rather than inherited one, as may have been the get-out in previous modules.
+
+But whatever the ex post facto justification, the reality is, a system of triage for so-called VIPs was not necessary. It was not something followed by the devolved administrations, nor in other nations. The problems faced in London were not unique. Shamefully, the response to them was.
+
+What was necessary was a proper, transparent and decisive transparent system. Note the evidence of Karen Bailey yesterday. BSO PaLS in Belfast received over 2,000 offers which, following triage and removing duplication, were distilled into about 45 useful leads. Some were referred by the politicians, some apparently commended by the CMO, but all went through the triage system on a "first come first served" basis save for FFP3 masks which were triaged separately given the urgent need.
+
+Contrast this with the evidence of Chris Young from the Department of Health and Social Care. In London, they got something in the region of 50,000 offers from 15,000 suppliers. In terms of comparative population size, that would suggest that the BSO in Belfast received proportionately more offers, or at least a comparable number of offers as the Department of Health and Social Care. 50,000 is, of course, a large number, but for many of those offers, the plums and the duff could have been easily separated on the evidence you have heard. Offers of nutritional advice and knitted goods into one category; offers of substantial quantity of PPE and equipment in the other.
+
+The PPE Buy Cell, we know, grew rapidly to a team of 500 people. 50,000 offers and 15,000 suppliers amongst 500 is 100 offers per person, or 30 suppliers. Now, of course, that calculation is crude, and it was not that easy, but neither did it have to be so difficult.
+
+You have been given, my Lady, no cogent reason why there could not have been a system of triage to consider relevant factors that were said to influence the special treatment afforded to some, such as a background in invention, access to factories which could enable large-scale production, an assessment based on the viability of the lead and not the political weight of the referee or the political connections of the offeror.
+
+My Lady, a glaring problem with the VIP Lane is that it should have been clear at the time of establishing it that a two-tiered system based on political connections or cronyism was wrong, but those making that decision did not or could not or will not see that.
+
+But perhaps the most glaring problem is that the VIP Lane was not even successful, the consequences of which are felt and continue to be felt by those from whom you have heard. Those who worked 16-hour days, seven days a week, to try to make it work. The frontline staff who lacked necessary PPE, from whom you heard in Module 3 and whose evidence was revisited in this module through the Royal College of Nursing and others. And the bereaved families who willed things to be different at the time of the pandemic and still wish it to be different today.
+
+These people are not, as Lord Agnew appeared to suggest, whipped up by false narratives or headlines of a heinous plan by those in power to enrich themselves or their mates. Theirs is a legitimate and deep-seated anger borne out of the failings that they have witnessed and the loss they have experienced as a result.
+
+But it is also an anger at the political failure to prepare, and the establishment of a system that enabled profiteering and cronyism while Rome burned.
+
+And why shouldn't they be angry? The evidence that you have heard in this module does a disservice to the UK, to those who did their best within a rotten system, and to those who died and carry on in grief.
+
+But my Lady, it also does a disservice to future generations, not only because they will have to pay for it, but as witnessed by this module the time spent unpacking and unpicking the controversy of the VIP Lane is time that would have been better spent asking questions and learning lessons from all the other issues within the list of issues for this module. But, in relation to which there has been insufficient time to at least publicly consider them.
+
+What is the role of technology, of AI, of automation in future procurement? Do we have sufficient skills, expertise and experience and training to deal with future crises? What PPE might we need in a future pandemic and what ongoing efforts are being made to look at alternative approaches, such as re-usable PPE? How can we diversify our sources of supply domestically and internationally to avoid vulnerabilities in a manufacturing system being concentrated in one part of the world?
+
+How do we mitigate against forced labour, child labour, human trafficking, modern slavery and the other unethical treatment in our supply chains? How do we meet future demands whilst also adhering, as far as possible, to our environmental obligations and considering the climate crisis?
+
+Previously the focus on procurement has been on securing items at lowest cost but at the expense of everything else, people, environment, and resilience. That was the case across the board in England, Scotland, Wales and Northern Ireland. But it cannot justifiably be the case in future.
+
+These are all issues within your list of issues for this module. But given the public interest, and the significant public interest, in the aspects of the VIP Lane, there has been insufficient time for proper public scrutiny.
+
+You will understand that I mean no criticism of you, my Lady, when I observe that, with reference to some of the filibustering in the evidence that you have heard, future generations deserved better from this module.
+
+The UK Government and Senior Civil Service would do well to acknowledge its own mistakes and to seek to learn from others, and not just to politely entertain and then dust off criticism, but to really listen, and to really learn.
+
+And on this, as it happens, they could look to their colleagues in the devolved administrations where systems, though far from perfect, were almost certainly better.
+
+It is striking that, whatever other faults may be identified, Northern Ireland, like the other devolved administrations, appear to have avoided conflicts of interest and controversies that haunted England.
+
+One reason might be found in the concept of democratic accountability, a concept which appears to have different meanings in different jurisdictions.
+
+To Mr Gove, democratic accountability is boldly advanced as a defence for the VIP Lane, leading, quite remarkably, to a rejection of the idea that civil servants should be protected from undue ministerial pressure.
+
+In Scotland, according to Ms Freeman, democratic accountability acts in part as a defence from the consequences of the VIP Lane, over which Scottish Ministers had no say and with which they disagreed.
+
+It will perhaps come as no surprise that we endorse the evidence of Ms Freeman.
+
+Local democratic accountability for procurement is important, because of the difficult or invidious positions into which devolved actors would be placed where an issue is devolved but decisions are taken by Westminster.
+
+Of course there should be cooperation, exchange of data, exchange of approaches, and a mutual aid agreement, but it will be important, whatever the recommendations the Inquiry makes in this module, that the system of devolved democratic accountability for devolved issues remains.
+
+And as to the Northern Ireland and procurement response, we highlight some aspects of the evidence recently heard. The evidence of Tim Losty describing procurement from CR Pharmaceutical, making it clear that his role was not part of some master plan, though neither was it just the luck of the Irish. There was an element of good fortune that the Executive had opened an office in the one country which could supply PPE, enabling the role of Mr Losty to be occupied, borne more out of circumstance and opportunity than design.
+
+But there was also evidence of working hard to seize the moment, enabling an individual from a small country to secure a multimillion-pound deal on a global stage. For reasons addressed in the Northern Ireland Audit Office report, to which we will return more fully in writing, the process was not as transparent as it might have been, but it does appear to have been successful.
+
+However, my Lady, and it is a significant point, this is not a plan for what to do in a future pandemic, because those pieces may not move so fortuitously into place. And if it's not a plan for a future pandemic, what is the plan?
+
+Conversely, the proposed joint procurement with the Republic of Ireland fell apart just shortly before the CR Pharmaceutical deal, perhaps demonstrating that Northern Ireland was too late to fully appreciate its position, both within these islands and on the world stage and therefore too late to respond.
+
+And so, although the industry of BSO PaLS and others in the north deserves due recognition, once again I have to address you on pervasive issues in Northern Ireland.
+
+A failure to recognise and remedy gaps in available data. You've heard that, my Lady, before.
+
+A lack of self-reflection and internal learning.
+
+No review of lessons learned by BSO PaLS.
+
+A wholly insufficient lessons learned document, looked at very briefly yesterday from the Department of Finance.
+
+And, I perhaps rather boldly anticipate, we may yet hear a departmental pat on the back from the Department of Health.
+
+Complacency or self-congratulation is unwarranted and our concerns at the lack of self-reflection are not merely theoretical, because the evidence received in this module raises significant concerns which have not yet received the consideration internally in Northern Ireland that they deserve.
+
+By way of example, whilst very significant amounts of PPE may have been obtained, there is ample evidence of failures to ensure the right equipment making its way speedily to the appropriate end user.
+
+The most glaring failure was the delay in ensuring private care home staff and residents would have access to PPE, an essential issue for ensuring protection of the most vulnerable and preventing the spread of the virus.
+
+The written evidence indicates that Northern Ireland paid more for equivalent PPE than other devolved nations, and had PPE of greater value written off as compared to other jurisdictions. Such failings should not simply be dismissed. The loss of financial resources in an already underfunded healthcare system is measured in loss of care and ultimately in loss of life. The lack of evidence of conflict of interest in the jurisdiction must be seen against the inadequacy of safeguards imposed to protect against such conflicts. It relied exclusively on relevant officials self-declaring conflicts with obvious difficulties in detecting those that may have been undisclosed.
+
+And, my Lady, the problems with modelling were never resolved and it appears have yet to be resolved. Worse still, the Public Health Agency, the very devolved entity with responsibility for this issue, barely addresses this in their statement to this module, reinforcing our repeated concerns at the lack of self-examination, and heightening the concern that such fundamental errors would simply be repeated in any future pandemic.
+
+At the end of yesterday, my Lady, we heard evidence that reminded us of the global upheaval in the last five years. It's not just been the pandemic or measured in pandemic terms, but politically, geographically, and environmentally we are in an uncertain world. There are many future challenges to be faced and there is no room for stagnation.
+
+The Northern Ireland Covid Bereaved stress that we cannot just hope for the best and see what happens and the recommendations from this module of your Inquiry must enable us to prepare for the worst, while of course, as always, hoping that does not come to fruition.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much, Ms Campbell. I'm very grateful.
+
+Ms Parsons, I think you're next to go. Closing statement on behalf of Covid-19 Bereaved Families
+
+for Justice Cymru by MS PARSONS
+
+**Ms Parsons**: Thank you, my Lady.
+
+I make these closing submissions on behalf of the Covid-19 Bereaved Families for Justice Cymru. Five years ago, almost to the day, Wales reported one of its first deaths from a hospital-acquired Covid infection. Douglas Miles was admitted to the Holywell Community Hospital in Denbigh for an operation. He caught Covid whilst in hospital and tragically, on 29 March 2020, passed away.
+
+His daughter, Sylvia Parry, said this:
+
+"There was no PPE at the time, and my father was just a sitting duck in the hospital."
+
+She observed undertakers there in full hazmat suits while healthcare workers, reliant on supplies from local health boards, had nothing.
+
+It would prove to be one of the first of many deaths in Wales from nosocomial infection, and it is a story to which many in the group will relate. Many of them question why the Welsh Government was so slow to react. Many of them questioned why the staff and patients and residents were unable to take precautions necessary to curb the spread of the virus.
+
+They believe that the reason why Wales has the highest rate of nosocomial deaths must have been due, in part, to the lack of PPE or appropriate PPE and equipment, resulting in mass cluster outbreaks in wards and care homes across Wales.
+
+I turn to some specific concerns raised in this module.
+
+First, pandemic stockpiles. Despite Pandemic Influenza Preparedness Programme being a UK-wide programme, it was the Welsh Government who were responsible for procuring the pandemic stockpile, for ensuring stock was kept in date and ready for use. The Welsh Government failed to do this.
+
+What was the nature and the extent of the failure? The critical failure relates to a critical piece of PPE: FFP3 masks. Of all FFP3 masks held in Wales as at 6 February 2020, over 90% were out of date.
+
+By 12 March 2020, a Department of Health and Social Care email records that, "Wales is in the most challenging position of all the four nations, being down to just 10,000 FFP3 masks."
+
+Whilst Mr Irvine suggested stock may have been re-tested within days, released on 25 March 2020, the same cannot be said for the entirety of the stock which the Welsh Government itself estimated would take anywhere between four to 16 weeks to re-test.
+
+We also know that in the scramble to re-test, 50% of the retests did not pass the face fit tests, largely because they did not fit women, 70% of the health and social care workforce. And it was not just FFP3 masks; surgical gowns, for example, were not in stock. Zero in the stockpile despite a target of over half a million.
+
+What were the reasons for the failure? Why did the Welsh Government not even have that which it was required to have as a result of the PIPP strategy?
+
+Mr Irvine could not assist you. It was not that the Welsh Government were unaware; there were regular stock reviews carry out with Welsh Government officials themselves. "I'm not trying to be evasive", he said, "that would be a matter for the Welsh Government to answer."
+
+The Bereaved Families for Justice Cymru group observes that the government have not answered that question. Notwithstanding witness statements totalling hundreds of pages and notwithstanding thousands of exhibits, the answer remains elusive.
+
+Second, distribution and logistics. As we have heard repeatedly from the Welsh Government, Wales never ran out of PPE at a national level. But, my Lady, such a claim is artificial when those monitoring and distributing the stock, that's Shared Services, were also the ones managing requests for PPE and determining what percentage of the requests would be supplied.
+
+Mr Irvine may not have liked the term "demand management" but that is the very process he described to you.
+
+But regardless, even if Wales did not run out of PPE, that is of little comfort to those who experienced such shortages at a local level. What good is a long-sleeved gown and FFP3 mask in a warehouse in Denbigh when it is needed at the local hospital where Covid is spreading through the ward among staff and patients alike?
+
+That brings logistics and distribution of PPE into focus. Mr Slade suggested to you, my Lady, that problems in supply and distribution related to the provision of information about what was needed and where, and what stocks were held at a local level.
+
+There was apparently no system of knowing how much stock hospitals had. They were starting from scratch. So it was about having better flows of information and intelligence.
+
+Mr Brace suggested confusion was caused by IPC guidance, leading to tensions in staff understanding what was required and therefore what was to be supplied. A red herring, the group says, given there was just one change in guidance that affected mask wearing.
+
+But, like Mr Slade, he suggested that there were also problems with information flows. He said there were coordination issues at the hospital end about what stock was held and where. So the stock was there, but healthcare workers just didn't know it.
+
+Such explanations, my Lady, raise more questions than provide answers. Shared Services had been supplying PPE to health boards and hospitals for the best part of a decade when the pandemic started. Distribution paths and delivery points must have been well established. Why had not even the most basic stock management system been put in place?
+
+And if the explanation is correct, that there was plenty of stock floating around the NHS estate in Wales, why did the problem go unattended or unsolved? Whilst the Welsh Government may have felt confident and assured they had a grip on the situation, by April/May 2020 this was evidently not the case. Healthcare workers and members of the group alike witnessed shortages throughout 2020 and into 2021.
+
+The reasons for supply and distribution failures are far from clear and, as such, there can be no confidence or assurance that lessons will have been learnt for the future.
+
+Third, care homes. Here, again, the Inquiry has heard that, like the healthcare system, the social care system in Wales never ran out of stock. If that's right, again, the position offers little comfort to those who saw staff and residents in care homes unprotected, lacking vital PPE, oxygen, testing and so on. The group believe many died unnecessarily, avoidably in Covid outbreaks in care homes in Wales as a result.
+
+One key issue is the issue of delay. The Welsh Government took until 19 March 2020 to expand Shared Services's remit to the care sector. Thereafter, supply was patchy at best. Some care homes had sufficient PPE, others did not. By May 2020, only two-thirds had their PPE needs met by Shared Services.
+
+As to when the position stabilised, the Welsh Local Government Association suggests it was not until September 2020, when a service-level agreement was reached. Care Forum Wales suggest later, November 2020, when it understood a new stock management system had been introduced.
+
+Mr Slade did not accept that care homes had been overlooked while the NHS was prioritised. Nor did he accept that the Welsh Government could and should have acted more quickly to assist care homes. But the recognition, by both himself and Mr Brace, that in a future pandemic Shared Services must provide PPE immediately for the care sector, tells you that the response to supplying PPE to care homes in Wales was too slow.
+
+A second key issue is distribution. We know that in theory Shared Services supplied PPE to joint equipment stores for onward distribution to the care sector by local authorities. We know that in practice this process failed.
+
+Mr Irvine said, and I quote, there was:
+
+"... more than enough PPE in the joint equipment stores, but ... the joint equipment stores ... or ... local authorities, more generally, weren't [necessarily] aware of what was actually there."
+
+The suggestion is hard to understand. It seems to be being suggested that care homes desperately needed PPE, could have had what they wanted, indeed could have had more than what they wanted if only they'd checked their local joint equipment store.
+
+The suggestion is also hard to understand, given StockWatch, Shared Services' inventory management system, was completely unfit for purpose and left Shared Services, as Mr Irvine himself put it, unable to understand if we were fulfilling their requirements and with gaps in how much stock areas actually required.
+
+If my Lady were to accept that joint equipment stores were indeed fully to overflowing, that would be by luck rather than by design.
+
+I say "if", my Lady, because of course, the Inquiry has not heard from the local authority and care home providers. It might be that they would have provided an explanation to counter the implicit suggestion that distribution failures lay with them.
+
+Fourthly, infection prevention and control guidance on FFP3 masks.
+
+I have already mentioned the deficiencies in Wales' FFP3 stock, as noted on 12 March 2020. It was on 13 March 2020, one day later, that IPC guidance was amended such that FFP3 masks were to be used only in intensive care units or in aerosol-generating procedures.
+
+While the group is aware the IPC guidance was considered in a previous module, the group urges the Inquiry to address the issue afresh in the context of cross-cutting issue of adequacy of PPE supply. Professor Catherine Noakes from whom the Inquiry has already heard, explained the reluctance to properly acknowledge airborne transmission was in part because of the significant resource and operational implications of doing so.
+
+If supply issues shaped the IPC guidance, as many in the group fear, then the impacts of lessons learned about PPE supply chains and distributions will be reduced. What matters is not simply having PPE, but appropriate PPE. PPE with the appropriate level of protection.
+
+Lastly, ventilators and equipment. My Lady, the Bereaved Families for Justice Cymru's concerns in this module have not been confined to PPE. Its members also experienced shortcomings and failures in access to ventilators and other key pieces of equipment. We have heard evidence that much of the procurement activities for ventilators took place on a UK-wide basis. Little attention has been given to what happened in Wales.
+
+Consistent with the Welsh Government's general narrative for PPE, it has of course stated that Wales was never short of ventilators. The members of the group have good reason to doubt such claims. The members experienced those shortages, problems in access firsthand, and there has been no scrutiny as to the reason why.
+
+In conclusion, my Lady, just four witnesses have given evidence from Wales. Much of their evidence was dedicated to the technical and procedural aspects of procurement. But for the members of the Bereaved Families for Justice Cymru, the concern has always been to understand why those that needed PPE and equipment, such as ventilators and CPAPs, didn't have it. In opening, the group asked why there was such shortages of PPE, why access to ventilators and equipment was inadequate, why the risk of nosocomial infection was so high in Wales, why care homes were overlooked, whether shortages in supply of FFP3 masks influenced guidance, such that healthcare workers were inadequately protected.
+
+These questions, my Lady, regrettably remain unanswered. Gaps remain. Areas of the Welsh Government's conduct in respect to PPE and key equipment remains unscrutinised.
+
+And the point is an important one, if gaps remain, if questions remain unanswered, there is, of course, a real risk, my Lady, that the Welsh Government have not learnt lessons for the future. Thank you.
+
+**Lady Hallett**: Thank you, Ms Parsons.
+
+Ms Mitchell, I think your turn.
+
+Closing statement on behalf of the Scottish Covid Bereaved by DR MITCHELL KC
+
+**Dr Mitchell**: My Lady, the Scottish Covid Bereaved came into this module with concerns, doubtlessly shared by many, that the governments in the UK had failed to ensure that those working for the NHS staffing nursing homes and care homes, the ill and the dying and their families were provided with the PPE supplies that they needed timelessly to face the pandemic.
+
+What the bereaved have heard over the course of this module shows that their concerns were wholly legitimate.
+
+The bereaved wish to acknowledge, however, the hard work and dedication of a great many public servants who were trying their best to ensure that those most in need could be provided with PPE that they so desperately needed. While the beginning of the pandemic signalled for many throughout the country a slowdown or stop of the regular rhythm of the working week, there were those who were going above and beyond the call of duty to try and make sure that people whom they had never met, and would never meet, were protected from the worst of the pandemic.
+
+The personal and professional toll that this took on them has been obvious to the Scottish Covid Bereaved, and they wish to thank them for their efforts.
+
+The bereaved will provide the Inquiry with detailed written submissions in due course. Those submissions will seek to assist the Chair in reaching her conclusions. While the bereaved will seek to be as constructive as possible and provide recommendations on how we can be better prepared and better equipped, in every sense of the word, to face the pandemic, they will not shy away from making what they see as deserved criticism.
+
+Many of the recommendations will now be familiar from the Inquiry's other modules, the need to be better prepared for the next pandemic, the need for stockpiling, the importance of domestic production capability, the importance of data. There will also be recommendations unique to this module highlighting the importance of fairness and transparency, of having robust processes in place to guard against possible conflicts of interest or corruption, the need for fully integrated systems the importance of centralised procurement processes, and the need to ensure that PPE and other equipment is not only supplied to NHS settings, but also to ensure that care and nursing homes are properly considered.
+
+The vast sums spent by the UK Government and devolved administrations between January 2020 and June 2022 would have been unimaginable for governments to spend on PPE and medical supplies were it not for the pandemic. It was essential that the spending was carried out properly, that there were, where possible, necessary checks and balances put in place, and that the public were able to obtain the best possible deal.
+
+The public, of course, were well aware of the worldwide scramble for PPE and, as the pandemic spread across the globe and healthcare systems, that people were being swamped. The bereaved are also aware that human nature being what it is, there will always be those who seek to unjustifiably profit in moments of national crisis.
+
+There were undoubtedly those who saw offers of PPE, whether real or imagined, as being a way to line their own pockets. While those who sought to profiteer may measure their profits in pounds and pence, our losses have ultimately been measured in lives.
+
+Mr Gove, both in his witness statement and evidence to the Inquiry, was dismissive of those who questioned the UK Government's approach to procurement during the pandemic. Mr Hancock's equally dismissive evidence and at times hostile manner was noted.
+
+The Scottish Covid Bereaved do not share Mr Gove's Nixonian belief that criticisms of the UK Government were unjustified and politically motivated, nor do they consider Mr Hancock's personal opinions on the work of the Inquiry to be of assistance.
+
+Rather, the evidence before this Inquiry has led the bereaved to consider that, however bad they may have thought the procurement situation had been, the reality was worse.
+
+It was the government's responsibility to protect against profiteering and corruption and to ensure that public money was being properly spent on the most vital equipment. Not only did it fail to protect us in this way, it created a system obviously vulnerable to corruption.
+
+Times of crisis are not times for the old boys and girls network. Proper expertise was required. There was no equivalent to the VIP Lane anywhere in the world. The approach taken by the UK Government meant that valuable time and resources were spent triaging people, rather than offers.
+
+The approach taken by the UK Government upended the normal rules of public procurement. Basic approaches and safeguards were not taken.
+
+A proper triage system for a swamped system was required, and that is not the focus of criticism. It is the creation of a priority lane for offers referred by politically exposed people which bred the risk of corruption. Indeed, even if all had been examined by this Inquiry had been above board, the failure of itself was the creation of a system with that risk.
+
+As with justice, which must not only be done but be seen to be done, any system of triage ought not only to have been fair, but should have been transparently so.
+
+Module 5, of course, was not solely focused on the VIP Lane. The bereaved, in their written submissions, will have more to say on the Ventilator Challenge, of the relationship between the UK and Scottish Governments, and how that impacted upon procurement, and the role of NHS NSS and what can be learnt and what improvements can be made to that. The bereaved will also supply submissions in relation to the evidence heard during closed sessions.
+
+We look forward to your Lady's recommendations to help ensure that, when the next pandemic comes, public money is properly spent and those on the front line, the sick, and their relatives, are able to get the necessary PPE and medical equipment to allow them to face the challenges of the pandemic.
+
+These are the submissions on behalf of the Scottish Covid Bereaved.
+
+**Lady Hallett**: Thank you very much indeed, Ms Mitchell. Very grateful.
+
+I think we can get Mr Thomas and probably Ms Murnaghan in before lunch.
+
+Mr Thomas. Closing statement on behalf of the Federation of Ethnic Minority Healthcare Organisations by PROFESSOR THOMAS KC
+
+**Professor Thomas**: My Lady, we're at a juncture of reflection and action, and it's crucial to acknowledge the profound responsibility that this Inquiry bears.
+
+We've delved deep into the heart of the procurement systems during the most significant global health crisis of our time, uncovering not just inefficiencies but profound injustices.
+
+These injustices, have disproportionately affected those who are already at the margins, our ethnic minority healthcare workers who have faced not only the front lines of a pandemic, but also the system failures of the system meant to protect them.
+
+A question that you have probably asked yourself many times during this module, and one that you will undoubtedly weigh when you deliberate, is: did it need to be this way?
+
+Yes. There was a global pandemic. And throughout this module, my Lady, if I may say so, you have been very mindful of that, recognising the difficulties faced by many of the witnesses, offering praise where it was due, and showing kindness. However, while it is possible to sympathise with those in charge of procurement, can we really excuse the failings that we have heard? Absolutely not.
+
+You see, the urgency of a crisis does not diminish the need for equity. Rather, it highlights and amplifies it. Every decision that deprioritises the Public Sector Equality Duty not only undermines legal mandates, but also compromise the very lives it sought to protect.
+
+As we move forward, it's imperative that this Inquiry not only acknowledges these failings but also acts decisively to ensure that they're not repeated. Not only as optional extras, but as indispensable pillars of procurement to safeguard against a magnification of risk to our most vulnerable healthcare workers during future pandemics or crises.
+
+You see, throughout this Inquiry we've heard testimony after testimony, each painting a stark picture of a procurement process fraught with lapses inclusivity and transparency.
+
+My Lady, I'm sure you'll recall Sir Chris Wormwald's evidence in Module 1 which confirmed DHSC had stocked lower levels of PPE, specifically respirators, suitable for ethnic minority staff, and that little planning had been done to consider the quality of PPE provisions.
+
+You will also no doubt recall the powerful evidence heard throughout Module 3 about the human impact and harm caused by inadequate PPE supplies, and racial bias in key equipment such as the pulse oximeters.
+
+I do not intend to repeat or spend a lot of time repeating or rehearsing this evidence, but we trust you will have it in mind when reflecting on the process evidence that we've heard over the past month. We ask you in particular to remember the powerful evidence of Professor JS Bamrah, who contributed on behalf of FEMHO:
+
+"The consistent picture from across our [members] was one of discrimination through unavailability or inadequate PPE and fit testing rejection."
+
+Our members were routinely expected to go on high-risk clinical areas without adequate PPE, if any at all. Many of our members felt they were pressured into this and did not have a discretion to refuse. Even some pregnant nurses were threatened with disciplinaries if they refused.
+
+These are not mere procedural failings. They are breaches of trust. Breaches that have placed undue risk on the lives of those dedicated to saving others.
+
+From the evidence presented, it's clear that the Public Sector Equality Duty, a cornerstone of our legal framework, was often sidelined in a frantic rush to secure supplies, leaving behind a trail of consequences that we are only now beginning to fully understand.
+
+But it's not enough to merely identify these failings. As representatives of FEMHO, we are here to not just critique but to catalyse change.
+
+I've said it time and time again: FEMHO wishes to be solution orientated and future looking. FEMHO wants a procurement system that not only learns from past mistakes but one that actively paves the way for an equitable healthcare system, a system where safety and the needs of every healthcare worker, irrespective of their ethnic background, are not just considered but are central to the procurement strategies that protect them.
+
+Let me now turn to the evidence that we've heard. In our initial week of testimonies we delved deeply into the structural shortcomings of the pandemic response, particularly focusing on PPE procurement process.
+
+As Professor Sanchez-Graells, a pre-eminent expert in procurement law, offered a damning critique of the government's approach, he pointed out that the pursuit of speed over due diligence let to a disregarding of the foundational principles of public procurement. Transparency was not merely sidelined, it was disregarded, creating a fertile ground for mismanagement and potential malpractice.
+
+His testimony highlighted the need for a balanced approach that does not compromise essential transparency and accountability in times of crisis.
+
+Additionally, the UK Anti-Corruption Coalition outlined how the deviations from standard procurement practices not only increased the risk of corruption, but also diminished the quality and suitability of supplies ask procured. The coalition argued for a return to a more stringent procurement regulations, emphasising the need for robust procurement laws. It's not just about restoring normalcy; it's about reinforcing the integrity of our entire healthcare system against future shocks.
+
+The evidence presented by these experts brings to light significant flaws in the system, flaws that had direct consequences on the ground. For instance, it was revealed through witness testimonies that the lack of proper vetting and the hasty engagement with new suppliers led to numerous instances where PPE was either ineffective or wholly unsuitable. This not only endangered healthcare workers, but also wasted valuable resources at a critical time.
+
+Moreover, discussions during the first week also touched on the psychological impact on healthcare professionals, the uncertainty regarding the effectiveness of PPE they were provided added unnecessary stress to an already overwhelming situation.
+
+As one frontline worker's testimony was shared:
+
+"Every day we were unsure if our equipment would protect us, or if it would fail, exposing us to a deadly virus."
+
+This palpable fear underscores the tangible human costs of the procurement failures. As we delve into the systemic failings in our healthcare procurement processes, it's crucial to acknowledge not only the impact on our members, but also on the patients they serve and the families affected by these shortcomings. The emotional trauma and grief borne by families who lost loved ones due to inadequate protective measures are profound and must be addressed.
+
+This is not about playing politics; it's about recognising the full human cost of our shortcomings, ensuring that our advocacy speaks to and for the broader community affected by these issues. The need for action is clear and urgent. The testimony from the first week compels us to critically reevaluate the procurement systems to ensure that they encompass enforceable safeguards that protect all participants in the healthcare system, particularly ethnic minority workers, who were disproportionately affected.
+
+These workers often faced a dual challenge of being more likely to contract the virus, and more likely to receive inadequate protection due to the one-size-fits-all approach in PPE procurement.
+
+It was alarming to our members that Max Cairnduff demonstrated an ignorance of the issue even today, saying, and I quote, "The PPE is itself, I think -- I may be wrong -- relatively agnostic, a mask is a mask."
+
+The second week of testimony shed light on some of the most contentious aspects of the government's pandemic response, particularly through the examination of the VIP Lane operation. We heard from high profile figures, Michael Gove, Lord Feldman, whose involvement in this VIP Lane raised critical questions about transparency and fairness of the procurement process.
+
+Amidst this backdrop of urgency and exception we heard poignant testimonies from Andrew Mitchell and Emily Lawson which brought to the forefront the human impact of those procurement strategies. Andrew Mitchell, reflecting on the strategic risks identified during the pandemic, acknowledged that there was a failure to provide inclusive product specifications. He specifically noted that the standard PPE provided often did not cater adequately to a device -- to the diverse needs of healthcare workers, particularly those from ethnic minority backgrounds who reported significant issues with the fit of protective equipment.
+
+Emily Lawson's testimony complemented this view by pointing out to the reactive nature of the adjustments made to accommodate these needs. She referred to efforts to rectify the oversights as the pandemic progressed, but was vague on the detail and conceded that initially the systems were not designed to handle diversity of needs, which resulted in preventable exposure to risks for some of our most vulnerable healthcare workers.
+
+Dame Emily's evidence is particularly crucial as it underscores a significant shift needed within our healthcare systems from reactive to proactive inclusivity. The insights from these sessions paint a clear picture of procurement systems caught offguard, not just by the virus, but by its own operational blind spots.
+
+My Lady, these discussions are not merely academic; they have real world implications. They tell us that the systems failed to consider the diverse needs of the users, the consequences can be dire.
+
+My Lady, I'm going to move on because I know time is short and I want to come to my conclusions.
+
+So let me conclude. It's clear that the Inquiry has uncovered not just systemic failings but also a pathway to substantive reform. The evidence compels us to act not out of obligation but out of necessity, to address the disparities that have come to light.
+
+Public sector duty compliance. There were persistent issues in complying with the Public Sector Equality Duty that has revealed significant gaps in our procurement practices.
+
+Inclusivity in PPE design. The one-size-fits-all approach failed many in our diverse healthcare workforce.
+
+The engagement and representation. The testimony has also highlighted the need for greater representation and involvement of groups like FEMHO in the decision-making process. Jonathan Marron admitted that this is an area where we can do a much better job.
+
+As Rosemary Gallagher noticed, within PPE procurement teams the clinical voice was completely absent. This inevitably had a knock-on effect on the distribution as without clear insights and data on the needs of local workforces, decision makers lacked valuable information.
+
+Transparency and accountability. The lack of transparency and accountability in the procurement process has eroded trust and compromised the effectiveness of healthcare response.
+
+Learning and improvement for future preparedness. This -- there is a clear consensus, my Lady, on the need to integrate the lessons learned from the pandemic into future emergency preparedness policies. This includes ensuring that a reliable supply of appropriate PPE -- fitting PPE and developing responsive systems that can adapt quickly to feedback from an evolving needs during a crisis, and cultural and structural changes.
+
+Finally, the testimonies have underscored the necessity for cultural and structural changes within our healthcare procurement services.
+
+So, my Lady, as this Inquiry moves to its recommendation phase, let us be guided by these insights: the urgency for change is evident, and the path forward is clear. It's incumbent upon all of us to ensure that the lessons of this pandemic are real, and lasting changes to protect and uphold the rights and safety of every healthcare worker, irrespective of their background.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much, Mr Thomas. Very grateful.
+
+Ms Murnaghan, would you like to take us up to lunch? Closing statement on behalf of Department of Health,
+
+Northern Ireland by MS MURNAGHAN KC
+
+**Ms Murnaghan**: Yes, my Lady.
+
+My Lady, I make this closing statement on behalf of the Department of Health of Northern Ireland. My Lady, in assisting this Inquiry, the department has supplied number of detailed witness statements. Just yesterday, the Inquiry heard oral evidence from Chris Matthews, who was the deputy secretary of the Resource and Corporate Management Group. By this evidence it's hoped that the department has provided a comprehensive picture of the procurement processes in Northern Ireland and how those processes operated to secure key healthcare-related equipment and supplies during the pandemic. It should now also be apparent that, in general terms, the items obtained, including their specification, quality, and volume, were sufficient to meet the needs of the people of Northern Ireland, and that all relevant organisations worked together to ensure that these materials were effectively distributed to those who needed them.
+
+Now, my Lady, the department does not want to pat itself on the back or appear in any way self-congratulatory, as has been suggested earlier this morning. But objectively, we contend that the department has demonstrated that in the relevant period, its public procurement processes met with the highest standards of integrity, transparency, and good administration.
+
+At every juncture the department endeavoured to ensure that the expenditure of public funds was transparent, accountable, and provided value for money to the maximum possible extent in all of the difficult and exigent circumstances.
+
+The department would also like to take this opportunity, my Lady, to clarify any confusion which may have arisen on foot of some of the questions posed to Ms Karen Bailey yesterday by counsel for the Northern Ireland Covid Bereaved Families for Justice.
+
+My Lady will recall, of course, that Ms Bailey was questioned in relation to an email chain which was exchanged inter alia between BSO PaLS, the then Minister for Health and the CMO. That email exchange is located at INQ000503883.
+
+Regrettably, it appears that, in joining the two discrete issues in the one email, that the CMO's approval for a business case has been conflated as a specific approval or, as is put this morning, commendation of a firm called NWT Distribution and their supply proposal.
+
+My Lady, we contend that is a misapprehension. As is evident from the fact that the company, NWT Distribution, offered 20,000 ventilators over six weeks. It has tried to say that Northern Ireland did not have the need, much less the capacity, for this amount of ventilators.
+
+The department would also like to clarify two points arising from that email chain. The first point relates to the role that the CMO took in relation to procurement. The CMO, in his role as the chair of Gold Command, and as is apparent in that email chain, approved a business case, which was a legitimate part of his role whereby he was required to authorise spending proposals related to a range of areas pertaining to the Covid response.
+
+That approval should not be confused with the CMO having had any direct or, indeed, active involvement in the process of procurement or any specific contract.
+
+The actual sourcing and procurement was a matter for BSO PaLS. Therefore, we contend, my Lady, that the CMO's statement to this module is accurate and he took no active involvement in the procurement process, including the means of procurement.
+
+The second point, my Lady, to make relates to the erroneous view that the CMO had commended or indeed, as was suggested yesterday, given approval for the specific contract proposal. The issue here relates to the NWT Distribution proposal, and, in considering part of the email in isolation, it appears to indicate that within a matter of several hours, and without any due process or investigation, the CMO approved that proposal. However, on consideration of the entire email chain, it becomes clear, particularly when one considers the email written by Mr Liam McIvor, who was Ms Bailey's predecessor in BSO PaLS, that the approval from the CMO related only to spending on the specific business case which had been put to him.
+
+As I stated previously, my Lady, BSO PaLS had sought that approval from the CMO in his role as chair of Gold Command. This was distinct from the NWT proposal.
+
+Liam McIvor's email demonstrates that, in addition to acknowledging the CMO's approval, BSO PaLS would separately actively explore the offer from NWT, alongside that of another number of companies.
+
+Now, more generally, my Lady, throughout the course of these hearing sessions the department has reflected on the evidence adduced and the issues that have emerged. The department would like to highlight some points pertaining to its work at the time, and the first thing I would like to touch on is the issue of the provision and availability of PPE to the independent care sector.
+
+I should be clear by now, in Northern Ireland, BSO PaLS is responsible for Northern Ireland's Health and Social Care equipment supply chain, and procurement activity on behalf of the trusts.
+
+Prior to the pandemic, the department had no role in the provision of PPE for privately-run residential and nursing homes. In fact, each independent healthcare provider procured their own PPE.
+
+The department acknowledges that there were instances when concerns were raised by the independent healthcare providers about concerns regarding a lack of PPE being made available to them. However, the department engaged with those healthcare providers, the trusts, and the RQIA, and by early to mid-April 2020 these issues were resolved.
+
+The department is also aware that there has been, at times, a perception that there was confusion around the messaging in relation to how the independent healthcare providers would procure PPE at the early stages of the pandemic. It is the Department's view that the interim guidance, which was developed and published early in the pandemic was unequivocal in its clarity of messaging.
+
+That guidance clearly stated that if those independent providers were unable to source items of PPE, the trusts would work closely with them to ensure that appropriate equipment was made available.
+
+This message was reiterated and expanded on in later versions of the same guidance published in March, April, and September of 2020.
+
+Moreover, the department was in regular communication with representatives of the independent care sector to help ensure that the guidance drafted not only reflected their views, but was also understood by them.
+
+Indeed, the department is further assured of the input that was provided to the independent care home sector, given that, in the early stages of the pandemic, there was a representative from their body who was fully involved in the BSO PaLS structures.
+
+In that role, the independent care home sector had the opportunity to see at firsthand and so understand BSO PaLS's work on the provision of PPE at those very early stages of the pandemic.
+
+Again, my Lady, and without wishing in any way to appear self-congratulatory, we say it is reasonable to assess that whilst playing a limited role in procurement, the department took decisive and coordinated steps to address the PPE supply and distribution challenges that Northern Ireland faced, both in the early days of the pandemic and in preparation for subsequent waves.
+
+This included using its best endeavours to ensure that any surplus stock was fully utilised whenever possible.
+
+On another note, my Lady, the experience of the pandemic has identified learning and prompted change, change which we have already put into effect, such as the dynamic purchasing system which is still available for use today.
+
+In that regard, it is fair to say that the department has benefited significantly from a number of reviews and lessons learned exercises. This morning does not permit sufficient time for me to provide a detailed list of all of the learning points, and the implementation thereof, but if I may, I would briefly summarise some of the key areas of work which we have used to strengthen processes and improve resilience.
+
+The rapid review of Covid-19 PPE, commissioned by the then Minister for Health, identified learning points across a number of key areas, including the management of PPE, modelling, stock management, supply chain resilience, PIPP release mechanisms and the appropriate support for staff.
+
+Whilst some of those actions were implemented in a timely manner, others proved to be more challenging, given their nature. That being said, all 17 actions that were associated with that action plan were fully implemented by the end of December 2020.
+
+Secondly, my Lady, a Northern Ireland Audit Office review on the supply and procurement of PPE to local healthcare providers was published in March 2022. The department and its arm's length bodies have all taken action in relation to relevant learning points arising from that report.
+
+Finally, and as was referred to in much more detail in the corporate statement, a review report identifying key themes and lessons learned from the content of emails received from the PPE mailbox was produced and also shared with the sector for consideration and appropriate action.
+
+Now, my Lady, to conclude, the department would like to place on record its appreciation of those staff involved in the substantial efforts made to procure and distribute PPE in Northern Ireland. While Northern Ireland of course faced logistical and geographical challenges, the department commends the dedication and commitment of all of those who were involved in ensuring that PPE was secured and distributed effectively during the period of global supply chain pressure.
+
+The department finally, my Lady, reiterates that it remains committed to learning from all of the issues raised in this module and will take on board any recommendations from the Inquiry to help shape future emergency responses.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much for your help, Ms Murnaghan.
+
+Very well, we'll break for lunch now. I shall return at 1.45. Thank you.
+
+*(12.47 pm)*
+
+*(The Short Adjournment)*
+
+*(1.45 pm)*
+
+**Lady Hallett**: Good afternoon.
+
+Mr Byrne, I think you're next.
+
+**Mr Byrne**: My Lady, I wasn't expecting to be, but I can.
+
+**Lady Hallett**: Oh, sorry. Why weren't you?
+
+Anyway, why don't you have a go?
+
+**Mr Byrne**: Thank you, my Lady.
+
+**Lady Hallett**: Sorry for the confusion. Closing statement on behalf of the Welsh Government
+
+by MR BYRNE
+
+**Mr Byrne**: Good afternoon, my Lady, prynhawn da, I appear on behalf of the Welsh Government.
+
+The Welsh Government has listened closely to the oral evidence and submissions you have heard this month. The Welsh Government's written closing statement will address in detail the important issues that Module 5 has raised for Wales.
+
+Today, I will focus on some of the principal points that have emerged from the evidence, lessons learned and recommendations.
+
+One of the questions asked of Welsh Government witnesses was why there were experiences of local PPE shortages even if, as the evidence showed, stocks never ran out at a national level in Wales.
+
+The Inquiry heard from Alan Brace who, on 23 March 2020, led the Welsh Government's work in sourcing and distributing PPE in Wales.
+
+Mr Brace told the Inquiry that he was aware that there were difficulties in the very early stages of the pandemic in relation to the distribution of the pandemic stockpile. He identified the problem that he saw: that the emergency planning for PPE was based on a push system whereby standard packs of stocks were pushed out to the NHS. This was different from how the NHS in Wales usually operated, which was a pull system, by which local health boards requested stocks as needed.
+
+One of the lessons he drew from the pandemic was that it was unhelpful for the emergency PPE supply process to work differently from the usual process of supplying.
+
+Mr Brace told the Inquiry that, on taking up his role, he was in daily contact with the PPE leads of local health boards, and throughout those meetings, they assured him that the local health boards were receiving sufficient stocks of PPE.
+
+However, as was noted in our written opening statement at the outset of this module, the Welsh Government accepts the evidence heard during Module 3 that delivering PPE stock to the local health boards did not necessarily mean that it always reached the right hospital or the right ward.
+
+An important lesson that therefore arises is the need for local health boards and NHS trusts to ensure they have robust, local stock management processes in place which can be appropriately expanded during a time of heightened demand, to ensure that supplies received from the NHS Wales Shared Services Partnership can be efficiently delivered to the right hospital and to the right ward.
+
+In relation to local PPE shortages within the care sector, Mr Brace recalled an instance of a call in late April 2020 informing him that a care home had run out of PPE and that there was none available within the local authority to replenish their stocks. Mr Brace told the Inquiry that he contacted the NHS Wales Shared Services Partnership, a van was duly sent to the relevant joint equipment store and shortly thereafter, it was confirmed that the store was in fact full of stock and that there was simply a communication or distribution issue between the local authority, the joint equipment store, and the care home.
+
+The Welsh Government accepted in its written opening statement that the move to centralise NHS-led procurement for the social care sector could have been put in place earlier in March 2020. That move may have quickened the improved availability of supplies for the sector in the very early days of the pandemic.
+
+That said, the care sector distribution difficulties experienced early in the pandemic were exacerbated by the fragmented nature of local government procurement in Wales.
+
+Mr Brace and other witnesses highlighted the benefits of having, in the NHS Wales Shared Services Partnership, an expert central NHS procurement function with experienced personnel and well-established processes which was able to ramp up its usual activities without the need suddenly to develop new structures.
+
+Coming into the pandemic, local authorities in Wales had no such centralised procurement function. Mr Brace's evidence illustrated the practical impact of that absence. He told the Inquiry that: although getting a clear picture of stocks held and usage rates within local health boards was a challenge in the early part of the pandemic, there was, nevertheless, a lot more data, intelligence and insight with respect to those matters within the NHS because of its centralised procurement structures.
+
+By contrast, in the care sector, those structures and that data had to be generated from scratch and at pace. Inevitably, that fact was a significant factor in the local supply problems experienced by the care sector during the very early months of the pandemic.
+
+The Welsh Government will therefore discuss with the Welsh Local Government Association the proposition that they take action on behalf of the 22 Welsh local authorities to develop a more collaborative approach to the management of procurement and the collection, sharing and use of data which provides a more resilient, responsive and flexible structure in times of rapidly increased demand.
+
+Given the important evidence that you've heard during this module, my Lady, we hope the Inquiry would endorse such an approach.
+
+The Inquiry also heard from Andrew Slade, whose Welsh government responsibilities during the pandemic included the Commercial and Procurement Directorate. His evidence highlighted a number of positive lessons which he recommended be reflected in a future pandemic.
+
+These included the effective use of mutual aid arrangements, the expanded role played by the Welsh Government's Commercial and Procurement Directorate, and the provision and procurement -- sorry, and the provision of procurement guidance and advice, and the mechanisms developed for quickly standing up the domestic production of key suppliers.
+
+However, he accepted that more should have been done formally to measure the effectiveness of the efforts to stimulate the domestic production of PPE during the pandemic.
+
+Mr Slade also indicated that the wider public sector would benefit from more experts in procurement, supply chain management and contract management, including during an emergency.
+
+Finally, questions were put to witnesses from all four nations highlighting the importance of providing appropriately fitting PPE and other equipment for all who use them, including black, Asian and minority ethnic healthcare workers. This is a lesson that the Welsh Government recognises must be learned from the pandemic. Suitable PPE and other relevant supplies must be made available for the diverse range of users, both in terms of stockpile preparations and in the course of ongoing procurement.
+
+My Lady, although the hearings for this module now draw to a close, the Welsh Government will continue to consider the evidence from all four nations to see how best to enhance procurement practice and procedure in Mr Wales. Thank you.
+
+**Lady Hallett**: Thank you very much, Mr Byrne.
+
+Apologies, again, if I caught you by surprise. I think you may have forgotten that Ms Murnaghan went before lunch.
+
+Now Mr Holl-Allen, I think. Not caught you by surprise? Closing statement on behalf of NHS Wales Shared Services
+
+Partnership by Mr Holl-Allen KC
+
+**Mr Holl-Allen**: My Lady, I make these submissions on behalf of the NHS Wales Shared Services Partnership or NWSSP.
+
+NWSSP is firmly part of the NHS in Wales. It is not a Welsh Government body on an arm's length basis or otherwise.
+
+Throughout the pandemic, however, NWSSP had a good working relationship with Welsh Government, which provided reliable and substantial funding to allow it to discharge the increased role which it was called upon to perform.
+
+A key component of NWSSP's ability to respond to the pandemic was this good working relationship with Welsh Government, together with the timeliness of responses from Welsh Government colleagues over resources requests, contract approvals, and information sharing.
+
+When the pandemic began, NWSSP was well established and integrated into the NHS in Wales. It does not stand as a separate board, but is hosted by Velindre NHS Trust. The Shared Services Committee, through which it discharges its functions, is required by regulation to have on its membership a representative of each health board, trust and special health authority in Wales. As its name indicates, it is intended to achieve its purposes through partnership working with those bodies. It has a directorate of procurement services containing a group of dedicated and experienced procurement professionals working for the benefit of the NHS in Wales as a whole.
+
+It was clear from the evidence of Alan Brace on behalf of Welsh Government that he valued that experience.
+
+There were obvious advantages, in the fast-moving sellers' market in the spring of 2020, of NWSSP being able to enter into contracts on behalf of Wales as a whole. It assisted beyond the borders of Wales by contracting for a huge quantity of type 2R fluid-resistant masks on behalf of the entire United Kingdom. The sheer volume of masks purchased under that contract allowed a very favourable price to be negotiated.
+
+In mutual aid, Wales was a net contributor. It gave out more than it received.
+
+As the pandemic began, NWSSP was responsible for business-as-usual procurement in the secondary healthcare sector, but not for pandemic or emergency procurement. It was, however, sufficiently resilient and flexible to be able to take on, at short notice, not only pandemic procurement, but also to expand its operations to the social care and primary care sectors.
+
+As you heave heard, procurement among the 22 local authorities in Wales was, in contrast to healthcare, not centralised, and procurement expertise, accordingly, more thinly spread.
+
+Nevertheless, Alan Brace was confident that by the summer of 2020, all those in the social care sector that required it was being sufficiently supplied with PPE by NWSSP. While a formal service level agreement was not entered into until September 2020, the arrangements which that SLA reflected had been in place for some time.
+
+All offers to supply PPE in Wales during the pandemic were considered and assessed in the same way. There was no High Priority Lane. There was a list of critical items for which there was a pressing need, and which therefore needed to be prioritised, but this should not be confused with preferential treatment of any supplier.
+
+The substantial volume of offers received was managed with the assistance of colleagues in the Life Sciences Hub. It was independently verified by the Auditor General for Wales that there was no evidence of preferential treatment in the award of contracts for the supply of PPE and in the case of all the contracts under review, there was a proper audit trail evidencing the decisions which had been reached.
+
+The Audit Wales report found that there had been delays in the issue of contract award notices. NWSSP accepts the importance of transparency in the award of contracts and regrets these delays, which were not deliberate but due to oversight at a time of extreme pressure of work. But the Auditor General found no evidence of any substantive failures in the way in which any contract had been awarded.
+
+NWSSP accepts that there were genuine concerns in Wales, as there were throughout the United Kingdom, expressed by end users about the adequacy and sufficiently of PPE. While it has been confirmed by several witnesses that at no stage did Wales run out of PPE at a national level, that of course does not itself meet the concerns of frontline workers who had difficulty in obtaining it.
+
+The nature of the PPE to be supplied was specified by the IPC cell at UK level and disseminated in Wales by Welsh Government. NWSSP's role was to ensure that the PPE which it procured and supplied was up to standard and compliant with all regulatory requirements.
+
+This Procurement Services did successfully, with the assistance of their colleagues in the Surgical Materials Testing Laboratory.
+
+NWSSP's responsibility as a distributor was to deliver PPE to each hospital's central receipt and distribution point, or in social care, to each local authority's joint equipment store. It did not have responsibility for internal distribution within a hospital, nor for deliveries to individual care homes.
+
+In April 2020, Welsh Government asked the military to review the overall robustness of the supply chain nationally. Its report concluded that while national storage and distribution was fit for purpose, there was a lack of clarity as to what stock was available in forward locations, ie, at the joint equipment stores and within health boards.
+
+NWSSP was not responsible for the procurement of stock held in the PIPP stockpile, but for its storage and distribution. On instruction from Welsh Government, NWSSP distributed PPE from the stockpile, as you have heard, on a push basis, having regard to normal levels of demand, and in the case of local authorities, the size and population of the local area.
+
+Ongoing and accurate assessment of levels of demand proved challenging, and NWSSP enlisted the support of the military, and benefited from the input of Deloitte under an arrangement initiated and funded by Welsh Government.
+
+NWSSP acknowledges the importance of having PPE which fits a diverse health and social care workforce. There were, however, practical difficulties in achieving diversity of supply. Wales, in particular, was heavily reliant throughout on the international market, and had limited, if any, influence on the particular specification of the product.
+
+In the case of FFP3 masks, the supply of any new or alternative products would require each user to undergo further testing for fit, putting additional pressure on health board resources which were already stretched.
+
+Arrangements and systems for the procurement, storage and distribution of PPE in each of the devolved administrations was similar and all held up well under the increased pressures of the pandemic. In each case, on the evidence, there was a body with central responsible for the procurement of PPE staffed by experienced procurement professionals with responsibility in normal times for the procurement of the great majority of the needs of the secondary healthcare sector.
+
+The contrast was between the devolved administrations on the one hand and, on the other, England, where in normal times the system was much more fragmented, with individual trusts being responsible for a much greater proportion of their own procurement, and NHS Supply Chain correspondingly less.
+
+The systems in the devolved administrations were able to scale up to the challenge of the Covid pandemic without significant alteration in a way in which the corresponding systems in England were not. It is acknowledged that one of the reasons for this was the relatively small size of the devolved administrations. This allowed for greater agility in responding to the challenges of the pandemic.
+
+It was described in Mr Brace's evidence as "small-country governance", and Wales certainly benefited from it.
+
+NWSSP and Welsh Government had to respond at short notice to the failure of the UK-wide arrangements for the procurement of PPE in a pandemic by taking on responsibility for the procurement of their own PPE. Following that experience, NWSSP understands that Welsh Government expects it to continue to source, store and distribute PPE on behalf of Wales, rather than reverting to reliance on a central UK supply.
+
+Welsh Government and NWSSP are actively working on the forward plan for this provision to continue.
+
+NWSSP would wish to conclude by putting on record its gratitude for the hard work and commitment demonstrated by its own staff and those of its partners, and remembering the suffering and bereavement endured by so many during the pandemic.
+
+**Lady Hallett**: [microphone muted].
+
+**Mr Byrne**: Thank you, my Lady.
+
+**Lady Hallett**: Sorry, could you not hear me?
+
+Mr Mitchell, sorry, maybe you couldn't hear? Sorry.
+
+**Mr Mitchell**: I think you were perhaps muted there, my Lady.
+
+**Lady Hallett**: Again. Closing statement on behalf of Scottish Ministers
+
+by MR MITCHELL KC
+
+**Mr Mitchell**: My Lady, this the closing statement on behalf of the Scottish Government. I appear today on behalf -- along with junior council, Amelia Mah, and we are instructed by Caroline Beattie and Callum McCue of the Scottish Government Legal Directorate.
+
+In our opening statement we highlighted the keystones of the approach to procurement adopted by the Scottish Government during the pandemic.
+
+We identified those as collaboration, relationships, innovation, and governance.
+
+We said that by pursuing these principles, remarkable outcomes were achieved. Now, as this module closes, we submit that the central tenets were reflected in the evidence. The Scottish Government does acknowledge that at times, particularly in the early days of the pandemic, the system was put under great strain.
+
+A sharper understanding now exists of many issues. For example, as Ms Freeman described in such vivid terms, the importance from the outset of wrapping our arms around all of health and social care.
+
+Undoubtedly there are lessons to be learned. In Scotland, the implementation of many of these lessons has already begun.
+
+In this closing statement, therefore, we remind the Inquiry of the achievements of the Scottish Government and its partners, and we identify some areas that the evidence has shown to be habile to change.
+
+We begin with a brief resumé of the achievements in Scotland. As we have seen in the evidence led, the combined skills of the Scottish Government and NSS were critical. Gordon Beattie of NSS praised the collaborative working of the single-point-of-contact strategic PPE group. This group brought together NSS, health boards, Scottish Government, Scottish Enterprise and others, and in his view was a really useful mechanism.
+
+Mr Cackette noted that the creation of the PPE Directorate allowed NSS to get on with what they were skilled and expert at in delivering.
+
+Ms Freeman explained that the level of expertise within NSS and its longstanding relationships with suppliers and clinical advisers gave Scotland a significant advantage.
+
+The Scottish Government worked effectively with a number of public sector bodies, as well as with Scottish manufacturers to produce PPE. By April of 2021, 88% of PPE by value, excluding gloves, was manufactured in Scotland.
+
+The PPE action plan aimed to ensure that the right PPE of the right quality gets to the people who need it at the right time. In March 2020 the Scottish Government temporarily expanded the remit of NSS to provide PPE to primary care providers and social care settings at a time when they were unable to source increased amounts of PPE from their regular private suppliers.
+
+This was done for social care primarily via a series of localised hubs with the aim thereafter of local distribution. In April 2020, a PPE supply helpline was established by Ms Freeman for health and social care staff, who needed PPE and to which clinical advice entitled them.
+
+As Ms Freeman put it in evidence: she wanted a means by which staff on the front line could raise directly with the Scottish Government issues that they were experiencing whilst on shift. Whilst she and Mr Cackette accepted that response times were initially too slow, within a month those response times had improved considerably.
+
+In accordance with principles of good governance, offers of help received by the Scottish Government were triaged. To be clear, this was a triage of offers, not simply a triage of people. As we said in our opening statement, no concerns of fraudulent conduct arose in relation to procurement or award of contracts. No conflicts of interest by civil servants or ministers were identified.
+
+I turn now to other issues that were raised in evidence, and looking firstly at data. The Scottish Government recognises the importance of comprehensive and reliable data. As Ms Freeman said, the Scottish Government accepted that the quality of data needed to be improved. An inventory management system was discussed early in the pandemic when it became apparent that there was not clear visibility of the level of PPE stock within health boards or across Scotland.
+
+In March 2023 such a system was rolled out across all health boards. The system provides boards with current data on consumable stock levels and will, in due course, provide data on costing and clinical variation. All this will ensure less waste.
+
+In relation to ICU equipment, Ms Lamb noted that there was not systematic visibility on the precise locations and types of equipment being used. However, by September of 2025 a national medical equipment management system will be operational. This will provide national oversight of NHS Scotland's medical equipment inventory, thereby improving patient safety and outcomes.
+
+Turning now to diversification of supply chains. The pandemic demonstrated that just-in-time contracts for PPE were not effective in an emergency situation. They are not currently being considered in Scotland for use in pandemic planning. As the evidence has shown, during the pandemic, the Scottish Government worked very successfully with Scottish Enterprise, NSS and Scottish manufacturing to develop new supply chains and sources of PPE and equipment.
+
+As Mr Beattie described it: this transformed what we were doing.
+
+The urgent need of the country was met and greater self-sufficiency was created.
+
+Since the pandemic, NSS have diversified their supply chains and reduced reliance, where possible, on single production centres.
+
+Under the Scottish Government Future Pandemic Preparedness Programme, a PPE delivery group has been established to provide continuing assurance to ministers that appropriate planning for the provision and distribution of PPE is in place across key sectors.
+
+Further, all NHS boards now hold ICU equipment to support double ICU capacity.
+
+Looking now at the stockpile. It is important to note that while in April 2020, stocks of PPE were low, these were stocks that were held centrally. In other words, PPE was being sent out to health boards as quickly as could be managed. As Ms Freeman confirmed, at no point did Scotland run out of PPE. That said, Ms Lamb recognised that the available stockpile was not big enough to deal with a pandemic of this nature.
+
+To that end, Scotland now has an increased stockpile holding based on a 12-week peak demand level, and plans for rotation of NSS PPE stocks using business-as-usual use and surge capacity.
+
+Ms Lamb said that change implemented a key lesson learned.
+
+Looking now at funding issues. In our opening statement we mentioned the lack of a mechanism to request emergency or additional funding over and above that generated by Barnett. This issue arose following the need early in the pandemic for the Scottish Government to procure PPE and supplies in addition to the limited amounts supplied by the UK Government. Scotland wasn't getting what it needed from the UK Government and so had no choice but to procure its own supplies to protect its frontline workers. As Ms Lamb explained, the balance of risk favoured ensuring that Scotland had the supplies to provide appropriate and adequate PPE to the NHS and beyond.
+
+As the Inquiry has heard, the issue of funding was raised in a joint letter from the devolved administrations' finance ministers of 12 May 2020. Although there was constructive and collaborative working between governments to try to resolve this issue, the Scottish Government had to bear an otherwise unacceptable financial risk while a funding solution was being considered.
+
+In a future emergency situation, a formal mechanism for emergency funding would provide considerably more resilience and allow for a more flexible and proactive approach.
+
+Now turning, finally, to expert evidence and four nations procurement.
+
+Professor Manners-Bell gave evidence as to the desirability of having a control tower overview of the complete UK inventory of PPE and equipment. His evidence also covered the establishment of a structure to allow formal communication between the UK Government and the DAs on PPE. This structure would meet regularly in business-as-usual times to monitor the market and to plan for emergencies.
+
+The Scottish Government certainly recognises the benefit of a shared awareness amongst the four nations of supply stocks. A four nations procurement group was put in place to facilitate engagement on PPE guidance, stocks and supplies, demand modelling, and communication.
+
+The Scottish Government engaged in this process in the spirit of mutual collaboration. It did share information with DHSC, but received little in return, at least prior to the February 2021 and the establishment of the Four Nations PPE Collaborative Protocol.
+
+The government submits that for a structure such as the one recommended by Professor Manners-Bell to be effective and efficient, it would require each of the four nations to attend as equal partners. There would require to be parity of esteem, otherwise, from a Scottish Government perspective, it would not materially improve our ability to respond effectively to a future crisis.
+
+The Scottish Government adheres to its position that it is not persuaded as to the benefits of a four nations body tasked with procurement. We must remember that health and social care in Scotland is devolved, as too is procurement. Thus, innovations or alterations to Scotland's existing procurement system should not be allowed to complicate those arrangements.
+
+The current system draws upon NSS expertise and knowledge of Scottish requirements and is well matched to Scotland's size, population, and the close relationship that exists between the Scottish Government and health boards. Furthermore, as Ms Freeman noted, the current system provides for the necessary democratic accountability.
+
+My Lady, in conclusion, we submit that the evidence in this module, both written and oral, has shown that throughout the pandemic the Scottish Government collaborated, innovated, and forged relationships. It has also learned valuable lessons, many of which have already been translated into positive action.
+
+The Scottish Government would once again wish to pay tribute to all its partners with whom it worked and strove to keep the people of Scotland safe through the provision of essential supplies and equipment.
+
+Before I sit down, my Lady, I would like, on behalf of the Scottish Government, to extend our thanks to the Inquiry for the work that has gone into this module. Those thanks, of course, go to everyone involved, to the legal teams, to the ushers, to witness support, and to RTS, and of course to you, my Lady, for your continued chairing of this Inquiry. Thank you.
+
+**Lady Hallett**: Thank you, Mr Mitchell.
+
+Ms Doherty, I think you're next. Closing statement on behalf of NHS National Services
+
+Scotland by MS DOHERTY KC
+
+**Ms Doherty**: Thank you, my Lady. Yes, I appear on behalf of NHS National Services Scotland, or NSS for short.
+
+Having had the benefit of considering the evidence presented in this module, including that of Gordon Beattie from NSS, I'd like to take this opportunity to focus on two topics arising from the evidence before making short observations and then concluding thanks.
+
+The first topic arising from the evidence that I mention is the effectiveness of National Procurement systems, which are distinct from those of the other three nations in the UK. As the Inquiry has heard, National Procurement has its own processes and systems in relation to procurement of healthcare-related equipment and supplies in calls. Health has always been a devolved matter. National Procurement's processes and systems are appropriate for the structures and needs of the NHS in Scotland.
+
+By the time of the pandemic, National Procurement already had an established core procurement team. Many of its members had been recruited in the early 2000s so had many years of experience working in the NHS and therefore had established networks across the NHS in Scotland and with key suppliers.
+
+When the UK Government's just-in-time strategy for the UK PIPP stockpile failed due to the collapse of the international supply chain, National Procurement required rapidly to take steps to procure supplies to meet the needs of frontline services, care services, and unpaid carers in Scotland. It used its existing arrangements and processes for procurement with some adaptations.
+
+It did not create a High Priority Lane for offers of supply of PPE and other key equipment. Instead, it was mostly able to rely on established contacts with key suppliers who were contacted to establish product availability within core categories of required PPE.
+
+In addition, between 17 April and 19 June 2020, it operated an online supplier portal to receive and manage the surge in offers to supply products. The Scottish Government led on modelling to determine what supplies were needed and in what quantities, which National Procurement then sought to procure.
+
+Importantly, National Procurement sought to secure supply lines going forward for an indeterminate period of time, not just to buy items as a one-off, given the uncertainty as to the potential duration of the pandemic.
+
+Objectively, my Lady, the evidence, including expert evidence, supports that National Procurement's systems during the pandemic were effective, the necessary supplies were procured and distributed.
+
+The evidence also supports that there was collaboration by Scotland with the other three nations in order to support mutual aid and to ensure that actions in Scotland did not have a detrimental effect on the supplies of PPE elsewhere in the UK.
+
+The second topic arising from the evidence that I want to mention is the evidence of the level of PPE in Scotland during the pandemic. As has been confirmed by Audit Scotland, at no point during the pandemic did the NHS in Scotland run out of its national stock of PPE or other key healthcare equipment or supplies. National Procurement always had replacement stock coming in before its stock levels reached zero.
+
+Despite having clear oversight of national stock levels, at the start of the pandemic National Procurement did not have oversight of local department or ward levels of stock. In response to this situation, a regular stock count was introduced in hospitals, and this was followed by the introduction of a national inventory management system across the Scottish Health Boards which helped to ensure that the right stock was in the right place at the right time and that it was being distributed fairly.
+
+Turning now to some observations. Given the evidence presented in this module, the following three matters are important to note going forward: first, the just-in-time strategy whereby around eight weeks' worth of UK pandemic stockpile was maintained, which was expected to allow sufficient time to buy replaced stock simply does not work in a pandemic. Such a strategy is vulnerable to a sudden supply chain collapse, for example, when countries close their borders.
+
+Secondly, there is inevitably a cost associated with maintaining a large stockpile of PPE and/or maintaining manufacturing capacity in the UK only required in the event of a pandemic. However, such maintenance is the country's insurance policy and like an insurance policy, if you do not pay the premium, you do not benefit from the insurance.
+
+Thirdly, collaborative work should continue across the four nations on an equal partner status to share best practice and to develop innovative solutions.
+
+Finally, some concluding remarks, my Lady. National Procurement's priority during the pandemic was to protect frontline services, staff, carers, patients and residents across health and social care. In my submission, the evidence shows that National Procurement systems and processes operated effectively to do so.
+
+NSS wishes to take this opportunity to acknowledge that those working in procurement during the pandemic were working very hard, over long hours, for extended periods of time, under enormous pressure. These individuals, like everyone else, were also suffering personally from the pandemic and its consequences.
+
+In addition, most of them worked, and continue to work, closely with frontline NHS staff. As a result, they fully understood what was being faced and what was needed in order to help to protect services and save lives.
+
+NSS is very grateful to them for their crucial role at such an important time.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Ms Doherty.
+
+Ms Idelbi. Closing statement on behalf of the United Kingdom Health
+
+Security Agency by MS IDELBI
+
+**Ms Idelbi**: Your Ladyship will recall that the opening statement on behalf of the United Kingdom Health Security Agency, or the UKHSA as I will refer to the agency, referred to three areas to take into account that are important for making recommendations for the future.
+
+Taking them in a slightly different order today, they are transparency, partnerships, and capable commercial systems.
+
+UKHSA's written evidence details the extensive work that has been done and is being done to take forward the lessons from the pandemic in relation to procurement.
+
+The lessons cut across modules because, as everybody in this module will appreciate, the commercial cannot be separated from the science. And in acknowledging that the two are intertwined, my Lady will recognise that future commercial systems will need to be as adaptable as the science of a future pandemic requires them to be.
+
+As both your Ladyship and UKHSA have acknowledged, they need to be pathogen agnostic.
+
+The practical consequence of not knowing what the characteristics of the next pathogen is, how it might be transmitted, how infectious it might prove, is that the procurement needs of the next pandemic may well be very different.
+
+And it is for that reason why, when looking to the future, and in examining what equipment, tests and measures worked well for Covid-19, we all must avoid creating the risk that your Ladyship identified in Module 1: that is, a failure to consider a wider range of public health scenarios.
+
+For UKHSA, the need to avoid that risk means adopting systems and processes in peacetime that would allow it to be better placed to procure diagnostics and tests that may be needed for pathogen X.
+
+During the course of this module, your Ladyship has asked witnesses about practical, cost-effective recommendations, bearing in mind the difficult funding decisions that will need to be made by the government in relation to the allocation of resources. That links to a factor that UKHSA has drawn to your Ladyship's attention before: risk appetites changing.
+
+By reference to those three themes we mention, UKHSA want today to make the following observations, which we will develop in our written closing statement.
+
+Firstly, on transparency. In his opening statement, Counsel to the Inquiry observed that the starting point is that the public has a right to know how their money was spent. And that is true regardless of whether the country is in the midst of a pandemic or not.
+
+It was explored with commercial officials whether they had treated transparency requirements as dispensable during the pandemic. That was not their evidence, but they did accept that the priority was to procure.
+
+Of course, transparency in the commercial process is vital, and the observations we make today is not intended to dilute that point, but if, at the end of the process, you have nothing to show for it, is that a better alternative?
+
+If the objective is for the public to know how their money is spent, shouldn't the key question be: how can we make that information more accessible to the public?
+
+Your Ladyship will have heard in Module 4 the work that UKHSA has done to make information accessible around its services concerning vaccines, and in Module 7 my Lady will hear about the time and energy that was put in to making information about testing and tracing services more accessible to the public.
+
+But in Module 5 the accessibility of procurement information and the transparency of the commercial pipeline is, as it necessarily must be, a cross-government initiative.
+
+We drew attention to the practical benefits of the Procurement Act and so highlight, as a consequence of the Act, the Cabinet Office has unified two separate digital platforms into a single site which makes procurement notices and related public procurement data accessible to anyone.
+
+The information to be published on the platform is more wide-ranging than that required under the 2015 regulations. The data will be published in line with the Open Contracting Data Standard. That means data should be correctly attributed to specific parties, processes, contracting authorities, suppliers, procurements and contracts. Information associated with the procurement will be linked together, and that facilitates tracking and analysis of procurements.
+
+My Lady, the importance of this step should not be ignored. It enhances public understanding and scrutiny, and so accountability. It allows for the public to themselves answer the question: how is our money being spent?
+
+And it does so without the need for a new quango.
+
+We have already highlighted the importance of transparency in relationships between government departments and with suppliers, so we would emphasise the following points. Firstly, your Ladyship heard evidence about the speed at which spending approvals had to be sought, the specifics of which UKHSA will deal with in its written closing. But looking forward, in the event of a future pandemic, UKHSA would welcome a cross-government agreement for the creation of adaptable blueprints on how to run emergency spending approvals, particularly involving high, large sums.
+
+Those blueprints should include clear lines of accountability, so for example, ministers will know how and when to approach their peers for information, rather than going direct to other departments, non-ministerial executives, or civil servants, however senior.
+
+They should include plans for the establishment of investment or approvals boards, or processes that may need to be set up again. The scope and membership of such boards should be settled in advance, including the standing expertise from the Treasury and the Cabinet Office.
+
+Second, with suppliers. Professor Sanchez-Graells appeared to advocate for an approach where, in a pandemic, the contracting authority goes out to market with their maximum price and specific technical requirements and says, "Whoever can meet this will get a contract."
+
+Anyone who has had to negotiate a plea or a settlement in a Robing Room may well raise their eyebrows at starting with your final offer, but even if that approach is the right one in a pandemic for established products, the unique challenge in tests was, and continues to be, you cannot publish specifications for something that does not exist.
+
+Transparency is better met by having a clear front door, a step that UKHSA has already embarked on. What does that offer? It provides a single point of entry to the commercial process where suppliers are aware of the categories or types of products that they may be asked to provide, and that in turn requires the development of scientific and commercial partnerships, which brings me on to the next theme.
+
+In making recommendations, my Lady will have to grapple with the obvious tension in the evidence that your Ladyship has heard. On the one hand, your Ladyship has heard extensive questioning about the flaws of pre-existing relationships. But on the other hand, your Ladyship has heard extensive evidence from commercial professionals across the public sector and, critically, from Professor Manners-Bell about the need for deep strategic relationships with suppliers to maintain supply chain resilience.
+
+Recommendations must find the middle ground, and in considering such middle ground it is beneficial to consider the reasons why the High Court concluded the operation of the PPE High Priority Lane was unlawful.
+
+The flaw in that prioritisation system was not simply to do with the names of the email inboxes, the flaw was that the decisions on whether a supplier should be prioritised, and so benefit from a faster process to technical evaluation, included a freestanding criterion related solely to the referrer.
+
+In questioning, Counsel to the Inquiry relied on UKHSA's own review, which showed that the largest sums in testing were awarded to a supplier connected to the priority named testing inboxes by one email through Dominic Cummings at Number 10 in July 2020.
+
+That point needs to be put in context. Exhibited documents from that review, which the Inquiry will no doubt review again, show that the supplier's agent had been in touch with the Testing Commercial Team since March 2020. They had already put a different test through validation, which failed, in April 2020, and that, at different points when testing products for the lateral flow devices were awarded to them, they had, one, passed technical validation which was not a documentary exercise, but, as explained in UKHSA's science and technical statement, an in-depth multiphased valuation process undertaken by PHE.
+
+Two, they were the first to offer boxes of tests in threes, sevens, and 25s, which offered flexibility.
+
+Three, they had the capacity to provide the amounts sought.
+
+And finally, as my Lady will see in our written closing, that the timing of the contracts tracked the shifts in policy position and discovery of variants.
+
+Again, the unique challenges in the procurement of tests included the absence of Covid-19 tests at the outset of the pandemic. And so, in that scenario, not only are you trying to acquire, you are trying to find, and to find a test that works that can meet the objectives of speed and quality, one must test everything scientifically viable. An open approach is necessary to create a competitive market that can eventually drive towards the objectives on cost.
+
+Creating market for tests in respect of pathogen X will have some degree of scientific uncertainty again. To be better prepared for the next pandemic, it is important to know the market, maintain it, and keep it warm.
+
+As you heave heard from various witnesses in this module, and indeed in Module 4, it is far more challenging to build from scratch, but from the same witnesses in this module, you have heard it is expensive to do so standing face-to-face with that difficult decision on funding priorities.
+
+How has UKHSA confronted that challenge so far? My Lady has already heard about the Vaccine Development Evaluation Centre in Module 4, and from Ms Collins' evidence the establishment of the diagnostics accelerator.
+
+Your Ladyship also heard from Ms Collins that UKHSA are developing a new microbiology framework and diagnostics research framework updating the previous microbiology framework that had to be revisited during the pandemic. It is also developing a partnership framework for strategic relationship management, but strong relationship management needs good quality commercial professionals, leading us to the last theme: capable commercial systems.
+
+Hopefully what your Ladyship has seen through the exploration of issues in this module is that the Civil Service commercial workforce who served through the pandemic were a group of committed and well-trained individuals, who acted from the best motives, often while confronting the very human impact of the virus that they were experiencing in respect of their own loved ones.
+
+For specialist sectors such as diagnostics, one needs a commercial workforce that understands the markets and innovations. The realised benefit in creating UKHSA has been the close ongoing working relationship between the commercial professionals and the science and technical experts.
+
+But the challenge in the pandemic is: how do you get 50 of each of them? Or put another way, given the inevitable need to surge your workforce, can you create a reservist Civil Service? Even with the Complex Transactions Team, the government's commercial consultancy service, more commercial professionals were needed to procure at scale and speed.
+
+The Government Commercial Organisation allocated commercial professionals to the testing commercial work but those moves were based on individual choice, leaving NHS Test and Trace reliant on external professionals, and as your Ladyship heard, partway through the first year of the pandemic, other departments asked for their commercial professionals back from NHS Test and Trace.
+
+We highlighted in our oral opening that planning for a surge workforce is not a straightforward exercise. So in the meantime, and bearing in mind your Ladyship's questions about practical cost-effective recommendations for the future, UKHSA would invite consideration of this proposal: that an agreement be established by the Government Commercial Organisation whereby, in the event of an emergency, an appropriate mandatory allocation of workforce resource will be diverted to provide additional support to the procurement of diagnostics and medical countermeasures. Such can be implemented while difficult decisions on a surge workforce are taken by the elected decision makers.
+
+My Lady, that concludes the closing submissions on behalf of UKHSA.
+
+**Lady Hallett**: Thank you very much indeed, Ms Idelbi.
+
+Mr Stanton. Closing statement on behalf of the British Medical
+
+Association by MR STANTON
+
+**Mr Stanton**: Thank you, my Lady.
+
+My Lady, the BMA views the procurement and distribution failings during the pandemic in two parts: first, woefully inadequate preparation, and second, a lack of timely action in the early months of 2020 compounded by a series of flawed and ill-judged decisions.
+
+Starting with preparations. The PPE stockpile was not fit for purpose. The quantities of stock were far too low, and it needed far more than just a few weeks of supply to have mitigated the inevitable supply chain disruptions. The blinkered focus on an influenza pandemic was another serious flaw which resulted in a stockpile seriously deficient in respiratory protective equipment.
+
+A further flaw was that the stockpile had not been properly maintained. Large numbers of items had either expired, or the expiry date was unknown. In Wales, for example, a shocking 90% of FFP3 respirators in the stockpile were out of date.
+
+Health and social care staff across the UK were provided with PPE bearing multiple expiry date stickers which, exacerbated by a lack of communication, completely undermined trust and confidence.
+
+To have relied upon such a small, inadequate, and poorly maintained stockpile based on a contingency of just-in-time overseas supply was utterly ludicrous. It was entirely predictable that supply chains would be disrupted in the event of a global pandemic and that this disruption could last for months, not weeks.
+
+Three key mitigations would have been: a larger and more diverse stockpile, the ability to stand up domestic manufacturing capability, and stronger direct links with overseas manufacturers rather than relying on contracts with distributors, which quickly collapsed.
+
+Other failings of preparedness beyond the PPE stockpile include: ventilator shortages -- the UK had far fewer ventilators compared to other countries, a limited understanding of the number of ventilators we had available, and no existing domestic manufacturing. In the first wave of the pandemic, staff and patients did not have access to the ventilators they needed. Localised shortages meant that anaesthesia machines, which are only designed to be used for a few hours at a time, were repurposed and substituted for ventilators.
+
+And as described by Professor Moonesinghe, this would have potentially impacted the quality of patient care. And Lord Agnew explained that ventilator availability played a role in whether ambulances could be sent to certain hospitals. In addition to impacting patient care, these ventilator shortages also caused additional stress, anxiety, and moral injury for staff.
+
+Another example is the lack of an inventory system that recorded PPE and equipment meant that it was not known what each NHS Trust or board held, let alone other healthcare settings such as primary, community, or social care.
+
+And as a final example, a supply chain that was unfit for purpose, with warehouses designed to hold only three weeks' worth of stock and no plan at all to distribute items to the 58,000 primary, community and social care settings in England alone that were relying on this life-saving equipment.
+
+Moving to the lack of action in the early months of 2020. Despite knowing about the threat of Covid-19 since late December 2019, it was not until early March that it was accepted that the just-in-time contracts would fail, and that the NHS Supply Chain would not be able to cope with the demand for PPE, leading to a desperate scramble to set up an entirely new PPE procurement and distribution system, whilst simultaneously trying to acquire and distribute PPE and respond to the avalanche of offers that resulted from the PPE call to arms.
+
+In the words of Andy Wood of the Cabinet Office, "We had to build the aeroplane as we were flying it."
+
+The Inquiry has heard that the additional procurement staff needed for the new system were not put in place until around 21 March 2020, just two days before the UK entered lockdown. As described by Sir Gareth Rhys Williams, this initial lack of procurement workforce led to the substantial backlogs, and a few hundred offers of PPE were left sitting unprocessed for a couple of weeks.
+
+For the healthcare staff facing a potentially deadly virus without any protection, particularly in the early months, it is painful to think what difference these unprocessed offers may have made.
+
+Similarly, no proper data management systems for managing PPE offers were set up until 9 April 2020, prior to which staff struggled with an Excel spreadsheet containing nearly 1.4 million pieces of data, which did not have the functionality needed for staff to be able to effectively prioritise and manage the offers they were receiving.
+
+Alongside the lack of timely action, there were a number of seriously flawed decisions, and for present purposes, we focus on just two.
+
+First, the High Priority Lane. It undoubtedly created the perception among both the public and healthcare workers alike that ministerial contacts were receiving preferential treatment at the expense of other potential suppliers. And it has caused significant damage to trust in public procurement processes.
+
+This concern was entirely predictable and avoidable, and will, the BMA suggests, be a key area for future learning.
+
+Another consequence of this perceived bias is that it has detracted from the tremendous contribution of the many civil servants who were working 16-18-hour days to procure PPE for frontline healthcare workers.
+
+The second area of flawed decision making is the restrictions on the use of respiratory protective equipment because of a lack of supply rather than for reasons of safety.
+
+This is supplied within the DHSC's own PPE supply and demand report as a measure to "reduce demand with policy".
+
+Within disclosed email correspondence and meeting minutes there is clear evidence that senior decision makers knew in January and February 2020 that the stockpile was lacking in FFP3 respirators, that there would be a worldwide shortage, with no means of procuring sufficient numbers for many months, and that fluid-resistant surgical masks would not protect healthcare workers against an airborne virus.
+
+For example, emails sent during this period by Professor Jonathan Van-Tam and Dr Lisa Ritchie demonstrate awareness that, in the context of FFP3 shortages, staff access to this vital equipment would need to be managed.
+
+What should have happened at this point was for senior decision makers to have had the courage to candidly explain to healthcare workers that the country simply did not have sufficient quantities of this equipment, that equipment would be rationed to the highest-risk settings and procedures, and that everything possible was being done to procure adequate supplies.
+
+As Mr Mortimer, of the NHS Confederation, told the Inquiry last week: healthcare workers "appreciate the truth and would have been, and would still be, much more accepting of a truthful approach".
+
+A view that was also strongly expressed by Dr Parry-Jones of CATA in his Module 3 evidence.
+
+Instead, healthcare workers were subjected to the following irrational decisions: first, FFP3 ordering restrictions placed on NHS trusts in February 2020 which inexplicably limited orders to the preceding 12 months business-as-usual demand, despite being on the cusp of a global pandemic.
+
+Second, PPE demand modelling based on "real usage" of PPE.
+
+This was illogical, given the known acute shortages of PPE and, as the oral evidence of Rosemary Gallagher identified, the fact that staff were very sparing in their use of PPE because they did not want to run down stocks for colleagues; all of which meant that "real usage" was not an appropriate measure against which to procure.
+
+And third, changes to the IPC guidance produced by the four-nation IPC cell on 13 March 2020 at the height of concerns about FFP3 shortages, which limited their use to ICU settings and aerosol-generating procedures only.
+
+This was six days before NERVTAG declassified Covid-19 as a high consequence infectious disease on 19 March 2020, and it meant that a healthcare worker providing close care contact to a Covid-19 patient was only provided with a flimsy surgical mask rather than an FFP3 respirator.
+
+This was in no way a decision that protected staff and patients, but was the rationing and demand management of essential safety equipment because of shortages, as set out in the DHSC's PPE supply and demand report at INQ000339131.
+
+The failure to honestly and openly explain the nature of the problem had two profound consequences: first, those responsible for procurement did so based on false and suppressed demand, which incredibly led to a stop order of further FFP3 on 30 June 2020, whereas all that had been procured at this stage was sufficient FFP3 supply for ICU settings, not more general settings.
+
+Second, healthcare workers knew that they were being let down, that they were not being properly protected, and that decision makers were not being open and honest with them. This has caused a serious breach of trust and confidence which is ongoing and will not be resolved until there is an acknowledgement of the truth and a change to the IPC guidance which, to this day, continues inappropriately to only recommend surgical masks for staff treating Covid-19, not the FFP3 needed to protect against an airborne virus.
+
+Turning to impacts on staff and patients. Healthcare workers described living in constant fear for their own lives, and the lives at of their patients, colleagues, and loved ones. As one doctor told the BMA: "I felt that my personal health and my life and the health of my family didn't matter to anyone."
+
+Access to PPE varied widely between healthcare settings and the focus on secondary care meant that primary, community and social care faced particular challenges in keeping the staff and patients safe, especially in the early stages of the pandemic.
+
+As a result of a lack of protection, large numbers of staff and patients were infected with Covid-19. Significant numbers developed Long Covid and continue to experience the effects on their personal and professional lives.
+
+A consultant told the BMA that: "I contracted Covid-19 in my workplace due to a lack of appropriate PPE. As a result, I have suffered Long Covid and following relapse, have not been able to work for five months. This has been devastating to lose my ability to work in a job that I love."
+
+Similarly, in Module 3, the Inquiry heard from Nicola Ritchie, a physiotherapist who requested to use FFP3 while providing Covid care but was denied this protection based on the IPC guidance. Ms Ritchie developed Long Covid, continues to experience poor health, and is unable to resume her career.
+
+Tragically, many staff who did not have access to PPE or the right PPE, died, and there have also been a significant number of deaths from nosocomial infections.
+
+In respect of equalities issues, female and ethnic minority staff experienced disproportionate difficulties in accessing well-fitting respiratory protection. Some witnesses have suggested that this problem was not known prior to the pandemic. However, guidance from the Health and Safety Executive published in 2013 highlighted that one size of respiratory protection will not fit all shapes and sizes and that differences will be more significant along the lines of gender and ethnicity.
+
+It is important to stress that this is not simply a preference for a specific mask, rather, a properly-fitting respirator saves lives and is fundamental to safety.
+
+The Inquiry's Module 1 report concluded that pandemic planning did not properly consider inequalities and had too narrow a view of vulnerability. The lack of diverse PPE procurement is a glaring example of this failure.
+
+My Lady, the BMA highlights the following recommendations: first and fundamentally, the UK's pandemic preparedness needs to take a precautionary approach to the use of PPE and other equipment, and this includes having a much larger stockpile of PPE with a wider range of items suitable for a broad range of pathogens. It needs to be properly maintained, its contents need to reflect the diversity of the workforce, and there needs to a plan to swiftly distribute key equipment to all health and care settings.
+
+Second, there needs to be a fundamental change to the UK's reliance on just-in-time contracts. This includes stronger links with manufacturers in a diverse range of countries as well as domestic manufacturing capability.
+
+Third, there needs to be improvement in the information available to decision makers during a crisis, most obviously with inventory and management systems.
+
+Fourth, product specifications and procurement processes need to incorporate frontline, clinical and end user input from the outset.
+
+Fifth, steps must be taken to ensure that in a future pandemic, healthcare staff have access to the vital equipment they need to protect lives. This includes ensuring reliable oxygen supplies through upgrades to hospital estates, as well as ensuring sufficient ventilator supply, alongside the beds and staff capacity needed to support their use in a pandemic.
+
+And sixth and finally, to reinforce the need for transparency and honesty. Trust has been severely damaged by failings in PPE provision, by the IPC guidance being used as a tool to ration access to PPE, and by perceptions of preferential treatment through the High Priority Lane, and there is an urgent need to restore it.
+
+My Lady, that is the closing statements of the BMA. This is the last module in which the BMA is a Core Participant and it is grateful to have been given the opportunity to participate. Thank you.
+
+**Lady Hallett**: [Microphone muted]
+
+Sorry, again, I didn't unmute myself.
+
+I have been grateful to the BMA for all the help they've been giving. Thank you, Mr Stanton.
+
+I think last but not least, Mr Hayman. Closing statement on behalf of the UK Anti-Corruption
+
+Coalition by MR HAYMAN
+
+**Mr Hayman**: My Lady. Thank you so much for allowing the UK Anti-Corruption Coalition to make this closing statement. We wanted to reflect on some of the keys things we have learned over the last few weeks of hearings. Before I share those, I would like to refer to the moving statement from Professor Fong, a doctor at University of College NHS Trust in London in an earlier module of the Inquiry. He said: "... things got so bad, they were so short of resources, they ran out of body bags and they were instead issued with 9-foot clear plastic sacks and cable ties, and ... nurses talk about being really traumatised by that because they had recurring nightmares of feeling like they were just throwing bodies away." This is a graphic figure example of human impact of procurement failures during the pandemic. It seems neither the living nor the dead were fully protected from the past government's poor emergency procurement practices.
+
+Now, as UKACC, we have provided the Inquiry with detailed data-driven analysis of our key concerns over that poor purchasing and how it wasted huge amounts of public money, how it distracted attention from more credible suppliers and, even more importantly, how it risked lives by purchasing defective items.
+
+Former Secretary of State Matt Hancock dismissed many of the counsel's questions in this module about his procurement decisions, saying they were naive because you had to be there.
+
+Well, we were there. My organisation, the Open Contracting Partnership, was directly involved in helping other countries with their pandemic procurement, and there were so many better emergency procurement strategies the UK should have used but didn't. Something Professor Sanchez-Graells also points out in his expert report to the Inquiry.
+
+Listening to witnesses during the module, I didn't hear anyone say there was a considered emergency procurement strategy at all. As Lord Agnew reflected, "We were rabbits in the headlights", and that he was a platoon commander defending Dunkirk but it was a military disaster.
+
+We heard how the unfocused, even amateurish, call to arms by politicians overwhelmed the system and sourcing of PPE. Rather than setting out clear specifications based on "This is what we need", with an orderly, structured, qualification process -- as someone said, a clear front door -- and setting out open frameworks for PPE procurement, which companies could then present their credentials and get, kind of, certified supplier, as many other countries did, the UK took a "What have you got?" approach, based around prioritising political referrals. Who you knew mattered much more than what you knew and what suppliers you had.
+
+And as we heard, you were over ten times more likely to get a deal if you made the VIP Lane.
+
+Dawn Matthias-Jackson, a PPE caseworker seconded from the Department of Education, said in an email disclosed to the Inquiry:
+
+"Some days I feel like I am in a looney bin.
+
+"I was promoted yesterday to the VIP Supplier Team, basically allocated to dealing with suppliers who feel it is important for them to contact Boris, Matt Hancock, Gove, Gareth & other Minister[s] ... directly. So now I'm basically jumping through hoops to get quick responses to them before they complain that we are not taking it seriously. Only one so far has proved [of] any use."
+
+We heard some senior ex-politicians double down on their evidence that they were somehow inevitably going to come across the best offers, but really, no evidence of that has been shown during the hearings. Indeed, as UKACC, we shared evidence with the Inquiry that VIP Lane deals actually had a higher failure rate than other sources.
+
+You can't have it both ways. If you care about PPE and savings lives, you need a professional, structured process that delivers results, not hugely risky contracts with untested suppliers.
+
+Was it really the best we could do to order mission-critical PPE contracts worth over £1 billion in total to companies specialising in lingerie, drinking straws, beauty and fashion accessories, confectionery, investment management, and HR consulting?
+
+We also heard that VIP Lane suppliers were, on average, paid 80% more per unit than other suppliers, and some contracts were agreed at more than four times the average price.
+
+"We will help you find less reliable companies who will charge you a lot more money" is hardly an effective mechanism for prioritising PPE sources and saving lives during a pandemic.
+
+And this approach of large, risky, direct awards went on way past the initial stage of the pandemic. As Lord Agnew acknowledged in his testimony, "there were too many direct awards" and that "We took too long to pivot to competitive tenders once the initial panic subsided".
+
+Lord Agnew told us about the runaway ordering and the lack of any inventory management by the Department of Health especially. He said it was over-ordering by order of magnitude because we didn't have the data, and that we had not got a clue what we had when we were ordering more.
+
+I note Matt Hancock dismissed our data, as UKACC, in this regard, that showed how the UK used more direct awards for larger amounts of money for longer than its European peers. He said our charts were meaningless because the UK had a different medical system from other European countries. But he is wrong. The data is comparative and the charts are meaningful.
+
+We've shared a detailed rebuttal with the Inquiry of his assertions, but NHS tenders in the categories of medical equipment relative -- relevant to PPE, are published across Europe relatively consistently.
+
+In 2019, the UK was about 15% of European GDP and, indeed, it accounted for about 14% of the total value of published tenders across Europe in those PPE categories we shared our analysis with you on.
+
+Then, in 2020, such was the scale of its buying, the UK shoots up to be over 65% of the total awards in those categories across Europe, worth about, the UK spending, about 28 billion euros in regards to those categories.
+
+Let me also set the record straight on one other thing Matt Hancock said under oath. He said the government got into trouble in what he describes as "a ludicrous court case" because a few contract award notices were late by a couple of weeks.
+
+I assume he is referring to the case of the Good Law Project and three opposition MPs won in the High Court. To my mind, the case was far from ludicrous because it involved publishing timely contract award information at a time when information on who had stocks of Covid PPE is absolutely vital to help buyers and suppliers connect in a disrupted marketplace.
+
+If your objective is to save lives, you should be prioritising publishing that information to help buyers and suppliers connect, not delaying it or treating it as an inconsequential afterthought.
+
+Other countries openly shared buyers lists of qualified suppliers whereas it appeared the UK hindered that response and didn't share vital information.
+
+Our own analysis of the UK Government's published procurement data shows the average PPE contract award notice was published over 100 days later, I repeat 100 days later, than all other contract award notices at the time.
+
+It takes about ten minutes to publish these notices, and we've said how useful they are for buyers and suppliers connecting, so why were they published so much later than everything else, especially if the priority was to save lives?
+
+We're still not sure we've got to the bottom of all those VIP contracts themselves. It appears that the evidence to the Inquiry on VIP Lane suppliers from the Department of Health conflicts with that of Clare Gibbs and Gareth Rhys Williams of the Cabinet Office. The Cabinet Office evidence appears to admit 20 other suppliers who received 48 contracts worth about a billion pounds in total that are recorded in the Department of Health evidence.
+
+I'm not sure who is right and who is wrong, but it's bad we still don't know for sure five years later. Hopefully, my Lady, you will get to the bottom of it.
+
+Finally, we heard about the updated technology being used to coordinate procurement. Excel spreadsheets, SurveyMonkey, and a basic email address, as opposed to digital tools available to other governments such as e-procurement systems, structured digital workflows for contracting and for qualifying offers, and realtime data dashboards.
+
+If, say, Colombia, Ecuador, Lithuania, Moldova, and Ukraine can build public data dashboards, why couldn't the UK? These primitive tools compounded the challenge of triaging 25,000 offers from 15,000 companies that gave birth to the VIP Lane.
+
+The good news is that with the new Procurement Act and its Open Contracting Data Standard provisions, we will be in a much better situation to do this in the future, assuming the government departments publish their contracts accurately and on time.
+
+Let me close on our recommendations to the Inquiry. First, there should be a comprehensive emergency procurement strategy for a UK-wide disaster drawn up, including planning for cross-government coordination, how to surge staffing, centralised purchasing, and with clear leadership and accountability.
+
+Other countries drew up proactive framework agreements to scale domestic production and deliver critical items in advance of an emergency, like, say, Chile does for earthquakes. Maybe that's something the UK should also consider.
+
+Second, you should make a strong recommendation for the adoption of modern digital e-procurement tools that work for those across UK procurements, supported by daft, AI, and digitisation, especially the Department of Health, and for any organisation that would be responsible for coordination emergency procurement.
+
+My organisation has seen the value of such tools in our work supporting Ukraine's reconstruction, and I think it would be transformational for UK procurement and emergency responses too.
+
+Third, the Inquiry should conduct a comprehensive review of the scale and outcomes from the VIP Lane. It's essential to investigate whether prioritisation granted by the Lane distracted attention from more established PPE suppliers who were working through standard channels, and it's also essential to establish why VIP contracts had a higher failure rate and higher prices than other routes.
+
+Based on that analysis, we suspect the Inquiry would want to make strong recommendations against any future VIP Lane in government, and support new guidance on the roles of ministers and political referrals in public procurement, both in normal times and during an emergency.
+
+And I would add, simply declaring a conflict of interest is not enough to mitigate it, as some senior politicians seemed to suggest to the Inquiry.
+
+Next, I think the Inquiry should examine the decision-making process and apparent lack of coordination in inventory management centered around the Department of Health that led to the massive PPE over-ordering and resultant issues with storage, waste, and disposal on a huge scale.
+
+And lastly, the Inquiry should recommend full and proper resourcing of the Covid anti-fraud commissioner's office, to get back some of the huge amounts of wasted money. It's not a three-days-a-week short-term contract job, in our opinion.
+
+Again, we thank you very much for allowing us to contribute. We look forward to your findings, restoring public confidence in government procurement especially in times of crisis.
+
+The memory of those who suffered during the pandemic and the bereaved families demand nothing less than a comprehensive and truthful accounting of these events and for recommendations of this Inquiry to be swiftly adopted by the government.
+
+Thank you very much, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Mr Hayman. Very grateful.
+
+That, I think, completes the evidence and the closing submissions for this module.
+
+Mr Wald, I think I'm right? Nothing else?
+
+**Mr Wald**: My Lady, I think that's right.
+
+**Lady Hallett**: Thank you.
+
+Just to confirm, I know everybody present understands this but I shall obviously be considering the written closing submissions very carefully with the assistance of you and the rest of the team. It's not just the oral submissions, in case people misunderstand the position.
+
+So thank you all very much indeed. Work will now begin in earnest on the report for M5. I hope it will be published next summer. If we can do it sooner, we shall. But this year is an extremely busy year. We have four more sets of hearings, plus the preparation of reports for all the sets of hearings that have finished. So that means reports -- work going on on reports for M2, 2A, 2B, 2C, and a report for M3 and a report for M4 and, of course, now, a report for M5.
+
+I'm extremely grateful to everyone who has helped us complete this module on time. It hasn't been easy, I know that. Most modules have problems but I think
+
+this module has had more problems than most and I'm --
+
+without the assistance of everybody, the material
+
+providers, the witnesses, the Core Participants, their
+
+representatives, and of course my wonderful Inquiry
+
+team, it wouldn't have been possible.
+
+I know that I set what I'm told is called
+
+a demanding or challenging timetable, some could argue
+
+it might be more accurately described as a punishing
+
+timetable, but may I repeat why we have that timetable.
+
+I'm sorry if I've said it before, but it has to be said:
+
+we must complete this Inquiry before some memories fade
+
+if we are to achieve our mutual aim of learning lessons,
+
+saving lives, and reducing the huge cost to society, the
+
+economy, and future generations, of the Covid-19
+
+pandemic.
+
+So thank you all very much. The next evidential
+
+hearing will be on 12 May. Goodbye.
+
+*(3.07 pm)*
+
+*(Module 5 concluded)*
+
