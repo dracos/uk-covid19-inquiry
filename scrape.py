@@ -47,7 +47,7 @@ def fetch_hearing_page(item):
     if title == 'INQ000320588 - Witness statement of Lesley Fraser, Director General Corporate, dated 23/10/2023.':
         return
 
-    filename_pdf = f'data/{date}-{title}.pdf'
+    filename_pdf = f'data/{date}-{title.replace("/","-")}.pdf'
     filename_txt = filename_pdf.replace('.pdf', '.txt')
     filename_out = filename_pdf.replace('.pdf', '.scraped.txt')
     if os.path.exists(filename_out):
