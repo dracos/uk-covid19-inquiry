@@ -1,0 +1,3186 @@
+ 1                                                       Thursday, 1 February 2024
+ 2           (9.59 am)
+ 3           LADY HALLETT: Mr Dawson.
+ 4           MR DAWSON: Good morning, my Lady.
+ 5                      This morning's witness is the Right Honourable
+ 6                  Alister Jack DL MP.
+ 7                                     MR ALISTER JACK (sworn)
+ 8                Questions from LEAD COUNSEL TO THE INQUIRY for MODULE 2A
+ 9           MR DAWSON: You are Alister Jack?
+10          A.     Yes.
+11          Q. You've helpfully provided a witness statement to
+12                 the Inquiry under reference INQ000360600. It's dated
+13                 29 November 2023. Is that your witness statement?
+14          A.     Yes.
+15          Q. Have you signed it?
+16          A.     Yes.
+17          Q. Do the contents of that statement remain true and
+18                 accurate as at today's date?
+19          A.     Yes.
+20          Q. The Office of the Secretary of State for Scotland also
+21                 provided a further statement to the Inquiry under the
+22                 name of Laurence Rockey, who is the director of the
+23                 Office of the Secretary of State for Scotland. It was
+24                 dated 4 August 2023 and is under reference INQ000232507.
+25                 Are you familiar with the contents of this statement?
+    1
+
+ 1             A.   Yes.
+ 2             Q. Thank you.
+ 3                      You have been a member of the UK Parliament for
+ 4                  Dumfries and Galloway since 2017?
+ 5             A.   Yes.
+ 6             Q. You are the Secretary of State for Scotland and have
+ 7                  been since July 2019?
+ 8             A.   Correct.
+ 9             Q. Before holding that position, you served as
+10                  parliamentary private secretary to the Leader of the
+11                  House of Lords, Assistant Government Whip and
+12                  Lord Commissioner of Her Majesty's Treasury?
+13             A.   Correct.
+14             Q. Mr Jack, can I just confirm with you that you had been
+15                  scheduled to give evidence to the Inquiry last Thursday,
+16                  25 January, but due to a family bereavement we
+17                  required -- you were unavailable on that day and we
+18                  required to rearrange your evidence for today?
+19             A.   Correct.
+20             Q. My condolences.
+21             A.   Thank you.
+22             LADY HALLETT: And mine.
+23             A.   Thank you.
+24             MR DAWSON: I want to begin by asking you some questions
+25                  about the role of the Secretary of State for Scotland.
+    2
+
+ 1                  In your statement at paragraph 3 you say that in that
+ 2                  role you act as Scotland's voice in Whitehall and
+ 3                  represent the interests of Scotland at Cabinet. Is it
+ 4                  fair to say that you are Scotland's main representative
+ 5                  in the United Kingdom Government?
+ 6           A.     Yes. And could I just -- my Lady, could I just, before
+ 7                  I give my evidence, just express my sadness for those
+ 8                  that lost their lives during the pandemic, and also
+ 9                  express my condolences to those who were bereaved, who
+10                 lost loved ones.
+11                     And to answer your question, yes.
+12          Q. You also say at paragraph 3 that you champion the
+13                 UK Government in Scotland, and advocate for the
+14                 UK Government's policies in Scotland.
+15                     Is it fair to say, then, that you are the
+16                 United Kingdom Government's main representative in
+17                 Scotland?
+18          A.     Yes.
+19          Q. You say also that the Scotland Office is not
+20                 a policymaking department. How does that work in
+21                 practice as regards the role which it plays in Scottish
+22                 affairs?
+23          A.     So the Scotland Office's role is to be the defender, if
+24                 you like, the safeguarder of devolution. And it's also
+25                 the Scotland Office's role to work across Whitehall --
+    3
+
+ 1                  the lines of devolution are sometimes blurred, the
+ 2                  understanding of Whitehall departments as ministers
+ 3                  change can often -- they often need, you know, as
+ 4                  they're bringing legislation forward, direction from us
+ 5                  on how devolution plays out, and respecting it, which is
+ 6                  very important.
+ 7                      That's -- I mean, we have many roles within the
+ 8                  Scotland Office, but within Whitehall we are always, and
+ 9                  my job is always to press the case to get the best deal
+10                  for Scotland, but also, when we're making legislation
+11                  across the UK, to make sure we don't cut across the
+12                  devolution settlement. And likewise, through section 33
+13                  and section 35 of the Scotland Act, my job is to make
+14                  sure that the devolved administration in Scotland
+15                  doesn't either stray into reserved areas with their
+16                  legislation, or indeed, as we saw in January last year
+17                  when I used a section 35 order for the first time in the
+18                  history of devolution, they go and cut across existing
+19                  UK or GB-wide legislation.
+20             Q. Thank you.
+21                      As far as the respective responsibilities of the
+22                  Scottish Government and the UK Government in relation to
+23                  Scottish affairs in the pandemic are concerned, we have
+24                  heard that some of the areas, some of the boundaries
+25                  were perhaps blurry at times. Would you agree?
+    4
+
+ 1           A.   Yes, I think -- I think that was inevitable with the
+ 2                nature of public health being devolved.
+ 3           Q. It's perhaps the result of public health being devolved
+ 4                but also the all-encompassing societal nature of the
+ 5                virus, insofar as it impinged on almost every area of
+ 6                our lives?
+ 7           A.   Yes, the virus -- I mean, the virus knew no boundaries,
+ 8                and within the United Kingdom I was always keen that
+ 9                wherever possible we were aligned, and a lot of the
+10               effort I put into it was to try to have an aligned
+11               response across the UK. And, as I say, you know, I --
+12               there was much debate with the Scottish Government
+13               around the "border", as they called it. Well, I mean,
+14               to me, and I said this many times then, it's
+15               a geographical border, not a physical border, and
+16               certainly the virus didn't respect any borders. So
+17               I wanted us to be aligned as much as we possibly could
+18               be, understanding that under the public health response,
+19               which is the route that we went down, the public health
+20               was devolved to all the administrations.
+21          Q. Before the pandemic struck, it would have been
+22               predictable, would it not, that a viral threat of this
+23               general nature would not respect man-made boundaries
+24               like borders or political constitutional settlements; is
+25               that fair?
+    5
+
+ 1             A.   That's very fair.
+ 2             Q. What efforts were made in advance of the pandemic in
+ 3                  order to try to clarify the respective areas of the
+ 4                  responsibility of the Scottish Government and the
+ 5                  UK Government in the event that such a pandemic would
+ 6                  hit?
+ 7             A.   So I think that was an area that could have been better
+ 8                  prepared for. I -- obviously the devolution settlement
+ 9                  happened in 1999. I don't -- I think that would be one
+10                  area that hadn't been prepared for. There was, within
+11                  schedule 5 of the devolution settlement -- there is,
+12                  should I say, the reservation of emergency powers, the
+13                  Civil Contingencies Act is reserved, health and safety
+14                  is reserved across the United Kingdom, and maybe we
+15                  could have used one of those to deal with the pandemic
+16                  response. We didn't, we went with the devolved public
+17                  health position.
+18                         And I think -- I would hope -- and I think it's in
+19                  my recommendations in my witness statement -- I would
+20                  hope that we can plan better for another such event,
+21                  where we have a more centralised approach to our
+22                  response, which will reduce the confusion that we saw
+23                  with different rules. That I didn't think made much
+24                  difference to the outcomes, and the statistics prove
+25                  that, different rules for the sake of it, confusing the
+    6
+
+ 1                public. I think we need to move away from that, have
+ 2                more of a centralised response and use the devolved
+ 3                legislation for the delivery of that centralised
+ 4                response, and that would be a recommendation I have for
+ 5                the future.
+ 6           Q. Do I take it from your suggestion that there were
+ 7                different rules for the sake of it that that's your
+ 8                assessment of the Scottish Government's approach to its
+ 9                public health responsibilities?
+10          A.   I felt very strongly that the Scottish Government
+11               were -- we would meet with them and tell them what our
+12               plans were to -- you know, in terms of as we moved the
+13               rules and regulations, and I felt that they absorbed the
+14               information and then worked out how they could do it
+15               just slightly differently, and I felt that that was
+16               a political manoeuvre on their behalf. I think I've
+17               said that in my witness statement as well.
+18          Q. We've heard a considerable body of evidence from
+19               ministers within the Scottish Government who would
+20               suggest that your assertion that you made clear to them
+21               in advance what the UK Government's position was going
+22               to be was simply inaccurate. They would -- they have
+23               often complained in their evidence that they didn't know
+24               or understand the UK Government's position as regards
+25               what restrictions, for example, it intended to impose
+    7
+
+ 1                  till the very last minute.
+ 2             A.   Well, these situations are dynamic, and we did have
+ 3                  officials talking to officials on the way through to
+ 4                  coming to those meetings. We then had meetings where we
+ 5                  agreed our position and then we put forward as our
+ 6                  spokesman at those meetings -- because, remember, we're
+ 7                  meeting ministers or First Ministers from all the
+ 8                  devolved administrations -- we are -- we would -- the
+ 9                  Minister for Intergovernmental Relations, Michael Gove,
+10                  would have been the spokesman at those meetings and we
+11                  intended to make clear what our proposal was. We hoped
+12                  that they would follow our proposal.
+13                         If there was a misinterpretation of whatever we're
+14                  discussing that's when I would often step up and try and
+15                  straighten what I thought was the position that we
+16                  were -- we were trying to get over, if it was being
+17                  I felt misinterpreted or misunderstood.
+18                         But at all times we were giving the information of
+19                  how we felt the regulations should be changed and not
+20                  a lot of information came back the other way. The --
+21                  particularly from Wales and Scotland. They waited to --
+22                  they didn't tell us what they were proposing to do.
+23                  Because, obviously, it was devolved, we had to respect
+24                  that, but we always knew it would be something similar
+25                  but just slightly different, and that's why I said "for
+    8
+
+ 1                the sake of it".
+ 2           Q. Could I perhaps give you an example, Mr Jack.
+ 3                     In May of 2020, it's, as I understand it, the
+ 4                Scottish Government's position that the Prime Minister
+ 5                gave the strong indication at a meeting with the
+ 6                Scottish Government that the UK Government intended to
+ 7                stick with the message that people should stay at home,
+ 8                but that in fact at the very last minute, unbeknown to
+ 9                them, he decided to change the tenor of the message and
+10               indeed the tenor of the strategy from Stay at Home to
+11               Stay Alert. What's your comment on their assessment of
+12               that situation?
+13          A.   Well, on that I think -- I think the Scottish Government
+14               have a fair point. I think it was a matter of regret
+15               that we trailed Stay Alert in the papers the day before,
+16               and that -- there was, at that point, to go a step
+17               further, there was a -- there was a level of mistrust
+18               sort of baked into the system, with -- after what had
+19               happened on March 12, the COBR meeting, where the
+20               First Minister had gone out and announced quite a lot of
+21               things in her 3 o'clock statement. We felt that broke
+22               the memorandum of understanding, paragraph 12, which
+23               states that, you know, we have a sort of duty of
+24               confidentiality amongst us.
+25                    And that -- that was the day that -- on the back of
+    9
+
+ 1                  that meeting then, I went to Edinburgh in the evening
+ 2                  and met with Jeane Freeman. I was with her for I think
+ 3                  two hours. For one of those hours the Health Secretary,
+ 4                  Matt Hancock, was with us, that meeting on March 12.
+ 5                       Another thing that had happened which came to light
+ 6                  in May at that meeting was that, despite being with the
+ 7                  then Health Secretary for two hours, at no point did she
+ 8                  mention that they had discovered an outbreak at the Nike
+ 9                  conference in Edinburgh. The Health Secretary, and
+10                  I confirmed this with him yesterday afternoon,
+11                  discovered that when the newspapers contacted him some
+12                  time later.
+13                       So, you know, these -- you can understand there was
+14                  a feeling -- with each side there was -- from that --
+15                  well, let me put it that way, from that meeting then,
+16                  going forwards, we were cautious, because we didn't want
+17                  announcements to be released early or to jump the gun
+18                  before everything had been agreed across Whitehall. And
+19                  I think that speaks to what happened with the Stay Alert
+20                  statement, it was just -- it was part and parcel of us
+21                  being cautious as we announced things.
+22             Q. Mr Jack, would it be fair, given that explanation, to
+23                  characterise the way in which the UK Government and
+24                  Scottish Government interacted during this unprecedented
+25                  medical emergency as tit-for-tat or children squabbling
+    10
+
+ 1                with each other?
+ 2           A.   No, I don't think that's fair, but I think it -- what it
+ 3                characterised was that we -- you know, as you said at
+ 4                the beginning, my job is to go out and strengthen the
+ 5                United Kingdom and sustain the United Kingdom, and I do
+ 6                that every day of my working life. The First Minister's
+ 7                job, and I've said this at the despatch box and on other
+ 8                occasions, is she at the time saw her job, as the leader
+ 9                of a nationalist government, to break up the
+10               United Kingdom. That's what the Scottish National Party
+11               exists to do. And so it was inevitable that there would
+12               be tensions -- and there always are in government.
+13               Devolution works very well, but it works very well when
+14               governments want to work together. When one government
+15               wants to destroy the United Kingdom and destroy
+16               devolution, then there are tensions. So those tensions
+17               existed before the pandemic, during the pandemic and
+18               they exist now today.
+19          Q. You will be fully aware, no doubt, Mr Jack, that the
+20               former First Minister of Scotland, in what might well be
+21               described as an emotional passage of her evidence,
+22               described yesterday that, despite the fact that she
+23               believed in Scottish independence to her very core, she
+24               was, in this medical emergency, able to put aside those
+25               political convictions and prioritise the health and
+    11
+
+ 1                  safety of the people of Scotland. Did your pre-existing
+ 2                  assumption about her political convictions result in you
+ 3                  failing to be able to believe that she could do that?
+ 4             A.   I didn't -- I watched that yesterday and I saw that
+ 5                  passage and I don't believe -- I didn't believe it for
+ 6                  a minute. I mean, I looked at that passage and I've
+ 7                  thought back in my experiences and I looked at her
+ 8                  performance and I thought she could cry from one eye if
+ 9                  she wanted to.
+10             Q. Mr Jack, you mentioned a moment ago, and you indeed
+11                  mention in your statement, that UK departments at times
+12                  have a limited understanding of the devolution
+13                  settlement; is that fair?
+14             A.   I think -- I think there's often clarity required --
+15                  it's very complicated, the devolution settlement, and
+16                  there's often clarity required, and that comes from my
+17                  office, where we have the Advocate General, and that can
+18                  often be in legal -- a legal sense, or we will look when
+19                  we're doing -- for instance, at the moment it's the
+20                  vaping Bill, we're looking about concurrent -- or
+21                  mechanisms for the Scottish Government. So this is
+22                  happening all the time where -- on environmental
+23                  matters, that's another very grey area within the
+24                  devolution settlement -- we're constantly working with
+25                  the Scottish Government as to how that works.
+    12
+
+ 1                     And it's particularly so more complicated now
+ 2                because of the UK Internal Market Act, which has the
+ 3                principles of mutual recognition and non-discrimination,
+ 4                so we're -- on a weekly basis officials are meeting with
+ 5                the -- meeting the Scottish Government to discuss the
+ 6                impact of decisions within the U -- I mean, obviously
+ 7                the -- recently the most significant one was the deposit
+ 8                returns scheme and how that impacted a single drinks
+ 9                industry across the UK, and I stepped in quite heavily
+10               on that one. But I had to do that because we had to
+11               protect a single drinks industry across the UK.
+12                    So now with the -- in the world outside the
+13               European Union and with our own single market, which is
+14               so important to Scotland, and this is the last point
+15               I'll make on this, it's -- 60% of our trade is with the
+16               rest of the UK, it is important that we work with
+17               departments taking decisions to -- to protect the
+18               devolution settlement.
+19          Q. You describe yourself as a champion of devolution; is
+20               that correct?
+21          A.   Yes.
+22          Q. Is it the case --
+23          A.   Well, I don't like -- I don't like the alternative.
+24          Q. You described a moment ago the legislative arrangements
+25               that were put in place at the beginning of the pandemic,
+    13
+
+ 1                  which of course built on the existing devolution
+ 2                  settlement. Public health was a matter which was
+ 3                  devolved to the Scottish Government; yes?
+ 4             A.   Correct.
+ 5             Q. And --
+ 6             A.   And that was reflected in the work we did on the
+ 7                  Coronavirus Act. And when the Scottish Government
+ 8                  produced their Coronavirus Act, I -- instead of taking
+ 9                  30 days, as is normally the legal process before it goes
+10                  for Royal Assent, I fast-tracked it.
+11             Q. The Coronavirus Act, the UK Parliament Coronavirus Act,
+12                  accords, in its schedules, powers, given the public
+13                  health route that you described the UK Government having
+14                  decided to take, to the Scottish Government to impose
+15                  restrictions in the interests of public health during
+16                  the course of the crisis; is that correct?
+17             A.   Correct.
+18             Q. Therefore, matters were devolved to the Scottish
+19                  Government and the Scottish Parliament, who had the
+20                  ability to manage the pandemic in Scotland in the way
+21                  that they saw fit?
+22             A.   Correct.
+23             Q. Is that a fair assessment?
+24                      Was it the predominant view within the
+25                  UK Government, despite those powers having been accorded
+    14
+
+ 1                by a UK Act of Parliament, that the course being taken
+ 2                by the UK Government to the management of the pandemic
+ 3                was somehow the orthodox one and therefore, despite
+ 4                those powers having been accorded to the Scottish
+ 5                Government and Parliament, any divergence from it was
+ 6                a divergence from the orthodox position?
+ 7           A.   No, we didn't take that view at all, because we
+ 8                recognise -- we respected the devolution settlement. It
+ 9                was just -- we felt it was at times quite frustrating
+10               that we had minor changes to the overall structure of
+11               the regulations which caused confusion and -- for
+12               certain people. And, you know, those -- especially as
+13               we came -- when we were out of lockdown and we had
+14               regulations throughout the summer and autumn of 2020,
+15               people were moving around the UK again, and -- and
+16               I particularly feel it living in Dumfries and Galloway,
+17               where people are moving backwards and forwards across
+18               the border, we just felt it would have been better for
+19               all if we were following the -- aligned on the
+20               restrictions.
+21          Q. But you had accord -- the UK Parliament had accorded the
+22               power --
+23          A.   Yes.
+24          Q. -- to the Scottish Government and Parliament to take a
+25               different approach, had it not?
+    15
+
+ 1             A.   Yes, and I say in my recommendations that I think in
+ 2                  future that would be something that should be looked at
+ 3                  again. Respecting devolution as much as the delivery
+ 4                  of -- of what had to be done, in whatever the emergency
+ 5                  was, would be -- would respect devolution, but the
+ 6                  decision-making we should all come together to make the
+ 7                  decisions, would be my position.
+ 8                      And an example of -- if I go back into that period
+ 9                  that I mentioned, we proposed tiers 1, 2 and 3, and the
+10                  Scottish Government had moved to this, I thought,
+11                  unrealistic zero Covid strategy, elimination,
+12                  eradication, so they decided to have levels 0, 1, 2, 3.
+13                  Again, confusing. And -- and level 0 still wasn't zero,
+14                  it was still wearing masks for the foreseeable future.
+15                  And we had this position where, you know, those getting
+16                  on the train in Glasgow were taking their masks off just
+17                  north of Carlisle, and coming back up from Euston, as
+18                  I often did on the train, and everyone coming north of
+19                  Carlisle pulling the trains off -- masks off, sorry, in
+20                  the same carriage. You know, it was sort of farcical,
+21                  really. And it sort of spoke to me about some of the,
+22                  you know, just unnecessary -- it achieved nothing, it
+23                  just spoke to me about unnecessarily affecting people's
+24                  behaviour. And of course it impacted on things like
+25                  hospitality. You know, it had -- these things have
+    16
+
+ 1                impacts and they had impacts on the economy.
+ 2           Q. Just to be clear with you, as a matter of our
+ 3                understanding of the timeline, you mentioned that there
+ 4                had been -- there were tree tiers in the UK Government
+ 5                strategy, that is of course correct, there were five
+ 6                levels in the Scottish strategy, you seem to have --
+ 7           A.   Sorry, four -- 0, 1, 2, 3, 4, you're absolutely right.
+ 8           Q. You seem to have elided, Mr Jack, the zero Covid period
+ 9                which occurred in Scotland in the summer of 2020 with
+10               the announcement of the levels scheme, which in fact
+11               didn't happen till October 2020. So those were
+12               different time periods. Is that your --
+13          A.   Well, the -- so the zero Covid strategy ran from the
+14               summer of 2020. It was actually only finally dumped in
+15               the spring of May 2021, the sort of elimination
+16               strategy, and we had it -- we were trying in the summer
+17               of 2020, in my witness statement I cover it, to get --
+18               start to plan directions for people for Christmas,
+19               because we know within the United Kingdom people travel
+20               for Christmas, and we -- it took months for us to agree
+21               with the Scottish Government a Christmas statement
+22               because they were keen to get their elimination strategy
+23               into the Christmas statement, and we obviously didn't
+24               agree with that and the then Chief Medical Officer,
+25               Sir Chris Whitty, said to me that it was completely
+    17
+
+ 1                  unfeasible, an elimination strategy, not because
+ 2                  Scotland was part of the United Kingdom but because
+ 3                  there had been no elimination of a virus in the history
+ 4                  of the human race other than smallpox, and that was --
+ 5                  the elimination worked because there was a sterilising
+ 6                  vaccine and we didn't have a sterilising vaccine.
+ 7             Q. There is, of course, scientific evidence that would tend
+ 8                  to suggest that the virus was in fact eliminated from
+ 9                  Scotland, on the basis that the original strains which
+10                  caused the first wave in Scotland were completely --
+11                  completely died out. Are you aware of that evidence?
+12             A.   But -- but it -- but the small -- smallpox was
+13                  eliminated, whereas --
+14             Q. Obviously we're more interested in Covid --
+15             A.   Well, no, I know, but the point is the point you make is
+16                  not relevant because the virus mutated. Smallpox was
+17                  mutating when it was eradicated. This -- Covid was
+18                  mutating and it was not eradicated.
+19             Q. Well, what's wrong with a strategy that seeks -- whether
+20                  it seeks elimination or maximum suppression of the
+21                  virus? Is that not a laudable aim?
+22             A.   Well, it didn't make any difference to the -- to the
+23                  statistics in terms of how Scotland was performing
+24                  against the rest of the United Kingdom. There was
+25                  a misleading assertion from the then First Minister that
+    18
+
+ 1                the prevalence in Scotland was five times lower than the
+ 2                rest of the UK, but the statistics authority came --
+ 3                you know, came out and said that was completely untrue.
+ 4                And so, you know, it was -- this mistaken information
+ 5                was guiling the public into believing that the
+ 6                elimination strategy was working; it wasn't working at
+ 7                all and the details show that.
+ 8           Q. You have asserted, Mr Jack, that the decisions as
+ 9                regards the restrictions of the Scottish Government were
+10               politically motivated. Is that your position?
+11          A.   Yes. A lot of them, yes.
+12          Q. You have asserted that differences between the Scottish
+13               Government's restrictions plan and the UK Government's
+14               restrictions plan were for the sake of it; is that
+15               right?
+16          A.   Yeah, I think -- I think -- I don't think there was
+17               any ... I don't think it was achieving anything that was
+18               necessarily being successful in suppressing the virus,
+19               it was just to appear different.
+20          Q. Did you seek to understand the rationale behind these
+21               restrictions, which you appear to have assumed were
+22               different from the UK Government's position for the sake
+23               of it?
+24          A.   Yes, I mean -- I mean, we obviously -- we -- we looked
+25               at -- in detail at the difference -- but it was -- you
+    19
+
+ 1                  know, we're talking about differences about -- you know,
+ 2                  I might be being flippant here and not entirely
+ 3                  accurate, but it was the -- you know, whether you have
+ 4                  six people or eight people in your garden, you know,
+ 5                  when we're outside and there's fresh air blowing around,
+ 6                  whether you -- whether they were allowed to go into the
+ 7                  house and -- to use the loo or not, and on it went.
+ 8                  These were -- these were -- they were things on the
+ 9                  margin that we just -- didn't seem to be effective in
+10                  suppressing the virus. And we know that the virus moved
+11                  broadly across the UK in -- in waves, that showed that
+12                  its impact was not -- by any devolved administration was
+13                  not suppressed.
+14             Q. But you personally, did you make efforts to try to
+15                  understand why it was there were differences in the
+16                  Scottish Government's approach to that of the
+17                  UK Government?
+18             A.   No, I fully understood, I didn't have to make any effort
+19                  to understand.
+20             Q. You fully understood?
+21             A.   I fully understood that it was being done to appear
+22                  different to the UK Government.
+23             Q. The reason I ask is because in his evidence to this
+24                  Inquiry, the former Deputy First Minister Mr Swinney
+25                  said that he experienced no tangible presence from you
+    20
+
+ 1                in any aspect of the work handling the pandemic in
+ 2                Scotland. He was asked, when he gave evidence, whether
+ 3                he had made efforts to engage you in the pandemic
+ 4                response and he answered:
+ 5                      "I think the ... the short answer is probably no,
+ 6                because there was no real value in it. Because, as
+ 7                I explain in my witness statement, if the Scottish
+ 8                Government had a problem with the UK Government, the
+ 9                best way to solve it was to go directly to the person in
+10               the UK Government, and indeed we had interlocutors who
+11               were quite helpful in trying to help resolve these
+12               issues. In my experience, the Secretary of State for
+13               Scotland would have contributed nothing of any useful
+14               value in assisting us in that process."
+15                     Is that an accurate reflection of what you did on
+16               behalf of the people of Scotland during the course of
+17               the pandemic, Mr Jack?
+18          A.   No, absolutely not. I mean, let's put some context on
+19               this. The former First Minister and the former Deputy
+20               First Minister, I'm not, you know, on their Christmas
+21               card list. They were pretty -- I mean, I -- I ended up
+22               in court with them four times -- well, three times, and
+23               then the fourth one was the gender recognition, but
+24               I won on all occasions. John Swinney on the section 33
+25               and something he was dealing with, and then there was
+    21
+
+ 1                  the Supreme Court case that we won, and obviously there
+ 2                  was the section 35. And then he and the First Minister
+ 3                  were gone shortly after.
+ 4                      And I am not -- they're not my fans, and
+ 5                  I understand that, but to be clear I -- I put in a lot
+ 6                  of work running into meetings. As I said earlier, I met
+ 7                  with Jeane Freeman on 12 March, Matt Hancock and I met
+ 8                  that evening -- not that we heard anything about the
+ 9                  outbreak that they knew about at the Nike conference in
+10                  Edinburgh in February. I had -- I attended many -- all
+11                  the Covid-O meetings, I attended the First Minister
+12                  calls. I spoke up, for instance, on vaccines and
+13                  vaccine delivery. And when the First Minister was
+14                  saying there was a shortage of vaccines I was -- I spoke
+15                  to the vaccine minister, I established there was no
+16                  shortage of vaccines for Scotland, I published every
+17                  week the number of vaccines available. The -- then --
+18                  we can see how many vaccines were being administered.
+19                  It proved that there was no shortage of vaccines.
+20                      On Covid passports I tried to get us all on the same
+21                  page. They were reluctant, they wanted to have
+22                  a Scottish vaccine passport, and they said the
+23                  architecture and structure of the NHS software meant
+24                  they couldn't do that. But, again, I was pressing that
+25                  because I felt if you had a -- if you moved from
+    22
+
+ 1                Scotland to England you wanted your vaccine passport to
+ 2                work wherever you lived and to go travelling. And there
+ 3                were many areas where I pressed, on international
+ 4                travel, on borders. I pressed back on the idea there
+ 5                was a physical border between Scotland and England:
+ 6                we're one common travel area, it's just a geographical
+ 7                border. And the pushbacks or the encouragement to get
+ 8                alignment was not well appreciated.
+ 9                      And to your point about going direct to Whitehall
+10               departments, since 2011 they've always gone direct to
+11               Whitehall departments because they want -- they don't
+12               like the Scotland Office and they don't like my powers
+13               and they make that very clear. And all that happens is
+14               the Whitehall departments come straight back to us. So
+15               the strategy does -- I mean, it's back to the tensions
+16               I talked about earlier -- their strategy doesn't work,
+17               because the Whitehall departments immediately refer to
+18               us for guidance and advice and -- and so -- and so we go
+19               on.
+20          Q. In fact Mr Swinney's wasn't quite as you describe,
+21               because his position was that it was only you that were
+22               the problem. He in fact made quite clear that he
+23               considered there to have been good relationships between
+24               the Scottish Government and the Scotland Office under
+25               your predecessor's position?
+    23
+
+ 1             A.   Yes.
+ 2             Q. So --
+ 3             A.   Can I pick up on that?
+ 4             Q. Yes, you certainly --
+ 5             A.   My predecessor found -- experienced exactly the same as
+ 6                  me and when I took over in July 2019 and discussed with
+ 7                  him the role. He made the very point to me that I've
+ 8                  just made to you. So I'm not sure he would agree that
+ 9                  his position was respected by the Scottish National
+10                  Party or the Scottish Government at that time.
+11             Q. Given, Mr Jack, that you represent and speak for the
+12                  Scottish people, and no doubt seek to act in their
+13                  interests, would you agree with me that it may well not
+14                  really matter in their view the rights and wrongs of the
+15                  particular regulations or restrictions and who's
+16                  diverged from whom? They may interpret your evidence as
+17                  an indication that during the course of the pandemic
+18                  there was a complete lack of any proper
+19                  intergovernmental relation between the Scottish
+20                  Government and the UK Government?
+21             A.   The health secretaries across the United Kingdom met
+22                  every week, sometimes more than once a week. The CMOs
+23                  and the CSAs, the scientific and the medical officers,
+24                  met again once a week and sometimes, often, more than
+25                  once a week. Covid-O, Covid operations, met -- its
+    24
+
+ 1                predecessor, the ministerial implementation group, met
+ 2                weekly -- I was at those meetings -- the -- and we had
+ 3                representations from the devolved administrations at
+ 4                those meetings. From I think it was June 2020, maybe
+ 5                July 2020 onwards, we also had a weekly meeting with --
+ 6                on a Wednesday evening, 5 o'clock, with the
+ 7                First Ministers of the devolved administrations. That
+ 8                call would last an hour -- and so the idea that we
+ 9                weren't communicating with them is, you know,
+10               ridiculous.
+11          Q. I suspect people may be more interested in the
+12               effectiveness of the communication rather than the
+13               communication itself. How effective was the
+14               communication in light of the views that you've
+15               expressed about the UK Government's position on the
+16               Scottish Government's restrictions, regulations and
+17               management of the pandemic?
+18          A.   Well, as I said, we -- we -- we told them what we were
+19               proposing in terms of restrictions or regulations,
+20               but -- but in the areas where it was devolved we
+21               respected their right to diverge. We -- we didn't -- we
+22               didn't think it was a good idea, we tried to get
+23               alignment, but we were respectful of the position.
+24                    Other meetings were about other things, like, for
+25               instance, one of the things my office was heavily
+    25
+
+ 1                  engaged in was -- and my role is to endorse them -- is
+ 2                  military assistance for civil authorities requests, and
+ 3                  there was -- a huge amount of work went into, whether it
+ 4                  was the roll-out of the vaccine, delivering testing
+ 5                  centres, delivering PPE, emergency situations, getting
+ 6                  someone off an island who was in a coma, et cetera,
+ 7                  et cetera. Those things happened through my office.
+ 8                  And when there was a real demand and a stretch on the
+ 9                  army, because they were wanted in Wales and England as
+10                  well, I would press hard with -- directly with the
+11                  Secretary of State for Defence to make sure that
+12                  Scotland got all the soldiers and -- and army personnel
+13                  they required.
+14                       So these things were going on the whole time. The
+15                  idea that there wasn't any communication or help from
+16                  the UK Government is -- is wrong. And actually if you
+17                  look in my witness statement, my letter on
+18                  2 February 2021 for the vaccine roll-out, I wrote to the
+19                  Scottish Government and offered military help because
+20                  the vaccine at that -- roll-out at that time was going
+21                  more slowly than it was in other parts of the UK and
+22                  I wanted to speed it up.
+23             Q. What notice was given by you or the UK Government to the
+24                  Scottish Government about the introduction of the Eat
+25                  Out to Help Out scheme?
+    26
+
+ 1           A.   Again we -- it was discussed -- it was discussed at one
+ 2                of the Covid-O meetings. And as to -- I -- as to the
+ 3                amount of notice we gave them, I couldn't -- I mean,
+ 4                I could write to you on that, I can't remember.
+ 5           Q. In her evidence the First Minister has said she wasn't
+ 6                told about it; is that --
+ 7           A.   It's possible. The health -- I would expect we
+ 8                discussed it with the health minister.
+ 9           Q. In her evidence, Ms Forbes, the Finance
+10               Cabinet Secretary, also said she didn't know about it.
+11          A.   Right.
+12          Q. Is that correct?
+13          A.   Well, I -- Eat Out to Help Out was done by -- was
+14               a Treasury initiative --
+15          Q. That's correct.
+16          A.   And I -- I would have to look at the details of who was
+17               told when, to -- and write to you on that.
+18          Q. But did you tell anyone about it?
+19          A.   I don't recall telling anyone about it, no. I --
+20               I don't recall.
+21          Q. At the time when the Eat Out to Help Out scheme was
+22               introduced directly by the UK Government in Scotland on
+23               3 August 2020 --
+24          A.   Yeah.
+25          Q. -- Scotland was, in accordance with your evidence, still
+    27
+
+ 1                  pursuing its elimination strategy, as you understood it;
+ 2                  is that right?
+ 3             A.   Yes.
+ 4             Q. That strategy sought to try to deal with the economic
+ 5                  harm of the lockdown by seeking to try to revitalise
+ 6                  business and redress the balance, I think, between the
+ 7                  economic harm and the harm done by the virus; that was
+ 8                  the theory behind it, I think.
+ 9             A.   Yes, the harm was to the hospitality trade, and the
+10                  hospitality trade had suffered a lot of harm, and they
+11                  very much welcomed Eat Out to Help Out.
+12             Q. Yes, in her evidence Ms Forbes recognised that there
+13                  could be economic advantage associated with the concept.
+14             A.   Yeah. Well, there was.
+15             Q. However, it was completely contrary to the Scottish
+16                  Government's management strategy of the pandemic at that
+17                  time, was it not?
+18             A.   Well, they -- you know, they could have -- they could
+19                  have stopped Eat Out to Help Out in Scotland, under the
+20                  public health -- they could have said "We don't want the
+21                  voucher system to be available in Scotland" at the time.
+22                  They -- I've got no recollection of them pushing back
+23                  and saying "We don't want that".
+24             Q. It was a direct UK action in Scotland, Mr Jack.
+25             A.   Well, it was, but -- but the -- the Treasury officials
+    28
+
+ 1                will have discussed it with the officials in the
+ 2                devolved administrations, and it will have needed to --
+ 3                you know, with the detail that went on behind it, it
+ 4                will have needed across-government work. I mean, it is
+ 5                a -- it's a question that I would ask of the Treasury
+ 6                and Treasury officials. But it won't have come as
+ 7                a complete surprise and nor do I feel they were -- the
+ 8                Scottish Government were bounced into it. I have no
+ 9                recollection at the time of them saying "This is
+10               a terrible idea and we disagree with it", but may --
+11               but, that -- you know ...
+12          Q. It seems logically unlikely that that could possibly
+13               have been their position when, as I think you accepted,
+14               the introduction or imposition of the scheme on Scotland
+15               was completely contrary to Scotland's management scheme
+16               and strategy at that point?
+17          A.   But I don't recall at the time anyone saying "We don't
+18               want this scheme and it's not welcome". I have no
+19               recollection of having to defend the scheme at the time.
+20          LADY HALLETT: Could I just ask, Mr Jack, can you go back
+21               to -- you say they could have stopped it. What, just by
+22               using their general powers to close pubs or restaurants?
+23          A.   Yes, yes. There were many restrictions put on the
+24               hospitality trade and they could have -- I'm sure the --
+25               if they had they could have -- or they could have said
+    29
+
+ 1                  to the UK Government "We feel that this will bring too
+ 2                  many people into the -- into the hospitality trade", for
+ 3                  whatever reason. As it was, there were restrictions so,
+ 4                  you know, within hospitality there were curfews, there
+ 5                  was mask wearing to go -- to get up from the table and
+ 6                  go to the loo, the -- you know, so they could have
+ 7                  either imposed further restrictions or they could have
+ 8                  said to the UK Government "That's not one for us". But
+ 9                  I have no recollection of that happening or me having to
+10                  defend it.
+11             MR DAWSON: We've heard a considerable amount of evidence
+12                  from a number of witnesses about the funding -- the
+13                  general funding arrangements that exist between
+14                  Her Majesty's Treasury and the Scottish Government.
+15             A.   Yeah.
+16             Q. And indeed we've heard quite a lot of evidence about the
+17                  specific way in which funding worked during the course
+18                  of the pandemic. Generally the evidence tends to
+19                  suggest that emergency funding awards were made by
+20                  Her Majesty's Treasury -- of course a reserved matter --
+21                  and that, in trying to ascertain how much would be given
+22                  to Scotland, the general approach of applying the
+23                  Barnett formula was generally the way in which it was
+24                  done. Is that your understanding, broadly, of the way
+25                  in which funding worked during the course of the
+    30
+
+ 1                pandemic?
+ 2           A.   Yes. Broadly.
+ 3           Q. Yes.
+ 4                    You tell us in the statement, indeed, that the
+ 5                Scotland Office has a technical role in the
+ 6                administration of funds to Scotland, which is to ensure
+ 7                that the funds are transferred appropriately and that
+ 8                transfers are recorded correctly in the UK Government's
+ 9                accounts; is that right?
+10          A.   Yes.
+11          Q. So although these would be Treasury decisions, the money
+12               would effectively go through the Scotland Office and
+13               therefore through you; is that -- is that correct?
+14          A.   Correct.
+15          Q. To what extent, despite the fact that the UK Government
+16               had accorded clear powers to the Scottish Government to
+17               manage the strategy in terms of the schedules of the
+18               2020 Act, did the way in which funding was allocated for
+19               that strategy to be implemented limit the Scottish
+20               Government's policy freedom?
+21          A.   Well, the £14.6 billion of Barnett consequential, that
+22               came on the back of a record block grant, that money was
+23               entirely for the Scottish Government to spend as they
+24               saw fit. And I -- you know, there was money that would
+25               have been Barnettised for support for culture and media
+    31
+
+ 1                  and the arts in England. I think the first amount was
+ 2                  about £70 million-odd but it went up to £97 million.
+ 3                  There was money for hospitality support and --
+ 4                  et cetera, et cetera. But that was Barnettised, it went
+ 5                  to the Scottish Government. They didn't have to spend
+ 6                  it on culture and the arts, and some members --
+ 7                  businesses in culture ad the arts would complain about
+ 8                  that in the press and hospitality felt they didn't get
+ 9                  their fair share and on it went. But that's -- how the
+10                  Scottish Government chose to allocate that money was
+11                  entirely a matter for them, as is the way the block
+12                  grant is delivered in Scotland. The block grant,
+13                  £41.6 billion, goes to Scotland -- the Scottish
+14                  Government, and they decide how to carve up the pie.
+15             Q. Yes. Why did the UK Government fail to provide the
+16                  Scottish Government with advance clarity as to the
+17                  nature and extent of funding which it would provide for
+18                  the Scottish Government to spend in its pandemic
+19                  management role?
+20             A.   Well, again, that's a question for the Treasury, but my
+21                  understanding is that each time we made an announcement,
+22                  and I used to communicate these figures, and I would do
+23                  it in interviews with the media as well, we would know
+24                  what the approximate Barnett amount was, and we would
+25                  declare that, so they would know what was coming.
+    32
+
+ 1           Q. Until the summer of 2020, Ms Forbes told us that the
+ 2                figures that were projected were not figures that would
+ 3                necessarily result -- would be the result of the funding
+ 4                given to Scotland because, in fact, what would come to
+ 5                Scotland would be the appropriate Barnett percentage of
+ 6                what was spent rather than what was projected.
+ 7           A.   Correct.
+ 8           Q. She told us that that caused considerable difficulty in
+ 9                the management of the pandemic in Scotland?
+10          A.   Well, that's -- that's how Barnett consequentials work,
+11               that's how the system operates. And actually the fiscal
+12               framework has just been reviewed and the Scottish
+13               Government have agreed to a continuation of that.
+14                   Barnett is effectively a look-back on what was spent
+15               and how the division works, and then adjustments are
+16               made. So there's constantly money going to the devolved
+17               administrations over and above the block grant, and then
+18               there will be adjustments made when you look back on
+19               what the spending was, and that will be -- affect
+20               future -- future payments, some will go up, some will go
+21               down. I mean, it's -- that's the nature of the Barnett
+22               formula. That's all - that's not -- it shouldn't come
+23               as a surprise to Kate Forbes or anyone else because
+24               that's always been the nature of the Barnett formula.
+25                   There was at the beginning though, I remember, you
+    33
+
+ 1                  know, clear instructions as -- the Scottish Government
+ 2                  were given by, I think it was, Steve Barclay, who was
+ 3                  the chief secretary to the Treasury, and he wrote to
+ 4                  Kate Forbes a very good letter, which if you want --
+ 5                  which we could send to you, where he made it very clear
+ 6                  how -- you know, what sums were guaranteed and what sums
+ 7                  would be --
+ 8             Q. Well, indeed, Mr Jack, I might be able to help you with
+ 9                  that. What Ms Forbes told us was that there was in fact
+10                  a very useful guarantee given by the chief secretary to
+11                  the Treasury --
+12             A.   Yeah.
+13             Q. -- that they would get the Barnett consequentials on the
+14                  projected spending irrespective of actual spend --
+15             A.   Correct.
+16             Q. -- but that that did not occur until the summer of 2020.
+17                  My question was why did it not occur before then?
+18             A.   Well, that's a matter for the Treasury.
+19             Q. But you were intimately involved --
+20             A.   But the Treasury -- but the Treasury -- the Treasury
+21                  determined the payments based on the calculations
+22                  they're doing, but there's always a flow of funds -- as
+23                  I say, it's a rolling flow of funds and the adjustments
+24                  are made on the look-back. That's how the Barnett
+25                  formula works.
+    34
+
+ 1           Q. We've heard from a number of ministerial witnesses
+ 2                within the Scottish Government that considerable efforts
+ 3                were made by them in the period when cases started to
+ 4                rise again, in around September 2020, to seek to secure
+ 5                guarantees from the UK Government that furlough funding
+ 6                would be made available in the event of the Scottish
+ 7                Government's assessment that the situation merited
+ 8                further lockdowns. Were you involved in those
+ 9                discussions and why did those appeals go unheeded?
+10          A.   I was involved in those discussions with the Chancellor,
+11               and I felt that we were tackling the pandemic -- from
+12               the Treasury's perspective, furlough was a UK-wide
+13               policy, it supported 900,000 jobs in Scotland, it
+14               supported 137,000 self-employed jobs in Scotland, and
+15               I wanted that money to go directly to the businesses and
+16               the people, particularly the self-employed people, who
+17               needed -- who needed that money. I wanted it to be
+18               a Treasury payment directly to them, because I felt that
+19               was the best way to go. I felt that -- I felt, as I've
+20               said before, that the virus across the United Kingdom
+21               moved in waves, but -- but furlough should be a UK-wide
+22               scheme, and it should be determined by the Treasury, who
+23               ultimately are responsible for the public finances, and
+24               remember we spent the thick end of £400 billion in our
+25               response, but it's for the Treasury to determine what
+    35
+
+ 1                  the nation can afford and how long furlough could
+ 2                  continue for, and at what percentages, and I felt very
+ 3                  strongly we should stick with that because we were
+ 4                  talking about billions of pounds of support.
+ 5             Q. Did that not effectively rob the Scottish Government of
+ 6                  its ability to decide that there should be a lockdown
+ 7                  because it had no guarantee that furlough, an inherent
+ 8                  part of a lockdown by that stage, would be paid?
+ 9             A.   Well, furlough continued for a lot longer than anyone
+10                  expected it to, and in that time the Scottish Government
+11                  had the options to do whatever they wanted to do in
+12                  terms of restrictions and lockdowns. But furlough --
+13                  furlough lasted well into 2021, and it was ... the
+14                  support was, I felt, proportionate at the time, and --
+15                  and I felt when furlough came to an end, it was --
+16                  looking at how the vaccine had impacted the spread of
+17                  the virus or the -- how lethal the virus was, along with
+18                  the contribution of antivirals, I felt the judgement of
+19                  the Chancellor in winding down furlough when he did was
+20                  the right judgement.
+21                      And as I say, we -- you know, you're balancing the
+22                  economy with -- with public health, and we -- I think
+23                  most people looking back on it will think fairly that
+24                  we, that we extended furlough for a considerable length
+25                  of time and it gave a huge support to people and
+    36
+
+ 1                financial support to people at a difficult time.
+ 2           Q. Ultimately furlough was extended by the Treasury as
+ 3                a result of the fact that the Scottish Government went
+ 4                public with its position on 1 November 2020, which then
+ 5                led to the Prime Minister announcing that furlough from
+ 6                that point forward, at a time when there was of course
+ 7                a circuit-breaker lockdown in England, would be made
+ 8                available as a consequential. I'm interested in the
+ 9                period before that, Mr Jack, when you said you were
+10               involved in the discussion --
+11          A.   I was involved in --
+12          Q. Could I finish my question, please.
+13          A.   Sorry.
+14          Q. I'd be interested in the period before that, and what
+15               I would like to know is why no guarantees were given to
+16               the Scottish Government that if, in the exercise of its
+17               public health function, it deemed it necessary that
+18               there should be a lockdown, that furlough would be paid?
+19          A.   Well, we -- I was involved in those discussions with the
+20               Prime Minister as I -- sorry, I apologise for
+21               interrupting you -- and the situation was at the
+22               beginning we -- furlough was running for six months. It
+23               was coming -- I think, from memory, it came to end at
+24               the end of October. We then were -- there was
+25               deliberations obviously about how long to extend it for,
+    37
+
+ 1                  and on what terms it would be extended. You know, there
+ 2                  would have been different thoughts whether it should be
+ 3                  at 80% or 70% or 60%, but it continued on the same terms
+ 4                  at -- when it was due for extension, but the Treasury
+ 5                  obviously at that time were running the slide rule over
+ 6                  it and coming to their decision.
+ 7                      But I was always clear in Cabinet that furlough --
+ 8                  first of all, we needed to continue furlough for longer,
+ 9                  and I was also clear in Cabinet that furlough would
+10                  be -- carry on being a UK-wide scheme, and we wouldn't
+11                  regionalise it, because I felt that route -- if we went
+12                  down that route -- you know, then Andy Burnham's wanting
+13                  furlough for Manchester and Andy Street's wanting
+14                  furlough for Birmingham and on it goes, and everyone's
+15                  having to -- well, different furlough schemes and coming
+16                  up with different reasons as to why -- you know, and the
+17                  Treasury lose complete control of the public finances.
+18                      So I think we made the right decision at the right
+19                  time but there was at no point -- I think it was a bit
+20                  of a manufactured grievance by the Scottish
+21                  Government -- there was at no point any reason that they
+22                  couldn't, if they had to bring in a lockdown, bring in
+23                  a lockdown, because there was -- we were never going to
+24                  say "You're in lockdown and we're cancelling furlough".
+25                  I mean, that wasn't how the Chancellor behaved, the now
+    38
+
+ 1                Prime Minister behaved, and it certainly wasn't how
+ 2                I was going to behave.
+ 3           Q. Well, why didn't you just tell them that when they asked
+ 4                you about the position in September and October then?
+ 5           A.   Because in September and October we were working out
+ 6                which was the best scheme to go forward for the next
+ 7                phase. Furlough wasn't the only scheme available and
+ 8                it -- other European countries were doing other things.
+ 9                But, you know, there was no suggestion that we were
+10               going to ever leave any part of the UK in lockdown
+11               without furlough. That was never a suggestion.
+12          Q. There was, of course, a firebreak lockdown in Wales
+13               which went on for 17 days from 23 October. The
+14               Chancellor of the Exchequer -- Mark Drakeford, the
+15               First Minister of Wales, made a statement to the effect
+16               that the Chancellor of the Exchequer refused to fund the
+17               consequences of this public health decision taken in
+18               Wales, which he described as one of the most misguided
+19               decisions of the whole of the pandemic, saying that the
+20               Treasury was acting as a Treasury for England, not
+21               a Treasury for the UK. Was he correct?
+22          A.   Which date was that in October?
+23          Q. 23 October is when the Welsh firebreak lockdown --
+24          A.   In 2020?
+25          Q. 2020, that's right.
+    39
+
+ 1             A.   But we had a furlough scheme.
+ 2             Q. Well, that -- his position is that that was not
+ 3                  available and there was a refusal on the part of the
+ 4                  Chancellor to extend it to Wales over that period.
+ 5             A.   Furlough?
+ 6             Q. Yes.
+ 7             A.   In October 2020?
+ 8             Q. That's correct.
+ 9             A.   But we had furlough.
+10             Q. That's not his position.
+11             A.   Well, I don't understand his position.
+12             Q. If Scotland had wished to have a firebreak lockdown in
+13                  the autumn of 2020, would it have had furlough made
+14                  available to it?
+15             A.   Yes.
+16             Q. Could I ask you some questions, please, Mr Jack, as
+17                  I have of other witnesses, about your informal
+18                  communications in the conduct of your business during
+19                  the course of the pandemic.
+20                      In your statement you say that you use WhatsApps to
+21                  communicate with your colleagues; is that correct?
+22             A.   Yes, yes.
+23             Q. You say that you did not use WhatsApp to discuss the
+24                  pandemic response in Scotland; is that correct?
+25             A.   Yes.
+    40
+
+ 1           Q. What policies did you understand existed covering
+ 2                ministers in the UK Government with regard to the
+ 3                retention of information relating to their conduct of
+ 4                government business during the pandemic?
+ 5           A.   Well, I -- I understood latterly that -- I think you're
+ 6                referring to WhatsApps and WhatsApp deletion in this
+ 7                question?
+ 8           Q. Yes, that's correct.
+ 9           A.   Yeah, no, well, the -- the -- I mean, the position's
+10               quite clear. I, in 2021, with a 64 gigabyte phone, and
+11               no storage capacity on it, I asked a friend how I could
+12               increase my --
+13          Q. Sorry --
+14          A.   Do you want me to answer this question?
+15          Q. Just to -- before we get to the actual process, I was
+16               just asking you about what your understanding was of the
+17               obligations. We've gone through with Scottish
+18               Government ministers the very specific obligations --
+19          A.   Yeah.
+20          Q. -- on them and I just wanted to understand, from
+21               a UK Government ministerial position, whether similar or
+22               the same obligations existed with regard to the
+23               retention of informal messaging?
+24          A.   Well, I wasn't aware of any in 2021.
+25          Q. I'm looking obviously at the period from January 2020 to
+    41
+
+ 1                  April 2022, so over that whole period you weren't aware
+ 2                  of any or did you become aware of any?
+ 3             A.   Well, I don't -- I wasn't -- no, I was not aware of any
+ 4                  that ...
+ 5             Q. And I think you were going on to tell us that there was
+ 6                  a process by which you got rid of some of the
+ 7                  messages --
+ 8             A.   Well, no, I didn't -- I didn't delete some of the
+ 9                  messages, no, I deleted all of them.
+10             Q. Right.
+11             A.   I didn't delete all of them from Matt Hancock, which --
+12                  you have my messages from him -- or Michael Gove, or
+13                  Boris Johnson, I deleted all of them. I deleted all
+14                  my What -- because I had -- 16 -- I was told that
+15                  16 megabytes had become free on my phone, which, as
+16                  I said, hit capacity, and there were lots of -- you
+17                  know, obviously photographs and whatever -- you know,
+18                  things that were blogging down the -- making it -- the
+19                  WhatsApps -- the WhatsApp storage capacity very
+20                  demanding. And I deleted WhatsApps from my mother, my
+21                  wife, my children, my friends. I mean, I just deleted
+22                  all my WhatsApps. Because that created the capacity
+23                  that allowed my phone to carry on. I now have
+24                  a 512 gigabyte capacity phone and that's made life a lot
+25                  better, but at the time I didn't think anything of it.
+    42
+
+ 1                    And -- and I didn't do it -- just to be clear, I did
+ 2                not do government by WhatsApp. I'm a person who picks
+ 3                up the telephone or I go through -- Michael Gove's
+ 4                office was 30 metres from mine, I would pop through and
+ 5                have a meeting with him or vice versa, with a -- with
+ 6                an official present. I'd pick up the telephone to
+ 7                Ben Wallace to press the case on a MACA -- to get a MACA
+ 8                decision done quickly if I was in Scotland and he was
+ 9                somewhere else. That's how I did -- how I do my
+10               business, you've heard it probably from lots of people,
+11               but that's genuinely how I do my business and those that
+12               know me know that's how I do it.
+13          Q. Right. So when you deleted the messages, just to be
+14               clear, your position is that you knew that there was
+15               nothing on those WhatsApp messages which could relate to
+16               your government business in the --
+17          A.   Well, I didn't, I think -- to be fair, back in 2021 that
+18               wasn't really a consideration, so -- but I just deleted
+19               it because I wanted my phone to work. And, as I say --
+20               you know, I know there is a WhatsApp group that I was
+21               a part of for a couple of days that -- that -- from
+22               Matt Hancock's -- Matthew Hancock's WhatsApps you have
+23               the detail on that, and, you know, I'm happy to talk to
+24               that, but it was -- that -- I was only feeding in what
+25               the Scottish Government's rules and regulations were to
+    43
+
+ 1                  that -- to that WhatsApp, so they could decide how to
+ 2                  proceed.
+ 3             Q. I was interested to know, Mr Jack, when you deleted the
+ 4                  messages in 2021 to make the room on your phone as
+ 5                  you've explained --
+ 6             A.   Yeah.
+ 7             Q. -- whether you took the time to work out whether there
+ 8                  had in fact been any informal messaging, via WhatsApp or
+ 9                  otherwise, using your devices, which would relate to
+10                  your role in the management of the pandemic in the
+11                  United Kingdom or Scotland?
+12             A.   Well, I know -- because I didn't do government by
+13                  WhatsApp and decision-making by WhatsApp, I knew that
+14                  that wasn't a concern. And when I deleted the WhatsApp
+15                  group I referred to, the one that -- that
+16                  Matthew Hancock and I were on, I read through it and
+17                  there was -- my contribution to it was purely technical
+18                  and it was of no relevance.
+19             Q. So if you deleted --
+20             A.   And nor was a decision taken.
+21             Q. Yes. If you deleted that group, which of course was
+22                  related to the pandemic management, can we be sure that
+23                  the other messages you deleted did not contain --
+24             A.   Yes.
+25             Q. -- any information that --
+    44
+
+ 1           A.   You could --
+ 2           Q. If I could just finish the question.
+ 3           A.   Sorry.
+ 4           Q. Any information that would be salient to the way in
+ 5                which you conducted government business during the
+ 6                course of the pandemic?
+ 7           A.   Yes.
+ 8           Q. As regards the telephone conversations and individual
+ 9                conversations that you describe with other ministers, to
+10               what extent were the salient points of those
+11               conversations recorded on the corporate record of the
+12               UK Government?
+13          A.   So where I would speak to Ben Wallace about a MACA
+14               request or speak to Michael Gove or the Chancellor or
+15               the Prime Minister I would tell my private office about
+16               the conversation and what we may or may not have agreed
+17               or what we had disagreed on and that would then be fed
+18               in and would be reflected in the advice minute for
+19               any -- ahead of any discussions for any Covid-O meeting
+20               or -- or ministerial implementation group.
+21          Q. Just --
+22          A.   I'm a delegator, I operated at all times with -- with my
+23               office fully in the picture.
+24          Q. Just to be clear, I think, when you answered those
+25               questions, you referred to some specific things like the
+    45
+
+ 1                  MACA, which we know about, the Ministry of Defence
+ 2                  aspect of things, is your response restricted only to
+ 3                  those types of requests or to any government business in
+ 4                  the course of the pandemic?
+ 5             A.   My response --
+ 6             Q. Because in your response I asked you whether the salient
+ 7                  details of those conversations, either in person or on
+ 8                  the telephone, were recorded in the corporate record of
+ 9                  the UK Government, and in your response you referred
+10                  only to certain types of conversations, you said,
+11                  for example, about the MACA requests. Does it -- is it
+12                  only about those types of requests or does your position
+13                  as you reflected it apply more generally to the business
+14                  you conducted, whether to do with MACA or anything else?
+15             A.   When -- when I conduct business, I inform my office.
+16                  So, for instance, in the -- in last -- in the last
+17                  ten days I have had conversations with the
+18                  Secretary of State for Northern Ireland directly about
+19                  including Stranraer and Cairnryan in an investment zone
+20                  for Northern Ireland, as we move towards Stormont
+21                  hopefully being up and running again, and I had
+22                  a conversation with Jeffrey Donaldson and I then come
+23                  back to -- speak to my office directly and inform them
+24                  that I'm trying to have Stranraer and Cairnryan included
+25                  in an investment zone for Northern Ireland as part of
+    46
+
+ 1                the -- because it's not possible to do a free port
+ 2                structure -- and they then take that information and go
+ 3                back, officials to officials, whether it's in DLUHC or
+ 4                the Northern Ireland Office, in this case -- both DLUHC
+ 5                and the Northern Ireland -- so investment zones are
+ 6                DLUHC, in Northern Ireland Office -- obviously regarding
+ 7                the negotiations. They then go back and cement what
+ 8                I -- what we -- what I think we have agreed.
+ 9           Q. I don't think I'm any further forward in response to my
+10               question, Mr Jack. I'm simply trying to ascertain
+11               whether, in the conduct of all of your government
+12               business relating to the management of the pandemic --
+13          A.   Yeah.
+14          Q. -- you would, as you have described for the MACA
+15               requests, have made sure that the salient aspects of any
+16               conversations, personal or on the telephone, would be
+17               recorded on the corporate record?
+18          A.   And I said yes. I thought I'd answered that one, sorry.
+19          Q. Thank you.
+20          A.   I wasn't sure about your question, to be honest.
+21          Q. It's okay, thank you.
+22                    I'd just like to conclude by asking you some
+23               questions about a matter you've mentioned already, which
+24               is a matter, again, we've addressed with some other
+25               witnesses, which is to do with the internal border
+    47
+
+ 1                  between Scotland and England during the course of the
+ 2                  pandemic.
+ 3             A.   Yeah.
+ 4             Q. Do you consider that it was within the competence of the
+ 5                  Scottish Government effectively to close the border and
+ 6                  tell people not to cross the border from Scotland to
+ 7                  England?
+ 8             A.   No.
+ 9             Q. To what extent -- well, can you explain why that's the
+10                  case as a matter of legal principle?
+11             A.   Well, UK borders and Border Force are reserved within
+12                  schedule 5 of the Scotland Act and we have a common
+13                  travel area, which is very clear in the Scotland Act,
+14                  and we are one United Kingdom -- and I said before, the
+15                  virus doesn't respect borders, but --
+16             Q. Do --
+17             A.   -- we are --
+18             Q. -- to --
+19             A.   -- I also said earlier, living in Dumfries and Galloway,
+20                  many people will live in Carlisle and work in Annan or
+21                  Dumfries or vice versa, you know, and they -- they are
+22                  just -- that's their life. And the border, to me, and
+23                  I'm absolutely sure this is right, is that it's
+24                  a geographical border it's not a physical border, so
+25                  there is no border control.
+    48
+
+ 1           Q. Yes, I understand the position. If it were to be the
+ 2                case that the Scottish Government had asserted that
+ 3                people could not cross the border, effectively closing
+ 4                the border, is your position that you understood they
+ 5                didn't have the legal power to do that?
+ 6           A.   That -- that was -- that was our feeling at the time,
+ 7                was that the border had to remain open. I mean,
+ 8                obviously in a lockdown and a travel restriction area of
+ 9                maybe -- or -- or if there were travel restrictions of
+10               5 miles, those just -- those travel restrictions were
+11               relevant but -- but, you know, if you lived in
+12               Coldstream and across the bridge in Coldstream was where
+13               you got your newspaper from, that -- and your travel
+14               restriction was 1 mile, you could still go and get your
+15               newspaper. You know, and to -- and I didn't, I thought
+16               the whole border thing was -- played very much to the
+17               trying to appear like Scotland was a separate country,
+18               a land apart. I felt that was the direction of travel
+19               that the Scottish Government were going down.
+20                   You know, the -- and it became the case also when
+21               the First Minister decided that -- or decreed that
+22               people should not travel to Manchester or Bolton. And
+23               the irony was the prevalence of the virus at the time
+24               was higher in Dundee, I think, than it was in
+25               Greater Manchester, and Andy Burnham -- and I was on the
+    49
+
+ 1                  call the evening we had the meeting, but Andy Burnham --
+ 2                  you could have sold popcorn for Andy Burnham's
+ 3                  performance. He was not best pleased. And he won the
+ 4                  argument resoundingly and the Scottish Government backed
+ 5                  down very quickly. Because the reality was they
+ 6                  couldn't tell people they couldn't travel to Manchester.
+ 7                  That just -- within the United Kingdom they did not have
+ 8                  that power.
+ 9             Q. As you've said, there were, of course, general examples
+10                  of this at times when the Scottish Government said: the
+11                  border is closed, full stop. And more specific
+12                  examples: the border is closed if you're travelling to
+13                  certain places. And Mr Burnham has already given
+14                  evidence about that in a previous module --
+15             A.   Yeah, I mean, it was just -- that was about politics, it
+16                  wasn't about anything else.
+17             Q. To what extent -- you mentioned some discussions to
+18                  which you were party, to what extent did you make
+19                  the UK Government's position clear in that regard, and
+20                  how were these matters ultimately resolved? Because
+21                  they did seem to occur more than once.
+22             A.   Well, we -- we pushed -- we just kept pushing back in
+23                  discussions. I was quite vocal on the fact that it was
+24                  a geographical not a physical border. But, you know,
+25                  the Scottish Government had come up with a strategy,
+    50
+
+ 1                they thought it was going to play well to their
+ 2                audience, and -- whoever that may be, and it --
+ 3                you know, it was a period that we went through but it
+ 4                wasn't a time when -- you know, it wasn't --
+ 5                you know ... relations were strained, as I've said
+ 6                before already, so it was just -- just another thing
+ 7                where we were saying "Well, actually, you know, there is
+ 8                not a physical border, there will not be border checks
+ 9                and border control, that's not happening".
+10          Q. I suspect, Mr Jack, if the Scottish Government were able
+11               to address your point, they might suggest that the
+12               audience to whom they were playing were the people of
+13               Scotland. Was that not entirely legitimate?
+14          A.   Well, I'm not sure everyone in Scotland would have been
+15               signed up to the idea, and certainly the people in --
+16               in -- in the Scottish Borders and Dumfries and Galloway
+17               weren't necessarily signed up if they needed to cross
+18               the border for business. You know, as simple as that.
+19          Q. I'd like to ask you about a couple of passages which
+20               were included in the Scotland Office response to
+21               the Inquiry, where they make some suggestions about the
+22               way in which things might be done better in the future.
+23                   If we could look please at INQ000232507 at
+24               paragraph 126 and 127.
+25                   I'd be interested in your reflections on these
+    51
+
+ 1                  passages, where it says paragraph 126, just the second
+ 2                  half:
+ 3                          "In addition, UK departments drafted a large number
+ 4                  of officials into the response from across the civil
+ 5                  service, meaning that knowledge and experience of
+ 6                  devolution often varied, even on a shift-by-shift basis.
+ 7                  This was particularly the case in the early stages of
+ 8                  the response but as the engagement structure settled and
+ 9                  officers from the UKGG were deployed into the COVID-19
+10                  Secretariat, this improved greatly."
+11                          And in paragraph 127:
+12                          "Embedding an understanding of the devolution
+13                  settlements early and at the core of response structures
+14                  will allow the UK Government to better engage the
+15                  Scottish Government. Future planning should consider
+16                  the inclusion of liaison officers from either the
+17                  territorial offices of departmental devolution teams
+18                  into UK Government departments leading the response to
+19                  ensure that senior officials have devolution expertise
+20                  available to them."
+21                          This seemed to us to be a helpful reflection on some
+22                  difficulties the UK Government had experienced and I was
+23                  interested to try to explore, based on your experience
+24                  of engagement with the Scottish Government, whether you
+25                  agree with this proposal and how you would see that
+    52
+
+ 1                working.
+ 2           A.   Well, I do agree with it, obviously, and I think --
+ 3                I mean, the next emergency, national emergency may be
+ 4                very different, but if -- if it were another -- let's
+ 5                just -- because it's an Inquiry about Covid, let's
+ 6                imagine it's another pandemic.
+ 7           Q. Thank you.
+ 8           A.   I believe that the -- we pulled together the devolved
+ 9                administrations into one centralised -- with -- with the
+10               UK Government -- one centralised decision-making body,
+11               and we -- we used the devolved powers and the mechanisms
+12               within devolution for delivery of response. But the
+13               response is agreed centrally, more joined up, if you
+14               like, than -- than happened this time. I think this
+15               goes right back to one of your very early questions.
+16               And -- and I think we -- we could have done a lot better
+17               if the emergency response plan had -- or -- or whatever
+18               it's called, the lead government department's plan -- if
+19               that had been designed with devolution in mind and
+20               around public health. I think -- I think that would
+21               have been a better way -- and that's a recommendation
+22               I make -- a better way would have been to be prepared
+23               for that and to have pulled everyone together.
+24                    And because it was a -- you know, a terrible virus
+25               and it was destroying families and lives, it -- it --
+    53
+
+ 1                  absolutely, we would have made decisions collectively,
+ 2                  I think. We would have been seen to make -- we would
+ 3                  have made good decisions collectively, because that's
+ 4                  the responsibility as public servants, that's the duty
+ 5                  that's upon us.
+ 6             Q. And -- that's a very helpful suggestion, Mr Jack, but if
+ 7                  this suggestion, a practical suggestion, were to work,
+ 8                  it would of course require both the Scottish Government
+ 9                  and the UK Government to demonstrate a willingness and
+10                  actually act in a way --
+11             A.   Yeah.
+12             Q. -- which sought to try to act in the best interests of
+13                  the Scottish people rather than --
+14             A.   Yes.
+15             Q. -- their more parochial concerns?
+16             A.   Yes, and under -- you're absolutely right on that. And
+17                  under schedule 5, you know, the emergency powers are
+18                  reserved, and those reserved emergency powers should not
+19                  be used, in my view, by the UK Government alone, it
+20                  should be used by pulling together the devolved
+21                  administrations and teamwork.
+22             MR DAWSON: Those are my questions. Thank you, Mr Jack.
+23             THE WITNESS: Thank you.
+24             MR DAWSON: There are some CP questions.
+25             LADY HALLETT: There are.
+    54
+
+ 1                     Ms Mitchell.
+ 2                              Questions from MS MITCHELL KC
+ 3           MS MITCHELL: Mr Jack, I appear as instructed by Aamer Anwar
+ 4                & Company on behalf of the Scottish Covid Bereaved.
+ 5                     Mr Jack, I don't wish to take up any more time than
+ 6                necessary of the Inquiry's time in relation to
+ 7                WhatsApps, so my questions are very brief.
+ 8                     The first one of these is: when did you clear your
+ 9                messages?
+10          A.   Well, that's in my witness statement. It was in
+11               November 2021, on 15 November -- or the 17th -- it's in
+12               my witness statement.
+13          Q. Thank you, and when you did that, did you consider the
+14               information that you held may be relevant to a possible
+15               future inquiry, and if so did you have any thought
+16               process about "Maybe it would be a good idea to save
+17               these to help me recall contemporaneous events",
+18               et cetera?
+19          A.   No, I didn't, I was quite keen for my -- obviously, my
+20               phone to start working again. More importantly, I knew
+21               that I did not take government decisions by WhatsApp,
+22               and that will be borne out by the WhatsApps of ministers
+23               that you do have. You will see that that was not
+24               something that I was in the habit of doing and
+25               I certainly had not done.
+    55
+
+ 1             Q. Well, we certainly have limited access indeed to some
+ 2                  WhatsApp messages that you were involved in.
+ 3             A.   Yeah.
+ 4             Q. But you gave evidence in your written statement,
+ 5                  for example, that you recall sending messages to Cabinet
+ 6                  colleagues about specific policy matters and I'm just
+ 7                  wondering, if we could perhaps take it away from your
+ 8                  specific circumstance of your phone not working, do you
+ 9                  think it's a good idea if these contemporaneous records
+10                  are somehow available and kept to be stored so that in
+11                  the event of a public inquiry those matters can be
+12                  placed before an Inquiry?
+13             A.   I do, and I think if I could turn the clock back,
+14                  knowing what I know now, I would have sought a different
+15                  solution for my lack of storage capacity. I mean, I'm
+16                  not -- I'm a bit of a Luddite. I'm the only member of
+17                  the Cabinet not to have any social media accounts.
+18                  Okay. It's not something I'm -- you know, I -- but
+19                  that's no excuse, the reality is, you know, I regret
+20                  that I deleted my entire account. For a number of
+21                  reasons. I regret it because of the Inquiry, I regret
+22                  it because actually I hadn't saved some sort of family
+23                  photographs and bits and pieces that maybe I should have
+24                  done, but that's -- that's how it -- that's how it
+25                  transpired because, as I said, I deleted absolutely
+    56
+
+ 1                everything to get storage capacity. In future, to
+ 2                answer to your question, it would -- I think these
+ 3                matters -- all matters relating to an event like this
+ 4                should be put on -- should be recorded within, within
+ 5                the offices of the ministers, relevant ministers.
+ 6           Q. Moving on, in relation to paragraph 29 of your
+ 7                statement -- we don't need to bring it up, it's
+ 8                a question I simply want to ask you about it -- you
+ 9                said:
+10                      "My Office would also assist and facilitate other UK
+11               Government departments with the task of consulting with
+12               and liaising with the correct contacts in the Scottish
+13               Government. For instance, early in the pandemic my
+14               officials helped source information from the Scottish
+15               Government as requested by the Department for Health and
+16               Social Care."
+17                      Can you provide examples of what information the
+18               Department of Health and Social Care asked your office
+19               to obtain. What sort of information were they looking
+20               for?
+21          A.   Well, I will send that to you, what the -- what requests
+22               were there, which are in my witness statement, I will
+23               send you the details.
+24          Q. What I'm wondering is: are there, for example, specific
+25               examples where things could be done better by collating
+    57
+
+ 1                  things, for example, on a database?
+ 2             A.   So I -- I nearly gave you that answer but I'm not sure
+ 3                  if that was what you were referring to.
+ 4                       I -- we were -- we were keen to have data, and I did
+ 5                  press this case with -- with Scottish Government
+ 6                  ministers, we were keen to have data that was able to be
+ 7                  used in an apples for apple -- like -- apples, pears for
+ 8                  pears position across the UK. And if you remember the
+ 9                  10 o'clock news back in -- during the Covid pandemic,
+10                  the early stages of the Covid pandemic, it would say --
+11                  the stats would come up, on cases and deaths, on the
+12                  10 o'clock news, and there would be an asterisk and it
+13                  would say below "excludes Scotland". I was very keen
+14                  that we got the same information, recorded in the same
+15                  way, on a UK-wide basis, and I think that was -- that --
+16                  that was certainly something that I was pressing on
+17                  behalf of the Department of Health.
+18             Q. Can I then ask you, in June 2020 the Scottish Government
+19                  set out ten principles that it proposed the
+20                  UK Government should follow to support the UK economy,
+21                  and of course with that Scotland, and public finances as
+22                  they began to recover from the impacts of Covid-19.
+23                       Did you do any work as a result of that document
+24                  being made available? For example, did you consult on
+25                  it or discuss it with your colleagues in the
+    58
+
+ 1                UK Parliament or seek implementation of any of those
+ 2                policies?
+ 3           A.   No.
+ 4           Q. Can I ask you why?
+ 5           A.   Because it was a policy for the -- for the -- for the
+ 6                Scottish Government for Scotland and it was for them to
+ 7                implement, I didn't want to interfere.
+ 8           Q. I think though the document itself was about ten
+ 9                principles that it proposed not internally for itself
+10               but also for the UK Government.
+11          A.   Well, the UK Government had -- the Treasury had their
+12               own strategy, the Chancellor had his own plans, and,
+13               you know, that -- in terms of respecting devolution,
+14               you know, we were respecting devolution, but -- but --
+15               but that -- that broader position was, I would say, was
+16               broadly reserved. I mean, it's always blurred lines
+17               within the devolution settlement but it was broadly
+18               reserved to the UK Government. But it was for -- if the
+19               Scottish Government wanted to follow their -- those
+20               economic plans that they had, which they want to do,
+21               that's for them, but it wasn't -- it wasn't for the --
+22               you know, the Treasury had their own plans.
+23          Q. Yes, I think it wasn't really -- it wasn't plans, it
+24               wasn't specific plans, it was a group of guiding
+25               principles that they thought would be helpful to state
+    59
+
+ 1                  to assist the UK Government to follow to support the
+ 2                  UK economy and public finances --
+ 3             A.   Well, I mean --
+ 4             Q. -- not engage in --
+ 5             A.   -- if -- if we went through them one by one, we might
+ 6                  find that quite a lot of them we were already doing
+ 7                  anyway, and some of them we may have disagreed with, but
+ 8                  I haven't -- without having them in front of me ...
+ 9             Q. I see, but did you do any work on them at the time?
+10                  Like, did you think, "Oh, I should maybe speak to
+11                  someone about these", or "implement them" or -- did that
+12                  thought process come to you or did you simply not engage
+13                  with --
+14             A.   The Scottish Government did not send it to me, and I did
+15                  not do anything with it.
+16             Q. The Inquiry has heard evidence from Mr Swinney, he was
+17                  unaware of your concern about data being England-only
+18                  when some UK decisions were taken. Were you involved in
+19                  any part in trying to ensure the easy flow of data?
+20                  Because we've heard quite a lot in Module 2 the
+21                  difficulties initially, early, about data in Scotland
+22                  not being able to be used by the UK Government. Did you
+23                  form any part in trying to assist in that process?
+24             A.   Yes, I -- I pressed and my officials pressed to
+25                  standardise data across the UK. There has been
+    60
+
+ 1                a subsequent Bill in Parliament coming forward on data
+ 2                and I'm still trying to get us all on the same datasets
+ 3                going forward. Part of the -- I mean, there was
+ 4                resistance from the Scottish Government, they wanted to
+ 5                measure -- they measure the Covid deaths in relation to
+ 6                those that had contracted the virus differently, and we
+ 7                had to --
+ 8           Q. I think by "differently", do you mean in different
+ 9                timescales?
+10          A.   In different timescales, sorry, yes, you're absolutely
+11               right.
+12                    And I was keen that we all got onto the same page.
+13               But, you know -- because you weren't comparing apples
+14               with apples, as I said earlier. But that wasn't
+15               possible bec -- and, as I say, ultimately it was
+16               devolved and therefore I had to respect that.
+17          Q. How quickly were you able to act upon -- it became clear
+18               pretty quickly that there were being UK decisions that
+19               needed to be made, with England-only data, and a problem
+20               with Scotland; how quickly was the Scottish Office, your
+21               office, able to react to that and to try to assist?
+22          A.   Well, we -- it was a matter -- I mean, it was
+23               a matter -- in the early months it was an ongoing --
+24               you know, we were looking at this, the data, the CRIPs
+25               as they're called, on a weekly basis, sometimes on
+    61
+
+ 1                  a daily basis, and it was a matter of frustration that
+ 2                  the Scottish data was not being submitted.
+ 3             Q. You say in your statement -- again, I don't need it to
+ 4                  be brought up, but I'll just refresh your memory as to
+ 5                  what was said, it said:
+ 6                       "My officials also identified that a PPE plan
+ 7                  prepared by [the Department of Health and Social Care]
+ 8                  did not dealing with the challenging issues of
+ 9                  monitoring stock across the UK or the equitable
+10                  distribution between the four nations and was 'Whitehall
+11                  centric'. They worked with Scottish Government
+12                  officials to suggest amendments to make it work for all
+13                  parts of the UK."
+14                       Given we now know some of the difficulties that
+15                  the UK Government has gotten into in respect of PPE, is
+16                  this an example -- the decision to, as it were, go their
+17                  own way on PPE, is this not an example where each of the
+18                  devolved administrations, Scotland in particular, as I'm
+19                  speaking to you, made a reasonable choice to go their
+20                  own way rather than it being a problem doing it
+21                  themselves?
+22             A.   I, I wanted the -- it to be equitable, the distribution
+23                  of PPE across the United Kingdom, and I was concerned
+24                  that due to the -- if you like, the might of the -- the
+25                  broad shoulders of the UK Government Treasury, that --
+    62
+
+ 1                and PPE prices -- remember I was long in business before
+ 2                I came into politics in 2017 and I understand supply and
+ 3                demand -- and PPE prices were spiking, and I wanted the
+ 4                Treasury to be obviously responsible for the purchase of
+ 5                that PPE, which was one of -- that's what happened, but
+ 6                I wanted to be sure that the PPE was fairly distributed
+ 7                across the United Kingdom, and that the Scottish
+ 8                Government weren't having to spend -- you know, in what
+ 9                was an expensive market, spend money that I would rather
+10               have been spent on other things. So for that reason
+11               I pressed hard for the -- for a -- for a structure that
+12               made the distribution of PPE fair and equal.
+13                    Now, it's very easy to say, well, that should have
+14               happened anyway, and it should have -- and it did
+15               happen, and it's -- and it's very possible to say that
+16               was the only thing that was ever going to happen, but it
+17               doesn't change the fact that, you know, I -- there were
+18               concerns relayed through officials to my office about
+19               fair distribution of PPE and rather than react
+20               afterwards, should it have not been the case, and by the
+21               way it wasn't -- it was distributed fairly, I got on the
+22               front foot and made sure that that was -- rather like
+23               I did with the vaccines, the vaccines were stored in
+24               England, in --
+25          Q. Well --
+    63
+
+ 1             A.   -- in -- you want to come on to that, do you?
+ 2             Q. No, sorry, I was just hoping to restrict my answer.
+ 3                  My Lady is dealing with a very tight --
+ 4             A.   Oh, sorry.
+ 5             Q. -- timescale and --
+ 6             A.   I'll just say, the same with the vaccines, I ensured
+ 7                  that vaccine distribution was fair for Scotland. They
+ 8                  were stored centrally in England and available
+ 9                  overnight -- to be called overnight.
+10             Q. I --
+11             A.   The same thing.
+12             Q. I think the focus of my question was more really to
+13                  address the question of whether or not the plan -- and
+14                  it was a plan which had already been produced by the
+15                  Department of Health and Social Care, which was
+16                  Whitehall-centric, that had already been done -- was
+17                  there a basis or do you think there is a basis for
+18                  suggesting that in fact it was the right way to go for
+19                  Scotland to simply say "We're going to deal with this
+20                  now from now on, get our own PPE and deal with
+21                  distribution ourselves"?
+22             A.   No, because -- because of the spike in prices and the
+23                  purchasing power as one United Kingdom, I felt it was
+24                  important that two things happened: one,
+25                  the UK Government did the purchasing and hopefully got
+    64
+
+ 1                better prices; and -- and secondly, that
+ 2                the UK Government bore the cost of that for the
+ 3                whole UK.
+ 4           Q. Well, no doubt that will come to be examined in
+ 5                future --
+ 6           A.   Okay.
+ 7           Q. -- modules.
+ 8                    You have already indicated to my learned friend your
+ 9                involvement, as it were, in the Eat Out to Help Out
+10               scheme, and you mentioned involvement, I think, at the
+11               Covid-O meeting. Is that correct?
+12                   Can you give us any information on what was
+13               discussed in terms of the needs of and the impact on the
+14               people and business in Scotland, in particular in
+15               relation to Eat Out to Help Out scheme? The reason why
+16               I ask is everybody we've asked to date, almost every
+17               person has said that they were unaware of the scheme
+18               before the Treasury announced it. So it would be
+19               helpful if you're able to give us some insight into what
+20               involvement you had in relation to Scotland --
+21          A.   Well, I -- I was -- I was at Cabinet when it was
+22               approved. I was keen that it was a UK-wide scheme. My
+23               personal position was it was -- I was keen it was
+24               a UK-wide scheme because I wanted the Treasury to give
+25               support to hospitality businesses in Scotland, who
+    65
+
+ 1                  I knew, from their communications with me, were
+ 2                  struggling terribly.
+ 3                      As to the point about the Scottish Government being
+ 4                  taken by surprise, I would have expected that Treasury
+ 5                  officials were talking to Scottish Government officials
+ 6                  about it and about the implementation of it, because
+ 7                  these things can't just happen without proper
+ 8                  implementation and planning.
+ 9             Q. In fairness, Mr Jack, I don't think it was just the
+10                  Scottish Government that was taken by surprise but
+11                  senior members of the UK Government too.
+12             A.   Well, I -- I mean, I am also surprised that officials
+13                  were not talking to officials within the devolved
+14                  administrations about the implementation of it.
+15             MS MITCHELL: My Lady, those are my questions.
+16             LADY HALLETT: Thank you very much, Ms Mitchell.
+17                      Thank you very much, Mr Jack. I don't think I'll
+18                  have to call on you again, but thank you for your help.
+19             THE WITNESS: Thank you very much.
+20                                    (The witness withdrew)
+21             LADY HALLETT: Very well, we shall rise now and I shall
+22                  return at 11.40, when we'll hear closing submissions --
+23                  would you like 11.45, Ms Mitchell?
+24             MS MITCHELL: That might be helpful, my Lady.
+25             LADY HALLETT: It's only an extra five minutes, but okay,
+    66
+
+ 1                11.45. Thank you.
+ 2           (11.23 am)
+ 3                                     (A short break)
+ 4           (11.45 am)
+ 5           LADY HALLETT: We now begin closing submissions.
+ 6                    For those who are following proceedings, just so
+ 7                they understand, the core participants can make closing
+ 8                submissions either orally or in writing or both, and now
+ 9                what's going to happen is four core participants have
+10               chosen to make oral submissions, but they will be
+11               supplemented by their written submissions so they can
+12               just focus on the main highlights.
+13                   Ms Mitchell.
+14               Submissions on behalf of Scottish Covid Bereaved by
+15                                     MS MITCHELL KC
+16          MS MITCHELL: I'm obliged, my Lady. I appear on behalf of
+17               the Scottish Covid Bereaved, as instructed by the
+18               Inquiries team at Aamer Anwar & Company.
+19                   At the outset of this module, Counsel to the Inquiry
+20               set out in stark terms the devastating impact of the
+21               pandemic on the people of Scotland, at this time, with
+22               the total number of Covid deaths reported in Scotland up
+23               to 31 March 2022 being 14,130. While it may be tempting
+24               for some to think that the days of Covid deaths are
+25               behind us, in the week ending 21 January 2024 there were
+    67
+
+ 1                  23 Covid deaths in Scotland. Many more, some with us
+ 2                  here today, are suffering from the effects of
+ 3                  Long Covid.
+ 4                      Whilst during the course of the pandemic some wanted
+ 5                  "a good old fashioned rammy so they could think about
+ 6                  something other than sick people", the bereaved did not
+ 7                  have that luxury. For those whose loved ones died in
+ 8                  hospitals, in care homes or in prison, alone or
+ 9                  surrounded by strangers in face masks and gowns, all
+10                  they now have are their thoughts and their memories of
+11                  their loved ones. They do not wish them to be just
+12                  another statistic or another sick person. For the
+13                  bereaved of course they were far more: mum, dad,
+14                  partner, husband, wife, brother, sister, son, daughter.
+15                      It was in memory of those loved ones that the
+16                  bereaved campaigned for a public inquiry, because they
+17                  wanted answers. They did not campaign for this Inquiry
+18                  to discuss WhatsApps and the minutiae of Scottish
+19                  Government guidelines. It is a matter of deep regret
+20                  for the bereaved that these important matters have been,
+21                  through no fault of the Inquiry, overshadowed by the
+22                  absence of WhatsApps.
+23                      Some of the best evidence in Module 2 came from
+24                  informal communications, unguarded, contemporaneous
+25                  messages which helped provide answers to the questions
+    68
+
+ 1           of what was happening in Whitehall and why. The actions
+ 2           of Nicola Sturgeon, Liz Lloyd, Jason Leitch,
+ 3           John Swinney and others have robbed the bereaved of
+ 4           those contemporaneous messages, and with them answers to
+ 5           questions.
+ 6               The Scottish Covid Bereaved, like many Scots, tuned
+ 7           in almost religiously to Nicola Sturgeon's daily Covid
+ 8           briefings. During the pandemic, many of us saw more of
+ 9           the First Minister and Professor Leitch than we did of
+10          our own families.
+11              It was at one of these daily briefings that
+12          Nicola Sturgeon was asked if she could guarantee to the
+13          bereaved that she would disclose private emails and
+14          WhatsApps, that nothing would be off limits to a public
+15          inquiry. The SCB took her at her word.
+16              The Scottish Covid Bereaved say that when
+17          Nicola Sturgeon told the Scottish public that she was
+18          prepared to give an assurance she would disclose
+19          messages that she knew she had deleted, this was not
+20          just a failing to be clear in an answer. It ought to
+21          have been made clear that she and other Scottish
+22          ministers routinely deleted important information
+23          relating to the pandemic, and that it was beyond the
+24          reach of Freedom of Information legislation and public
+25          inquiries.
+    69
+
+ 1                 My Lady, in concluding in relation to this issue,
+ 2             it's hoped that those within the Scottish Government
+ 3             reflect on the fact that each minute this Inquiry spent
+ 4             at these hearings -- very properly, of course --
+ 5             addressing the deletion of WhatsApp messages was
+ 6             a minute that could not have been spent exploring
+ 7             substantive matters, a minute that brought the bereaved
+ 8             no closer to the answers they seek.
+ 9                 These past three weeks have revealed, however much
+10             the Scottish Government may seek to differentiate itself
+11             from the UK Government, that many of the same mistakes
+12             were made in Edinburgh as were made in London: a failure
+13             to learn lessons from previous outbreaks; a failure to
+14             have a proper pandemic plan in place; a failure to have
+15             a proper testing regime, if indeed any ability to test;
+16             a failure to lock down in time; a failure to recognise
+17             the specific impact on health and social care sector;
+18             a failure to protect the most vulnerable; and a failure
+19             to properly consider the effect of their decisions taken
+20             on loved ones, for example, those unable to visit loved
+21             ones in hospital, and of course the effect of the
+22             transfer of vulnerable people into care homes.
+23                 In our closing submissions to the Inquiry in
+24             Module 2, the Scottish Covid Bereaved described
+25             the UK Government's response from the period of
+    70
+
+ 1           13 March 2020 to the issue of the stay-at-home order as
+ 2           being ten deadly days of delay. It was with disbelief
+ 3           that the Scottish Covid Bereaved learned that the dither
+ 4           and delay at the heart of the Scottish Government
+ 5           started long before then.
+ 6               On 21 January 2020 Mark Woolhouse, professor of
+ 7           infectious disease epidemiology, contacted Dr Catherine
+ 8           Calderwood, the Scottish Government's Chief Medical
+ 9           Officer. Professor Woolhouse was concerned about the
+10          emergence of a new virus. From round about January 10,
+11          2020, he thought it was very likely that we would have
+12          a pandemic and thought the Scottish Government needed to
+13          quickly engage with it. Professor Woolhouse gave
+14          evidence of the warnings he gave to Dr Calderwood that
+15          the virus was completely different magnitude of the
+16          problem in swine flu, the risk of mortality among
+17          vulnerable patients, epidemiological modelling predicted
+18          at least half of the population would become infected,
+19          the gross mortality rate would triple and the health
+20          system would become completely overwhelmed.
+21              On 26 January 2020 Professor Woolhouse sent
+22          a further email to Dr Calderwood setting out the
+23          non-pharmaceutical interventions required to deal with
+24          the situation. Despite these credible and dire
+25          warnings, there was a lack of urgency on the part of the
+    71
+
+ 1             Scottish Government. So frustrated was
+ 2             Professor Woolhouse that he had to email Dame Sally
+ 3             Davies, the UK Government's former CMO, and ask her to
+ 4             get Dr Calderwood in effect to listen to him.
+ 5                 We can only wonder how many lives could have been
+ 6             saved if Professor Woolhouse's warnings were taken
+ 7             seriously at the time.
+ 8                 The evidence led before the Inquiry has left the
+ 9             Scottish Covid Bereaved with a great many questions
+10             played(sic) about the part of Dr Calderwood and the
+11             information provided as the main conduit, as she was
+12             described, of information on medical matters to the then
+13             First Minister. This module is not whole without her
+14             evidence, and the SCB look forward to hearing her
+15             evidence in due course.
+16                 The Inquiry will have to consider whether the
+17             Scottish Government had the right advisers. During the
+18             pandemic, it was clear to anyone who turned on the TV or
+19             radio the extent to which First Minister was reliant
+20             upon the advice of the CMOs, Professor Smith and
+21             Professor Leitch. While these advisers had experience
+22             in public health, their backgrounds were in obstetrics,
+23             general practice and dentistry. Were they the right
+24             experts to help a government fight a deadly disease such
+25             as Covid-19?
+    72
+
+ 1               From the evidence led, it appears that at least one
+ 2           expert did have direct access to the First Minister,
+ 3           Professor Sridhar. The SCBA thanked her for selflessly
+ 4           placing herself in the front line against the pandemic.
+ 5               The Inquiry must turn its mind and consider whether
+ 6           time was spent wasted in pursuit of what may have been
+ 7           an unachievable strategy of zero Covid.
+ 8               The deletion of WhatsApps as aforementioned are
+ 9           symptomatic of a wider culture within the Scottish
+10          Government, and that is one of secrecy. Whether in
+11          relation to the Nike conference or rugby internationals,
+12          the Scottish Government's first instinct was to keep
+13          information from the people of Scotland. The Scottish
+14          Covid Bereaved will never know how and why decisions
+15          were made in relation to gold command meetings, they
+16          went unminuted, with no record of the discussions that
+17          took place at those meetings.
+18              While the First Minister thought that there was
+19          undoubtedly a learning point for the Scottish
+20          Government, it ought have been obvious to ministers and
+21          civil servants that those meetings required to be
+22          minuted. The Scottish Covid Bereaved are left with
+23          simply a question: what is trying to be hidden?
+24              Civil servants boasted of plausible deniability and
+25          putting messages beyond the reach of FOIs. The National
+    73
+
+ 1             Clinical Director gave the now First Minister a how-to
+ 2             guide on breaking the rules that the rest of us had to
+ 3             follow. The Scottish Government moved from a Cabinet
+ 4             system to a presidential one where decisions were being
+ 5             taken by a small number of people and rubber stamped.
+ 6                 This module deals with government but it did raise
+ 7             and touch on other issues, my Lady, and of course the
+ 8             Scottish Covid Bereaved are aware that further modules
+ 9             will deal with matters particularly in relation to the
+10             evidence of Dr Macaskill. But questions obviously posed
+11             and what the bereaved are keen to hear about are: were
+12             the risks of placing positive patients into care homes
+13             not obvious? Why was so little thought given to
+14             allowing families to be with their loved ones in their
+15             dying moments? In some instances, weeks went by where
+16             people went into hospitals, yet loved ones were denied
+17             access.
+18                 A question here is indeed whether or not their human
+19             rights, their right to family life, were breached, and
+20             my Lady may know that that's already been considered
+21             elsewhere.
+22                 Rather than waiting for Downing Street to act, why
+23             was no thought given to how to use Scottish Parliament's
+24             public health powers to protect our borders and slow the
+25             spread of the virus?
+    74
+
+ 1               The Scottish Covid Bereaved will develop what has
+ 2           been said in our written submissions.
+ 3               It's clear to the Scottish Covid Bereaved that the
+ 4           evidence led has demonstrated that the Scottish
+ 5           Government was too slow to act, that despite their
+ 6           political and constitutional differences they fell into
+ 7           the slipstream of the UK Government and took clear steps
+ 8           to hide information from the people of Scotland.
+ 9               The Scottish Covid Bereaved are not interested in
+10          arguments in relation to independence or unionism.
+11          They're interested in finding out what decisions were
+12          taken in relation to their loved ones and whether
+13          different decisions ought to have been taken and what
+14          can be learned for future generations.
+15              My Lady, the Scottish Covid Bereaved are tired of
+16          being in the middle of a political debate. They fight
+17          for those who lost their lives to Covid.
+18              The Scottish Covid Bereaved hope the legacy of this
+19          Inquiry is that the Scottish Government will have in
+20          place a proper plan for dealing with the next pandemic
+21          when it arrives, and it is in that hope, my Lady, that
+22          the Scottish Covid Bereaved suggest a number of
+23          recommendations that relate to governance and
+24          infrastructure.
+25              Now, my Lady, I'm going to mention a few of these,
+    75
+
+ 1             but it's not to be taken in any order of preference or
+ 2             in any way a comprehensive list. The list goes on,
+ 3             my Lady, a lot longer than the 20 minutes allow, but
+ 4             I'll give my Lady a few examples of things that have
+ 5             come forward in the evidence.
+ 6                 For example, as a result of the evidence of
+ 7             Professor Paul Cairney about the dissatisfaction of
+ 8             Audit Scotland, it must be possible to establish
+ 9             a system to account for funds from the UK Government
+10             spent by the Scottish Government. It ought not to be
+11             something that Audit Scotland indicates that they have
+12             difficulty following, so there must be some ability to
+13             put something in place.
+14                 In respect of what was said by Mr Macaskill, it
+15             appears that an urgent review of the systems, processes
+16             and governance of care homes in Scotland are required.
+17             Are they fit for purpose?
+18                 It of course would come as no surprise to my Lady
+19             that one of the suggestions is that Scotland has to have
+20             its own testing facility, maintained and ready to deal
+21             with scaling up, to have a draft written strategy on
+22             testing. My Lady will recall the somewhat surprising
+23             evidence that was described as an informal policy, and
+24             I think my Lady interjected to say that perhaps there
+25             hadn't been one, that an informal unwritten policy was
+    76
+
+ 1           in fact not fit for purpose.
+ 2               Of course, as said before, one of the
+ 3           recommendations the Scottish Covid Bereaved are keen to
+ 4           see implemented is a change to Scottish Government
+ 5           policy requiring retention of any electronic
+ 6           communications which relate to the business of
+ 7           government; and also for consideration to be given to
+ 8           change the FOI policies that are currently in place,
+ 9           because, as we heard in evidence, those are only
+10          required of civil servants, and it meant that each
+11          individual minister -- with regards to whether or not
+12          they were obtempering guidance or not -- decided whether
+13          to delete or not to delete their messages.
+14              As suggested by expert witnesses McMenamin and Phin,
+15          it is suggested that the Scottish Government should
+16          consider having an overarching health protection
+17          structure to be put in place.
+18              Further, as my Lady has heard, flowing through this
+19          and Module 2, recommendations in relation to the
+20          improvement of data, and particularly data as it applies
+21          to healthcare in relation to adult social care and
+22          care homes where there seemed to be a particular lack of
+23          information.
+24              Sheila Rowan suggested -- in perhaps more eloquent
+25          terms than we did at the end of Module 2 -- that there
+    77
+
+ 1             should be a cross referencing of expertise. I think we
+ 2             called it, as lawyers sometimes do, hot tubbing; having
+ 3             experts from different areas come together to see how
+ 4             their ideas, if implemented, would affect other areas.
+ 5             She suggested a chief advisers group to get an overview
+ 6             and a crossover of policies to improve knowledge across
+ 7             the board, for there to be the CMO, the CSA, the Chief
+ 8             Scientist, the Chief Economist and Statistician, all to
+ 9             liaise together in a one body so that decisions taken
+10             could be tested on all those fronts rather than
+11             individual decisions being taken; and that, my Lady,
+12             could only assist in circumstances where politicians are
+13             being asked to balance harms if they have the experts to
+14             together looking at those matters and coming, if not
+15             with a concluded view, to have those different views
+16             expressed.
+17                 Another interesting feature of Scottish legislation
+18             and something the Scottish Covid Bereaved consider
+19             should be worthy of recommendations of review is
+20             a review of the made affirmative procedure, to consider
+21             a restriction on this to ensure that legislature that
+22             cuts across human rights can't be made without
+23             parliamentary oversight and can't be rolled over to
+24             avoid challenge.
+25                 Staying on the issue of legislation, my Lady,
+    78
+
+ 1           my Lady heard the evidence of the expert who agreed,
+ 2           I think, with my Lady's propositions about the
+ 3           unintelligibility of legislation in respect of what
+ 4           people should do to not fall foul of the criminal law.
+ 5           Of course criminal law has to be Article 7 compliant; in
+ 6           a pandemic, of all times, people ought to be certain
+ 7           that they know what the law is and what behaviour is
+ 8           likely to breach it. Draft legislation could be drawn
+ 9           up in non-pandemic times and adapted, rather than have
+10          rushed legislation which was not comprehensible.
+11              My Lady, further, the Scottish Covid Bereaved
+12          consider that a body should be set up, as with the
+13          UK Government, to oversee special advisers. The
+14          Scottish Covid Bereaved consider that the special
+15          advisers code is not sufficient for purpose, my Lady, to
+16          ensure that there is proper consideration given to the
+17          oversight of special advisers in the Scottish
+18          Government.
+19              The Scottish Covid Bereaved consider that there
+20          ought to be a review of the Scottish Government
+21          personality. Its secrecy, my Lady, is out of step with
+22          what the public want. The public want transparency in
+23          government, and the FOI jokes show a government
+24          unwilling to be scrutinised; and it is clear, my Lady,
+25          with difficulties even on obtaining disclosure, that
+    79
+
+ 1             there must be a better focus placed on allowing people
+ 2             to understand the detail of what goes on. These are
+ 3             meetings on behalf of the Scottish people, for the
+ 4             Scottish people, and there's no reason that there should
+ 5             be any secrecy in that regard.
+ 6                 My Lady, I'll conclude, just within time, with two
+ 7             further suggestions.
+ 8                 Consideration of what was being described as
+ 9             pandemic budgeting agreement.
+10                 My Lady will have heard the evidence of Kate Forbes
+11             and the efforts that were made to assist in the problems
+12             of pandemic budgeting. It's respectfully submitted that
+13             if such a body is put up in place, at this time, or
+14             a budgeting agreement is put in place to allow the flow
+15             of money in an easier way, that would be one of the most
+16             basic ways in which issues that don't need to be
+17             problematic in a pandemic and don't need to draw focus
+18             of time and effort could be dealt with in advance, in
+19             order that the focus can be placed simply on the virus.
+20                 Kate Forbes also mentioned that, in order to provide
+21             a proper system of governance, I suppose, it means
+22             proper investment in infrastructure of government, and
+23             she was clear that this should be done before the next
+24             pandemic and we shouldn't be on the hoof trying to make
+25             up new systems when they were there.
+    80
+
+ 1                   Before the Scottish Covid Bereaved finalise our
+ 2               submissions in writing to you, my Lady, we wish to
+ 3               ensure that we've considered all the disclosure and we
+ 4               have also listened carefully today to the views
+ 5               expressed by other core participants.
+ 6                   My Lady, the Scottish Covid Bereaved are obliged to
+ 7               the Inquiry for coming to Scotland. Indeed, I think
+ 8               members of the Scottish Covid Bereaved have written on
+ 9               their own to express their thanks, not only, my Lady, to
+10              those at front of house, as it were, but those behind
+11              the scenes who have assisted what has been at times
+12              a very difficult experience for them in coming to hear
+13              evidence.
+14                  I conclude simply by saying that those are the
+15              submissions at this stage on behalf of the Scottish
+16              Covid Bereaved.
+17          LADY HALLETT: Thank you very much indeed, Ms Mitchell, and
+18              indeed we have received messages, and they've been very
+19              welcome and very touching. We're very grateful.
+20                  Mr Friedman.
+21          Submissions on behalf of Disabled People's Organisations by
+22                                    MR FRIEDMAN KC
+23          MR FRIEDMAN: Thank you.
+24                  We act for Inclusion Scotland and Disability Rights
+25              UK; they are national organisations run by and for
+    81
+
+ 1             disabled people.
+ 2                 My Lady, where were the disabled people of Scotland
+ 3             in the pandemic disaster management system? The answer
+ 4             is that, whatever their recognition as citizens, their
+ 5             protection was not solid enough. The notion that no one
+ 6             should be left behind was effectively thwarted before
+ 7             the crisis started. That situation produced a chain
+ 8             reaction across all aspects of decision-making and
+ 9             government services, because everything that followed
+10             was reactive government, not proactive, and despite
+11             intentions not especially collaborative.
+12                 Three features of the overall system are worthy of
+13             note.
+14                 First, while health inequalities and their
+15             implications for disabled people were recognised in
+16             Scotland through human rights policy and public health
+17             doctrine, as Caroline Lamb accepted in Module 1 and as
+18             this module's evidence makes clear, core pandemic
+19             planning and emergency systems encompassing health
+20             inequalities did not yet exist in 2020.
+21                 Second, in this overall lower income and less
+22             clinically robust part of the UK, Scotland knew its
+23             health limitations, and therefore government put its
+24             fear of people dying from Covid above all other harms.
+25             Indeed, Dr Smith's position was that Scottish concern
+    82
+
+ 1               about Covid health risk was a matter of national
+ 2               cultural concern as much as clinical concern. We do not
+ 3               criticise that. But in the midst of an emergency, it
+ 4               was the concern that trumped all else. It meant that
+ 5               despite disabled people already being in a dire state of
+ 6               crisis pre-pandemic, and Scottish Government being aware
+ 7               of that, the impact of the NPIs on disabled people was
+ 8               not sufficiently mitigated.
+ 9                   Third, in Module 1 Nicola Sturgeon said that what
+10              she worried about literally every day during the
+11              pandemic was not so much that the government did not
+12              have a plan, but that Scotland did not have the
+13              underlying capabilities to discharge a plan.
+14                  My Lady has now studied the scenarios for
+15              approaching lockdown differently, especially Professor
+16              Woolhouse's suggested approach of cocooning to protect
+17              the clinically vulnerable rather than a universal
+18              lockdown.
+19                  What these alternatives scenarios do not always take
+20              into account is the lack of infrastructure and services
+21              in Scotland, and in the whole UK, that prevented the
+22              state from acting differently. Taking disabled people
+23              as the stress tester for the idea, how can you create
+24              cocooned supershielding when you do not have the
+25              sufficient data, adequate engagement or proper support
+    83
+
+ 1             systems for those in care homes or those cared for at
+ 2             home to deliver such a strategy?
+ 3                 The proposed national care service would be the
+ 4             beginning of that capability, but in the summer of 2020,
+ 5             let alone the first six weeks of 2020, one-size
+ 6             lockdowns were as good as anywhere in the four nations
+ 7             of the UK could get.
+ 8                 What happened once Scotland had to plan and respond
+ 9             to a pandemic from scratch? In that assessment, it
+10             finds an important critical friend in Professor Cairney.
+11             Of the four harms policy and the general requirement to
+12             promote human rights and equality in the National
+13             Performance Frameworks, he asked rhetorically: who
+14             wouldn't want a human rights approach? His criticism
+15             was that the detail of how government made choices about
+16             human rights is, to use his language, laudable, but what
+17             was far from visible is how the decisions were being
+18             made.
+19                 For disabled people, the answer requires unpacking.
+20             Human rights are part of the moral compass of the
+21             so-called Scottish model of government and style of
+22             politics. The situation is far more complicated in
+23             Westminster, where government often expresses itself as
+24             ambivalent about human rights issues. The quality of
+25             the conversation on disability rights was better in
+    84
+
+ 1           Scotland, as was the level of awareness of what needed
+ 2           to be done. However, Scotland did not show itself to be
+ 3           particularly progressive in the actual delivery of human
+ 4           rights. The Covid response investigation by the
+ 5           Scottish commission for human rights found that the
+ 6           government could have been better in mainstreaming and
+ 7           cascading human rights compliance across different areas
+ 8           of decision-making and delivery. The Scottish state is
+ 9           considerate in its value of rights, but not yet
+10          systematic or necessarily skilled in their
+11          implementation.
+12              During the pandemic, the government had its four
+13          harms framework that conceptualised trade-offs between
+14          harms, but it did not from the outset create a discrete
+15          Covid plan for disabled people that anticipated and
+16          prevented hardship. There was no plan to cater for the
+17          foreseeable collapse in care, or to deal with food and
+18          other resource scarcity that befell those beyond and off
+19          the highest risk list. There was no plan to immediately
+20          obviate digital exclusion. To paraphrase
+21          Dr Jim Elder-Woodward, government did not prevent
+22          excessive utilitarianism in healthcare and/or
+23          social care provision, nor did it enroll the DPO as
+24          emergency co-responders as part of the plan.
+25              Since devolution, Scotland has constructed a new
+    85
+
+ 1             machinery of government. How did those structures
+ 2             affect the ability of decision-makers to deliver on
+ 3             their human rights aims?
+ 4                 First, the Scottish model of government may be
+ 5             considerably more similar to Westminster than it wants
+ 6             to be, especially during crisis. Professor Cairney has
+ 7             broad observations to offer on this, but for the DPO
+ 8             there is much to be said that as a result of the lack of
+ 9             anticipatory and preventative planning, policy and
+10             infrastructure, government veered into centralised and
+11             top-down behaviour. This initially led to the relative
+12             disengagement from DPO compared to pre-pandemic
+13             collaboration; it also led to a number of witnesses
+14             being unsustainably positive about areas where Scottish
+15             Government was objectively weak, and certainly not
+16             significantly better than the rest of the UK. On this
+17             we include data in relation to disabled people and the
+18             overall quality of inclusive communications. Engagement
+19             with DPO for the purpose of co-production and co-design
+20             would never have led to such conclusions, or indeed such
+21             weaknesses.
+22                 Secondly, for disabled people it remains unclear how
+23             the Scottish directorate system led to their needs being
+24             freed from the general governmental tendency to silo and
+25             after-think on minority rights. Scotland, like the rest
+    86
+
+ 1           of the UK, also churns through ministers and civil
+ 2           servants, jeopardising institutional knowledge and
+ 3           continuity. The statement that "equality is the duty of
+ 4           everyone in Scottish Government" is all well and good,
+ 5           but especially in an emergency how does co-ordinated
+ 6           action for marginalised groups get done without being
+ 7           the function of a particular minister and lead group of
+ 8           civil servants? Christina McKelvie, as Minister for
+ 9           Older People and Equalities, could issue a memo to all
+10          government reminding it to comply with human rights and
+11          to leave no one behind in Covid decision-making, but
+12          there was no machinery to drive through a formal
+13          disability policy to ensure that Covid decision-making
+14          was actually governed by disability rights.
+15              Thirdly, whatever the qualities of the relationship
+16          between central and local government in Scotland, it was
+17          not sufficiently developed to withstand a whole-system
+18          emergency, certainly no better than England. Not
+19          surprisingly, Nicola Dickie recognised on behalf of
+20          Scottish local authorities that partnership with the
+21          third sector lacked consistent coverage and could be
+22          variable. What is surprising is the repeated references
+23          in her statements without any criticism that most local
+24          authorities in self-assessments regarded themselves as
+25          ready to respond to the needs of vulnerable groups in
+    87
+
+ 1             an emergency, including disabled people. In March 2020,
+ 2             the Cabinet was far too sanguine that this would happen.
+ 3             Local government responders cannot be left to
+ 4             self-assess their own readiness in that way, not least
+ 5             because their optimism bias and states of denial can
+ 6             then become the optimism bias and denial of central
+ 7             government.
+ 8                 Turning to expertise.
+ 9                 The DPO do not take issue with the integrity of the
+10             advice or the degree to which pluralist views were
+11             shared about how best to suppress the virus. It was the
+12             lack of expert advice on mitigating NPIs that concerns
+13             them. The Chief Social Policy Adviser,
+14             Dr Carol Tannahill, whose role was to lead in government
+15             on the consideration of social harm, has admitted her
+16             sense that the capacity of the expert meetings to fully
+17             consider and understand the impacts on different
+18             population subgroups was less than ideal, and that more
+19             weight was placed on statistical modelling and
+20             biomedical science than on wider human experience and
+21             social science. Even when it came to creating
+22             subgroups, they were made for race and ethnicity, and
+23             children and young people in education, but not for
+24             disabled people, which of course echoes some of the
+25             prioritisation seen in Westminster.
+    88
+
+ 1               Disabled people of Scotland therefore endured
+ 2           a pandemic paradox in that their situation was
+ 3           simultaneously recognised and overlooked by government,
+ 4           and in that respect the weakness of the Scottish model
+ 5           and style of politics is revealed. Government was good
+ 6           at speaking of "we" not "I", at galvanising collective
+ 7           resilience, including civic connectedness; it empathised
+ 8           with disabled people, and articulated a social model
+ 9           that disability and vulnerability are both made and
+10          chosen. All of that is positive. But there was a gulf
+11          between aspiration and deed, and it was all the more
+12          experienced by disabled people because government's
+13          actual decision-making was focused so highly on
+14          a medical orientated model of saving life, it was not
+15          particularly inventive or mitigated in its prevention of
+16          social harm.
+17              Taking the quality of engagement with DPO as one
+18          indicator of this, there is a consensus in Scotland
+19          amongst politicians, civil servants and stakeholders
+20          that consultation is a good thing and that it is
+21          incumbent on government to build wide policy
+22          communities. Developed engagement with civil society is
+23          regarded as a Scottish political virtue, not just to
+24          enhance the social contract but to improve the quality
+25          of decision-making.
+    89
+
+ 1                 The granting of access, of having a meeting and
+ 2             remaining in a conversation is valuable, but that is not
+ 3             co-production and co-design. DPO are not equal partners
+ 4             in policymaking. Whilst there are exceptions, DPO are
+ 5             not generally informed about the consequences of their
+ 6             interventions. There are no feedback loops, agreed
+ 7             methodology or external review. As DPO do not have
+ 8             secured funding to do this, they cannot sustain their
+ 9             seat at the table even when it is given. Engagement, in
+10             Dr Elder-Woodward's terms, is started and ended by the
+11             authority of the state. It is a gift without obligation
+12             or accountability, as opposed to a human right and
+13             a means to make delivery of protection more real.
+14                 As in the rest of the UK, there were serious
+15             shortcomings of data collection and deployment on behalf
+16             of disabled people in Scotland. The data infrastructure
+17             was minimal in 2020. Public Health Scotland still call
+18             it "a work in progress". As a public health data
+19             specialist, Professor Morris, describes data collection
+20             as "still in the foothills" of where it needs to be and
+21             lacks a sufficient data infrastructure to create new
+22             insights, it is a defining feature of residential and
+23             domiciliary care of how little is known, how much people
+24             are not counted and consequently, whatever our
+25             aspirations, the uncounted count for less.
+    90
+
+ 1               For disabled people, that exemplifies what was
+ 2           surely missed out on by the absence of co-production
+ 3           structures. When ground level community networks, local
+ 4           authorities and central government combine in the
+ 5           collection of data, that not only binds and builds
+ 6           trust, but it promotes insight.
+ 7               Professor(?) Freeguard has talked about this in the
+ 8           conclusion to his report to you. Almost every lesson
+ 9           learned document has said the same. Pandemics teach us
+10          that data is absolutely an issue of human rights and
+11          humanity. Finding trustworthy and collaborative ways to
+12          know it and use it should become one of the great
+13          priorities of our time.
+14              My Lady, in consequence of all these system
+15          weaknesses, levels of protection for disabled people in
+16          Scotland were simply not what they could or should have
+17          been.
+18              You have the personal accounts from those on the
+19          impact video. Idrees told you, in his words, his world
+20          was turned upside-down.
+21              Dr Elder-Woodward used the phrase "avalanche of
+22          issues" in the emails he wrote with increasing
+23          desperation.
+24              The survey of 800 disabled people conducted by
+25          Inclusion Scotland across the month of April 2020 showed
+    91
+
+ 1             that 50.4% of respondents were no longer receiving
+ 2             health or care visits to the home, and that one in eight
+ 3             of them broke shielding rules out of necessity in order
+ 4             to acquire food or medicine.
+ 5                 Dr Elder-Woodward's final point in evidence was that
+ 6             human rights mean nothing without social and economic
+ 7             rights. Recognition of disabled people as equal
+ 8             citizens will never be enough without redistribution.
+ 9                 On this, the Scottish Government points to
+10             an anomaly of devolution. In its current form, Scottish
+11             Government is responsible for public health but, due to
+12             lack of UK Government funding, was unable to fund large
+13             structural responses to Covid; not just prolonged
+14             furlough, but paying the care sector workforce
+15             a sufficient sum not to work, or substantially raising
+16             carers' allowance including the capacity to pay for
+17             temporary carers to step in when the voluntary carers
+18             caught Covid.
+19                 However, the Scottish commission on human rights and
+20             the Feeley commission on social care have both made it
+21             clear that Scottish Government must be disciplined to
+22             find ways to secure social and economic rights, to the
+23             extent that it has the power.
+24                 For instance, there is a human rights method to
+25             co-produce and co-design the way that budgets are made
+    92
+
+ 1               and spent. At the early stages of Covid, Scottish
+ 2               Government announced the £350 million that would be made
+ 3               available to support depleted local services.
+ 4               Similarly, £100 million was released to councils to stop
+ 5               social care from being withdrawn or reduced. Obviously
+ 6               these are important sums, but the money was not
+ 7               accompanied by sufficiently detailed programmes of how
+ 8               to channel it to the harder to reach, and how to
+ 9               transparently audit its effectiveness. It was not
+10              designed with and for DPO and disabled people, who would
+11              know how to do that. Its result was not as sufficiently
+12              redistributive or effective as it could have been.
+13                  My Lady, where does that then leave us, midway in
+14              your journey across this country's four nations of Covid
+15              government response? In the Westminster module to this
+16              Inquiry, the DPO challenged the extent to which the UK
+17              state ignored their rights. Now in this module they
+18              challenge the extent to which the devolved aspect of the
+19              state in Scotland has failed to deliver on their rights,
+20              despite wanting to do so. Declaring that government
+21              cares about human rights, which is indeed the case in
+22              Scotland, is not enough.
+23                  These governors in Scotland must therefore, we say
+24              with respect, acquire the competence and the systems to
+25              deliver on their values. The DPO see full incorporation
+    93
+
+ 1             of the UNCRPD as a means to institutionalise their
+ 2             rights more formally, and for government to learn to
+ 3             better respect human rights. To return to
+ 4             Professor Cairney's critique, justiciable rights are one
+ 5             of the means that ensure that words become deeds.
+ 6                 But what of this suggestion that human rights will
+ 7             never be enough without social and economic rights, that
+ 8             the woes of Covid governance essentially come down to
+ 9             economic determinism, that there has been a failure of
+10             the dominant free market philosophies in the wealthier
+11             western nations to protect the poorer parts of their
+12             populations?
+13                 My Lady, we are in the nation of Adam Smith, and the
+14             city that many in this room would tell you is the
+15             birthplace of the enlightenment. Smith may be famous
+16             for extolling the virtues of the invisible hand of the
+17             free markets in his The Wealth of Nations, but his
+18             earlier book on morals, The Theory of Moral Sentiments
+19             published in 1759, has something to say about the ethics
+20             of care as the source of both a good life and good
+21             governance. He told his 18th century audience that the
+22             secret of happiness was to be loved and to be lovely.
+23             Broadly translated into modern language, that accords
+24             with a submission we have already made to you, that the
+25             principal value of good government should be to care
+    94
+
+ 1               about caring and being cared for, and that we should
+ 2               favour such politics, economics and systems that sustain
+ 3               that way of relating to one another.
+ 4                   The evidence in this Inquiry lays bare that the
+ 5               pandemic and its countermeasures were wretchedly unjust.
+ 6                   So, as you continue your journey, we ask you to keep
+ 7               thinking about how we all are vulnerable to some degree
+ 8               at some time, that the capacity to care is at least as
+ 9               fundamental to what it means to be human as the capacity
+10              to reason.
+11                  And so, to do justice to the unequal harms of Covid,
+12              this Inquiry, along with the public it serves, must find
+13              ways to enable the ethics and practice of mutual care to
+14              become both more possible and more sustainable.
+15          LADY HALLETT: Thank you very much indeed, Mr Friedman, very
+16              grateful.
+17                  I think it's Mr Phillips next.
+18        Submissions on behalf of the National Police Chiefs' Council
+19                                   by MR PHILLIPS KC
+20          MR PHILLIPS: My Lady, by this time you'll be more than
+21              familiar with the roles and function of the NPCC, and
+22              there is, I think, no need for me to remind you of any
+23              of that. And you know too that in this module it
+24              represents the interests of the Police Service of
+25              Scotland, which again I'll refer to as Police Scotland,
+    95
+
+ 1             And finally you know that, as I predicted in my opening
+ 2             submissions, policing has played a very minor part in
+ 3             the evidence which you've heard here in the last weeks.
+ 4                 So in these brief closing submissions, I'd like to
+ 5             highlight some of the themes which have emerged from
+ 6             that evidence. But before that, if I may, may I just
+ 7             make some points by way of context.
+ 8                 The first is that, of course, most of the challenges
+ 9             faced by policing during the pandemic had to be faced by
+10             the police throughout the UK. So the experience of
+11             Police Scotland mirrors, to a very large extent, the
+12             experience of the English forces which you heard about
+13             in Module 2, and which will no doubt be repeated in what
+14             you hear in the next two modules.
+15                 My Lady, that leads to my next general point, which
+16             is that the work of the police in Scotland and elsewhere
+17             during that pandemic encompassed far more than the
+18             question of the enforcement of the coronavirus
+19             regulations, which features as a sub-issue on your list
+20             of issues in this module, as it did in Module 2.
+21                 Normal policing activity had to carry on, so far as
+22             possible, despite the difficult conditions, and
+23             of course police leaders knew that it would continue to
+24             carry on once the pandemic came to an end, whenever that
+25             was. Which takes me to my final general point which, in
+    96
+
+ 1           my submission, has to be borne in mind when considering
+ 2           all questions concerning policing during the pandemic,
+ 3           and it's that in this country we have policing by
+ 4           consent.
+ 5               In the specific context of the Covid regulations in
+ 6           which the police found themselves in the unfamiliar
+ 7           territory of public health policing, the formidable task
+ 8           faced here in Scotland, as in every part of the UK, was
+ 9           to encourage the public to comply with the regulations
+10          whilst also retaining their trust.
+11              So turning, then, to the evidence about policing
+12          which you've heard in this module, I'd like to start, if
+13          I may, with the NPCC's four Es guidance, which was
+14          adopted at the start of the pandemic by Police Scotland
+15          and from which, as you've heard, the police never
+16          wavered during the various stages of the crisis.
+17              Underpinning that guidance was the same fundamental
+18          principle of policing by consent. The aim of the
+19          guidance was compliance and not enforcement, which was
+20          and remained the last resort.
+21              The statistics which you've heard in the evidence
+22          suggest that the guidance was effective and successful
+23          in achieving that aim. And here we are on firm ground
+24          because of the CVI system, which was established by
+25          Police Scotland in the early days of the pandemic, with
+    97
+
+ 1                 great foresight if I may say so, and which recorded all
+ 2                 encounters between the police and the public in relation
+ 3                 to the regulations, ie each of the four Es. And the
+ 4                 data generated as a result shows that the vast majority
+ 5                 of encounters were resolved before the fourth E,
+ 6                 enforcement, was reached.
+ 7                     The police's figures, which may indeed be
+ 8                 conservative, suggest that 88% of such encounters were
+ 9                 resolved short of enforcement, and you heard the current
+10                 First Minister say that the figure might be as high
+11                 as 94%.
+12                     My Lady, it follows from this that when considering
+13                 the evidence concerning fixed penalty notices given by
+14                 non-police witnesses last week, you're concerned with
+15                 a tiny minority of the occasions on which the police
+16                 interacted with the public in relation to the
+17                 regulations, and that means in turn that all of the
+18                 statistical analysis subsequently produced in which the
+19                 total number of FPNs has been broken down by reference
+20                 to certain categories of recipient, is itself concerned
+21                 with small percentages of that small minority of cases.
+22                     Now, this academic and analytical effort was
+23                 of course only made possible because Police Scotland
+24                 provided the data in a way which was, I'd suggest,
+25                 consistent with the open and transparent approach which
+    98
+
+ 1           they took to their work throughout the course of the
+ 2           pandemic.
+ 3               There's perhaps no better example of that approach,
+ 4           you may think, that the independent Advisory Group on
+ 5           Police Use of Temporary Powers, the IAG, about which
+ 6           you've heard in evidence.
+ 7               It was established early on in order to assist the
+ 8           police in the difficult task they faced in dealing with
+ 9           these novel and often changing regulations, and to give
+10          assurance to the public via the Police Authority to
+11          which it reported. It met regularly during the pandemic
+12          under distinguished and independent leadership. Its
+13          membership, as you've heard, was varied and expert. And
+14          Police Scotland were able to draw on its work as the
+15          pandemic continued and, as I noted in my opening
+16          submissions, they also set up an extensive lesson
+17          learning exercise so that best practice could be
+18          identified and any necessary changes implemented in
+19          a process which continued after the crisis had passed.
+20              My Lady, we'll put in detailed written submissions
+21          next month, but at this stage, and having drawn out some
+22          of the main themes of the evidence you've heard here, my
+23          submission to you is that Police Scotland are to be
+24          commended and not criticised for the way in which they
+25          met the challenge they faced during the pandemic.
+    99
+
+ 1             LADY HALLETT: Thank you very much indeed, Mr Phillips.
+ 2                     Mr Mitchell, I think you complete the submissions.
+ 3             Submissions on behalf of Scottish Ministers by MR MITCHELL
+ 4                                              KC
+ 5             MR MITCHELL: Thank you, my Lady. These are the oral
+ 6                 submissions on behalf of the Scottish Government.
+ 7                     To begin where this module began, three weeks ago,
+ 8                 with the impact film, the poignant testimonies, together
+ 9                 with the evidence of Jane Morrison, all of whom spoke
+10                 with palpable love for those whom they had lost, could
+11                 not fail to move, nor could anyone have but the greatest
+12                 sympathy for those who suffered and suffer today from
+13                 Long Covid or mental health issues as a result of this
+14                 virus.
+15                     Their participation in the film and their evidence
+16                 showed a bravery that an onlooker may not fully
+17                 understand and that perhaps we who appear regularly in
+18                 courtrooms across the country do not always appreciate
+19                 or come to take for granted.
+20                     It is of course by continuing to speak of the people
+21                 we have lost that we keep their memories fresh and
+22                 alive, so on behalf of the Scottish Government we pay
+23                 tribute to the representatives of Scottish Covid
+24                 Bereaved who have attended these hearings over the last
+25                 three weeks. We also pass our deep sympathies and
+    100
+
+ 1           condolences to the others, the many thousands who have
+ 2           lost loved ones, who have suffered and who continue to
+ 3           suffer.
+ 4               What more can the Scottish Government do than offer
+ 5           its sympathies? Well, it can learn. The Scottish
+ 6           Government does listen, it does learn, and it does
+ 7           adapt. Throughout the pandemic, the Scottish
+ 8           Government's prime focus and intention was to protect
+ 9           the public, the people of Scotland, as best it could
+10          from the harms of the disease. The Scottish Government
+11          acknowledges that it did not get everything right.
+12          Where there were missteps, it deeply regrets them.
+13          Decisions were taken in good faith. Some, and
+14          acknowledging the limitations of a hindsight judgement,
+15          would be taken differently today.
+16              It is important to remember, as we have heard many
+17          times, that there was no single simple and certain way
+18          to respond. The very fact that so many different views
+19          have been expressed on the steps and measures taken, so
+20          many different opinions on what should or should not
+21          have been done by the Scottish Government and the other
+22          governments of the four nations surely demonstrates this
+23          very point.
+24              In this oral closing statement, the Scottish
+25          Government revisits the themes that it set out in its
+    101
+
+ 1             opening statement, and makes a number of observations on
+ 2             the evidence that has been heard, which it ties in with
+ 3             the themes that were identified by Mr Dawson on Day 1 of
+ 4             the module. It does so in order constructively to
+ 5             assist the Inquiry in making recommendations, which will
+ 6             help a future Scottish Government in responding to the
+ 7             next global health emergency. A fully considered
+ 8             written statement will be provided to the Inquiry by
+ 9             23 February.
+10                 So the first theme that we looked at in the opening
+11             statement was the period January to March 2020.
+12             Ministers recognised that a great deal of evidence has
+13             been led in respect of the timing of the first
+14             intervention to stop the spread of the virus. Knowing
+15             what is known now, Scottish Ministers would have wished
+16             to move faster in March 2020 in issuing a stay-at-home
+17             instruction. The evidence before the Inquiry shows that
+18             the medical and scientific advice which the Scottish
+19             Ministers had access to came through the UK's scientific
+20             advisory structures, principally by way of the COBR
+21             briefings. That scientific advice did not recommend
+22             lockdown until very shortly before that decision was
+23             made.
+24                 In the context of a lockdown by Scotland,
+25             independent of the rest of the United Kingdom, financial
+    102
+
+ 1           support and incentives for employers and workers would
+ 2           have been essential. So, practical financial
+ 3           considerations would have remained.
+ 4               However, linked to this and an issue which may merit
+ 5           consideration, is how devolved governments can have the
+ 6           conditions in place to provide the flexibility and the
+ 7           real ability to respond to a future pandemic in a way
+ 8           that suits the particular demographics of that country.
+ 9           In practical terms, if the Scottish Government felt
+10          compelled to put in place a stay-at-home requirement in
+11          a future pandemic, how would the UK-held funding and
+12          administrative capacity for essential supporting
+13          features such as furlough be guaranteed?
+14              There were many distressing situations that were
+15          caused by the virus and the measures taken to limit its
+16          spread. The situation specific to care homes caused
+17          both by the virus and by the measures taken to limit the
+18          spread was captured in the evidence of Dr McMenamin and
+19          Professor Phin. The dilemma facing decision-makers was
+20          set out in the evidence of Ms Jeane Freeman. I do not
+21          repeat that here, except to note the point that studies
+22          such as the PHS report on discharges to care homes
+23          referred to by Professor Phin showed that discharge from
+24          hospitals was not the driving factor in care home
+25          outbreaks in Scotland. Care home size was much more
+    103
+
+ 1             strongly associated with the risk of an outbreak than
+ 2             all other care home characteristics, including hospital
+ 3             discharge.
+ 4                 Nonetheless, the lessons of having a testing
+ 5             infrastructure in place and the need to prioritise some
+ 6             of the most vulnerable in our society are there for all
+ 7             to see.
+ 8                 The second theme that we looked at in the opening
+ 9             statement was leadership, the underpinning structures
+10             and decision-making. It is no part of our submission to
+11             say that every decision taken by Ministers was correct,
+12             but we invite the Inquiry to accept that Ministers took
+13             their decision-making duty seriously. We do not believe
+14             that there is evidence that could contradict that.
+15                 The evidence also showed that they put in place
+16             structures and systems to give them access to extensive
+17             and integrated expert advice, all to support rapid
+18             decision-making.
+19                 Important decisions were taken at Cabinet, unless
+20             Cabinet took the view that it was proper to delegate
+21             that responsibility to the First Minister or to the
+22             Deputy First Minister. The ultimate -- structures were
+23             put in place to ensure that Ministers, as the ultimate
+24             decision-makers, received those balancing factors and
+25             that due weight was paid to all of them.
+    104
+
+ 1                Evidence of Cabinet decision-making and the
+ 2           rationale behind and supporting those decisions is
+ 3           contained in the many detailed Cabinet papers which
+ 4           the Inquiry has. The Scottish Ministers would welcome
+ 5           the Inquiry's consideration of these. They identify
+ 6           when decisions were taken and the supporting information
+ 7           that Ministers had access to. We will set out the INQ
+ 8           numbers for these Cabinet papers and the related
+ 9           material when we come to submit our written submission.
+10               In relation to informal messaging it is undeniable
+11          that the messages show people working together
+12          constructively and intensely at all hours of the day and
+13          night to support Ministers in their decision-making.
+14          Further, as Lesley Fraser pointed out, it would in
+15          practice be near impossible for a decision to be carried
+16          out by or on behalf of government without evidence of
+17          that appearing in formal records.
+18               The Inquiry has material before it which will enable
+19          it to ascertain whether the decisions carried out by the
+20          Scottish Government are those recorded in its formal
+21          systems.
+22               In compliance with legislation, policies and plans
+23          on document retention and management have been in place
+24          for several years. As Lesley Fraser explained, it is
+25          taken very seriously. The requirement to transfer the
+    105
+
+ 1             salient points of any business discussion and/or
+ 2             decision to the formal records system is set out. The
+ 3             chief difficulty appears to have been that not all
+ 4             individuals followed it or there was inconsistent
+ 5             interpretation of its meaning.
+ 6                 It is right and proper that the Scottish Government
+ 7             acknowledges both the Inquiry's and the public's
+ 8             consternation with regard to informal messaging use
+ 9             during the pandemic. It is clear to the Scottish
+10             Government that it must learn lessons in this area. And
+11             as the First Minister said in evidence last week,
+12             an external review has been commissioned.
+13                 The third theme that we looked at in the opening
+14             statement was the Scottish Government's strategies and
+15             decisions during the pandemic. As this Inquiry has
+16             recognised, by the very existence of Modules 2A, 2B and
+17             2C, devolved governments are responsible for a large
+18             portion of the pandemic response across three of the
+19             four nations of the UK. The Scottish Ministers not only
+20             had the powers to take the decisions they did in the
+21             pandemic, but they had the duty to exercise these powers
+22             and to reach decisions on the basis of the facts and
+23             circumstances in Scotland. Often those facts and
+24             circumstances were different from those prevailing in
+25             other parts of the UK. That approach was significantly
+    106
+
+ 1           different from that of the UK Government for England for
+ 2           good reason and not for the sake simply of being
+ 3           different.
+ 4                The Scottish Government did not pursue a zero Covid
+ 5           policy -- which, as we heard from the former
+ 6           First Minister yesterday, was not meant literally -- to
+ 7           the exclusion of consideration of the harm that that
+ 8           would do to the economy and society, including
+ 9           disproportionate harm to those who experienced
+10          inequalities. Nor, in late 2020 and early 2021, did it
+11          make the same mistakes twice. Rather, it anticipated
+12          the potential for a second wave and put in a carefully
+13          thought through set of NPIs drawing on experience of
+14          earlier in the pandemic.
+15               Nor, later in 2021, did it simply give up. It put
+16          in place a strong NPI response, but its options were
+17          constrained by the funding of the furlough scheme. More
+18          generally, the Scottish Ministers sought to suppress the
+19          virus to a very low level while minimising broader
+20          harms. In the autumn of 2020, for example, therefore,
+21          Ministers had to consider both the need for more
+22          stringent actions to suppress the second wave and the
+23          additional harm that stringent action would entail,
+24          including to those who felt these effects most keenly.
+25               Similarly, in the autumn and winter of 2021, facing
+    107
+
+ 1             still more infectious variants but also beginning to see
+ 2             the effects of the vaccines in weakening the link
+ 3             between infections and deaths, Ministers had to consider
+ 4             all four harms and not solely the pressures faced by
+ 5             hospitals, significant though these were, while they set
+ 6             out their strategy. As Professor Sir Gregor Smith, the
+ 7             Chief Medical Officer, noted in his evidence, we should
+ 8             bear in mind that risk is dynamic, it altered over time
+ 9             influenced by therapeutics and the vaccine which came
+10             into play at about that point, thus the balance of harms
+11             had changed and with it the proportionality of certain
+12             measures.
+13                 Outcomes were also different, as the Module 2
+14             evidence of Sir Ian Diamond, chief executive of the
+15             UK Statistics Authority, showed. In particular,
+16             age-standardised mortality rates, or ASMRs, take account
+17             of differences in population size and age structure, and
+18             therefore allow comparisons to be made between the
+19             four nations in a way that other mortality outcomes data
+20             do not. A macabre statistic, but Sir Ian's evidence
+21             showed that over the period March 2020 to February 2022,
+22             Scotland had the lowest age-standardised mortality rates
+23             for deaths involving Covid-19 of the four nations, at
+24             124.9 per 100,000 people compared to a rate of
+25             145 per 100,000 people for England, not a statistic to
+    108
+
+ 1           be trumpeted but prima facie evidence that outcomes were
+ 2           different.
+ 3                Ministers were aware throughout the pandemic of
+ 4           their duties under equalities legislation and of the
+ 5           importance of impact assessments to decision-making.
+ 6           But the decisions taken in relation to inequalities
+ 7           were, as with all decisions during the pandemic, not
+ 8           easy. The Scottish Ministers recognise that the
+ 9           interventions to limit the spread of Covid-19 themselves
+10          caused harm, exacerbated inequalities and
+11          disproportionately affected the most vulnerable people
+12          in Scotland. Ministers sought to consider the full
+13          range of impacts of those interventions and to ensure
+14          that they were necessary and proportionate. Ministers
+15          sought to minimise the harm experienced by everyone in
+16          society, and especially those at greater risk of harm,
+17          not only from the virus but from the isolation, reduced
+18          access to care and support, and other impacts of
+19          suppression measures.
+20               But the Scottish Government recognises that,
+21          pandemic or no pandemic, more has to be done for the
+22          most vulnerable in society, as was made clear in the
+23          evidence of Dr Donald Macaskill of Scottish Care and
+24          Dr Jim Elder-Woodward.
+25               The fourth theme that we looked at in the opening
+    109
+
+ 1             statement was working with other governments and local
+ 2             authorities. The Scottish Government recognises that
+ 3             the best way to work with partners and stakeholders in
+ 4             a crisis is to invest in constructive, effective
+ 5             relationships in calmer times and to listen and engage
+ 6             with those close to local communities.
+ 7                 We acknowledge the evidence of the STUC and COSLA
+ 8             that the Scottish Government went to lengths to engage
+ 9             with employees and local authorities while accepting
+10             that the intensity of the emergency affected both the
+11             amount and the quality of the engagement that was
+12             possible.
+13                 It is, we think, fair to say that a recurring theme
+14             of governmental exchanges was the concern of the
+15             devolved governments that decisions on funding and the
+16             furlough scheme were driven by the UK Government's
+17             decisions for England.
+18                 We have already set out that we consider that
+19             matters in the gift of the UK Government, such as
+20             flexibility in funding arrangements for devolved
+21             administrations in emergencies and for schemes such as
+22             furlough, may warrant a particular focus.
+23                 Ministers are also clear that in a future pandemic
+24             devolved governments ought to be true partners in
+25             situations where decisions taken at a UK level affect
+    110
+
+ 1           devolved responsibilities.
+ 2                That aside, the Scottish Government wishes to place
+ 3           on record its thanks and appreciation for the work of
+ 4           those in all four governments and of scientists,
+ 5           academics and clinicians more generally from across
+ 6           the UK who worked together to share data and expertise
+ 7           in order to understand and suppress the virus.
+ 8                The fifth theme that we looked at in our opening
+ 9           statement was data. When this pandemic initially came
+10          to our shores, there were limited data available.
+11          Public Health Scotland and the Scottish Government
+12          worked at pace and under great pressure to draw data
+13          together in order to provide ministers with the
+14          information they required to take informed decisions.
+15          We note the Public Health Scotland dashboard is one
+16          example of this. Evidence has shown that at times
+17          access to data was not as timely and straightforward as
+18          it could be. The need for further improvements to UK
+19          and Scottish data infrastructure and the processes in
+20          place to access data were identified and the Inquiry may
+21          wish to highlight the need for this work to continue at
+22          pace.
+23               The sixth and final theme that we looked at in our
+24          opening statement was public communications. No
+25          decision or action by government can be effective if not
+    111
+
+ 1             effectively communicated, whether in relation to
+ 2             adherence with NPIs or persuading people to come forward
+ 3             for initial, second and booster doses of vaccine.
+ 4                 Professor Reicher gave supportive evidence of the
+ 5             way in which the former First Minister delivered her
+ 6             public messages. Trust in the government's messages
+ 7             remained high and citizens undertook significant
+ 8             sacrifices as part of the national effort to limit the
+ 9             spread of the virus.
+10                 My Lady, those are our overall submissions, which we
+11             will supplement in writing, but before I sit down,
+12             certain thanks are due.
+13                 On behalf of the Scottish Government, I take this
+14             opportunity to thank you and your team for coming to
+15             Scotland, for your hard work in delivering this module,
+16             but of course the module could not have been run without
+17             the support of the staff, the ushers, the managers, the
+18             witness support staff and the technicians from RTS, and
+19             we thank them for their assistance to us over the past
+20             few weeks. We thank the witnesses who gave of their
+21             time to come to give evidence. We thank the many
+22             Scottish Government employees, the partners, including
+23             the other three governments of the UK, and the
+24             stakeholders, who worked tirelessly to steer Scotland
+25             through the pandemic. And most of all we thank the
+    112
+
+ 1               people of Scotland for their trust, forbearance,
+ 2               co-operation and fortitude during a very difficult and
+ 3               at times very dark period in our nation's history.
+ 4                    Thank you.
+ 5           LADY HALLETT: Thank you, Mr Mitchell.
+ 6                    Mr Dawson.
+ 7           Closing remarks by LEAD COUNSEL TO THE INQUIRY for MODULE 2A
+ 8           MR DAWSON: My Lady, I have some very brief closing remarks.
+ 9                    First of all, a clarification.
+10                   Yesterday during the evidence of Ms Sturgeon she was
+11              taken to a document, INQ000292564. It might help if we
+12              can have that put up. This was, you will recall,
+13              my Lady, an email chain beginning on 19 July.
+14                   We can see on page 6 an email that -- which
+15              indicates that the Deputy First Minister, Mr Swinney,
+16              had requested a call to discuss international travel and
+17              that the then First Minister was copied into this chain.
+18                   We then looked at another email connected to this
+19              subject on page 5. This email reads, as your Ladyship
+20              will recall:
+21                   "It won't matter how much ministers might justify it
+22              on health grounds, the Spanish Government will conclude
+23              it is entirely political; they won't forget; there is
+24              a real possibility they will never approve EU membership
+25              for an independent Scotland as a result."
+    113
+
+ 1                  I can clarify that this particular email was sent to
+ 2             Ken Thomson, the director-general for constitutional and
+ 3             external affairs, from a Scott Wightman, the director
+ 4             for external affairs, both civil servants, and not
+ 5             Mr Swinney or his office.
+ 6                  With your permission, the Inquiry has already
+ 7             adduced in evidence and published a number of documents
+ 8             through the course of these hearings. In short, this
+ 9             comprises pages of documents brought up on the screen
+10             during the hearings, and the statements of witnesses who
+11             have given oral evidence.
+12                  As with previous modules, we expect you will
+13             inevitably wish to have in evidence a wider body of
+14             material than this for the purposes of writing your
+15             report. The M2A team have provisionally identified
+16             a list of additional documents which we will seek your
+17             permission to adduce.
+18                  These include around 114 statements of witnesses who
+19             have not given oral evidence, but whose statements you
+20             may wish to rely upon when compiling your report. We
+21             propose to circulate a list of these documents to
+22             core participants, so they have an opportunity to review
+23             it and either object to or propose additional documents
+24             for inclusion on the list.
+25                  Thereafter, with your permission, the Inquiry will
+    114
+
+ 1               adduce in evidence and publish the documents set out in
+ 2               the final list of materials on the Inquiry's website.
+ 3                    If your Ladyship will indulge me for one further
+ 4               moment, may I also please pay tribute to all of the
+ 5               members of the Inquiry team, who have worked tirelessly
+ 6               in playing their part in the conduct of these important
+ 7               hearings for the people of Scotland. They all have my
+ 8               thanks for their work and their dedication in conducting
+ 9               it despite, in the case of those who journeyed north,
+10              the cold, both outside and at times inside this
+11              building.
+12                   In particular, may I express publicly my thanks to
+13              the paralegals, the solicitor team, and my learned
+14              juniors, Mr Tariq, Mrs Arlidge, Ms Condron, Ms Painter
+15              and Mr McWhirter. All members of the legal team have
+16              given their all in the delivery of these evidential
+17              sessions. We hope that those who have lost loved ones
+18              in the Covid-19 pandemic, and those who have otherwise
+19              been harmed by the virus or the countermeasures taken by
+20              government to fight it, agree. They deserve no less
+21              than our very best.
+22                               Closing remarks by THE CHAIR
+23          LADY HALLETT: Thank you very much indeed, Mr Dawson, I'm
+24              very grateful.
+25                   That completes the evidence and the oral submissions
+    115
+
+ 1             in this Module 2A. The team and I will now consider all
+ 2             the material, the written material already published,
+ 3             the written material to which Mr Dawson has just
+ 4             referred, and of course the oral evidence and the oral
+ 5             submissions.
+ 6                  We will begin drafting the report that will be
+ 7             published as soon as reasonably possible. The entire
+ 8             Inquiry team know of my determination to make my
+ 9             findings and any recommendations public as soon as
+10             possible, and we will do that, and we will work hard.
+11             I think the ability to work hard by the Inquiry team has
+12             been proved by the efforts of the Module 2A team, but
+13             I'm sure, as everybody will understand, we must do it
+14             properly. So we'll get it out as soon as we can, but we
+15             will do it properly.
+16                  I'm glad that we were able to bring the UK Inquiry
+17             to Scotland, even if I was accused by one politician of
+18             taking my rock band on tour. The clue is in the name,
+19             it's the UK Covid Inquiry, and that's why it was
+20             important for us to bring the Inquiry to Scotland.
+21                  I too would like to thank the people Mr Dawson has
+22             thanked and Mr Mitchell has thanked.
+23                  I'd like to thank the people of Scotland for the
+24             warmth of their welcome, if not, as Mr Dawson mentioned,
+25             the warmth of the weather and sometimes, as he said, the
+    116
+
+ 1                warmth of this building.
+ 2                    I would also like to thank the witnesses for their
+ 3                co-operation, some of whom I've imposed on more than
+ 4                once in this Inquiry; the Inquiry team for their
+ 5                extraordinary industry; the core participants for their
+ 6                very considerable help; the technical team, who have
+ 7                done an amazing job; the staff here at the Edinburgh
+ 8                International Conference Centre; and of course the
+ 9                members of the public who have followed us here in
+10               person -- I think we've got at least one person who has
+11               been with us throughout. There may be more. I'm sorry
+12               if I hadn't spotted you. Many of you have been here an
+13               awful lot -- and those who followed online.
+14                   Without the help of so many of you, we could not
+15               have completed these hearings on time, and I do know
+16               considerable effort has gone into everything that's been
+17               done; and in my view this Inquiry team, with the help of
+18               the people I've mentioned, have I hope produced the kind
+19               of results that the people of Scotland would have
+20               wanted.
+21                   So that completes this module.
+22                   The next substantive hearings of the Inquiry, the
+23               Covid Inquiry UK, will be in Cardiff on 27 February for
+24               Module 2B, where we shall be considering key
+25               decision-making in Wales.
+    117
+
+ 1                     So thank you, everybody.
+ 2             (12.58 pm)
+ 3                               (The hearing concluded)
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+    118
+

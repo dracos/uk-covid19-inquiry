@@ -1,0 +1,2970 @@
+ 1                                                            Monday, 3 July 2023
+ 2           (2.00 pm)
+ 3           MR KEITH: Good afternoon, my Lady.
+ 4           LADY HALLETT: Good afternoon.
+ 5           MR KEITH: The first witness today is Sir Frank Atherton,
+ 6                currently the Chief Medical Officer for Wales.
+ 7                               SIR FRANK ATHERTON (sworn)
+ 8                       Questions from LEAD COUNSEL TO THE INQUIRY
+ 9           MR KEITH: Could you commence, please, by giving your full
+10               name.
+11          A.   Yeah, I'm Dr Sir Frank Atherton, and I'm the Chief
+12               Medical Officer for Wales.
+13          Q. Sir Frank, thank you very much for your assistance to
+14               the Inquiry. As you give evidence, could you please
+15               remember to keep your voice up so that we may hear you
+16               clearly, and also so that your evidence may be recorded
+17               by the stenographer.
+18                    You have provided a witness statement dated
+19               20 April 2023; is that correct?
+20          A.   That's correct, yeah.
+21          Q. There we have it on the screen, and it's a statement to
+22               which you've appended your signature, thereby agreeing
+23               to the statement of truth. There we are.
+24                    You are currently the Chief Medical Officer for
+25               Wales, but before that were you Deputy Chief Medical
+    1
+
+ 1                  Officer for Health in Nova Scotia and before that
+ 2                  president of the Association of Directors of Public
+ 3                  Health? So you have a long and distinguished career in
+ 4                  the field of public health and medicine.
+ 5                       I'd like to start, please, by asking you some
+ 6                  questions about the position of the Chief Medical
+ 7                  Officer, and the officials who assist you within the
+ 8                  government of Wales.
+ 9                       May we please have up the organogram INQ000204014 at
+10                  page 10.
+11                       It's a diagram, Sir Frank, which is difficult to
+12                  take stock of at first, but you will see your position,
+13                  Chief Medical Officer, halfway down the left-hand side
+14                  of the large blue box in the middle: "Population Health
+15                  Directorate Chief Medical Officer".
+16                       Just above that box and to the right, there is:
+17                       "Director General, Health and Social Services and
+18                  the Chief Executive of [the] NHS ..."
+19                       Is that the post, the Director General of Health and
+20                  Social Services Group, to whom or to which you report as
+21                  Chief Medical Officer?
+22             A.   Yes, it is.
+23             Q. That post, Director General, reports, does he not, to
+24                  the Permanent Secretary of the Welsh Government?
+25             A.   That's correct, yes.
+    2
+
+ 1           Q. We're hearing from the Permanent Secretary to the Welsh
+ 2                Government, Dr Goodall, next.
+ 3                     As the Chief Medical Officer, are you essentially
+ 4                the core or the central adviser to the Welsh ministers
+ 5                and the Welsh Government in relation to public health
+ 6                matters, as part of which are you also the medical
+ 7                director to the NHS in Wales?
+ 8           A.   Yes. I often think of my role as CMO in three domains,
+ 9                actually, rather than two, but the first one, as you
+10               rightly say, is to provide advice to the Welsh ministers
+11               and the Welsh Assembly. The second one, I'm the medical
+12               director of the NHS, so I work closely with the medical
+13               directors on their efforts to deliver high quality
+14               health services. The third element, which I take as
+15               a public health specialist, is to be an advocate on
+16               behalf of the health of the population. So three roles,
+17               really.
+18          Q. If we look at the box, we can see that the box into
+19               which your post falls, as Chief Medical Officer,
+20               includes also "Population Health Directorate". Is that
+21               a nod to the fact that one of the important aspects of
+22               the Chief Medical Officer's role is to be concerned with
+23               the health of the Welsh population?
+24          A.   So in Wales, the CMO role has not been purely advisory,
+25               it also has a directorate function, so a policy
+    3
+
+ 1                  function, within the Health and Social Service Group
+ 2                  which is chaired by the Director General, Health and
+ 3                  Social Services.
+ 4                       So the population health directorate delivers on
+ 5                  health policy and that's health policy in terms of
+ 6                  public health, as you rightly say, but formerly it also
+ 7                  included primary care, and of course it includes health
+ 8                  protection. So public health, health protection.
+ 9                       It also encompasses the function of research and
+10                  development within health. So there are a number of
+11                  functions within the directorate.
+12             Q. Is that directorate, population health, what was
+13                  formerly known as the health policy directorate until
+14                  2018?
+15             A.   Correct.
+16             Q. To which there are multiple references in the paperwork?
+17             A.   Correct, yes.
+18             Q. So as part of your function, then, you are concerned, as
+19                  the director of that part of the Welsh Government, the
+20                  health policy directorate or the population health
+21                  directorate, concerned with primary care, healthcare
+22                  quality, major health conditions, public health, and
+23                  research and development in that field?
+24             A.   Indeed.
+25             Q. All right.
+    4
+
+ 1                    To what extent are you responsible also for health
+ 2                emergency planning?
+ 3           A.   So within the directorate, there is a Health Emergency
+ 4                Preparedness Unit, and I am the lead director for the
+ 5                Health and Social Service Group in terms of emergency
+ 6                preparedness, so I report, I -- the Health Emergency
+ 7                Preparedness Unit reports to me and I report to the
+ 8                Director General.
+ 9           Q. So just pausing for a moment then on that, within your
+10               directorate or, rather, within the directorate of
+11               population health, of which you are the director, there
+12               is a unit called Health Emergency Preparedness Unit,
+13               HEPU?
+14          A.   Yes.
+15          Q. We will see a lot of that later. And through you, that
+16               unit reports up to the Director General of Health and
+17               Social Services?
+18          A.   Indeed, yes.
+19          Q. All right. Which is the box above you in the chart.
+20                   Are you or to what extent does the role of being the
+21               Chief Medical Officer in Wales differ from being a civil
+22               servant?
+23          A.   Well, I am a civil servant, so I subscribe and follow
+24               the Civil Service code. I'm also a doctor, so I have
+25               a medical code that I follow. But the role of the CMO
+    5
+
+ 1                  is slightly different from that of any other civil
+ 2                  servant in that we have, by custom and practice,
+ 3                  a degree of independence, and so I am expected to
+ 4                  independently give advice to ministers. That's not
+ 5                  enshrined, I don't think, in law anywhere, but it's
+ 6                  a custom and practice that -- and an expectation that
+ 7                  I will give my advice freely and impartially.
+ 8             Q. So, by virtue of being the CMO, although nominally
+ 9                  a civil servant, you are in fact in practice afforded
+10                  a high degree of independence when you come to report to
+11                  the Welsh Government and a high degree of separation
+12                  from their day-to-day concerns?
+13             A.   Exactly so.
+14             Q. All right. And in your experience, have ministers in
+15                  the Welsh Government generally been receptive to the
+16                  advice which you have provided from time to time?
+17             A.   I would say they've always been receptive, they haven't
+18                  always followed it diligently or entirely, but they've
+19                  always listened very carefully to what I've had to say.
+20             Q. Is there a Chief Medical Officer Directorate or unit
+21                  around you? We've heard evidence that, for example, in
+22                  England there is an Office of the Chief Medical Officer
+23                  which has a number of staff, and in Scotland within the
+24                  director generalate(sic) in which the CMO sits in
+25                  Scotland there are also a number of staff particularly
+    6
+
+ 1                concerned with being -- well, they're particularly
+ 2                concerned with the functions of the Chief Medical
+ 3                Officer.
+ 4                    Do you have such a body around you?
+ 5           A.   Well, I do now. Going into the pandemic and before the
+ 6                pandemic, I would say I had, you know, some support
+ 7                around me, but it was really quite -- quite a small
+ 8                resource. That really is quite different now. So
+ 9                really it was an administrative support that was wrapped
+10               around me in the first instance. I now have an Office
+11               of the Chief Medical Officer which provides me with
+12               quite considerable support in the work I do.
+13          Q. Now we're going to look at the specialist groups or
+14               entities that sit within the Welsh Government.
+15                   Could we have INQ000180757 up, please, at page 1.
+16               I don't know whether it's possible to do this, but
+17               perhaps have it alongside the organogram INQ000214014 at
+18               page 10.
+19                   I should say that I haven't alerted our colleague
+20               who does this to that. If it's not possible, it's not
+21               possible.
+22                   There we have a planning group structure as at
+23               September 2018 which sets out the main bodies in the
+24               Health and Social Services Group.
+25                   The Health and Social Services Group, in the top
+    7
+
+ 1                  line of this document, is that the group in the blue box
+ 2                  that we were looking at a few moments ago within the
+ 3                  Welsh Government?
+ 4             A.   I don't believe so.
+ 5             Q. It was just to the left, in fact, and above the
+ 6                  directorate of --
+ 7             A.   The Emergency Planning Advisory Group, as I understand
+ 8                  it, it's a group chaired by the Welsh Government health
+ 9                  emergency planning adviser, as it says, but that brings
+10                  together the emergency planning leads from across all
+11                  the NHS bodies in Wales. So it's --
+12             Q. All right.
+13             A.   -- not within the health and social care structure,
+14                  it's -- it sits between health and social care and the
+15                  NHS.
+16             Q. Yes, indeed. In fact, my question wasn't about the
+17                  Emergency Planning Advisory Group, it was about the
+18                  wording at the top:
+19                      "Welsh Government Health & Social Services
+20                  Group ..."
+21                      That is the body that we were looking at a few
+22                  moments ago on the --
+23             A.   It is indeed, yes.
+24             Q. Right -- on the other chart.
+25                      So this is the Emergency Planning Advisory Group,
+    8
+
+ 1                which is an independent group which nominally sits
+ 2                within the Welsh Government, but it includes a number of
+ 3                different groups. Will you take it from me that the
+ 4                Major Incident Response Partnership, on the left, and
+ 5                then the Wales Mass Casualty Group, the Wales T&E Group
+ 6                and the Pan Flu Preparedness Group are all bodies which
+ 7                are on our main organogram, along with the Health
+ 8                Countermeasures Group, although that's in another part
+ 9                of the chart.
+10          LADY HALLETT: Where does HEPU fit in?
+11          A.   The HEPU, Health Emergency Planning Unit, co-ordinates
+12               the activities of the EPAG, the -- as I said, the EPAG
+13               sits between the Welsh Government and the local health
+14               boards, and the -- HEPU is the co-ordinating body of
+15               that.
+16          MR KEITH: If I may assist, HEPU is formally within the
+17               Health and Social Services Group, which is itself part
+18               of the Welsh Government, whereas this structure is
+19               a semi-independent structure that reports in to the
+20               Welsh Government.
+21                   One of the reasons, my Lady, for producing this
+22               document is that it is a remarkably complex labyrinthine
+23               system.
+24                   We will come back to HEPU in more detail later, but
+25               essentially was HEPU -- is HEPU the body with primary
+    9
+
+ 1                  oversight over pandemic preparedness for the purposes of
+ 2                  the health bodies in Wales?
+ 3             A.   It certainly co-ordinates the health components of
+ 4                  preparedness, yes.
+ 5             Q. All right. What relationship did you have or do you
+ 6                  have as CMO with HEPU?
+ 7             A.   Really my relationship is with the health emergency
+ 8                  planning adviser, so David Goulding reports to me and
+ 9                  he's the -- he leads the HEPU.
+10             Q. All right. So HEPU is within the Welsh Government, it's
+11                  part of the Health and Social Services Group, that
+12                  directorate which we looked at earlier, but its lead
+13                  planner, David Goulding, reports to you as the CMO
+14                  because one of your hats is a Welsh Government hat, as
+15                  Chief Medical Officer to the Welsh Government?
+16             A.   Yes. Yes.
+17             Q. All right.
+18                      Could we have INQ000204014, the organogram, at
+19                  page 10, please.
+20                      So that we can get our bearings, if you go to the
+21                  large blue box in the middle and the left-hand side, you
+22                  will see "Health and Social Services and the Chief
+23                  Executive of NHS Wales", I think at one stage
+24                  Dr Goodall, but above that it says "Health and Social
+25                  Services Group". That is the group that we saw on the
+    10
+
+ 1                other chart, and you can see on the far right-hand side
+ 2                of the page, the names: Wales Mass Casualty Group,
+ 3                Training And Exercise Group and Pre-Hospital Major
+ 4                Incident Response Partnership Group. They're three of
+ 5                the bodies that we saw in the other chart.
+ 6                    If you look on the very far left-hand side, you will
+ 7                see the Welsh Government Countermeasures Policy Group,
+ 8                that was one of the other bodies we saw on the chart,
+ 9                and then finally HEPU is on this chart under the blue
+10               box on the left-hand side:
+11                   "Health Emergency [Preparedness] Unit."
+12                   But the line goes generally to the blue box, but it
+13               actually should go directly through the Chief Medical
+14               Officer, through you, to the Health and Social Services
+15               Group at the top of the box. Is that all correct?
+16          A.   I can't disagree with anything you say.
+17          Q. All right. Well, I'm very pleased to hear that,
+18               Sir Frank, because I simply couldn't do that again.
+19                   There is on this chart, you will see, on the top
+20               right-hand corner of the right-hand large blue box in
+21               the middle, Chief Scientific Adviser. What relationship
+22               do you have within the Welsh Government with the Chief
+23               Scientific Adviser?
+24          A.   So the Chief Scientific Adviser sits alongside me.
+25               He -- he provides science advice into the health and
+    11
+
+ 1                  social care system. I was involved in supporting the
+ 2                  recruitment of that post. I think that post originally
+ 3                  reported through me to the Director General, but now
+ 4                  reports directly to the Director General.
+ 5                      Oh, I do beg your pardon, that's -- I'm talking
+ 6                  about the Chief Science Officer for Health, this is the
+ 7                  Chief Scientific Adviser for the Welsh Government?
+ 8             Q. Yes.
+ 9             A.   I do beg your pardon. So that's a completely separate
+10                  post, which is employed by the Welsh Government and
+11                  would be on a similar level to the CMO, expected to
+12                  provide scientific advice to the Welsh Government,
+13                  impartial scientific advice.
+14             Q. You're quite right, and underneath "Chief Scientific
+15                  Adviser" you can see, within the box, "NHS Wales",
+16                  "Chief Scientific Officer".
+17             A.   Yeah.
+18             Q. Is that a post which is concerned, self-evidently, with
+19                  health, because it's an NHS Wales post, and the
+20                  scientific angle of health?
+21             A.   That's exactly the post I was just --
+22             Q. Describing?
+23             A.   -- describing, exactly so.
+24             Q. Thirdly, if you go to the left and down a bit, we can
+25                  see "Chief Scientific Adviser, Health". Is that
+    12
+
+ 1                a different post altogether or have we mistakenly
+ 2                duplicated the Chief Scientific Officer within
+ 3                NHS Wales?
+ 4           A.   Yeah, I believe you've mistakenly -- or it has been
+ 5                mistakenly duplicated, I believe.
+ 6           Q. That's very good, because we can then cross that through
+ 7                and simplify, marginally, the chart. All right.
+ 8                    There are a number of other bodies with which the
+ 9                CMO works which I'd just like you identify, please.
+10                   On the top left-hand corner of the organogram, is
+11               there the "UK Chief Medical Officers Group"? Are you
+12               one of the UK Chief Medical Officers?
+13          A.   I am.
+14          Q. Therefore, do you have regular meetings with and
+15               a fairly close working relationship with the other Chief
+16               Medical Officers in the United Kingdom through that
+17               group?
+18          A.   Yes, we do. Prior to the pandemic -- of course I've
+19               worked with two UK Chief Medical Officers, Dame Sally
+20               and, more recently, Professor Chris Whitty, and with
+21               both those individuals we've -- as Chief Medical
+22               Officers across the four nations, we've always met on
+23               a quarterly basis in -- usually in person, and then more
+24               frequently on an informal basis as needed.
+25          Q. To the right of the UK Chief Medical Officers group we
+    13
+
+ 1                  have NERVTAG, about which we've heard a great deal. Is
+ 2                  that a body which liaises with the CMO in Wales as with
+ 3                  the other CMOs across the United Kingdom, in relation to
+ 4                  specifically the threats from respiratory viruses?
+ 5             A.   Well, it is as you say. I don't believe that Wales has
+ 6                  a role or a person on NERVTAG, but it is supposed to be
+ 7                  a UK advisory body, yeah.
+ 8             Q. All right.
+ 9                      In the witness statement of Mr Vaughan Gething --
+10                  and he, of course, is a senior Welsh minister, and he
+11                  was at one stage, I think, I believe, Minister for
+12                  Health and Social Services -- he says the relationship
+13                  with the other Chief Medical Officers insofar as Wales
+14                  was concerned was complicated by the fact that the CMO
+15                  in England is not just a UK CMO but he or she advises
+16                  the United Kingdom Government particularly in relation
+17                  to areas in which there are UK-wide ramifications.
+18                      So to some extent he or she may wear two hats:
+19                  English CMO and UK adviser.
+20                      Have you encountered at any stage any difficulties
+21                  in the relationship with the English CMO by virtue of
+22                  that complicating feature of the need to discharge UK
+23                  responsibilities?
+24             A.   Personally I haven't, no. The two CMOs I've worked with
+25                  have always been very astute to the fact -- alert to the
+    14
+
+ 1                fact that there are devolved competencies and
+ 2                non-devolved competencies. I suppose a good example
+ 3                would be in international development work, where it's
+ 4                quite clear that, because it's a non-devolved function,
+ 5                the UK Chief Medical Officer sits on the WHO board and
+ 6                has primacy in the international development agenda, but
+ 7                that doesn't preclude the other CMOs from having
+ 8                international relations with other countries,
+ 9                for example. So it's never been a particular problem
+10               for me. It's one that we clearly understand the
+11               respective roles, yeah.
+12          Q. So maybe an issue more of form than substance?
+13          A.   I would think.
+14          Q. All right.
+15          A.   Yeah.
+16          Q. SAGE is another important body to which much evidence
+17               has been devoted. We can see it towards the top of the
+18               page, the Scientific Advisory Group for Emergencies.
+19                   Over time, and bearing in mind that you have been
+20               the CMO since August 2016, have you much involvement
+21               with SAGE yourself?
+22          A.   I haven't had engagement with SAGE. When SAGE has been
+23               active, and it becomes active during emergencies
+24               of course, the CSA Health, Chief Scientific Adviser for
+25               Health, has been our representative on SAGE.
+    15
+
+ 1             Q. All right. We'll come back to this issue a little
+ 2                  later, for reasons that will become plain.
+ 3                      Did it become apparent when the pandemic struck that
+ 4                  because the SAGE arrangement is a UK arrangement, there
+ 5                  was a need within the Welsh Government for tailored
+ 6                  scientific advice to be given to Welsh ministers, and
+ 7                  therefore the Welsh Government set up a different
+ 8                  body -- I don't believe we've got it on the screen --
+ 9                  called the Technical Advisory Group, TAG, along with
+10                  an advisory committee called TAC, Technical Advisory
+11                  Committee(sic). Were you instrumental in the setting up
+12                  of those two bodies? Was that something with which you
+13                  were concerned?
+14             A.   So, yes, it was. I discussed that with our Chief
+15                  Scientific Adviser for Health, and the reason for
+16                  setting up TAC, which I think is a Technical Advisory
+17                  Cell rather than committee, and TAG, which is the
+18                  broader network of advisers, the reason for setting
+19                  those up was that we felt that, although it was very
+20                  useful to have a position on SAGE, we needed to have
+21                  a scientific forum where we could ask our own questions
+22                  and where we could get detailed -- at that time,
+23                  modelling of course was quite important to us and we
+24                  needed more specific detailed modelling with regard to
+25                  Wales. So for those two reasons we set up the TAC and
+    16
+
+ 1                the TAG.
+ 2           Q. All right. Those, therefore, are two bodies that we
+ 3                should really have or should be deemed to be on this
+ 4                chart, going forward? This --
+ 5           A.   Indeed.
+ 6           Q. -- attempts to represent the position at 2019?
+ 7           A.   It didn't exist in --
+ 8           Q. Didn't exist then but, going forward, they are important
+ 9                committees -- or at least one is a cell, one is a group,
+10               because they provide for a Welsh perspective on matters
+11               that may otherwise be dealt with by SAGE?
+12          A.   Well, in fact, going forwards, they will continue, they
+13               are continuing, but they've been renamed as Science and
+14               Evidence Group -- Science Evidence Advisory Group --
+15          Q. I was about to come to that.
+16                    The third body to which it should make reference is
+17               STAC. Is that a further body which represents perhaps
+18               a tweak, if you like, on TAC and TAG?
+19          A.   I'm sorry to get lost in the acronyms, but I don't
+20               recognise STAC, I recognise SEA, Scientific Evidence and
+21               Advisory group. So we might need to provide further
+22               clarity on that.
+23          Q. Thank you.
+24                    My Lady has heard a great deal of evidence about the
+25               risk assessment process, by which risks are identified,
+    17
+
+ 1                  owned, managed, and addressed and planned for in
+ 2                  Westminster, of course in relation to the
+ 3                  United Kingdom, and in Edinburgh in relation to
+ 4                  Scotland.
+ 5                       As the CMO, did you have a hand in the drawing up of
+ 6                  Welsh-centric risk assessment plans or commenting at any
+ 7                  rate on the United Kingdom risk assessment process?
+ 8             A.   So within the Health and Social Service Group there was
+ 9                  a risk register that we contributed to, and the -- HEPU
+10                  would have provided the input into the overall HSSG risk
+11                  register. Then the HSSG risk register would be -- would
+12                  form a part or would merge into the overall
+13                  Welsh Government risk register.
+14                       As regards the UK risk register, I don't recall ever
+15                  having any personal input into the National Risk
+16                  Register, if that's your question.
+17             Q. Can we just break that down a bit, please? So in
+18                  Scotland, there is a Scottish Risk Assessment, which is
+19                  a separate document. It's a variant, perhaps, of the
+20                  United Kingdom risk assessment policy or document.
+21                  There is no analogous document for Wales, is there?
+22                  There is no Welsh risk assessment. But what there is is
+23                  a governmental risk register, to which we'll look in
+24                  a moment, and also a risk assessment within the Health
+25                  and Social Services Group, the HSSG body; is that
+    18
+
+ 1                correct?
+ 2           A.   Well, it is correct that the risk assessments are
+ 3                exactly as you describe, whether there is an overall
+ 4                risk -- what was the other term you used? Risk ...
+ 5           LADY HALLETT: Register.
+ 6           A.   The analogous one to the Scottish one.
+ 7           MR KEITH: Scottish Risk Assessment.
+ 8           A.   I couldn't tell you. You'd probably be better asking
+ 9                that of our civil contingencies colleagues perhaps
+10               later.
+11          Q. All right. Could we have INQ000215556, please, the
+12               corporate risk register. I believe this is the
+13               governmental corporate risk register, so not the Welsh
+14               risk assessment, but the government's own corporate risk
+15               register, which in this form, January 2016, was about
+16               six months before you were appointed as the CMO. We can
+17               see in the second column "Resilience (Major
+18               Emergencies):
+19                    "If we fail to provide effective leadership and
+20               co-ordination in ensuring that Wales is prepared for and
+21               resilient to the full range of national hazards and
+22               threats which it faces then there is a risk to the
+23               health and well-being of its citizens."
+24                    There are then a number of mitigating actions in the
+25               large column in the middle, "Controls in place",
+    19
+
+ 1                  referring to governance structures, co-ordination role
+ 2                  of the Welsh Government under the Pan Wales Response
+ 3                  Plan, physical infrastructure, corporate
+ 4                  Welsh Government response, multi-agency training
+ 5                  programmes and so on, and, importantly, what lessons may
+ 6                  be learned from incidents and development of internal
+ 7                  planning.
+ 8                       As the CMO, were you aware of this report corporate
+ 9                  risk register for the Welsh Government? Was this
+10                  something which, when you were appointed, you were made
+11                  aware of or to which you contributed in later variants?
+12             A.   It's certainly something I would have been aware of.
+13                  I would probably have had more input to the Health and
+14                  Social Service risk register, which obviously fed into
+15                  this, so --
+16             Q. Yes.
+17             A.   -- that would be my main route of input, I would say.
+18             Q. On its face, Sir Frank, there appears to be very little
+19                  detail concerning the risk of pandemic influenza or of
+20                  mitigating actions specifically directed towards the
+21                  risk of pandemic influenza.
+22                       Can you recall, going back to 2016, the extent to
+23                  which that was a risk which was specifically thought
+24                  about and addressed in the policy guidance and the
+25                  registers with which you were familiar?
+    20
+
+ 1           A.   Well, I can't recall, obviously I wasn't here in
+ 2                January 2016, but in subsequent iterations, certainly
+ 3                within the Health and Social Service risk register,
+ 4                I would expect there to be more detail, and as,
+ 5                of course, you go up through the Welsh Government then
+ 6                the detail perhaps gets lost. But certainly within the
+ 7                Health and Social Services Group, pandemic influenza was
+ 8                recognised as a material risk.
+ 9           Q. Would you give me one moment, please, Sir Frank?
+10                                          (Pause)
+11                    My Lady, that health and social services risk
+12               register is a specific document that we've sought but
+13               we've yet to be provided with it.
+14                    The statement from Mr Vaughan Gething to which
+15               I referred earlier also says that, in a general sense,
+16               over the last five years, and particularly until he
+17               personally was briefed in Exercise Cygnus, there had
+18               been a lack of focus or interest upon preparedness in
+19               the Welsh Government. He says:
+20                    ".... preparedness was not a particular focus of
+21               interest or concern in the government ... and I do not
+22               remember any significant questioning on the topic either
+23               in the government, the Senedd, the media or elsewhere."
+24                    Was it your experience that there was
+25               an insufficient focus or attention paid to preparedness
+    21
+
+ 1                  as a single issue?
+ 2             A.   No, I would have -- the way I would articulate that
+ 3                  would be that, certainly at official level, there was
+ 4                  quite a lot of work going on around preparedness. As
+ 5                  ever, you know, you can say, "Well, could more have been
+ 6                  done?" And that may be a valid question. But there
+ 7                  was, certainly at official level, quite significant work
+ 8                  going on around preparedness, but it wasn't escalated to
+ 9                  ministers, perhaps suggests that -- you know, things get
+10                  elevated to ministers when there's a decision to be made
+11                  or when there's a problem or an intergovernmental
+12                  problem. So it may not have come to the ministers'
+13                  attention for that reason, but certainly at official
+14                  level there was activity going on, through the HEPU,
+15                  through the Emergency Planning Advisory Group, through
+16                  the local resilience fora, all of those structures were
+17                  working on emergency preparedness.
+18             Q. You have made reference to the United Kingdom pandemic
+19                  influenza preparedness strategy of 2011. Was that the
+20                  strategy which formed the genesis for the
+21                  Welsh Government's own strategies or frameworks for
+22                  managing major infectious disease emergencies and also
+23                  health and social care influenza pandemic preparedness?
+24             A.   Well, partly. There are two different kind of things
+25                  you mentioned there. First of all, the major -- the
+    22
+
+ 1                major infection framework.
+ 2           Q. Infectious diseases emergency framework?
+ 3           A.   Yes. It's quite the mouthful, isn't it?
+ 4           Q. Yes, indeed.
+ 5           A.   That really sprang from the fact that we had -- we have
+ 6                in Wales had, for a long time, an outbreak control plan,
+ 7                which is the thing that we use as the kind of bread and
+ 8                butter to manage any outbreak of infectious disease at
+ 9                local level.
+10                    Going beyond that, when you get bigger outbreaks,
+11               which affect more than one region or which are not
+12               manageable through the outbreak control plan, the
+13               control framework that you just described is an attempt
+14               to describe how the system would respond to those kinds
+15               of emergencies.
+16                    The 2011 pandemic flu plan was a UK-wide document,
+17               which we agreed to in Wales, it informed our planning as
+18               well in Wales, but I would say that sits alongside
+19               rather than hierarchically around the framework.
+20          Q. The same strategic approach, however, was adopted in the
+21               major infectious disease emergencies framework, and in
+22               the influenza pandemic preparedness and response
+23               guidance, as formed the basis for the 2011 UK document;
+24               correct?
+25          A.   I think the responses would have been consistent, yes.
+    23
+
+ 1             Q. Yes. So the first one, the first document to which I've
+ 2                  made reference, let's have that up, it's INQ000183456,
+ 3                  the Wales Framework for Managing Major Infectious
+ 4                  Disease Emergencies.
+ 5                      It's dated October 2014. If we could just scroll
+ 6                  forward through, thank you, to the contents page, we can
+ 7                  see that it deals with a major infectious disease
+ 8                  emergency, it provides for a number of planning
+ 9                  assumptions, the management of initial cases, isolation
+10                  and treatment facilities, treatment in the community,
+11                  data collection, and countermeasures.
+12                      To the extent that it did address the possible
+13                  outcomes of a major infectious disease emergency, or of
+14                  a pandemic influenza, was the approach of this framework
+15                  the assumption that the greatest risk was a pandemic
+16                  influenza, the risk of a new and -- of
+17                  a high-consequence infectious disease was less, and the
+18                  most likely catastrophic consequences would ensue from
+19                  a pandemic influenza, so the broad approach from the
+20                  2011 strategy?
+21             A.   Well, I don't think the framework was predicated on
+22                  pandemic influenza, because we already had the 2011
+23                  pandemic flu plan. The framework that we're looking at
+24                  was really designed to cover a range of infectious
+25                  diseases which would not be manageable through the
+    24
+
+ 1                normal application of the outbreak control plan. So
+ 2                I don't think they're quite the same thing. I mean,
+ 3                certainly flu would fall within the scope of this
+ 4                framework, I would agree with that, and certainly
+ 5                pandemic flu -- you know, in terms of pandemics, flu was
+ 6                seen as the most likely infectious agent to cause
+ 7                a pandemic.
+ 8           Q. Indeed, and if you look at countermeasures, 14, on
+ 9                page 15 -- I'm not suggesting we go to it -- but you can
+10               see in the index:
+11                   "Infection Control and PPE
+12                   "Vaccination
+13                   "Antibiotics/Antivirals"
+14                   The presumption, the working presumption was, wasn't
+15               it, that the countermeasures would be those usually
+16               associated with dealing with an influenza outbreak,
+17               namely the existence of antivirals, Tamiflu,
+18               vaccination, because there is a flu vaccine, of course,
+19               and the infectious control and PPE would be hand washing
+20               and sensible personal hygiene methods, as well as the
+21               PPE required for the treatment of flu. That was how the
+22               document approached it; would you agree?
+23          A.   Well, I would say it's true but you could equally apply
+24               those to cholera or measles or a wide range of other
+25               infectious diseases. I don't think it was specific to
+    25
+
+ 1                  flu, the framework we're looking at.
+ 2             Q. There was no debate, was there, Sir Frank, or any
+ 3                  discussion of the sort of countermeasures that might be
+ 4                  suitable for dealing with a high-consequence infectious
+ 5                  disease with catastrophic consequences that was not
+ 6                  pandemic influenza, for example, mass diagnostic
+ 7                  testing, mass contact tracing, how to deal with an HCID
+ 8                  that had no antiviral and no vaccine?
+ 9             A.   No, you're correct, and those countermeasures were not
+10                  considered within this framework or indeed within the
+11                  2011 plan, yeah.
+12             Q. Precisely. Could we have --
+13             A.   I say they were not -- may I, my Lady?
+14             MR KEITH: Of course.
+15             LADY HALLETT: Of course.
+16             A.   I say they were not dealt with. I mean, they had been
+17                  considered, of course, but discounted for various
+18                  reasons, and, with the benefit of hindsight, discounted
+19                  without sufficient consideration.
+20             MR KEITH: Thank you.
+21                      INQ000116503 is the response guidance of 2014. It
+22                  itself avowedly refers, of course, to "Influenza
+23                  Pandemic Preparedness". If we look at page 3, please,
+24                  we can see "Pandemic Countermeasures" in box 4:
+25                      "Antivirals
+    26
+
+ 1                    "National Pandemic Flu Service
+ 2                    "Antibiotics
+ 3                    "Facemasks and respirators
+ 4                    "Consumables
+ 5                    "Vaccination
+ 6                    "Specialist respiratory support ..."
+ 7                    So, self-evidently and sensibly, given that this is
+ 8                an influenza pandemic document, those are the sorts of
+ 9                countermeasures that are associated with an influenza
+10               pandemic.
+11                   A third important document to which you've already
+12               made reference is the pan-Wales response plan of 2019.
+13               What was that?
+14          A.   Well, the pan-Wales response plan is an overarching --
+15               as I understand it, it's an overarching plan for dealing
+16               with any civil emergency in Wales, and it's the part of
+17               the civil contingencies approach of working with
+18               partners across Wales to respond to anything, whether it
+19               be an infectious disease, flooding, fires, any threat to
+20               the public's health, the public.
+21          Q. All right. That was a document which, as you say, deals
+22               generally with civil contingencies, it's concerned with
+23               emergency response and recovery; is that correct?
+24          A.   Mm.
+25          Q. So if we may put that to one side on the basis it wasn't
+    27
+
+ 1                  concerned with pandemic influenza or high-consequence
+ 2                  infectious disease, the two main guidance documents
+ 3                  remain those two documents to which you've referred us,
+ 4                  the Wales framework of October 2014 and the guidance
+ 5                  document of February 2014.
+ 6                      Do you know whether either of those two documents
+ 7                  was updated after 2014, or the subject of consideration
+ 8                  for the purposes of being updated or rewritten?
+ 9             A.   I don't recall them being updated. I think when we
+10                  updated the outbreak control plan, there was a question
+11                  raised by Public Health Wales as to whether -- what the
+12                  status of the framework for infectious disease major
+13                  emergencies would be, and at that time it was not
+14                  updated, but ... so I don't believe that there has been
+15                  a process to update them.
+16             Q. Now, in the history of United Kingdom emergency
+17                  preparedness, the swine flu of 2009 was crucial, wasn't
+18                  it, because of course, as a result of that swine flu
+19                  outbreak, there were a number of reports, outcome
+20                  documents as they're called, both in Westminster but
+21                  also in the devolved administrations?
+22                      There was one in Wales, a report produced after the
+23                  event by Mr Goulding, who was, I think, the head or
+24                  maybe now is the head of HEPU, to which you've referred.
+25                      Could we have that, please, INQ000089599, page 4,
+    28
+
+ 1                paragraph 5.2.
+ 2                    So as part of the morning session, a presentation
+ 3                was made by Dr John Watkins on the risks and effects of
+ 4                pandemic influenza:
+ 5                    "Current threats were described as --
+ 6                    "Genetic reassortment ..."
+ 7                    And then over the page, please.
+ 8                    "Novel virus
+ 9                    "... natural reservoir[s] ...
+10                   "Return of old enemies ...
+11                   "Planning assumptions to consider:-
+12                   "Virus will arise somewhere else
+13                   "Novel virus with little background immunity
+14                   "Traditional groups for seasonal vaccine [not
+15               applying]."
+16                   Issues about:
+17                   "Virulence and transmissibility ...
+18                   "Vaccine not [being] immediately available"
+19                   And:
+20                   "Antivirals [having] some role but not major impact
+21                   "Role of - Masks, social distancing, school closure,
+22               banning mass gatherings etc -- little evidence of
+23               effectiveness"
+24                   So this document in October 2013, after the
+25               swine flu pandemic, shows that at this presentation or
+    29
+
+ 1                  workshop there was some debate revolving around the
+ 2                  inherent unpredictability of a respiratory virus, of the
+ 3                  possibility that there would be an outbreak for which
+ 4                  there would be no vaccine immediately available, for
+ 5                  which antivirals would have no major impact, and in
+ 6                  which there would have to be consideration of some of
+ 7                  the additional countermeasures not normally associated
+ 8                  with pandemic influenza: social distancing, school
+ 9                  closure, banning mass gatherings.
+10                       I wanted to ask you, Sir Frank, to what extent when
+11                  you took office in -- or you took your post in 2016, do
+12                  you recall there being any general debate about these
+13                  topics in the Welsh Government?
+14             A.   No, I don't recall there being any. I think this
+15                  document is a summary from a workshop that was held, the
+16                  health emergency planning advisory group that we talked
+17                  about earlier, which is the NHS bodies coming together
+18                  with Welsh Government, Health and social care, has
+19                  an annual conference, and I think in 2013 their annual
+20                  conference was focused on pandemic flu, and I think this
+21                  is probably a record from that, from that meeting.
+22                       But -- and this clearly, the lines you're showing
+23                  here clearly are part of a presentation given at that
+24                  thing.
+25                       I suppose, you know, what to me it says is that that
+    30
+
+ 1                was the understanding at the time, that, you know,
+ 2                different viruses could emerge and could cause
+ 3                a pandemic. I think it was clear -- that was clear in
+ 4                the 2011 -- the assumptions of the 2011 pandemic flu.
+ 5                Although it was largely based on pandemic flu, it was
+ 6                stated I think in the 2011 strategy that other viruses
+ 7                could cause -- other respiratory pathogens could cause
+ 8                pandemics as well.
+ 9                    But the understanding at the time was that those
+10               final assumptions, you know, the mass social distancing,
+11               there was a predisposition against those, which I think
+12               is being reflected in this document.
+13          Q. So to draw the threads together, the two frameworks, the
+14               Wales Framework for Managing Major Infectious Disease
+15               and the Wales Health and Social care Influenza Pandemic
+16               Preparedness and Response Guidance, both of 2014 were
+17               never updated, they were based upon or at least
+18               consistent with the UK 2011 strategy?
+19          A.   Mm.
+20          Q. Whilst there was some debate at some levels of the
+21               Welsh Government about these planning assumptions and
+22               the possibility that they might require being
+23               challenged, that they might not necessarily hold true,
+24               neither the guidance nor the challenge to those planning
+25               assumptions were ever taken forward in a significant
+    31
+
+ 1                  sense prior to the pandemic hitting Wales; that's the
+ 2                  position, is it not?
+ 3             A.   Well, as I read what's in front of me, it's not
+ 4                  a challenge to the -- it's stating that the role had
+ 5                  very little -- the role of these countermeasures had
+ 6                  very little evidence.
+ 7                       You know, with the benefit of hindsight I think we
+ 8                  could and should have paid more attention to the
+ 9                  "what if" questions. You know, what if the virus was so
+10                  different that we needed to go down some of these. But
+11                  at the time I think it's fair to say that those measures
+12                  had been considered and somewhat prematurely dismissed.
+13             Q. There was, as it turned out, a distinct and important
+14                  role for face masks, for mass diagnostic testing, for
+15                  mass contact tracing and, as we all discovered to our
+16                  cost, mandatory quarantines. So it wasn't just
+17                  a question of these measures having no efficacy, the
+18                  thinking was never developed, there were no papers or
+19                  policies drawn up to examine any of them in detail, and
+20                  it was just assumed that there was nothing here to be
+21                  seen or to be further thought about?
+22             A.   That was --
+23             Q. The thinking went into the ground?
+24             A.   I accept your point, that was the assumption in the 2011
+25                  strategy and it was the assumption in the Hine report
+    32
+
+ 1                before that, so yes, that is true.
+ 2           Q. And the overarching guidance documents for pandemic
+ 3                influenza and HCIDs were never updated alongside this?
+ 4           A.   Yeah, exactly, and they were based on the 2011 flu --
+ 5           Q. And they themselves were based on --
+ 6           A.   Yes.
+ 7           Q. -- the thinking from 2011?
+ 8           A.   I'd agree with that.
+ 9           Q. All right.
+10                   Exercises and institutional learning. Before your
+11               tenure as Chief Medical Officer of Wales commenced in
+12               August 2016, an exercise had taken place in Wales, had
+13               it not, in October 2014, namely the Welsh part of
+14               Exercise Cygnus. Was it the Welsh part because
+15               Exercise Cygnus for the United Kingdom was planned for
+16               2014 but, for a variety of reasons, never took place
+17               other than in Wales?
+18          A.   That's my understanding, that it was planned as
+19               a UK-wide exercise, but I think Ebola got in the way in
+20               terms of UK participation, but there was a decision
+21               taken, as you say before my time, to run it in Wales
+22               just to test the local arrangements.
+23          Q. Could we have, please, INQ000107136.
+24                   These are the recommendations from the Welsh part of
+25               Exercise Cygnus, the part that took place in 2014.
+    33
+
+ 1                  WRPT, the acronym at the top right of the page, is,
+ 2                  I think, in reference to the Wales resilience ...
+ 3             A.   Partnership team.
+ 4             Q. Thank you, Sir Frank, I knew you'd get there ahead of
+ 5                  me.
+ 6                         "Exercise Cygnus -- Recommendations
+ 7                         "Background
+ 8                         "As a result of the ongoing high risk of
+ 9                  an influenza pandemic, it was agreed that a Tier 1 UK
+10                  exercise should be held in October 2014 --
+11                  Exercise Cygnus -- to assess preparedness at both
+12                  a national and local level."
+13                         But, as you say, the UK exercise never took place.
+14                         "There were initially 11 Local Resilience Forums ...
+15                  scheduled to participate at the local level in England
+16                  whilst Wales, all 4 [local resilience forums] agreed to
+17                  take place.
+18                         If we could just scroll back out we could see the
+19                  strategic objectives there set out, and further down the
+20                  page the reference to the postponement of the UK
+21                  Exercise Cygnus.
+22                         Then over the page, page 2, issues raised:
+23                         "The following are the issues and recommendations to
+24                  emerge from the Strategic Co-ordinating Groups and the
+25                  Wales Civil Contingencies Committee."
+    34
+
+ 1                    Pausing there, as you understood it, was the
+ 2                position this: that because it was only the Welsh part
+ 3                of Exercise Cygnus that took place in 2014, the exercise
+ 4                focused on the local level, the local resilience forum,
+ 5                the strategic co-ordinating group level, rather than
+ 6                being a test of the entirety of Welsh civil contingency
+ 7                structures?
+ 8           A.   Well, it's my understanding, but it was two years before
+ 9                I took up post, so I can't really comment a huge amount
+10               on that.
+11          Q. No.
+12                   Sir Frank, you're plainly aware of that from the
+13               face of the document, because it is only concerned with
+14               local resilience forums and --
+15          A.   Yes.
+16          Q. -- strategic co-ordinating groups, and presumably once
+17               you became Chief Medical Officer you were briefed about
+18               Exercise Cygnus in 2014 and the extent to which the
+19               recommendations to which we're about to return were
+20               being implemented, were you not?
+21          A.   I don't remember a specific briefing about it, but
+22               I would have been aware of it as we went into 2016,
+23               a Cygnus exercise, yes.
+24          Q. Because that was the delayed United Kingdom exercise to
+25               which the Welsh Government was a participant?
+    35
+
+ 1             A.   Yeah.
+ 2             Q. You were no doubt informed, and you probably asked, to
+ 3                  what extent had the recommendations from the first part
+ 4                  of Cygnus been put in place by now?
+ 5             A.   Yeah. I can't remember the discussion about that, but
+ 6                  yes.
+ 7             Q. On this page we can see the issues being raised: excess
+ 8                  deaths, just the practical problems associated with
+ 9                  dealing with large numbers of fatalities; communication;
+10                  regulation, the reduction -- and there is an example,
+11                  the need for two signatures on a death certificate;
+12                  resources, a reference to a national stockpile of
+13                  resources; school closures; demands for data collection;
+14                  and concern being expressed by one strategic
+15                  co-ordinating group about the national pandemic flu
+16                  service.
+17                         Then, over the page, if you could scroll back out,
+18                  please, "Vulnerable People".
+19                         So those were the list of concerns raised. Then
+20                  scrolling back out, please, again, the recommendations
+21                  that are made towards the bottom of that page, you can
+22                  see recommendations 1 through to 9,
+23                  concerning: antiviral collection points; the legal
+24                  position of staff movement in health board needs;
+25                  a reference to the need for decisions at a national
+    36
+
+ 1                level to be made by the Welsh Government in respect of
+ 2                the NHS rather than at local level; criteria -- I'm so
+ 3                sorry, when it moves it's quite difficult to follow
+ 4                it -- for declaring a flu pandemic; 5, Welsh Government
+ 5                Department for Education and Skills to update
+ 6                guidelines; 6, LRF co-ordinators group; 7, working
+ 7                arrangements for the Wales Pandemic Flu Group and Wales
+ 8                Warning and Informing Group; 8 and 9, Welsh Government
+ 9                Social Services and Wales Mass Fatalities Group.
+10                   To what extent do you recall, Sir Frank, those
+11               recommendations being implemented by the
+12               Welsh Government by the time that you took office
+13               in 2016?
+14          A.   Well, there's quite a complex range of them. We'd have
+15               to go down perhaps individually. But I ... the way in
+16               which, from exercises, the various exercises that we
+17               had, and this was one of several, of course, before my
+18               time and during my time, the way in which those
+19               recommendations were being managed was that there was
+20               a database, a spreadsheet, which was maintained by the
+21               HEPU and that did log the recommendations and regularly
+22               track the progress against them. So somewhere in the
+23               system there will be a document which says at that point
+24               in time, in 2016, when I took up post, to what extent
+25               they were met and then subsequently they would have been
+    37
+
+ 1                  updated.
+ 2             Q. Can you recall in a general sense whether all the
+ 3                  recommendations from the first part of Cygnus were
+ 4                  implemented?
+ 5             A.   I can't.
+ 6             Q. All right. The recommendations did not cover or
+ 7                  consider some of the areas which have turned out to be
+ 8                  vital to the response, of course, to the Covid pandemic.
+ 9                  For example, surge capacity or any need to stockpile or
+10                  provide for PPE in the sorts of quantities which proved
+11                  to be necessary, or any of those other areas of
+12                  countermeasures to which you were referred.
+13                       Was that because the first part of Exercise Cygnus
+14                  was only concerned with relatively quite a low level in
+15                  the civil contingencies order down that tree of civil
+16                  contingencies?
+17             A.   I think it's partly that.
+18             Q. Right.
+19             A.   And partly that it's back to the point that it was
+20                  predicated on what had happened in 2009 and the pandemic
+21                  that we'd been through, so there's a lot of
+22                  consideration in there about the distribution system for
+23                  antivirals. In 2009 we had to set that up from zero, as
+24                  indeed subsequently we had to set up a lot of structures
+25                  for Covid from zero. But that -- those are the two
+    38
+
+ 1                reasons I think why it is what it is, why the
+ 2                recommendations are what they are.
+ 3           Q. Right, that's very clear.
+ 4                    Then moving forward to the main United Kingdom
+ 5                Exercise Cygnus in 2016, it was in October, so you would
+ 6                have been in post, you were appointed in August. Was
+ 7                the Welsh Government a full participant in the exercise,
+ 8                do you recall?
+ 9           A.   Well, it was a participant, and ministers were involved,
+10               officials were involved, and so, yes, we were
+11               a participant in that.
+12          Q. In terms of which parts of the Welsh civil contingencies
+13               structure came under examination, and were called upon
+14               to take part in the exercise, was the Welsh
+15               participation more limited than the Scottish
+16               participation because it had had its own, albeit quite
+17               local, Exercise Cygnus in 2014 already?
+18          A.   That may well be the case. I don't recall the details,
+19               but I don't recall that we tested the LRF structures in
+20               the -- quite the same way, and probably because we had
+21               done that in 2014.
+22          Q. Or the strategic co-ordinating groups, one presumes,
+23               because they had also been the subject of examination
+24               in 2014?
+25          A.   I can't recall them being tested.
+    39
+
+ 1             Q. All right.
+ 2                       Can you recall the extent to which those two
+ 3                  documents, the Wales Framework for Managing Infectious
+ 4                  Disease Emergencies or the Wales Health and Social Care
+ 5                  Influenza Pandemic Preparedness and Response Guidance,
+ 6                  were tested in the course of the 2016 Exercise Cygnus?
+ 7             A.   I think they would have been background documents, but
+ 8                  really my role in Cygnus was at the officials level,
+ 9                  meeting with the CMOs, and supporting the ministers. So
+10                  that was the kind of level I was working at. There may
+11                  well have been further consideration, you know, further
+12                  into the system. There were officials' groups meeting
+13                  in Wales, as I recall, and they would have certainly had
+14                  access to all of those documents.
+15             Q. After Exercise Cygnus, my Lady's heard evidence that the
+16                  NSC(THRC), a ministerial committee in London, in 2017
+17                  ordered the setting up of a Pandemic Flu Readiness Board
+18                  in London, and also one followed in Scotland. Are you
+19                  aware of the extent to which or how the Welsh Government
+20                  responded to that direction from the NSC(THRC) in Wales?
+21                  What body was set up by way of a pandemic flu
+22                  preparedness group in Wales to deal with the aftermath
+23                  of Exercise Cygnus?
+24             A.   So the pandemic flu readiness group at UK level was set
+25                  up, and Wales had an input into that, again through the
+    40
+
+ 1                HEPU, it was the prime relationship with Wales, and then
+ 2                in 2017 an influenza pandemic preparedness group was
+ 3                established, again by the HEPU, to tie in to the
+ 4                recommended -- to the workstreams, let's say, that were
+ 5                being run through the UK group.
+ 6           Q. So the same Wales Pandemic Flu Preparedness Group to
+ 7                which I referred, that is the body that responded in
+ 8                Wales?
+ 9           A.   It is, yes.
+10          Q. Could we have INQ000107112, please. These are the
+11               minutes from the first meeting of the Wales Pandemic Flu
+12               Preparedness Group in September of 2017.
+13                    We can see that there are a number of attendees from
+14               the Welsh Government and Public Health Wales, and there
+15               is HEPU at the top, Health Emergency Planning Unit.
+16                    Although I believe that HEPU formally is known as
+17               the "Preparedness Unit", but in any event maybe that's
+18               an earlier emanation.
+19                    But we can see a number of officials from the Health
+20               and Social Services Group (HSS), Public Health Wales and
+21               apologies from three further officials.
+22                    Further down the page, paragraph 1.4, an official --
+23               and the official, for your information, Sir Frank, is
+24               a senior member of HEPU:
+25                    "... said that he had called this Group together to
+    41
+
+ 1                  co-ordinate any outputs from the UK review structure and
+ 2                  consider what may need to be undertaken in Wales to
+ 3                  implement the review outcomes."
+ 4                      So that is what you said a few moments ago, the
+ 5                  group was formed in order to consider what should be
+ 6                  done in Wales.
+ 7                      1.5, the same official:
+ 8                      "... added that he thought there were a number of
+ 9                  strategic documents that may need to be changed,
+10                  following the review, including the UK Pan Flu Framework
+11                  2011 [that's our old friend from 2011], the [local
+12                  resilience forum] Pandemic Flu Guidance, the Wales
+13                  Response Plan, the Wales [Health and Social Service]
+14                  Pandemic Preparedness and Response Plan [and] the
+15                  UK/Wales Pan Flu Communications Strategy and [the]
+16                  operational pandemic flu guidance [relating] to ... NHS
+17                  and social care.
+18                      Do you know the extent, Sir Frank, to which any or
+19                  all of those documents did get updated in the fullness
+20                  of time?
+21             A.   Yeah, I don't think any of them were finally updated.
+22                  I think that the whole process was to -- of the UK
+23                  process was to update the suite of guidance. So the
+24                  pandemic flu framework was being -- and that was the
+25                  pandemic flu plan, wasn't it, 2011?
+    42
+
+ 1           Q. Yes.
+ 2           A.   -- was being updated through the group we just talked
+ 3                about. There was an expectation or a hope, I think,
+ 4                that the LRF pandemic flu guidance, which I think was
+ 5                2013, was going to be led by Wales, and the others
+ 6                I don't think have been updated since then, no.
+ 7           Q. If you could turn, please, to page 4 and paragraph 7.1.
+ 8                     We can see that the group decided that:
+ 9                     "... future meetings ... would be convened as and
+10               when substantial progress had been made at a Board or
+11               Workstream level."
+12                    Is that a reference to the point that you've already
+13               made, which is -- or you've made a few moments ago --
+14               that this committee or group decided that it couldn't
+15               progress the updating of the Welsh plans in these
+16               various areas unless and until the United Kingdom group
+17               had updated the United Kingdom plan, the 2011 strategy?
+18               Was that the roadblock?
+19          A.   Well, that's my understanding. This group essentially
+20               was shadowing the UK preparedness group, yeah.
+21          Q. But this group, Sir Frank, was convened in order to be
+22               able to progress civil contingency emergency
+23               preparedness planning in Wales. What was the point of
+24               it convening at all if it was only ever going to do
+25               something once the United Kingdom had acted first?
+    43
+
+ 1             A.   Well, it was to provide input as well into that -- into
+ 2                  the UK process. So the meeting of the group, you know,
+ 3                  I think further up the minute there, talks about which
+ 4                  members of the Welsh Government were to be linked in to
+ 5                  the various strands of UK preparedness. So it wasn't
+ 6                  just waiting, it was actually looking to how we in Wales
+ 7                  could support the overall development of pandemic
+ 8                  preparedness.
+ 9             Q. If you go up to 6.1, please, there's a reference to
+10                  a strategic approach being applied:
+11                      "... members of the group should take the
+12                  opportunity to look at the operational guidance
+13                  currently in place and review whether revisions or new
+14                  pieces of guidance would be needed following proposals
+15                  from the Readiness Board. He added that he was taking
+16                  a strategic approach to the task and that any concept of
+17                  operations developed would need to be reflected in Wales
+18                  and at a local level."
+19                      What do you understand that reference to "taking
+20                  a strategic approach" to mean?
+21             A.   I don't really understand that at all, no.
+22             Q. This was the position, wasn't it: that although that
+23                  group was convened in order to progress Welsh civil
+24                  contingencies work, none of the pieces of work that were
+25                  identified as requiring updating, refreshment, whatever
+    44
+
+ 1                you call it, was done, even though some of it plainly
+ 2                included guidance that was Welsh only, so not just
+ 3                United Kingdom documents or policy but Welsh documents,
+ 4                none of it was done because the view appears to have
+ 5                been taken that nothing should be done until the
+ 6                United Kingdom Pandemic Flu Readiness Board had acted
+ 7                first in relation to its own 2011 strategy?
+ 8           A.   I think it's fair to say that a lot of the subsequent
+ 9                actions were predicated on hanging off the revision of
+10               the 2011 plan strategy, yeah.
+11          Q. So the board, this group, decided it wouldn't convene
+12               again until further progress had been made at the UK
+13               level. Those are minutes from a meeting in
+14               September 2017. In January 2018, were you contacted by
+15               the United Kingdom Pandemic Flu Readiness Board and
+16               asked to agree to a meeting to see what progress was
+17               being made?
+18          A.   Yes.
+19          Q. Did that meeting not take place for a further
+20               six months, until June of 2018?
+21          A.   I think that's correct.
+22          Q. Could we have INQ000180482, please.
+23                    "... Senior Officials Meeting with Welsh Government,
+24               DHSC and Cabinet Office -- Cardiff, 14 June ..."
+25                    We can see that you are named as the first attendee
+    45
+
+ 1                  from the Welsh Government.
+ 2             A.   Mm.
+ 3             Q. Mr Kilpatrick, about whom we've heard and about whom
+ 4                  we'll hear a little bit more in a moment, director for
+ 5                  local government, and David Goulding, to whom you've
+ 6                  referred, emergency planning adviser, a major
+ 7                  constituent part of HEPU. And Ms Hammond, from whom
+ 8                  my Lady has heard, director of Civil Contingencies
+ 9                  Secretariat.
+10                        Page 2, please:
+11                        "[An official] asked whether any vulnerability
+12                  mapping had been conducted as part of the sector
+13                  resilience work."
+14                        There was some discussion about "challenge panels".
+15                        "DG [Mr Goulding] noted that in the Welsh Government
+16                  ... a group [had been established] to consider the
+17                  outcomes of the UK review and [to] co-ordinate Wales
+18                  actions to implement any necessary changes in Welsh
+19                  planning."
+20                        So Mr Goulding makes reference to the point you've
+21                  made, which is that nothing was going to be done until
+22                  the United Kingdom had acted first.
+23                        But what about documents which were only Welsh
+24                  documents as opposed to United Kingdom documents? Did
+25                  that approach affect guidance across the board in the
+    46
+
+ 1                field of pandemic planning? There was no document that
+ 2                could be worked on and improved or updated because of
+ 3                this strategic approach?
+ 4           A.   I think the master document was the -- was seen and was
+ 5                always seen as the 2011 strategy, really. So I think --
+ 6                this is just my recollection -- I think that everything
+ 7                else was seen to be hinging on that.
+ 8                     Having said that, you know, there were groups
+ 9                through the Emergency Planning Advisory Group, that we
+10               talked about earlier, which were trying to progress the
+11               work on excess mortality, et cetera, so some of the work
+12               was continuing, but there was no updating of the overall
+13               strategy documents, that was -- all hinged on the 2011
+14               strategy update.
+15          Q. And the 2011 strategy itself hinged on whether or not
+16               the UK Pandemic Flu Readiness Board would have the
+17               resources or the inclination to do that first step of
+18               updating itself, didn't it?
+19          A.   I can't disagree with that.
+20          Q. If you look at the second bullet point under "Products":
+21                    "The 2011 Strategy refresh is a scheduled year 2
+22               [Pandemic Flu Readiness Board] product."
+23                    I think "product" there is a piece of jargon meaning
+24               work.
+25                    "While a refresh of the 2013 [local resilience
+    47
+
+ 1                  forum] guidance is needed, this is not currently
+ 2                  scheduled in year 2 of the programme primarily due to
+ 3                  resource availability. In terms of timing, there would
+ 4                  be limited benefit in refreshing it ahead of the
+ 5                  strategy given the cross-references needed between the
+ 6                  two documents."
+ 7                        So the UK Pandemic Flu Readiness Board was unable to
+ 8                  get on with its own refresh of the 2011 strategy because
+ 9                  it was, for different reasons, tied to another document
+10                  which wasn't even going to be addressed until the
+11                  following year because of resource problems.
+12                        So following that meeting, what concern did you have
+13                  that the entire process of bringing these important HCID
+14                  and pandemic influenza pan-Wales documents up to date
+15                  was being frustrated?
+16             A.   Well, I think there was an exchange, a subsequent
+17                  exchange between the HEPU and the Civil Contingencies
+18                  Group, and a note went to the minister to advise that,
+19                  although progress was being made, it wasn't as fast as
+20                  we had anticipated and that there was a likely ask for
+21                  additional resources, not least around the refresh of
+22                  the 2013 LRF guidance which, as I say, I think there
+23                  was -- my recollection of the meeting was that there was
+24                  an expectation that Wales was going to provide some
+25                  leadership and some resource into that particular piece
+    48
+
+ 1                of work. So the note went up to the minister about
+ 2                that, yeah.
+ 3           Q. But that expectation was never realised, was it?
+ 4           A.   What expectation?
+ 5           Q. The expectation that you've just referred to, which is
+ 6                that there would be local resilience forum guidance
+ 7                updated nevertheless?
+ 8           A.   No, I think events kind of overtook things, yes.
+ 9           Q. So that never happened either?
+10          A.   It did not.
+11          Q. Right. Could we have, please, INQ000180484. This is
+12               the email string to which you've referred, Sir Frank.
+13               It's an email string from July 2018.
+14                    It's going to be a bit difficult to find the
+15               relevant emails, because it's all on a single page, but
+16               if our excellent technician can find his way down to
+17               6 July 2018, which is probably two or three screenshots
+18               lower.
+19                                           (Pause)
+20                    6 July, and then 04.13, so 13 minutes past 4 in the
+21               afternoon -- it will be two or three emails down. There
+22               we are.
+23                    From Reg Kilpatrick to Frank Atherton, yourself, and
+24               David Goulding, copying in Andrew Goodall, who was then
+25               the NHS Wales Chief Executive but is now the
+    49
+
+ 1                  Permanent Secretary.
+ 2                      Was this an email in which between you all, because
+ 3                  you were all concerned with this issue, concern was
+ 4                  being expressed about the fact that the review and the
+ 5                  guidance was simply not being processed?
+ 6                      If you look down at the third paragraph,
+ 7                  Mr Kilpatrick said to you:
+ 8                      "Given that this is a UK review, they [that's
+ 9                  the United Kingdom Government] asked specifically for
+10                  some resources to help in that task which seems
+11                  a reasonable request. In view of the total emergency
+12                  planning capacity across the NHS Wales, I would expect
+13                  us to be more co-operative than we currently are. The
+14                  pace of development of the review and guidance is
+15                  therefore at risk, so this needs to be exposed to
+16                  ministers along with the resource issues."
+17                      It was brought to ministers, was it not?
+18             A.   It was. It was indeed, yeah. So that was the -- this
+19                  all refers to a minute of that meeting which was being
+20                  sent up to -- being prepared to be sent up to the
+21                  minister, yeah, and --
+22             Q. Mr Vaughan Gething, to whom we have referred earlier,
+23                  who was then the Cabinet Secretary for Health and Social
+24                  Services?
+25             A.   Indeed, yes, yes.
+    50
+
+ 1           Q. So this email correspondence was at official level,
+ 2                where you were debating your concerns about the fact
+ 3                that there had been no progress, and that there was
+ 4                an issue about resources, and a risk administratively or
+ 5                politically --
+ 6           A.   Yes.
+ 7           Q. -- which needed to be brought to the attention of
+ 8                Mr Gething? Is that a fair summary?
+ 9           A.   That is a fair summary, yes.
+10          Q. The email string ends on 10 July, if we go back to the
+11               top of the page, where you wrote this, after there had
+12               been quite a difficult debate between the three of you,
+13               Sir Frank, about what should be done. I don't think we
+14               need to go into the detail of what became quite
+15               a personal debate further down the email chain, but you
+16               said:
+17                    "Signal that we have reached a compromise; There is
+18               considerable work remaining and we need to deepen
+19               liaison with the [local resilience forum] mechanism but
+20               I am assured that we have good engagement with
+21               [Department of Health] on this."
+22                    So your position was: why don't we tell the minister
+23               that a compromise has been reached in terms of the
+24               extent to which the United Kingdom can call upon the
+25               Welsh official structure for assistance, but there is
+    51
+
+ 1                  considerable work remaining on the Welsh side, we need
+ 2                  to deepen liaison, but we've got good engagement; is
+ 3                  that a fair summary of what you were saying?
+ 4             A.   Well, it partly is. The compromise was, dare I say,
+ 5                  you know, between members of our team really within
+ 6                  Welsh Government, because there was a -- something of
+ 7                  a disagreement about the advice that we were giving to
+ 8                  the minister, so there was a feeling from the civil
+ 9                  contingencies side, Reg Kilpatrick, that the view we
+10                  were giving to the minister in David Goulding's original
+11                  email -- message to the minister was unduly optimistic
+12                  and that we weren't signalling sufficiently the need for
+13                  additional resource or the request that was coming from
+14                  the United Kingdom Government for additional Welsh
+15                  resource and where that resource would come from.
+16                      So the compromise was to change the advice that was
+17                  going up to make it much clearer to the Health Minister
+18                  that those were salient issues.
+19             Q. So presumably some advice or a message was sent to the
+20                  Minister for Health. In the event, Sir Frank, is this
+21                  the position, though: that no further resources were, as
+22                  far as you understood it --
+23             A.   Yes.
+24             Q. -- committed to pandemic planning; the risk that you'd
+25                  identified remained, which is that the Welsh Government
+    52
+
+ 1                would be exposed to the accusation that no further
+ 2                resources were being devoted to this issue; no further
+ 3                work was done in relation to any aspects of the Welsh
+ 4                pandemic planning guidance because of the roadblock in,
+ 5                as you saw it, in London; and this particular body,
+ 6                which had been set up in order to progress work, the
+ 7                Wales Pandemic Flu Preparedness Group, met for the last
+ 8                time in September 2018 and didn't sit again?
+ 9           A.   I agree with all of those points, and of course the
+10               reasoning behind that was that -- the reason for that
+11               and for progress then to stall was that resources were
+12               moved to other issues.
+13          Q. Yes. Is that a euphemistic reference to the impact of
+14               the necessary preparations for a no-deal EU exit?
+15          A.   Or Operation Yellowhammer, if you like, yes.
+16          Q. Yes. So not only were no resources developed, not only
+17               did no work continue on the guidance, not only did the
+18               main committee dealing with this issue not sit again,
+19               but whatever workstreams were being pursued were then
+20               interfered with by Operation Yellowhammer; is that
+21               a fair summary?
+22          A.   The work all stalled.
+23          Q. So it stalled for additional reasons?
+24          A.   Yes.
+25          LADY HALLETT: Mr Keith, it looks like we're not going to
+    53
+
+ 1                  finish Sir Frank before the break?
+ 2             MR KEITH: My Lady, if that's a convenient -- that may very
+ 3                  well be a very convenient moment, but yes, I'm afraid
+ 4                  that may well be the reality.
+ 5             LADY HALLETT: Sorry to break off your evidence, Sir Frank.
+ 6                  I shall return at 3.30.
+ 7             (3.15 pm)
+ 8                                        (A short break)
+ 9             (3.30 pm)
+10             MR KEITH: Sir Frank, in May 2018, according to your witness
+11                  statement, you re-established a body known as the Health
+12                  Protection Advisory Committee.
+13             A.   I did.
+14             Q. And it had representatives from the Welsh Government,
+15                  local health boards, Welsh local authorities, the Food
+16                  Standards Agency, Public Health Wales, Natural Resources
+17                  Wales and a couple of other entities.
+18                        It plainly covered a range of public health matters
+19                  or was designed to cover a range of public health
+20                  matters and not just influenza pandemic preparedness or
+21                  even HCID preparedness. But why did you do that? What
+22                  need did you perceive was not being met in the absence
+23                  of such a committee, or what concerns did you have, if
+24                  any, that led you to want to re-establish that
+25                  committee?
+    54
+
+ 1           A.   Yeah. So there had been a committee, a Health
+ 2                Protection Committee, previous to my taking up the role
+ 3                of CMO, and that was disestablished for reasons I don't
+ 4                really understand, but my desire with it was really to
+ 5                have a forum where we could look at the broad sweep of
+ 6                health protection issues which affected a range of
+ 7                organisations. The reasoning for that was that health
+ 8                emergencies, health issues, health -- threats to health,
+ 9                are so wide-ranging that you need to have a lot of
+10               different organisations involved and engaged. So
+11               although I had very good contact with health
+12               counterparts in social care to some degree, I didn't
+13               feel we had a strong enough input to local authorities,
+14               to Natural Resources Wales, to the Health and Safety
+15               Executive, to the Food Standards Agency. So I set the
+16               committee -- the group up to bring together those
+17               groups. It was really a stakeholder group to help to
+18               understand the threats, and so that they could bring to
+19               the table and to my attention any threats from their
+20               particular domains as well.
+21          Q. Does it follow, Sir Frank, that the need for that
+22               committee was born from the recognition that there was
+23               no other pre-existing committee which was convened, was
+24               being convened, to address such threats or to look at
+25               those health protection issues?
+    55
+
+ 1             A.   There was nothing looking across the broad sweep that
+ 2                  I've just described, yes.
+ 3             Q. In the course of the 18 months from May 2018 to the
+ 4                  onset of the pandemic, did that health protection
+ 5                  advisory group look at a number of threats or issues or
+ 6                  matters of concern?
+ 7             A.   It did, yes.
+ 8             Q. One of the ones that we've noted was the areas in which
+ 9                  hospital isolation facilities may have been deficient,
+10                  I'm not going to ask you questions about that, but there
+11                  was an issue about the improvement in compliance and
+12                  what the substantive provision of facilities amounted
+13                  to.
+14                        But another important area which followed on from
+15                  that was the issue of high-consequence infectious
+16                  disease outbreak control.
+17                        Did you have a concern that the position in Wales,
+18                  the structure, the personnel and the people and the
+19                  systems for dealing with HCID, high-consequence
+20                  infectious disease, outbreak was deficient?
+21             A.   So they are, as you rightly say, two different things.
+22                  An isolation rooms issue had gone back quite a long time
+23                  and I had tried to make sure that in Wales we had
+24                  sufficient isolation room availability in all of our
+25                  hospital stock so that we could deal with significant
+    56
+
+ 1                infections and to help to control communicable diseases
+ 2                within hospitals.
+ 3                    The HCID issue, high-consequence infectious disease
+ 4                issue, came to my attention particularly when we had
+ 5                cases of monkeypox, now Mpox, and Ebola occurring in
+ 6                the UK, and it was clear to me that having
+ 7                high-consequence infection units only in London and
+ 8                Newcastle, as I think existed at the time, we had a gap
+ 9                in Wales, and I felt that we ought to have some
+10               provision in Wales, and so we embarked on a process to
+11               develop that provision as part of the UK network.
+12          Q. What provision, the provision for dealing with
+13               high-consequence infectious disease?
+14          A.   Yes, exactly, yes.
+15          Q. So there was no or at least no adequate provision for
+16               the management of a high-consequence infectious disease
+17               in Wales until you directed the committee which you
+18               re-established to look at that issue?
+19          A.   No, there was provision, the provision was predicated
+20               though on the use of hospital beds in London or in
+21               Newcastle, so any high-consequence infectious disease in
+22               Wales would have had to have been transported to those
+23               places, and so in fact --
+24          Q. Sorry, just pause there. There was in Wales,
+25               territorially, no provision for the management of
+    57
+
+ 1                  high-consequence infectious disease? If you became
+ 2                  infected in Wales with a high-consequence infectious
+ 3                  disease, your management, the treatment and the public
+ 4                  health consequences would all be transferred across the
+ 5                  border?
+ 6             A.   Just to be clear, we're talking about very unusual
+ 7                  infections, Ebola infections, for example, where highly
+ 8                  specialised contained facilities are required at a level
+ 9                  that we did not have in Wales. We had and have the
+10                  ability to treat most infectious disease, most
+11                  outbreaks, et cetera, but HCIDs is a separate -- it's
+12                  a higher tier provision of service which currently
+13                  exists only in those two places I've mentioned.
+14                      What we had done of course in Wales is to make sure
+15                  that if we did have such a case, if we had a case of
+16                  Ebola, that we were able to identify it, isolate it --
+17                  the person who was affected, and transport them safely
+18                  to one of those units. And we'd actually invested,
+19                  through the Welsh Ambulance Service in the arrangements
+20                  to make that happen.
+21             Q. But the arrangements were not adequate, were they? That
+22                  was the concern that was expressed at the committee that
+23                  you set up?
+24             A.   That's why I was concerned that we should have such
+25                  an establishment in Wales, exactly.
+    58
+
+ 1           Q. So it's no answer to say, "Well, it's all right, there
+ 2                were perfectly adequate arrangements in England for
+ 3                dealing with HCID", the committee became aware that "we
+ 4                [in Wales] were not adequately prepared for such
+ 5                an incident", and that was a reference to two Welsh
+ 6                residents from west Wales who had been low risk contacts
+ 7                of, I suppose, a sort of ground zero, the zero monkeypox
+ 8                case?
+ 9           A.   Yeah, so --
+10          Q. So the Welsh system was unable even to deal with a case
+11               involving just two contacts from a monkeypox infection?
+12          A.   Well, I accept your point that it was the case that any
+13               high-consequence infectious disease that was identified
+14               in Wales or indeed large swathes of England would have
+15               had to be treated in either London or Newcastle, those
+16               were the only two sites, and I felt it was important to
+17               establish that.
+18                   That's not to say that the arrangements were not
+19               there. There were arrangements. But I wanted to
+20               strengthen those arrangements.
+21          Q. But the email thread between you and some of the
+22               officials on the committee, including Mr Goulding, of
+23               31 December 2019 says:
+24                   "... it became clear that we were not adequately
+25               prepared for such an incident."
+    59
+
+ 1                      So it wasn't a question of the committee saying, "We
+ 2                  are adequately prepared because we can make arrangements
+ 3                  for contacts to be traced in England or for somebody
+ 4                  infected with monkeypox to be treated or managed in
+ 5                  England", the Welsh response was not adequate; isn't
+ 6                  that the reality?
+ 7             A.   Well, it was adequate in that if we had somebody we
+ 8                  would -- we had the arrangements to get them to an HCID
+ 9                  facility. That was -- that would have solved the issue,
+10                  that would have provided the support to that person.
+11                  But it would be a better system -- perhaps
+12                  a strengthened system might be a better way of putting
+13                  it than an inadequate system -- we were trying to
+14                  strengthen our system.
+15             Q. Well, could we have, please, INQ000177379 up, please, on
+16                  page 1.
+17                      You can see that the email is addressed to David, so
+18                  David Goulding.
+19                      If you could just cast your eyes down, please, the
+20                  page, Sir Frank, to the reference to monkeypox case.
+21             A.   Yes.
+22             Q. So in the context of how the system had been tested by
+23                  recent events where two Welsh residents from west Wales
+24                  who were low risk contacts had come to the attention of
+25                  the NHS:
+    60
+
+ 1                     "... at the planning meeting ... to confirm how we
+ 2                would respond to one or both residents becoming unwell
+ 3                it became clear that we were not adequately prepared for
+ 4                such an incident."
+ 5                     So this debate was not phrased in terms of "Well,
+ 6                we're doing fine but we can do even better", it was
+ 7                "We are not adequately prepared"; that's not the same,
+ 8                is it?
+ 9           A.   Well, I accept your point, but you know, I -- perhaps it
+10               was an inelegant wording on my part. We could certainly
+11               have responded to those patients, because we had robust
+12               plans to get them to an HCID unit. What I perhaps
+13               should have said is "adequately resourced to manage such
+14               an incident in Wales", which is what we were trying to
+15               set up.
+16          Q. Well, let's have a look at the minutes, INQ000177380,
+17               please.
+18                    At page 3, at paragraph 4.2, there is a reference to
+19               an issue relating to care homes.
+20          A.   Yes. Which paragraph, please?
+21          Q. 4.2:
+22                    "CMO ..."
+23                    Is that you?
+24          A.   That's me, yes.
+25          Q. "... expressed concerns [about] the preparedness of
+    61
+
+ 1                  care homes and in particular the arrangements for
+ 2                  antivirals."
+ 3                       This was in the context of seasonal flu, was it not?
+ 4             A.   It was, yes.
+ 5             Q. So in relation to seasonal flu, for which there is
+ 6                  necessarily antiviral in existence and vaccines and
+ 7                  a national flu service, you were expressing concerns
+ 8                  about the ability of care homes and the arrangements for
+ 9                  antivirals in that limited context?
+10             A.   Yes. Can I expand on that, my Lady? Would that help?
+11             Q. Please.
+12             A.   So, in Wales, we do have arrangements for provision of
+13                  antivirals into care homes when we have seasonal flu.
+14                  It's rather a laborious process, in that it involves
+15                  getting general practitioners involved and that is
+16                  a real draw on their time. I had come across from
+17                  Canada where I'd been working in similar environments,
+18                  but in Canada we had a much more robust system, I felt,
+19                  where care homes had pre-authorisation to distribute
+20                  antivirals on the say-so of a CMO or a medical officer,
+21                  and it was a much, much more streamlined process, and
+22                  I had discussed with ML, the -- bringing that process
+23                  into Wales. So that was the nature of the discussion at
+24                  the HPAG meeting. Thank you.
+25             Q. All right. That's care homes.
+    62
+
+ 1                     In relation to infections, page 4, paragraph 5.2,
+ 2                please, "High Consequence Infections (Presentation)":
+ 3                     "CMO ..."
+ 4                     Is that you?
+ 5           A.   I think we've established that.
+ 6           Q. "... acknowledged there were significant questions
+ 7                around the preparedness of NHS Wales to deal with
+ 8                a similar situation ..."
+ 9                     One monkeypox case and two contacts.
+10                    "... and to be able to manage an infected case at
+11               one of our acute hospitals for at least 24 hours."
+12                    So you weren't saying there, "It's all fine, may we
+13               please have more robust plans", which is the phrase you
+14               used a few moments ago, you acknowledged there were
+15               significant questions about the preparedness of
+16               NHS Wales, of the Welsh NHS, to deal with this limited
+17               case of a monkeypox infection?
+18          A.   Purely -- yeah, I accept the point absolutely, but it
+19               was because monkeypox was defined as a high-consequence
+20               infectious disease and we were not geared up to provide
+21               all the facilities needed, all the staffing, all the
+22               arrangements to provide treatment for an HCID in Wales,
+23               and I felt that was a gap in our armour which we should
+24               improve.
+25          Q. So by contrast to the catastrophic consequences of
+    63
+
+ 1                  Covid, which in essence is a highly infectious disease,
+ 2                  just not, terminologically, a high consequence one, with
+ 3                  catastrophic consequences, there wasn't just a gap,
+ 4                  there was a yawning chasm in terms of preparedness; the
+ 5                  Welsh NHS couldn't even deal with a single limited
+ 6                  contact HCID case?
+ 7             A.   Well, I think they're very different things, the -- if
+ 8                  you remember, to go back, at the start of the pandemic,
+ 9                  because we knew very little about coronavirus, the novel
+10                  coronavirus, it was managed initially as
+11                  a high-consequence infectious disease and patients were
+12                  transferred to London or Newcastle, the first few
+13                  patients. Beyond that, of course, it became downgraded
+14                  from a high-consequence infectious disease to a disease
+15                  which should be able to be managed and could be managed
+16                  within hospitals that had adequate infection control
+17                  procedures and normal hospital secondary and tertiary
+18                  care facilities.
+19                       So there is a very significant difference between
+20                  the one case of Ebola or monkeypox and a large number of
+21                  flu cases, which we were absolutely geared up to deal
+22                  with, or indeed, subsequently, the coronavirus cases.
+23                       So I accept your point that we were not adequately
+24                  prepared for high-consequence infectious diseases, which
+25                  is why I raised it with the HPAG and tried to move that
+    64
+
+ 1                to -- and in fact we've made some investment through the
+ 2                national health protection system to actually start to
+ 3                address that.
+ 4           Q. What general concerns did the committee express about
+ 5                the absence of testing capacity in Wales and its current
+ 6                microbiology estate, that is to say the structural, the
+ 7                system for dealing with new testing technologies and
+ 8                testing diagnoses and frontline support?
+ 9           A.   Well, I don't think the committee commented specifically
+10               on that. Remember the committee was to give advice to
+11               me. But I had had discussions with Public Health Wales
+12               colleagues about our adequacy in those regards, and we'd
+13               sought some additional investment to try to strengthen
+14               again those processes in Wales. I think we sought extra
+15               resources from the minister in 2019 and then
+16               subsequently in 2020 when the pandemic hit.
+17          Q. Could we have INQ000177362, please.
+18                   This was a paper prepared for the committee in
+19               July 2019, six months before the pandemic struck.
+20               Page 1, at paragraph 4:
+21                   "The current microbiology/infection services in
+22               Wales are fragile and are struggling to deliver on a day
+23               to day basis the prevention, early diagnosis and
+24               frontline support that professionals and the public
+25               require."
+    65
+
+ 1                      Is that not a major concern?
+ 2             A.   It was a major concern. That's why I was raising it so
+ 3                  that we could get extra, additional investment to
+ 4                  address it.
+ 5             Q. Was additional investment provided within the six months
+ 6                  following this paper?
+ 7             A.   I believe it was. We provided -- we put advice to the
+ 8                  minister and the minister provided some additional
+ 9                  resources. We also moved some resources within Public
+10                  Health Wales. So I think an additional 1.5 to
+11                  £2 million was invested in our laboratory capacity and
+12                  in the workforce capacity needed to deal with major
+13                  outbreaks and incidents.
+14             Q. Sir Frank, that money may well have been attributed --
+15                  directed towards the fragile microbiology infection
+16                  services in Wales; were any additional testing processes
+17                  or personnel for testing made available by the end of
+18                  December 2019?
+19             A.   Well, I don't know about the recruitment process that
+20                  went through, but certainly the funding was -- in 2019
+21                  was put in -- was intended to improve the testing
+22                  specifically around genomic testing of pathogens.
+23             Q. By the onset of the pandemic, the entire testing
+24                  provision, the microbiological, the genomic, the
+25                  diagnostic testing system in Wales remained fragile, as
+    66
+
+ 1                we can see here, did it not?
+ 2           A.   There was a fragility that we had to address, and that's
+ 3                why in 2019 we tried to start to address it.
+ 4           Q. Final questions, please.
+ 5                    In relation to inequalities and appreciating,
+ 6                of course, that as the Chief Medical Officer Wales you
+ 7                are not the minister for health and social services, can
+ 8                you recall any focus being paid at any time, either in
+ 9                terms of the guidance or the policy documentation or the
+10               procedures which came before you, upon -- the impact on
+11               those who suffer from societal or ethnic inequality of
+12               all this planning, other than in relation to the obvious
+13               point that there will always be clinical risk involved,
+14               and obviously pandemics and disease outbreaks affect
+15               everybody differently, clinically?
+16                   Can you recall any debate at all about a wider
+17               consideration of societal or ethnic inequality?
+18          A.   So the one I can recall there being quite a bit of
+19               discussion about was about how we -- and this is not
+20               specific to pandemics, but how we in any civil
+21               contingencies issue, whether it's flooding or flu or
+22               anything, how we kind of identify vulnerable people and
+23               target resources towards those vulnerabilities.
+24                   So there had been quite a bit of work in Wales about
+25               how we map vulnerabilities and how we -- and in fact
+    67
+
+ 1                  what transpired, as I recall from the discussions, is
+ 2                  that every different organisation had different methods
+ 3                  of doing it. And where I think we landed was that there
+ 4                  was a need for a common approach to vulnerability
+ 5                  mapping of vulnerable individuals and vulnerable groups
+ 6                  in society who might need additional support on top of
+ 7                  the support you give through any major incident.
+ 8             MR KEITH: All right, thank you.
+ 9                      My Lady, those are all my questions. You have
+10                  granted permission for a number of areas to be explored
+11                  by the legal representative for Covid-19 Bereaved
+12                  Families for Justice Cymru.
+13             LADY HALLETT: Thank you. Ms Heaven.
+14                                   Questions from MS HEAVEN
+15             MS HEAVEN: Thank you, my Lady.
+16                      Sir Frank, I'm just over here, right of the pillar.
+17                  My name is Kirsten Heaven and I represent the Covid-19
+18                  Bereaved Families for Justice Cymru.
+19                      I just want to explore two topics with you, the
+20                  first one is a bit more, please, in relation to
+21                  infection control. Obviously you'll understand that
+22                  this is a matter close to the heart of many of those
+23                  whom I represent, particularly in the context of those
+24                  who contracted Covid-19 and went on to die in the
+25                  context of hospital-acquired infection.
+    68
+
+ 1                    I first want to ask you in particular about
+ 2               a document, so can we bring up, please, INQ000145726.
+ 3                    So if we just scroll down, we can see this is
+ 4               a document entitled "Healthcare Associated Infections --
+ 5               A Strategy for Hospitals in Wales", and we can see it's
+ 6               a Welsh Assembly government document.
+ 7                    Now, just to give you a bit of background, we know
+ 8               that this is a document from 2004, so clearly it's
+ 9               a very long time before you come into post in 2016. But
+10              if we just look, if we just turn to the first page,
+11              please.
+12                                          (Pause)
+13          LADY HALLETT: We've got it on our screen.
+14          MS HEAVEN: Have you? Sorry, it's not showing on my screen.
+15                   Okay.
+16                   So we can see that there is a foreword here and it's
+17              explaining that there is a healthcare-associated
+18              infection, some patients will become infected as a major
+19              consequence of another illness, and it's talking about
+20              a strategy being developed by the Welsh Healthcare
+21              Associated Infection sub-group of the Committee for the
+22              Control of Communicable disease, and essentially it's
+23              setting out a strategy to be applied in local NHS trusts
+24              in Wales, to essentially improve infection control in
+25              Welsh hospitals.
+    69
+
+ 1                      First question: did that subgroup on -- the
+ 2                  Committee for the Control of Communicable disease, did
+ 3                  that exist in 2016, do you know?
+ 4             A.   I don't recall it. I don't recall a group of that name,
+ 5                  but we did have various groups look at
+ 6                  healthcare-associated infections, yes.
+ 7             Q. If we just scroll down then briefly to internal page 4,
+ 8                  do you have that there?
+ 9             A.   Okay.
+10             Q. So we can see there that in the basic introduction:
+11                      "Healthcare associated infections continue to cause
+12                  substantial patient morbidity and cost to the health
+13                  service."
+14                      It's explained in the second paragraph that there is
+15                  a reference there to an Improving Health in Wales
+16                  document from 2000, which is essentially the inspiration
+17                  for this document in order -- setting out clinical tools
+18                  for the management of infection control.
+19                      So if we can turn then internally to page 25, do you
+20                  have that there?
+21             A.   I have a page, I can't tell what number it is, but yes.
+22             Q. So page 25, this is what I want to ask you about, is
+23                  "Some lessons from the Severe Acute Respiratory Syndrome
+24                  (SARS) outbreak", paragraph 1.5. Do you see that there?
+25             A.   Yeah.
+    70
+
+ 1           Q. Okay. So what this document essentially is saying is
+ 2               that some lessons needed to be learnt as a result of the
+ 3               SARS outbreak in 2004, and I'm not going to read it all
+ 4               out because the Inquiry has it there before them, but
+ 5               what it makes clear is:
+ 6                    "The SARS outbreak has thus provided us with
+ 7               a timely reminder that not only should sound and
+ 8               evidence-based infection control policies be in place
+ 9               but considerable attention must be paid to ensuring that
+10              they are rigorously and consistently applied. This
+11              requires a sound understanding and commitment to
+12              effective infection prevention and control practice
+13              among staff [in] the healthcare system. This strategy
+14              focuses on the development of systems to achieve this
+15              objective."
+16                   So that was the clear recommendation coming out in
+17              2004, that there needed to be systemic policies
+18              developed within infection control.
+19                   Now, just fast forwarding then to 2014, you have
+20              been taken to the Wales Framework for Managing Major
+21              Infectious Disease Emergencies, so just to complete the
+22              picture if we could get that document up, please.
+23                   It's INQ000184289, and it's page 13.
+24                   So it's internal page 13. Now, you have been asked
+25              in detail about this document. I want to focus on the
+    71
+
+ 1                  very last bullet point, which says this:
+ 2                      "All hospitals need to establish ways of caring for
+ 3                  large numbers of infectious patients on a scale outside
+ 4                  their normal experience, including those requiring high
+ 5                  dependency care."
+ 6                      Can you see that there?
+ 7             A.   Yes, yes.
+ 8             Q. So you have been asked about the adequacy of Wales'
+ 9                  ability to respond to one or two cases of an HCID, but
+10                  in 2014, following on from the SARS recommendations, it
+11                  was recognised, wasn't it, that there was a need for
+12                  hospitals to deal with large numbers of infectious
+13                  patients, not just one or two?
+14             A.   That's certainly the case, and of course we see that
+15                  every year with pandemic -- with seasonal flu outbreaks,
+16                  indeed.
+17             Q. So when you came into your post in 2016, can you just
+18                  assist the Inquiry with what personal steps, if any, did
+19                  you take to ascertain the state of infection control
+20                  generally in Welsh hospitals?
+21             A.   So when I arrived quite early on I actually chaired
+22                  a group which was looking at antimicrobial resistance,
+23                  and also healthcare-associated infections. I co-chaired
+24                  that with one of the medical directors from one of the
+25                  local health boards, and that group was subsequently
+    72
+
+ 1                taken over by the Deputy Chief Medical Officer, who was
+ 2                reporting to me.
+ 3                    So we did have, through all of the time that I've
+ 4                been the Chief Medical Officer, and continue to have,
+ 5                a very strong focus, I would say, on HCAIs,
+ 6                healthcare-associated infections. We have the
+ 7                structures in place, we have the guidance in place to
+ 8                hospitals as to what they should be doing around HCAIs
+ 9                and infection prevention. We monitor that as
+10               Welsh Government, the Health and Social Services Group
+11               monitored it very carefully through the monthly returns
+12               from health boards and from -- through a process called
+13               the JET, that's the joint executive team meetings, where
+14               we meet with the executive of each health board twice
+15               a year and we look at -- well, a range of issues but
+16               including infection control issues.
+17                   And it's why I in 2016, when I saw the lack of total
+18               provision of infection control isolation rooms across
+19               Wales, why I personally put so much time and effort into
+20               trying to get the resources to be able to make sure that
+21               every hospital and every health facility had the ability
+22               to deal with those.
+23                   But more fundamentally, I was regularly in contact
+24               with -- in common with my colleague, the Chief Nursing
+25               Officer, at the time, and we wrote repeatedly I think to
+    73
+
+ 1                  chief nurses, to medical directors, reminding them of
+ 2                  their responsibilities, and we actually established --
+ 3                  I think it was in 20 -- I can't remember which year, but
+ 4                  we established a workshop, probably it was early 2019
+ 5                  actually, to look at the issue of HCAI and our health
+ 6                  protection system, and that's what led to the investment
+ 7                  that we've just been talking about with Mr Keith.
+ 8                      So, you know, you ask what personally I've done,
+ 9                  I think I've tried very hard to make sure that HCAI
+10                  remains an important consideration within the health
+11                  system and that we have the ability to deal with it.
+12             Q. But we've seen that the recommendation in 2004 was in
+13                  relation to SARS, that was an HCID, wasn't it?
+14             A.   It would have been an HCID, yes.
+15             Q. Yet it was only in 2019 that you were raising concerns
+16                  in relation to monkeypox and other HCIDs?
+17             A.   Yeah, so --
+18             Q. Quite a delay, wasn't it?
+19             A.   Well, I'm talking about the generality of infection
+20                  control in hospitals and that's a really important
+21                  issue, and I thought that's what you were referring to.
+22                  But if your point is that we didn't have an HCID
+23                  facility in Wales until, you know, up until 2019, that
+24                  is correct. Correct. But we did have, of course, as
+25                  I've previously outlined, arrangements for patients with
+    74
+
+ 1                HCIDs to be safely transferred to English facilities for
+ 2                treatment.
+ 3           Q. Just one final point in relation to NERVTAG, please.
+ 4                You've just explained a moment ago that Wales didn't
+ 5                have a role in NERVTAG. I think we understand from the
+ 6                evidence that we're likely to hear from Andrew Goodall
+ 7                that Wales played an observer status.
+ 8                    We can see in documents in 2016 NERVTAG are making
+ 9                recommendations about the need for FFP3 masks, and more
+10               general masks, to be available in all hospitals,
+11               communities and ambulance and social care staff
+12               services.
+13                   In 2016 and onwards, were you personally aware,
+14               then, of the recommendations that were being made by
+15               NERVTAG in particular in relation to masks that I've
+16               just described?
+17          A.   Well, I don't recall seeing that recommendation. I'd
+18               have to have a look at it.
+19          Q. But don't you need to know, in your role as CMO, if
+20               NERVTAG are making recommendations? Isn't that
+21               something you need to know?
+22          A.   I would expect to have been informed of that, and
+23               I would expect that the systems in Wales would have
+24               picked that up and would know about that. As to whether
+25               we were a member or had observer status, I can't recall.
+    75
+
+ 1                  Some of the groups in the UK we had observer status, and
+ 2                  it may well be the case that we did have observer status
+ 3                  in NERVTAG, in which case, my Lady, I apologise for my
+ 4                  earlier statement, but we can check that.
+ 5             Q. But, to be clear, you never attended a NERVTAG meeting
+ 6                  directly yourself?
+ 7             A.   I did not, no.
+ 8             MS HEAVEN: Thank you very much, my Lady.
+ 9                                   Questions from THE CHAIR
+10             LADY HALLETT: Thank you, Ms Heaven.
+11                      One question from me, Sir Frank. You described
+12                  almost at the very beginning of your evidence that the
+13                  Office of the Chief Medical Officer when you first
+14                  started sounded like it was pretty under-resourced.
+15             A.   Yes.
+16             LADY HALLETT: It got the resources when we went into the
+17                  pandemic, so what did it go from to?
+18             A.   Well, essentially, my Lady, I had secretarial support
+19                  and personal administration support, you know, but what
+20                  transpired at the start of the pandemic is things moved
+21                  very, very quickly and we very rapidly realised that we
+22                  were drowning under the sea of information, we couldn't
+23                  manage the information flows, couldn't even manage
+24                  emails. So that led to a process, over a period of
+25                  time, with me working with the Director General, who
+    76
+
+ 1                you're about to speak to, to try to get some additional
+ 2                resource. So that was the process we went through.
+ 3           LADY HALLETT: So basically the getting the additional
+ 4                resource was an acknowledgement you were under-resourced
+ 5                in the first place?
+ 6           A.   I would agree with that, thank you.
+ 7           LADY HALLETT: Thank you.
+ 8           MR KEITH: My Lady, may I just correct one matter, which
+ 9                that I put to Sir Frank that we had not received the
+10               Health and Social Services Group risk register. The
+11               Welsh Government has kindly informed us that they did
+12               provide it, in fact, last Thursday, but I regret to say
+13               that it didn't pop out the far end of the material
+14               provider disclosure process in time for my learned
+15               friend, Mr Sharma, and myself to be aware of it.
+16          LADY HALLETT: Thank you very much.
+17                   Thank you, Sir Frank.
+18          MR KEITH: I should have said my learned friend Ms Spector,
+19               not Mr Sharma.
+20                                  (The witness withdrew)
+21          MR KEITH: My Lady, the next witness is Dr Andrew Goodall,
+22               the Permanent Secretary to the Welsh Government.
+23                               DR ANDREW GOODALL (sworn)
+24                     Questions from LEAD COUNSEL TO THE INQUIRY
+25          MR KEITH: Good afternoon. Could you give the Inquiry,
+    77
+
+ 1                  please, your full name.
+ 2             A.   My name is Andrew Goodall.
+ 3             Q. Dr Goodall, could you remember to keep your voice up as
+ 4                  you give evidence, please, for our purposes and also for
+ 5                  our hard-working stenographer. I believe, my Lady,
+ 6                  we'll be sitting until shortly before 5 o'clock, so
+ 7                  there won't be a break this afternoon of which you can
+ 8                  take advantage but there may be tomorrow. You will,
+ 9                  I'm afraid, be giving evidence tomorrow morning as well.
+10                  It's impossible to conclude your evidence tonight.
+11                         You have provided three witness statements, have you
+12                  not, variously dated 14 March 2023, 20 April 2023 and
+13                  20 April 2023?
+14             A.   Yes, I have.
+15             Q. I think it's fair to say, Dr Goodall, you have strained
+16                  every sinew to provide us with as much information as
+17                  you can about the workings of the Welsh Government.
+18                  Each of those statements is true, is it not, and you
+19                  have appended your signature to each of them?
+20             A.   It is true, and I've appended my signature.
+21             Q. Thank you.
+22                         You are currently the Permanent Secretary, the sole
+23                  Permanent Secretary to the Welsh Government, are you
+24                  not?
+25             A.   I am. I took up that post in November 2021.
+    78
+
+ 1           Q. Before that, were you Director General of Health and
+ 2                Social Services, and therefore also the Chief Executive
+ 3                of NHS Wales, posts which you held between June 2014 and
+ 4                November 2021?
+ 5           A.   Yes, that's correct, and I was discharging that role
+ 6                during this particular period, yes.
+ 7           Q. Which is why, of course, the previous witness,
+ 8                Sir Frank Atherton, referred to you in the run-up to the
+ 9                pandemic as being the Director General of Health and
+10               Social Services.
+11          A.   Indeed, that's correct.
+12          Q. Could we start, please, with a crash course in Welsh
+13               constitutional matters, and the role of the
+14               Welsh Parliament, formerly the National Assembly for
+15               Wales, the role of the Welsh Government, formerly the
+16               Assembly Government, and where health, public health and
+17               civil contingencies come in the devolved nature of
+18               things.
+19                   So, there was, under the Government of Wales Act
+20               1998, a National Assembly for Wales established; is that
+21               correct?
+22          A.   Yes, that's correct.
+23          Q. Within that National Assembly, was there an executive
+24               known as a cabinet or an executive committee which
+25               comprised members of the Assembly?
+    79
+
+ 1             A.   Yes, that's correct.
+ 2             Q. In 1999, a broad range of functions previously exercised
+ 3                  by ministers of the Crown for the United Kingdom in
+ 4                  London, were transferred by way of a series of Orders in
+ 5                  Council to the executive, the cabinet or the executive
+ 6                  committee in Wales; is that correct?
+ 7             A.   Yes.
+ 8             Q. And were they the (Transfer of Functions) Order -- or
+ 9                  orders -- of 1999 and following?
+10             A.   Yes, they were.
+11             Q. In 2014, under the Wales Act, did the name of the
+12                  Welsh Assembly government become changed or get changed
+13                  to the Welsh Government?
+14             A.   Yes, it did, it changed to Welsh Government.
+15             Q. In 2020, did the name of the National Assembly for Wales
+16                  change to the Senedd or Welsh Parliament?
+17             A.   Yes, those changes happened in 2020.
+18             Q. So, over the course of time, the nomenclature as well as
+19                  the functions of the cabinet or the executive committee,
+20                  in essence the Welsh Government, have changed quite
+21                  considerably, have they not?
+22             A.   Yes, indeed, they have changed significantly, in
+23                  particular when the opportunity to be able to make its
+24                  own legislation came through.
+25             Q. Was that because until the Government of Wales Act 2006,
+    80
+
+ 1                the National Assembly for Wales was unable to make its
+ 2                own primary legislation?
+ 3           A.   Yes, that's correct.
+ 4           Q. So the current position is this: that in the
+ 5                Welsh Government there is a First Minister who leads the
+ 6                Welsh Government; is that correct?
+ 7           A.   Yes, that's correct.
+ 8           Q. There are a number of Welsh ministers equivalent to what
+ 9                one might call senior ministers in the United Kingdom
+10               Government in London and deputy Welsh ministers
+11               equivalent to junior ministers in the United Kingdom
+12               Government?
+13          A.   Yes, that's correct. Their names have changed over the
+14               years but broadly it will be the same, yes.
+15          Q. There is at the apex of the administration of the
+16               Welsh Government a permanent secretary, and that is you?
+17          A.   Yes, I lead and manage the civil service, yes.
+18          Q. So you're, I suppose, one might call the equivalent
+19               amalgamation, perhaps, of head of the civil service in
+20               Wales, the Cabinet Secretary, the administrative chief
+21               executive, you are the permanent secretary who is
+22               subject only to ministerial control?
+23          A.   Yes, that would be true of my successors, myself from
+24               2021 of course and, yes, my role would include acting as
+25               the principal accounting officer for the organisation,
+    81
+
+ 1                  and also acting as the first adviser to the
+ 2                  First Minister and the cabinet as well.
+ 3             Q. We've seen from the relevant paperwork that Wales does
+ 4                  not have ministries. It has, for the purposes of
+ 5                  carrying out its functions, a number of departments
+ 6                  known as directorates?
+ 7             A.   Yes.
+ 8             Q. Is that why we've seen, of course, from the context of
+ 9                  health emergencies, repeated references to the Health
+10                  and Social Services directorate?
+11             A.   Indeed, the Health and Social Services Group, and I was
+12                  the Director General of that group.
+13             Q. Indeed, until you became the permanent secretary.
+14                      In your witness statement, one of your witness
+15                  statements, you say this:
+16                      "Despite the range of responsibilities, the
+17                  Welsh Government is, and in my experience always has
+18                  been, a compact administration. Welsh Ministers and
+19                  senior officials are 'under one roof' and frequently in
+20                  the same room together."
+21                      What consequences have flowed from that, Dr Goodall,
+22                  in terms of the way in which the Welsh Government has
+23                  been able historically to make decisions?
+24             A.   As I've experienced it, through this particular period
+25                  but of course subsequently as well, I think it allows
+    82
+
+ 1                for a closer contact amongst both officials and also
+ 2                amongst ministers. It means that irrespective of
+ 3                working in an individual portfolio, for example in
+ 4                health, you have an awareness of the broader workings of
+ 5                government, including on other policy matters. I think
+ 6                it does create a network of confidence and trust,
+ 7                colleagues get to know each other. It also extends out
+ 8                beyond just the workings within Welsh government,
+ 9                because it translates into the way in which we work
+10               across other agencies and other networks in Wales as
+11               well. So there is a intimacy about that system
+12               internally for Welsh government, as well as outside.
+13          Q. Dr Goodall, you speak very fast, and I didn't in fact
+14               ask you at the beginning to speak more slowly or to
+15               ensure that you speak slowly. Could you please do so,
+16               however.
+17          A.   Of course.
+18          Q. It's very difficult for the very skilled stenographer to
+19               keep up with that level of speech.
+20                   Just to identify the major moving parts at the
+21               highest level of the Welsh Government, is there
+22               a Welsh Government board which provides strategic advice
+23               and assurance to you, the permanent secretary?
+24          A.   Yes, I would distinguish its role, aside of course from
+25               the cabinet and the political oversight, which also will
+    83
+
+ 1                  oversee the delivery of civil service priorities in
+ 2                  Wales, but the Welsh Government board has a role to help
+ 3                  me discharge my principal accounting officer role. It
+ 4                  provides assurance, it helps us with the outlook and the
+ 5                  strategic direction of the organisation. In simple
+ 6                  terms, it allows me to lead and manage the organisation.
+ 7             Q. Do you also have the benefit of an executive committee,
+ 8                  which is both an operational and strategic
+ 9                  decision-making body within the civil service in Wales,
+10                  no doubt staffed by heads of the directorates, and other
+11                  officials, and chaired by you?
+12             A.   Yes, we have an executive committee, I chair it, and
+13                  that really acts as the decision-making mechanism for
+14                  the civil service.
+15             Q. Finally, is there -- and this will become relevant
+16                  later -- something called ARAC, the Audit and Risk
+17                  Assurance Committee, which assists you to discharge the
+18                  functions to which you made reference a moment or two
+19                  ago as the principal accounting officer to the Senedd.
+20                  You are responsible to the Senedd as the principal
+21                  accounting officer for the entirety of the Welsh
+22                  non-ministerial administration?
+23             A.   Yes, the audit and risk committee supports the, again,
+24                  discharge of the risk areas in the organisation, the
+25                  annual accounts process, and brings together
+    84
+
+ 1                non-executive members alongside directors and officials
+ 2                in the organisation.
+ 3           Q. Devolution.
+ 4                    The Inquiry is now very familiar with the
+ 5                distinction between devolved and reserved matters. Are
+ 6                health services in Wales almost entirely devolved, which
+ 7                means that they are within the responsibility of the
+ 8                Welsh ministers and the Welsh civil service?
+ 9           A.   Yeah, yes, they are almost entirely devolved, I would
+10               describe them as devolved. There are some exceptions
+11               around some specialist areas which will occur on a UK
+12               basis but, yes, they are devolved responsibilities.
+13          Q. By contrast at the beginning civil contingencies were
+14               not all devolved, were they?
+15          A.   No, they weren't all devolved. Clearly there were Welsh
+16               responses from first responders through to government,
+17               but they weren't all devolved responsibilities at the
+18               time back in 2004.
+19          Q. That is a reference, isn't it, to the Civil
+20               Contingencies Act of 2004 of that year, because that was
+21               a single legislative framework or provided for a single
+22               legislative framework for both England and Wales along
+23               with the statute itself, the provisions in the statute,
+24               and also the statutory and non-statutory guidance which
+25               was produced alongside the Act?
+    85
+
+ 1             A.   Yes, that's correct, and it also gave us equivalence
+ 2                  around support arrangements like local resilience fora.
+ 3             Q. Historically under that Act were a number of regulations
+ 4                  made, by way of secondary legislation, which applied to
+ 5                  both England and Wales?
+ 6             A.   Yes, they were.
+ 7             Q. In the fullness of time, however, and following a number
+ 8                  of reports into civil contingencies in Wales and notably
+ 9                  a commission on devolution in Wales, the Silk Commission
+10                  in 2014, was there a major change in 2018, primarily
+11                  through the Welsh Ministers (Transfer of Functions)
+12                  Order which gave -- at least for the purposes of the
+13                  first part of the Civil Contingencies Act, part 1, the
+14                  2004 Act -- powers exclusively by way of devolved
+15                  matters to the Welsh Government?
+16             A.   Yes, whilst it left part 2 arrangements still at the UK
+17                  level, those were the arrangements that came over for
+18                  part 1 in 2018, and reflected a lot of support to want
+19                  to be able to transfer over those functions very clearly
+20                  into Wales, because the previous arrangements probably
+21                  had Welsh Government acting in a de facto leadership
+22                  function and role, but actually the legislation was able
+23                  to make that very clear.
+24             Q. By that, do you mean that from 2010 onwards and until
+25                  2018 the Welsh Government appreciated that, because it
+    86
+
+ 1                was the government on the ground, so to speak, dealing
+ 2                with public health, dealing with local emergencies --
+ 3                because of course they arose locally -- it had to take
+ 4                up the role of acting de facto as a responder under the
+ 5                Civil Contingencies Act, even though that was a piece of
+ 6                UK legislation and even though it wasn't formally
+ 7                a devolved matter?
+ 8           A.   Yes, it would have a co-ordination and support role, but
+ 9                because of its discharge of devolved responsibilities
+10               through ministers, it needed to have clarity on its
+11               involvement. In many respects, a lot of that leadership
+12               had been discharged in the Wales resilience fora from at
+13               least 2003, so Welsh Government was trying to ensure
+14               that it was able to give that co-ordination role, but
+15               again we needed to make sure that the powers were much
+16               clearer, which is what happened in 2018.
+17          Q. Could we look, please, just at one of those reports to
+18               which I have referred, the reports on civil
+19               contingencies which preceded the Transfer of Functions
+20               Order. It's a report dated 6 December 2012,
+21               INQ000107113. Perhaps we could pick it up at page 4,
+22               please.
+23                   Dr Goodall, I'm putting this page to you because,
+24               although this is dated 6 December 2012, over ten years
+25               ago, I'm going to suggest in due course that some of the
+    87
+
+ 1                  problems and concerns identified back then are still
+ 2                  relevant to this Inquiry's consideration of the run-up
+ 3                  to the pandemic, even though this report was prepared at
+ 4                  a time when the Welsh Government had, pre-transfer of
+ 5                  devolved functions, a very different role.
+ 6                       The recommendations were these:
+ 7                       "Many of the arrangements to deliver the Civil
+ 8                  Contingencies Act 2004 work well but the role of the
+ 9                  Welsh Government is unclear and there are opportunities
+10                  for increased efficiency in local delivery.
+11                       "Complex leadership arrangements have not prevented
+12                  the Welsh Government from providing effective support
+13                  for the partners delivering the Civil Contingencies Act
+14                  2004."
+15                       Is that the de facto role to which you've referred?
+16             A.   Yes, that's what I would have been describing.
+17             Q. But:
+18                       "Too many emergency planning groups and unclear
+19                  accountabilities add inefficiency to the already complex
+20                  Resilience Framework."
+21                       Could I perhaps go straight to the heart of the line
+22                  of questioning, which I'll develop over the next two or
+23                  three hours, and ask you this, which is: do you believe,
+24                  looking back, that that problem identified in 2012 was
+25                  adequately addressed? By 2020 had that inefficiency and
+    88
+
+ 1                overcomplexity been rooted out of the Welsh civil
+ 2                contingencies structures, or do you think they remained?
+ 3           A.   I think we had addressed that in part in terms of
+ 4                allowing the Welsh Government role to be much clearer,
+ 5                particularly where ministers would have expectations to
+ 6                oversee public services and discharge their
+ 7                responsibilities. I think that there is an inevitable
+ 8                complexity about bringing agencies around the table who
+ 9                have a series of different reporting arrangements up and
+10               through to UK departments -- there are non-devolved
+11               responsibilities, for example the police -- and I don't
+12               feel that any of that has got in the way of creating
+13               partnerships and relationships in Wales.
+14                   But, in simple terms, we rely on an emergency
+15               response that is driven from a Wales Resilience Forum
+16               structure and is supported by for local resilience fora
+17               areas. I think the complexity, of course, is every
+18               first responder having their own statutory
+19               responsibility -- which means 22 local authorities, four
+20               police forces, ten health organisations -- and I think
+21               that probably does start to steer some other
+22               difficulties. But I think we were at least able to
+23               address an understanding of Welsh Government's role, but
+24               I do think that some of the supporting arrangements in
+25               place up through local resilience fora arrangements
+    89
+
+ 1                  would still need to have been worked through.
+ 2             Q. Your answer appears to address primarily the
+ 3                  arrangements at local level, the local resilience forums
+ 4                  and the strategic co-ordinating groups and the
+ 5                  resilience partnerships and so on, but is that -- isn't
+ 6                  that conclusion on that page of more general
+ 7                  application, that there are too many emergency planning
+ 8                  groups and unclear accountabilities in the resilience
+ 9                  framework, so across the board, so not just at local
+10                  forum and strategic co-ordinating group level but within
+11                  what has now become a more crystallised part of the
+12                  Welsh Government?
+13             A.   I think there are arrangements that work differently
+14                  when planning and preparing, which turn into something
+15                  different in a response mode. So I would say that we
+16                  need to have an understanding of the difference between
+17                  those two areas.
+18                      I think that some of the individual points of
+19                  working arrangements that take place and some of the
+20                  detailed level of work has inevitably needed a level of
+21                  expertise and experience to be applied.
+22                      So I would have some concerns about the range of
+23                  sub-groups that can appear, that can be used
+24                  constructively, but we would have needed to have made
+25                  sure they had a task and finish focus rather than just
+    90
+
+ 1                become an embedded part of our machinery.
+ 2                    I think the interrelationship between the use of
+ 3                different frameworks and plans at different times for me
+ 4                would be an issue. We actually had tidied up some of
+ 5                those arrangements, even back I think in around 2012 --
+ 6                because the infectious disease framework, as an example,
+ 7                was an amalgam of four previous plans -- but
+ 8                nevertheless I think that the interrelationship between
+ 9                pandemic health and social services responsiveness and
+10               preparedness guidance alongside the infectious disease
+11               plan, alongside the pan-Wales response plan, we still
+12               I think need to make very clear about what parts of
+13               those are working at which moments, and certainly -- in
+14               my own understanding, just to help with the clarity of
+15               the issue -- it's the pan-Wales response plan which is
+16               the overall co-ordinating and guiding hand, if you like,
+17               on the arrangements in Wales.
+18          Q. Dr Goodall, the paperwork demonstrates that there are
+19               a plethora of different bodies from the Wales Resilience
+20               Forum, the Wales Resilience Partnership Team, the civil
+21               contingencies group, the Welsh Civil Contingencies
+22               Committee, the resilience steering group, STAC, the
+23               tactical(sic) advisory cell, the tactical(sic) advisory
+24               group, the Emergency Coordination Centre, the civil
+25               contingencies and incident response room, the Joint
+    91
+
+ 1                  Emergency Services Group, HEPU -- to which we've just
+ 2                  had some evidence directed -- you have the pan-Wales
+ 3                  response plan, there are a multitude of guidance
+ 4                  documents. There was a swine flu, a Wales pandemic
+ 5                  influenza response arrangement, swine flu task and
+ 6                  finish group, a Wales pandemic flu task and finish
+ 7                  group, Wales Pandemic Flu Preparedness Group. I haven't
+ 8                  covered them all.
+ 9                      For an administration which prides itself on its
+10                  efficiency of movement because of the relative lack of
+11                  scale and an administration that operates effectively
+12                  under one roof, are there not in fact a plethora of
+13                  bodies in this labyrinthine system?
+14             A.   There are many bodies. I think some of those
+15                  relationships are probably clearer to me about how they
+16                  would work. I think some of them would feel as though
+17                  that they were duplicating some of the tasks and
+18                  activities, and certainly the balance of what is
+19                  discharged nationally as opposed to what is discharged
+20                  within those sort of local responders and in the
+21                  regional arrangements or the local resilience fora would
+22                  also be an issue.
+23                      But, yes, that's a very significant list of areas,
+24                  and looking forward in our "safe and secure Wales"
+25                  of course we need to make sure that that is very
+    92
+
+ 1                explicitly set out, that it is clear and it is also
+ 2                efficient.
+ 3                     What I also don't want to lose within our
+ 4                assessment, though, is the times when we do need to,
+ 5                of course, deal with issues that are a matter of detail.
+ 6                But again, as I said earlier, I think that needs to be
+ 7                a philosophy of task and finish rather than ongoing
+ 8                arrangements.
+ 9           LADY HALLETT: Sorry, I don't follow -- task and finish.
+10               I think I do.
+11          A.   Yeah, task and finish groups really just to make sure
+12               that they quickly handle an issue. They may have
+13               a cycle of two or three meetings with experience and
+14               expertise around the table, and then come out with
+15               a solution which can be implemented, rather than
+16               an ongoing set of meetings.
+17          LADY HALLETT: So it's a response?
+18          A.   A response, so as an example, if one is working through
+19               a response about excess deaths in the context of
+20               pandemic flu, to ensure that there is a timescale that
+21               is given in order to achieve those and deliver them, and
+22               not just be an ongoing contact point between those
+23               experts.
+24          MR KEITH: Task and finish. Following swine flu, the Wales
+25               Resilience Partnership Team agreed that a Wales pandemic
+    93
+
+ 1                  flu task and finish group be established; correct?
+ 2             A.   Yes.
+ 3             Q. Following Exercise Cygnus, the Wales Resilience
+ 4                  Partnership Team delegated overall responsibility to the
+ 5                  Wales Pandemic Flu Preparedness Group, and following
+ 6                  Exercise Cygnus the Pandemic Flu Readiness Board was
+ 7                  promulgated, instituted for the purposes of making sure
+ 8                  that that, those recommendations were identified and
+ 9                  finished.
+10                         But would you agree that, despite those three
+11                  instances of task and finish functions being identified,
+12                  not all the recommendations from any of those reviews or
+13                  exercises were, in the event, implemented?
+14             A.   Not all of those were implemented, so --
+15             Q. And those committees, those task and finish bodies, took
+16                  in some cases a very long time to attempt to ensure that
+17                  the relevant recommendations were implemented, did they
+18                  not?
+19             A.   In my view, they took too long to make sure that the
+20                  recommendations were implemented, even if there had been
+21                  progress on some of those activities and matters and
+22                  they were completed.
+23             Q. So despite your recourse to the benefit of task and
+24                  finish bodies, history and the reality has shown that
+25                  they themselves have not really performed terribly well,
+    94
+
+ 1                have they?
+ 2           A.   They haven't been able to discharge the outcomes on all
+ 3                of those areas, and we need to understand how, if we
+ 4                have got to a better place, that we need to be able to
+ 5                update the guidance at that point rather than try to
+ 6                keep searching.
+ 7           Q. Please may we not have a terminological debate. They
+ 8                have not done very well, have they?
+ 9           A.   The task and finish groups did not deliver all of the
+10               objectives, they didn't achieve them, no, I agree.
+11          LADY HALLETT: They were given the task but they didn't
+12               finish.
+13          A.   They didn't achieve all of the tasks, my Lady, yes.
+14          MR KEITH: Rather defeats the purpose of a task and finish
+15               group, does it not?
+16          A.   (Witness nods)
+17          Q. Could we go back to INQ000107113, please, page 9,
+18               paragraph 13. This is the paragraph which underpins
+19               that conclusion, which is in red at the top of the page,
+20               which I read out from the index page, that the role of
+21               the Welsh Government was unclear and there were
+22               opportunities for increased efficiency in local
+23               delivery.
+24                    So in 2012, one of the concerns expressed in this
+25               Welsh Audit Office report concerning civil emergencies
+    95
+
+ 1                  in Wales was that there was a distinct need for
+ 2                  increased efficiency in local delivery, that is to say
+ 3                  in the practical application of civil contingencies
+ 4                  arrangements, and that there was a confusion about the
+ 5                  role of the Welsh Government.
+ 6                         I asked you what your view was on this a little
+ 7                  earlier, but we've now had the debate about the task and
+ 8                  finish committees. Would you now perhaps reassess that
+ 9                  some of the problems identified in this report from 2012
+10                  continued right up until the onset of the pandemic
+11                  because the committee process, the group process, the
+12                  structures in the Welsh Government, continued to be in
+13                  significant respect inefficient?
+14             A.   Yes, I would agree with you that there were too many
+15                  arrangements in place at that time that may have changed
+16                  our focus and what was needed. As I said earlier, I do
+17                  think that some of those mechanisms occur because of
+18                  preparedness as opposed to the response itself. But,
+19                  yes, I would agree that there is an ongoing need to make
+20                  sure that we can have a less complex system, yes.
+21             Q. Thank you.
+22                         Page 10, paragraphs 17 and 18:
+23                         "Too many emergency planning groups and unclear
+24                  accountabilities add inefficiency to the already complex
+25                  resilience framework."
+    96
+
+ 1                    That's the summary I read out earlier.
+ 2                    Paragraph 17 generally says the current structures
+ 3                lead to inefficiencies at a local level, unnecessary
+ 4                complexity and unclear accountabilities; and at 18:
+ 5                    "Complex reporting arrangements are leading to
+ 6                confusion about the roles and responsibilities of the
+ 7                numerous emergency planning groups and organisations.
+ 8                The complexity risks fragmentation of resilience
+ 9                activity with potential overlaps or gaps in the
+10               arrangements for resilience."
+11                   That is an astute and precise summary, is it not, of
+12               the Welsh Government's civil contingencies arrangements
+13               between 2012 up to the time of the pandemic?
+14          A.   I believe we had addressed some of that complexity but,
+15               to take your point, I do agree that we have had too many
+16               examples of duplication and activities happening. Even
+17               as we adopted the Welsh Government responsibilities in
+18               2018, we have probably still not worked our way through
+19               the implications of that transfer of responsibilities by
+20               the time we'd hit the pandemic as well.
+21          Q. In essence the Welsh Government was faced with a very
+22               complex strategic conundrum, which was: having been
+23               given a multitude of what had, up to then, been reserved
+24               functions by virtue of the Transfer of Functions Order
+25               in 2018, somehow those new responsibilities had to be
+    97
+
+ 1                  discharged, and that of course required a great deal of
+ 2                  thought to be given to the best way of setting up the
+ 3                  system, the committees, the groups, the entities, the
+ 4                  responders and so on, to be able to do those new
+ 5                  functions?
+ 6             A.   Indeed that's correct, and we had just in 2018 started
+ 7                  to do some of the resilience assurance within the system
+ 8                  in Wales at that point, but were unable to continue with
+ 9                  that as a cycle as we had originally intended, but that
+10                  was very early on in the transfer of responsibilities.
+11             Q. As a result of, inevitably with all governments,
+12                  resource issues, as a result of the diversion of
+13                  attention away from civil contingencies planning to the
+14                  consequences of a no-deal EU exit, and of course the
+15                  impact of the catastrophic pandemic, work was never
+16                  allowed to get very far?
+17             A.   Yes, we haven't yet passed regulations that would
+18                  discharge those part 1 responsibilities, as an example,
+19                  but certainly, as you say, the EU exit arrangements
+20                  ended up being a priority over and above some of the
+21                  underlying resilience activities. That's correct.
+22             Q. May we now then look at some of the bodies, and see to
+23                  what extent that proposition in that paragraph was
+24                  justified in terms of unnecessary overlap and at the
+25                  same time gaps.
+    98
+
+ 1                    The first body to which you refer, or the first part
+ 2                of the Welsh Government to which you refer in your
+ 3                statement is the Welsh Government resilience team.
+ 4                    Could we have, please, the organogram at page 10.
+ 5                Somewhere -- ah, yes, on the far left of the page,
+ 6                please, of the diagram, halfway down, Welsh Government
+ 7                resilience team. Although on this representative
+ 8                diagram the Welsh Government resilience team is shown as
+ 9                being outside the Welsh Government box -- the
+10               First Minister's box in the middle of the page, and the
+11               directorate for health and social services, the
+12               Welsh Government resilience team is, we presume, within
+13               the Welsh Government?
+14          A.   It is within the Welsh Government and it helps the Wales
+15               Resilience Forum to co-ordinate its role, and works with
+16               the other agencies in Wales.
+17          Q. Is it within a directorate within the Welsh Government,
+18               or is it a self-standing separate entity?
+19          A.   It's not self-standing, it's within one of our
+20               directorate structures.
+21          Q. Was it originally located within the community safety
+22               division in the human resources group and then
+23               transferred to the community safety division in local
+24               government, then moved to education and public services?
+25          A.   Yes, that's correct, it stayed in consistent
+    99
+
+ 1                  arrangements linked to the local government roles in
+ 2                  particular, yeah.
+ 3             Q. Is it going to stay where it is now or might it move
+ 4                  again, Dr Goodall?
+ 5             A.   That team, including an expansion of that team as well,
+ 6                  is still currently located within the same Director
+ 7                  General arrangements, and is still associated around
+ 8                  those public services and local government areas.
+ 9             Q. Do you think it likely that it will remain in the
+10                  education and public services group and then within the
+11                  sub, community safety division, or is it going to move
+12                  again?
+13             A.   It will be staying within those group arrangements.
+14             Q. All right.
+15                      There is evidence before my Lady that that
+16                  resilience team attempted to procure, or at least the
+17                  Welsh Government attempted to procure additional
+18                  resources and funding from the United Kingdom Government
+19                  in order to better enable the Welsh Government to
+20                  discharge those functions, which were transferred --
+21                  formerly being reserved functions -- to the
+22                  Welsh Government under the (Transfer of Functions) Order
+23                  2018.
+24                      Are you aware of whether or not those requests for
+25                  further resources and funding to deal with these
+    100
+
+ 1                additional issues were successful?
+ 2           A.   The transfer of responsibilities happened, but there was
+ 3                no funding that came across with those responsibilities
+ 4                from UK Government, so we had to review those
+ 5                arrangements ourselves at the time.
+ 6           Q. I believe there's a witness statement before my Lady
+ 7                from Mr Kilpatrick, who's a senior official in the
+ 8                Welsh Government, in which he compares unfavourably the
+ 9                amount of funding and the staffing levels for the
+10               Welsh Government resilience team to the analogous
+11               organisation in the Scottish Government.
+12                   Does the Welsh Government acknowledge that that
+13               resilience team is, even by the standards of
+14               pre-pandemic and post pandemic civil contingencies
+15               planning, under-resourced and undermanned?
+16          A.   It was under-resourced at the time, and it expanded and
+17               it has continued to expand, but there are lots of
+18               examples in our discharge of our responsibilities in
+19               Welsh Government where, irrespective of having a wide
+20               range of responsibilities, we still however remain
+21               a compact organisation. So I know at the time we did
+22               expand the resources for that team. They have
+23               subsequently been expanded on the back of experiences
+24               including, of course, during the pandemic itself.
+25          Q. I believe that in 2022 a new directorate was formed
+    101
+
+ 1                  within the Welsh Government called the Risk, Resilience
+ 2                  and Community Safety Directorate; is that correct?
+ 3             A.   Yes, that's correct.
+ 4             Q. Are all resilience functions in the Welsh Government now
+ 5                  within that single directorate, for the better purposes
+ 6                  of transparency and accountability, or are they still
+ 7                  diffusely arranged across the broad spectrum of the
+ 8                  government?
+ 9             A.   They are mainly located there but it doesn't remove the
+10                  individual responsibilities that are held by ministers
+11                  and also by directors general for other sectors across
+12                  Wales. But, as an example, the Health Emergency
+13                  Planning Unit would still be sat within the health
+14                  structures as part of supporting the co-ordination of
+15                  those responses, but that unit has expanded to include
+16                  areas like cyber security, response, and does act now as
+17                  the sort of expert facility within the organisation.
+18             Q. So there is now a primary risk and resilience
+19                  directorate within the Welsh Government -- so that
+20                  everybody may know, that is the directorate in charge
+21                  generally of civil contingencies -- but in the context
+22                  of health emergencies and civil contingencies, plainly
+23                  there needs to be another body dealing with health
+24                  resilience and emergency planning and that is elsewhere
+25                  in the Welsh Government?
+    102
+
+ 1           A.   Yes, we line manage the NHS in Wales and it would form
+ 2                part of those responsibilities, but of course there
+ 3                would need to be, you know, very close liaison and
+ 4                co-ordination in the Welsh Government context.
+ 5           Q. There is in Wales a Wales Resilience Forum, which was
+ 6                created in 2003, and I think at least at some stage
+ 7                chaired by the First Minister and made up of senior
+ 8                leaders or partners in the civil contingencies field in
+ 9                Wales, similar to what we've heard is the Scottish
+10               Resilience Partnership.
+11                   Does that Wales Resilience Forum, which is obviously
+12               a wider body, still function?
+13          A.   It does still function. Whilst there may on occasion be
+14               deputising arrangements for the First Minister, in my
+15               experience the First Minister has been the lead minister
+16               for that arrangement and has been a routine mechanism
+17               for meetings and discussions in Wales, in preparedness
+18               and planning mode.
+19          Q. Our genius technician has flagged up Wales Resilience
+20               Forum on the screen. Does that body give direction to
+21               another body called the Wales Resilience Forum -- sorry,
+22               does the Wales Resilience Forum give strategic direction
+23               to what is known as the Wales Resilience Partnership
+24               Team?
+25          A.   The Wales Resilience Partnership Team are there to
+    103
+
+ 1                  support the function of the Wales resilience fora, so
+ 2                  it's where the civil servants are located who will act
+ 3                  as the secretariat and who will oversee the arrangements
+ 4                  by linking out with the wider system in Wales.
+ 5             Q. Can't it just be a single body, Dr Goodall?
+ 6             A.   The Wales Resilience Forum --
+ 7             Q. Forum and the Wales Resilience Partnership Team; if that
+ 8                  is simply the operational mirror of the strategic forum,
+ 9                  do there have to be two separate bodies?
+10             A.   The Wales Resilience Forum is a meeting which is
+11                  supported by the team, so it discharges a range of
+12                  responsibilities, but that is just the supporting team.
+13                  But they do have a role beyond the secretariat: they
+14                  of course act to link out to partners and agencies in
+15                  Wales as well.
+16             Q. What, then, is the Wales Civil Contingencies Committee
+17                  on the top right?
+18             A.   The civil contingencies committee will actually meet in
+19                  the early phase of an emergency response. Rather than
+20                  being chaired by the First Minister or a designated
+21                  minister, it will be chaired by a senior official, and
+22                  that allows it to understand its responsibilities within
+23                  a response phase of a major incident or an emergency
+24                  planning issue.
+25             Q. So what's the difference between the Civil Contingencies
+    104
+
+ 1                Group, which is the box in the middle of the yellow box
+ 2                in the middle, and the Wales Civil Contingencies
+ 3                Committee?
+ 4           A.   The Civil Contingencies Group establishes itself in the
+ 5                early stages of an emergency response. The Wales Civil
+ 6                Contingencies Committee is when the triggers have been
+ 7                identified and when we are moving into a proper
+ 8                emergency response, and it acts as a liaison point with
+ 9                Cabinet Office and the UK government arrangements,
+10               including, where needed, to give advice up to the COBR
+11               arrangements of course.
+12          Q. What, then, is the resilience steering group, which we
+13               may or may not have on the chart?
+14          A.   The resilience steering group is just a smaller subset
+15               of colleagues. Because the Wales Civil Contingencies
+16               Committee inevitably involves a range of agencies and
+17               other colleagues around the table, it's just a small
+18               interface that allows the activities from that group
+19               just to be taken up to support some of the liaison as
+20               well. So the Wales Civil Contingencies Committee is
+21               a wider group of colleagues who act to give advice when
+22               we are in response mode.
+23          Q. Coming back to what you said earlier about, I don't
+24               know, the doctrinal or theoretical difference between
+25               preparedness and response, is this duplication of bodies
+    105
+
+ 1                  in part the result of a need to be seen to be having
+ 2                  a separate committee that deals with preparedness than
+ 3                  that which deals with response?
+ 4             A.   I mean, generally the approach is --
+ 5             Q. My Lady, this is the point that you'll recall Mr Mann
+ 6                  and Professor Alexander addressed, what now seems some
+ 7                  time ago.
+ 8             A.   Yes, indeed. For example, the Wales Resilience Forum
+ 9                  didn't have a role to discharge within the pandemic
+10                  response because it was there to prepare and to bring
+11                  agencies together under the auspices of the
+12                  First Minister, but, yes, it's to separate out the
+13                  preparedness from the response arrangements that are
+14                  operationally occurring at the time.
+15             Q. There is, in the bottom left-hand corner, a body known
+16                  as Scientific and Technical Advice Cell, STAC. Are you
+17                  familiar with that body?
+18             A.   Yes.
+19             Q. We believe that was set up or at least radically changed
+20                  in July 2019. Why was that?
+21             A.   Just to try and ensure that, whilst needing to rely on
+22                  of course advice, science and advice and use the
+23                  networks at the UK level, that there may well be areas
+24                  and there were experiences that showed that there was
+25                  a need to translate advice directly into the Welsh
+    106
+
+ 1                context. That wouldn't necessarily happen in every
+ 2                arrangement, but on the basis of the emergency that was
+ 3                under consideration, there may be the need to draw in
+ 4                some more specialist advice at that time, which is when
+ 5                those arrangements came into play.
+ 6           Q. But, Dr Goodall, we've heard evidence already this
+ 7                afternoon from Sir Frank Atherton, the CMO, who pointed
+ 8                out to my Lady that there is already a Chief Scientific
+ 9                Adviser for Wales, a Chief Scientific Officer in
+10               NHS Wales, a Chief Scientific Adviser, Health, within
+11               the Health and Social Services Group, Wales has the
+12               benefit of NERVTAG, any learning that comes from SAGE.
+13               Why was there a need for yet another body?
+14          A.   To make sure that those experiences could be brought to
+15               bear and it would also allow us to use those science
+16               experts within Welsh Government as well. So it was just
+17               a connecting point, not on every occasion or for every
+18               emergency, but when needed.
+19          Q. But it has a secretariat, it requires funding, it
+20               requires people to fill the posts on that cell, and has
+21               it not in fact also transmogrified over time because
+22               there is now a tactical advice cell and a tactical
+23               advice group, both born from and having their genesis in
+24               the Scientific and Technical Advice Cell; is that
+25               correct?
+    107
+
+ 1             A.   Yes, the technical advice cell that was introduced
+ 2                  basically is in line with that particular mechanism and
+ 3                  was able to discharge advice and support for the areas
+ 4                  that were under consideration in Wales during the
+ 5                  pandemic response and, yes, it did bring to bear that
+ 6                  sort of closer understanding of modelling data and
+ 7                  evidence in the Welsh context and in the context of
+ 8                  discharging devolved responsibilities.
+ 9             Q. But Wales attends SAGE, so why wasn't SAGE and NERVTAG
+10                  together sufficient? And, if it wasn't, why wasn't STAC
+11                  sufficient? Why was there a need to have yet a third
+12                  level of new bodies, the Technical Advisory Cell, TAC,
+13                  and the Technical Advisory Group, in order to provide
+14                  a forum for scientific and technical advice which was
+15                  already being provided by Welsh Government advisers and
+16                  available from UK entities?
+17             A.   So Welsh Government had an observer status on SAGE,
+18                  I know that changed over time and during the pandemic,
+19                  which was helpful in clarifying some of the
+20                  responsibilities. We did end up converting this
+21                  arrangement into the technical advice arrangements in
+22                  Wales through the pandemic response, and I do believe
+23                  that that allowed us to understand the discharge of
+24                  responsibilities in the Welsh context, not to recreate
+25                  all of the SAGE mechanisms but to allow us to just
+    108
+
+ 1                simply translate the implications of that into the Welsh
+ 2                context, including the data and the evidence.
+ 3           Q. Finally, what is the difference between the Emergency
+ 4                Coordination Centre, which we understand is
+ 5                a Welsh Government -- well, as it says on the tin --
+ 6                emergency co-ordination centre, and the Civil
+ 7                Contingencies and Incident Response Team?
+ 8           A.   The emergency co-ordinating centre is a physical
+ 9                response which involves the co-ordination activities and
+10               is located within Welsh Government, and that can be set
+11               up fully or in part on a 24-hour basis if needed during
+12               any emergency response. But it is a physical entity.
+13               In our local resilience fora arrangements across Wales
+14               there are also physical locations where colleagues and
+15               staff do come together to actually oversee and
+16               co-ordinate the different activities.
+17          Q. But isn't that what the Civil Contingencies and Incident
+18               Response Team does? It comes together as an incident
+19               response team, and I read from your statement, to "[lead
+20               and facilitate] the Welsh Government's response to civil
+21               emergencies". Well, what's the difference?
+22          A.   The ECC(W) is the physical establishment of the
+23               centre --
+24          Q. It's the building?
+25          A.   It's the building --
+    109
+
+ 1             Q. Ah.
+ 2             A.   -- plus where the desks and individuals will be sat, and
+ 3                  discharges that co-ordinating focus within the building.
+ 4                  So it's a physical establishment and was physical during
+ 5                  the pandemic, irrespective of course of other virtual
+ 6                  arrangements.
+ 7             Q. So is the short answer that the Civil Contingencies and
+ 8                  Incident Response Team work in the Emergency
+ 9                  Coordination Centre?
+10             A.   Indeed.
+11             LADY HALLETT: I think that's plenty for today.
+12             MR KEITH: My Lady, that's, I think, about as far as I think
+13                  any of us can go today. Is that a convenient moment?
+14             LADY HALLETT: That's plenty.
+15                      I'm sorry we have to break off, Dr Goodall, but
+16                  I think you're prepared for it.
+17             THE WITNESS: No, my Lady, I understand.
+18             LADY HALLETT: I shall return at 10 o'clock tomorrow,
+19                  please.
+20             (4.53 pm)
+21                            (The hearing adjourned until 10 am
+22                                   on Tuesday, 4 July 2023)
+23
+24
+25
+    110
+

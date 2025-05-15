@@ -1,0 +1,2160 @@
+ 1                                                    Tuesday, 6 February 2024
+ 2           (10.30 am)
+ 3           LADY HALLETT: Good morning.
+ 4                   This is the first preliminary hearing into Module 5,
+ 5               procurement, and in a moment, Mr Richard Wald, King's
+ 6               Counsel, will outline the issues the module will be
+ 7               exploring and any issues that I have to consider today.
+ 8               Mr Wald.
+ 9              Statement by LEAD COUNSEL TO THE INQUIRY FOR MODULE5
+10          MR WALD: Thank you, my Lady.
+11                  I am Richard Wald KC, and I am the lead counsel with
+12              responsibility for the preparation and delivery of
+13              matters falling within the ambit of Module 5. I appear
+14              at this preliminary hearing along with my learned
+15              friends Mr Stoate, Ms Shehadeh, Ms Akram and Ms Ward,
+16              who are, with me, the counsel team for Module 5, the
+17              focus of which will be procurement and distribution of
+18              key healthcare-related equipment and supplies.
+19                  In accordance with the agenda for this preliminary
+20              hearing, I will address you, my Lady, so far as this
+21              module is concerned, on the following areas: first, the
+22              designation of core participants, or CPs; second, the
+23              provisional outline of scope for Module 5; third,
+24              evidence gathering; fourth, disclosure to CPs; fifth,
+25              the listening exercise for Every Story Matters; and
+    1
+
+ 1             finally, future hearing dates.
+ 2                 There will be, then, an opportunity for those who
+ 3             have been designated as CPs for this Module to make
+ 4             submissions if they wish to do so.
+ 5                 These proceedings are, of course, being recorded and
+ 6             live streamed to other locations. In making these
+ 7             arrangements, your Ladyship is fulfilling the obligation
+ 8             under section 18 of the Inquiries Act of 2005 to take
+ 9             such steps as you consider reasonable to ensure that
+10             members of the public are able to attend, or see and
+11             hear a simultaneous transmission of the proceedings.
+12                 Live streaming this hearing also allows the hearing
+13             to be followed by a greater number of people than would
+14             be able to be accommodated within the hearing room or
+15             any overspill rooms. In addition to the Inquiry's
+16             counsel and solicitor teams, there are 12 CPs present at
+17             the hearing room today, with a further eight CPs in
+18             remote attendance. Three CPs are unable to attend
+19             today.
+20                 The lead representatives for the CPs present in the
+21             room are, in no particular order, as follows:
+22             Jesse Nicholls, counsel for Covid-19 Bereaved Families
+23             for Justice; Peter Wilcock KC, counsel for Northern
+24             Ireland Covid-19 Bereaved Families for Justice;
+25             Peter Munro, UK Anti-Corruption Coalition and partners;
+    2
+
+ 1               Aswini Weereratne, counsel for Covid-19 for Bereaved
+ 2               Families for Justice Cymru; Jonathan Holl-Allen KC,
+ 3               counsel for NHS Wales Shared Services Partnership;
+ 4               Philip Dayle, counsel for the Federation of Ethnic
+ 5               Minority Healthcare Organisations, or FEMHO;
+ 6               Sarah Hannaford KC, counsel for Cabinet Office and the
+ 7               DHSC; Thelma Stober, solicitor for Local Government
+ 8               Association and Welsh Local Government Association; and
+ 9               Andrew Kinnier KC, counsel for the Welsh Government.
+10                  The lead representatives for the CPs attending
+11              remotely are, again in no particular order, as follows:
+12              Julie Ellison, counsel for the Right Honourable Baroness
+13              Arlene Foster of Aghadrumsee and Paul Givan;
+14              Una Doherty KC, counsel for NHS National Services
+15              Scotland; Sarah Simcock, counsel for Secretary of State
+16              for Business and Trade; Karen Quinlivan KC, counsel for
+17              Conor Murphy and Michelle O'Neill; Kevin McCaffery,
+18              counsel for Scottish Covid Bereaved; Richard Pugh KC,
+19              counsel for Scottish Territorial and Special Health
+20              Boards; Julie MacKinlay, counsel for Scottish Ministers;
+21              and Georgina Whitfield, representing NHS England.
+22                  A full list of CPs in Module 5 and their recognised
+23              legal representatives has been published on the inquiry
+24              website.
+25                  As is routine in public inquiries, where there may
+    3
+
+ 1             from time to time be matters mentioned of a potentially
+ 2             sensitive nature, the broadcasting of the hearing will
+ 3             be conducted with a three-minute delay. This provides
+ 4             the opportunity for the feed to be paused if anything
+ 5             unexpected is aired which should not be. We do not
+ 6             expect this to arise over the course of today, but
+ 7             I mention it so that those who are following proceedings
+ 8             from further afield can understand the reasons for any
+ 9             such short delay.
+10                 I move, my Lady, now to the designation of CPs.
+11                 My Lady, pursuant to Rule 5 of the Inquiry Rules,
+12             the following applicants, again in no particular order,
+13             were designated as CPs: Covid-19 Bereaved Families for
+14             Justice UK, Scottish Covid Bereaved, Covid-19 Bereaved
+15             Families for Justice Cymru, Northern Ireland Covid-19
+16             Bereaved Families for Justice, Welsh Government,
+17             Scottish Government Ministers, His Majesty's Treasury,
+18             Department of Health and Social Care, the Secretary of
+19             State for Foreign, Commonwealth and Development Affairs,
+20             Department for Business and Trade, the Chancellor of the
+21             Duchy of Lancaster, Cabinet Office, Northern Ireland
+22             Department of Health, Local Government Association and
+23             Welsh Local Government Association, the Right Honourable
+24             Baroness Arlene Foster of Aghadrumsee and Paul Givan,
+25             Conor Murphy, Michelle O'Neill, UK Health Security
+    4
+
+ 1           Agency, NHS England, NHS National Services Scotland,
+ 2           Scottish territorial and special services boards, NHS
+ 3           Wales Shared Services Partnership, UK Anti-Corruption
+ 4           Coalition, and FEMHO (the Federation of Ethnic Minority
+ 5           Healthcare Organisations).
+ 6                  Finally, my Lady, for those who were either not
+ 7           granted CP status, or for those who did not apply to be
+ 8           designated as a CP, I wish to reiterate that not being
+ 9           a CP in Module 5 in no way precludes any person, entity
+10          or group from first applying for CP status in a later
+11          Module, second, bringing any matter to the attention of
+12          the Inquiry, third, providing evidence and information,
+13          fourth, where appropriate and relevant, giving evidence
+14          at a hearing, and five, in the case of an individual
+15          affected by the pandemic, taking part in the Inquiry's
+16          listening exercise.
+17                 Moving on now to the scope of Module 5, my Lady, the
+18          emergence of Covid-19 in December 2019 presented this
+19          country with an unprecedented procurement challenge.
+20          Some figures illustrate the scale of this challenge.
+21          Early indications are that the Department of Health and
+22          Social Care spent in the region of £15 billion on PPE
+23          procurement through the lifetime of the pandemic, during
+24          which over 30 billion items of PPE were purchased and
+25          over 25 billion items of PPE distributed to people
+    5
+
+ 1             dealing with it.
+ 2                 DHSC and the Cabinet Office spent more than half
+ 3             a billion pounds in the early part of the pandemic to
+ 4             reach a target of procuring 30,000 ventilators by
+ 5             August 2020. By late May 2021, over 690 million lateral
+ 6             flow tests had been dispatched within England as part of
+ 7             the NHS Test and Trace programme. As my Lady will know,
+ 8             the National Audit Office, Audit Wales and Northern
+ 9             Ireland Audit Office and Audit Scotland have carried out
+10             a significant amount of work in this area.
+11                 In carrying out our investigations we are, of
+12             course, bound by the restrictions imposed by
+13             Parliamentary privilege, but as part of our
+14             investigation we will be acquiring similar relevant
+15             facts and figures of our own.
+16                 There were also significant issues which arose, the
+17             scale of which the Inquiry is engaged investigating.
+18             Early indications suggest that a number of PPE contracts
+19             awarded were later disputed. The Inquiry is also
+20             investigating concerns that some contracts awarded may
+21             have been fraudulent, that prices were inflated, or that
+22             PPE was defective or unusable.
+23                 The procurement challenges were not limited to
+24             government departments: NHS Trusts, hospitals, local
+25             authorities, and care providers all faced difficulties
+    6
+
+ 1           too.
+ 2                  A key focus of this module will be the way in which
+ 3           this challenge was met. Questions arise about how
+ 4           government procurement in the pandemic operated,
+ 5           including the effectiveness of spending controls, the
+ 6           prevalence of fraud and the steps taken to prevent it,
+ 7           any conflicts of interest or maladministration, and
+ 8           whether procurement processes were able to strike an
+ 9           appropriate balance between speed and safety on the one
+10          hand, and value for public money on the other, whilst
+11          ensuring that the process was fair and transparent.
+12                 The Inquiry must maintain a tight focus on the key
+13          issues. The Inquiry team's investigation in relation to
+14          Module 5 is already under way, with real progress having
+15          been made. We have started the process of gathering
+16          evidence and identifying areas for expert evidence,
+17          topics to which I will return in a few moments.
+18                 The provisional outline of scope for Module 5 states
+19          that:
+20                 "This module will consider and make recommendations
+21          regarding the procurement and distribution to end-users
+22          across the four nations of the United Kingdom of key
+23          healthcare related equipment and supplies, including
+24          PPE, ventilators and oxygen.
+25                 "This module will investigate the robustness and
+    7
+
+ 1             effectiveness of procurement processes, the adequacy of
+ 2             items obtained (including their specification, quality
+ 3             and volume) and the effectiveness of their distribution
+ 4             to the end-user. It will examine any challenges
+ 5             experienced and seek to extract lessons to be learned.
+ 6                 "It will also consider the UK-wide procurement of
+ 7             lateral flow tests and free PCR tests.
+ 8                 "Areas to be covered in this module will include:
+ 9                 "1. The existence and effectiveness of processes,
+10             procedures and/or contractual provisions in place for
+11             the procurement and distribution of key healthcare
+12             equipment and supplies to the end-user prior to and
+13             during the pandemic, the suitability and resilience of
+14             the supply chains and what, if any, changes were made to
+15             procurement processes during the pandemic, and have been
+16             made subsequently. This will include examination of:
+17                 "a. The overall value of the contracts awarded;
+18                 "b. Preparedness, including pre-existing
+19             stockpiles, inventory management and suitability;
+20                 "c. Spending controls;
+21                 "d. Steps taken to eliminate fraud and the
+22             prevalence of fraud;
+23                 "e. Conflicts of interest;
+24                 "f. Contractual performance by suppliers and
+25             manufacturers;
+    8
+
+ 1                "g. Compliance with public law procurement
+ 2           principles and regulations;
+ 3                "h. Openness and fairness, including the
+ 4           [so-called] 'high priority lane';
+ 5                "i. Decisions as to what to buy at what cost and
+ 6           disposal strategies;
+ 7                "j. The existence of any maladministration."
+ 8                "2. Procurement of key healthcare equipment and
+ 9           supplies to the end-user in the period leading up to and
+10          during the pandemic. This will include the existence
+11          and effectiveness of procedures, processes and
+12          communication between the relevant bodies of the four
+13          nations in relation to procurement and the use made of
+14          mutual aid arrangements during the pandemic."
+15               And then, finally:
+16               "3. The operation and effectiveness of any
+17          regulatory regimes and/or oversight (either by the
+18          procuring authority or end user) in relation to key
+19          medical equipment or supplies during the pandemic
+20          including:
+21               "a. Guidance issued by the relevant advisers,
+22          regulators and/or government;
+23               "b. The need for, and the efficacy of standards
+24          required by the (MHRA) [... Medicines and Healthcare
+25          products Regulatory Agency] and the BSI [... British
+    9
+
+ 1             Standards Institution];
+ 2                 "c. The impact of any changes to the volume,
+ 3             technical specifications and/or quality of the products
+ 4             that were procured;
+ 5                 "d. The validation process, including benchmarks
+ 6             and revalidation;
+ 7                 "e. Safety concerns (the existence of such
+ 8             concerns, and how they were addressed by those
+ 9             responsible for procurement)."
+10                 My Lady, this scope is necessarily provisional.
+11             Although it introduces a wide range of topics, it is
+12             neither practical nor advisable to identify at this
+13             stage all the issues that will be addressed at to the
+14             Module 5 public hearing.
+15                 A number of the CPs have made suggestions for
+16             matters that should be included in the provisional
+17             outline of scope. It is not practicable for me to
+18             address all of those today. All require, and are
+19             receiving, careful consideration. It may be that some
+20             suggestions accord with our own understanding of the
+21             scope or planned refinements of the scope. There are,
+22             however, some specific matters relating to the scope
+23             that I would like to address today.
+24                 Firstly, in their joint submissions at paragraph 5,
+25             Covid-19 Bereaved Families for Justice UK and Northern
+    10
+
+ 1           Ireland Covid-19 Bereaved Families for Justice ask the
+ 2           Inquiry to investigate a number of issues relating to
+ 3           emergency planning in the context of procurement,
+ 4           stockpiling, stockpile management, international
+ 5           collaboration in procurement and emergency procurement
+ 6           processes across the four nations.
+ 7                The Inquiry will be investigating these matters in
+ 8           relation not only to PPE, healthcare and oxygen, as
+ 9           suggested by these CPs in their submissions, but to
+10          include also lateral flow tests and PCRs.
+11               Those submissions also raise a number of questions
+12          regarding decisions made during the pandemic, how
+13          quality control and counter-fraud checking was carried
+14          out, and the approach to conflicts of interest.
+15               These are important aspects of the work that
+16          Module 5 is carrying out, and will be addressed.
+17               Finally, the submissions also ask whether Module 5
+18          will be considering the regulatory regime which governed
+19          procurement during the pandemic. As set out in the
+20          provisional outline of scope, Module 5 will be examining
+21          the operation and effectiveness of any regulatory
+22          regimes and/or oversight in relation to key healthcare
+23          equipment and supplies during the pandemic.
+24               CBFJ Cymru in their submissions reiterate the
+25          importance of investigating how procurement of PPE and
+    11
+
+ 1             key equipment and supplies was carried out in Wales, as
+ 2             distinct from the UK Government, and urges the Inquiry
+ 3             to consider issues such as conflicts of interest and
+ 4             consideration given to domestic manufacture of PPE.
+ 5                 This module will examine the approach to procurement
+ 6             across the devolved nations, through the lens on the
+ 7             matters outlined in the provisional scope, as well as in
+ 8             respect of central UK Government decisions.
+ 9                 Third, the UK Anti-Corruption Coalition and
+10             partners, or UKACC, in their submissions suggest
+11             additions to the provisional scope, including
+12             investigation into the impact of procurement decisions
+13             on the day-to-day experience of frontline healthcare
+14             workers, scrutiny of the differences between
+15             business-as-usual procurement and the procurement of PPE
+16             that occurred during the pandemic, including of how
+17             technical assurance and quality control was carried out.
+18             They ask the module to investigate the effectiveness of
+19             the government's due diligence processes and how they
+20             operated.
+21                 These issues are rightly raised, and will be
+22             investigated in the course of Module 5. The impact of
+23             procurement decisions on the day-to-day experience of
+24             frontline healthcare workers will be explored by
+25             Module 3 as well as by the Every Story Matters project.
+    12
+
+ 1               Fourth, UKACC further raise a number of specific
+ 2           questions about the operation of the High Priority Lane,
+ 3           and suggest that it was an approach unique to the UK.
+ 4           The Inquiry can confirm that it will be scrutinising the
+ 5           reasons for and operation of the High Priority Lane
+ 6           within this Module.
+ 7               UKACC asks that the procurement of goods, works and
+ 8           services for the Nightingale hospitals be included
+ 9           within the scope of Module 5. The establishment,
+10          funding, locations, staffing and operation of
+11          Nightingale hospitals are addressed in Module 3,
+12          healthcare systems.
+13              A number of CPs including FEMHO and UKACC raise
+14          questions relating to a perceived lack of transparency
+15          in the procurement process, such as failures to comply
+16          with publication requirements for contract award
+17          notices. This important issue will also feature amongst
+18          those addressed in the work of Module 5.
+19              FEMHO and UKACC also query whether this module
+20          should include the procurement of services. Your
+21          Ladyship may consider that such procurement lies beyond
+22          the scope of Module 5 and the Inquiry's terms of
+23          reference, given that it does not relate to key
+24          equipment and supplies, and that a better approach would
+25          be for any such procurement to be addressed on
+    13
+
+ 1             a module-by-module basis as appropriate.
+ 2                 In their submissions, FEMHO submit that Module 5
+ 3             should consider structural inequalities in procurement,
+ 4             including the extent to which the Public Sector Equality
+ 5             Duty was met in the government's procurement decisions
+ 6             during the pandemic, and the differential aspects and
+ 7             impacts of government procurement processes, procedures
+ 8             and decision-making on minority ethnic healthcare
+ 9             workers and communities.
+10                 They also raise issues about the adequacy of PPE,
+11             publicly procured for certain minority groups, and the
+12             availability and access to lateral flow tests and PCR
+13             tests for healthcare workers. These issues will be
+14             given careful consideration as the Inquiry continues its
+15             investigation into procurement, and distribution of key
+16             healthcare equipment and supplies.
+17                 The Scottish Covid Bereaved, at paragraph 6 of their
+18             submissions, suggest that issues which the Inquiry may
+19             wish to consider include the interaction between the
+20             procurement responsibilities of the Scottish Government
+21             and UK Government, and the extent of communication and
+22             cooperation between the relevant teams in the
+23             UK Government and Scottish regions.
+24                 The Inquiry team agrees, and has already started the
+25             process of seeking evidence from all four jurisdictions
+    14
+
+ 1           of the United Kingdom, and will continue to do so.
+ 2               At paragraph 6 of their submissions, the Scottish
+ 3           Health Boards seek clarification that the Inquiry plans
+ 4           to intimate a detailed list of the issues to be
+ 5           addressed at the Module 5 public hearing as soon as
+ 6           practicable once its investigation has developed. I can
+ 7           confirm that further details will be provided in
+ 8           a solicitor to the Inquiry's update notes and at further
+ 9           preliminary hearings.
+10              Moving now to evidence requests and a Rule 9 update.
+11          The Inquiry has already either issued or is about to
+12          issue formal requests for evidence pursuant to Rule 9 of
+13          the Inquiry Rules of 2006, to a number of individuals
+14          and organisations which appear to it to have played
+15          a central or significant role in matters relevant to
+16          Module 5.
+17              These include: first, UK Government departments such
+18          as the Department of Health and Social Care,
+19          His Majesty's Treasury, the Department of Business and
+20          Trade, and the Cabinet Office; second, key
+21          decision-makers in the devolved governments in Wales,
+22          Scotland and Northern Ireland, and in local government;
+23          and third, executive agencies and non-departmental
+24          public bodies, including NHS England, NHS National
+25          Services Scotland, the Scottish territorial and special
+    15
+
+ 1             services boards, NHS Wales Shared Services Partnership,
+ 2             the UK Health Security Agency and Supply Chain
+ 3             Coordination Limited (or SCCL).
+ 4                 The Inquiry is also in the process of considering
+ 5             and, in due course, drafting further Rule 9 requests in
+ 6             other key groups -- I beg your pardon -- to other key
+ 7             groups and individuals who appear relevant to the work
+ 8             of Module 5. These include, firstly, groups and
+ 9             organisations representing specific areas of interest
+10             within the scope of Module 5, including Covid bereaved
+11             groups, trade unions, and representative bodies for
+12             health and care professionals, and those representing
+13             minority or marginalised communities and individuals.
+14                 Secondly, executive agencies and non-departmental
+15             public bodies, including the Medicines and Healthcare
+16             products Regulatory Agency, and UK Health Security
+17             Agency, and criminal justice and enforcement agencies.
+18                 Third, central figures in the Ventilator Challenge,
+19             and government procurement more widely.
+20                 And fourth, relevant ministers and senior government
+21             officials involved in key decision-making regarding the
+22             procurement and distribution of key equipment and
+23             supplies during the pandemic.
+24                 As my Lady is aware, the Inquiry and Scottish
+25             Covid-19 Inquiry are keen to avoid duplication between
+    16
+
+ 1           them and so the Module 5 team is checking not only the
+ 2           requests made by other inquiry modules but also those
+ 3           made by the Scottish Inquiry. That process means,
+ 4           inevitably, that it takes a little more time to issue
+ 5           Rule 9 Requests to Scottish bodies, but it is hoped that
+ 6           in the long run this approach will assist in minimising
+ 7           unnecessary repetition.
+ 8               In that regard I should add that on 23 February 2022
+ 9           the Inquiry published a memorandum of understanding
+10          setting out how this Inquiry and the Scottish Covid-19
+11          Inquiry intend to work effectively together. I am also
+12          aware that your Ladyship has met with the chair of the
+13          Scottish Inquiry, Lord Brailsford, to discuss the
+14          constructive ways in which the two inquiries can
+15          collaborate and cooperate.
+16              Moving now to experts, Module 5 is in the process of
+17          identifying the broad areas where expert evidence is
+18          likely to be of assistance to this inquiry. An example
+19          of such expert evidence is likely to be an overview of
+20          the legal and regulatory framework governing public
+21          procurement, and how it operated during the pandemic.
+22              Other areas may be identified and explored as the
+23          Inquiry's work continues.
+24              A number of CPs in their submissions have made
+25          suggestions about areas of potential expert evidence for
+    17
+
+ 1             Module 5, and these will be given careful consideration.
+ 2             The identities of instructed experts will be contained
+ 3             in a solicitor to the Inquiry's update notes, once
+ 4             experts are instructed, these notes will also provide
+ 5             further details of the topics which the experts will
+ 6             address in their reports, thereby enabling CPs to
+ 7             comment on those matters should they wish to do so.
+ 8                 I now move on to the topic of disclosure. In common
+ 9             with the approach taken in previous modules, Module 5
+10             will adopt the following approach to disclosure. All
+11             CPs will receive all documents disclosed in Module 5,
+12             not just those documents relevant to them. Disclosure
+13             will be subject to three things: first, a relevance
+14             review so that only relevant documents are disclosed;
+15             second, a de-duplication exercise; third, redactions in
+16             accordance with the Inquiry's redactions protocol. A
+17             significant teams of solicitors, barristers, and
+18             paralegals is already in place to review for relevance
+19             the material that is received.
+20                 Disclosure is likely to be in tranches made on
+21             a rolling basis. Disclosure will be made via the
+22             electronic data management and disclosure system,
+23             Relativity. Disclosure updates will be provided by the
+24             Module 5 solicitors team informing CPs of the progress
+25             which has been made in obtaining relevant documents. We
+    18
+
+ 1           will of course also provide these at the next
+ 2           preliminary hearing.
+ 3               The Inquiry is working to begin the process of
+ 4           disclosing materials to CPs as soon as possible, which
+ 5           is a matter a number of CPs raise in their submissions:
+ 6           the issue of timely disclosure to ensure effective
+ 7           preparation.
+ 8               The process of disclosure to CPs is anticipated to
+ 9           begin in late spring of 2024, this year. Each document
+10          provider is being asked to provide, amongst other
+11          matters, details of the key individuals who were
+12          involved in issues relevant to the Module 5, provisional
+13          outline of scope, the key meetings and a summary
+14          categories of other material held and/or already
+15          provided to the Inquiry relating to the Module 5
+16          provisional outline of scope. This information will
+17          allow the Inquiry to understand the nature of relevant
+18          material held by the document provider and make targeted
+19          requests for further material if necessary.
+20              Where, as a result of the information provided, the
+21          Inquiry has any concerns about a provider's processes
+22          for providing relevant documents, it will raise and
+23          pursue them, and of course, as documents are reviewed
+24          and gaps identified, further documents may be sought.
+25              And of course, my Lady, you also have the power to
+    19
+
+ 1             compel the production of documents under section 21 of
+ 2             the Inquiries Act. And there are provisions in
+ 3             section 35 of the Inquiries Act, which make it an
+ 4             offence, during the course of an inquiry, for a person
+ 5             to do anything to alter or distort a relevant document
+ 6             or prevent any relevant document being produced to the
+ 7             Inquiry, or to intentionally destroy, suppress, or
+ 8             conceal a relevant document.
+ 9                 My Lady, I now move on to the listening exercise,
+10             Every Story Matters. Every Story Matters is the name
+11             given to the Inquiry's listening exercise. My Lady, the
+12             Inquiry's terms of reference make clear that although
+13             the Inquiry will not investigate individual cases of
+14             harm or death in detail, listening to the accounts and
+15             experiences of the bereaved families and others who
+16             suffered hardship or loss will inform the Inquiry's
+17             understanding of the impact of the pandemic and the
+18             response and of the lessons to be learned.
+19                 Every Story Matters is, therefore, the process by
+20             which the public can contribute to the Inquiry so that
+21             it will be able not just to hear the voices of the
+22             people of the UK and to reflect upon their experiences,
+23             but also to incorporate the emerging themes into its
+24             work.
+25                 Everyone's contribution through Every Story Matters
+    20
+
+ 1           will be analysed and turned into themed reports which
+ 2           will be submitted into each relevant investigation.
+ 3           These reports will be anonymised, disclosed to the
+ 4           Inquiry's CPs and used in evidence. The reports will
+ 5           identify trends and themes and include illustrative case
+ 6           studies which may demonstrate systemic failures.
+ 7               Every Story Matters aims to obtain insights and
+ 8           information from anyone who wishes to contribute, that
+ 9           is from anyone who was impacted by the pandemic and
+10          wishes to share their experience. It has been designed
+11          so that anyone and everyone in the UK who is aged 18 or
+12          older can contribute if they wish to do so.
+13              There are different ways for people to share their
+14          experience of the pandemic with the Inquiry. This can
+15          be done via our web form, a variety of alternative
+16          formats including Easy Read and paper forms or through
+17          community listening events around the country.
+18              These experiences will be analysed and reviewed by
+19          the Inquiry's research specialists based on the key
+20          lines of inquiry, or KLOEs for Every Story Matters,
+21          produced by the Inquiry team.
+22              The KLOEs are an important tool for setting out the
+23          way in which the Inquiry will gather and analyse
+24          experiences shared with Every Story Matters, in
+25          particular through the targeted research.
+    21
+
+ 1                 The Inquiry's research specialists are exploring the
+ 2             opportunity to conduct targeted, qualitative research in
+ 3             relation to particular topics and particular groups of
+ 4             people based on the KLOEs. An example of Module 5
+ 5             targeted research is listening to people with experience
+ 6             of being involved in procurement on the ground, in order
+ 7             to gain an insight into their perspective on the
+ 8             efficacy and suitability of procurement and distribution
+ 9             processes.
+10                 The experiences shared with Every Story Matters will
+11             be analysed and turned into themed reports. The
+12             resulting reports will synthesise and amalgamate
+13             individual accounts which will be aligned with and fed
+14             into Module 5 and the Inquiry's later modules. They
+15             will be disclosed to CPs. The reports will be formally
+16             adduced in evidence so that they can form part of the
+17             Inquiry's written record.
+18                 In the coming weeks, the Inquiry team will work with
+19             its research specialists to identify potential research
+20             questions and priority audience in relation to the
+21             following proposed KLOEs:
+22                 - The challenges and impacts on staff and the
+23             settings functions (for example a hospital running its
+24             services) of obtaining sufficient lateral flow tests and
+25             PPE in: private healthcare settings, community care
+    22
+
+ 1           settings and local authorities.
+ 2               - The impact of procurement decisions on
+ 3           His Majesty's Government, healthcare settings, community
+ 4           care settings and local authorities on frontline staff.
+ 5           This will include the availability and adequacy of PPE
+ 6           made available, and the impact of changes to technical
+ 7           standards and the availability of lateral flow tests.
+ 8               - The impact of government procurement decisions on
+ 9           hospitals regarding access to ventilators, oxygen and
+10          other related medical equipment.
+11              - The challenges facing business and suppliers of
+12          PPE. This will include their experiences of supplying
+13          PPE, the procurement processes set up by His Majesty's
+14          Government, and any views on how this process was
+15          managed from their perspective as well as the impact
+16          that this had on them.
+17              Potential audience groups proposed for sampling in
+18          qualitative interviews include: first, procurement
+19          officers within healthcare and community care settings,
+20          local authorities, and healthcare businesses working
+21          adjacent to the NHS such as private ambulance services;
+22          second, frontline staff working within healthcare and
+23          community care settings, local authorities, and
+24          healthcare businesses working adjacent to the NHS; and
+25          third, businesses who either offered to supply PPE or
+    23
+
+ 1             who were awarded contracts for the supply of PPE.
+ 2                 It is unlikely that the targeted research will be
+ 3             able to cover all of the areas I have listed, and CPs
+ 4             were invited to file written submissions making
+ 5             suggestions in relation to the KLOEs for targeted,
+ 6             qualitative research, in particular, on:
+ 7                 Whether there were any specific areas which I have
+ 8             listed that CPs consider to be of particular importance
+ 9             for targeted research.
+10                 Whether there were any further topics that CPs
+11             consider important for targeted research, and why,
+12             including whether or not this evidence could otherwise
+13             be obtained through the Rule 9 process or by another
+14             method.
+15                 And third, any views on the proposed target
+16             populations for the targeted research, either in
+17             relation to the above three topics or further proposed
+18             topics.
+19                 The Inquiry is grateful for the submissions it has
+20             received from CPs in relation to these matters. They
+21             will be reviewed in detail by the Inquiry team, and will
+22             help inform the work on the KLOEs. It's right to note
+23             that the ESM listening exercise, including its targeted
+24             research which focuses on specific groups, is but one
+25             part of the Inquiry's broader consideration of the
+    24
+
+ 1           experiences of groups and individuals impacted by the
+ 2           matters falling within the scope of the provisional
+ 3           outlines of Module 5.
+ 4               The experiences of many more groups and individuals
+ 5           from a larger range of different communities and
+ 6           backgrounds will be collected by means of the accounts
+ 7           offered to the Inquiry through its Rule 9 investigatory
+ 8           powers. We will provide more information about the
+ 9           process of gathering and analysing information obtained
+10          through Every Story Matters shortly.
+11              My Lady, on commemoration.
+12              My Lady, you have made clear your wish to recognise
+13          the very real and human suffering arising from the
+14          pandemic by ensuring that it is properly taken into
+15          account and reflected in the Inquiry's work. As you
+16          know, the Inquiry is producing a series of impact films,
+17          the first of which was screened at the first Module 1
+18          public hearing in June, and has used images and artwork
+19          to try to represent elements of the loss and suffering
+20          caused by the pandemic to the people of the UK.
+21              Such was the scale of the tragedy, the grief and
+22          loss suffered by the bereaved, and the lasting effect of
+23          the pandemic on the lives of so many millions of people,
+24          that no amount of commemorative activity could
+25          adequately represent the depth of suffering experienced
+    25
+
+ 1             by so many. However, the Inquiry remains committed to
+ 2             the voices of those most impacted by the pandemic and to
+ 3             continuing to deliver commemorative activity that
+ 4             recognises the scale of this tragedy, and the effect it
+ 5             had, and continues to have, on people's lives.
+ 6                  There will be a new impact film played at the start
+ 7             of Module 5. These films are a powerful means of
+ 8             reminding ourselves of the impact of a pandemic, and
+ 9             although they do not strictly constitute evidence, they
+10             help to ground proceedings in the lived experience of
+11             those who have suffered hardship and loss.
+12                  My Lady, directions and other matters next. I turn
+13             to address you on some specific points raised in the
+14             written submissions provided by CPs. In their joint
+15             submissions, Covid-19 Bereaved Families for Justice UK
+16             and Northern Ireland Covid-19 Bereaved Families for
+17             Justice express a desire to be included in the process
+18             of selection of witnesses and experts. They revisit the
+19             issue of Rule 9 requests first made in submissions in
+20             module one and repeated submissions in Module 2, namely
+21             by asking that the requests themselves be shared with
+22             core participants.
+23                  My Lady, you have already decided this matter in
+24             previous modules and no reason has been advanced as to
+25             why a different approach should be taken in respect of
+    26
+
+ 1           this one.
+ 2               They also ask you to require state and
+ 3           organisational CPs and material providers to serve
+ 4           position statements.
+ 5               In light of the pressure on both the resources and
+ 6           time of CPs, and material providers involved in
+ 7           consecutive live modules of this Inquiry, your Ladyship
+ 8           may consider that the previous rationale for not
+ 9           requiring such position statements, namely that such CPs
+10          are already being asked to provide corporate statements,
+11          which serve a sufficiently similar purpose, still holds
+12          good.
+13              They further raise the possibility of matters which
+14          are currently the subject of criminal investigations
+15          being included in the Inquiry's work on Module 5. They
+16          ask for details as to how the Inquiry intends to
+17          approach such material and its disclosure, and express
+18          the desire for ongoing liaison in relation to such
+19          material.
+20              The module's work is at an early stage in this
+21          regard but the Inquiry will engage with the appropriate
+22          authorities in order to understand what investigations
+23          or prosecutions are under way or have been completed in
+24          relation to contracts awarded for items covered by the
+25          provisional outline of scope for Module 5. Updates will
+    27
+
+ 1             be provided to CPs in due course.
+ 2                  Furthermore, they raise the prospect of potential
+ 3             undertakings from the Attorney General in respect of
+ 4             potential witnesses or CPs. They make clear that should
+ 5             such an undertaking be sought, the CBFFJ UK and Northern
+ 6             Ireland CBFFJ would oppose this. The Inquiry takes note
+ 7             of this.
+ 8                  My Lady, I know that once you have had an
+ 9             opportunity to consider the written submissions and
+10             those that are being made orally today, you will publish
+11             any appropriate directions in due course.
+12                  Moving penultimately now to next dates for Module 5.
+13             We will notify core participants when the next
+14             preliminary hearing is due to take place, and it will be
+15             published on the Inquiry's website. As you know,
+16             my Lady, the current plans are that Module 5 is expected
+17             to take place in 2025. Further timetabling details will
+18             be provided by way of an update to corporates in due
+19             course. These will also be announced on the Inquiry's
+20             website, the hearing will be held at Dorland House in
+21             Paddington.
+22                  And now finally, my Lady, submissions from core
+23             participants. That concludes all of the matters on
+24             which I wish to address you on behalf of the Inquiry. A
+25             number of core participants wish to address you in the
+    28
+
+ 1               course of this hearing, and so can I now invite you,
+ 2               my Lady, to hear first from Jesse Nicholls, counsel for
+ 3               Covid-19 Bereaved Families for Justice.
+ 4           LADY HALLETT: Thank you very much indeed, Mr Wald.
+ 5                    Just before I call on Mr Nicholls -- I'm sorry
+ 6               I should have spotted it earlier -- I think there are
+ 7               number of references in your opening
+ 8               comments/observations, Mr Wald about Her Majesty's
+ 9               Government decision processes, to make it clear, when
+10              you said Her Majesty's Government, you do intend to
+11              include, and we should have made it more precise --
+12              I take the blame -- we include the governments of the
+13              devolved nations, because they also took decisions and
+14              had processes.
+15          MR WALD: That's quite correct.
+16          LADY HALLETT: It's a point made by Bereaved Cymru, so
+17              I think it's important we make that clear now.
+18          MR WALD: Thank you very much indeed.
+19          LADY HALLETT: Thank you very much.
+20                   Mr Nicholls.
+21            Submissions on behalf of Covid-19 Bereaved Families for
+22                                  Justice by MR NICHOLLS
+23          MR NICHOLLS: My Lady, good morning, I represent the
+24              Covid-19 Bereaved Families for Justice group. Can
+25              I first thank you for allowing us to develop our
+    29
+
+ 1             submissions orally this morning. We've set out our
+ 2             submissions in writing, as I hope you've seen, and of
+ 3             course I won't go through them line by line.
+ 4                 Those submissions are intended in the same
+ 5             constructive spirit that we have sought to adopt
+ 6             throughout the Inquiry. They also seek to ensure, as
+ 7             far as possible, the effective involvement of the
+ 8             bereaved clients that we represent in Module 5.
+ 9                 My Lady, I am conscious that my time is tight and
+10             I have a 15-minute guillotine and I know how stringent
+11             guillotines can be. Can I therefore indicate briefly
+12             how I intend to use the remaining minutes that I have.
+13                 First, some very brief introductory comments on
+14             Module 5 from the perspective of our client.
+15                 And second, I'll move on to address orally but
+16             briefly a small number of the points we've addressed in
+17             writing, and of course taking into account the helpful
+18             update that Mr Wald has just given.
+19                 First, then, Module 5. As you have heard
+20             Mr Weatherby and others say on previous occasions,
+21             my Lady, the broad aim of our clients is to establish
+22             what happened to their loved amongst, to participate
+23             effectively in that pursuit of the truth, to ensure
+24             accountability and to prevent future deaths so that
+25             others do not have to go through the same tragedy.
+    30
+
+ 1               Those aims, as I say, are acute in Module 5. As you and
+ 2               your team, my Lady, will know, there has been extensive
+ 3               reporting concerning procurement failures and a lack of
+ 4               preparedness. There have been suggestions of conflicts
+ 5               of interest, and allegations going as far as fraud and
+ 6               corruption.
+ 7                    The clients that I represent, my Lady, look to the
+ 8               Inquiry to expose such failings, if they occurred, to
+ 9               ensure accountability, and, crucially, to identify
+10              learning or future prevention.
+11                   Having made those brief comments on Module 5, can
+12              I then turn to some of the specific points foreshadowed
+13              in our written submissions, and, as previously, where
+14              I don't address something that is included in the
+15              written document, of course we rely on what is set out
+16              in writing.
+17                   First, scope, at paragraphs 2 to 6 of our written
+18              submissions -- I can take this very briefly -- we
+19              welcome the broad provisional scope outlined by the
+20              Inquiry, including the list of questions helpfully set
+21              out at paragraph 16 of CTI's note.
+22                   We also note the helpful update from Mr Wald this
+23              morning in response to paragraph 5 of our written
+24              submissions in particular, in which he confirmed that
+25              the issues we have identified there will form part of
+    31
+
+ 1             the Inquiry's examination.
+ 2                 Second topic, disclosure from the Inquiry. We
+ 3             address this at paragraph 9-11 of our written
+ 4             submissions, my Lady, and of course I note the update
+ 5             this morning from Mr Wald that the disclosure from the
+ 6             Inquiry is now anticipated to begin in late spring of
+ 7             2024. The CTI note previously indicated that it was due
+ 8             to commence in autumn 2024. And of course, earlier
+ 9             disclosure from the Inquiry to our clients is something
+10             that we wholeheartedly welcome.
+11                 Nonetheless, can I make some brief points about
+12             a request for earlier disclosure from the Inquiry than
+13             has taken place before in previous modules, and can
+14             I start those submissions by making two things clear:
+15             first, we fully appreciate that the Inquiry is dealing
+16             with many demands and moving at a fast pace. Second, we
+17             also consider from our prior experience in other modules
+18             that the disclosure being made appears to be that which
+19             should be made. We are not suggesting that things are
+20             not being disclosed.
+21                 However, for our clients, the timing of disclosure
+22             in prior modules has been an issue of real concern, and
+23             the crux of that concern, my Lady, is this: that we say
+24             we need disclosure from the Inquiry earlier than has
+25             been happening to date to enable effective participation
+    32
+
+ 1           in the proceedings. The point I'm sure will be a very
+ 2           familiar one to you, my Lady, I wouldn't labour it: if
+ 3           disclosure is received only very shortly before relevant
+ 4           evidence hearings and relevant witnesses, that hinders
+ 5           the ability of our clients to understand the
+ 6           proceedings, to propose lines of questioning, and to
+ 7           assist the Inquiry.
+ 8               Now, of course, we do not say that all disclosure
+ 9           has come at too late a stage, but having gone through,
+10          in a painstaking and extremely boring exercise that
+11          Ms Brook, who sits to my right, has done with her team,
+12          we've identified that there has been an issue of
+13          bottlenecking where large amounts of material is
+14          disclosed, sometimes as much as 40-50% of the entire
+15          disclosure in a module, in the last month and during the
+16          hearing itself of a module. And what we are seeking is
+17          for that being repeated in Module 5.
+18              Of course, if disclosure in fact is going to start
+19          in early spring 2024, that is welcome, and should help,
+20          but we hope that by raising these matters now, early in
+21          Module 5, the issues that have arisen previously can be
+22          remedied. And as we have said before, my Lady, we would
+23          of course be very open to dialogue with your team in
+24          seeking to achieve that, and we have sought, at
+25          paragraph 11 of the written submissions, to identify
+    33
+
+ 1             some possible steps for your consideration, my Lady.
+ 2                  I won't repeat them, they're in the written
+ 3             submissions. They are matters for your consideration
+ 4             and that of your team, because, of course, you are the
+ 5             ones best placed to know if those go to the issues that
+ 6             have caused some of what I have described as the
+ 7             bottlenecking problem in previous modules.
+ 8                  Third topic, my Lady, position statements. You have
+ 9             heard from Mr Wald and will have seen from our
+10             submissions at paragraph 12 that we invite you to direct
+11             position statements in Module 5. You will also recall,
+12             my Lady, that we have made those submissions before and
+13             they have not been accepted.
+14                  If I may channel the spirit of Mr Weatherby for
+15             a moment, my Lady, we say that the position in Module 5
+16             is now different, that Module 5 is particularly well
+17             suited for position statements for the reasons we've
+18             summarised in the written submissions but which I can
+19             distill to three principal points: first, the general
+20             merits of position statements apply to Module 5 as they
+21             did previously. Of course that point only goes so far,
+22             it's been rejected before.
+23                  But, to the extent that Mr Wald says you may
+24             consider that they will have a negative impact on
+25             Inquiry resources and time, as we have said before, we
+    34
+
+ 1           consider that done properly, and in a focused manner,
+ 2           they will save both resources and time. You have the
+ 3           point.
+ 4               Second, we say the subject matter of Module 5,
+ 5           including allegations of improper conduct and corporate
+ 6           bodies putting profit before public safety, is
+ 7           particularly well suited to position statements. Can
+ 8           I refer briefly, by reference to another Inquiry, to the
+ 9           submissions that were made by lead CTI at the end of the
+10          Grenfell Tower Inquiry in November 2022, when he
+11          described "a merry-go-round of buck-passing" from
+12          corporate and state core participants seeking to protect
+13          their own interests, that had created "a spider's web of
+14          blame".
+15              That, of course, was a different case. But,
+16          my Lady, we say that position statements in Module 5
+17          would assist this Inquiry to avoid the risk of the same
+18          form of merry-go-round and evasion which we have no
+19          doubt your Inquiry seeks to avoid, and which our clients
+20          seek to avoid as well.
+21              Third, and finally on this point, my Lady, since
+22          your Module 5 ruling, which CTI have noted in their
+23          written note, there have been a number of meaningful and
+24          material instances of non-compliance with the Inquiry's
+25          Rule 9 requests.
+    35
+
+ 1                  Position statements can help to avoid such issues
+ 2             and that is particularly relevant because Mr Wald
+ 3             suggested that one reason you may think position
+ 4             statements remain inappropriate is because of the Rule 9
+ 5             process. But of course, if the Rule 9 process is not
+ 6             complied with, we say that supports, now, the use of
+ 7             position statements.
+ 8                  That's all I say on that, having managed to get
+ 9             through that submission without interruption., my Lady.
+10                  Fourth point, experts. Submissions are at 13 to 14
+11             of the written submissions. The core point is this,
+12             my Lady: our clients wish to be involved in the
+13             Inquiry's instruction of experts. The Inquiry allowed
+14             that approach in selecting the structural racism
+15             experts. Of course, the choice of who to instruct and
+16             what to ask is ultimately a matter for the Inquiry. But
+17             our clients seek collaboration on that issue for their
+18             own benefit and to assist the Inquiry.
+19                  The note from CTI, not altered in the oral update --
+20             for your note, my Lady, it's paragraph 34 -- indicates
+21             that in Module 5 the Inquiry will withhold from core
+22             participants the identities of the experts and the
+23             questions they will be asked until they have completed
+24             their draft reports. We do not see that that is
+25             a necessary or sensible approach, and we invite
+    36
+
+ 1           a reconsideration of it.
+ 2               Fifth topic, the Inquiry's liaison with relevant
+ 3           criminal investigations. We note the update from
+ 4           Mr Wald. There is little we can say other than this:
+ 5           our clients' position is that the Inquiry should be
+ 6           speaking with criminal investigators to assist the
+ 7           Inquiry's work, for example, in identifying relevant
+ 8           themes, topics, materials and witnesses. And the update
+ 9           we seek, as summarised at 15-18 of our written
+10          submission, is, so far as possible without risking
+11          prejudice to such investigations, an update on what
+12          liaison has taken place, including with whom, the terms
+13          of such contact, and how the Inquiry in practical terms
+14          proposes to manage and benefit from the overlap between
+15          its own scope and the work of such investigations.
+16              Sixth topic, undertakings. And here I'm of course
+17          referring to the possibility of seeking undertakings
+18          from the Attorney General. And, my Lady, you're nodding
+19          your head, you know this issue very well, you've seen
+20          that we've sought, I hope relatively neutrally, to set
+21          out the context at 19-23 of our written submissions.
+22          You will understand the issue well, my Lady.
+23              For those listening and with perhaps less experience
+24          of what is a rather technical legal issue, can I seek to
+25          summarise the issue in this way for those who are
+    37
+
+ 1             listening. The issue is whether you, my Lady, consider
+ 2             now or at some later stage that an undertaking should be
+ 3             sought from the Attorney General so that witnesses
+ 4             and/or organisations, that is to say legal persons who
+ 5             would otherwise or may otherwise seek to assert the
+ 6             privilege against self-incrimination and thus not give
+ 7             relevant evidence, can instead give such evidence.
+ 8                 Set against that rationale for seeking such an
+ 9             undertaking are a range of factors that may weigh
+10             against such an undertaking. And I should say we have
+11             taken these from, among other sources, the rulings of
+12             prior inquiries that have dealt with the issue, as well
+13             as from a pro forma template indicating the very factors
+14             that the Attorney General him or herself considers when
+15             such requests have previously been made. They include,
+16             first, that a witness may not assert the privilege at
+17             all, or may only do so in response to specific issues,
+18             rendering an undertaking unnecessary.
+19                 Second, it may be considered that the Inquiry can
+20             reach conclusions and discharge its terms of reference
+21             even if the privilege is asserted by one or more
+22             witnesses or organisations. For example, by reliance on
+23             the totality of the evidence that others have given and
+24             that's been obtained.
+25                 And third, and perhaps most importantly, it may be
+    38
+
+ 1           considered that seeking an undertaking or undertakings
+ 2           may seriously undermine victim and public confidence in
+ 3           the Inquiry itself by seeking an undertaking that would
+ 4           be granted to those responsible for serious failings,
+ 5           including where such failings have or may have
+ 6           contributed to thousands of deaths.
+ 7               We say, my Lady, that this is an important issue.
+ 8           It can impact confidence in the Inquiry and, if not
+ 9           grappled with at an early stage, it can inadvertently
+10          frustrate and delay the Inquiry's work, which no one
+11          wants.
+12              We understand from constructive discussions with
+13          your team, my Lady, that this is an issue under active
+14          consideration and our submission at this stage is
+15          a simple one: we invite an update as soon as possible on
+16          the Inquiry's position so it can be aired and resolved.
+17          But in the hope it assists the Inquiry's thinking,
+18          my Lady, and yours, can I make three short points as to
+19          our likely position? And I just want to clarify one
+20          matter that Mr Wald made in his update. He said that we
+21          would oppose. What we in fact say is we are likely to
+22          oppose, because of course this is being addressed at
+23          a relative degree of abstraction at this stage. But the
+24          three points are this: first, we're likely to argue
+25          against an undertaking, essentially for the reasons set
+    39
+
+ 1             out in the written submissions. First, we consider that
+ 2             doing so at this stage would be premature. The proper
+ 3             course is witnesses and organisations should first be
+ 4             asked the relevant questions through the Rule 9 process
+ 5             and their responses assessed before any consideration is
+ 6             given to the issue.
+ 7                 Second, in exercising your important judicial
+ 8             function in this Inquiry, my Lady, we say that you
+ 9             should be slow, indeed very slow, to seek an undertaking
+10             that affords protection to those responsible for the
+11             kinds of failures that I've identified.
+12                 Third, the confidence point. You have the point,
+13             I say no more.
+14                 Fourth, an undertaking may well be unnecessary.
+15             There is an experience from some inquiries indicating
+16             that the undertaking issue, if grappled with too early,
+17             can lead to an overstating of the impact of the
+18             privilege. There can be a benefit to playing out the
+19             process so that you, my Lady, can assess what people say
+20             and on what basis, and assess the privilege stage by
+21             stage as the law requires rather than jumping straight
+22             to the issue.
+23                 Penultimate headline point from us, we say that the
+24             possibility that the privilege will be asserted should
+25             not inform decisions on who are relevant witnesses to
+    40
+
+ 1               seek information and disclosure from. The issues are
+ 2               distinct and should be kept separate. Witnesses and
+ 3               organisations should be selected on relevance, based on
+ 4               proper questions the Inquiry wishes to ask. What
+ 5               witnesses say in response comes later.
+ 6                   Finally, my Lady, and this is my final point and
+ 7               I'll sit down, having exhausted a little more, I think,
+ 8               than my 15 minutes, my Lady, you may consider it
+ 9               appropriate to direct that any applications asking you
+10              to approach the Attorney General should be made promptly
+11              with a fixed cut-off time set, to avoid the issues
+12              I alerted to earlier: that is that the issue is raised
+13              too late, and can cause delay and compromise the
+14              viability of the Inquiry's evidence hearings.
+15                  On the listening exercise and commemoration you have
+16              our written submissions. My Lady, in light of the time,
+17              I won't say any more on those. Thank you for the time
+18              and, unless I can assist you further, those are our
+19              submissions.
+20          LADY HALLETT: You have been very helpful, Mr Nicholls,
+21              thank you. And there is no need to channel your inner
+22              Mr Weatherby, the inner Mr Nicholls does a very good
+23              job. Thank you very much.
+24          MR NICHOLLS: I'm very grateful.
+25          LADY HALLETT: Mr Wilcock?
+    41
+
+ 1             Submissions on behalf of Northern Ireland Covid-19 Bereaved
+ 2                            Families for Justice by MR WILCOCK KC
+ 3             MR WILCOCK: I'm not entirely sure the length of my
+ 4                 submissions justifies me having a lectern but I will
+ 5                 take it since I was offered it anyway.
+ 6                     My Lady, I appear in this module on behalf of the
+ 7                 Northern Ireland Covid-19 Bereaved Families for Justice
+ 8                 campaign, instructed by PA Duffy & Co, and I make these
+ 9                 short oral submissions in the knowledge that our written
+10                 submissions, dated 29th January, are publicly available,
+11                 that your Ladyship will be aware that, unless we say
+12                 otherwise, we adopt and support those submissions and
+13                 those made today orally by Mr Nicholls on behalf of the
+14                 UK Covid Bereaved Families for Justice. And that
+15                 particularly applies to submissions you've just heard in
+16                 relation to the role of the people -- the group
+17                 I represent within the Inquiry, the timing of
+18                 disclosure, the use of position statements, and the
+19                 process for the instruction of expert witnesses.
+20                     Your Ladyship, Mr Nicholls understandably didn't go
+21                 into detail on the issues of commemoration of individual
+22                 deaths and pen portrait. I am not going to use up all
+23                 my time so I can say that we would ask you to look in
+24                 detail at the submissions we make in relation to that,
+25                 at paragraphs 26 of -- 25 and 26 of our written note.
+    42
+
+ 1                   On 11 December 2023 you informed P Duffy & Co that
+ 2               you considered the Northern Ireland Covid Bereaved
+ 3               Families for Justice campaign is well placed to assist
+ 4               this Inquiry to achieve its aims in Module 5, by
+ 5               representing the collective interest of a broad spectrum
+ 6               of those bereaved in Northern Ireland as a result of the
+ 7               Covid-19 pandemic in relation to matters relevant to
+ 8               Module 5, as set out today by Mr Wald, King's Counsel,
+ 9               and including: the procurement and distribution of key
+10              healthcare-related equipment and supplies, including
+11              PPE, ventilators and oxygen to end users across Northern
+12              Ireland; consideration of the robustness and
+13              effectiveness of the procurement processes; the adequacy
+14              of the items obtained and the effectiveness of their
+15              distribution to the end user; and the UK and Northern
+16              Ireland-wide procurement of lateral flow tests and PCR
+17              tests.
+18                  As you have acknowledged, my Lady, many of the group
+19              I represent have experienced firsthand many of the
+20              issues which the Inquiry will investigate in Module 5,
+21              including not only the distribution of such key
+22              healthcare-related equipment and supplies, but also the
+23              adequacy of the items obtained, the effectiveness of
+24              their distribution within Northern Ireland, and the
+25              challenges experienced, especially in relation to
+    43
+
+ 1                 procurement of lateral flow tests and PCR tests in
+ 2                 particular, you won't be surprised to hear, in relation
+ 3                 to the facilities in which their loved ones were being
+ 4                 treated.
+ 5                     My Lady, I'm grateful for your counsel's indication
+ 6                 as to the scope of the Inquiry, and the indication that
+ 7                 that means there will be an examination of the approach
+ 8                 to procurement across all the devolved nations
+ 9                 separately. And equally grateful for your clarification
+10                 that, in terms of the way questions are phrased, one
+11                 must be careful, and I adopt the submissions you've
+12                 heard on behalf of the Cymru team in relation to that
+13                 and thank you for that clarification.
+14                     But my Lady, an illustration of why it may be
+15                 important from the Northern Ireland perspective to look
+16                 at procurement through the Northern Irish lens may be
+17                 evident in the fact that in April 2023 the Northern
+18                 Ireland Audit Office published a document entitled
+19                 "Public Procurement in Northern Ireland", which observed
+20                 (i) that according to Department of Finance estimates,
+21                 around 25% of the total resources available to the
+22                 Northern Ireland Executive are used for procurement.
+23                 Now, plainly I'm talking in general sense rather than in
+24                 Covid sense, but it gives an indication of the
+25                 importance of the general issue of procurement to the
+    44
+
+ 1              Northern Ireland political process, and, coincidentally,
+ 2              to the Covid pandemic.
+ 3                  In 2020 the New Decade, New Approach, which you will
+ 4              hear much more about when you come to Belfast, made
+ 5              transforming how public procurement operates a key
+ 6              priority of the Executive, and was followed by number of
+ 7              different initiatives intended to modernise how
+ 8              procurement functions in the north of Ireland.
+ 9                  In that context, your Ladyship is already well aware
+10             of the parlous state of the health system in Northern
+11             Ireland, and it is with some relief that, for the first
+12             time since this Inquiry began, we do not have to tell
+13             you that we do not have a functioning Executive, and we
+14             all hope that recent events will mark the time when
+15             steps can be taken to rectify the crisis within the
+16             Northern Ireland health and social care system.
+17                 As far as this module is concerned, and in the light
+18             of the resumption of power sharing in Belfast, we note
+19             that, although a number of individual members of the
+20             Executive between 2020 and 2022 -- and Mr Wald did his
+21             best to pronounce their names correctly when he read
+22             them out -- have been granted CP status. To our
+23             knowledge, no such application has been made, or
+24             certainly granted, in relation to the Northern Ireland
+25             Executive Office, which is different to the approach
+    45
+
+ 1                 taken by that office in relation to other modules.
+ 2                     My Lady, it's a matter for not us who applies and
+ 3                 who is granted, but we make that passing observation.
+ 4                     In any event, we look forward to working with your
+ 5                 Ladyship, your legal team, and all other core
+ 6                 participants in your investigations in this module in
+ 7                 order, as we put it in our written submissions, to make
+ 8                 this Inquiry work.
+ 9                     My Lady, I don't think there's anything more that
+10                 I can say unless there's anything in particular you
+11                 would wish me to deal with?
+12             LADY HALLETT: No, I'm very grateful, Mr Wilcock, and, as
+13                 I know I speak for everyone here, we share your hopes
+14                 that the Executive can at last get back to making sure
+15                 Northern Ireland is governed.
+16             MR WILCOCK: Thank you very much.
+17             LADY HALLETT: Thank you very much.
+18                     It's a break now, I think, and I shall return at
+19                 11.55.
+20             (11.38 am)
+21                                       (A short break)
+22             (11.56 am)
+23             LADY HALLETT: Right.
+24                     Ms Weereratne KC, I'm so sorry, have -- can you
+25                 pronounce your name for me just so I can get it right in
+    46
+
+ 1              the future, I'm really sorry.
+ 2           MS WEERERATNE: Good morning, that was precisely my first
+ 3              intention, was to say my name, and not as a matter of
+ 4              ego but just to say it's Aswini Weereratne. Every
+ 5              syllable to be pronounced.
+ 6           LADY HALLETT: Thank you.
+ 7            Submissions on behalf of Covid-19 Bereaved Families for
+ 8                         Justice Cymru by MS WEERERATNE KC
+ 9           MS WEERERATNE: My Lady, good morning.
+10                 My Lady will be familiar with the group I represent
+11             and I'm privileged to represent this morning, the Covid
+12             Bereaved Families for Justice For Cymru has been granted
+13             Core Participant status in number of other modules,
+14             including 1 and 2, and of course 2B, which is dedicated
+15             to scrutinising the decision-making of the Welsh
+16             Government. This is, however, as you've noted, my first
+17             appearance at this Inquiry in its behalf and I'm
+18             honoured to be here.
+19                 My aim is to be brief in making these submissions.
+20             But for the purposes of this different module and for
+21             the benefit of those who have not been able to follow
+22             earlier hearings, I hope it's permissible to repeat one
+23             or two matters that have already been stated in other
+24             modules and in our written submissions. My submissions
+25             today will address three broad areas: firstly, a few
+    47
+
+ 1                 introductory words about the group, some questions on
+ 2                 scope and in areas for -- key areas for substantive
+ 3                 investigation that are currently of concern for this
+ 4                 group, in itemised and in summary form; and finally, to
+ 5                 highlight some points on preparatory steps.
+ 6                     Firstly, then, the Cymru group extends its thanks to
+ 7                 the Chair for granting it CP status in this module, from
+ 8                 which important lessons for the future can be learned.
+ 9                 The group was established to ensure proper scrutiny of
+10                 government decision-making relevant to Wales, this
+11                 includes in Westminster, the devolved administration in
+12                 Wales, and local and regional government bodies in
+13                 Wales.
+14                     In granting the group CP status, the Inquiry has
+15                 recognised its central role in engagement with the Welsh
+16                 Government, and the strong links it has forged with
+17                 other interested groups based in Wales who are not
+18                 themselves CPs, but giving them a voice in this Inquiry.
+19                     It's also acknowledged -- it also acknowledges the
+20                 severity of the impact of the pandemic on the people
+21                 throughout Wales and the numbers of lives lost. It
+22                 bears restating that it is crucial that the people of
+23                 Wales can have full confidence that this public inquiry
+24                 will fully scrutinise decision making in Wales in
+25                 relation to the pandemic, and that the experiences and
+    48
+
+ 1              voices of the Welsh people will be properly heard and
+ 2              represented before it. Of course there is currently no
+ 3              separate inquiry in Wales, which adds to the importance
+ 4              of this Inquiry to the Welsh people.
+ 5                   The main decisions made in Wales concerning the
+ 6              pandemic were largely separate to, and also different
+ 7              from, those taken by the UK Government. The devolved
+ 8              nations had their own processes and responsibilities in
+ 9              relation to procurement of PPE, RPE, healthcare
+10             equipment and other medical supplies. This highlights
+11             why it is so important that the Inquiry examines the
+12             decision-making in response to the pandemic of the Welsh
+13             Government and its government bodies in addition to the
+14             decisions in Westminster and by other devolved nations
+15             that might also have had an impact in Wales.
+16                  To date the approach taken by this Inquiry and other
+17             modules has provided a measure of reassurance that it
+18             intends to take Welsh interests seriously. Members of
+19             this group have wide-ranging experience of the impact of
+20             government decisions on procurement throughout Wales,
+21             and stand ready to assist this Inquiry and share its
+22             experiences with the public.
+23                  Turning then to Module 5 matters more specifically.
+24             Of course, this module is just getting under way and,
+25             prior to the disclosure and Rule 9 exercises, its shape
+    49
+
+ 1             and scope remains rightly provisional. We do not
+ 2             therefore address scope today in any detail.
+ 3                 We note the overarching framework for this
+ 4             investigation set out by CTI in paragraph 16 of his
+ 5             note. Clearly, questions around the lack of basic
+ 6             resources, such as PPE for health and social care staff,
+ 7             and the lack of due process, and potentially of fraud
+ 8             are likely to feature prominently in this module. And,
+ 9             aligned with our submission highlighting the importance
+10             of understanding and investigating the role of each of
+11             the four nations, I'm going to say out of an abundance
+12             of caution, we ask the Inquiry team for explicit
+13             reassurance that all of the questions identified at (a)
+14             to (t) of paragraph 16 of the note will be addressed to
+15             each of the four nations, and this will include, for
+16             example, oversight mechanisms, that's 16(h), and issues
+17             of fraud and conflicts of interest, that's 16(i).
+18                 And I note in saying that the intervention made
+19             a few moments ago by my Lady on the issue of the use of
+20             the acronym HMG and the intention that it should include
+21             all devolved nations, obviously grateful to hear that,
+22             and will assume, hopefully correctly, that this applies
+23             to all other -- what I'm going to call are omissions,
+24             from my clients' points of view, in that note. And if
+25             I might add this for good measure: if -- we would
+    50
+
+ 1              welcome very much if this could be borne in mind for
+ 2              future submissions and notes, simply because it always
+ 3              causes a sharp intake of breath by my clients, and is
+ 4              a small anxiety that could easily be avoided.
+ 5                   I'm grateful.
+ 6           LADY HALLETT: Completely understand.
+ 7           MS WEERERATNE: Thank you.
+ 8                   So we do acknowledge that the Inquiry's provisional
+ 9              scope outlines explicitly reference to the governments
+10             of the UK and devolved nations and we are grateful that
+11             the Inquiry continues to respect the need to examine key
+12             questions within each of the four nations.
+13                  So, from that, I would like to add to our written
+14             submission in this way: we say that it's necessary to
+15             acknowledge that beyond end users of protective
+16             equipment lay patients and care home residents, so that
+17             the Inquiry, we say, must not overlook the likely impact
+18             on numbers of deaths from mismanagement of procurement
+19             and distribution. The question we say that arises or
+20             that we'd like to flag at this point, at this early
+21             stage, is: does the Inquiry propose to establish or
+22             consider how procurement and availability of protective
+23             equipment impacted on the numbers of deaths and the
+24             avoidability of deaths in this module?
+25                  In making that submission, we also note that
+    51
+
+ 1             proposed research work, or KLOEs, which have already
+ 2             been referred to by CTI, and are referred to in the note
+ 3             at paragraph 38, to which I will briefly return shortly,
+ 4             but that -- so far, that does not identify the impact on
+ 5             numbers or deaths as an area for research.
+ 6                 Turning then to points that the Cymru group would
+ 7             like to raise as preliminary issues of scope. And from
+ 8             information currently available to it, we have
+ 9             identified some key initial concerns around procurement
+10             questions for Welsh Government decisions, or decisions
+11             with a Welsh angle, which we say are likely to have had
+12             a direct impact on the number of deaths in Wales, and
+13             which we hope will be helpful to the Inquiry team at
+14             this stage. And these include, firstly, the
+15             effectiveness and quality of items that were procured,
+16             including from abroad. Did they meet safety standards
+17             or even guard against airborne viruses at all? Whether
+18             there were sufficient FFP3 masks procured rather than
+19             a focus on gowns, visors and fluid-repellent masks which
+20             gave the appearance of a government striving to procure
+21             PPE when in fact what was needed was protection from
+22             airborne viruses.
+23                 This then raises the question about the failure to
+24             procure the correct RPE and PPE, the failure to have
+25             stores of adequate RPE/PPE so that exorbitant prices
+    52
+
+ 1              were subsequently paid during the pandemic for
+ 2              equipment, the lack of transparency and questions over
+ 3              whether value for money was achieved, and that different
+ 4              approaches were taken within Wales resulting in
+ 5              a postcode lottery for the availability of protective
+ 6              equipment.
+ 7                  Turning then, finally, to more specifically points
+ 8              on the preparatory steps for this module. The Cymru
+ 9              group accepts that KLOEs are an important tool for
+10             gathering and analysing experiences shared with Every
+11             Story Matters through targeted research. In our
+12             submission, priority audiences from each of the four
+13             nations should be invite to consider the impact of
+14             procurement decisions by their own nations, as
+15             identified in the research questions set out in
+16             paragraph 38 of CTI's note.
+17                 I'd like to turn next, then, to highlight the point
+18             that we have made in our written submissions on the
+19             proposed Rule 9 updates, particularly in light of the
+20             renewed call by other CPs for position statements from
+21             government and other bodies. What we've done is to draw
+22             attention to the need to have proper detail of the
+23             issues raised in Rule 9 requests of state and other
+24             organisations, in order to assist us in participating
+25             and preparing fully for this module, including by making
+    53
+
+ 1             suggestions for lines of inquiry. Our submission
+ 2             reflects our experience in other modules where the full
+ 3             extent of Rule 9 requests has become known too late in
+ 4             the day so that we've been unable to raise any challenge
+ 5             or speak to the Inquiry team about other key witnesses
+ 6             or issues to be explored with witnesses in good time.
+ 7             Our overarching concern is that this inevitably impedes
+ 8             effective investigation, fairness and full anticipation
+ 9             by CPs.
+10                 We are, of course, grateful to the Inquiry for its
+11             collaborative approach, and it goes without saying that
+12             everyone's resources are stretched in an inquiry of this
+13             complexity, and we do note with approval submissions by
+14             other CPs for the Inquiry to take all steps to promote
+15             fairness and full participation.
+16                 We will make further submissions on this and on
+17             disclosure -- on the disclosure process in due course as
+18             necessary.
+19                 We also wish to reserve our position at this stage
+20             on expert evidence.
+21                 And finally, we would also wish to highlight that
+22             members of this group can speak to systemic failings in
+23             procurement in Wales, and the shortages of resources in
+24             hospital and care home settings where their families and
+25             loved ones lost their lives, and so we do invite the
+    54
+
+ 1              Inquiry to hear their testimonies in this module.
+ 2                  With that, my Lady, unless there's anything further
+ 3              I can help the Inquiry with this morning, we look
+ 4              forward to continuing to work in collaboration with the
+ 5              Inquiry team and other CPs in this -- to make this
+ 6              a meaningful and fruitful exercise.
+ 7           LADY HALLETT: Thank you very much indeed for your help.
+ 8              Very grateful.
+ 9                  Right, Mr McCaffery, I think you're attending
+10             remotely.
+11             Submissions on behalf of Scottish Covid Bereaved by
+12                                    MR McCAFFERY
+13          MR McCAFFERY: Thank you, my Lady.
+14                 My Lady, I am instructed by Aamer Anwar & Company on
+15             behalf of Scottish Covid Bereaved this morning.
+16             Scottish Covid Bereaved are once again grateful to the
+17             Inquiry for being included as a designated core
+18             participant in Module 5. We're also grateful to counsel
+19             to the Inquiry for providing a detailed note setting out
+20             the matters which are to be addressed at this first
+21             preliminary hearing in Module 5.
+22                 Module 5 is, of course, of significant importance to
+23             the members of Scottish Covid Bereaved, who had
+24             firsthand experience of the widespread lack of
+25             availability of personal protective equipment, or PPE,
+    55
+
+ 1             during the course of at least the early stages of the
+ 2             pandemic, and, in many cases, can corroborate many of
+ 3             the stories of not only a lack of availability, but also
+ 4             other healthcare-related equipment and supplies,
+ 5             including ventilators and oxygen.
+ 6                 Scottish Covid Bereaved members are keen to find
+ 7             answers to all of the issues raised, and particularly
+ 8             with regard to procurement, availability and use of
+ 9             lateral flow tests and free PCR tests.
+10                 The members of Scottish Covid Bereaved have
+11             significant experience and perspectives to share with
+12             the Inquiry as end users of all of such equipment and
+13             supplies and as firsthand witnesses to its use within
+14             hospitals and care home environments.
+15                 Scottish Covid Bereaved as a group has a wide and
+16             varied membership, which includes doctors, paramedics
+17             and carers in both care home and community settings, as
+18             well as those who cared for loved ones in domestic
+19             settings.
+20                 Members of Scottish Covid Bereaved whose loved ones
+21             died in care homes and hospitals will, along with the
+22             bereaved from the other nations, be able to provide the
+23             Inquiry with a wealth of information on what was
+24             happening on the ground, as it were, and within those
+25             environments.
+    56
+
+ 1                The issues surrounding testing are also of great
+ 2           importance to Scottish Covid Bereaved members. The
+ 3           impact of the lack of testing of patients being
+ 4           discharged from hospitals and transferred to care homes
+ 5           is a matter which, as your Ladyship is aware, was raised
+ 6           in Module 2A in the last few weeks, and how this failure
+ 7           to test fuelled the spread of the virus to vulnerable
+ 8           residents in care homes and led to the deaths of many of
+ 9           the group's members' relatives. Had testing been
+10          identified and utilised earlier in the pandemic, this
+11          would have allowed staff to have identified Covid
+12          positive residents and to take steps to minimise the
+13          spread of virus within care homes. This is an issue of
+14          great significance for Scottish Covid Bereaved members
+15          who lost loved ones in those situations.
+16               Further, had testing been widespread in those early
+17          stages of the pandemic, members of Scottish Covid
+18          Bereaved would have been more likely to have been able
+19          to visit their loved ones in the last hours rather than
+20          leaving them alone, isolated, and often confused as to
+21          their situation.
+22               We note that the scope of Module 5 does indeed
+23          appear ambitious, and Scottish Covid Bereaved members
+24          will endeavour to assist the Inquiry in meeting its
+25          objectives throughout in its disclosure, expert
+    57
+
+ 1             reporting, and the eventual hearings.
+ 2                 The scope of the module is, of course, necessarily
+ 3             provisional at this stage, and much will depend on the
+ 4             evidence and material obtained during the Rule 9
+ 5             procedure. Counsel to the Inquiry has helpfully set out
+ 6             at paragraph 16 of his note some of the questions that
+ 7             the Inquiry is likely to consider in Module 5.
+ 8                 Other questions which the Inquiry may wish to
+ 9             consider from the Scottish perspective, and which are,
+10             of course, important to Scottish Covid Bereaved, have
+11             been identified at this stage, and include: what was the
+12             interaction between the procurement responsibilities of
+13             the Scottish Government and the United Kingdom
+14             Government? Were the relevant teams in the
+15             UK Government and devolved administrations properly and
+16             effectively operating and communicating with each other
+17             or were they in competition with each one another in
+18             a desperate scramble for supplies? What assistance were
+19             medical and caring staff given to secure adequate
+20             personal protective equipment? And the role of the
+21             NHS Louisa Jordan temporary hospital facility and
+22             whether this could have been set up and utilised at an
+23             earlier stage in the pandemic, and where patients
+24             discharged from mainstream hospitals may have been
+25             accommodated rather than to care homes, with all of the
+    58
+
+ 1           dangers which we now know surrounded that decision.
+ 2                Although I do note from Mr Wald's submissions this
+ 3           morning that the establishment, funding, location,
+ 4           staffing and operation of the Nightingale hospitals are
+ 5           to be addressed in Module 3, healthcare systems, and it
+ 6           is hoped and anticipated that the NHS Louisa Jordan
+ 7           Hospital will also be included in that module.
+ 8                Scottish Covid Bereaved also very much share the
+ 9           significant concerns referred to in the submissions from
+10          the UK Anti-Corruption Coalition in relation to the
+11          questions surrounding the use of the "VIP lane" and the
+12          seemingly close relationships between those succeeding
+13          in gaining contracts for the supply of PPE and those
+14          politicians recommending the award of those contracts.
+15               Turning to disclosure, my Lady, Scottish Covid
+16          Bereaved note all that is contained in counsel to the
+17          Inquiry's note in that regard. Members of the group
+18          look forward to the commencement of the disclosure
+19          procedure, and are obviously limited in terms of the
+20          submissions that they can make until such times as the
+21          results of that process are known and distributed to
+22          core participants.
+23               It was obvious from the difficulties, highlighted in
+24          Module 2A in the last few weeks, that the Inquiry faced
+25          in obtaining certain evidence from the Scottish
+    59
+
+ 1             Government in that module that the recovery of evidence
+ 2             is often far from straightforward, and while we are sure
+ 3             that the Inquiry will continue to make every effort to
+ 4             obtain all relevant evidence, it is to be hoped that
+ 5             every effort will be made to ensure a level of
+ 6             compliance in response to Rule 9 Requests from all core
+ 7             decision-makers across the four nations, which meets the
+ 8             high expectations of all of the core participants.
+ 9                 It is further hoped and anticipated by Scottish
+10             Covid Bereaved members that disclosure in Module 5 will
+11             include details in relation to the apparent PPE hotline
+12             established by the Scottish Government, and referred to
+13             in the evidence of the then Scottish Health Minister
+14             Jeane Freeman in Module 1. While it perhaps did not
+15             appear to some to be the most efficient use of time to
+16             senior government ministers, to be answering telephone
+17             calls about the availability or otherwise of personal
+18             protective equipment, Scottish Covid Bereaved look
+19             forward to this matter being explored in greater detail
+20             in Module 5.
+21                 One particular area of concern, and one which has
+22             also been raised by other core participants, is the
+23             timing of disclosure and its likely availability to core
+24             participants. As core participants are now accustomed
+25             to, there is inevitably a vast amount of material to be
+    60
+
+ 1              considered in any module, and it is anticipated that
+ 2              that amount will potentially be even greater, given the
+ 3              intended scope of Module 5.
+ 4                  Accordingly, there is some apprehension that the
+ 5              timing of the disclosure of documents will leave core
+ 6              participants and their legal representatives with
+ 7              insufficient time to properly consider all of the
+ 8              materials. It is therefore to be hoped that all
+ 9              disclosures will be made available as quickly as
+10             possible to allow sufficient time for adequate
+11             preparation to be made for the substantive hearings in
+12             early 2025.
+13                 We're again grateful to Mr Wald for indicating this
+14             morning that disclosure is now anticipated to begin in
+15             late spring of this year.
+16                 In relation to expert reports, my Lady, Scottish
+17             Covid Bereaved note that, as with previous modules, the
+18             Inquiry intends to instruct a number of expert reports
+19             across various disciplines to assist it by providing
+20             written reports, and giving oral evidence at a public
+21             hearing.
+22                 We'll have further submissions to make once the
+23             identity of the experts and the questions and issues
+24             they will be asked to address are disclosed to core
+25             participants.
+    61
+
+ 1                     At this stage, we would simply submit that it is
+ 2                 hoped that all such experts will have sufficient and the
+ 3                 requisite expertise in relation to those matters
+ 4                 concerning Scotland and the Scottish Government.
+ 5                     Finally, turning to Every Story Matters, my Lady,
+ 6                 Scottish Covid Bereaved note that the Inquiry's research
+ 7                 specialists are exploring opportunities to conduct
+ 8                 targeted qualitative research in relation to particular
+ 9                 topics based on the lines of inquiry. We note that the
+10                 key lines of inquiry are identified by counsel to the
+11                 Inquiry in his note, and that those relate to the
+12                 procurement processes and decisions made by the
+13                 United Kingdom Government.
+14                     Again, to echo previous core participants'
+15                 submissions this morning, Scottish Covid Bereaved hope
+16                 that the research to be carried out by the Inquiry does
+17                 not exclude the impact of procurement processes and
+18                 decisions made by the Scottish Government, and the other
+19                 devolved administrations.
+20                     It may be that the Inquiry further wishes to carry
+21                 out research in relation to the impact of those
+22                 decisions on patients, residents in care homes, and
+23                 their loved ones. It is in these areas that we believe
+24                 that the members of Scottish Covid Bereaved and those of
+25                 the other bereaved families groups will have a great
+    62
+
+ 1              deal to offer to assist the Inquiry in achieving its
+ 2              aims, and we anticipate that many members of Scottish
+ 3              Covid Bereaved will wish to participate in the Every
+ 4              Story Matters exercise.
+ 5                  Further, we note submissions in relation to
+ 6              potential undertakings regarding criminal investigations
+ 7              and/or proceedings in respect of evidence provided to
+ 8              the Inquiry, and likely opposition to such and any
+ 9              assertions of the privilege against self-incrimination.
+10                 We would reserve our position on that matter until
+11             such times as further information becomes available.
+12                 Those are the submissions on behalf of Scottish
+13             Covid Bereaved this morning, my Lady, and unless I can
+14             be of any further assistance?
+15          LADY HALLETT: No, thank you very much, Mr McCaffery. May
+16             I repeat my apology that there are references to HMG.
+17             We should have made it clear in what was said that we
+18             include the devolved nations and, as I say, I'm
+19             extremely sorry that wasn't made clear. I am going to
+20             do everything in my power to make sure that everyone
+21             knows throughout the Inquiry that when we're talking
+22             about investigating fully, we mean each of the devolved
+23             nations and the United Kingdom Government. So thank you
+24             very much for your assistance.
+25          MR McCAFFERY: I'm grateful, my Lady.
+    63
+
+ 1             LADY HALLETT: Right, Mr Dayle.
+ 2               Submissions on behalf of Federation of Ethnic Minority
+ 3                          Healthcare Organisations by MR DAYLE
+ 4             MR DAYLE: My Lady, I act for the Federation of Ethnic
+ 5                 Minority Healthcare Organisations, FEMHO, and I am part
+ 6                 of a counsel team led by Mr Leslie Thomas KC and
+ 7                 instructed by the firm Saunders Law.
+ 8                     As you already know, my Lady, FEMHO's membership
+ 9                 straddles the intersection of two disproportionately
+10                 affected groups in your Inquiry, ethnic minorities and
+11                 health and social care workers.
+12                     As minority ethnic health and social care workers,
+13                 which FEMHO, is, FEMHO's members were more likely to
+14                 find themselves in hazardous work investigations without
+15                 adequate PPE compared to their white colleagues. And to
+16                 make matters worse, as we've been saying through other
+17                 modules, they were the least empowered to speak up about
+18                 it in a work situation.
+19                     FEMHO's central contention in this module,
+20                 therefore, is that structural inequalities impacted upon
+21                 procurement decisions and the availability of
+22                 healthcare-related equipment and supplies during the
+23                 pandemic. This resulted in substantial problems
+24                 concerning the availability of suitable PPE and
+25                 equipment, including ventilators and oxygen.
+    64
+
+ 1               FEMHO also contends that issues of structural
+ 2           inequalities shaped the availability of, and access to,
+ 3           lateral flow tests and PCR tests.
+ 4               I note the encouraging words from Mr Wald KC this
+ 5           morning, which confirms that issues of structural
+ 6           inequalities in procurement will be given careful
+ 7           consideration as the Inquiry continues its
+ 8           investigation.
+ 9               Needless to say, FEMHO welcomes these comments, but
+10          it bears restating how important it is that the
+11          Inquiry's investigation considers how the processes,
+12          procedures and decision-making might have been inimical
+13          to the interests of health and social care workers and
+14          their communities. This, of course, includes the extent
+15          to which there may or may not have been reference to the
+16          Public Sector Equality Duty in the heady days of the
+17          pandemic, when usual business practices were suspended.
+18              My Lady, you will note in our written submissions,
+19          FEMHO sought confirmation that the Inquiry's
+20          investigation of procurement will not be limited to
+21          material assets such as PPE and healthcare equipment,
+22          but will extend to how contracts for communications and
+23          community engagement related to them were procured.
+24              And I note comments made by Mr Wald KC earlier this
+25          morning that such procurement lies beyond the scope of
+    65
+
+ 1             Module 5.
+ 2                 Our observations at this time would be that
+ 3             communication and community engagement that is directly
+ 4             related to procurement of PPE and healthcare equipment
+ 5             should logically be considered within the scope of this
+ 6             module. If this is not to be the case, we would
+ 7             respectfully seek the Inquiry's confirmation of when
+ 8             these matters will be looked into and when the wider
+ 9             issues of procurement of services contracts for
+10             communication and community engagement will be examined.
+11                 My Lady, the through line that runs through FEMHO's
+12             approach in this module, and perhaps others, is that
+13             issues of equality in the context -- in this instance,
+14             Module 5 -- in the context of procurement, are
+15             cross-cutting, and may not be ghettoised into discrete
+16             segments. As such, FEMHO members want the Inquiry to
+17             consider the following overarching themes across the
+18             entire module: diversity and inclusion in
+19             decision-making, cultural competence in procurement
+20             decision-making processes, equitable distribution of
+21             resources, community engagement in procurement, language
+22             access and communication strategies, support for
+23             minority-owned businesses, regular diversity audits,
+24             transparency in decision-making, and collaboration for
+25             inclusive protocols.
+    66
+
+ 1               Many of these themes will be borne out in
+ 2           discussions around fit testing and the provision of
+ 3           suitable and effective PPE for individual healthcare
+ 4           workers, for example, which is a matter of particular
+ 5           concern to FEMHO in this module.
+ 6               The Inquiry will learn that much of the PPE procured
+ 7           in the UK was designed and manufactured based on the
+ 8           average facial measurements of a white male. There was
+ 9           thus a lack of adequate consideration for variation of
+10          facial features among different ethnicities. In
+11          addition, what was described as "standard" PPE was often
+12          incompatible with facial hair and religious and/or
+13          cultural dress such as hijabs or turbans. And
+14          alternatives, such as powered air-purifying respirators
+15          or PAPR, also referred to as hoods, were not always
+16          procured or made available.
+17              FEMHO will be keen, my Lady, for you to examine
+18          whether healthcare equipment was fit for purpose and
+19          demonstrated cultural competency in procurement
+20          decisions. Concerns have been raised that a range of
+21          healthcare devices may be designed and are operating
+22          with a racial bias. This includes underlying predictive
+23          assessment protocols and algorithms, which have in
+24          recent years grown significantly in use when supporting
+25          clinical decision-making.
+    67
+
+ 1                 Nowhere were these issues more evident than in the
+ 2             now notorious issues related to the accuracy of the
+ 3             pulse oximeter, and the work of the NHS Race and Health
+ 4             Observatory unearthed the fact that readings from black
+ 5             and minority ethnic people could be seriously misleading
+ 6             and needed further assessment. Oximeters have been
+ 7             developed based on studies measuring oxygen levels in
+ 8             Caucasian and light-skinned individuals, and research
+ 9             has revealed inaccurate and ambiguous readings for those
+10             with darker pigmentation and skin tones.
+11                 My Lady, in matters of procedure, we wish to support
+12             the position of the UK Covid Bereaved Families for
+13             Justice regarding parallel criminal investigations and
+14             possible undertakings from the Attorney General, and
+15             this is set out in paragraphs 19-23 of the written
+16             submissions, and has been ably canvassed by Mr Nicholls
+17             on their behalf, with all its nuances, earlier this
+18             morning.
+19                 On the matter of experts, my Lady, FEMHO invites you
+20             to engage experts to consider how disengagement with the
+21             issue of race and inequality across the public sector,
+22             and lack of diversity and inclusion in senior leadership
+23             have negatively affected procurement decision-making.
+24             And in this connection, a follow-up report by the
+25             experts instructed for Module 2 on these issues, and I'm
+    68
+
+ 1           referring to Professors James Nazroo and Laia Bécares,
+ 2           is suggested.
+ 3               FEMHO also commends the work conducted by the NHS
+ 4           Race and Health Observatory in the context of potential
+ 5           racial bias and cultural competency in healthcare
+ 6           equipment. The Inquiry is invited to draw on the expert
+ 7           studies and expertise that has been generated from this
+ 8           organisation.
+ 9               It bears reiterating, my Lady, that on the issue of
+10          position statements, we say that it is an opportune time
+11          for your Inquiry to revisit whether state actor CPs
+12          should provide position statements to this Inquiry. You
+13          have kept this position under review since October 2022,
+14          and we say that given the disparate approaches to
+15          procurement across a range of state bodies, it would be
+16          helpful to your Inquiry for these bodies to set out
+17          their respective positions by way of position
+18          statements. And this would no doubt save time expended
+19          to research to ascertain this, and ensure more
+20          efficiency and focus on matters that are more central to
+21          the Inquiry's investigations.
+22              My Lady, we commend these matters to you for your
+23          careful consideration, and unless there are questions
+24          arising, my Lady, that will be all our submissions at
+25          this time.
+    69
+
+ 1             LADY HALLETT: Thank you very much for your help, Mr Dayle.
+ 2                     Mr Munro, I think you come last.
+ 3          Submissions on behalf of the UK Anti-Corruption Coalition by
+ 4                                            MR MUNRO
+ 5             MR MUNRO: Thank you, Chair.
+ 6                     My name is Peter Munro, and I am speaking on behalf
+ 7                 of the UK Anti-Corruption Coalition. I'd like to first
+ 8                 open with a note of appreciation. The Coalition would
+ 9                 like to thank you and your team for granting us core
+10                 participant status for this key module in the Covid
+11                 Inquiry on the UK Government procurement response.
+12                     We hope we can add some important, constructive
+13                 insights into proceedings today and throughout the
+14                 course of the year.
+15                     We look forward to adding our voice, sharing our
+16                 evidence and expertise to support the Inquiry's
+17                 investigation into the UK and devolved governments'
+18                 management of government procurement, helping the
+19                 country learn important lessons.
+20                     You'll be aware that we have submitted a written
+21                 submission ahead of today's hearing, but today I'd like
+22                 to summarise some of those points on behalf of the
+23                 group. But first, by way of introduction as a first
+24                 time core participant, I'd like to note a few points
+25                 about the UK Anti-Corruption Coalition itself.
+    70
+
+ 1               Our coalition is a non-partisan group of
+ 2           anti-corruption organisations who aim to reduce
+ 3           corruption in the UK and reduce its role in facilitating
+ 4           it abroad. We consist of 17 partner members, including
+ 5           international NGOs and academics with shared aims
+ 6           offering bespoke expertise wherever corruption exists in
+ 7           the UK and beyond. Our policy areas include illicit
+ 8           financial flows, money laundering, defence and security,
+ 9           environmental issues, human rights, the courts, the
+10          press, matters of public governance and political
+11          integrity, and public health.
+12              For over a decade, our group has been the leading
+13          civil society voice in the anti-corruption space,
+14          consulting with government authorities and
+15          parliamentarians to improve relevant UK policy, raising
+16          awareness of the social, economic, and national security
+17          threats posed by corruption.
+18              For the purposes of this Inquiry, the part of the
+19          Coalition that will be engaging as core participants is
+20          our Procurement Working Group. This working group was
+21          created in early 2020, when issues with the UK's
+22          pandemic response, particularly relating to emergency
+23          procurement of PPE equipment, first came to light.
+24              The organisations in this working group that have
+25          core participant status are as follows: Transparency
+    71
+
+ 1                 International UK; Open Contracting Partnership; and
+ 2                 Chris Smith, procurement expert; Spotlight on
+ 3                 Corruption; and the Centre for Health and Public
+ 4                 Interest.
+ 5                     Each of these organisations undertake detailed and
+ 6                 evidence-based research on public procurement. They
+ 7                 also offer specific technical expertise on procurement
+ 8                 systems, governance arrangements, digital tools and data
+ 9                 standards.
+10                     For a number of years, our organisations have
+11                 contributed to various national and international
+12                 consultations and reviews into procurement best
+13                 practice. We've undertaken investigations into the UK's
+14                 emergency procurement of PPE, and patient capacity from
+15                 private sector hospitals during the pandemic.
+16                     At this point, it's certainly worth highlighting
+17                 that it is internationally accepted that with government
+18                 procurement and public contracts, there is considerable
+19                 risk of corruption. Procurement rules exist to keep
+20                 politicians, political influence and conflict of
+21                 interest out of public contracts. Quite simply, if
+22                 these rules are not followed, this does not only have
+23                 ripple effects on the direct response to emergencies,
+24                 but also can diminish the public's trust in its
+25                 government.
+    72
+
+ 1                      Since our inception as a group, we have analysed and
+ 2               critiqued the UK's pandemic procurement response, and
+ 3               our work is always focused on securing stronger
+ 4               safeguards against corruption in procurement, and we
+ 5               were pleased to contribute to the necessary reforms
+ 6               within the UK's new Procurement Act 2023.
+ 7           LADY HALLETT: I'm sorry to interrupt, Mr Munro, but
+ 8               I suspect -- could you just slow down?
+ 9           MR MUNRO: Sure.
+10          LADY HALLETT: I speak very quickly too, so I understand.
+11              It's just that I'm going to have a stenographer
+12              complaining. I appreciate you're trying to get things
+13              done in time.
+14          MR MUNRO: No problems; I can certainly slow down.
+15          LADY HALLETT: Thank you.
+16          MR MUNRO: Now, turning to scope of Module 5.
+17                     We think the key questions put forward by the
+18              Inquiry team form a very solid basis for the module, but
+19              I will highlight seven key areas that are of particular
+20              interest for us, and that we hope the Inquiry gets to
+21              the bottom of.
+22                     The latter few points relate to the counsel's
+23              remarks this morning of what is and is not in scope, and
+24              covered in different modules, but I would still like to
+25              put them on record.
+    73
+
+ 1                  Firstly, the frontline impact of PPE failures.
+ 2             Whilst our focus is the process and decision-making by
+ 3             the government, we are pleased to see the Inquiry's
+ 4             emphasis on recognising the impact that procurement
+ 5             decisions had on the frontline provision of equipment.
+ 6             It is vital for the Inquiry to fully consider the
+ 7             profound impact the government-level decisions had on
+ 8             the ground-level emergency response and on frontline
+ 9             responders.
+10                  Ahead of coming to the Inquiry today, I spoke to my
+11             own mum about her experiences as a health visitor and
+12             those of her district nurse colleagues. She said that
+13             the PPE was so thin, thinner than bin bags, that by the
+14             time you opened the roll, it was already falling apart.
+15             Especially in the winter months, when health visitors
+16             and district nurses were outside visiting their
+17             communities, the equipment that was procured by the
+18             government wouldn't last in the elements. She could
+19             tell that her one-hour visits in patients' homes were
+20             almost over not by looking at her watch, but by looking
+21             at the wear of her PPE equipment.
+22                  As she said to me, "It felt like we were wearing the
+23             equipment for appearance sake and to reassure our
+24             patients, rather than as something that would actually
+25             protect us."
+    74
+
+ 1                      Secondly, the lack of basic commercial acumen. We
+ 2               believe the Inquiry should investigate what appears to
+ 3               be systemic lack of commercial acumen and adherence to
+ 4               key guiding principles of public procurement.
+ 5                      Usually, in the public procurement process, very
+ 6               clear technical specifications provided by the
+ 7               contracting authority would lead the procurement process
+ 8               for PPE. However, this does not appear to be the case
+ 9               for the UK's emergency response, which relied on
+10              supplier specifications and offers that formed the basis
+11              of contracts.
+12                     Instead of saying "This is what we need", the
+13              government asked "What do you have?" and "We'll take
+14              it."
+15                     This would seem partly to account for the
+16              extraordinary high rate of failure and waste in UK
+17              contracts.
+18                     Third, the High Priority Lane, or "VIP lane". This
+19              particular response emerged as a core feature of the UK
+20              procurement policy. Our members work in countries all
+21              over the world and know that this VIP approach was quite
+22              unique to the UK.
+23                     As I said earlier, one of the key purposes of
+24              procurement rules is to keep undue political influence
+25              away from government commercial decision-making. Close
+    75
+
+ 1             connections to politicians normally are a cause for more
+ 2             scrutiny of contracts, not less. There is no evidence
+ 3             that politicians anywhere were particularly well placed
+ 4             to decide who had good stocks of PPE and who does not.
+ 5             There were plenty of routine and sensible approaches for
+ 6             securing PPE at speed in other jurisdictions.
+ 7                  Most countries managed to do this whilst maintaining
+ 8             due process. And in Sweden, Slovakia, Estonia, Latvia,
+ 9             the number of contracts awarded using open competition
+10             actually went up.
+11                  We believe it is very important that the Inquiry
+12             discovers exactly how and why the High Priority Lane was
+13             created and what other, more effective, emergency
+14             response options were considered and rejected.
+15                  We also hope the Inquiry will consider how the High
+16             Priority Lane delayed the publication of critical
+17             information about contracts, and they have deterred
+18             efforts to hold some suppliers accountable.
+19                  Fourth, failure to disclose basic information on
+20             emergency PPE contracts. In other countries, like
+21             Ukraine, information on emergency contracts was
+22             published within 24 hours. In the UK, the normal 30 and
+23             90-day periods for required publication of contract
+24             information completely collapsed. Contract award
+25             notices for PPE worth £4.7 billion were not published
+    76
+
+ 1              until 14 months after contracts were awarded.
+ 2                  Even today, we remain concerned about the lack of
+ 3              public disclosure for many contracts worth billions of
+ 4              pounds that were awarded without competition. A large
+ 5              value of PPE contracts remains unpublished, and
+ 6              contracts that have been published are incomplete,
+ 7              lacking detail on the items procured, or are heavily
+ 8              redacted.
+ 9                  There is a risk that the government could rely, as
+10             it often does, on commercial confidentiality to avoid
+11             full disclosure of important contract documents to the
+12             Inquiry. We fear that the Inquiry may not have access
+13             to much of this documentation and will be unable to
+14             fully investigate what happened to them, and what
+15             lessons can be learned.
+16                 Fifth, the use of digital procurement tools. We
+17             believe the module scope should include digital tools
+18             that were available for the procurement of items, and
+19             the role of procurement data in managing the whole
+20             process across all levels of government.
+21                 Other jurisdictions quickly built dashboards to
+22             track PPE availability and contracts. Lithuania's
+23             Public Procurement Office was able to identify an
+24             increasing number of untested suppliers, overpriced
+25             protective equipment, and risky high-value direct
+    77
+
+ 1                 awards. We would like to know what tools and approaches
+ 2                 the UK could have taken.
+ 3                      Six, the impact and implementation of Boardman and
+ 4                 other reviews. Following concerns about the
+ 5                 transparency of the UK's emergency procurement response,
+ 6                 multiple official reviews were conducted. The Cabinet
+ 7                 Office asked Sir Nigel Boardman to conduct a review into
+ 8                 the award of contracts for Covid communication services
+ 9                 made by the Cabinet Office, and to identify areas for
+10                 improvement.
+11                      Similarly, there were key reviews conducted by the
+12                 National Audit Office and Public Accounts Committee.
+13                 We'd like to see the Inquiry investigate what impact
+14                 these reviews and their recommendations had on
+15                 Government Department behaviour and the procurement of
+16                 equipment.
+17                      Number 7, quality assurance. We believe the Inquiry
+18                 should investigate the considerable waste to physically
+19                 dispose of PPE that was not fit for purpose, and look at
+20                 what could have been done to identify quality problems
+21                 before PPE was distributed.
+22                      We had some following points here, but counsel made
+23                 points about the scope of procurement services this
+24                 morning. We do think there are massive and costly
+25                 failures and similar flaws that ought to be looked at
+    78
+
+ 1              regarding services at private hospitals and the
+ 2              Nightingale hospitals, and their respective equivalents
+ 3              in the devolved governments.
+ 4                  Many contracts were awarded in the test and trace
+ 5              area with no competitive tenders. Public Accounts
+ 6              Committee reported that ministers and government
+ 7              officials played "fast and loose" when awarding over
+ 8              £700 million in Covid-19 contracts to a healthcare firm.
+ 9              The committee also noted that it was impossible to know
+10             if the contracts had been awarded properly.
+11                 Chair, I would like to thank you again for granting
+12             the UK Anti-Corruption Coalition core participation
+13             status. We do encourage and fully support the direction
+14             of the module so far, and look forward to working with
+15             you and your team in the coming months.
+16                 Unless I can be of any further assistance, or you
+17             need me to repeat anything or slow down more, then that
+18             concludes my remarks.
+19          LADY HALLETT: Thank you very much for your help, Mr Munro,
+20             and you raise some very interesting points. Thank you.
+21                 Right, I think that now completes all the
+22             submissions, and unless anybody has anything else they
+23             wish to add, that completes this preliminary hearing.
+24                 I think the next hearing of the Inquiry is in
+25             Cardiff, I think, at the end of February. And I look
+    79
+
+ 1                 forward to seeing those who are following these
+ 2                 proceedings there or remotely, even though I won't see
+ 3                 them.
+ 4                      Thank you all very much.
+ 5             (12.42 pm)
+ 6             (The hearing adjourned until a future date in February 2024)
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+    80
+

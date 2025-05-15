@@ -1,0 +1,2106 @@
+ 1                                                    Wednesday, 29 March 2023
+ 2           (10.00 am)
+ 3           BARONESS HALLETT: Bore da. Good morning, this is the
+ 4               second preliminary hearing for Module 2B. The aim of
+ 5               preliminary hearings is for me to check in public on the
+ 6               progress a module is making and to ensure that that
+ 7               progress is good. It is also a chance for Core
+ 8               Participants to air, in public, any concerns that they
+ 9               may have.
+10                  Core Participants play a vital role in the public
+11              Inquiry and I have been very impressed to date by the
+12              quality of the submissions made to me by many of the
+13              Core Participants and the commitment that they have
+14              shown.
+15                  With their help, I hope we can conduct a thorough
+16              investigation and meet the ambitious timetable that
+17              I have set. In that way, I can reach conclusions about
+18              the preparedness for the pandemic and the response to it
+19              and make any recommendations as we go along.
+20                  I am determined that the public of the United
+21              Kingdom should not have to wait until the end of the
+22              Inquiry for all the answers to their legitimate
+23              questions and concerns and that any recommendations that
+24              may reduce suffering in a future pandemic are published
+25              as soon as practically possible.
+    1
+
+ 1                     I have received written submissions from several of
+ 2                 the Core Participants to this module for today's
+ 3                 hearing. I'm very grateful to them and I have read them
+ 4                 very carefully. I will bear all the submissions very
+ 5                 much in mind. It means that those who are making oral
+ 6                 submissions need focus only on the matters they wish to
+ 7                 highlight this morning.
+ 8                     Mr Tom Poole KC, lead counsel to the Inquiry for
+ 9                 this module will now explain in detail the issues for me
+10                 to consider today.
+11                     Mr Poole?
+12                                 Submissions by MR POOLE
+13             MR POOLE: Bore da. Good morning my Lady. Can you hear and
+14                 see me?
+15             BARONESS HALLETT: I can, thank you.
+16             MR POOLE: This is the second preliminary hearing in Module
+17                 2B, the first one having been held on 1 November some
+18                 four months ago. By way of reminder for those who are
+19                 watching and listening, Module 2B is looking at core
+20                 political and administrative decision making relating to
+21                 the management of the pandemic in Wales. Primarily, the
+22                 key strategic decisions taken by the Welsh Government.
+23                     I don't propose to reintroduce the Core Participants
+24                 or their legal representatives, there are nine Core
+25                 Participants in Module 2B and all are legally
+    2
+
+ 1               represented.
+ 2                   Written submissions for this morning's hearing have
+ 3               been received from five Core Participants, namely,
+ 4               Covid-19 Bereaved Families for Justice Cymru; John's
+ 5               Campaign and Relatives & Residents Association; the
+ 6               Trades Union Congress and the Wales Trades Union
+ 7               congress; Disability Wales and Disability Rights UK; and
+ 8               the Welsh Government.
+ 9                   We are extremely grateful to them all for having
+10              provided us with their observations and insights and
+11              also for the brevity with which they have done so.
+12                  After my submissions, your Ladyship will be hearing
+13              submissions from the following Core Participants in the
+14              following order: Covid-19 Bereaved Families for Justice
+15              Cymru, represented by Bethan Harris; John's Campaign and
+16              Relatives & Residents Association, represented by Adam
+17              Straw KC; the Trades Union Congress and Wales Trades
+18              Union Congress represented by Samuel Jacobs; Disability
+19              Wales and Disability Rights UK represented by Danny
+20              Friedman KC; and the Welsh Government represented by
+21              Ruth Henke KC.
+22                  Before turning to my substantive submissions, may
+23              start by briefly explaining the arrangements for this
+24              morning's hearing. These proceedings are being recorded
+25              and live streamed to other locations. A transcript of
+    3
+
+ 1                 what is being said at the hearing will be made publicly
+ 2                 available on the Inquiry's website in due course.
+ 3                     As is always the case in hearings like this, matters
+ 4                 may be mentioned of a potentially sensitive nature. To
+ 5                 cater for this, the broadcasting of the hearing via the
+ 6                 YouTube feed will be conducted with a three-minute
+ 7                 delay. That feed can therefore be paused if anything
+ 8                 unexpected is aired which should not be. We do not
+ 9                 expect such matters to arise over the course of this
+10                 morning but I mention this feature so that those who are
+11                 following proceedings understand the reasons for any
+12                 short delay, if, for any reason, that did need to
+13                 happen.
+14                     I propose to first say something about the Inquiry's
+15                 evidence gathering. Since the last preliminary hearing,
+16                 a great deal of work has been done and at very
+17                 considerable pace indeed. As of yesterday, the Module
+18                 2B team had issued 84 formal requests for evidence
+19                 pursuant to Rule 9 of the Inquiry Rules to entities,
+20                 persons and organisations in Module 2B alone.
+21                     A further 73 requests have been made jointly with
+22                 other Inquiry modules and 39 Rule 9 questionnaires have
+23                 been issued to members of the Welsh Technical Advisory
+24                 Group and its related subgroups.
+25                     As explained at the last preliminary hearing, the
+    4
+
+ 1           Rule 9 requests are formal requests for documents and,
+ 2           in many cases, witness statements. Most are long and
+ 3           complex, particularly in the case of the key decision
+ 4           makers. To give a sense of the breadth and width of the
+ 5           Inquiry's reach, the Rule 9 requests include the
+ 6           following organisations: the Welsh Government; the Chief
+ 7           Medical Officer for Wales; the Office of the Secretary
+ 8           of State for Wales; the Technical Advisory Group and
+ 9           Cell; the Welsh Local Government Association; the Wales
+10          Trades Union Congress; Public Health Wales; the
+11          Children's Commissioner for Wales; the Health Treasury;
+12          the Health and Social Services Group; the National
+13          Police Chiefs' Council; the Office of the Domestic Abuse
+14          Commissioner for England and Wales; the Office of the
+15          Victims Commissioner for England and Wales; the
+16          Intensive Care and National Audit and Research Centre;
+17          the Ministry of Justice; the Crown Prosecution Service;
+18          HM Courts and Tribunal Services; UK Statistics Authority
+19          and Office for National Statistics; Equality and Human
+20          Rights Commission in Wales; the Office of the Older
+21          People's Commissioner, Wales; the British Medical
+22          Association; Liberty; Justice, the Education and Public
+23          Services Group; the Welsh Government Transport Group;
+24          the Chief Executive of NHS Wales; Care Inspectorate
+25          Wales; and 12 Welsh Government directorates.
+    5
+
+ 1                 Rule 9 requests have also been issued to a number of
+ 2             individuals, such as senior civil servants within the
+ 3             Welsh Government, special advisers to the Welsh
+ 4             Government, individuals from Public Health Wales and
+ 5             members of the First Minister's Black, Asian and
+ 6             Minority and Ethnic Advisory Group. Further requests of
+ 7             witness statements from Welsh Government ministers,
+ 8             including the First Minister, are due to be issued
+ 9             within the next few months.
+10                 Those witnesses involved in core decision making
+11             within the Welsh Government are asked to disclose to the
+12             Inquiry key emails and correspondence relevant to the
+13             issues addressed in their witness statements, as well as
+14             any informal or private communications about the Welsh
+15             Government's strategic response to the pandemic.
+16                 It shall also be noted that Module 2B, in
+17             conjunction with Modules 2, 2A and 2C, has issued over
+18             73 Rule 9 requests to organisations and bodies
+19             representing at-risk and vulnerable groups within Wales,
+20             as well as organisations representing those with
+21             protected characteristics. To date, entities and
+22             organisations representing the following groups have
+23             been written to: women; black and minorities; children
+24             and young people; those affected by health inequalities;
+25             those suffering from mental health issues; older people;
+    6
+
+ 1           disabled people; workers' groups; health professionals;
+ 2           the bereaved; LGBTQI; the traveller, gypsy and Roma
+ 3           community.
+ 4               In answer to a concern that has been expressed in
+ 5           submissions made on behalf of the TUC, the 2B Module
+ 6           Team is confident that the evidence elicited from the
+ 7           Rule 9 requests that have been issued will reflect the
+ 8           particular experience of at risk and vulnerable people
+ 9           in Wales.
+10              In our CTI note issued to Core Participants in
+11          advance of this preliminary hearing, we asked Core
+12          Participants to propose the identities of individuals
+13          and organisations to which further Rule 9 requests might
+14          be issued. Some Core Participants have very helpfully
+15          done so, including Covid-19 Bereaved Families for
+16          Justice Cymru, John's Campaign and Relatives & Residents
+17          Association and the TUC. All of these suggestions are
+18          receiving active further consideration. At this stage,
+19          I make three comments on the suggestions which have been
+20          made.
+21              First, some Core Participants have provided details
+22          of experts in various fields. The suggestions that have
+23          been made are all very helpful and will be considered.
+24          The details of the suggested experts' roles, relevant
+25          publications and explanations as to what the Core
+    7
+
+ 1             Participants think they might add to Module 2B are all
+ 2             particularly helpful.
+ 3                 Second, suggestions have been provided as to Welsh
+ 4             ministers, civil servants and special advisers who might
+ 5             be contacted for individual Rule 9 responses.
+ 6             An analysis has already been done by the module team of
+ 7             key decision makers within and advisers to the Welsh
+ 8             Government, which have been cross-referenced with these
+ 9             proposals.
+10                 Third, as regards organisations which may be able to
+11             provide information about the impact of key political
+12             decisions on vulnerable, at-risk and minority groups,
+13             various helpful suggestions have been made.
+14                 For some, whose area of interest is already being
+15             covered by other similar organisations, it may be that
+16             the possibility of contacting them will be reviewed once
+17             those other organisations have responded and an analysis
+18             can be undertaken of whether any additional material is
+19             required. This appears to us to be the best way to
+20             balance thoroughness and the need to avoid unnecessary
+21             expense, as your Ladyship requires us to do.
+22                 The point appears to be well made, in our view, by
+23             the TUC and Wales TUC, where they say that some of the
+24             national organisations who have been contacted may or
+25             may not be able to provide adequate information about
+    8
+
+ 1           Wales or information specific enough about certain
+ 2           at-risk groups for our purposes. We accept that these
+ 3           possibilities may prove to be right and we maintain
+ 4           an open mind to contacting other groups if the responses
+ 5           which we receive prove inadequate for our purposes on
+ 6           these or other grounds.
+ 7               I would like to be clear, however, that work has
+ 8           already started on finding out more about the suggested
+ 9           organisations, to the extent they were not familiar to
+10          us already.
+11              Before leaving the topic of Rule 9 requests, I would
+12          like to repeat the assurances that were given by counsel
+13          to the Inquiry at the second preliminary hearing for
+14          Module 2, that the Inquiry is committed to fearlessly
+15          inquire into the impact on the pandemic on at-risk,
+16          vulnerable, marginalised and ethnic minority people and
+17          groups. Specifically in Module 2B, we will be
+18          considering whether the effects of the pandemic and the
+19          measures taken in respect of these groups were
+20          considered when making core political decisions.
+21              It is for this reason that a number of Rule 9
+22          requests have been made specifically to elicit relevant
+23          evidence bearing on this issue.
+24              In this regard and generally I hope that the number
+25          of Rule 9 requests and the wide range of organisations,
+    9
+
+ 1             entities and individuals who have received such requests
+ 2             to date provides reassurance that the Inquiry is casting
+ 3             its investigative net sufficiently widely.
+ 4                 We will continue to provide Core Participants with
+ 5             monthly updates about our evidence-gathering process,
+ 6             including summaries of the Rule 9 requests which have
+ 7             been sent. These updates will also identify future
+ 8             Rule 9 requests that are in the pipeline.
+ 9                 I next propose to address disclosure. As explained
+10             in the CTI note, each and every document is individually
+11             reviewed, sifted for relevancy, redacted where necessary
+12             and then sent back to the document provider for comment.
+13                 It is fair to say that this process has proved
+14             burdensome and problematic. However, in light of the
+15             fact that the start of Module 2, and hence modules 2A, B
+16             and C, have been moved back in light of the delayed
+17             start of Module 1, the problem is now less acute.
+18                 As set out in the CTI note, the Inquiry team has
+19             undertaken to redact from disclosed materials the names
+20             of junior officials where it can be demonstrated that
+21             the disclosure of that individual's name is not
+22             considered necessary and, by virtue of their junior
+23             position, they have a reasonable expectation of privacy.
+24                 I should, of course, make clear that each redaction
+25             which the Inquiry, as opposed to the document maker, is
+    10
+
+ 1           required to undertake is provisional and subject to
+ 2           change, as a result of the Inquiry's own scrutiny of the
+ 3           evidence and any matters raised by the Core Participants
+ 4           following disclosure to them of the redacted document.
+ 5               The problem encountered by the Inquiry is that,
+ 6           given the profusion of policy documents and Government
+ 7           emails, there are literally thousands of manual
+ 8           redactions required. In addition, in many cases, it was
+ 9           not possible for reviewers to be sure that the
+10          particular name was irrelevant. As such, the process of
+11          review and disclosure slowed down considerably.
+12              As you would expect, the Inquiry team has taken
+13          a number of steps which has already sped up the process,
+14          whilst ensuring that only irrelevant information is
+15          redacted. I mention three such steps:
+16              First, increasing the number of reviewers available
+17          each day to review documents. Rest assured that very
+18          considerable resources are being directed at this
+19          process. We hope that, by the time the process is
+20          running smoothly, the number of documents reviewed
+21          weekly, of which the Core Participants will receive
+22          a portion, namely the relevant material, will run into
+23          the thousands.
+24              Second, block redacting the headers to emails in the
+25          first instance, leaving only the first email in the
+    11
+
+ 1             chain with redactions to specific names where that is
+ 2             required.
+ 3                 Third, working towards a more nuanced automatic
+ 4             redaction by the document handling system of email
+ 5             addresses.
+ 6                 Nevertheless, I accept that, on account of some
+ 7             delays in getting back documents from document
+ 8             providers, as well as the review process, documents have
+ 9             not gone out quite as speedily as we would have wished.
+10             We remain determined to disclose documents as soon as we
+11             can. To do so, however, we will need the ongoing
+12             support from Rule 9 recipients in meeting deadlines and
+13             resolving issues promptly when they arise.
+14                 As acknowledged by the Welsh Government in their
+15             written submissions, there have been some delays in the
+16             disclosure of ministerial advices to the Inquiry team.
+17             These are now being provided in tranches and reviewed as
+18             a matter of priority and the Welsh Government has agreed
+19             to provide all outstanding ministerial advices by the
+20             end of May. We welcome the Welsh Government's statement
+21             in their written submissions that they intend to engage
+22             fully and work collaboratively with the Inquiry to
+23             ensure disclosure and statements are provided in
+24             a timely and efficient manner.
+25                 As of yesterday, Module 2B will have disclosed 473
+    12
+
+ 1           documents from the Welsh Government, Public Health Wales
+ 2           and the Office of the Secretary of State for Wales. We
+ 3           anticipate disclosing approximately 500 further
+ 4           documents during the coming weeks.
+ 5               Turning next to the issue of parliamentary
+ 6           privilege, which is not an issue that need detain your
+ 7           Ladyship. The issue was raised in CTI notes in modules
+ 8           1 and 2 and addressed in our CTI note for this module
+ 9           out of an abundance of caution so Core Participants can
+10          understand the general approach that the Inquiry is
+11          likely to take. However, as your Ladyship ruled in your
+12          17 February ruling in Module 1, there are no issues of
+13          principle that require determination, given the
+14          practical approach adopted by the Inquiry.
+15              Before leaving the subject, I would like to thank
+16          John's Campaign and Relatives & Residents Association,
+17          as well as Disability Wales and Disability Rights UK for
+18          their helpful submissions on the exceptions to the rule
+19          against the use of parliamentary materials in legal
+20          proceedings. I'm also glad to see that they agree with
+21          us that there are no issues at this stage that require
+22          determination.
+23              I turn next to experts. Draft expert reports, which
+24          cover material relevant to Module 2B, have been received
+25          from Professor Ailsa Henderson and Professor Thomas
+    13
+
+ 1             Hale. Professor Henderson's report deals with political
+ 2             structures for devolution within the UK and mechanisms
+ 3             for inter-governmental decision making between the UK
+ 4             Government and the Devolved Administrations during the
+ 5             pandemic. Professor Hale's report deals with
+ 6             international data relating to the pandemic. Both draft
+ 7             reports are receiving consideration from the Inquiry
+ 8             legal teams.
+ 9                 A further draft report with relevance to Module 2B,
+10             instructed by Module 2, has been received concerning
+11             decision making structures at the UK Government in
+12             an emergency. The instruction of a similar report
+13             relating specifically to the Welsh Government is being
+14             considered.
+15                 A report has also been instructed but not yet
+16             received on the access to and the use of data by the UK
+17             Government and the Devolved Administrations during the
+18             pandemic. This report from Gavin Freeguard the former
+19             programme director and head of data and transparency at
+20             the institute for Government is due to be received in
+21             draft form shortly. On receipt, we will analyse its
+22             content to the extent to which it covers Welsh issues
+23             and, if necessary, look to instruct a Wales-specific
+24             report on this important subject.
+25                 Following disclosure of the draft report relevant to
+    14
+
+ 1           Module 2B, Core Participants will be invited to raise
+ 2           points of clarification or new matters that are agreed
+ 3           by the Inquiry to be relevant with each expert. Given
+ 4           the number of Core Participants across modules 2, 2A, 2B
+ 5           and 2C, it may be necessary for there to be some
+ 6           limitations imposed as to the scope or the number of
+ 7           matters able to be raised by each Core Participant. The
+ 8           Inquiry team will provide further information about the
+ 9           intended process for this involvement by Core
+10          Participants in due course.
+11              In the Module 2B preliminary hearing, your Ladyship
+12          heard submissions about the need for an expert to deal
+13          with the issue of structural racism and discrimination.
+14          In your 9 March ruling, your Ladyship indicated that it
+15          would be appropriate for an expert or experts to provide
+16          an opinion on the issue of pre-pandemic structural
+17          racism, with the caveat that it is not within the remit
+18          of the Inquiry to conduct an Inquiry into institutional
+19          racism.
+20              Your Ladyship also directed that the Inquiry team
+21          should look at the same issues relating to other forms
+22          of pre-existing discrimination. Our proposal to you,
+23          my Lady, is that you adopt the same approach to the
+24          issue of pre-existing structural racism and other forms
+25          of discrimination in Wales. We wish to emphasise, as
+    15
+
+ 1             I indicated earlier, that this is an issue to which we
+ 2             are very alive in this module.
+ 3                 Turning then to planning and timetabling for the
+ 4             remainder of the module. At the last preliminary
+ 5             hearing, Core Participants were understandably keen that
+ 6             we should set out our plan as to when the public
+ 7             hearings in Module 2B would take place. As already
+ 8             mentioned, necessary changes to the timetabling of
+ 9             Module 1 has resulted in the Inquiry's overall timetable
+10             being altered from our initial projections and you have
+11             had already made rulings regarding the timetables of
+12             modules 1 and 2, which can be have viewed on the Inquiry
+13             website.
+14                 The need for clear planning is appreciated.
+15             Therefore, subject to submissions which you may hear
+16             from Core Participant representatives, we propose that
+17             the Module 2B substantive public hearings should
+18             commence on Monday, 26 February next year.
+19                 It remains our plan that those Module 2B hearings
+20             will last for three weeks. More precise plans as to
+21             which witnesses will give evidence on which days will be
+22             announced in due course when further consideration and
+23             analysis of the evidence being gathered permits.
+24                 We note what is submitted on behalf of the Core
+25             Participants, in relation to whether three weeks is long
+    16
+
+ 1           enough. Given that the bulk of the documents have not
+ 2           yet been received and given your Ladyship's stated
+ 3           desire to have hearings that are relevant and not
+ 4           undermined by the passage of time, we are loath to
+ 5           suggest an extension in length, given the impact that
+ 6           would have on the rest of the Inquiry. I am sure your
+ 7           Ladyship will reflect on what has been said and keep
+ 8           this issue under review.
+ 9               We also note what is said on behalf of John's
+10          Campaign and Relatives & Residents Association regarding
+11          the adverse affects of delay. As your Ladyship has made
+12          clear, you are determined that the Inquiry will not drag
+13          on. The Inquiry is making fast progress with six
+14          investigations already open and substantive public
+15          hearings taking witness evidence starting in June. The
+16          Inquiry is acutely aware of the need to make timely
+17          recommendations, which is why your Ladyship has promised
+18          to publish regular reports.
+19              To this end, it is important that progress continues
+20          at pace with the Module 2 teams, assisted of course by
+21          the Core Participants, doing everything they can to
+22          ensure that the relevant dates for the Module 2 public
+23          hearings are met.
+24              As we intimated at the last preliminary hearing, to
+25          facilitate access for and engagement by the public in
+    17
+
+ 1             Wales, the substantive public hearings in Module 2B will
+ 2             take place in Wales. Moreover, the Inquiry will be
+ 3             supporting the inclusion of the Welsh language in
+ 4             hearings as much as possible by, for example,
+ 5             simultaneous translation facilities.
+ 6                 As regards hearing venues in Wales, the Inquiry is
+ 7             currently looking into this but I can assure you,
+ 8             my Lady, and, in particular, those who represent
+ 9             vulnerable or infirm groups that those discussions will
+10             give careful consideration for the need for minimum
+11             inconvenience for and any particular needs of those who
+12             may wish to attend those hearings. Taking on board
+13             submissions made by Core Participants, in particular
+14             Disability Wales and Disability Rights UK, the Inquiry
+15             is in the process of developing an overall approach to
+16             reasonable adjustments in a systematic manner.
+17                 For those who cannot or do not wish to attend in
+18             person, the intention is that those hearings, like
+19             these, will be live streamed online and the transcripts
+20             made publicly available via the Inquiry's website. The
+21             Inquiry will also be able to upload recordings of
+22             hearings to the Inquiry's website and YouTube channel.
+23             Before that time, the work of the Inquiry in preparation
+24             for those hearings will continue. There are a number of
+25             planned events in order to maximise the involvement of
+    18
+
+ 1           Core Participants and ultimately to assist in the
+ 2           fulfilment of the terms of reference.
+ 3               Before outlining our current thinking in that
+ 4           regard, it is worth pointing out that we consider it
+ 5           inevitable that there may be slight variations in the
+ 6           way in which we propose each Module 2 and its submodules
+ 7           be conducted, both with regard to the issues within each
+ 8           investigation, which may differ in each of the four
+ 9           nations of the UK, and the way in which the procedure
+10          might best serve each of those issues being addressed.
+11              There may be a number of legitimate reasons for this
+12          such as the timing of the hearings, practicality, the
+13          different issues which fall to be addressed in each part
+14          of the UK, both generally and at the hearings, the
+15          number and variety of material providers and decision
+16          makers, the volume of material and the number and
+17          interests of the Core Participants, which are different
+18          in each of the four submodules.
+19              Though such differences may occur, consistency in
+20          the treatment of each of the four nations of the UK is,
+21          in our submission, achieved by the broad consistency of
+22          the outline scopes in each and the commitment in each to
+23          important underlying principles, such as the need to
+24          permit participation in the process by those who have
+25          been accorded core participation status, which is
+    19
+
+ 1             reflected by each module providing means by which Core
+ 2             Participants may participate beyond what is laid out in
+ 3             the Inquiry Rules.
+ 4                 It is intended in the first instance that we will
+ 5             distribute a list of issues which we intend to address
+ 6             in Module 2B. In the first instance, we propose that
+ 7             this will be issued to the Core Participants who will
+ 8             then be invited to provide comments and suggested
+ 9             alterations and additions to the list of issues. The
+10             list will be a refined version of what issues we think
+11             arise for determination by the Inquiry in Wales, under
+12             each of the provisional outline of scope for Module 2B
+13             paragraphs. The list of issues will draw on the
+14             extremely helpful suggestions that have been made by
+15             many of the Core Participants.
+16                 In addition to suggestions in correspondence, John's
+17             Campaign and Relatives & Residents Association, as well
+18             as Disability Wales and Disability Rights UK, have made
+19             helpful suggestions in written submissions ahead of this
+20             hearing. These, as well as other suggestions made by
+21             the Core Participants, are being actively considered.
+22             I do not propose now to deal with those detailed issues
+23             raised but welcome the further engagement of Core
+24             Participants on this topic.
+25                 In your ruling of 9 March, issued after the second
+    20
+
+ 1           preliminary hearing in Module 2, you directed that
+ 2           Module 2 should produce a list of issues by 28 April.
+ 3           We propose that you should direct this to happen in
+ 4           Module 2B by 12 May.
+ 5               I turn next to the Rule 10 process. As far as
+ 6           questions for witnesses are concerned, Core Participant
+ 7           representatives are aware of the provisions of Rule 10
+ 8           and the procedures laid out there for the questioning of
+ 9           witnesses, which will be primarily conducted by counsel
+10          to the Inquiry and the opportunity which is set out
+11          there for applications to be made for questions to be
+12          asked by Core Participant representatives, in particular
+13          under Rule 10.4.
+14              In addition to the procedures laid out in the rules,
+15          and to the proposed list of witnesses for Module 2B
+16          public hearings, which we will share with Core
+17          Participants in due course, it is intended that Core
+18          Participants will be provided with an opportunity to
+19          suggest areas and lines of questioning, which will be
+20          covered with each witness.
+21              In your ruling issued after the Module 2 preliminary
+22          hearing, your Ladyship described an informal route by
+23          which Core Participants could seek to persuade the
+24          Inquiry team that there are issues that are of such
+25          centrality that they must be raised in the course of the
+    21
+
+ 1             witnesses' evidence. In Module 2B, we also intend to
+ 2             adopt a similarly informal approach, details of which
+ 3             will be provided to Core Participants when we get nearer
+ 4             the time of those substantive public hearings.
+ 5                 When providing those details, we will also seek to
+ 6             address the questions raised by Core Participants in
+ 7             their written submissions, such as those raised on
+ 8             behalf of John's Campaign and Relatives & Residents
+ 9             Association regarding the distribution of evidence
+10             proposals; Disability Wales and Disability Rights UK
+11             regarding, amongst other things, the timescales for
+12             receiving and commenting on evidence proposals; and the
+13             TUC and Wales TUC on the questioning by Core
+14             Participants of witnesses.
+15                 As well as the various procedures we currently have
+16             in mind, all of which are designed to maximise progress
+17             and also Core Participant involvement in the Inquiry's
+18             work, we propose a third preliminary hearing for Module
+19             2B should be held in November this year. At that
+20             hearing, a full update can be given on progress and
+21             plans for the public hearings, which would then follow
+22             in about two to three months' time later. We note the
+23             suggestion made by the Welsh Government that the third
+24             preliminary hearing should take place after the
+25             conclusion of the substantive hearings for Module 2A.
+    22
+
+ 1           In our opinion, this will be too late to allow for
+ 2           meaningful engagement by Core Participants and input in
+ 3           respect of a substantive public hearing starting in late
+ 4           February next year.
+ 5               Turning next to Every Story Matters, which is the
+ 6           name that will be given the Inquiry's listening exercise
+ 7           through which individuals will be able to communicate to
+ 8           us their experiences of the pandemic. It is part of the
+ 9           work of the Inquiry that it will gather and assimilate
+10          the accounts of people across the UK about the impact of
+11          the pandemic on their lives. Such is the breadth of
+12          human experience of the pandemic that this is really the
+13          only way in which the Inquiry can ensure that record is
+14          made of the accounts of those who wish to participate.
+15              In response to submissions made in Module 1, further
+16          information was made available in the Inquiry's marked
+17          newsletter about the details planned for the exercise.
+18          This newsletter can be accessed on the Inquiry's
+19          website.
+20              By way of overview the Inquiry has committed to
+21          providing different ways for people to share their story
+22          including a web form, with a save and come back feature,
+23          a phone line, a paper form and in-person community
+24          listening events, designed to reach seldom heard or
+25          underrepresented groups attended by, where possible,
+    23
+
+ 1             your Ladyship and other Inquiry staff members. These
+ 2             listening events shall be launched later this year and
+ 3             I should add there will be an ability to participate in
+ 4             different languages, including Welsh.
+ 5                 The Inquiry has committed to adopting
+ 6             a trauma-informed approach to the listening exercise and
+ 7             will provide emotional support. Experiences will be
+ 8             gathered and analysed by experts in research and
+ 9             analysis, not by media communications firms. Reports
+10             will be produced for each relevant module investigation
+11             and will be submitted as evidence to be disclosed to
+12             Core Participants and published as part of the hearings
+13             for each module of the Inquiry.
+14                 The way we plan to gather people's stories will help
+15             the Inquiry obtain as broad an evidence base about the
+16             impact of the pandemic as possible, to assist it in
+17             reaching robust findings and recommendations which take
+18             account of both cause and effect. The Inquiry team is
+19             grateful to all those who have recently participated in
+20             the webinar on Every Story Matters on 15 March and for
+21             all of the feedback which has been received in response
+22             to that exercise. The Inquiry is particularly grateful
+23             for the feedback received from John's Campaign and
+24             Relatives & Residents Association in their written
+25             submissions. The detail of this feedback and other such
+    24
+
+ 1               feedback will be taken on board for future webinars and
+ 2               communications about Every Story Matters, in particular
+ 3               regarding the participation of individuals with
+ 4               nonverbal communication needs.
+ 5                   The Inquiry team acknowledge the importance of Every
+ 6               Story Matters hearing from a diverse range of people who
+ 7               have been impacted and further details will be provided
+ 8               in due course.
+ 9                   I turn finally to commemoration. In order to fulfil
+10              its commitments to commemoration, the Inquiry has
+11              consulted widely on this issue. The result is that you,
+12              my Lady, have decided a tapestry should be created as
+13              a physical installation. Each panel will be created by
+14              a different artist, working with a particular community
+15              or communities to develop it. The intention is for the
+16              first panel to be unveiled at the UK's hearing centre in
+17              time for the first substantive hearings for Module 1 in
+18              June this year. This panels will be transportable to
+19              wherever we hold hearings in the UK so that people in
+20              Wales will be able to see them if they attend a hearing
+21              in person.
+22                  It is also planned that impact videos providing
+23              relevant insight into the harm and suffering caused by
+24              the pandemic will be shown at the start of each
+25              substantive hearing session. This will include the
+    25
+
+ 1             Module 2B substantive hearings in Wales. I would like
+ 2             to make special mention to the Welsh Covid Bereaved who
+ 3             have worked with the Inquiry team to pilot the first
+ 4             tapestry panel and shared their stories on camera last
+ 5             week, which will form part of our impact films to be
+ 6             played in June.
+ 7                 I hope what I have said brings those with
+ 8             an interest in Module 2B up to speed with the
+ 9             developments in our investigation and progress and sets
+10             out a roadmap as to how we intend to progress matters
+11             going forward, up to the point of our substantive public
+12             hearings in Wales next year. As already indicated,
+13             a further preliminary hearing for Module 2B is likely to
+14             be held in November this year, though I would reiterate
+15             that there will continue to be formal and informal
+16             opportunities for Core Participants to contribute to the
+17             work of the Inquiry.
+18                 May I again, on behalf of the Module 2B team, offer
+19             our thanks for the helpful contributions made by the
+20             Core Participants to this hearing and the continued
+21             contribution of Core Participants and other material
+22             providers to the work of the modules which proceeds at
+23             pace but thoroughly.
+24                 Unless, at this stage, my Lady there are any further
+25             matters with which I can assist you, those are my
+    26
+
+ 1               submissions.
+ 2           BARONESS HALLETT: Diolch, Mr Poole. I'm very grateful to
+ 3               you, thank you.
+ 4                   I think it is now time to call on Ms Bethan Harris.
+ 5                                 Submissions by MS HARRIS
+ 6           MS HARRIS: Good morning. Bore da.
+ 7           BARONESS HALLETT: Bore da.
+ 8           MS HARRIS: I appear to make submissions on behalf of
+ 9               Covid-19 Bereaved Families for Justice Cymru and I will
+10              confirm straightaway that I won't be going over the time
+11              that has been allocated to me and if my Lady is content
+12              I propose to speak in Welsh initially and then to
+13              translate the Welsh language part of my submissions into
+14              English and then to continue in English. Thank you.
+15                  Fel y gwyr y cadeirydd, grwp ydy Covid Bereaved
+16              Families for Justice Cymru gyda ffocws yn gyfangwbl ar
+17              ymgyrchu dros, a rhoi llais i rai sydd mewn profedigaeth
+18              oherwydd Covid-19 yng Nghymru.
+19                  Byddaf yn delio a'r testunnau canlynnol – Rhestr o
+20              faterion, Ceisiadau Rheol 9, tystiolaeth arbenigol, ac
+21              yn fyr -- y broses o ddatgelu a trefniadau ar gyfer
+22              gwrandawiadau a delio a tystiolaeth. Bydd hyn yn
+23              rhannol drwy gyfrwng y Gymraeg at wedyn yn Saesneg.
+24                  Rhestr o faterion
+25                  1. Diolch I'r CTI y bore ma am y wybodaeth mai'r
+    27
+
+ 1             bwriad you darparu rhestr o faterion erbyn dyddiad
+ 2             penodol.
+ 3                 2. Mae hi wedi bod o gymorth mawr i gael y rhestr
+ 4             dros dro o faterion are gyfer modiwl 1 -- mae hon yn
+ 5             ddogfen gynhwysfawr a defnyddiol.
+ 6                 3. Mae yna fantais mewn cynhyrchu rhestr or
+ 7             faterion dros dro cyn gynteg ag sy'n bosib.
+ 8                 Unwaith bod gan y cyfranogwyr craidd y rhestr
+ 9             materion bydd yn bosib paratoi yn fwy effeithiol.
+10                 Rheswm arall pan mae'n bwysig I gael y rhestr o
+11             faterion yw bod modiwlau'n cydberthyn au gilydd, a dim
+12             ond pan gawn weld rhestri materion i'r modiwlau sydd a
+13             testunnau sydd berthnasol a'u gilydd y gallem eu rhoi
+14             ochr wrth ochr a sicrhau bod materion sydd yn ymwneud a
+15             Chymru ddim wedi syrthio i fwlch rhwng modiwlau
+16             gwahannol.
+17                 I droi at beth dylsid cynnwys yn y rhestr o faterion
+18             ar gyfer Modiwl 2B.
+19                 4. Yn ein cyflwyniadau ysgrifenedig rydym wedi nodi
+20             rhai o'r materion my CBFJ Cymru o'r farn sy'n bwysig i'w
+21             cynnwys ym Modiwl 2B, sef yn arbennig:
+22                 (i) Sut ac i ba raddau wnaeth Llywodreath Cymru a
+23             llywodreath y Deyrnas Unedig ryngwethio a chyfarthrebu a
+24             rhannu gwybodaeth hefo eu gilydd -- yn arbennig
+25             gwybodaeth wyddonol ac arbenigol
+    28
+
+ 1               (ii) Beth wneath Llywodreath Cymru yn wahannol --
+ 2           camau a gymerwyd neu a na gymerwyd -- a oedd yn wahannol
+ 3           i'r rheiny a gymerodd llywodraeth y deyrnas unedig.
+ 4           Rydym wedi gweld yr awgrymiad synhwyrol a wnaed yng
+ 5           nghyflwyniadau ysgrifenedig y Mudiadau am Bobl Anabl --
+ 6           sef i arbenigwr i greu nodyn dros dro yn crynhoi
+ 7           gwahaniaethau allweddol rhwng rheolau a penderfyniadiau
+ 8           a wnaethpwyd gan y naill lywodreath, ac mae'r grwp dwy
+ 9           i'n ei gynrychioli yn cytuno byddai maintais mewn cael
+10          dogfen o'r math, a fyddai'n darparu man cychwyn i'r
+11          tystiolaeth a dadansoddiad i'r rhan yma o fodiwl 2B.
+12              As my Lady is aware, Covid-19 Bereaved Families for
+13          Justice Cymru are a Wales-focused group dedicated solely
+14          to campaigning for and giving voice to those bereaved
+15          due to Covid-19 in Wales.
+16              I propose to address you on the scope, the Rule 9
+17          requests, expert witnesses and then briefly on
+18          disclosure and arrangements for evidence and hearings.
+19              First with regards to scope, we have heard the
+20          helpful submissions from counsel to the Inquiry this
+21          morning and the aim that a list of issues will be made
+22          available by 12 May. We welcome bringing forward the
+23          provision of the list of issues and the provisional list
+24          of issues for comments that would be as soon as possible
+25          and we note that the provisional list of issues that is
+    29
+
+ 1             being made available in relation to Module 1 is a very
+ 2             comprehensive and helpful document.
+ 3                 We note also that, by having such a document, it
+ 4             enables progress to be made much more quickly in
+ 5             preparation for the main hearing and, inevitably,
+ 6             modules are inter-related and it is only when we have
+ 7             the list of issues for closely related modules, so that
+ 8             we can look at them together and compare them, that we
+ 9             can be sure that issues concerning Wales have not fallen
+10             between the gaps. This is the subject upon which we
+11             have also made submissions in relation to Module 3.
+12                 As to what the issues should include to be on that
+13             list, in the written submission, on behalf of the Covid
+14             Bereaved Families, we have highlighted some of the
+15             matters that the group consider are important to include
+16             in this Module 2B and these are, in particular, how and
+17             to what extent the Government of Wales and the UK
+18             Government interacted and communicated and shared
+19             information with each other, in particular scientific
+20             and expert knowledge and what the Welsh Government did
+21             differently, steps taken or not taken, that differ from
+22             those of the UK Government.
+23                 We have seen the helpful suggestion in the written
+24             submissions on behalf of the disabled people's
+25             organisations that there should be a provisional note
+    30
+
+ 1           summarising the key differences in regulations and
+ 2           decisions and those whom I represent endorse having such
+ 3           a document which, as regards this aspect of Module 2B,
+ 4           would be a good starting point for the evidence and
+ 5           analysis.
+ 6               Turning now to Rule 9 requests. The main submission
+ 7           on behalf of the bereaved families is as to the
+ 8           importance of including vulnerable and at-risk groups to
+ 9           whom Rule 9 requests are made and to include, within
+10          those groups, groups representing older people in Wales.
+11              Covid-19 Bereaved Families for Justice Cymru very
+12          much welcome that a corporate statement has been
+13          requested from the Older People's Commissioner for Wales
+14          and think this would be an important document but the
+15          group wishes to make the point that it is, of course,
+16          important that there are different perspectives as well
+17          that are sought from a wider group of organisations
+18          working on the ground.
+19              As regards Rule 9 requests, we, of course, have seen
+20          the monthly updates from the CTI and they provide very
+21          helpful information about the groups upon whom Rule 9
+22          requests have been served and we have heard also the
+23          very reassuring submissions that have been made this
+24          morning as to the further service of Rule 9 requests and
+25          the attention that is given to vulnerable and at-risk
+    31
+
+ 1             groups.
+ 2                 Our concern is that, as has been mentioned, that
+ 3             groups that speak on a nationwide basis may not be able
+ 4             to pay sufficient focus to Wales and we know that the
+ 5             CTI has heard that point and taken it on board.
+ 6                 We are also concerned as to whether there are
+ 7             sufficient groups upon whom Rule 9 requests have been
+ 8             served within Wales, that are Wales-specific groups,
+ 9             that are focused on older people. We ask that
+10             consideration is given, as I know it will be, having
+11             heard the reassurance from the Inquiry this morning --
+12             that consideration will be given to the list that we
+13             have suggested which includes at least one group
+14             relating to older people in Wales.
+15                 I wish to make some further points about the
+16             position of older people in Wales, in order to highlight
+17             the importance of bringing forward evidence about this
+18             group of the population in Wales. The numbers of older
+19             people, as a proportion of the population, are
+20             relatively high in Wales, the group over-65 being over
+21             one fifth of the population and those over 90 being
+22             higher relatively than other parts in the UK, being
+23             1 per cent of the population.
+24                 The pandemic had, and the Covid-19 Bereaved Families
+25             for Justice Cymru believes continues to have,
+    32
+
+ 1           a disproportionate impact on older people, in particular
+ 2           those living in the relatively deprived areas in Wales.
+ 3           A particular concern of the Covid Bereaved Families
+ 4           group is the extent of the hospital acquired Covid-19 in
+ 5           Wales and recent data shows that a high percentage of
+ 6           Covid-19 infection in Wales continues to be
+ 7           hospital-acquired infection. Covid-19 Bereaved Families
+ 8           for Justice Cymru are of a view that it is likely that
+ 9           older people feature heavily in that percentage of
+10          Covid-19 infections that are acquired in hospitals.
+11              For all these reasons, the bereaved families are
+12          concerned that the Inquiry should have a complete
+13          picture of the impact of the pandemic on older people in
+14          Wales.
+15              I would like to touch on that matter again when
+16          I deal with expert evidence and, turning now to expert
+17          evidence, there are two matters upon which I would like
+18          to address the Inquiry. We call on the Inquiry to
+19          instruct an expert to report specifically on the
+20          devolved decision making structures in Wales and how
+21          they interrelate, including in an emergency situation,
+22          and we have heard what the CTI submissions have said
+23          this morning and that they are considering such a report
+24          to be brought forward, and we are very reassured by that
+25          consideration and we endorse it.
+    33
+
+ 1                 The Welsh perspective and the impact of devolution
+ 2             on the competency and resilience of the Welsh Government
+ 3             does need to be properly explored, in our submission,
+ 4             and properly understood in this Inquiry. This report
+ 5             would provide an essential evidential foundation from
+ 6             which the issues of concern to the Inquiry can be
+ 7             explored and developed in relation to Wales. This is
+ 8             particularly so, given that there will inevitably be
+ 9             limited time for the oral hearing. Put simply, it saves
+10             time to have such a report.
+11                 There is a need, we submit, for detailed expert
+12             evidence such as this focusing specifically on the Welsh
+13             perspective, as regards devolved institutions. We have
+14             drawn attention in our written submissions as to how,
+15             when matters are dealt with at a national level, there
+16             does tend to be an emphasis on UK-wide institutions and
+17             English institutions, rather than those of the devolved
+18             nations.
+19                 I would like to mention the expert evidence that is
+20             to be brought forward in relation to structural
+21             discrimination and Covid-19 Bereaved Families for
+22             Justice Cymru welcomes your Ladyship's rulings on
+23             reporting on structural racism and for the exploration
+24             of expert evidence on discrimination on other grounds
+25             and on intersectional issues and endorses the invitation
+    34
+
+ 1           that was made this morning in submissions to the Inquiry
+ 2           for there to be a Wales-specific reporting on these
+ 3           issues, in relation to structural racism and other forms
+ 4           of discrimination.
+ 5               I would like to address the Inquiry specifically
+ 6           with regards to the importance of bringing forward
+ 7           expert evidence with regards to the impact of the
+ 8           pandemic on older people in Wales. This is necessary in
+ 9           my submission in order to understand the characteristics
+10          of this at-risk cohort and it is also necessary in order
+11          to have a clear evidential foundation as to the impact
+12          of the pandemic on this group.
+13              Again, it will save time at the hearing where time
+14          will inevitably be tight. It will contribute towards
+15          ensuring that matters concerning Wales are properly
+16          scrutinised, do not get lost and not properly looked at
+17          in the great amount of material that there is to be
+18          considered in this UK-wide Inquiry and so that the best
+19          time can be made out of the time that there is for the
+20          focus on Wales.
+21              Again, we would like the opportunity as a group to
+22          communicate with the Inquiry with regards to suggestions
+23          for a suitable expert to deal specifically with the
+24          older people dimension.
+25              Turning briefly to disclosure. We have heard that
+    35
+
+ 1             the Inquiry team is, of course, doing its best to deal
+ 2             with disclosure as quickly as possible and we encourage
+ 3             them, of course, to continue to do so and we are very
+ 4             grateful for those efforts.
+ 5                 With regards to the hearing timetable, we have heard
+ 6             this morning that it is proposed that the length of the
+ 7             hearing will be three weeks. That, of course, is
+ 8             a positive development. Nevertheless, there is concern
+ 9             amongst those in the group whom I represent about there
+10             being sufficient time for the scrutiny that is required
+11             as a result of this hearing in Module 2B.
+12                 There is a deep concern on the part of the group
+13             that it's proposed to cover the impact and handling of
+14             the pandemic within what was two weeks but even now
+15             three weeks. The group is concerned that this may not
+16             allow for adequate scrutiny nevertheless, even with the
+17             extra time. There is no other Inquiry for Wales, the
+18             First Minister having, of course, refused
+19             a Wales-specific Inquiry akin to the Scottish Public
+20             Inquiry in reliance on this Inquiry. The concern is
+21             that the devolved Welsh Government will escape full
+22             scrutiny and we invite consideration of a further
+23             extension of the time allocated to this module.
+24                 We once again would like to endorse and reiterate
+25             the suggestion which has been made by the TUC that
+    36
+
+ 1               a short hearing be listed after all the Module 2
+ 2               submodule hearings are completed in order to take
+ 3               account of the lessons learned across all the modules.
+ 4                   Finally, with regards to hearings, we hear that it
+ 5               is the intention that the Inquiry will provide
+ 6               translation facilities into Welsh and, of course, we
+ 7               welcome this.
+ 8                   With regards to the evidence proposal and Rule 10,
+ 9               we welcome the process of providing for an informal
+10              approach in order to be able to speak to the Inquiry
+11              team in relation to the evidence proposals and proposed
+12              questions and we note the confirmation that this
+13              informal process does not, in any way, impede the rights
+14              under Rule 10.4 to apply to the Chair for permission to
+15              ask questions or CPs to be able to ask such questions of
+16              witnesses in their own right and we submit that this is
+17              an important right which serves to increase public
+18              confidence in the Inquiry.
+19                  Finally, Covid-19 Bereaved Families for Justice
+20              Cymru welcomes the work on commemoration and Every Story
+21              Matters and wishes to reiterate its commitment to
+22              assisting with the development of this project.
+23                  Thank you. Those are my submissions.
+24          BARONESS HALLETT: Diolch, Ms Harris. Very grateful to you,
+25              both for your helpful submissions and for the extremely
+    37
+
+ 1                helpful co-operation members of Bereaved Families for
+ 2                Justice Cymru have been giving to the listening exercise
+ 3                and commemoration project. I hope that those who
+ 4                participated in the filming, which is obviously so
+ 5                important for us, didn't find it too distressing but you
+ 6                have been giving us great co-operation and we are
+ 7                really, really grateful. Thank you.
+ 8             MS HARRIS: Thank you.
+ 9             BARONESS HALLETT: Mr Straw, I think, next.
+10             MR STRAW: Good morning. Can you hear me, my Lady?
+11             BARONESS HALLETT: I can Mr Straw, thank you.
+12                                 Submissions by MR STRAW
+13             MR STRAW: Thank you. Bore da. I represent, as you are
+14                aware, my Lady, John's Campaign and the Relatives &
+15                Residents Association, who broadly represent the
+16                interests of those in care, their loved ones and their
+17                carers.
+18                    If I may, I propose to address seven topics and to
+19                do so roughly in the order that they appear in our
+20                written submissions. The first is the question of
+21                timing of the hearing.
+22                    The Inquiry, of course, faces a gargantuan task and
+23                has already made extremely impressive progress in its
+24                various modules but I would like to highlight, if I may,
+25                one of the reasons why delay in this area is a concern
+    38
+
+ 1               to my clients. There is a pressing need to make
+ 2               recommendations which concern the care sector in
+ 3               particular and that's because restrictions and very
+ 4               onerous restrictions continue to be in place in the care
+ 5               sector. It is very important for the carers, the people
+ 6               who are being cared for, and so on, that those
+ 7               restrictions are reviewed and changed if necessary.
+ 8                   The next topic is the list of issues. We welcome
+ 9               counsel to the Inquiry's proposals about this, including
+10              the date, which is a prompt date of 12 May, that the
+11              list of issues will be produced. It is important that
+12              those are finalised as soon as they can be because those
+13              should be used to inform further requests under Rule 9,
+14              requests for disclosure and potentially decisions about
+15              expert evidence.
+16                  The third topic is a rather longer one, it is the
+17              question about additional witnesses and whether
+18              additional witnesses, over and above the very long list
+19              that have been already Rule 9-ed by the Inquiry, should
+20              be called. In our written submissions in paragraph 7 we
+21              touch upon this issue but note there that we are taking
+22              instructions in light of the recent disclosure about
+23              whether additional witnesses ought to be Rule 9-ed.
+24                  We have now taken instructions about that and have
+25              some more detail we can put forward about our
+    39
+
+ 1                suggestions. We will write a letter with this detail in
+ 2                it to make sure that it is all entirely clear and in
+ 3                writing but I hope it assists just to go over our
+ 4                suggestions at this point.
+ 5                    Our main concern is the issue of the extent to which
+ 6                the care sector featured or should have featured in core
+ 7                decision making.
+ 8                    Now, I am sure that won't be controversial, not
+ 9                least because in the letter granting our clients CP
+10                status, my Lady, you said that our clients were well
+11                placed to assist the Inquiry in Module 2B as to whether
+12                those interests -- those whose interest we represent,
+13                including those requiring care and those providing such
+14                care were considered as part of the process of core
+15                political and administrative decision making in response
+16                to Covid-19.
+17                    I hope it helps to briefly summarise a few of the
+18                reasons why it is important that the interests of those
+19                in the care sector were considered in respect of core
+20                decision making. The care sector was really at the
+21                sharp end of the pandemic response. That's, in part,
+22                because those in the care sector were among the most
+23                vulnerable in society but it is in part because the need
+24                for care meant that the restrictions which were then
+25                imposed in many cases denied people the treatment, the
+    40
+
+ 1           care, the support and the company that they so dearly
+ 2           needed.
+ 3               There is another reason why the care sector should
+ 4           have had an important part in core decision making which
+ 5           is that it had a knock-on effect for a number of other
+ 6           areas of government, for example decisions as to whether
+ 7           people could be discharged from hospital, often depended
+ 8           on the availability of care outside hospital.
+ 9               The current proposals by counsel to the Inquiry as
+10          to which witnesses will be called, relevant to the issue
+11          of care core decision making in Wales, appear largely to
+12          be in annex A to the update note in December 2022, under
+13          the heading of "Older People".
+14              Now, three of those -- Age UK, Care England and the
+15          National Care Forum -- appear to us to be England-based
+16          and to not include Wales. So it appears to us that they
+17          have relationships with Welsh equivalents but don't
+18          necessarily cover that.
+19              The fourth proposal in the CTI's older people
+20          category was the Homecare Association. We understand
+21          that is a UK-wide body. It is an important body but it
+22          is relatively limited so it covers homecare providers.
+23              With that context in mind, we have a number of
+24          further suggestions for additional witnesses, which
+25          cover care and Wales specifically. So the first of them
+    41
+
+ 1             is Age Cymru, which is, as we understand it, the
+ 2             equivalent to Age UK in Wales, so it covers those needed
+ 3             care. Secondly, Care Forum Cymru, that, as we
+ 4             understand it, is the equivalent to the National Care
+ 5             Forum but the Welsh version, and that is representing
+ 6             providers. Thirdly, the Carers Trust Cymru or
+ 7             alternatively Carers Wales, and that's a body which
+ 8             represents unpaid carers.
+ 9                 The fourth suggestion we have is Professor Adam
+10             Gordon, he is a suggestion for an expert witness in this
+11             area. He is the professor of care of older people in
+12             the University of Nottingham. He was the author of the
+13             British Geriatrics Society Guidance on Covid-19 in Care
+14             Homes and we will provide a CV so that the Inquiry team
+15             can consider him and make decisions about that.
+16                 Sticking with expert evidence, in paragraph 12 of
+17             our written submissions we made suggestions for two
+18             other experts, I hope it helps if I briefly mention
+19             those. The first of them is an expert about the issue
+20             in paragraph 8.3 of our written submissions. That is
+21             the issue of the extent to which core decisions were
+22             evidence based, for example whether evidence was
+23             obtained about the adverse impact of non-pharmaceutical
+24             interventions and how that fed into core decisions. We
+25             have suggested Professor Carl Heneghan as an expert in
+    42
+
+ 1           that area.
+ 2               The second expert suggestion relates to the issue in
+ 3           paragraph 8.4 of our submissions. This is the extent to
+ 4           which individual autonomy, individual rights and
+ 5           capacity were taken into account in making core
+ 6           decisions and we have suggested Dr Lucy Series gives
+ 7           evidence about that. She has expertise in law, policy
+ 8           and medicine, so may be well placed to assist the
+ 9           Inquiry on that point.
+10              So that's additional Rule 9s. The fourth issue
+11          which I would like to turn to, if I may, is further
+12          questions to existing witnesses or further requests for
+13          disclosure. Now, we are in difficulty at the moment to
+14          identify specific further questions or specific further
+15          disclosure and that's because we haven't yet received
+16          the Rule 9 statements themselves or the majority of the
+17          disclosure that comes with them. So, at this stage, all
+18          we have done is put forward some suggestions for general
+19          questions and we have asked the Inquiry legal team to
+20          consider them and consider ensuring that sufficient
+21          witnesses have been asked about them and sufficient
+22          questions have been asked.
+23              But just to give a couple of examples of those
+24          general topics we have put forward: they are set out in
+25          paragraph 8 of our written submissions, together with
+    43
+
+ 1             our 15 February letter.
+ 2                 One example is Public Health Wales, so the extent to
+ 3             which advice by Public Health Wales was taken into
+ 4             account in core decision making. We give an example
+ 5             about that which is a particular document where Public
+ 6             Health Wales in July 2021 recommended that care homes no
+ 7             longer should be closed, in other words the closure of
+ 8             care homes was no longer proportionate. We give that as
+ 9             an example of an issue which we suggest should be
+10             explored, the extent to which that Public Health Wales
+11             advice was followed in core decision making.
+12                 Another example is in paragraph 8.2 of our written
+13             submissions, which concerns the balance between what's
+14             been called direct harm and indirect harm in core
+15             decision making. Direct harm is defined, as
+16             I understand it, in the disclosure as being the harm
+17             that comes from Covid, whereas indirect harm is the harm
+18             that comes from the response to it, so the measures that
+19             had been put in place to protect people from Covid.
+20                 The issue is to what extent in core decision making
+21             was that balance taken into account. So were there
+22             structures in place or systems to help people make that
+23             balance, were there decisions made centrally or policies
+24             put in place regarding how that balance should be struck
+25             and how it should be analysed. Again, we give
+    44
+
+ 1           an example in our submissions about the care context
+ 2           and, again, really the sharp end of decisions of balance
+ 3           made in this field and suggest that statements are taken
+ 4           and questions are asked about particularly that issue,
+ 5           about how the balance was struck.
+ 6               Moving forwards, we would be grateful for
+ 7           an opportunity to put forward more specific suggestions
+ 8           to the Inquiry legal team about what further questions
+ 9           should be asked and what further disclosure should be
+10          obtained. We would be much better placed to be able to
+11          do so once we have seen the disclosure and the witness
+12          statements, of course. If we do so now it is likely to
+13          lead to duplication but we propose that once we receive
+14          the first bulk of witness statements and disclosure,
+15          then Core Participants at that point have an opportunity
+16          to make suggestions to the Inquiry legal team as to what
+17          further specific questions should be asked and then it
+18          is factored into the timetable the Inquiry legal team's
+19          consideration of that matter, any further requests that
+20          they decide are appropriate and then time for the Rule 9
+21          responders to produce further witness statements and
+22          produce further disclosure.
+23              It may be difficult to do it at this stage but we
+24          suggest consideration is given to timetabling those
+25          various steps, so the production of the first round of
+    45
+
+ 1             disclosure to us, our responses to it, specific
+ 2             questions raised by us, CTI's consideration and then
+ 3             responses by the Rule 9 individuals.
+ 4                 I hope it helps, at this stage, just to give
+ 5             a couple of examples of the type of specific questions
+ 6             which we may ask in order to illustrate the sort of
+ 7             process that we are proposing. One broad issue that we
+ 8             have raised is the extent to which, in core decision
+ 9             making, existing legal and regulatory duties were taken
+10             into account.
+11                 One quite specific topic in that context concerns
+12             the Welsh Government dementia strategy. This was
+13             a strategy brought in before the Covid response and the
+14             question is to what extent was that taken into account
+15             in core decision making. We would seek to ensure that
+16             the Inquiry has asked the part of the Welsh Government
+17             that was particularly responsible for the dementia
+18             strategy -- and, as we understand it, that is the
+19             Dementia Oversight of Implementation and Impact Group
+20             that monitors the implementation of the strategy -- we
+21             would seek to ensure that the Inquiry has made Rule 9
+22             requests for a response from that group, that the
+23             Inquiry has asked for relevant documents, so there is
+24             a dementia action plan. There was a policy concerning
+25             Covid and dementia that was brought in in September
+    46
+
+ 1           2021, and those minutes of the Impact Group, and we
+ 2           would also like to ensure that specific questions were
+ 3           asked of the relevant witnesses about this issue.
+ 4               Another example -- and I hope this helps to
+ 5           illustrate the approach that we are proposing -- is the
+ 6           public sector equality duty. Again, we would want to
+ 7           ensure that questions have been asked of relevant
+ 8           witnesses about whether that duty was complied with and
+ 9           records of any consideration of that duty in terms of
+10          core decision-making.
+11              There are also likely to be further follow up
+12          questions that we will propose in respect of the witness
+13          statements and the disclosure that's ultimately
+14          received. To pick a couple of examples, the disclosure
+15          so far contains, in certain respects, some pretty broad
+16          brush assertions. So, for example, responses along the
+17          lines of "We engaged with stakeholders". Now, if the
+18          witness statements themselves are similarly broad brush,
+19          then we would invite the Inquiry to send further
+20          specific questions to those Government bodies and others
+21          who respond in that way, for example, "Exactly how did
+22          you engage, with whom and what did you say?"
+23              Similarly, so far the disclosure contains little
+24          about the impact on individuals and how that fed into
+25          core decision making. So far, it largely concerns
+    47
+
+ 1             financial or structural issues. Now, we appreciate, of
+ 2             course, that we have had very little of the disclosure
+ 3             that's pending so far but, again, that is an area where,
+ 4             if the witness statements themselves are similarly broad
+ 5             brush, then we will invite the Inquiry to make specific
+ 6             requests along those lines.
+ 7                 So that is the topic of further witness questions.
+ 8                 The fifth issue that I hope to cover is the Rule 10
+ 9             proposals. Thank you for providing us at this early
+10             stage with those proposals, it is very useful. In
+11             paragraph 13 of our written submissions we raise
+12             a number of questions for clarification as to how that
+13             might work. Two examples are as follows:
+14                 Firstly, the process that's being proposed largely
+15             concerns preparation in advance but often the most
+16             important questions will arise during the witness's own
+17             evidence or during evidence given shortly before that
+18             witness.
+19                 We invite the Inquiry to ensure that some process is
+20             brought in to ensure that the Core Participants can
+21             effectively participate in those sort of later stage
+22             questions. So they can propose questions that arise
+23             from the witness's own evidence or evidence that's given
+24             shortly before it.
+25                 Now, it may be and in our experience we find it
+    48
+
+ 1              often is the most effective and efficient way of doing
+ 2              that, simply to give Core Participants an opportunity to
+ 3              ask their own questions, provided, of course, they are
+ 4              limited to exactly what's come on the day but, at the
+ 5              very least, we invite the Inquiry to consider that
+ 6              matter.
+ 7                  Another example of the issues of clarification is
+ 8              about expert topics. So, it may be that some of the
+ 9              topics that are going to be put to witnesses, the Core
+10             Participants, particularly Core Participants, have
+11             a special expertise in that topic. For example, it may
+12             be about disability and you may think that the
+13             disability groups are best placed to ask those
+14             questions. We would ask the Inquiry team to consider at
+15             least whether in certain respects Core Participants
+16             might be asked to put questions in the first instance,
+17             if they have a special expertise.
+18                 The sixth topic is another short one. It is
+19             parliamentary privilege. We agree with the approach
+20             proposed by counsel to the Inquiry and agree also that
+21             no ruling is necessary from you at this stage, my Lady.
+22             But in our submissions we drew attention to a few of the
+23             exceptions that arose to the ordinary rule against
+24             parliamentary privilege. The main reason for doing so
+25             at this stage is really to encourage the people who are
+    49
+
+ 1                 going to be responding to the Inquiry's requests for
+ 2                 information about this area to be open and thorough
+ 3                 about it and, as we explained there, there are a number
+ 4                 of exceptions, if it comes to it, to the parliamentary
+ 5                 privilege rule which may be relevant to this Inquiry.
+ 6                     The last area concerns the listening exercise. In
+ 7                 Module 3, we made submissions about the listening
+ 8                 exercise, which I don't propose to repeat here, other
+ 9                 than just to briefly summarise. So our submissions
+10                 firstly sought clarification on how the listening
+11                 exercise will inform the evidence sessions and the main
+12                 reason for that is to encourage people to engage in the
+13                 listening exercise. People are much less likely, as far
+14                 as we understand it, to engage if they think there is no
+15                 point doing so.
+16                     So we sought clarification as to how it may inform
+17                 the evidence. We also sought clarification in respect
+18                 of reasonable adjustments, so what adjustments are made
+19                 to ensure that people who have difficulty communicating
+20                 and understanding can be involved in it? The reason for
+21                 raising those points in this module is that, if
+22                 anything, there is a more pressing need for those
+23                 changes to be made in respect of this module and that's
+24                 because of the timetabling and the hearing here being
+25                 sooner than that in Module 3.
+    50
+
+ 1                  As we understand it, the process is that there will
+ 2              be the listening exercise first, a report produced
+ 3              summarising it and then that will be disclosed to Core
+ 4              Participants. That would indicate that the listening
+ 5              exercise itself, so far as it relates to this module,
+ 6              needs to conclude within the future three or four
+ 7              months, in order that it can be properly taken into
+ 8              account.
+ 9                  So we suggest that there is a pressing need for
+10             those clarifications to be made.
+11                 That's all I hope to address unless there's anything
+12             else you would like me to address, my Lady, those are my
+13             submissions.
+14          BARONESS HALLETT: No, I'm very grateful, Mr Straw. Thank
+15             you very much. You reminded me of my words when
+16             I granted the two organisations you represent Core
+17             Participant status that they would be well placed to
+18             assist and that's exactly what they have been doing.
+19             I'm very grateful to you for your submissions and their
+20             very constructive response.
+21                 As far as the listening exercise is concerned, may
+22             I assure everyone there is very much a point to
+23             participating in it. I wish to hear from people and
+24             I wish to bear very much in mind and take into account
+25             when reaching any conclusions and making recommendations
+    51
+
+ 1                 the experience of people across the United Kingdom of
+ 2                 the pandemic. So please reassure those you represent
+ 3                 that we are doing everything possible to allay any
+ 4                 concerns that Core Participants may have and to
+ 5                 encourage them to participate in what would be a very,
+ 6                 very purposeful exercise.
+ 7                     So thank you very much for your submissions.
+ 8                 I think now will be time to take a break. We shall come
+ 9                 back after the break to Mr Jacobs, Mr Friedman and
+10                 Ms Henke. Thank you.
+11             (11.13 am)
+12                                       (A short break)
+13             (11.30 am)
+14             BARONESS HALLETT: Apologies for the fact that I forgot to
+15                 say how long the break would be today.
+16                     Right, I think now it is time to call on Mr Jacobs
+17                 for the Wales Trades Union Congress.
+18                                   Submissions by MR JACOBS
+19             MR JACOBS: Good morning, my Lady, bore da.
+20                     I represent the Trades Union Congress, the TUC, and
+21                 also the Wales Trades Union Congress. The TUC in this
+22                 Inquiry seeks to bring forward the voice and experiences
+23                 of the 5.5 million individuals who make up its 48 member
+24                 unions. That includes members who live and work in
+25                 Wales.
+    52
+
+ 1               The Wales TUC is part of the TUC, it represents in
+ 2           the region of 400,000 workers in Wales through its
+ 3           affiliated unions. Those member unions span an array of
+ 4           sectors, all of which were affected by the pandemic.
+ 5           The members of the affiliated unions include a very
+ 6           significant number of key workers, who provided vital
+ 7           services, who kept people in Wales cared for, fed, able
+ 8           to access basic goods and services they needed to live
+ 9           and tended to them when they were sick.
+10              For the purposes of this module, the Wales TUC has
+11          provided a detailed response to a Rule 9 request from
+12          the module to the team. My Lady, for the purposes of
+13          these oral submissions I am going to emphasise a few
+14          points of the written submissions. Of course, I stand
+15          by the remainder.
+16              The first issue I'm going to turn to is the
+17          timetabling for the final hearing.
+18              As I understand matters, it remains the case that 14
+19          hearing days are timetabled to consider the core
+20          political and administration decision making in Wales
+21          throughout the pandemic. With some time allocated for
+22          submissions, it is perhaps just 12 or 13 days of oral
+23          evidence. It is presently the only hearing stated to be
+24          taking place in Wales and focused exclusively on the
+25          pandemic in Wales. Without a list of issues or the
+    53
+
+ 1             opportunity to review any witness statements, it is, of
+ 2             course, difficult to meaningfully submit as to how long
+ 3             precisely the hearing needs to be. But we can say,
+ 4             however, that to us 14 days seems extraordinarily short.
+ 5                  As we see it, there are really two difficulties.
+ 6             The first is a problem of appearance, of it appearing
+ 7             that the Wales hearing is the poorer relative of more
+ 8             robust consideration given in relation to Westminster
+ 9             decision making in Module 2. There is also, secondly,
+10             the problem of being able to meaningfully test an array
+11             of complex issues in a mere 12 or 13 days of evidence.
+12                  An Inquiry of this scale, which does have
+13             a compelling need to progress speedily, must inevitably
+14             proceed with taking a significant proportion of evidence
+15             in writing, rather than orally. That is understood.
+16             Even so, the current estimate appears to us to be
+17             problematically short.
+18                  As you will have seen in our written submission, for
+19             the present what we ask is that whatever practical
+20             arrangements the Inquiry is making for the hearings in
+21             Wales, it retains scope for extending it. It may be
+22             however, my Lady, that you decide, instead, to grasp the
+23             nettle now and extend the timetable. Perhaps
+24             realistically, that will be inevitable.
+25                  When it comes to the next preliminary hearing, we
+    54
+
+ 1           will have a significant number of witness statements
+ 2           before us, perhaps a deluge of documents and it may be
+ 3           very helpful to know in advance of that preliminary
+ 4           hearing, rather than after, whether there is scope for
+ 5           extending the timetabled hearings.
+ 6               In relation to the next preliminary hearing,
+ 7           Mr Poole has indicated this morning a proposal that it
+ 8           be held in November of this year. We say that seems to
+ 9           be eminently sensible. We agree that any later would be
+10          too late, with the substantive hearing starting at the
+11          end of the following February.
+12              My Lady, I turn to Rule 9 requests. In relation to
+13          evidence sought from bodies relevant to at-risk and
+14          vulnerable groups, you will have seen the concern raised
+15          in writing from the TUC and the Wales TUC as to Rule 9
+16          requests made across the four parts of Module 2 and the
+17          importance of seeking Welsh-specific evidence.
+18              All I would say about that now is that counsel to
+19          the Inquiry, from remarks made this morning, has clearly
+20          heard the points and we are very grateful for that. For
+21          the present, I say no more, other than if there is
+22          a need in due course to make further Rule 9 requests of
+23          Welsh bodies, we will of course assist where we can.
+24              The Inquiry has already sought expert evidence on
+25          the arrangements for devolution from Professor
+    55
+
+ 1             Henderson, as we have heard. In our written submission,
+ 2             paragraph 10, we suggested that there would be value in
+ 3             obtaining a report specifically on Welsh devolution from
+ 4             an expert who is specifically immersed in the
+ 5             Welsh-specific issues and we note with interest that
+ 6             an identical suggestion has been made by the Covid-19
+ 7             Bereaved Families, Cymru. For our part, we suggested
+ 8             Professor Emyr Lewis, from Aberystwyth Law School who
+ 9             was recently appointed on a panel of experts advising
+10             the Independent Commission on the Constitutional Future
+11             of Wales and has given evidence to UK and Welsh
+12             parliamentary committees on devolution.
+13                  The Covid-19 Bereaved Families Cymru have made
+14             a different suggestion as to the identity of the expert
+15             and we note that with interest and, from our
+16             perspective, it is the principle of seeking such
+17             evidence about which we have a particular strong view,
+18             rather than who that person may be.
+19                  I turn then to the importance of seeking, in this
+20             module, Rule 9 evidence from the Health and Safety
+21             Executive. We have previously invited Rule 9 evidence
+22             from the Health and Safety Executive, the HSE, in
+23             Module 2 and indeed in other modules and we understand
+24             that the Module 2 team is now doing so. That is welcome
+25             and important. The HSE is the GB-wide regulator for
+    56
+
+ 1               health and safety at work. It had a role to play in
+ 2               providing guidance to employers and also in the
+ 3               monitoring and enforcement of workplace safety,
+ 4               including non-pharmaceutical interventions.
+ 5                   It is important, however, in our submission, that
+ 6               a bespoke Rule 9 request is made of the HSE by the
+ 7               Module 2B team because the position in Wales does give
+ 8               rise to distinct issues, which warrants distinct and
+ 9               separate consideration.
+10                  The framework for the HSE is different in Wales as
+11              public health responsibility is devolved, albeit the HSE
+12              has workplace health and safety jurisdiction. The Welsh
+13              Government emergency Public Health Legislation gave
+14              powers to the police and local authorities to enforce
+15              social distancing in all premises and the HSE and local
+16              authorities were responsible for local enforcement
+17              arrangements for the emergency legislation,
+18              complimentary to health and safety law.
+19                  The Wales TUC highlighted, during the course of the
+20              pandemic, a lack of coordination in ensuring workplace
+21              safety. Partly in response to those concerns, the Welsh
+22              Government set up a health and safety forum for Wales
+23              which brought together the HSE, local authorities,
+24              employers and the Welsh Government in their attempt to
+25              improve regulation in Wales.
+    57
+
+ 1                 It is important, we say, that we better understand
+ 2             the HSE's decision-making actions in Wales during this
+ 3             period and, of course, its interactions with the Welsh
+ 4             Government as is the key focus of this module.
+ 5                 We say a specific Rule 9 is important, not only to
+ 6             capture those specific issues but there may also be
+ 7             a need for evidence from the HSE at the final
+ 8             substantive hearing and it may well be that the HSE
+ 9             witness best placed to give evidence in relation to
+10             Wales, initially via a Rule 9 response but also in oral
+11             evidence, may not be the same witness best placed to
+12             give evidence in relation to England and interactions
+13             with Westminster.
+14                 My Lady, that's what we had to say about Rule 9s.
+15             On the seeking of expert evidence regarding structural
+16             discrimination, we have heard an invitation from counsel
+17             to the Inquiry this morning for you to adopt the same
+18             approach you have adopted in Module 2 in this module.
+19             All I say, on behalf of the TUC and the Wales TUC, is
+20             that we endorse that wholeheartedly.
+21                 My Lady, one issue that we have raised previously
+22             and I do raise again is what we have described as
+23             "strand tying" submissions. As it appears to us, once
+24             the Inquiry has heard the evidence in Module 2 but also
+25             in modules 2A, 2B and 2C, there may well be a need for
+    58
+
+ 1               a short strand tying hearing, eager to hear evidence
+ 2               where issues have cropped up and/or for submissions and
+ 3               Ms Gallagher addressed you on those in Module 2A and I'm
+ 4               not going to repeat in full what she said there. What
+ 5               we invite is that the Inquiry should keep in its plans
+ 6               a provision for such a hearing to be facilitated.
+ 7                   Finally, my Lady, and briefly, the listening
+ 8               exercise. The short point is that we strongly endorse
+ 9               the importance of the listening exercise and we wish to
+10              put that on record. It will be important that the
+11              listening exercise captures the experiences of those at
+12              work during the pandemic and both the TUC and the Wales
+13              TUC stands ready to assist in that regard.
+14                  My Lady, unless I can assist further.
+15          BARONESS HALLETT: No, thank you very much indeed,
+16              Mr Jacobs, and thank you also for the support that you
+17              offered the listening exercise and I know that we shall
+18              be calling upon offers of assistance of that kind. So
+19              thank you very much indeed.
+20                  Mr Friedman KC?
+21                             Submissions by MR FRIEDMAN
+22          MR FRIEDMAN: My Lady, we act for Disability Wales and
+23              Disability Rights UK and this is their first appearance
+24              in Module 2B and can we thank Mr Poole KC and his team
+25              for the way they have updated us and welcomed us into
+    59
+
+ 1             this part of what is a unique four nation Inquiry
+ 2             process.
+ 3                 As we did with Scotland last week, can I briefly
+ 4             summarise some Welsh reference points that provide
+ 5             an initial route into understanding how the risk to
+ 6             disabled people was governed during Covid.
+ 7                 My Lady, you and your team must adopt many lenses to
+ 8             scrutinise the events this Inquiry is tasked with
+ 9             exploring. We speak for a particular but essential lens
+10             because of the triple jeopardy that disabled people
+11             faced during the pandemic, which was: first, far more
+12             fatal Covid outcomes; second, being cut off from other
+13             acute healthcare and treatment to fatal and damaging
+14             effect; and, third, the disproportionate impact of
+15             lockdowns and related measures.
+16                 In Wales, the statistics on that triple jeopardy are
+17             stark. 68 per cent of deaths from Covid-19 between
+18             March and July 2020 were among disabled people. Their
+19             exposure was foretold by Government studies in the two
+20             years before the emergency. 39 per cent of disabled
+21             people in Wales were in poverty compared with 22 per
+22             cent of non-disabled people and the poverty rate amongst
+23             disabled people in Wales was the highest in all of the
+24             UK. There was lower mental wellbeing among disabled
+25             adults, disabled people faced significant barriers in
+    60
+
+ 1           accessing healthcare, including access to health checks,
+ 2           suitably trained staff and rehabilitation services.
+ 3               Although not its authors, the Welsh Government
+ 4           recognised that austerity law and policy, reserved to
+ 5           the UK Parliament, had "blighted the lives of disabled
+ 6           people in Wales and had a devastating impact on
+ 7           thousands of individuals, carers and families".
+ 8               In terms of using human rights approaches to
+ 9           comprehend what occurred in the relationship between the
+10          state and disabled people during Covid we ask you to
+11          note that the approach to disability and related rights
+12          in Wales is different to the law and policy of the UK
+13          Government in four ways:
+14              First, the Welsh Government produced a framework for
+15          action on independent living in 2013 and updated it in
+16          2019, which sets out how it plans to fulfil its
+17          obligations under the United Nations Convention on the
+18          Rights of Persons with Disabilities, the UNCRPD. You
+19          know something similar has been done in Scotland.
+20              However, Wales is the only part of the UK where
+21          codes of practice issued under the Social Services and
+22          Well-Being (Wales) Act 2014 require local authorities to
+23          have due regard to the UNCRPD when exercising their
+24          functions in relation to disabled people and their
+25          carers. Secondly, the obligations under the Convention
+    61
+
+ 1             that disabled people must be included in law and policy
+ 2             making to collaborate in their co-design and
+ 3             co-production was accepted by the Government of Wales
+ 4             prior to the pandemic.
+ 5                 It also finds statutory expression in the Well-Being
+ 6             of Future Generations (Wales) Act 2015, that requires
+ 7             public bodies to adopt an integrated, inclusive and
+ 8             collaborative approach to service delivery. The Welsh
+ 9             Government sees this as an obligation to focus on giving
+10             people and communities a voice in how their services are
+11             provided.
+12                 Thirdly, the Welsh Government, like the Scottish
+13             Government, but not yet the UK Government or Northern
+14             Irish Government, has formally supported the social
+15             model approach since 2002 and reaffirmed its commitment
+16             to it in December 2022. In the words of the Disability
+17             Rights Task Force it seeks:
+18                 "... solutions to challenge the structural, physical
+19             and attitudinal barriers that disabled people face.
+20             Structural discrimination is therefore taken as a given
+21             and its recognition an essential condition for change.
+22             Likewise, intersectional understanding is accepted as
+23             a necessary discipline by the Welsh Government declaring
+24             in terms that it is very important that disability
+25             action policy is closely linked to other aspects of
+    62
+
+ 1           equality, including other protected characteristics, as
+ 2           defined by the Equality Act ..."
+ 3               It goes on to add:
+ 4               "... and perhaps most importantly issues relating to
+ 5           income and poverty."
+ 6               Fourthly, the mitigation of inequalities has been
+ 7           fashioned into legal duty prior to the pandemic. The
+ 8           future generations' wellbeing Act of 2015 placed on
+ 9           a statutory footing a set of wellbeing goals that
+10          includes developing a more equal Wales, defined in
+11          section 4 of the Act as a society that enables for
+12          people to fulfil their potential no matter what their
+13          background or circumstances, including their
+14          socioeconomic background and circumstances.
+15              Since March 2021, Wales has brought into force
+16          section 1 of the Equality Act 2010 that mandates public
+17          authority attention to the desirability of an exercise
+18          in relevant functions in a way that reduces inequalities
+19          of outcome resulting from socioeconomic disadvantage.
+20              Drawing these four features together, my Lady, we
+21          provisionally suggest to the Inquiry that there are
+22          lessons from and for Wales. There is a body of law and
+23          policy concerning human rights, equality and wellbeing
+24          in Wales that distinguishes it from the other four
+25          nations, including that it not only recognises the value
+    63
+
+ 1             of disabled people's lives but it is mindful of some
+ 2             aspect of asset redistribution to enable those lives to
+ 3             better.
+ 4                 We will urge the Inquiry to ask what difference this
+ 5             made and how it might make more of a difference if
+ 6             scaled up into a UK-wide integrated focus on securing
+ 7             the resilience of disabled people in future emergencies.
+ 8                 For its part, Disability Wales recognises the
+ 9             efforts of its government but equally draws attention to
+10             the gap between rhetoric of national policies and what
+11             happens on the ground. The deficiencies of engagement,
+12             planning, data collection and austerity economics,
+13             especially at the local level all played their part in
+14             Welsh disabled people's triple Covid jeopardy.
+15                 We commend to the Inquiry what is said in the Welsh
+16             Government Commission report, Locked out: liberating
+17             disabled people's lives and rights in Wales beyond
+18             Covid-19. Despite the official recognition of the
+19             social model, the report identified a resurgence of
+20             medical and vulnerability models that informed the
+21             response to Covid. When non-disabled people's
+22             experience of normal life came under threat by
+23             a pandemic, government and administrative decision
+24             making rapidly became thoughtless about the implications
+25             of Covid response measures on disabled people's lives.
+    64
+
+ 1           As the Locked out report puts it, this kind of
+ 2           thoughtlessness helps to illustrate a much more
+ 3           pervasive problem, the way taken-for-granted, ableist
+ 4           assumptions dominating decision making that can have
+ 5           life limiting consequences for disabled people.
+ 6                My Lady, we have addressed you in Module 2 and 2A
+ 7           hearings on how expertise and experts might be viewed
+ 8           from the point of view of disabled people's
+ 9           organisations. For Wales, we therefore add the
+10          following five points:
+11               First, on present disclosure it appears that there
+12          was no expertise regarding disability present at the
+13          Welsh Technical Advisory Group which advised its
+14          Government in parallel with SAGE. You have heard that
+15          the response to the Rule 9 requests from members are
+16          awaited. However, unlike in the other four nations and
+17          more generally for the UK Government, the Deputy
+18          Minister in Wales convened a Disability Equality Forum
+19          which met five times in the four months following the
+20          lockdown and which disability Wales participated in.
+21          The disabled people's organisations were also enrolled
+22          into a Covid-19 Moral and Ethical Advisory Group.
+23               Second, we contend that part of the gap in real-time
+24          expertise can now be filled with disabled people's
+25          organisations. As the updated framework for independent
+    65
+
+ 1                living in Wales puts it, "Engaging with people is the
+ 2                only way of knowing that services are providing what
+ 3                people need and want and can generate better ideas and
+ 4                more innovative approaches". Disability Wales has taken
+ 5                a key role in that process in its country and it should
+ 6                be enabled to do the same in this Inquiry.
+ 7                    Third, we support what other CPs have said,
+ 8                Ms Harris and Mr Jacobs this morning, as to whether the
+ 9                forthcoming reports on devolution will need to be
+10                supplemented by devolved power experts for Wales as
+11                a discrete nation. We welcome Mr Poole's indication
+12                this morning that this will be kept under consideration
+13                and that may need to be considered for other submodules.
+14                    Fourth, we also endorse what has been said by
+15                Ms Harris on behalf of Bereaved Families for Justice as
+16                to the need for in-depth focus on older people.
+17                    Fifth, following the Module 2 ruling on expert
+18                evidence and structural discrimination and as my Lady
+19                moves towards assembling a small group of experts and
+20                thinking about how inequalities impacted on the pandemic
+21                response, it may help to bear in mind that in civil
+22                contingency theory of the UK Government, there is a key
+23                principle of resilience. We apprehend that it will
+24                feature considerably in Government disclosure.
+25                    We are not against the principle, we just urge you
+    66
+
+ 1           to be wary of how its application can fall victim to
+ 2           ableist and other discriminatory assumptions. That is
+ 3           especially so when it is applied without appreciating
+ 4           the resources, arrangements and web of social and
+ 5           economic relationships that provide resilience to some
+ 6           but not other parts of society. Your experts and other
+ 7           lines of Inquiry will be helped by seeking to illuminate
+ 8           the distinction between resilience as a concept and
+ 9           reality.
+10               As my Lady knows, we have dealt with various process
+11          matters in our written submissions and in previous
+12          hearings, such that I do not repeat them here. Because
+13          time is short and the endeavours of the Inquiry are
+14          justifiably ambitious, it has been important to
+15          highlight some key ideas and documents early. We share
+16          them with you and your counsel because, parallel to
+17          establishing the mechanics of the Inquiry's process,
+18          must be some understanding of subject matter,
+19          particularly so in our clients' case, namely, the
+20          disabling barriers and attitudes that were detrimentally
+21          unaccounted for by the non-disabled part of state and
+22          society in real time.
+23               In that respect, the Inquiry process-related
+24          decisions we contend for are those which are made and if
+25          necessarily altered along the way with the situation of
+    67
+
+ 1                disabled people in mind.
+ 2                    My Lady, those are our submissions.
+ 3             BARONESS HALLETT: Thank you very much indeed, Mr Friedman.
+ 4                As ever, you make some very important points and, as
+ 5                I think you know, I will very much bear them in mind and
+ 6                keep everything under review. So thank you indeed for
+ 7                your constructive suggestions.
+ 8                    Lastly, we turn to Ruth Henke KC for the Welsh
+ 9                Government.
+10                                Submissions by MS HENKE
+11             MS HENKE: Bore da.
+12             BARONESS HALLETT: Bore da.
+13             MS HENKE: Boneddiges, my Lady, these are the oral
+14                submissions on behalf of the Welsh Government.
+15                    The pandemic, as you know, touched the lives of
+16                everyone in Wales, our families, our colleagues and our
+17                friends, our communities and the many families who lost
+18                loved ones. On behalf of the Welsh Government, we would
+19                like to take this opportunity to express again our
+20                sympathy to those affected and to all who sadly lost
+21                loved ones.
+22                    During the pandemic, the Welsh Government took
+23                difficult decisions which undoubtedly disrupted and
+24                changed people's lives and livelihoods. Our communities
+25                and local services suffered and we are still learning of
+    68
+
+ 1           the impacts not only on the health of the people of
+ 2           Wales but also upon our young people, our communities
+ 3           and our businesses.
+ 4               The decisions were made by the Welsh Government to
+ 5           protect Welsh citizens. At the time, the Welsh
+ 6           Government was dealing with a virus about which we knew
+ 7           very little but where we needed to act quickly. Three
+ 8           years on, we have greater knowledge and experience. We
+ 9           accept there is a real need to learn from the past, to
+10          ensure a better future for the society we serve. The
+11          Welsh Government is fully committed to this Inquiry.
+12              To date the Welsh Government has filed with the
+13          Inquiry ten draft Rule 9 statements. Having read the
+14          written submissions filed by the other Core
+15          Participants, we thought it might be helpful if we set
+16          out briefly that the drafts filed to date include
+17          a draft of a statement volunteered by the First
+18          Minister, as well as draft statements from the Director
+19          of Legal Services, a draft statement from the Permanent
+20          Secretary, from the Chief Medical Officer, a combined
+21          draft statement from TAG and TAC, a draft statement in
+22          relation to HSSG, a draft statement on behalf of the
+23          Welsh Treasury, a draft statement from the Director of
+24          Property and Ethics, a draft statement in relation to
+25          the NHSW request and a draft statement from Dr Gill
+    69
+
+ 1             Richardson, who was, during the period under scrutiny by
+ 2             this Inquiry, seconded to the Welsh Government.
+ 3                 The Welsh Government is currently working on
+ 4             a further 20 Rule 9 requests and a further tranche of
+ 5             Rule 9 draft statements will be served in accordance
+ 6             with the pipeline which we have been able to agree with
+ 7             the Inquiry and for which we are thankful.
+ 8                 Responding to counsel to the Inquiry's opening
+ 9             submissions on the impact on others, the Welsh
+10             Government would invite the Inquiry to consider seeking
+11             further Rule 9 statements from Wales-based
+12             organisations. We have listened carefully to the
+13             submissions on this topic already made by the other Core
+14             Participants. We support those suggestions and would
+15             add to those that they have suggested faith groups in
+16             Wales and those in Wales who advocate for those at risk
+17             from violence and domestic abuse.
+18                 Further, the Welsh Government wish to highlight to
+19             the Inquiry the statutory role in Wales of the National
+20             Adviser for Violence Against Women, Domestic Abuse and
+21             Sexual Violence for Wales. The Welsh Government
+22             supports the Welsh TUC submission in relation to the
+23             Health and Safety Executive and consider that a Rule 9
+24             request directed to them would assist the Inquiry's
+25             process.
+    70
+
+ 1               The Welsh Government accepts that initially problems
+ 2           with technology hindered the process by which
+ 3           ministerial advices were disclosed to the Inquiry.
+ 4           Those problems, as well as initial operational
+ 5           difficulties, have been overcome. The Welsh Government
+ 6           apologises to the Inquiry for the delay that was caused
+ 7           and, through me, wishes to ensure the Inquiry that it is
+ 8           doing all it can to make up for lost time.
+ 9               As at today's date, 514 ministerial advices have
+10          been disclosed to the Inquiry. In addition, over 4,000
+11          documents are with the Inquiry. A pipeline of
+12          disclosure into the Inquiry has been established and
+13          I can tell the Inquiry on behalf of the Welsh Government
+14          that approximately 800 other ministerial advice
+15          documents will be disclosed by the end of the week and
+16          a further 400 before the end of term.
+17              In Wales, the relationship between the state and the
+18          citizen is one of co-production. It is accepted that
+19          a high trust and effective public service works best
+20          when the person using a service is seen as an asset, not
+21          as a problem to be solved.
+22              The Welsh Government acknowledges and embraces
+23          a reciprocal relationship between the contributions of
+24          the public service and the service users. We accept
+25          expertise never lies solely on the side of the provider.
+    71
+
+ 1             The Welsh Government, in its decision making, draws upon
+ 2             the expertise of lived experience and did so in its
+ 3             decision making, which this Inquiry will scrutinise.
+ 4                 The Welsh Government has considered the written
+ 5             submissions of the other Core Participants who
+ 6             emphasised the need for the Inquiry to have evidence
+ 7             from service users with lived experience as well as
+ 8             service providers.
+ 9                 The Welsh Government sees the importance and value
+10             of that evidence. We invite the Inquiry to further
+11             particularise how the voice of service users will be
+12             captured by explicitly stating which are to be
+13             system-based models and which impact modules and how the
+14             interface between the two will be achieved.
+15                 My Lady, in the early history of the pandemic, it
+16             became clear that the majority of measures affecting
+17             people in Wales would be made through the exercise of
+18             public health powers and the responsibility for making
+19             decisions fell squarely and directly on the Welsh
+20             Government. Understanding the Welsh devolution
+21             settlement, how it operates in practice and its impact
+22             on the citizens in Wales is thus an integral part of
+23             understanding and scrutinising the decisions made in
+24             Wales in response to the pandemic.
+25                 The Welsh Government looks forward to reading the
+    72
+
+ 1           report of Professor Henderson and welcomes at this stage
+ 2           confirmation that the report is intended to fully and
+ 3           properly reflect the Welsh devolution settlement and how
+ 4           it impacted on the citizens of Wales.
+ 5               In its written submissions, the Welsh Government has
+ 6           quoted from the note of the counsel to the Inquiry that
+ 7           Module 2B has a significant amount of ground to cover
+ 8           during its public hearing and a relatively limited
+ 9           amount of time within which to do so. The Welsh
+10          Government emphasises that sufficient time must be
+11          allowed to enable the Inquiry to do justice to its
+12          important work and asks the Inquiry to ensure that if
+13          extra days are needed they are made available.
+14              The Welsh Government has considered the written
+15          submissions on behalf of the Welsh TUC and the Bereaved
+16          Families for Justice Cymru which advocate for a further
+17          hearing at the conclusions of Module 2, 2A, 2B and 2C
+18          and we consider it is well made. The Welsh Government
+19          therefore supports that submission. It is important
+20          that every opportunity is taken to learn lessons.
+21              Turning to the listening exercise, Every Story
+22          Matters, and commemoration. The Welsh Government
+23          accepts that both are very important. It is important
+24          that everyone has the time and space to reflect and
+25          remember. The listening exercise and commemorative
+    73
+
+ 1                 content, be it online, at the hearings themselves and in
+ 2                 a physical form, must be accessible to all. It must be
+ 3                 in a form accessible to those that need an easy reading
+ 4                 version, those with visual hearing impairments and those
+ 5                 who communicate in their own way and those who
+ 6                 communicate in their own language.
+ 7                     My Lady, finally, diolch am wrando heddiw. Thank
+ 8                 you for listening to me today.
+ 9                     Unless you have any questions for me, my Lady, those
+10                conclude the submissions.
+11             BARONESS HALLETT: Thank you very much indeed, Ms Henke and,
+12                as I said earlier to everyone else, I will bear those
+13                 submissions very much in mind when I make any decisions
+14                 about the future progress of the Inquiry.
+15                     Mr Poole do you have any further submissions in
+16                 response?
+17                              Reply submissions by MR POOLE
+18             MR POOLE: My Lady, you will be pleased to know I have very
+19                 little to add and seek only to make four short points.
+20                     The first is to reiterate the thanks I extended
+21                 earlier to all of those who have participated so
+22                 actively in and around this preliminary hearing. The
+23                 submissions that we have heard this morning, from our
+24                 point of view, have all been incredibly helpful and
+25                 constructive and we look forward to receiving, in
+    74
+
+ 1           particular, the letter from John's Campaign and
+ 2           Relatives & Residents Association, setting out their
+ 3           further thoughts on potential Rule 9 recipients.
+ 4               The second point concerns what has been said about
+ 5           the length of our substantive public hearing. As
+ 6           outlined earlier, we are loath to request more time
+ 7           because of the knock-on effect that that will have to
+ 8           the rest of the Inquiry. The best way, in our view, to
+ 9           try and deal with the situation is early Core
+10          Participant engagement, as I outlined earlier in my
+11          submissions, about the various ways we intend to ensure
+12          this is done and that this is done effectively.
+13              The third point concerns the Rule 9 process. We
+14          have heard what has been said, that some of the national
+15          organisations who have been contacted may or may not be
+16          able to provide adequate information about Wales or
+17          information specific enough for certain at-risk groups
+18          for our purposes. As I explained in my earlier
+19          submissions, the Rule 9 process is an iterative process,
+20          as we receive Rule 9 responses, these will be analysed
+21          and, at that stage, a decision taken as to whether
+22          further and/or additional evidence is required and if so
+23          whether that should be from more Welsh-specific
+24          organisations.
+25              The fourth point concerns what was described by
+    75
+
+ 1                 Mr Jacobs on behalf of the TUC as "strand tying", namely
+ 2                 considering comparing and contrasting the key decision
+ 3                 making in the four nations of the UK.
+ 4                     As to this, I would simply like to acknowledge that
+ 5                 this is a matter of considerable importance. This
+ 6                 Inquiry is uniquely placed to be able to derive
+ 7                 information, reach conclusions and make recommendations
+ 8                 based on the different approaches taken by the four
+ 9                 nations of the UK. Precisely how we go about this is
+10                 the subject of active consideration by the Inquiry teams
+11                 for modules 2, 2A, 2B and 2C and, in the usual way, we
+12                 will report progress in this regard through our monthly
+13                 updates.
+14                     My Lady, those are the only points I wish to raise
+15                 by way of reply submissions and that concludes
+16                 everything that the advocates this morning wish to put
+17                 forward.
+18             BARONESS HALLETT: Thank you very much, Mr Poole.
+19                     As I said earlier, I'm very grateful to everyone for
+20                 their help and for their offers of continued help in the
+21                 future. We are going to need that help if we are, as
+22                 I said earlier, to meet the ambitious timetable but
+23                 having seen such a constructive approach adopted by all
+24                 the Core Participants in their written and their oral
+25                 submissions, I remain optimistic that we can conduct
+    76
+
+ 1               both a thorough and a timely investigation of the issues
+ 2               that are of significance for the people of Wales. So
+ 3               thank you everybody for attending, making submissions or
+ 4               indeed just watching online.
+ 5                   Thank you.
+ 6           (12.05 pm)
+ 7                (The preliminary hearing for Module 2B concluded)
+ 8       
+ 9       
+10       
+11       
+12       
+13       
+14       
+15       
+16       
+17       
+18       
+19       
+20       
+21       
+22       
+23       
+24       
+25       
+    77
+
+ 1                                            INDEX
+ 2             Submissions by MR POOLE ............................            2
+ 3             Submissions by MS HARRIS ...........................            27
+ 4             Submissions by MR STRAW ...........................             38
+ 5             Submissions by MR JACOBS ..........................             52
+ 6             Submissions by MR FRIEDMAN ........................             59
+ 7             Submissions by MS HENKE ...........................             68
+ 8             Reply submissions by MR POOLE ......................            74
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+    78
+

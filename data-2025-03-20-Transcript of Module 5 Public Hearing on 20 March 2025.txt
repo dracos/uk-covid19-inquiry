@@ -1,0 +1,1233 @@
+                                                                      UK Covid-19 Inquiry                                                       20 March 2025
+
+
+
+1                                                   Thursday, 20 March 2025          1      Q. You are a member of the Chartered Institute of Purchase
+2    (2.00 pm)                                                                       2           and Supply?
+3    LADY HALLETT: Mr Sharma.                                                        3      A.   Yes.
+4    MR SHARMA: My Lady, the next witness is Dawn Matthias.                          4      Q. You have worked in procurement for more than 25 years,
+5    LADY HALLETT: Thank you.                                                        5           both in the public and private sectors?
+6                           MS DAWN MATTHIAS (sworn)                                 6      A.   That's correct.
+7                  Questions from COUNSEL TO THE INQUIRY                             7      Q. Is it also right that you volunteered to assist in the
+8    MR SHARMA: Ms Matthias, you have helpfully provided the                         8           pandemic response because of your experience in
+9         Inquiry with a witness statement, the reference for                        9           procurement?
+10        which is INQ000475069. Would you please confirm that's                    10      A.   I did, yes.
+11        true to the best of your knowledge and belief.                            11      Q. To begin, please, with your role as a caseworker, could
+12   A.   That's correct.                                                           12           you talk us through precisely what sort of
+13   Q. Just by way of background to begin, you are a civil                         13           responsibilities that entailed, involving your contact
+14        servant; is that right?                                                   14           with suppliers and accumulation of documents for the
+15   A.   Yes.                                                                      15           next stage in the process that the Inquiry has already
+16   Q. You currently work as the commercial deputy director at                     16           heard about.
+17        the Crown Commercial Service?                                             17      A.   Yes, of course.
+18   A.   Yes.                                                                      18                So in the initial stages from being seconded on
+19   Q. Between around 23 March of 2020 and July of 2020, you                       19           23 March, for a period of seven to ten days I was
+20        were seconded from the Department of Education to the                     20           a caseworker who was triaging offers of supply of PPE
+21        Department of Health and Social Care; is that right?                      21           only, not ventilators or test kits, from what we would
+22   A.   That's correct.                                                           22           call "every supplier". Around early April, I was asked
+23   Q. And your role was as a case worker working in PPE                           23           to support a smaller team, and that team were the team
+24        procurement?                                                              24           which have been referred to as the HPL, to do the exact
+25   A.   That's correct.                                                           25           same role only for a different subset of suppliers.
+                                       1                                                                                   2
+
+
+
+1             So, from that date onwards my role as a caseworker                     1           and category 5?
+2         would be to receive, on a daily basis, referrals that                      2      A.   Yes.
+3         would be emailed to me at various points during the day,                   3      Q. Could we have up, please, on the screen INQ000565104.
+4         and those would be referrals of offers of PPE that were                    4                This is an email from you on 28 April. You refer to
+5         being offered from a number of different sources, some                     5           them here as:
+6         UK based, some globally based.                                             6                "They are 'Very Very Important People' Basically
+7    Q. Thank you. So we're in the Opportunities team, we are                        7           suppliers who have made contact with us directly via
+8         in the HPL; is that right?                                                 8           [an] MP, Lord, Lady, PM private office, etc. [And]
+9    A.   That's correct.                                                            9           Cabinet Office are keen that they [have] a speedy
+10   Q. And there's a particular category of referral which I'd                     10           response ..."
+11        like to ask you about, please, and they're labelled VVIP                  11                Does that effectively summarise the position?
+12        referrals. Could you help us, please, with VVIP. What                     12      A.   Yes, I would say so. I think this particular
+13        is that a reference to?                                                   13           correspondence is me giving a -- I guess describing,
+14   A.   Okay, probably prudent to advise that, from my                            14           sorry, the expectation of the referrers to a relatively
+15        perspective the terms "HPL", "VIP", "VVIP", were all                      15           new recruit who had been seconded into the team.
+16        used very interchangeably, and I think from a lot of                      16      Q. Could I ask you, please, turning to your experience,
+17        caseworkers' perspective in the HPL team we didn't                        17           your day-to-day experience with referrers and suppliers,
+18        personally have any distinction, ie, there was no                         18           in your witness statement page 4, paragraph 13, you
+19        difference in how either a VIP, an HPL or a VVIP                          19           describe them as "being very robust and assertive" with
+20        supplier would be processed. So I think, to answer your                   20           you, but you had experience in procurement. How was
+21        question, apologies, the term "VVIP" would have been                      21           that for you, on a day-to-day basis, dealing with those
+22        a designation that caseworkers would have given to                        22           referrers and those suppliers being in contact with you?
+23        a very high-profile or senior referrer.                                   23      A.   Okay, so typically the majority of the contact I would
+24   Q. They've also been referred to in your evidence as                           24           have would be with the supplier not the referrer, with
+25        category 5 referrals. Are they one and the same, VVIP                     25           the exception of one case. And I think, yes, it's true
+                                   3                                                                                     4
+
+
+                                                                                                                                                (1) Pages 1 - 4
+                                                                     UK Covid-19 Inquiry                                                       20 March 2025
+
+
+
+1         to say that, you know, I've had experience of quite                       1           is important for them to contact Boris, Matt Hancock,
+2         robust, assertive suppliers in the past. I think the                      2           Gove, Gareth & other Minister[s] ... directly."
+3         big difference in this instance, in my experience, in                     3               And this part, if you would focus on, please:
+4         supporting the efforts to secure PPE, would be the                        4               "So now basically jumping through hoops to get quick
+5         extreme persistence and the volume of that extreme                        5           responses to them before they complain that we are not
+6         persistence, which is relevant and kind of correlates                     6           taking it seriously."
+7         with the number of cases that I'd be dealing with at any                  7               Just breaking that down, please, "jumping through
+8         one time.                                                                 8           hoops", what did you mean by that?
+9                So it could -- it wouldn't be uncommon for me to                   9      A.   So, again, I think I referenced this in paragraph 41 of
+10        have, you know, five or six hours' worth of phone calls                  10           my witness statement, so again, just against the
+11        in any one day with up to 10 to 20 suppliers, and for                    11           backdrop of the extreme pressures that we were working
+12        those suppliers to be bearing their frustrations on me.                  12           under as well, at the time, not terminology that I would
+13   Q. You, in common with a number of witnesses who have given                   13           normally use. This is an exchange between myself and
+14        evidence to this Inquiry, describe in your witness                       14           who -- a person who was at the time a member in my team
+15        statement working 12-15 hours a day, seven days a week.                  15           in the Department for Education.
+16   A.   That's correct.                                                          16      Q. Yes.
+17   Q. Could we have up, please, on screen INQ000565319. Thank                    17      A.   So I'm not directly linked to the efforts to procure.
+18        you.                                                                     18           And it did feel, you know, often at times that we were
+19               This is an email you sent on 31 March of 2020.                    19           jumping through hoops in the context of, I guess, the
+20   A.   Yeah.                                                                    20           sheer workload and the diverse nature of what we were
+21   Q. Just if I could -- please, if you could provide some                       21           doing and who we were dealing with. And, you know,
+22        context to this email, you refer here to being "promoted                 22           again, in the context of -- I think it references
+23        ... to the VIP Supplier Team" --                                         23           further up "looney bin", yeah, it does, and that was in
+24   A.   Yeah.                                                                    24           the context of what we saw and witnessed.
+25   Q. "... allocated to dealing with the suppliers who feel it                   25               So typically my role on a day-to-day basis, you
+                                   5                                                                                     6
+
+
+
+1         know, involves working with a smaller number of                           1           an email from you on 20 April. Again, I'd be grateful
+2         suppliers on maybe one or two projects, and this                          2           if you could provide some context to this, because it's
+3         situation, in comparison, was working with hundreds of                    3           important that the Inquiry understands precisely what
+4         suppliers who were offering to supply to the government                   4           you mean here. You describe that the -- you have been
+5         anything from nutritional advice to knitted goods to                      5           assigned VIP Suppliers team:
+6         fabric to really credible offers of PPE.                                  6               "... the ones who believe they are too important to
+7                And in that context, it was a really bizarre                       7           complete a survey, as they have a link to a minister, or
+8         situation, and I think also in the context of that being                  8           know Matt Hancock/Michael Gove, Jeremy Hunt, etc, and as
+9         a continuation, it's the 12-16 hours a day, seven days                    9           such Cabinet Office ask us to contact them within
+10        a week that, you know, we're dealing with all of that --                 10           24 hours ..."
+11   Q. Forgive me if I interrupt. That expression, "jumping                       11               A piece of evidence the Inquiry has heard before.
+12        through hoops", suggests that some of the tasks that                     12               What was this like? It sounds here as though you're
+13        were being performed were pointless tasks. Have I got                    13           exasperated with what you're being asked to do. Could
+14        the wrong end of that?                                                   14           you help us, please, with that?
+15   A.   They weren't, in terms of the activities that we carried                 15      A.   Of course. I wouldn't say I was exasperated. We were
+16        out as caseworkers. Those specific tasks weren't                         16           very tired and sometimes frustrated, but equally, we
+17        pointless. Some of the offers which we did triage were                   17           were quite proud of what we were doing in terms of our
+18        pointless, ie, nutritional advice or a simple roll of                    18           efforts to secure PPE. This is an email that I sent to
+19        fabric.                                                                  19           a colleague, again in DfE, who wasn't involved with the
+20   Q. And those sorts of offers, were they coming in through                     20           PPE procurement, who had enquired with regards to how
+21        the VIP Lane, as well?                                                   21           a supplier may be able to, you know, offer PPE.
+22   A.   My understanding is they were coming in through all                      22               So that's the context of that.
+23        channels, VIP and non-VIP.                                               23               In terms of ones believing to be too important to
+24   Q. Thank you. Could we have up on screen, please,                             24           complete the survey, I think it is fair to say that the
+25        INQ00565309. And the final paragraph, please. This is                    25           nature of the suppliers that were being triaged through
+                               7                                                                                          8
+
+
+                                                                                                                                               (2) Pages 5 - 8
+                                                                     UK Covid-19 Inquiry                                                           20 March 2025
+
+
+
+1         the HPL team were senior contacts within the supply                       1           provide an example, a snapshot, if you will, of your
+2         chain who wouldn't be, I guess either adverse to, or                      2           workload:
+3         used to being advised to complete a form. You know, it                    3                  "... juggling 37 VIP cases (and more coming in) 6
+4         wouldn't be -- it would be inconceivable, I think, for                    4           non-VIP cases, 2 new NHS starters [your words] totally
+5         them to be asked to do that so that is in respect to                      5           swamped, and despite doing 12-15-hour days [you] can't
+6         that context.                                                             6           keep up with the volume of emails ..."
+7             The contact within 24 hours, it was an aspiration of                  7                  Does that fairly reflect not only a snapshot in your
+8         the HPL team to try to endeavour to make contact within                   8           day but your experience in the VIP team as a whole?
+9         24 hours.                                                                 9      A.   It does, yes.
+10   Q. From your perspective, how frequently was that                             10      Q. You refer in your witness statement and in an exhibit
+11        aspiration met?                                                          11           which you produced to connections with political
+12   A.   Unfortunately I don't have any statistics that would                     12           parties. I wonder if we could bring this up.
+13        kind of give an accurate view on that, but I know from                   13                  It's INQ000565246. Thank you.
+14        my perspective I didn't always meet that target because                  14                  12 May 2020, so a little further into the
+15        of the volume, and sometimes if I did meet that target,                  15           chronology. Emailing somebody again at the Department
+16        it would be via way of what I would term a holding email                 16           for Education.
+17        back to the supplier to say, "We have your offer, please                 17      A.   Mm-hm.
+18        be assured we will, you know, be considering it in due                   18      Q. And you say this:
+19        course."                                                                 19                  "I would love for an FOI to be put in after all this
+20            So sometimes within a day, I could. It just                          20           to see the % of orders for PPE raised within the VVIP
+21        depended on the caseload and the volume.                                 21           suppliers/those with party connections. I suspect it
+22   Q. Thank you. Just to give an idea as to the volume of                        22           would be on the high side based on what I've seen going
+23        cases that you were handling, could we have up on                        23           on."
+24        screen, please, INQ000575149, and page 1.                                24                  What had you seen going on, and what was it that led
+25            Again, an email from you, 30 April 2020. And you                     25           you to that conclusion?
+                                  9                                                                                         10
+
+
+
+1    A.   Okay, so I think the email chain will provide some                        1           all, but certainly a large proportion of the cases that
+2         broader context and I think it's paragraph 54 of my                       2           were being sent from referrers and processed at least to
+3         witness statement. This was in relation to my --                          3           the point of technical assurance stage, were of high
+4         I guess my curiosity in terms of how fruitful the work                    4           volume, and therefore a high quantity, which would
+5         that the HPL team were doing, in terms of, I guess, in                    5           naturally lend itself to being a high-value contract,
+6         crude terms, return on effort. You know, the 12,                          6           compared to, again in my experience, at the early stages
+7         15 hours a day, seven days a week, lots of triaging,                      7           of processing non-HPL cases, typically some of those
+8         lots of processing, lots of difficult stakeholder                         8           offers of supply were much smaller in terms of quantity,
+9         conversations. And because of the, I guess the hectic                     9           therefore would be much smaller in terms of volume and
+10        environment that we were working in, caseworkers didn't                  10           value.
+11        always get to understand if a case that we had been                      11      Q. You don't identify, in this email at least, a particular
+12        dealing with earlier had actually converted into an                      12           political party, but did you have one in mind or was
+13        order because we lose sight of it as it gets handed off                  13           this just a general observation across the board?
+14        through the various stages.                                              14      A.   It was a general observation.
+15            So it was curiosity in terms of the percentage of                    15      Q. All right. Could we have a look, please, at some of the
+16        cases we've triaged, in terms of what that would mean,                   16           kinds of referrals which you and those working within
+17        in terms of order conversion. The language, "based on                    17           your team were receiving, just to see the range of
+18        what I've seen going on", was simply in the context of                   18           individuals and parties and locations it was coming
+19        simply seeing how many cases were coming through the                     19           from.
+20        HPL.                                                                     20                  Could we have INQ000565128.
+21   Q. Forgive me, Ms Matthias, you seem, at least in this                        21                  This is just one example, and there are a number
+22        email, to have expressed a view that it would be based                   22           I am going to put to you and ask you about. This is an
+23        on the high side, based on what you've seen going on.                    23           example of a referral coming in from a Labour peer, and
+24        How and why did you form that view?                                      24           this says that:
+25   A.   Okay, so on the high side in the context of the -- not                   25                  "... a Labour peer on its board who is making waves
+                                  11                                                                                       12
+
+
+                                                                                                                                                (3) Pages 9 - 12
+                                                                     UK Covid-19 Inquiry                                                       20 March 2025
+
+
+
+1         at very senior levels ... There are two offers ... in                     1           involved who implied he'd go to select committee ..."
+2         Mendix ... looks like nobody has picked [them] up.                        2               The Labour peer, I think down at the bottom, is
+3         Could we take them into VIP as VVIP cases, please."                       3           Lord Triesman:
+4             This was a referral from Salamanca. Could you help                    4               "... if we didn't quickly progress the company he's
+5         us please with whether you were given any guidance or                     5           on the board of.
+6         steer about how you and your team were not only to deal                   6               "I should flag that while it's [category] 5 VIP,
+7         with offers from ministers but also from offers from                      7           I don't think it has legs. We should still properly
+8         opposition party ministers or opposition party                            8           kick the tyres, though."
+9         politicians?                                                              9               This is an email from Mr Cairnduff that the
+10   A.   Apologies, was that question in the context of how we                    10           Inquiry's heard about. Is this the kind of email or
+11        would respond or how we would process the opportunity?                   11           offer that would be processed by somebody who was more
+12   Q. Well, both, but if you would deal first with how you                       12           senior in the team? How would it be done?
+13        would respond?                                                           13      A.   I think it would have been done by Max, from memory, and
+14   A.   Okay, so I think it's fair to say that the team of HPL                   14           from my understanding, would provide a lady called
+15        caseworkers were versed in dealing with or were capable                  15           Wendy Burdon in the team --
+16        of conducting an acceptable level of stakeholder                         16      Q. Yes.
+17        management. So --                                                        17      A.   -- the list of referrers or offers, and then Wendy would
+18   Q. Unpack that for me. What does that mean?                                   18           disseminate them within the wider caseworker team. In
+19   A.   So, typically, it would have been manned by resources                    19           that situation, I would receive what Wendy was sending
+20        who had had experience of dealing with ministers or                      20           to me, for example, and then I would make a judgement on
+21        senior officials or senior people within the supply                      21           which members of my team I felt were able to adequately
+22        chain.                                                                   22           deal with that particular offer.
+23   Q. Could we have a look, please, at another example.                          23      Q. I see. So you had in your mind, and as these cases are
+24        INQ000565127. Again:                                                     24           being allocated, that there would be people within your
+25            "Category 5. VIP. Note there's a Labour peer                         25           team that you considered would be capable and equipped
+                                13                                                                                     14
+
+
+
+1         to deal with ministers or people of that level of                         1               And so on.
+2         seniority?                                                                2               So, again, similar sort of processing.
+3    A.   I wouldn't necessarily say I would allocate based on who                  3               Did it matter -- the Inquiry has heard about
+4         I felt was able to deal with a minister or, you know,                     4           processing of referrals from the Conservative Party, but
+5         someone of seniority because, with the exception of one                   5           I ask this neutrally: did it matter that a referral came
+6         particular case, the contact between the referrer, which                  6           in from somebody in the Labour Party?
+7         would be that senior minister or official, would cease                    7      A.   As far as I'm aware, and I didn't have that kind of
+8         at the point where we would be handed over or we would                    8           level of exposure, given the role that I was doing at
+9         then make contact with the supplier directly.                             9           the time, the priority was based on the product in need,
+10            I think what I would be cognisant of is when the                     10           and that was the primary, you know, consideration.
+11        senior stakeholders, ministers, were seeking updates,                    11               I think, to your point, that would have been
+12        would the caseworker who was allocated that offer be                     12           a secondary factor and I don't -- really don't think --
+13        capable of providing that communication with regards to                  13           and certainly I didn't see evidence of it having any
+14        progress in a timely manner, in a factual manner, and                    14           impact, either negative or positive.
+15        using the language that would be appropriate?                            15      Q. Could we have a look, please, at a slightly different
+16   Q. Thank you.                                                                 16           category of referrer.
+17            If we could turn, please, to INQ000565130.                           17               INQ000565172. Thank you.
+18            Again:                                                               18               If we zoom into the one at the bottom, this comes in
+19            "Category 5, VIP."                                                   19           from a journalist, from the BBC health editor.
+20            The Inquiry has heard a little bit of evidence about                 20               Again, is there a different -- is there a different
+21        this before in relation to referrals that were made                      21           way or means by which offers from people with access to
+22        in -- by Rachel Reeves MP. It says:                                      22           journalists would be handled, or was that of no
+23            "No ideas if this has priority -- but it's one of                    23           consequence to you and your team?
+24        the 40 companies that [have been] raised.                                24      A.   Not that I'm aware of. I would say it was of no
+25            "We don't have details of their offer ..."                           25           consequence. It would be the priority of the actual
+                                15                                                                                    16
+
+
+                                                                                                                                             (4) Pages 13 - 16
+                                                                     UK Covid-19 Inquiry                                                          20 March 2025
+
+
+
+1         PPE --                                                                    1           not. And I'm conscious that the daily briefings were
+2    Q. Did you or anyone in your team receiver training about                      2           being provided from Number 10 as that kind of way of
+3         how conversations with people such as this, journalists,                  3           communication. So I don't think it's relevant, sorry.
+4         opposition party MPs, ought to be conducted before you                    4      Q. All right. Another category, if we may, please.
+5         engaged with them? Or did you think that was                              5                INQ000565162.
+6         unnecessary?                                                              6                Again, if we could zoom into the email, the second
+7    A.   I don't recall any formal training in that regard, and                    7           email down:
+8         I think I would deem it to be -- not unnecessary, but                     8                "As John mentioned, the Duchess of York has been in
+9         not required, given the experience of the caseworkers.                    9           contact with Lord Deighton to try and help source PPE."
+10        So, you know, it's just a given that we -- we just don't                 10                Was there any training or guidance about dealing
+11        talk to journalists and divulge. And, you know, we all,                  11           with people who were senior or high up or connected, for
+12        kind of, are versed in how we handle information and how                 12           example, with the Royal Family?
+13        we communicate.                                                          13      A.   Not specifically, no.
+14   Q. Would there not have been any particular risks in                          14      Q. Was there any person in the team who would be allocated
+15        engaging in communications, even with somebody who is                    15           to handle such referrals from people in positions of
+16        a journalist, to the way in which the PPE team was                       16           power or with particularly high profiles?
+17        operating? If you think not a factor, then do say so.                    17      A.   From memory and from my understanding, royalty was
+18   A.   I don't believe so, no. I mean, it was commonly                          18           sensitively handled by very senior people. So ... but
+19        broadcast on a daily basis, certainly in the early                       19           it was never -- it was never a -- it was never an issue.
+20        stages of the pandemic, early stages of lockdown, that,                  20           I don't recall it ever being an issue. And I don't
+21        you know, it was no secret that the country was in dire                  21           recall it ever being widely discussed or ever receiving
+22        need of much needed PPE. It would have been outside the                  22           any direction that if I, for example, was ever directly
+23        realms of the caseworker team to, I guess, even make                     23           approached by the Duchess of York, for example, I was
+24        a decision, let alone consider whether a communication                   24           forbidden, you know, to deal with that or not.
+25        with broadcasting authorities would be appropriate or                    25                So I guess it was a case of when the referrals came
+                                 17                                                                                      18
+
+
+
+1         in, they would come in to Max's team, and then Max would                  1           Chris Hall or Darren Blackburn or myself, or Dennis or
+2         make a judgement call on whether he felt he should                        2           Richard. So I think it would be fair to say that
+3         retain that, because of whatever reason he felt, or                       3           between those individuals that I've just mentioned
+4         whether he wanted to allocate it to an experienced                        4           within the HPL lane, team, it wasn't -- it wasn't
+5         caseworker who, I guess, he would have trusted were                       5           written. It was just an understanding, I guess, of the
+6         capable of handling such high-profile opportunities.                      6           capability, the commercial acumen, and trust, that we
+7    Q. Another category, if we may, please.                                        7           would deal with it in a -- I guess in a timely manner,
+8               INQ000565284. Three paragraphs down.                                8           in an efficient manner. But there was no specific
+9               A reference to having links to people in China, to                  9           training. It was just an allocation based on capability
+10        rulers, to senior bank officials and diplomats who might                 10           and competency of the caseworkers available.
+11        be "able to secure us [with] production capacity".                       11      Q. And based on what you're saying, you're indicating, if
+12              So, again, another potential link, high profile,                   12           I may put it in these terms, that you had confidence in
+13        this time internationally. No training or particular                     13           the ability of the team to allocate and deal win
+14        caseworker allocated to deal with those connections?                     14           appropriately these sorts of senior referrals?
+15   A.   No.                                                                      15      A.   Yes.
+16   Q. INQ000565432, please. Thank you. Just over the page.                       16      Q. Could we have up on screen, please, finally
+17              Again, an email from you. An offer from an overseas                17           INQ000565322.
+18        royal family. Was there any particular means by which                    18                And again, this is an email from you, 31 March:
+19        those people in your position and in your team were                      19                "Oh my word! I have just had an email via
+20        guided or instructed to deal with these very                             20           Lord Agnew via Michael Gove via some Royal in Dubai with
+21        high-profile senior referrers in positions of power?                     21           links to what appears to be the most senior and wealthy
+22   A.   Again, there was no specific training or guidance                        22           people possibly in the world, offering to help.
+23        provided. The allocation -- sorry to repeat, but the                     23           I didn't take in the detail of the email, I was
+24        allocation of these such cases would have been allocated                 24           overwhelmed with the OBEs, the Sheiks and various
+25        to -- you know, such as Max would retain it or                           25           different titles."
+                                  19                                                                                      20
+
+
+                                                                                                                                             (5) Pages 17 - 20
+                                                                     UK Covid-19 Inquiry                                                         20 March 2025
+
+
+
+1              And with some self-deprecation:                                      1           these cases were allocated to the various caseworkers at
+2              "... Cabinet Office think it is a good idea to give                  2           his disposal.
+3         this to a Geordie to manage!"                                             3               I think, looking forward, and looking at how we
+4    A.   Yeah.                                                                     4           could possibly approach it in five years' time, ten
+5    Q. Reflecting back on your experience of the High Priority                     5           years' time, and this is just my opinion, my suggestion,
+6         Lane, and in particular of these sorts of referrals from                  6           based on this experience, would be for a more proactive
+7         people in positions of power, not only domestically but                   7           response, which is difficult when, you know, it's -- an
+8         also overseas, do you think there was a case for some                     8           epidemic just lands, I get you can't be that proactive
+9         sort of guidance or some sort of specific process by                      9           but when I say that, I mean that from the perspective of
+10        which these kinds of referrals could have been triaged                   10           applying what I would call a standard or a generic
+11        by somebody of greater seniority?                                        11           procurement approach to procuring anything.
+12   A.   I think, yes, and no. I think, reflecting on where we                    12               We didn't have that luxury at the time. But
+13        were in March and early April 2020, we were endeavouring                 13           specifically, from the latter, in terms of the proactive
+14        to secure PPE, and that was our primary aim.                             14           approach, it could be that we give consideration to
+15             The high priority -- if I can just use the crude                    15           carving out a bespoke team to process, triage, deal
+16        term "the high priority referrers and offers" --                         16           with -- whichever terminology -- offers that weren't
+17   Q. Of course.                                                                 17           being or couldn't be dealt with in a proactive manner.
+18   A.   -- were in my opinion triaged by the most appropriate,                   18           And possibly for those individuals in that carved-out
+19        most experienced caseworkers available, or at our                        19           resource to be not commercial.
+20        disposal.                                                                20      Q. It's a theme of the evidence from those who have come to
+21   Q. And if I may ask, who were they?                                           21           the Inquiry and told my Lady about their experience in
+22   A.   So obviously you are aware of Max and his role.                          22           the High Priority Lane that it is inevitable, within
+23   Q. Yes.                                                                       23           a Parliamentary democracy, that people will get in
+24   A.   And the people which reported to Max. Max was more than                  24           contact with their MPs, get in contact with ministers,
+25        able to make a very well-informed decision on which of                   25           also that it's inevitable that help will be offered from
+                                 21                                                                                        22
+
+
+
+1         those who are overseas and who may have connections to                    1                           Questions from MS MORRIS KC
+2         people that could help us with acquiring PPE. Is that                     2      MS MORRIS: I do. Thank you, my Lady.
+3         that team, that carved-out team, is that where you're                     3               Good afternoon, Ms Matthias. I ask questions on
+4         suggesting that those kinds of offers should be triaged?                  4           behalf of the Covid Bereaved Families for Justice UK.
+5         Or is it something different that you're suggesting?                      5           You mentioned a moment ago the technical assurance
+6    A.   No, that's what I was suggesting. And the difference                      6           process, and I've a few questions for you about that
+7         between what was -- crude, sorry -- carved out in 2020,                   7           process, please.
+8         in terms of the caseworker teams, the Technical                           8      A.   Okay.
+9         Assurance teams, the Closing teams, each one of those                     9      Q. And just so you understand, I am seeking to explore
+10        functions performed activities. We could give                            10           whether being referred through the HPL conferred
+11        consideration to a carved-out team to handle those                       11           a benefit to those in the HPL, in terms of its
+12        reactive call to arms, if that makes sense, but actually                 12           prioritisation within the technical assurance process.
+13        not do any of the activities. So ie, not initiate                        13           Okay? That's my theme.
+14        a technical assurance process, not to initiate further                   14               Mr James, Richard James, described in his written
+15        financial due diligence, not to initiate the awarding of                 15           evidence that the HPL had a dedicated contact in the
+16        a contract.                                                              16           Technical Assurance team with whom the HPL team had
+17             And my opinion, had that been in place, the                         17           regular liaison about the progression of offers. Is
+18        caseworkers and the Technical Assurance team and the                     18           that something you're familiar with?
+19        Finance team would have possibly been able to work more                  19      A.   I'm aware that there was a contact. I would question
+20        efficiently.                                                             20           whether that contact was dedicated to HPL.
+21   MR SHARMA: Thank you, Ms Matthias. I don't have any                           21      Q. Okay.
+22        further questions.                                                       22      A.   And I would also add that every caseworker, regarding of
+23   LADY HALLETT: Thank you.                                                      23           lane they were working in (sic), also had that access to
+24             I think Ms Morris has questions now.                                24           the Technical Assurance team.
+25             Ms Morris.                                                          25      Q. Okay. He goes on to say that there was a process by
+                                    23                                                                              24
+
+
+                                                                                                                                             (6) Pages 21 - 24
+                                                                     UK Covid-19 Inquiry                                                         20 March 2025
+
+
+
+1         which the Technical Assurance team would communicate                      1               "I spoke to Adrian last week and he was making some
+2         feedback on the progress of offers and, if relevant,                      2           noise in relation to Lord Feldman as a result of the
+3         reasons for rejection. He says, as a result of this                       3           length of time it was taking to get his offering through
+4         feedback, the HPL caseworker could resubmit the offer to                  4           TA [Technical Assurance] hence the chasers to MoD and
+5         the Technical Assurance team.                                             5           giving [X] the heads up. I have today spoken to [X] in
+6             So do you agree with his description of the                           6           the TA team and he agreed to process their offering
+7         relationship between the HPL and the Technical Assurance                  7           ASAP."
+8         team? He says "dedicated contact".                                        8               So my question is, is it an example of escalating or
+9    A.   Okay. Thank you. So I've addressed the dedicated                          9           expediting the technical assurance process of a VIP Lane
+10        contact because I don't necessarily agree with that.                     10           offer, in this case one connected with Lord Feldman?
+11        However, I do agree with the ability for caseworkers to                  11      A.   I don't disagree with any of the text there I think the
+12        communicate to and from, between themselves and                          12           context is important. So -- if I address it in this way
+13        Technical Assurance, if -- in the event that a product                   13           and then you can tell me if it is answering your
+14        had failed the technical due diligence and needed to be                  14           question.
+15        resubmitted.                                                             15               So the caseworkers, whether HPL or not HPL, were
+16            I would add to that, that in my experience and based                 16           aware that there was an ability to conduct what we
+17        on my experience, that was no different to general                       17           referred to as a rapid response process. And the rapid
+18        suppliers versus HPL.                                                    18           response process was established by a means of being
+19   Q. I'll come to that, if I may. I'm going to ask you now                      19           able to prioritise a particular item of PPE that was in
+20        to look at an email, please, sent on 23 April 2020 to                    20           the most need. So, for example, at any one point in
+21        the Technical Assurance team, and that's INQ000565074,                   21           time, if we were really, really desperate to secure
+22        please.                                                                  22           gowns, for example, we, both HPL teams and non-HPL
+23            That's just at the top there. Thank you very much                    23           teams, would look within our cases to try and establish
+24        indeed. You say:                                                         24           if we had an offer for that priority product and we
+25            "Hi                                                                  25           would bring together caseworkers, Technical Assurance,
+                                   25                                                                                  26
+
+
+
+1         Finance and Closing. So it could have been -- I'm not                     1           HPL versus non-HPL offers?
+2         suggesting it was, because I don't know the context of                    2      A.   I wouldn't, no.
+3         this email, but it could have been I was applying some                    3      Q. Professor Sanchez-Graells, who has given evidence to the
+4         pressure on the Technical Assurance team to process                       4           Inquiry, said in his evidence that it's not accurate to
+5         a particular offer because it was for a dire piece of                     5           say that all offers were treated the same from
+6         PPE. If that makes sense.                                                 6           a technical assurance perspective because Technical
+7    Q. All right. Mr James goes on to say in his statement                         7           Assurance was taking time, and having a dedicated person
+8         that, he says:                                                            8           for technical assurance of VIP offers, would have
+9             [As read] "I don't believe that the general                           9           accelerated things.
+10        Opportunities teams had a dedicated contact in Technical                 10               Do you accept his view regarding the benefit of
+11        Assurance like we did on the HPL. Moreover,                              11           faster consideration by the Technical Assurance team?
+12        I considered that having this contact provided two                       12      A.   No, not based on my experience.
+13        potential advantages for the offers that we were                         13      Q. According to Mr James, again from his written evidence,
+14        processing on the HPL. First, we were able to                            14           the HPL would chase up technical approval, including if
+15        communicate our priorities to that team to request that                  15           the TA team didn't respond within 48 hours and chase
+16        the highest priority offers in the HPL be processed more                 16           more frequently for updates than the general
+17        swiftly than other HPL offers of lower priority.                         17           Opportunities team -- and that's paragraph 126 of his
+18        Secondly, if we wished to obtain clarity on the reasons                  18           statement -- and would contact the Closing team for
+19        for a rejection, we could request the contact details of                 19           updates on the referrer or offerer's behalf if
+20        the relevant caseworker from the team and therefore                      20           requested.
+21        communicate with them more directly and effectively than                 21               Do you think these additional steps conferred
+22        we could through Mendix."                                                22           further benefits to HPL offers?
+23            So I hear what you say about whether there was                       23      A.   I don't recognise those steps from the work that
+24        a dedicated contact in the TA, but would you agree with                  24           I conducted.
+25        Mr James that there was two potential advantages to the                  25      MS MORRIS: Thank you.
+                                27                                                                                       28
+
+
+                                                                                                                                            (7) Pages 25 - 28
+                                                                   UK Covid-19 Inquiry                                                     20 March 2025
+
+
+
+1            Thank you, those are my questions, my Lady.                          1                                      INDEX
+2    LADY HALLETT: Thank you very much, Ms Morris.                                2                                                               PAGE
+3            That completes the questions we have for you,                        3
+4        Ms Matthias. I'm really grateful to you. It must have                    4      MS DAWN MATTHIAS (sworn) ..........................          1
+5        been so tough in what I think we can understand you                      5          Questions from COUNSEL TO THE INQUIRY ........           1
+6        called the "looney bin". They were extraordinarily long                  6          Questions from MS MORRIS KC ...................         24
+7        hours under pressure, so thank you for all you did at                    7
+8        that time. It must have been impossible to have any                      8
+9        kind of family life. And thank you for helping the                       9
+10       Inquiry.                                                                10
+11   THE WITNESS: Thank you.                                                     11
+12   LADY HALLETT: Very well, I think that completes the                         12
+13       evidence for this week, Mr Sharma?                                      13
+14   MR SHARMA: Yes, it does, my Lady.                                           14
+15   LADY HALLETT: In which case we shall resume for the final                   15
+16       week on Monday at 10.30. Thank you all very much                        16
+17       indeed.                                                                 17
+18   (2.47 pm)                                                                   18
+19         (The hearing adjourned until 10.30 am on Monday,                      19
+20                            24 March 2025)                                     20
+21                                                                               21
+22                                                                               22
+23                                                                               23
+24                                                                               24
+25                                                                               25
+                                 29                                                                                   30
+
+
+
+
+                                                                                                                                         (8) Pages 29 - 30
+                       15/4 19/11 21/25           alone [1] 17/24          assurance [22] 12/3 benefit [2] 24/11
+                       23/19 26/19 27/14          already [1] 2/15         23/9 23/14 23/18 24/5 28/10
+ LADY HALLETT: [6]
+                       about  [13]    2/16 3/11 also [8] 2/7 3/24 7/8 24/12 24/16 24/24               benefits [1] 28/22
+ 1/3 1/5 23/23 29/2
+                       12/22 13/6 14/10           13/7 21/8 22/25 24/22 25/1 25/5 25/7 25/13 Bereaved [1] 24/4
+ 29/12 29/15
+                       15/20 16/3 17/2 18/10 24/23                         25/21 26/4 26/9 26/25 bespoke [1] 22/15
+ MR SHARMA: [4]
+                       22/21 24/6 24/17           always [2] 9/14 11/11 27/4 27/11 28/6 28/7 best [1] 1/11
+ 1/4 1/8 23/21 29/14
+                       27/23                      am [3] 12/22 24/9        28/8 28/11                 between [7] 1/19
+ MS MORRIS: [2]
+                       accelerated [1] 28/9 29/19                          assured [1] 9/18           6/13 15/6 20/3 23/7
+ 24/2 28/25
+                       accept [1] 28/10           another [4] 13/23        at [28] 1/16 3/3 5/7       25/7 25/12
+ THE WITNESS: [1]
+                       acceptable [1] 13/16 18/4 19/7 19/12                6/12 6/14 6/18 10/15 big [1] 5/3
+ 29/11
+                       access [2] 16/21           answer [1] 3/20          11/21 12/2 12/6 12/11 bin [2] 6/23 29/6
+'                      24/23                      answering [1] 26/13 12/15 13/1 13/23 14/2 bit [1] 15/20
+'Very [1] 4/6          According [1] 28/13 any [17] 3/18 5/7               15/8 16/8 16/15 16/18 bizarre [1] 7/7
+                       accumulation [1]           5/11 9/12 13/5 16/13 21/19 22/1 22/3 22/12 Blackburn [1] 20/1
+1                      2/14                       17/7 17/14 18/10         25/20 25/23 26/20          board [3] 12/13
+10 [2] 5/11 18/2       accurate    [2]   9/13     18/14  18/22   19/18     29/7  29/16                12/25 14/5
+10.30 [2] 29/16 29/19  28/4                       23/13  23/21   26/11     authorities   [1]  17/25   Boris   [1] 6/1
+12 [2] 10/14 11/6      acquiring    [1]   23/2    26/20  29/8              available   [2]  20/10     both  [3]  2/5 13/12
+12-15 hours [1] 5/15   across   [1]   12/13       anyone   [1]  17/2       21/19                      26/22
+12-15-hour [1] 10/5 activities [3] 7/15           anything [2] 7/5         awarding [1] 23/15 bottom [2] 14/2
+12-16 hours [1] 7/9    23/10   23/13              22/11                    aware [5] 16/7 16/24 16/18
+126 [1]  28/17         actual  [1]   16/25        apologies   [2]  3/21    21/22 24/19 26/16          breaking [1] 6/7
+13 [1] 4/18            actually [2] 11/12         13/10                                               briefings [1] 18/1
+                       23/12                      appears [1] 20/21        B                          bring [2] 10/12 26/25
+15 hours [1] 11/7
+                       acumen [1] 20/6            applying [2] 22/10       back [2] 9/17 21/5         broadcast [1] 17/19
+2                      add [2] 24/22 25/16        27/3                     backdrop [1] 6/11          broadcasting [1]
+2.00 [1] 1/2           additional [1] 28/21 approach [3] 22/4              background [1] 1/13 17/25
+2.47 [1] 29/18         address [1] 26/12          22/11 22/14              bank [1] 19/10             broader [1] 11/2
+20 [2] 5/11 8/1        addressed      [1]  25/9   approached     [1]       based   [13]   3/6 3/6     Burdon [1] 14/15
+20 March 2025 [1]      adequately      [1]  14/21 18/23                    10/22   11/17   11/22      but [20] 4/20 8/16
+ 1/1                   adjourned [1] 29/19 appropriate [3] 15/15 11/23 15/3 16/9 20/9 9/13 10/8 12/1 12/12
+2020 [8] 1/19 1/19     Adrian [1] 26/1            17/25 21/18              20/11 22/6 25/16           13/7 13/12 15/23 16/4
+ 5/19 9/25 10/14 21/13 advantages [2] 27/13 appropriately [1]              28/12                      17/8 18/18 19/23 20/8
+ 23/7 25/20            27/25                      20/14                    basically [2] 4/6 6/4 21/7 22/9 22/12 23/12
+2025 [2] 1/1 29/20     adverse [1] 9/2            approval [1] 28/14       basis [4] 3/2 4/21         27/3 27/24
+23 [1] 25/20           advice [2] 7/5 7/18        April [6] 2/22 4/4 8/1 6/25 17/19
+23 March [2] 1/19      advise [1] 3/14            9/25 21/13 25/20         BBC [1] 16/19              C
+ 2/19                  advised [1] 9/3            April 2020 [3] 9/25      be [50]                    Cabinet [3] 4/9 8/9
+24 hours [3] 8/10 9/7  after [1]  10/19           21/13  25/20             bearing   [1]  5/12        21/2
+ 9/9                   afternoon     [1]  24/3    are [15]  1/13  2/1 3/7  because    [11]   2/8 8/2  Cairnduff   [1] 14/9
+24 March 2025 [1]      again  [18]    6/9  6/10   3/25  4/6 4/9  6/5 8/6   9/14  11/9   11/13  15/5   call [4]  2/22  19/2
+ 29/20                 6/22 8/1 8/19 9/25         12/21 13/1 14/23         19/3 25/10 27/2 27/5 22/10 23/12
+25 years [1] 2/4       10/15 12/6 13/24           17/12 21/22 23/1 29/1 28/6                          called [2] 14/14 29/6
+28 [1] 4/4             15/18 16/2 16/20 18/6 arms [1] 23/12                been [21] 2/24 3/21 calls [1] 5/10
+                       19/12 19/17 19/22          around [2] 1/19 2/22 3/24 4/15 8/4 11/11 came [2] 16/5 18/25
+3                      20/18 28/13                as [29] 1/16 1/23        13/19 14/13 15/24          can [3] 21/15 26/13
+30 [1] 9/25            against [1] 6/10           2/11 2/24 3/1 3/24 4/5   16/11   17/14   17/22      29/5
+31 March [2] 5/19      Agnew [1] 20/20            4/19 6/12 7/16 7/21      18/8  19/24   21/10        can't  [2] 10/5 22/8
+ 20/18                 ago [1]   24/5             8/7 8/8  8/12  9/22 10/8 23/17   23/19   27/1  27/3 capability   [2] 20/6
+37 [1] 10/3            agree [4] 25/6 25/10 11/13 13/3 14/23 16/7 29/5 29/8                           20/9
+                       25/11 27/24                16/7 17/3 18/2 18/8 before [4] 6/5 8/11             capable [4] 13/15
+4                      agreed [1] 26/6            19/25 25/3 26/2 26/17 15/21 17/4                    14/25 15/13 19/6
+40 companies [1]       aim [1] 21/14              27/9                     begin [2] 1/13 2/11        capacity [1] 19/11
+ 15/24                 all [12] 3/15 7/10         ASAP [1] 26/7            behalf [2] 24/4 28/19 Care [1] 1/21
+41 [1] 6/9             7/22 10/19 12/1 12/15 ask [8] 3/11 4/16 8/9 being [19] 2/18 3/5                carried [1] 7/15
+48 hours [1] 28/15     17/11 18/4 27/7 28/5 12/22 16/5 21/21 24/3 4/19 4/22 5/22 7/8                  carved [4] 22/18 23/3
+                       29/7 29/16                 25/19                    7/13  8/13   8/25  9/3     23/7 23/11
+5                      allocate [3] 15/3 19/4 asked [3] 2/22 8/13          12/2  12/5   14/24  18/2   carved-out    [2] 22/18
+54 [1] 11/2            20/13                      9/5                      18/20   18/21   22/17      23/3
+                       allocated    [7]  5/25     aspiration   [2] 9/7     24/10 26/18                carving [1] 22/15
+A                                                                          belief [1] 1/11            case [8] 1/23 4/25
+                       14/24 15/12 18/14          9/11
+ability [3] 20/13      19/14 19/24 22/1           assertive [2] 4/19 5/2 believe [3] 8/6 17/18 11/11 15/6 18/25 21/8
+ 25/11 26/16           allocation [3] 19/23 assigned [1] 8/5               27/9                       26/10 29/15
+able [8] 8/21 14/21    19/24 20/9                 assist [1] 2/7           believing [1] 8/23         caseload [1] 9/21
+
+                                                                                              (9) LADY HALLETT: - caseload
+C                     20/10                   Covid [1] 24/4         different [8] 2/25 3/5 email [20] 4/4 5/19
+                      complain   [1] 6/5      credible  [1] 7/6      16/15 16/20 16/20       5/22 8/1 8/18 9/16
+cases [13] 5/7 9/23
+                      complete   [3] 8/7 8/24 Crown [1] 1/17         20/25 23/5 25/17        9/25 11/1 11/22 12/11
+10/3 10/4 11/16 11/19
+                      9/3                     crude  [3]  11/6 21/15 difficult [2] 11/8 22/7 14/9 14/10 18/6 18/7
+12/1 12/7 13/3 14/23
+19/24 22/1 26/23      completes [2] 29/3      23/7                   diligence [2] 23/15     19/17 20/18 20/19
+                      29/12                   curiosity [2] 11/4     25/14                   20/23 25/20 27/3
+caseworker [12]
+                      conclusion [1] 10/25 11/15                     diplomats [1] 19/10 emailed [1] 3/3
+2/11 2/20 3/1 14/18
+                      conduct [1] 26/16       currently [1] 1/16     dire [2] 17/21 27/5     Emailing [1] 10/15
+15/12 17/23 19/5
+                      conducted [2] 17/4                             direction [1] 18/22     emails [1] 10/6
+19/14 23/8 24/22 25/4                         D
+                      28/24                                          directly [6] 4/7 6/2    end [1] 7/14
+27/20
+                      conducting [1] 13/16 daily [3] 3/2 17/19       6/17 15/9 18/22 27/21 endeavour [1] 9/8
+caseworkers [12]
+                      conferred [2] 24/10 18/1                       director [1] 1/16       endeavouring [1]
+3/22 7/16 11/10 13/15
+                      28/21                   Darren [1] 20/1        disagree   [1] 26/11    21/13
+17/9 20/10 21/19 22/1
+                      confidence   [1]  20/12 date [1] 3/1           discussed    [1] 18/21 engaged [1] 17/5
+23/18 25/11 26/15
+                      confirm [1] 1/10        Dawn [3] 1/4 1/6 30/4 disposal [2] 21/20       engaging [1] 17/15
+26/25
+                      connected [2] 18/11 day [13] 3/3 4/17          22/2                    enquired [1] 8/20
+caseworkers' [1]                              4/17 4/21 4/21 5/11 disseminate [1]
+                      26/10                                                                  entailed [1] 2/13
+3/17
+                      connections [4]         5/15 6/25 6/25 7/9     14/18                   environment [1]
+category [9] 3/10                             9/20 10/8 11/7
+                      10/11 10/21 19/14                              distinction [1] 3/18    11/10
+3/25 4/1 13/25 14/6
+                      23/1                    days [5] 2/19 5/15     diverse [1] 6/20        epidemic [1] 22/8
+15/19 16/16 18/4 19/7                         7/9 10/5 11/7
+                      conscious [1] 18/1                             divulge [1] 17/11       equally [1] 8/16
+cease [1] 15/7                                deal [11] 13/6 13/12 do [11] 2/24 8/13 9/5 equipped [1] 14/25
+                      consequence [2]
+certainly [3] 12/1                            14/22 15/1 15/4 18/24 17/17 21/8 23/13 24/2 escalating [1] 26/8
+                      16/23 16/25
+16/13 17/19
+                      Conservative [1]        19/14 19/20 20/7       25/6 25/11 28/10        establish [1] 26/23
+chain [3] 9/2 11/1                            20/13 22/15
+                      16/4                                           28/21                   established [1] 26/18
+13/22
+                      consider  [1]  17/24    dealing [9] 4/21 5/7 documents [1] 2/14 etc [2] 4/8 8/8
+channels [1] 7/23                             5/25 6/21 7/10 11/12 does [6] 4/11 6/23
+                      consideration [4]                                                      even [2] 17/15 17/23
+Chartered [1] 2/1                             13/15 13/20 18/10
+                      16/10 22/14 23/11                              10/7 10/9 13/18 29/14 event [1] 25/13
+chase [2] 28/14
+                      28/11                   dealt [1] 22/17        doing [5] 6/21 8/17 ever [4] 18/20 18/21
+28/15
+                      considered [2] 14/25 decision [2] 17/24        10/5 11/5 16/8          18/21 18/22
+chasers [1] 26/4                              21/25
+                      27/12                                          domestically [1] 21/7 every [2] 2/22 24/22
+China [1] 19/9
+                      considering [1] 9/18 dedicated [7] 24/15 don't [18] 9/12 12/11 evidence [11] 3/24
+Chris [1] 20/1
+                      contact [23] 2/13 4/7 24/20 25/8 25/9 27/10 14/7 15/25 16/12           5/14 8/11 15/20 16/13
+Chris Hall [1] 20/1
+                      4/22 4/23 6/1 8/9 9/7 27/24 28/7               16/12 17/7 17/10        22/20 24/15 28/3 28/4
+chronology [1] 10/15
+                      9/8 15/6 15/9 18/9      deem [1] 17/8          17/18 18/3 18/20        28/13 29/13
+civil [1] 1/13
+                      22/24 22/24 24/15       Deighton [1] 18/9      18/20 23/21 25/10       exact [1] 2/24
+clarity [1] 27/18
+                      24/19 24/20 25/8        democracy [1] 22/23 26/11 27/2 27/9 28/23 example [11] 10/1
+Closing [3] 23/9 27/1
+                      25/10 27/10 27/12       Dennis [1] 20/1        done [2] 14/12 14/13 12/21 12/23 13/23
+28/18
+                      27/19 27/24 28/18       Department [4] 1/20 down [4] 6/7 14/2          14/20 18/12 18/22
+cognisant [1] 15/10                           1/21 6/15 10/15
+                      contacts  [1]  9/1                             18/7 19/8               18/23 26/8 26/20
+colleague [1] 8/19
+                      context [15] 5/22       depended [1] 9/21      Dubai [1] 20/20         26/22
+come [3] 19/1 22/20
+                      6/19 6/22 6/24 7/7 7/8 deprecation [1] 21/1 Duchess [2] 18/8           exasperated [2] 8/13
+25/19
+                      8/2 8/22 9/6 11/2       deputy [1] 1/16        18/23                   8/15
+comes [1] 16/18                               describe [3] 4/19
+                      11/18 11/25 13/10                              due [3] 9/18 23/15      exception [2] 4/25
+coming [6] 7/20 7/22                          5/14 8/4
+                      26/12 27/2                                     25/14                   15/5
+10/3 11/19 12/18
+                      continuation [1] 7/9    described   [1] 24/14 during [1] 3/3           exchange [1] 6/13
+12/23
+                      contract [2] 12/5       describing [1] 4/13                            exhibit [1] 10/10
+commercial [4] 1/16
+                      23/16                   description [1] 25/6 E                         expectation [1] 4/14
+1/17 20/6 22/19
+                      conversations    [2]    designation [1] 3/22 each [1] 23/9             expediting [1] 26/9
+committee [1] 14/1
+                      11/9 17/3               desperate [1] 26/21 earlier [1] 11/12          experience [16] 2/8
+common [1] 5/13
+                      conversion   [1]  11/17 despite [1] 10/5       early [5] 2/22 12/6     4/16 4/17 4/20 5/1 5/3
+commonly [1] 17/18
+                      converted [1] 11/12 detail [1] 20/23           17/19 17/20 21/13       10/8 12/6 13/20 17/9
+communicate [5]
+                      correct [6] 1/12 1/22 details [2] 15/25        editor [1] 16/19        21/5 22/6 22/21 25/16
+17/13 25/1 25/12                              27/19
+                      1/25 2/6 3/9 5/16                              Education [3] 1/20      25/17 28/12
+27/15 27/21
+                      correlates [1] 5/6      DfE [1] 8/19           6/15 10/16              experienced [2] 19/4
+communication [3]
+                      correspondence [1] did [13] 2/10 6/8 6/18 effectively [2] 4/11         21/19
+15/13 17/24 18/3                              7/17 9/15 11/24 12/12 27/21
+                      4/13                                                                   explore [1] 24/9
+communications [1]                            16/3 16/5 17/2 17/5 efficient [1] 20/8
+                      could [33]                                                             exposure [1] 16/8
+17/15
+                      couldn't [1] 22/17      27/11 29/7             efficiently [1] 23/20 expressed [1] 11/22
+companies [1] 15/24
+                      COUNSEL [2] 1/7         didn't [9] 3/17 9/14 effort [1] 11/6           expression [1] 7/11
+company [1] 14/4                              11/10 14/4 16/7 16/13 efforts [3] 5/4 6/17
+                      30/5                                                                   extraordinarily [1]
+compared [1] 12/6                             20/23 22/12 28/15      8/18
+                      country  [1]  17/21                                                    29/6
+comparison [1] 7/3
+                      course [4] 2/17 8/15 difference [3] 3/19       either [3] 3/19 9/2     extreme [3] 5/5 5/5
+competency [1]                                5/3 23/6               16/14
+                      9/19 21/17                                                             6/11
+
+                                                                                                (10) cases - extreme
+F                      28/3                      13/4 18/9 20/22 22/25 I have [1] 26/5                 1/10
+                       giving  [2]   4/13 26/5 23/2                       I hear   [1]  27/23         INQ000565074     [1]
+fabric [2] 7/6 7/19
+                       globally   [1]  3/6      helpfully    [1]  1/8     I interrupt    [1]  7/11     25/21
+factor [2] 16/12
+ 17/17                 go [1] 14/1              helping [1] 29/9          I know [1] 9/13             INQ000565104 [1]
+                       goes   [2]  24/25 27/7 hence [1] 26/4              I may   [3]   20/12 21/21 4/3
+factual [1] 15/14
+                       going [6] 10/22 10/24 here [4] 4/5 5/22 8/4 25/19                              INQ000565127 [1]
+failed [1] 25/14
+                       11/18 11/23 12/22         8/12                     I mean [2] 17/18 22/9 13/24
+fair [3] 8/24 13/14
+                       25/19                    Hi [1] 25/25              I referenced [1] 6/9 INQ000565128 [1]
+ 20/2
+                       good [2] 21/2 24/3       high [16] 3/23 10/22 I say [1] 22/9                    12/20
+fairly [1] 10/7
+                       goods [1] 7/5             11/23 11/25 12/3 12/4 I see [1] 14/23                INQ000565130 [1]
+familiar [1] 24/18
+                       got [1] 7/13              12/5 18/11 18/16 19/6 I should [1] 14/6               15/17
+Families [1] 24/4
+                       Gove [3] 6/2 8/8          19/12 19/21 21/5         I spoke [1] 26/1            INQ000565162 [1]
+family [3] 18/12
+                       20/20                     21/15 21/16 22/22        I suspect [1] 10/21          18/5
+ 19/18 29/9
+                       government      [1]  7/4 high-profile [3] 3/23 I think [25] 3/16 3/20 INQ000565172 [1]
+far [1] 16/7
+                       gowns [1] 26/22           19/6 19/21                4/12 4/25 5/2 6/9 6/22 16/17
+faster [1] 28/11
+                       Graells   [1]  28/3      highest     [1]  27/16     7/8 8/24 11/1 11/2         INQ000565246 [1]
+feedback [2] 25/2
+                       grateful   [2]  8/1 29/4 his [10] 21/22 22/2        13/14 14/2 14/13            10/13
+ 25/4
+                       greater [1] 21/11         24/14 25/6 26/3 27/7 15/10 16/11 17/8 20/2 INQ000565284 [1]
+feel [2] 5/25 6/18
+                       guess [11] 4/13 6/19 28/4 28/10 28/13               21/12 21/12 22/3            19/8
+Feldman [2] 26/2
+                       9/2 11/4 11/5 11/9        28/17                     23/24 26/11 29/5           INQ000565319 [1]
+ 26/10
+                       17/23 18/25 19/5 20/5 hm [1] 10/17                  29/12                       5/17
+felt [4] 14/21 15/4
+                       20/7                     holding [1] 9/16          I was [7] 2/19 2/22         INQ000565322 [1]
+ 19/2 19/3
+                       guidance [4] 13/5        hoops [4] 6/4 6/8          8/15 18/23 20/23 23/6 20/17
+few [1] 24/6
+                       18/10 19/22 21/9          6/19 7/12                 27/3                       INQ000565432 [1]
+final [2] 7/25 29/15
+                       guided   [1]   19/20     hour   [1]   10/5         I would    [13]    4/12      19/16
+finally [1] 20/16
+                                                hours    [8]  5/15 7/9     4/23 9/16 10/19 14/19 INQ000575149 [1]
+Finance [2] 23/19      H                         8/10 9/7 9/9 11/7         14/20 15/3 15/10 17/8 9/24
+ 27/1
+                       had [19] 4/15 4/20        28/15 29/7                22/10 24/19 24/22          INQ00565309 [1]
+financial [1] 23/15    5/1 8/20 10/24 11/11 hours' [1] 5/10                25/16                       7/25
+first [2] 13/12 27/14 11/12 13/20 13/20
+                                                how [16] 3/19 4/20        I wouldn't [3] 8/15         INQUIRY [12] 1/7 1/9
+five [2] 5/10 22/4     14/23 20/12 20/19         8/20 9/10 11/4 11/19 15/3 28/2                        2/15 5/14 8/3 8/11
+five years' [1] 22/4   23/17 24/15 24/16         11/24 13/6 13/10         I'd [3] 3/10 5/7 8/1         15/20 16/3 22/21 28/4
+flag [1] 14/6          24/23 25/14 26/24         13/11 13/12 14/12        I'll [1] 25/19               29/10 30/5
+focus [1] 6/3          27/10                     17/3 17/12 17/12 22/3 I'm [8] 6/17 16/7              Inquiry's [1] 14/10
+FOI [1] 10/19
+                       Hall [1] 20/1            However [1] 25/11          16/24 18/1 24/19           instance [1] 5/3
+forbidden [1] 18/24
+                       Hancock [2] 6/1 8/8 HPL [32]                        25/19 27/1 29/4            Institute [1] 2/1
+Forgive [2] 7/11
+                       handed [2] 11/13         hundreds      [1]  7/3    I've  [6]  5/1 10/22        instructed [1] 19/20
+ 11/21
+                       15/8                     Hunt    [1]  8/8           11/18 20/3 24/6 25/9 interchangeably [1]
+form [2] 9/3 11/24
+                       handle [3] 17/12                                   idea [2] 9/22 21/2           3/16
+formal [1] 17/7        18/15 23/11              I                         ideas    [1]  15/23         internationally  [1]
+forward [1] 22/3
+                       handled [2] 16/22        I address [1] 26/12 identify [1] 12/11                 19/13
+frequently [2] 9/10    18/18                    I am [2] 12/22 24/9       ie [3] 3/18 7/18 23/13 interrupt [1] 7/11
+ 28/16
+                       handling [2] 9/23        I ask [3] 4/16 16/5       if [34]                     into [6] 4/15 10/14
+fruitful [1] 11/4      19/6                      24/3                     impact [1] 16/14             11/12 13/3 16/18 18/6
+frustrated [1] 8/16    has [10] 2/15 8/11       I can [1] 21/15           implied [1] 14/1            involved [2] 8/19
+frustrations [1] 5/12 13/2 14/7 15/20 15/23
+                                                I conducted [1]           important [6] 4/6 6/1 14/1
+functions [1] 23/10    16/3 18/8 23/24 28/3 28/24                          8/3 8/6 8/23 26/12         involves [1] 7/1
+further [5] 6/23 10/14
+                       have [52]                I considered [1]          impossible       [1]  29/8 involving [1] 2/13
+ 23/14 23/22 28/22
+                       having [4] 16/13 19/9 27/12                        including [1] 28/14 is [41]
+G                      27/12   28/7             I could   [2]   5/21 9/20 inconceivable [1] 9/4 issue [2] 18/19 18/20
+                       he [11] 19/2 19/2        I did [2] 2/10 9/15       indeed [2] 25/24            it [71]
+Gareth [1] 6/2
+                       19/3 19/4 19/5 24/25 I didn't [4] 9/14 16/7 29/17                              it matter [1] 16/5
+general [5] 12/13
+                       25/3 25/8 26/1 26/6       16/13 20/23              INDEX     [1]   29/21       it's [14] 4/25 7/9 8/2
+ 12/14 25/17 27/9
+                       27/8                     I do [2] 24/2 25/11       indicating     [1]   20/11   10/13 11/2 13/14 14/6
+ 28/16
+                       he'd [1] 14/1            I don't [7] 9/12 14/7 individuals [3] 12/18 15/23 17/10 18/3 22/7
+generic [1] 22/10
+                       he's [1] 14/4             17/7 18/20 23/21          20/3 22/18                  22/20 22/25 28/4
+Geordie [1] 21/3
+                       heads [1] 26/5            25/10 26/11              inevitable     [2]  22/22   item   [1] 26/19
+get [6] 6/4 11/11 22/8
+                       health  [2]   1/21 16/19 I felt [2] 14/21 15/4      22/25                      its [2]  12/25 24/11
+ 22/23 22/24 26/3
+                       hear  [1]   27/23        I get  [1]   22/8         information       [1] 17/12 itself  [1] 12/5
+gets [1] 11/13
+          9/13 9/22    heard [5] 2/16 8/11 I got [1] 7/13                 informed     [1]   21/25
+give [5]                                                                                              J
+                       14/10 15/20 16/3         I guess [11] 4/13         initial [1] 2/18
+ 21/2 22/14 23/10
+                       hearing [1] 29/19         6/19 9/2 11/4 11/5       initiate [3] 23/13          James [5] 24/14
+given [7] 3/22 5/13
+                       hectic [1] 11/9           11/9 17/23 18/25 19/5 23/14 23/15                     24/14 27/7 27/25
+ 13/5 16/8 17/9 17/10
+                       help [7] 3/12 8/14        20/5 20/7                INQ000475069 [1]             28/13
+
+                                                                                                          (11) fabric - James
+J                       length [1] 26/3                29/4 30/4                    23/21 23/24 23/25       observation [2]
+                        let  [1]   17/24               Max   [6]   14/13 19/1       24/1 24/3 29/2 29/4     12/13 12/14
+Jeremy [1] 8/8
+                        level    [3]  13/16 15/1       19/25 21/22 21/24            30/4 30/6               obtain     [1] 27/18
+Jeremy Hunt [1] 8/8
+                         16/8                          21/24                        Ms  Matthias    [5] 1/8 obviously [1] 21/22
+John [1] 18/8
+                        levels [1] 13/1                Max's [1] 19/1               11/21 23/21 24/3 29/4 off [1] 11/13
+journalist [2] 16/19
+                        liaison [1] 24/17              may [8] 8/21 10/14           Ms Morris [5] 23/24 offer [11] 8/21 9/17
+ 17/16
+                        life [1] 29/9                  18/4 19/7 20/12 21/21 23/25 24/1 29/2 30/6 14/11 14/22 15/12
+journalists [3] 16/22
+                        like [4] 3/11 8/12             23/1 25/19                   much [6] 12/8 12/9      15/25 19/17 25/4
+ 17/3 17/11
+                         13/2 27/11                    May 2020 [1] 10/14           17/22 25/23 29/2        26/10 26/24 27/5
+judgement [2] 14/20
+                        link [2] 8/7 19/12             maybe [1] 7/2                29/16                   offered [2] 3/5 22/25
+ 19/2
+                        linked [1] 6/17                me [9] 3/3 4/13 5/9          must [2] 29/4 29/8      offerer's [1] 28/19
+juggling [1] 10/3
+                        links [2] 19/9 20/21           5/12 7/11 11/21 13/18 my [31]                        offering [4] 7/4 20/22
+July [1] 1/19
+                        list  [1]   14/17              14/20 26/13                  my  Lady   [1]  29/1    26/3 26/6
+jumping [4] 6/4 6/7
+                        little  [2]   10/14 15/20 mean [6] 6/8 8/4                  myself  [2]   6/13 20/1 offers [23] 2/20 3/4
+ 6/19 7/11
+                        locations [1] 12/18            11/16 13/18 17/18                                    7/6 7/17 7/20 12/8
+just [21] 1/13 5/21                                                                 N
+                        lockdown        [1]   17/20 22/9                                                    13/1 13/7 13/7 14/17
+ 6/7 6/10 9/20 9/22
+                        long    [1]   29/6             means     [3]   16/21        naturally [1] 12/5      16/21 21/16 22/16
+ 12/13 12/17 12/21
+                        look [5] 12/15 13/23 19/18 26/18                            nature [2] 6/20 8/25 23/4 24/17 25/2 27/13
+ 17/10 17/10 19/16
+                         16/15 25/20 26/23             meet [2] 9/14 9/15           necessarily [2] 15/3 27/16 27/17 28/1 28/5
+ 20/3 20/5 20/9 20/19
+                        looking [2] 22/3 22/3 member [2] 2/1 6/14 25/10                                     28/8 28/22
+ 21/15 22/5 22/8 24/9
+                        looks [1] 13/2                 members [1] 14/21 need [3] 16/9 17/22 office [4] 4/8 4/9 8/9
+ 25/23                                                                              26/20
+                        looney [2] 6/23 29/6 memory [2] 14/13                                               21/2
+Justice [1] 24/4
+                        Lord [6] 4/8 14/3 18/9 18/17                                needed    [2] 17/22     official [1] 15/7
+Justice UK [1] 24/4                                                                 25/14
+                         20/20 26/2 26/10              Mendix [2] 13/2                                      officials [2] 13/21
+K                       Lord Agnew [1]                 27/22                        negative   [1] 16/14    19/10
+         24/1 30/6       20/20                         mentioned        [3]  18/8   neutrally [1] 16/5      often   [1] 6/18
+KC [2]
+                        Lord     Feldman      [1]      20/3   24/5                  never [3] 18/19 18/19 Oh [1] 20/19
+keen [1] 4/9
+                         26/10                         met [1] 9/11                 18/19                   Okay [10] 3/14 4/23
+keep [1] 10/6
+                        Lord     Triesman      [1]     Michael     [2]   8/8  20/20 new [2] 4/15 10/4       11/1 11/25 13/14 24/8
+kick [1] 14/8
+                         14/3                          might    [1]   19/10         next [2] 1/4 2/15       24/13 24/21 24/25
+kind [7] 5/6 9/13
+                        lose    [1]   11/13            mind    [2]   12/12   14/23  NHS [1] 10/4            25/9
+ 14/10 16/7 17/12 18/2
+                        lot  [1]   3/16                minister     [4]   6/2 8/7   no [16] 3/18 15/23      on  [56]
+ 29/9
+                        lots   [3]   11/7   11/8       15/4   15/7                  16/22 16/24 17/18       one   [13] 3/25 4/25
+kinds [3] 12/16 21/10
+                         11/8                          ministers      [6]  13/7     17/21 18/13 19/13       5/8  5/11    7/2 12/12
+ 23/4
+                        love    [1]   10/19            13/8   13/20     15/1  15/11 19/15 19/22 20/8        12/21     15/5  15/23
+kits [1] 2/21
+                        lower     [1]   27/17          22/24                        21/12 23/6 25/17 28/2 16/18 23/9 26/10
+knitted [1] 7/5
+                        luxury [1] 22/12               Mm [1] 10/17                 28/12                   26/20
+know [21] 5/1 5/10
+                                                       Mm-hm      [1]    10/17      nobody    [1]  13/2     ones    [2] 8/6 8/23
+ 6/18 6/21 7/1 7/10 8/8 M
+                                                       MoD    [1]   26/4            noise [1] 26/2          only   [5]   2/21 2/25
+ 8/21 9/3 9/13 9/18
+                        made [2] 4/7 15/21             moment       [1]   24/5      non [5] 7/23 10/4       10/7    13/6   21/7
+ 11/6 15/4 16/10 17/10
+                        majority [1] 4/23              Monday      [2]   29/16      12/7 26/22 28/1         onwards       [1]  3/1
+ 17/11 17/21 18/24
+                        make [6] 9/8 14/20             29/19                        non-HPL [3] 12/7        operating      [1]  17/17
+ 19/25 22/7 27/2
+                         15/9 17/23 19/2 21/25 more [9] 2/4 10/3                    26/22 28/1              opinion     [3]  21/18
+knowledge [1] 1/11
+                        makes [2] 23/12 27/6 14/11 21/24 22/6                       non-VIP [2] 7/23 10/4 22/5 23/17
+L                       making [2] 12/25               23/19 27/16 27/21            normally [1] 6/13       opportunities [4] 3/7
+labelled [1] 3/11        26/1                          28/16                        not [26] 2/21 4/24 6/5 19/6 27/10 28/17
+Labour [5] 12/23        manage [1] 21/3                Moreover [1] 27/11           6/12 6/17 10/7 11/25 opportunity [1] 13/11
+ 12/25 13/25 14/2 16/6  management           [1]       Morris [5] 23/24             13/6 16/24 17/8 17/9 opposition [3] 13/8
+lady [7] 1/4 4/8 14/14   13/17                         23/25    24/1    29/2  30/6  17/14 17/17 18/1        13/8 17/4
+ 22/21 24/2 29/1 29/14  manned        [1]  13/19       most    [4]   20/21   21/18  18/13  18/24   21/7     or [50]
+lands [1] 22/8          manner       [5]   15/14       21/19    26/20               22/19  23/13   23/13    order    [2] 11/13 11/17
+lane [6] 7/21 20/4       15/14     20/7  20/8   22/17  MP  [1]   15/22              23/14  23/15   26/15    orders     [1] 10/20
+ 21/6 22/22 24/23 26/9  many      [1]   11/19          MP,  [1]   4/8               27/1  28/4  28/12       other   [2]   6/2 27/17
+language [2] 11/17      March      [7]   1/1  1/19     MP,  Lord     [1]   4/8      Note  [1]  13/25        ought     [1]  17/4
+ 15/15                   2/19    5/19   20/18   21/13  MPs   [2]   17/4    22/24    now  [3]   6/4 23/24    our  [5]    8/17  21/14
+large [1]  12/1          29/20                         Mr [7]    1/3   14/9  24/14  25/19                   21/19     26/23   27/15
+last [1] 26/1           Matt [2] 6/1 8/8               27/7 27/25 28/13             number [6] 3/5 5/7      out [6] 7/16 22/15
+latter [1] 22/13        Matt    Hancock       [1]  6/1 29/13                        5/13 7/1 12/21 18/2     22/18 23/3 23/7 23/11
+least [3] 11/21 12/2 Matt                              Mr Cairnduff [1] 14/9 Number 10 [1] 18/2 outside [1] 17/22
+ 12/11                   Hancock/Michael [1] Mr James [4] 24/14 nutritional [2] 7/5                         over [2] 15/8 19/16
+led [1] 10/24             8/8                          27/7   27/25     28/13       7/18                    overseas [3] 19/17
+legs [1] 14/7           matter      [2]  16/3  16/5    Mr Sharma        [2]  1/3                            21/8 23/1
+                        Matthias       [8]  1/4  1/6   29/13
+                                                                                    O                       overwhelmed         [1]
+lend [1] 12/5
+                         1/8 11/21 23/21 24/3 MS [12] 1/6 1/8 11/21 OBEs [1] 20/24                          20/24
+
+                                                                                                        (12) Jeremy - overwhelmed
+P                      16/11 26/20              19/12 19/21               references [1] 6/22 royal [3] 18/12 19/18
+                       pointless   [3]  7/13   profiles  [1]   18/16      referral [4] 3/10           20/20
+page [4] 4/18 9/24
+                       7/17 7/18               progress    [3]   14/4      12/23 13/4 16/5           royalty  [1] 18/17
+19/16 30/2
+                       points  [1]  3/3         15/14 25/2                referrals  [12]    3/2 3/4 rulers [1] 19/10
+page 1 [1] 9/24
+                       political [2] 10/11     progression [1]             3/12 3/25 12/16 15/21
+page 4 [1] 4/18                                                                                      S
+                       12/12                    24/17                      16/4 18/15 18/25
+pandemic [2] 2/8                                                                                     said [1] 28/4
+                       politicians [1] 13/9 projects [1] 7/2               20/14 21/6 21/10
+17/20
+                       position [2] 4/11       promoted [1] 5/22          referred [4] 2/24 3/24 Salamanca [1] 13/4
+paragraph [5] 4/18                                                                                   same [3] 2/25 3/25
+                       19/19                   properly [1] 14/7           24/10 26/17
+6/9 7/25 11/2 28/17
+                       positions [3] 18/15 proportion [1] 12/1 referrer [5] 3/23 4/24 28/5
+paragraph 13 [1]
+                       19/21 21/7              proud [1] 8/17              15/6 16/16 28/19          Sanchez [1] 28/3
+4/18
+                       positive [1] 16/14      provide [5] 5/21 8/2 referrers [7] 4/14               saw [1] 6/24
+paragraph 41 [1] 6/9
+                       possibly [4] 20/22       10/1 11/1 14/14            4/17 4/22 12/2 14/17 say [17] 4/12 5/1 8/15
+paragraph 54 [1]                                                                                      8/24 9/17 10/18 13/14
+                       22/4 22/18 23/19        provided [4]      1/8 18/2  19/21 21/16
+11/2
+                       potential  [3]  19/12    19/23 27/12               reflect  [1]  10/7          15/3 16/24 17/17 20/2
+paragraphs [1] 19/8                                                                                   22/9 24/25 25/24 27/7
+                       27/13 27/25             providing [1] 15/13 reflecting [2] 21/5
+Parliamentary [1]                                                                                     27/23 28/5
+                       power   [3]  18/16      prudent    [1]  3/14        21/12
+22/23
+                       19/21 21/7              public [1] 2/5             regard [1] 17/7            saying [1] 20/11
+part [1] 6/3
+                       PPE [17] 1/23 2/20      Purchase [1] 2/1           regarding [2] 24/22 says [5] 12/24 15/22
+particular [11] 3/10                                                                                  25/3 25/8 27/8
+                       3/4 5/4 7/6 8/18 8/20 put [3] 10/19 12/22           28/10
+4/12 12/11 14/22 15/6
+                       8/21 10/20 17/1 17/16 20/12                        regards [2] 8/20           screen [5] 4/3 5/17
+17/14 19/13 19/18                                                                                     7/24 9/24 20/16
+                       17/22 18/9 21/14 23/2                               15/13
+21/6 26/19 27/5                                Q
+                       26/19 27/6                                         regular [1] 24/17          second    [1] 18/6
+particularly [1] 18/16                                         12/4  12/8
+                       precisely [2] 2/12 8/3  quantity   [2]             rejection [2] 25/3         secondary     [1] 16/12
+parties [2] 10/12                                               3/21                                                  1/20
+                       pressure [2] 27/4       question    [5]             27/19                     seconded     [3]
+12/18
+                       29/7                     13/10 24/19 26/8          relation [3]    11/3        2/18 4/15
+party [7] 10/21 12/12                           26/14
+                       pressures    [1]  6/11                              15/21 26/2                Secondly [1] 27/18
+13/8 13/8 16/4 16/6
+                       primary   [2]  16/10    questions [10] 1/7         relationship     [1]  25/7 secret [1] 17/21
+17/4
+                       21/14                    23/22 23/24 24/1 24/3 relatively [1] 4/14            sectors [1] 2/5
+past [1] 5/2                                    24/6 29/1 29/3 30/5 relevant [4] 5/6 18/3 secure [5] 5/4 8/18
+                       priorities [1] 27/15
+peer [4] 12/23 12/25                            30/6                                                  19/11 21/14 26/21
+                       prioritisation [1]                                  25/2 27/20
+13/25 14/2
+                       24/12                   quick [1] 6/4              repeat [1] 19/23           see [4] 10/20 12/17
+people [15] 13/21                              quickly [1] 14/4                                       14/23 16/13
+                       prioritise [1] 26/19                               reported [1] 21/24
+14/24 15/1 16/21 17/3
+                       priority [10] 15/23     quite [2]   5/1  8/17      request [2] 27/15          seeing [1] 11/19
+18/11 18/15 18/18
+                       16/9 16/25 21/5 21/15                               27/19                     seeking [2] 15/11
+19/9 19/19 20/22 21/7
+                       21/16 22/22 26/24
+                                               R                          requested [1] 28/20 24/9
+21/24 22/23 23/2                               Rachel [1] 15/22
+                       27/16 27/17                                        required [1] 17/9          seem [1] 11/21
+People' [1] 4/6                                raised [2] 10/20
+                       private  [2]  2/5 4/8                              resource     [1]  22/19    seen [4] 10/22 10/24
+percentage [1] 11/15                            15/24
+                       proactive   [4]  22/6                              resources     [1]  13/19 11/18 11/23
+performed [2] 7/13                             range [1] 12/17
+                       22/8 22/13 22/17                                   respect [1] 9/5            select [1] 14/1
+23/10                                          rapid [2] 26/17 26/17 respond [3] 13/11
+                       probably [1] 3/14                                                             self [1] 21/1
+period [1] 2/19                                reactive [1] 23/12                                    self-deprecation [1]
+                       process [14] 2/15                                   13/13 28/15
+persistence [2] 5/5                            read [1] 27/9                                          21/1
+                       13/11 21/9 22/15                                   response [5] 2/8
+5/6
+                       23/14 24/6 24/7 24/12 really [6] 7/6 7/7            4/10 22/7 26/17 26/18 sending [1] 14/19
+person [3] 6/14
+                       24/25 26/6 26/9 26/17 16/12 26/21 26/21            responses [1] 6/5          senior [14] 3/23 9/1
+18/14 28/7                                      29/4
+                       26/18 27/4                                         responsibilities [1]        13/1 13/21 13/21
+personally [1] 3/18                            realms   [1]   17/23                                   14/12 15/7 15/11
+                       processed [4] 3/20                                  2/13
+perspective [6] 3/15                           reason   [1]   19/3                                    18/11 18/18 19/10
+                       12/2 14/11 27/16                                   resubmit [1] 25/4
+3/17 9/10 9/14 22/9                            reasons    [2]  25/3
+                       processing [5]     11/8                            resubmitted [1]             19/21 20/14 20/21
+28/6
+                       12/7 16/2 16/4 27/14 27/18                          25/15                     seniority [3] 15/2
+phone [1] 5/10                                 recall [3] 17/7 18/20 result [2] 25/3 26/2             15/5 21/11
+                       procure [1] 6/17
+picked [1] 13/2                                 18/21
+                       procurement      [6]                               resume    [1]   29/15      sense [2] 23/12 27/6
+piece [2] 8/11 27/5
+                       1/24 2/4 2/9 4/20 8/20 receive [2] 3/2 14/19 retain [2] 19/3 19/25 sensitively [1] 18/18
+place [1] 23/17                                receiver [1] 17/2                                     sent [4] 5/19 8/18
+                       22/11                                              return [1] 11/6
+please [28] 1/10 2/11
+                       procuring [1] 22/11 receiving [2] 12/17 Richard [2] 20/2                       12/2 25/20
+3/11 3/12 4/3 4/16                              18/21
+                       produced [1] 10/11                                  24/14                     seriously [1] 6/6
+5/17 5/21 6/3 6/7 7/24                         recognise [1] 28/23 right [7] 1/14 1/21 2/7 servant [1] 1/14
+                       product [3] 16/9
+7/25 8/14 9/17 9/24                            recruit [1] 4/15
+                       25/13 26/24                                         3/8 12/15 18/4 27/7 Service [1] 1/17
+12/15 13/3 13/5 13/23                          Reeves    [1]  15/22
+                       production [1] 19/11                               risks [1] 17/14            seven [4] 2/19 5/15
+15/17 16/15 18/4 19/7                          refer [3]   4/4  5/22
+                       Professor [1]     28/3                             robust [2]     4/19  5/2    7/9 11/7
+19/16 20/16 24/7                                10/10
+                       Professor                                          role  [7] 1/23 2/11        seven days [1] 5/15
+25/20 25/22
+                       Sanchez-Graells [1] reference [3] 1/9               2/25 3/1 6/25 16/8        shall [1] 29/15
+pm [3] 1/2 4/8 29/18                            3/13 19/9
+                       28/3                                                21/22                     Sharma [2] 1/3 29/13
+point [4] 12/3 15/8
+                       profile [4] 3/23 19/6 referenced [1] 6/9           roll [1] 7/18              sheer [1] 6/20
+
+                                                                                                           (13) page - sheer
+S                       4/18 5/15 6/10 10/10 11/17 12/8 12/9 20/12 7/22 8/25 11/14 11/19 use [2] 6/13 21/15
+                        11/3 27/7 28/18           22/13 23/8 24/11         24/10 26/3 27/22         used [2] 3/16 9/3
+Sheiks [1] 20/24
+                       statistics    [1]  9/12   test [1]  2/21           Thursday     [1] 1/1      using [1] 15/15
+should [4] 14/6 14/7
+                       steer   [1]  13/6         text [1]  26/11          time  [12]  5/8 6/12
+19/2 23/4
+                       steps [2] 28/21 28/23 than [5] 2/4 21/24            6/14 16/9 19/13 22/4 V
+sic [1] 24/23
+                       still [1] 14/7             27/17 27/21 28/16        22/5 22/12 26/3 26/21 value [2] 12/5 12/10
+side [3] 10/22 11/23                                                                                various [4] 3/3 11/14
+                       subset [1] 2/25           thank [21] 1/5 3/7        28/7 29/8
+11/25
+                       such [6] 8/9 17/3          5/17 7/24 9/22 10/13 timely [2] 15/14 20/7 20/24 22/1
+sight [1] 11/13                                                                                     ventilators [1] 2/21
+                        18/15 19/6 19/24          15/16 16/17 19/16       times [1] 6/18
+similar [1] 16/2                                                                                    versed [2] 13/15
+                        19/25                     23/21 23/23 24/2 25/9 tired [1] 8/16
+simple [1] 7/18                                                                                     17/12
+                       suggesting [4] 23/4 25/23 28/25 29/1 29/2 titles [1] 20/25
+simply [2] 11/18
+                        23/5 23/6 27/2            29/7 29/9 29/11 29/16 today [1] 26/5              versus    [2] 25/18 28/1
+11/19
+                       suggestion [1] 22/5 that [153]                     together [1] 26/25        very  [13]   3/16 3/23
+situation [3] 7/3 7/8                                                                               4/6  4/19   8/16 13/1
+                       suggests [1]       7/12   that I [3]  6/12 8/18    told [1]  22/21
+14/19
+                       summarise        [1] 4/11 16/8                     too  [2]  8/6 8/23        18/18 19/20 21/25
+six [1] 5/10                                                                                        25/23 29/2 29/12
+                       supplier [7] 2/22 3/20 that's [13] 1/10 1/12 top [1] 25/23
+slightly [1] 16/15                                                                                  29/16
+                        4/24 5/23 8/21 9/17       1/22 1/25 2/6 3/9 5/16 totally [1] 10/4
+smaller [4] 2/23 7/1
+                        15/9                      8/22 23/6 24/13 25/21 tough [1] 29/5              via [5] 4/7 9/16 20/19
+12/8 12/9
+                       suppliers [15] 2/14        25/23 28/17             training [6] 17/2 17/7 20/20 20/20
+snapshot [2] 10/1                                                                                   view [4] 9/13 11/22
+                        2/25 4/7 4/17 4/22 5/2 their [5] 5/12 15/25        18/10 19/13 19/22
+10/7                                                                                                11/24 28/10
+                        5/11 5/12 5/25 7/2 7/4 22/21 22/24 26/6            20/9
+so [46]                                                                                             VIP [16] 3/15 3/19
+                        8/5 8/25 10/21 25/18 them [11] 4/5 4/19           treated [1] 28/5
+Social [1] 1/21
+                       suppliers/those [1]        6/1 6/5 8/9 9/5 13/2 triage [2] 7/17 22/15 5/23 7/21 7/23 7/23
+some [15] 3/5 3/6                                                                                   8/5 10/3 10/4 10/8
+                        10/21                     13/3 14/18 17/5 27/21 triaged [5] 8/25
+5/21 7/12 7/17 8/2
+                                       2/2 2/20  theme [2] 22/20           11/16 21/10 21/18        13/3 13/25 14/6 15/19
+11/1 12/7 12/15 20/20 supply [6]
+                        7/4 9/1 12/8 13/21        24/13                    23/4                     26/9 28/8
+21/1 21/8 21/9 26/1
+                       support     [1]   2/23    themselves     [1] 25/12 triaging [2] 2/20 11/7 VIP Lane [1] 7/21
+27/3
+                       supporting [1] 5/4        then [6] 14/17 14/20 Triesman [1] 14/3             volume [7] 5/5 9/15
+some Royal [1]                                                                                      9/21 9/22 10/6 12/4
+                       survey [2] 8/7 8/24        15/9 17/17 19/1 26/13 true [2] 1/11 4/25
+20/20                                                                                               12/9
+                       suspect [1] 10/21         there [20] 3/18 12/21 trust [1] 20/6
+somebody [5] 10/15                                                                                  volunteered [1] 2/7
+                       swamped [1] 10/5           13/1 14/24 16/20        trusted [1] 19/5
+14/11 16/6 17/15
+                       swiftly [1] 27/17          16/20 17/14 18/10       try [3] 9/8 18/9 26/23 VVIP [8] 3/11 3/12
+21/11                                                                                               3/15 3/19 3/21 3/25
+                       sworn [2] 1/6 30/4         18/14 19/18 19/22       turn [1] 15/17
+someone [1] 15/5                                                                                    10/20 13/3
+                                                  20/8 21/8 24/19 24/25 turning [1] 4/16
+something [2] 23/5 T
+                                                  25/23 26/11 26/16       two [4] 7/2 13/1
+24/18
+                       TA [4] 26/4 26/6           27/23 27/25              27/12 27/25
+                                                                                                    W
+sometimes [3] 8/16 27/24 28/15                                                                      wanted [1] 19/4
+9/15 9/20                                        there's [2] 3/10 13/25 typically [4] 4/23
+                       take [2] 13/3 20/23       therefore   [3]  12/4     6/25 12/7 13/19          was [72]
+sorry [4] 4/14 18/3                                                                                 wasn't [3] 8/19 20/4
+                       taking [3] 6/6 26/3        12/9 27/20              tyres  [1]  14/8
+19/23 23/7                                                                                          20/4
+                        28/7                     these   [9] 14/23 19/20
+sort [4] 2/12 16/2                                                        U                         waves [1] 12/25
+                       talk [2] 2/12 17/11        19/24 20/12 20/14
+21/9 21/9                                                                                           way [6] 1/13 9/16
+                       target [2] 9/14 9/15       21/6 21/10 22/1 28/21 UK [2] 3/6 24/4
+sorts [3] 7/20 20/14 tasks [3] 7/12 7/13                                                            16/21 17/16 18/2
+                                                 they [13] 3/25 4/6 4/9 uncommon [1] 5/9
+21/6                    7/16                                                                        26/12
+                                                  6/5 7/15 7/20 7/22 8/6 under [2] 6/12 29/7
+sounds [1] 8/12        team [51]                                                              11/11 we  [68]
+                                                  8/7 19/1 21/21 24/23 understand [3]
+source [1] 18/9                                                                                     we're   [2] 3/7 7/10
+                       teams [6] 23/8 23/9        29/6                     24/9  29/5
+sources [1] 3/5         23/9 26/22 26/23                                                            we've   [1] 11/16
+                                                 they're [1] 3/11         understanding      [4]
+specific [4] 7/16       27/10                                              7/22  14/14  18/17  20/5 wealthy    [1] 20/21
+19/22 20/8 21/9                                  They've [1] 3/24
+                       technical [24] 12/3 things [1] 28/9                understands [1] 8/3 week [6] 5/15 7/10
+specifically [2] 18/13 23/8 23/14 23/18 24/5                                                        11/7 26/1 29/13 29/16
+                                                 think [34]               Unfortunately [1]
+22/13                                                                                               well [5] 6/12 7/21
+                        24/12 24/16 24/24        this [43]                 9/12
+speedy [1] 4/9          25/1 25/5 25/7 25/13 those [21] 3/4 4/21 unnecessary [2] 17/6 13/12 21/25 29/12
+spoke [1] 26/1          25/14 25/21 26/4 26/9 4/22 5/12 7/16 7/20          17/8                     well-informed [1]
+spoken [1] 26/5         26/25 27/4 27/10 28/6 10/21 12/7 12/16            Unpack [1] 13/18          21/25
+stage [2] 2/15 12/3     28/6 28/8 28/11 28/14 19/14 19/19 20/3            until [1] 29/19           Wendy     [3] 14/15
+stages [5] 2/18 11/14 tell [1] 26/13                                                4/3  5/11 5/17  14/17    14/19
+                                                  22/18 22/20 23/1 23/4 up [13]
+12/6 17/20 17/20                                                           6/23 7/24 9/23 10/6 Wendy Burdon [1]
+                       ten [2] 2/19 22/4          23/9 23/11 24/11
+stakeholder [2] 11/8                                                                                14/15
+                       term [3] 3/21 9/16         28/23 29/1               10/12 13/2 18/11
+13/16                                                                                               were   [50]
+                        21/16                    though [2] 8/12 14/8      20/16   26/5 28/14
+stakeholders [1]                                                                                    weren't [3] 7/15 7/16
+                       terminology [2] 6/12 Three [1] 19/8                updates [3] 15/11
+15/11                                                                                               22/16
+                        22/16                    Three paragraphs [1] 28/16 28/19
+standard [1] 22/10
+                       terms [16] 3/15 7/15 19/8                          us [8] 2/12 3/12 4/7 what [28] 2/12 2/21
+starters [1] 10/4       8/17 8/23 11/4 11/5 through [13] 2/12 6/4 8/9 8/14 13/5 19/11               3/12 6/8 6/20 6/24 8/3
+statement [8] 1/9       11/6 11/15 11/16                                   23/2                     8/12 8/13 8/17 9/16
+                                                  6/7 6/19 7/12 7/20
+
+                                                                                                          (14) Sheiks - what
+W                       worth [1] 5/10
+                        would [75]
+what... [17] 10/22
+10/24 10/24 11/16       wouldn't [6] 5/9 8/15
+                         9/2 9/4 15/3 28/2
+11/18 11/23 13/18
+14/19 15/10 20/11       written  [3] 20/5 24/14
+                         28/13
+20/21 22/10 23/6 23/7
+                        wrong [1] 7/14
+26/16 27/23 29/5
+whatever [1] 19/3       Y
+when [4] 15/10 18/25 yeah [4] 5/20 5/24
+22/7 22/9
+                         6/23 21/4
+where [3] 15/8 21/12
+                        years [1] 2/4
+23/3
+                        years' [2] 22/4 22/5
+whether [8] 13/5
+                        yes [15] 1/15 1/18 2/3
+17/24 19/2 19/4 24/10
+                         2/10 2/17 4/2 4/12
+24/20 26/15 27/23
+                         4/25 6/16 10/9 14/16
+which [19] 1/10 2/24 20/15 21/12 21/23
+3/10 5/6 7/17 10/11
+                         29/14
+12/4 12/16 14/21 15/6
+                        York [2] 18/8 18/23
+16/21 17/16 19/18
+                        you [120]
+21/10 21/24 21/25
+                        you're [7] 8/12 8/13
+22/7 25/1 29/15          20/11 20/11 23/3 23/5
+whichever [1] 22/16 24/18
+while [1] 14/6
+                        you've [1] 11/23
+who [29] 2/20 4/7
+                        your [29] 1/11 1/23
+4/15 5/13 5/25 6/14
+                         2/8 2/11 2/13 3/20
+6/14 6/21 7/4 8/6 8/19
+                         3/24 4/16 4/17 4/18
+8/20 9/2 12/25 13/20
+                         5/14 9/10 9/17 10/1
+14/1 14/11 15/3 15/12
+                         10/4 10/7 10/8 10/10
+17/15 18/11 18/14        12/17 13/6 14/23
+19/5 19/10 21/21         14/24 16/11 16/23
+22/20 23/1 23/1 28/3 17/2 19/19 19/19 21/5
+whole [1] 10/8           26/13
+whom [1] 24/16
+why [1] 11/24           Z
+widely [1] 18/21        zoom [2] 16/18 18/6
+wider [1] 14/18
+will [5] 9/18 10/1 11/1
+22/23 22/25
+win [1] 20/13
+wished [1] 27/18
+within [15] 8/9 9/1
+9/7 9/8 9/20 10/20
+12/16 13/21 14/18
+14/24 20/4 22/22
+24/12 26/23 28/15
+witness [7] 1/4 1/9
+4/18 5/14 6/10 10/10
+11/3
+witnessed [1] 6/24
+witnesses [1] 5/13
+wonder [1] 10/12
+word [1] 20/19
+words [1] 10/4
+work [4] 1/16 11/4
+23/19 28/23
+worked [1] 2/4
+worker [1] 1/23
+working [8] 1/23 5/15
+6/11 7/1 7/3 11/10
+12/16 24/23
+workload [2] 6/20
+10/2
+world [1] 20/22
+
+
+                                                  (15) what... - zoom
+

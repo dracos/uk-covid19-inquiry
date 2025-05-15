@@ -1,0 +1,2862 @@
+ 1                                                     Wednesday, 2 October 2024
+ 2           (10.00 am)
+ 3                          PROFESSOR KATHRYN ROWAN (continued)
+ 4           LADY HALLETT: Ms Rowan, I'm so sorry about yesterday
+ 5                afternoon and my rapid departure. In over 40 years as a
+ 6                barrister and a judge, I've never had to leave a hearing
+ 7                in that manner but I'm afraid I had no alternative,
+ 8                I was about to be violently sick. So I'm really sorry.
+ 9           A.   That's absolutely fine, my Lady, and I hope you are
+10               feeling a lot better today.
+11          LADY HALLETT: I'm on the mend, thank you.
+12                Questions from COUNSEL TO THE INQUIRY (continued)
+13          MR FIREMAN: Professor Rowan, if we could go back to what we
+14               were discussing briefly yesterday. Just towards the end
+15               of your evidence yesterday we were discussing the
+16               concept which you have termed as ICNARC ICU capacity
+17               strain, and you described the impact during the pandemic
+18               on what you described as pandemic high and pandemic
+19               extreme as capacity strain.
+20                       Just in terms of a headline point that we can
+21               derive from that, is it right, I think that you were
+22               saying, that that meant that, certainly in the second
+23               wave, during periods of pandemic high or pandemic
+24               extreme strain, a patient who went into ICU at that
+25               time, with all other factors being equal, was more
+    1
+
+ 1                  likely to die than had they gone into ICU at another
+ 2                  time; is that correct?
+ 3             A.   Yes. What we showed was that in the second wave
+ 4                  patients admitted in pandemic high and pandemic extreme
+ 5                  the association with the likelihood of dying before
+ 6                  discharge from hospital was greater, absolutely.
+ 7             Q. In very simple terms, does that demonstrate that
+ 8                  capacity is not just a figure or a stat but can have
+ 9                  a real clinical impact on outcomes?
+10             A.   I think -- obviously I do not deliver critical care and
+11                  my very noble clinical colleagues do and they're
+12                  probably better able to answer what it's like to work in
+13                  a very busy unit. But it does suggest that when there
+14                  is too much going on, when there are too many
+15                  patients -- and you've got to remember, as I said
+16                  yesterday, there was also those patients being managed
+17                  outside the critical care unit -- that that appears to
+18                  be associated with, sort of, patients perhaps not --
+19                  less likely to survive to hospital discharge.
+20             Q. I want to ask you about some of the data surrounding the
+21                  characteristics of the patients who were actually being
+22                  admitted to ICU and the messages that we can glean from
+23                  this.
+24                             With respect to the first characteristic I want to
+25                  ask you about, it's age. We heard evidence last week
+    2
+
+ 1                from the Chief Medical Officer for England,
+ 2                Professor Sir Chris Whitty, and he said that very early
+ 3                on in the pandemic it became clear that age was a very
+ 4                high-risk factor for Covid-19 infection and admission to
+ 5                critical care and death.
+ 6                        ICNARC did their own analysis. Did that align
+ 7                with that message?
+ 8           A.   Yes, it did. What we did with data from the first wave
+ 9                was we did some modelling, what we call multivariable
+10               modelling. It's where you're looking at all the
+11               possible factors that could impact on hospital death,
+12               and in that analysis, where you allow, if you like, each
+13               factor to compete with itself in terms of importance,
+14               age was the most significant factor driving likelihood
+15               of not surviving in intensive care -- sorry, not
+16               surviving to hospital discharge.
+17          Q. Is age a significant risk factor with a number of
+18               different diseases as well?
+19          A.   So age is an important factor. When you look at it in
+20               isolation, obviously as we get older we get frailer, we
+21               get -- I think what you have to remember is what comes
+22               with age are comorbidities, chronic conditions. So, you
+23               know, looking at age per se alone is it's, sort of,
+24               almost like a proxy for number of other things and,
+25               therefore, one of the reasons we build these
+    3
+
+ 1                  multivariable models is to allow all those other things
+ 2                  to sort of compete in terms of determining.
+ 3                             But age is an important risk factor for survival
+ 4                  to hospital discharge for intensive care patients.
+ 5             Q. For clarity, your multivariable approach, does that
+ 6                  strip out some of those other factors?
+ 7             A.   True. When you do those sort of models, yes, some of
+ 8                  them prove not to be statistically significant in the
+ 9                  model. So you're looking at the factors that are
+10                  driving or most impactful on not surviving to hospital
+11                  discharge. So the ones that are most strongly
+12                  associated with all the others in the model, and some
+13                  prove not to be associated.
+14             Q. Can we then look at, please, age in the context of the
+15                  pandemic.
+16                             And can we, please, go to INQ000474239, and this
+17                  is figure 5.
+18                             Can I ask you to start, please, by just describing
+19                  what we see in terms of the three lines and what they
+20                  tell us.
+21             A.   Okay. So as yesterday, this graph is set out like the
+22                  other graphs. So what you see here is that during the
+23                  first two waves of the pandemic and prior to the
+24                  roll-out of vaccines, patients admitted to critical care
+25                  for Covid-19, the orange line, were of a similar age to
+    4
+
+ 1                patients admitted for other reasons.
+ 2                       During the Delta wave, in mid- to late 2021,
+ 3                patients admitted to critical care were younger, and we
+ 4                think that's most likely related to the vaccine policy,
+ 5                where they started -- the vaccines were -- the policy
+ 6                for the roll-out of vaccine were to vaccinate the most
+ 7                vulnerable, but also starting with the most -- the
+ 8                oldest sort of population.
+ 9                       During the Omicron wave, patients admitted to
+10               critical care for Covid-19 were, again, of a similar age
+11               to patients admitted for other reasons.
+12          Q. If we now take a look at the dotted -- black dotted
+13               line, that's overall patients.
+14          A.   Yes.
+15          Q. If we could have a look, in terms of the comparison,
+16               between the pre-pandemic period and the pandemic period,
+17               what notable messages are there in comparison between
+18               those two periods?
+19          A.   So really looking at the orange line, that's the Covid
+20               patients, and the lighter blue line, because obviously
+21               the dark dotted line is a combination of the two, you
+22               can see a drop in the mean age.
+23                      Now, what --
+24          Q. Sorry, just to be clear, do you recall -- we can't see
+25               on the zoomed-in version but, I think, is it right, this
+    5
+
+ 1                  is around March or April 2020?
+ 2             A.   That is -- I'm just looking at that myself. Yes, it's
+ 3                  sort of -- it starts to drop in early March and you can
+ 4                  see it coming down and then recovering. So it's sort of
+ 5                  March and April and May. So it's during the wave.
+ 6             Q. Wave 1 of the pandemic?
+ 7             A.   During wave 1.
+ 8             Q. And carry on, sorry, I interrupted you.
+ 9             A.   So then what I was going to say is obviously, as I said
+10                  yesterday, the patients who end up in intensive care,
+11                  the data on patients who end up in intensive care can
+12                  only tell you who is in intensive care. What changed to
+13                  the pool of patients, if you like, in the hospital are
+14                  a number of factors.
+15                         So, for example, in wave 1 there was a policy to
+16                  stop elective work and other things, and that may have
+17                  impacted on the age of the pool of patients, you know,
+18                  with other conditions presenting for critical care.
+19             Q. If we look, though, at the pre-pandemic period, it's
+20                  right, isn't it, that the "All other patients" line --
+21                  of course, there's no Covid-19 at this point, but it is
+22                  a relatively flat line during the pandemic period?
+23             A.   Indeed.
+24             Q. That would include, wouldn't it, periods of intense
+25                  winter pressure?
+    6
+
+ 1           A.   Indeed. I think it would be hard to see dips but I'm
+ 2                just looking at it, maybe slight dips, sort of,
+ 3                November/December/January but they would be hard to see
+ 4                in these data but, yes, we don't see a dip of the same
+ 5                sort of magnitude in the pre-pandemic period.
+ 6           Q. We then see that dip which you were talking about --
+ 7           A.   Yes.
+ 8           Q. -- and you mentioned the potential impact of elective
+ 9                care being suspended. Is a potential other explanation
+10               something which you touch on in your paragraph 7.6 of
+11               your witness statement, that there was potentially
+12               evidence from the data of rationing of care going on?
+13          A.   So perhaps I could tackle that paragraph. So I want to
+14               just talk about that pool. So what we don't know is
+15               what patients or what people are not getting to
+16               hospital. We don't know about what people are getting
+17               to hospital later than they might have got during
+18               outside a pandemic. We don't know what people were not
+19               getting referred because in a busy hospital and busy
+20               critical care, the sort of systems for referral may not
+21               have been working the same. We don't know what sort of
+22               what I might call subconscious rationing might have been
+23               going on, and that's the notion where you know the unit
+24               is full, so the patients are not being referred. And
+25               then there may have been, there is
+    7
+
+ 1                  a possibility -- I can't tell you one way or the
+ 2                  other -- some form of conscience rationing.
+ 3                         Now, whether age alone was the reason for any
+ 4                  decision-making or whether a whole number of factors
+ 5                  were taken into account in terms of the overall clinical
+ 6                  picture of likelihood of benefit and the result of that
+ 7                  was those getting into intensive care units were of
+ 8                  a lower age, I don't know the answer to that.
+ 9             Q. Obviously this is an area that is of significant concern
+10                  to a number of those interested in the Inquiry,
+11                  particularly core participants who are concerned about
+12                  the fact that elderly patients may have been
+13                  disadvantaged by prioritisation decisions.
+14                         Are you able to say whether or not, and I imagine
+15                  from your answer you may not, but are you able to say
+16                  whether this provides potential evidence that elderly
+17                  patients were disadvantaged by prioritisation decisions?
+18             A.   I think it provides potential evidence, yes. I think
+19                  one would ask the caregivers about the decision-making
+20                  that was taking place during that period.
+21                         And, as you know, we heard from
+22                  Professor Kevin Fong last week that the whole system was
+23                  under such strain that perhaps, sort of, more rational
+24                  decision-making was not possible because of the strain
+25                  on the whole system. I can only look at the strain in
+    8
+
+ 1                intensive care.
+ 2           Q. Thank you.
+ 3                        This particular graph can come down for the
+ 4                moment.
+ 5                        But can I just clarify in terms of the way you
+ 6                produced this data, it's a mean of all ICUs across
+ 7                the UK?
+ 8           A.   So this is all intensive care units providing level 3
+ 9                care in England, Wales, Northern Ireland and Scotland.
+10               It's from the joint report that we provided. And then
+11               what you're looking at is for every week in the graph we
+12               have basically on a daily basis averaged the patients
+13               ages and then averaged it by seven days, if that makes
+14               sense. So it's sort of a weekly daily average, if that
+15               makes sense.
+16          Q. I'm not sure we need necessarily worry too much about
+17               this precise way --
+18          A.   It's clear in the beginning of the report if you want me
+19               to --
+20          Q. We are clear as to the fact that you have totalled up
+21               the ages --
+22          A.   Yes.
+23          Q. -- and then you have --
+24          A.   You can see it as an average of the patients admitted
+25               that week.
+    9
+
+ 1             Q. So a daily figure?
+ 2             A.   Yes.
+ 3             Q. That makes sense, thank you.
+ 4                         It leads me to my next question, which is really
+ 5                  that that doesn't account, does it, for potential
+ 6                  variability amongst intensive care units because there
+ 7                  may well be some where they are admitting older patients
+ 8                  and some where they are only admitting --
+ 9             A.   Indeed. So this is overall and, you know, one could
+10                  produce figures for individual units.
+11             Q. If we could then turn to another aspect, you said that
+12                  age is just one factor and alone it may not tell us that
+13                  much. We need to look at other data. Another data
+14                  point that ICNARC has looked at is pre-existing chronic
+15                  conditions, and going back to your witness statement at
+16                  paragraph 7.6 you touch on some of the data in relation
+17                  to pre-existing chronic conditions.
+18                         You say that:
+19                         "The peaks of the first two waves of the pandemic
+20                  were also associated with decreases in the proportions
+21                  of patients admitted for reasons other than COVID-19
+22                  that were: aged 75 years or older or (for non-elective
+23                  admissions) had any prior dependency or any advanced
+24                  chronic condition."
+25                         So just with that paragraph in mind, can we look
+    10
+
+ 1                at the data on pre-existing chronic conditions and this
+ 2                is at INQ000474239 and figure 7.
+ 3                        Can I ask you to, again, explain what this graph
+ 4                shows us?
+ 5           A.   Absolutely. Forgive me, I'm just trying to find the
+ 6                right sheet here.
+ 7                        So during the first three pandemic waves prior to
+ 8                the emergence of the Omicron variant, patients admitted
+ 9                to critical care with Covid-19 are less likely to have
+10               any pre-existing advanced chronic condition than
+11               patients admitted for other reasons and then during the
+12               Omicron wave this pattern reversed and patients admitted
+13               with Covid-19 were more likely to have an advanced
+14               chronic condition.
+15                       So, sort of, what we're sort of looking at here is
+16               advanced chronic conditions obviously highly, sort of,
+17               associated or correlated with older age and Covid-19
+18               prior to vaccination was -- caused critical illness in
+19               all patients, sort of, type thing. After vaccination
+20               had been established and with the Omicron wave,
+21               admission to critical care tended to be -- for Covid-19
+22               tended to be associated for patients who had other
+23               conditions or other things. So more complex patients or
+24               more -- patients with greater numbers of comorbidities,
+25               Covid was like a tipping point to bring them into
+    11
+
+ 1                  intensive care.
+ 2                         Prior to that, Covid-19 itself was serious enough
+ 3                  to bring you into intensive care.
+ 4             Q. What we also have to bear in mind, don't we,
+ 5                  Professor Rowan, is that this is only telling us about
+ 6                  patients coming into intensive care, and so it's
+ 7                  possible, again -- and I appreciate that it's just
+ 8                  possible but it's possible -- that this could also be
+ 9                  evidence of prioritisation decisions being taken, isn't
+10                  it?
+11             A.   I think, again, if you look at the "All other patients",
+12                  that that's the line to look at, which is the light blue
+13                  one, and that does suggest the percentage with any
+14                  advanced chronic conditions dipped slightly. So the big
+15                  dark dotted line I think is driven mainly by the Covid
+16                  patients, but you do see a dip in the proportion of
+17                  patients with advanced chronic conditions.
+18                         Now I go back to that point I made about patients
+19                  not getting to hospital or getting to hospital late as
+20                  potentially, sort of, one of the factors that drove that
+21                  but, with only data on intensive care, it's difficult to
+22                  understand the pool of patients who would have been in
+23                  the hospital and potentially eligible for critical care.
+24             Q. As you said earlier, the data is just one aspect of the
+25                  entire picture and there may be a variety of reasons,
+    12
+
+ 1                but is it -- are some coherent reasons, potentially,
+ 2                just to clarify, the lack of elective care, people
+ 3                self-selecting and staying away from intensive care,
+ 4                people in some cases sadly dying at home rather than
+ 5                coming to intensive care, and also potentially some
+ 6                decisions being taken to prioritise those patients who
+ 7                have the best chance of recovery and those patients
+ 8                being admitted to intensive care. Are all of those
+ 9                reasons plausible?
+10          A.   All of those reasons are plausible in terms of driving
+11               that sort of dip of the percentage with advanced chronic
+12               conditions being admitted.
+13          Q. Just to clarify the point finally, you do note in your
+14               witness statement that changes to patient
+15               characteristics, in the way that they were during the
+16               pandemic, as you have phrased it, that patients who were
+17               aged 75 years or older or for non-elective admissions
+18               had any prior dependency or advanced chronic conditions
+19               making up a smaller percentage of those in intensive
+20               care, those changes weren't seen during other winter
+21               periods of the --
+22          A.   I think that's really important when we go back to just
+23               thinking about the strain on intensive care in those
+24               first two waves. It was like nothing -- you know, you
+25               can't parallel it with our usual winter pressures,
+    13
+
+ 1                  why -- you know, winter pressures provide or cause some
+ 2                  strain on the critical care system that we'd rather
+ 3                  avoid. The waves of the pandemic were unlike anything
+ 4                  that we'd ever seen and the numbers of patients were so
+ 5                  much greater.
+ 6                          But yes, we don't see these reductions in usual
+ 7                  winter pressures.
+ 8             Q. That can come down now, thank you.
+ 9                          Some of the other work that ICNARC has done
+10                  looking at patient characteristics involves looking at
+11                  the ethnicity of patients that were admitted to
+12                  intensive care units. Just to clarify, I think this is
+13                  work you undertook as ICNARC but it's not work that was
+14                  done as a joint effort with SICSAG so I'm just going to
+15                  ask you about England, Wales and Northern Ireland for
+16                  these purposes.
+17             A.   Indeed, we were one of the few data sets that actually
+18                  had accurate data on ethnicity, which we shared with
+19                  other groups early on in the pandemic to make sure that
+20                  data linkage could occur. But, yes, these were data
+21                  from the Case Mix Programme.
+22             Q. And this is data that you had prior to the pandemic --
+23             A.   So --
+24             Q. -- that you continued monitoring?
+25             A.   Yes, we -- it was part of the dataset that we collect as
+    14
+
+ 1                part of the national clinical audit for critical care.
+ 2           Q. I just want to run through some of the graphs that
+ 3                demonstrate the differences in the way in which Covid-19
+ 4                was affecting patients of different ethnicities, and if
+ 5                we could start chronologically with the first one in the
+ 6                report.
+ 7                          This is INQ000480138, and it's figure 29, if this
+ 8                could come on, screen please. Thank you.
+ 9                          So this shows us the percentage of patients from
+10               white ethnic groups in England, Wales and Northern
+11               Ireland combined by reason for admission and month.
+12               What is the message or the messages that are capable of
+13               being gleaned from this graph?
+14          A.   So we've spent a lot of time looking at these data, so
+15               perhaps first we might just look at "All other patients"
+16               and -- "(elective)" and "(non-elective)", and you can
+17               see during the relevant period that the pandemic --
+18               there might be a slight downward trend in the per cent
+19               from white ethnic groups. We've looked at the data and
+20               that seems to be mainly coding of ethnicity as not
+21               stated, so more an artefact of the data than sort of any
+22               downward decrease in the percentage from white ethnic
+23               groups.
+24                         Then it's really looking at the Covid, the
+25               patients admitted for Covid, and what you can see is at
+    15
+
+ 1                  certain periods the per cent from white ethnic groups
+ 2                  decreases markedly from a level of about 70% down to 50
+ 3                  or even -- and I'm just reading off the graph here -- or
+ 4                  even -- yes, the one arrowed is probably about 35/40%.
+ 5                  So the converse of that is an increase in non-white
+ 6                  ethnic groups.
+ 7                          But actually these don't coincide with the
+ 8                  pandemic waves. They occur just after the sort of the
+ 9                  height of the wave, if you were to superimpose the
+10                  waves, the first and second wave. And our hypothesis,
+11                  and it really is only a hypothesis of what might have
+12                  been going on, is that during the waves, at high rates
+13                  of transmission, Covid was hitting everybody. So
+14                  transmission was high and everybody was getting
+15                  Covid-19.
+16                          Outside the waves we might hypothesise that some
+17                  groups were at higher risk, and this is perhaps
+18                  reflected, in this graph, as the per cent of patients
+19                  who were non-white may have been at -- more vulnerable
+20                  for a whole host of reasons and more likely to be
+21                  admitted outside the waves for Covid-19.
+22             Q. So there are two messages, are there, Professor Rowan,
+23                  in terms of how this pandemic was affecting white
+24                  patients? First of all, Covid-19 was perhaps less
+25                  dangerous for white patients than other conditions may
+    16
+
+ 1                have been in terms of admission to ICU based on this
+ 2                graph; is that right?
+ 3           A.   Let me just ... I think Covid-19, the per cent of
+ 4                patients, white ethnic group patients getting Covid-19
+ 5                was lower than other conditions that require admission
+ 6                to intensive care.
+ 7           Q. Thank you. But also, as you have rightly said, the
+ 8                message may be clearer when we look at some of the
+ 9                non-white groups --
+10          A.   Yes, I think it's --
+11          Q. -- which we are going to do now.
+12          A.   We also saw this pattern in patients admitted from the
+13               most deprived quintile, which -- again, you see this
+14               post-wave, that patients more deprived were a lot more
+15               likely to be admitted to --
+16          Q. Could you just explain what you mean by that?
+17          A.   So one can, by residential postcode and area the patient
+18               lives, divide postcode areas into the degree of
+19               deprivation in that area, if that makes sense.
+20          Q. And the message was what with respect to those patients?
+21          A.   So, sort of similar to this, which is, in the periods --
+22               inter-wave periods, we saw patients who lived in more
+23               deprived residential areas more likely to be admitted to
+24               intensive care.
+25          Q. That's clear.
+    17
+
+ 1                         Could we now look, please, at figure 33.
+ 2                  Thank you.
+ 3                         This is the percentage of patients from Asian
+ 4                  ethnic groups in England, Wales and Northern Ireland
+ 5                  combined by reason for admission and month. It would be
+ 6                  fair to say, wouldn't it, this tells us a very different
+ 7                  picture in terms of the impact of Covid-19 on these
+ 8                  patients in terms of admission to ICU?
+ 9             A.   So what this suggests is that patients with Covid-19 who
+10                  come from an Asian ethnic group seemed to be at a higher
+11                  risk of being admitted to critical care with Covid-19.
+12                  However, what you also see is, again, there's a sort of
+13                  fairly steady, when we talk about the first couple of
+14                  waves, sort of rate at about -- and I'm looking at the
+15                  graph here, forgive me -- about 15%.
+16                         But what you can see is between the waves the
+17                  number, the proportion of patients from an Asian ethnic
+18                  group actually increases and this is this notion again
+19                  of between the waves it appears that those who were more
+20                  vulnerable were the ones who were getting sick, and this
+21                  might have been an increased exposure to the risk of
+22                  Covid-19 and again it -- sort of, possibly for
+23                  multifactorial reasons, including, sort of, potentially
+24                  health inequalities, barriers to equitable care, uptake
+25                  of testing, uptake of vaccination. One can't be sure
+    18
+
+ 1                what the reasons are but it does seem that between the
+ 2                waves there was a greater vulnerability and it seems
+ 3                that patients of an Asian ethnic group were more likely
+ 4                to be admitted. There were a greater proportion of them
+ 5                admitted to critical care with Covid-19.
+ 6           Q. With respect to the blue line, the "All other patients"
+ 7                line, horizontal line, would it be right that that
+ 8                broadly corresponds to what one might expect to see for
+ 9                patients from an ethnic background in terms of the
+10               proportion of the population, but if we look at, in
+11               particular, the period which I think you spoke about
+12               just before between January 2021 and July 2021, it looks
+13               as if there's a much, much, much more significant, quite
+14               stark, increase in the number of Asian patients there.
+15               Is that correct?
+16          A.   Yes, indeed, absolutely. So, generally, patients
+17               admitted to critical care with Covid, there were
+18               a higher proportion from Asian ethnic groups relative to
+19               other conditions. The "other conditions" lines, as you
+20               must imagine, are a whole host of different conditions,
+21               elective and non-elective, that are reasons for
+22               admission to critical care. So overall Covid, and
+23               between these waves, there were marked increases between
+24               the waves of Covid.
+25                      I think it's just this notion of these spikes do
+    19
+
+ 1                  not correspond to the waves -- the first two waves of
+ 2                  the pandemic.
+ 3             Q. From the analysis that ICNARC has done, am I right that
+ 4                  in terms of the proportion of patients, in terms of
+ 5                  disproportionate representation in intensive care units,
+ 6                  Asian patients or patients from an Asian ethnicity were
+ 7                  most significantly affected in terms of disproportionate
+ 8                  representation in ICU?
+ 9             A.   So when we looked at all the prognostic factors for
+10                  30-day mortality and critically-ill patients with
+11                  Covid-19, age was by far the most --
+12             Q. Sorry, just in terms of ethnicity.
+13             A.   -- significant factor. Asian ethnicity indicated an
+14                  increased risk too.
+15             Q. And if we could now look at figure, I think it's 37,
+16                  please, this is the percentage of patients from black
+17                  ethnic groups in England, Wales and Northern Ireland
+18                  combined by reason for admission and month.
+19                         What is the message with respect to these
+20                  patients?
+21             A.   This is sort of -- at one level it's showing a sort of
+22                  similar pattern but it's quite difficult to interpret
+23                  this one in terms of sort of increased risk. Certainly
+24                  in our multivariable analysis, black ethnicity did not
+25                  shown a statistically increased risk but it is true that
+    20
+
+ 1                for patients admitted to intensive care for Covid-19 it
+ 2                sometimes parallels the lines for all other patients,
+ 3                non-elective and elective, but there are definitely
+ 4                periods where black ethnicity is greater, the proportion
+ 5                of patients from black ethnicity is greater for patients
+ 6                admitted with Covid-19. I think that's about all I can
+ 7                say about that.
+ 8           Q. Thank you, that can come down.
+ 9                         Just reflecting on all of the graphs we have seen,
+10               it seems that up until the Omicron variant, at least, it
+11               was particularly true that patients from non-white
+12               backgrounds were at greater risk of admission to ICU.
+13               That's a message we can glean from the data, is it?
+14          A.   It is.
+15          Q. Thank you.
+16                        Are there any other messages from the data that
+17               you feel we haven't covered having looked at those
+18               graphs which you would like to address?
+19          A.   I think when you put all that data together, age,
+20               advanced chronic conditions, ethnicities, deprivation,
+21               and wider reading of what was going on during the
+22               pandemic, it does suggest health inequalities. And
+23               health inequalities are, sort of, avoidable, unfair and
+24               systemic differences in health between different groups
+25               of people, including differences in life expectancy,
+    21
+
+ 1                  behavioural risks, access to and availability of health
+ 2                  and care services, and the quality and experience of
+ 3                  care, and I think it's important for us to really focus
+ 4                  on health inequalities, because I think they really
+ 5                  come -- they are really magnified during conditions such
+ 6                  as a pandemic.
+ 7             MR FIREMAN: Professor Rowan, that's all that I want to ask
+ 8                  you today. I just want to take the opportunity to thank
+ 9                  you on behalf of the Inquiry for the work that you've
+10                  done putting together these reports.
+11                         There are some further questions now for you from
+12                  other core participants.
+13             A.   Thank you very much.
+14                                   Questions from MS HAMMAD
+15             MS HAMMAD: Professor Rowan, I represent the Covid Bereaved
+16                  Families for Justice UK and I've got a few topics to ask
+17                  you about. The first one -- you have already answered
+18                  most of my questions, and it's about disparities in
+19                  relation to ethnic groups.
+20                         Just following on from what you've told us, you
+21                  said that you're one of the few datasets that had
+22                  accurate data on ethnicity. Is it right that it was
+23                  from 5 April 2020 that ICNARC introduced reporting by
+24                  ethnic group into your weekly reports that you were
+25                  providing?
+    22
+
+ 1           A.   So it is true. Would you like me to clarify on why?
+ 2           Q. Yes, please.
+ 3           A.   Yes, sure.
+ 4                         So clearly when one's looking at trends and
+ 5                statistics on groups, one needs a sample size that one
+ 6                can feel confident that the statistics that one is
+ 7                generating are sort of robust and we awaited the numbers
+ 8                essentially to get to a sufficient sample size so that
+ 9                we could put out what we might call, I think, robust,
+10               reliable, statistics on the sort of non-white ethnic
+11               groups.
+12          Q. Yes, and this was something that ICNARC introduced sort
+13               of your own motion. It wasn't something you were asked
+14               to do by the Department of Health or NHS England?
+15          A.   If I'm absolutely honest, like I'm sure others watching
+16               TV reporting, one became aware that there was -- there
+17               appeared to be issues around non-white ethnicity, the
+18               causes being, I'm sure, many, and we wanted to fully and
+19               transparently report as best we could and that's why we
+20               introduced that reporting.
+21          Q. Thank you.
+22                        Moving on to another topic, and that's measuring
+23               critical care capacity.
+24                        Now, in February 2020, ICNARC provided a report
+25               about potential and available critical care capacity,
+    23
+
+ 1                  and is it right that that report looked at the number of
+ 2                  available bed days versus the number of occupied bed
+ 3                  days and that that analysis was based on the number of
+ 4                  physical beds?
+ 5             A.   So that was based on -- so we -- with quarterly
+ 6                  submissions to the Case Mix Programme, the national
+ 7                  clinical audit, we asked units to give us a number of
+ 8                  their, sort of, operational beds, I think would be the
+ 9                  way to see it. So we've heard in the Inquiry a lot,
+10                  it's not just a bed on wheels is a bed, a bed has to be
+11                  equipped with a ventilator if it's going to provide
+12                  level 3 care and has to be staffed. So it has to be
+13                  funded, equipped and staffed with the skilled critical
+14                  care nurses that deliver skilled intensive care.
+15                         So it was based on those numbers rather than
+16                  physical beds per se. So, you know, sometimes there are
+17                  additional beds in the unit that are not equipped or
+18                  staffed.
+19             Q. Moving on to how we assess capacity in the future,
+20                  I think you are listed as a contributor to a report by
+21                  the Intensive Care Society which was produced in
+22                  September -- sorry, in January 2021, and is titled
+23                  "Co-developing the future".
+24                         Now, that report recommended that rather than
+25                  looking at physical beds or occupied beds, a better way
+    24
+
+ 1                to understand critical care capacity would be to move to
+ 2                a classification system based on patient needs for
+ 3                multidisciplinary staffing input. Do you think that
+ 4                would be a better way to look at capacity ahead of
+ 5                future pandemics?
+ 6           A.   So I think -- obviously, a bed is not a critical care
+ 7                bed until a patient is in that bed who is critically
+ 8                ill. So I think it's a mix of what that bed is being
+ 9                used for and how that bed is equipped and staffed.
+10                      It's tricky to know exactly the point at which
+11               a patient becomes critically ill. I think that's really
+12               important but I do think our ability to provide quality
+13               care, effective, humane, equitable care, to people who
+14               become progressively sicker in the hospital is probably
+15               best done by trying to see to what extent we can meet
+16               the need of those sort of increasing levels of critical
+17               illness or whatever.
+18          MS HAMMAD: Thank you very much. I think my other questions
+19               have been covered. Thank you.
+20          A.   Thank you.
+21          LADY HALLETT: Thank you very much.
+22                      Who's next? Ms Shepherd.
+23          MS SHEPHERD: Thank you, my Lady.
+24                               Questions from MS SHEPHERD
+25          MS SHEPHERD: Good morning, Professor Rowan. I appear on
+    25
+
+ 1                  behalf of Covid-19 Bereaved Families for Justice Cymru.
+ 2                  I've got one long question to ask you but I am going to
+ 3                  break it down into chunks.
+ 4                           On the final page of your witness statements you
+ 5                  say that data suggests that triage decisions were being
+ 6                  made to prioritise admission to critical care of those
+ 7                  deemed to require advanced organ support.
+ 8             A.   Sorry, I'm just trying to find my witness statement if
+ 9                  you could just bear with me so I'm with you and then can
+10                  follow. Lovely. I apologise.
+11             Q. Do you need me to repeat any of that?
+12             A.   Could you repeat. Thank you so much.
+13             Q. You say that data suggests that triage decisions were
+14                  being made to prioritise admission to critical care of
+15                  those deemed to require advanced organ support. You go
+16                  on to say that this meant that patients with lower
+17                  requirements for organ support were managed elsewhere in
+18                  the hospital; in other words, not in ICU.
+19                           Firstly, did those patients who were managed
+20                  somewhere other than ICU see increases in predicted and
+21                  observed mortality?
+22             A.   Okay, so you want me to comment on that statement?
+23             Q. Yes.
+24             A.   Sorry. Yes, so the proportion of patients receiving
+25                  advanced respiratory support for those patients in
+    26
+
+ 1                intensive care and multi-organ support was much greater
+ 2                proportions than we'd seen normally for patients in
+ 3                intensive care. So that suggests -- and the word
+ 4                "suggests" is important there -- that the patients who
+ 5                were being triaged into intensive care were those who
+ 6                needed invasive ventilation and those who needed, sort
+ 7                of, combinations of advanced support, which were usually
+ 8                considered to be advanced respiratory support, advanced
+ 9                cardiovascular support, renal support, and neurological
+10               support. And that's just looking at the data of those
+11               in intensive care and pre-supposing that those with
+12               single-organ support needs and sort of triangulating
+13               that with the data that we know from our clinical
+14               colleagues, so those having single-organ support were
+15               most likely being treated in other areas of the
+16               hospital, so the non-invasive respiratory support.
+17                      Does that help?
+18          Q. My question was: is it correct to say that those
+19               patients who were managed elsewhere saw increases in
+20               predicted and observed mortality?
+21          LADY HALLETT: Do you have the figures for the patients who
+22               were treated elsewhere?
+23          A.   No. So this is why I'm getting a little bit confused.
+24               Thank you, my Lady.
+25                      So we don't have -- so what we're saying is the --
+    27
+
+ 1                  for the patients in intensive care, the predicted
+ 2                  mortality is a way of, sort of, assessing their, sort
+ 3                  of, overall severity and that also suggested that the
+ 4                  sicker patients were being admitted to critical care.
+ 5                  We don't have data on the patients who were not admitted
+ 6                  to critical care but by looking at the predicted
+ 7                  mortality and the observed mortality it suggests that
+ 8                  the sicker patients were being admitted to intensive
+ 9                  care.
+10             MS SHEPHERD: Thank you.
+11                           Might those patients with lower requirements for
+12                  organ support have been admitted to ICU in times of less
+13                  demand?
+14             A.   Yes, absolutely, and in that report you referred to
+15                  where we looked at -- sorry, you didn't refer to it, the
+16                  other lady did, we actually did look at patients who
+17                  received simple organ support, and I'm just trying to
+18                  find those figures for you to give you a feel, but some
+19                  of those would be admitted to critical care normally,
+20                  not necessarily all.
+21             Q. My final question: would the older population have been
+22                  disadvantaged by triaging decisions which prioritised
+23                  advanced organ support?
+24             A.   Sorry?
+25             Q. Would the older population have been disadvantaged by
+    28
+
+ 1                triaging decisions that prioritised advanced organ
+ 2                support?
+ 3           A.   No, not necessarily. So triaging on organ support
+ 4                doesn't necessarily correlate with the age of the
+ 5                patient. You could argue that those who were hit
+ 6                hardest by Covid-19 were the oldest population and
+ 7                possibly those who may have needed advanced organ
+ 8                support. All we've got is the data on the patients who
+ 9                got into intensive care. We don't know, if you like,
+10               about the patients who were not admitted.
+11                       Is that helpful?
+12          MS SHEPHERD: Yes, thank you very much, Professor Rowan.
+13                       Thank you, my Lady.
+14          LADY HALLETT: Thank you, Ms Shepherd.
+15                       Mr Odogwu.
+16                                  Questions from MR ODOGWU
+17          MR ODOGWU: Thank you, my Lady.
+18                       Good morning, Professor Rowan. I represent the
+19               Federation of Ethnic Minority Healthcare Organisations,
+20               which advocates for healthcare workers from ethnic
+21               minority backgrounds who are disproportionately impacted
+22               by the pandemic.
+23                       My question relates to health inequalities and
+24               builds on some of the answers that you gave earlier this
+25               morning to Counsel to the Inquiry. And my question is
+    29
+
+ 1                  this: did ICNARC ever undertake any bespoke analysis to
+ 2                  try to understand whether there was a link or
+ 3                  association between any of the characteristics
+ 4                  associated with high mortality, for example, the social
+ 5                  deprivation which you mentioned earlier and higher
+ 6                  mortality in those from particular ethnic minorities?
+ 7             A.   Sorry, I missed the last bit of that.
+ 8             Q. Do you want me to repeat the whole question?
+ 9             A.   I heard the initial bit. Just --
+10             Q. It's whether there's a link between any higher risk
+11                  characteristics such as social deprivation and any
+12                  particular ethnic minorities.
+13             A.   So in that paper where we looked that prognostic
+14                  factors, we included ethnicity and deprivation in those
+15                  models to look at whether they were drivers of
+16                  association with 30-day mortality. We didn't select
+17                  a group, a specific ethnic group, and repeat those
+18                  analyses, mainly because one wants to look at a large
+19                  number of factors and the numbers become very, very
+20                  small in terms of being able to conduct those
+21                  statistical analyses.
+22                           But bearing in mind, I'm very conscious of my
+23                  language here, each number is a person and a family and,
+24                  you know, I just want to, you know, have you understand
+25                  that sometimes what we're not able to do analytically
+    30
+
+ 1                doesn't mean that we don't think it's important.
+ 2           Q. Absolutely. My question really goes to whether or not
+ 3                there was any correlation that you saw between any
+ 4                characteristics which were drivers for high mortality
+ 5                and not any particular ethnic minority group but just
+ 6                ethnic minorities in general. Was there any correlation
+ 7                between the two?
+ 8           A.   So the way that we might have looked at that was to put
+ 9                ethnicity into a model as non-white so sort of grouping
+10               all the ethnic groups together. We haven't done that to
+11               look at it in totality.
+12          Q. Okay. But were you nonetheless able to identify from
+13               your analysis any contributory factors which led to
+14               there being a disproportionate number of both Asian and
+15               black patients in intensive care?
+16          A.   So the mechanisms by which non-white ethnic -- groups of
+17               people of non-white ethnicity, sort of, becoming
+18               infected with Covid-19 was obviously outside the remit
+19               of what we could do. We reported as transparently as
+20               possible as we could that certain ethnic groups seemed
+21               to be at a higher risk, to be more vulnerable to
+22               becoming critically ill with Covid-19.
+23          MR ODOGWU: Okay, thank you very much.
+24                       Thank you, my Lady.
+25          LADY HALLETT: Thank you very much.
+    31
+
+ 1                           I think that completes the questions for you,
+ 2                  Professor Rowan. Thank you very much again for all your
+ 3                  help. You have been extremely co-operative and really
+ 4                  informative so we're really grateful to you. Sorry
+ 5                  again for having to bring you back for the second part
+ 6                  today.
+ 7                           Ms Carey.
+ 8                                     (The witness withdrew)
+ 9             MS CAREY: Thank you, my Lady.
+10                           The next witnesses will be Professor Charlotte
+11                  Summers and Dr Ganesh Suntharalingam. It will just take
+12                  a moment to bring them into the room.
+13                           (Pause)
+14                           Can I ask, please, that both experts are sworn.
+15                            PROFESSOR CHARLOTTE SUMMERS (affirmed)
+16                               DR GANESH SUNTHARALINGAM (sworn)
+17             MS CAREY: Thank you.
+18                           Some introductions, if I may. May I start,
+19                  please, with you, Professor Summers. You are, I think,
+20                  a professor of intensive care medicine and director of
+21                  the Victor Phillip Dahdaleh Heart & Lung Research
+22                  Institute at the university of Cambridge; is that
+23                  correct?
+24             PROFESSOR SUMMERS: I am.
+25             MS CAREY: Right. I think in addition to your academic work
+    32
+
+ 1               you spent 50% of your time undertaking clinical practice
+ 2               in intensive care medicine?
+ 3           PROFESSOR SUMMERS: I do.
+ 4           MS CAREY: And indeed you returned in February 2020 to
+ 5               full-time NHS clinical service for 14 months, leading
+ 6               the Addenbrooke's Hospital critical care response for
+ 7               the pandemic?
+ 8           PROFESSOR SUMMERS: I did.
+ 9           MS CAREY: You have a number of other qualifications which
+10              I won't read out but they are in your report for those
+11              who'd like to read them.
+12                     Dr Suntharalingam, you are a full-time active duty
+13              ICU consultant at London North West University
+14              Healthcare NHS Trust; is that correct?
+15          DR SUNTHARALINGAM: That's right.
+16          MS CAREY: You too have a number of posts, voluntary, either
+17              elected or appointed, and in particular, I think between
+18              2018 in December and December 2020, you were the
+19              president and chair of the board of trustees of the
+20              Intensive Care Society?
+21          DR SUNTHARALINGAM: That's correct.
+22          MS CAREY: And, indeed, as we're going to come on to
+23              consider this morning, you participated in the clinical
+24              prioritisation tool that we briefly examined with
+25              Professor Whitty when he gave evidence last week.
+    33
+
+ 1             DR SUNTHARALINGAM: That's right. It was the guidance
+ 2                document rather than just a tool.
+ 3             MS CAREY: You also have a number of other appointments and
+ 4                qualifications, which are also set out in your report,
+ 5                which is dated July 2024. It's in INQ000474255, and
+ 6                I hope you both have a copy in front of you.
+ 7                       Now, Professor/Doctor, there are a number of areas
+ 8                covered in the report. You've been good enough to
+ 9                divide them up between you and, as far as possible, can
+10                we stick to that division. But equally, if there is
+11                a point that either of you would like to make that you
+12                think is important for her Ladyship to consider, please
+13                don't feel precluded from jumping in -- but please try
+14                not to overspeak; it doesn't help me or the
+15                stenographer.
+16                       Can I just give you, though, an idea of the themes
+17                and topics we're going to examine this morning. This is
+18                really taken from your exec summary but clearly we need
+19                to consider ICU capacity and the sufficiency of it or
+20                otherwise.
+21                       You know, I hope, that we've already heard from
+22                Professor Rowan, as you have just seen, from ICNARC, and
+23                I think you are also aware of the evidence we heard last
+24                week from Professor Fong, and so it's against that
+25                background and indeed the other evidence that we've
+    34
+
+ 1               heard and a number of statements that you have read in
+ 2               preparing your report that I hope we can draw together
+ 3               some of the strands of evidence.
+ 4                      Clearly one of those matters will also be about
+ 5               how the stretching of ratios and the like impacts on the
+ 6               care that is received by the patients in ICU. I'd also
+ 7               like to consider with you advance care planning for
+ 8               those who are critically unwell and are likely to die,
+ 9               I want to look at critical care transfers -- we've heard
+10              a little bit about that -- and indeed the long-term
+11              impact on those that work in ICU.
+12                     So that's the rough framework of where we're going
+13              to go today. But can I start, please, with just you,
+14              Professor Summers and a very briefly introduction to how
+15              Covid affects the body to such an extent that we had so
+16              many people ending up in ICU.
+17                     If it helps you, Professor, I think we are in
+18              paragraphs 2 to 3 of your report, because it isn't just
+19              a question, is it, of it attacking the lungs; is that
+20              correct?
+21          PROFESSOR SUMMERS: That's absolutely correct.
+22              SARS coronavirus 2, which causes Covid, is an infection
+23              that causes disruption of multiple organ systems, so of
+24              the lungs, with respiratory failure and blood clots,
+25              altered neurological status, which is things like
+    35
+
+ 1                strokes, bleeding in the brain and delirium, altered
+ 2                kidney function, cardiovascular compromise. Every
+ 3                single organ system can be affected as a consequence of
+ 4                being infected acutely with this virus.
+ 5             MS CAREY: And when the pandemic struck, were ICU
+ 6                consultants, doctors, nurses and the like aware that it
+ 7                was going to have that multi-organ effect or was it
+ 8                predominantly thought it was going to affect the lungs
+ 9                in the first instance?
+10             PROFESSOR SUMMERS: So when the pandemic struck, this was
+11                a novel virus that people had not encountered before.
+12                We were learning all the time. The first cases in the
+13                United Kingdom occurred in January, there or
+14                thereabouts, 2020, and that that point we had some
+15                evidence because there had been spread across the world,
+16                but we were still very much learning exactly what it
+17                looked like and the multisystem nature of it, and indeed
+18                about the longer-term consequences that I know you heard
+19                from Professor Evans and Professor Brightling about.
+20                All of that unravelled over time.
+21             MS CAREY: Yes.
+22                       I think, though, you make clear in your report
+23                that in relation to pregnant women there were initially
+24                concerns raised about the impact of Covid on pregnant
+25                women. I'm at your paragraph 6. But did the data in
+    36
+
+ 1                fact bear out that there was an increase of pregnant
+ 2                women in ICU who had Covid?
+ 3           PROFESSOR SUMMERS: So actually the data helpfully provided
+ 4                by ICNARC and SICSAG relating to intensive care shows
+ 5                that broadly -- and they used a fairly broad definition
+ 6                of pregnancy or pregnancy-related complications --
+ 7                broadly the number of people admitted was not much
+ 8                different to would have been expected.
+ 9           MS CAREY: Now, we've got to be clear we are always talking
+10               about the admissions into ICU. It's not to suggest that
+11               pregnant women didn't catch Covid and/or were treated in
+12               other areas of the healthcare system.
+13          PROFESSOR SUMMERS: Absolutely right.
+14          MS CAREY: And that is a caveat, I suspect, that applies to
+15               much of the evidence that you are going to give.
+16                      Given the multi-organ impact that Covid has on us,
+17               the kind of treatments that are required -- clearly
+18               there was respiratory support, but what else did the
+19               body need to try to fight off the disease?
+20          PROFESSOR SUMMERS: So intensive care in all its forms but
+21               particularly in Covid is a package of care that aims to
+22               support multiple organ systems. We support lungs with
+23               mechanical ventilators, we support kidneys when they
+24               fail with renal replacement therapies, we support blood
+25               pressure and the cardiovascular systems with various
+    37
+
+ 1                 different medications, we support cognitive impairment
+ 2                 in various different ways. So it was complex care
+ 3                 provided for multi-organ dysfunction in patients with
+ 4                 Covid that were admitted to the intensive care unit.
+ 5             MS CAREY: Can I ask for your help, though, please, in
+ 6                 understanding the different ways that oxygen was
+ 7                 delivered to patients, because the oxygen supply or the
+ 8                 lack thereof is a matter that the Inquiry is concerned
+ 9                 about, but can I ask you to talk us just slowly through
+10                 the different types of oxygen that is provided and then
+11                 which oxygen is provided in intensive care or critical
+12                 care units.
+13             PROFESSOR SUMMERS: So oxygen can be provided in a number of
+14                ways to hospitalised patients. So it can be provided in
+15                 what we term low-flow systems, which are often simple
+16                 face masks or nasal specs, cannulae, little tubes that
+17                 go up your nose, that produce oxygen, up to about
+18                 15 litres per minute.
+19                        There are high-flow oxygen systems that, again,
+20                 are little tubes that usually go up your nose that can
+21                 produce up to about 70 litres a minute worth of oxygen,
+22                 so much higher fractions of inspired oxygen.
+23             MS CAREY: Just pausing there, are low-flow or high-flow
+24                 normally delivered within ICU or is that what you might
+25                 get on a ward?
+    38
+
+ 1           PROFESSOR SUMMERS: So both can be provided in ICU. Most
+ 2                commonly, high-flow nasal oxygen systems are provided in
+ 3                intensive care but in some hospitals and some settings
+ 4                they are also provided on the wards.
+ 5           MS CAREY: Thank you.
+ 6                       Then I think we've heard about something called
+ 7                CPAP, the continuous positive airway pressure. What is
+ 8                CPAP?
+ 9           A.   That's a tight-fitting face mask that either can go
+10               round your full face, your mouth and nose or just your
+11               nose, depending on your face shape and what works for
+12               you, and it provides a continuous single level of
+13               pressure and the oxygen alongside that, and that's
+14               usually provided in critical care settings, although in
+15               the pandemic the majority of CPAP was provided outside
+16               critical care units because we had to reserve critical
+17               care space for people who required invasive mechanical
+18               ventilation, that I think we'll come on to.
+19          MS CAREY: We will. I am just going to slow down slightly
+20               because the terminology is one with which we are now
+21               familiar but we need to make sure our stenographer can
+22               keep up.
+23          PROFESSOR SUMMERS: Sorry.
+24          MS CAREY: So ordinarily CPAP might be provided within an
+25               intensive care unit. And can I just pause there. We
+    39
+
+ 1                 are referring to intensive care, critical care,
+ 2                 intensive treatment units I think there is also. Help
+ 3                 us with the terminology. Is there any real difference
+ 4                 for the purposes that the module is looking at?
+ 5             DR SUNTHARALINGAM: I think for this mode it's pretty much
+ 6                 interchangeable. There are nuances and differences.
+ 7                 "Intensive care" is a kind of -- historically, more of
+ 8                 a UK term, hence the name of the bodies, Intensive Care
+ 9                 Society, et cetera, et cetera. We -- talk about
+10                 intensive care nurses. Outside the UK people talk about
+11                 critical care. There's been a bit of an evolution
+12                 towards greater use of "critical care" because it
+13                 implies that it's delivered outside the ICU as well,
+14                 which is true. And other organisations, for example,
+15                 the British Association of Critical Care Nurses, so --
+16                 but essentially they are interchangeable for the
+17                 purposes of the discussion.
+18             MS CAREY: All right.
+19             PROFESSOR SUMMERS: But I think important to clarify that
+20                 not all critically ill people are inside critical care
+21                 or intensive care units, whatever you call them; the two
+22                 things are not synonymous.
+23             MS CAREY: Yes, I think we're going to look at some data
+24                 that might bear that out, and certainly that was a point
+25                 that Professor Rowan was making, that there might be
+    40
+
+ 1               a great number of people receiving critical care outside
+ 2               of ICU that aren't, therefore, captured in the
+ 3               ICNARC/SICSAG data. All right. Understood.
+ 4                      Help us, please, with non-invasive ventilation,
+ 5               Professor.
+ 6           PROFESSOR SUMMERS: So, non-invasive ventilation also uses
+ 7               a tight-fitting mask either over your nose or your mouth
+ 8               and nose and provides one level of pressure when you're
+ 9               breathing out and a higher level of pressure to support
+10              you breathing in. So it's bi-level pressure as opposed
+11              to CPAP that's just one continuous level of pressure.
+12          MS CAREY: And does it did follow that non-invasive
+13              ventilation is ordinarily provided within critical care
+14              settings?
+15          PROFESSOR SUMMERS: So not in all settings. Non-invasive
+16              ventilation is used for the treatment of patients with
+17              chronic obstructive pulmonary disease, usually under the
+18              care of respiratory physicians in respiratory wards, so
+19              not always in intensive care, but it is a therapy that
+20              can be used outside of COPD in intensive care.
+21          MS CAREY: Should I take that that if you are on
+22              non-invasive ventilation, the patient may well be still
+23              conscious at that stage?
+24          PROFESSOR SUMMERS: Absolutely. You have to be conscious to
+25              receive that treatment.
+    41
+
+ 1             MS CAREY: And then invasive mechanical ventilation
+ 2                  I suspect we know what it is, but could you just tell
+ 3                  us, please.
+ 4             A.   Invasive mechanical ventilation involves the patient not
+ 5                  being conscious, or certainly being at least to a degree
+ 6                  sedated, and a tube passed through their airway down
+ 7                  into their lungs and a machine being responsible for
+ 8                  their breathing. You can have that in a way that
+ 9                  supports your only patient-initiated breath but also in
+10                  a way where the machine takes over all of the breathing
+11                  and your spontaneous attempts to breath are abrogated.
+12             MS CAREY: That requires a ventilator --
+13             PROFESSOR SUMMERS: It does.
+14             MS CAREY: -- and a degree of specialised care being
+15                  provided to monitor --
+16             PROFESSOR SUMMERS: So CPAP non-invasive ventilation and
+17                  invasive ventilation all require specialist teams to
+18                  support the delivery and care.
+19             MS CAREY: Thank you.
+20                            And we've heard it mentioned, something called
+21                  ECMO. Can you help us with what ECMO is, please.
+22             PROFESSOR SUMMERS: It's extracorporeal membrane
+23                  oxygenation. It is a type of oxygenation of the blood
+24                  that involves taking the blood outside the body through
+25                  a machine that oxygenates it and then the blood back
+    42
+
+ 1               into -- via another pipe, into the circulation, and is
+ 2               used for a small subset of people whose lungs are unable
+ 3               to oxygenate the blood.
+ 4           MS CAREY: I think you say that is provided in specialist
+ 5               centres.
+ 6           PROFESSOR SUMMERS: It is. There are specialist
+ 7               commissioned centres in the UK to which people are
+ 8               transferred to receive that therapy. It is not
+ 9               available outside those specialist centres.
+10          MS CAREY: Can I ask you about one other treatment that
+11              we've heard about, which is proning. Obviously, that
+12              became something we learnt about in particular during
+13              the pandemic, but what is it and how long does it take
+14              and how many people does it take to prone a patient?
+15          PROFESSOR SUMMERS: So proning, which means turning
+16              a patient face down as opposed to lying face up, is
+17              a treatment that we have known to be of benefit to
+18              people who have severe respiratory failure for some
+19              years. There was randomised control trial evidence
+20              published in 2013 that showed in a subset of
+21              mechanically ventilated patients it was of benefit.
+22                     In the pandemic it was used much more widely both
+23              in people who were mechanically ventilated but also in
+24              people who were awake and spontaneously ventilating, and
+25              it was used outside the settings in which we initially
+    43
+
+ 1                  had clinical evidence that it was of benefit, but the
+ 2                  evidence has accumulated during the pandemic to show
+ 3                  it's of benefit.
+ 4                            For patients who are invasively mechanically
+ 5                  ventilated when they are proned, it requires a team of
+ 6                  six or eight people, depending on the individual
+ 7                  patient, to be at the bedside to carefully manage all
+ 8                  the lines and tubes so that nothing is displaced and the
+ 9                  patient to be very carefully turned face down. And
+10                  usually they're left lying on their tummies for 16 hours
+11                  or so and then turned back for a period of time and
+12                  a decision made about whether their oxygenation is such
+13                  that they are required to be reproned or turned
+14                  tummy-down again. It is a hugely labour and
+15                  resource-intensive thing to do.
+16             MS CAREY: Yes. So six to eight people per patient. Just
+17                  roughly, is there any average of number of beds within
+18                  an ICU?
+19             PROFESSOR SUMMERS: Intensive care units are of varying
+20                  different sizes, from, you know, 100 beds to 10 beds.
+21                  It very much depends.
+22             MS CAREY: Can I just look at some pharmacological
+23                  treatments with you.
+24                            And could we have on screen page 14 of your
+25                  report.
+    44
+
+ 1                      I'm not going to go through them all, Professor,
+ 2               but there are some which with which I suspect we are
+ 3               familiar, and I think a number of milestones, you
+ 4               describe them as, relevant to treatments.
+ 5                      So there we are on 19 March, just before the
+ 6               country went into lockdown, and the RECOVERY Trial
+ 7               opened to recruitment. What was the RECOVERY Trial?
+ 8           PROFESSOR SUMMERS: So I think the thing it's important to
+ 9               remember, particularly as we are talking about intensive
+10              care, is that intensive care provides supportive care
+11              for people. It is not a disease-modifying therapy in
+12              and of itself. And so what was required was research
+13              and studies to try to find therapies, such as vaccines
+14              and drug therapies, that would change the trajectory of
+15              the pandemic whilst we were desperately trying to look
+16              after people.
+17                     The RECOVERY Trial was one such thing. It was
+18              a national clinical trial that looked to find therapies
+19              to improve the 28-day mortality of hospitalised patients
+20              with Covid-19. It opened to recruitment, as I've shown
+21              here, on 19 March, and by 5 June it had shown that
+22              hydroxychloroquine, a therapy that at the time was being
+23              advocated for by many people, was not effective at
+24              improving the mortality, by 28 days, of hospitalised
+25              people, but that dexamethasone was shown -- and it was
+    45
+
+ 1                 announced on 16 June that people who were receiving
+ 2                 oxygen of the various different types that we've just
+ 3                 discussed had a mortality benefit at 28 days from
+ 4                 receiving dexamethasone treatment.
+ 5             MS CAREY: Pausing there, within three months the RECOVERY
+ 6                 Trial had enabled us to work out that dexamethasone did
+ 7                 in fact reduce mortality. And it may not be obvious,
+ 8                 but what is dexamethasone?
+ 9             PROFESSOR SUMMERS: Dexamethasone is a corticosteroid tablet
+10                 or intravenous injection that has been widely used for
+11                 other things, other types of inflammation, other types
+12                 of disorders, that's a commonly available generic, so
+13                 not under patent with a pharma company, therapy that
+14                 could be available cheaply across the world. So it was
+15                 a huge finding in terms of improving the worldwide
+16                 outcomes from hospitalised patients with Covid.
+17             MS CAREY: Can I move to the other end of the milestone
+18                 figure and 4 August. There's reference there to CPAP
+19                 was shown to reduce mortality or intubation compared
+20                 with conventional oxygen therapy or high-flow nasal
+21                 oxygen in a RECOVERY trial.
+22                          Just put that into lay speak for me, if you will,
+23                 Professor.
+24             PROFESSOR SUMMERS: The RECOVERY respiratory support (so
+25                 RECOVERY-RS) randomised control trial took place at
+    46
+
+ 1               48 hospitals in the NHS and aimed to say if we use
+ 2               standard care, so conventional oxygen therapy of the
+ 3               low-flow type, or high-flow nasal oxygen, or CPAP, which
+ 4               of those reduced the chances of you progressing to need
+ 5               invasive mechanical ventilation or death and showed that
+ 6               actually CPAP was of benefit and was better than
+ 7               high-flow nasal oxygen or conventional care at
+ 8               preventing escalation to invasive mechanical ventilation
+ 9               or death.
+10          MS CAREY: So quite an important discovery there.
+11          PROFESSOR SUMMERS: It was.
+12          MS CAREY: Help me, these are obviously particular to Covid
+13              but is there the ability to sort of use these again in
+14              the event of a pandemic that's a respiratory virus?
+15          PROFESSOR SUMMERS: So the answer is we don't know. It
+16              depends on the virus. So in the case of dexamethasone
+17              there was pre-existing data from a clinical trial in
+18              a broader group of patients with very severe respiratory
+19              failure who were mechanically ventilated that had
+20              actually been published in early 2020, a study called
+21              DEXA-ARDS that had shown that dexamethasone may be of
+22              benefit. So there is a reason to suspect that it may be
+23              of benefit but the trial evidence is generated in the
+24              setting the trial was done and it's important not to
+25              extrapolate from one setting to another.
+    47
+
+ 1             MS CAREY: Okay.
+ 2                          I suppose it does show, though, the ability for
+ 3                 the RECOVERY Trial to actually have real practical
+ 4                 benefit across a number of areas.
+ 5             PROFESSOR SUMMERS: It shows the importance of research
+ 6                 embedded in care to change the trajectory of what we
+ 7                 were all facing.
+ 8             MS CAREY: My Lady, I'm going to move on to how intensive
+ 9                 care treatment is organised. I can deal with that topic
+10                 now or if that's a convenient moment for a break.
+11             LADY HALLETT: Certainly, we can break now. 11.25, please.
+12             MS CAREY: Thank you, my Lady.
+13             (11.10 am)
+14                                         (A short break)
+15             (11.25 am)
+16             MS CAREY: Dr Suntharalingam, can I turn to you, please, to
+17                 help with the organisation of intensive care treatment,
+18                 and I'm at your paragraph 28 onwards in the report. But
+19                 I think we've heard some evidence about there are
+20                 different levels of care provided in acute hospitals and
+21                 I wonder if you could just talk us slowly through the
+22                 various levels starting, please, with level 0 and
+23                 level 1.
+24             DR SUNTHARALINGAM: So in an acute hospital setting where we
+25                 start with is really ward-level care which is what you'd
+    48
+
+ 1               see in a standard ward, whether medical or surgical or
+ 2               any area. I'm going to focus initially on the numbers
+ 3               of people because that will be relevant later, and it is
+ 4               the people that then determine the equipment and the
+ 5               interventions that you do safely and it's not just
+ 6               furniture or bits of kit.
+ 7                      So on a ward you might have one trained staff
+ 8               nurse per eight or so patients. That is the goal, but
+ 9               sometimes it can be more diluted even in day-to-day
+10              life, going up to -- and level 1 includes slightly more
+11              enhanced levels of care where you might be up to one
+12              trained nurse to every four patients.
+13                     Supplementing that, there are medical staff, where
+14              the ratios vary according to what team they're in and
+15              what they are covering and, importantly, there are also
+16              pharmacists and allied health professions, which
+17              includes physios, speech and language, therapists,
+18              occupational therapists and sometimes clinical
+19              psychologists. So there's a range of staff ...
+20          LADY HALLETT: Slow down.
+21          DR SUNTHARALINGAM: Those staff, relatively small in number
+22              and cover multiple areas of the hospital whereas we
+23              entitled to focus on nurse ratios in particular because
+24              they are very closely associated with the bed numbers
+25              and the beds.
+    49
+
+ 1                          So that's the default.
+ 2             MS CAREY: Just pause. So that's level 1; is that correct?
+ 3             DR SUNTHARALINGAM: Level 0 --
+ 4             MS CAREY: Zero or 1 --
+ 5             DR SUNTHARALINGAM: -- these days is just ward-level care,
+ 6                 and then level 1 is an enhanced level which can be
+ 7                 spread around the hospital in different specialty areas
+ 8                 or can be put together in designated level 1, so we are
+ 9                 talking about enhanced care, and that's a greater
+10                 nursing ratio of 1:4.
+11             MS CAREY: In short, is it as we get more severely unwell in
+12                 theory the ratio should get better in terms of the
+13                 number of trained staff looking after a patient; is that
+14                 the general trajectory?
+15             DR SUNTHARALINGAM: That's the general pattern, and as well
+16                 as the amount of human attention they are getting, if
+17                 you like, it also enables lower levels of care and
+18                 interventions which become safer, for example, lines and
+19                 so on, that forms the respiratory management that my
+20                 colleague has commented on and for those you need
+21                 a higher level of staffing in order to safely deliver
+22                 those.
+23             MS CAREY: Levels 2 and 3, is that what would be considered
+24                 to be dedicated intensive care units?
+25             DR SUNTHARALINGAM: Generally, yes.
+    50
+
+ 1           MS CAREY: What's the difference between level 2 and
+ 2               level 3?
+ 3           DR SUNTHARALINGAM: It's really a numeric one, so level 2
+ 4               which historically we tended to call high dependency, is
+ 5               one trained, in this case a trained critical care nurse
+ 6               in terms of care nurse to every two patients, and
+ 7               level 3 is full intensive care which doesn't necessarily
+ 8               mean any particular level of equipment but it means one
+ 9               critical care trained nurse to every one patient in
+10              normal times. Those tend to be placed together, so they
+11              tend to be within a footprint which is a critical care
+12              or intensive care unit with the patients moving up and
+13              down levels of care as their needs change.
+14                     I think an important --
+15          MS CAREY: Pause there, because there's a figure that shows
+16              that, I think, and can I have up on screen, please,
+17              INQ00474255_21, and figure 4, which I think will
+18              demonstrate that you can move between levels 2 and 3
+19              depending on how ill the patient is. Thanks you.
+20                     If we just look at the -- tertiary care and ECMO
+21              out of it for the moment, but if we look at, in an acute
+22              hospital, at level 3 and level 2, I assume the arrows
+23              there under "Critical Care" are to show there may be
+24              a movement between the types of care you might need.
+25          DR SUNTHARALINGAM: Yes, an individual patient's
+    51
+
+ 1                 requirements might change and their physical position
+ 2                 may change or it may be just changing the number of --
+ 3                 the amount of staff and equipment around them within
+ 4                 that unit.
+ 5                          I think one thing I would like to highlight is the
+ 6                 sort of vertical arrows with the ward level care below,
+ 7                 and really it is a pyramidal graph, so obviously there
+ 8                 are a larger number of general wards than there are
+ 9                 critical care units and that highlighted part there is
+10                 just to highlight there's actually a decision-making
+11                 process there as well.
+12             MS CAREY: We're going to come on to that.
+13                          Can I just ask you this, though. We've heard
+14                 a number of chief nursing officers speak about changing
+15                 critical care nursing ratios during the pandemic but,
+16                 from the outset, why is it deemed necessary to have one
+17                 critical care nurse to one patient if they are on
+18                 a ventilator?
+19             DR SUNTHARALINGAM: That can be the case even if they are
+20                 not on a ventilator and it is really reflecting the
+21                 patient and their needs and their condition, so if they
+22                 are in a condition where they are biologically,
+23                 physiologically, very vulnerable, their condition can
+24                 change minute to minute and, in addition, the amount of
+25                 the treatments they are getting are -- require
+    52
+
+ 1               attention. So you may have pumps going -- well, you
+ 2               will have pumps going, you may have ventilators, you may
+ 3               have kidney machines, those themselves need monitoring
+ 4               for safety and to make them operate, but it's really
+ 5               about the patient and the fact their condition can
+ 6               change really second to second or minute to minute.
+ 7           MS CAREY: We're familiar with the changing in nursing
+ 8               ratios in the pandemic and I might come back to that in
+ 9               a moment, but just what about consultants, how many
+10              consultants would one expect there to be -- take this as
+11              an example -- for level 3, if there's eight beds there?
+12              How many consultants would there be in an ICU?
+13          DR SUNTHARALINGAM: For that group of patients you would
+14              expect about one and in larger units, you, certainly
+15              during the day, have greater numbers of consultants. It
+16              can vary 1:8, 1:12, and at night, again, you need enough
+17              people to cover safely, but there may be one consultant,
+18              certainly overseeing care of a larger number but with
+19              backup if required.
+20          MS CAREY: And then ECMO, as we know, delivered in the very
+21              specialist centres that Professor Summers told us about.
+22                    Now, you were going to come on to tell us about
+23              how the decision is taken to move someone from ward
+24              level to critical care, and I'm in your paragraphs 30
+25              and 31, Doctor, but essentially how is the decision to
+    53
+
+ 1                 move someone up to ICU taken?
+ 2             DR SUNTHARALINGAM: So, firstly, it's about picking up the
+ 3                 fact they are deteriorating, and the earlier that's done
+ 4                 the better, and the earlier you can have those
+ 5                 conversations and decisions the better, so there's
+ 6                 a whole layer of thinking about how to detect critical
+ 7                 illness early, including at the front door of the
+ 8                 hospital and home.
+ 9                        The decision to escalate them. So I completely
+10                 agree with what the Professor said that -- certainly in
+11                 the case of Covid, intensive care is a supportive
+12                 process not disease altering, but it is actually a set
+13                 of interventions and treatments in itself, as well, in
+14                 the process of delivering that.
+15                        So we are delivering treatments to people in the
+16                 same way, as an analogy, of offering chemotherapy or
+17                 doing major surgery, and so there needs to be, firstly,
+18                 do they need it, and picking that up early, in a timely
+19                 way, I should say. Secondly, what they need. Thirdly,
+20                 whether it's the right thing for them and --
+21             MS CAREY: And who makes the decision?
+22             DR SUNTHARALINGAM: So once you get to level 2 and 3 care,
+23                 these are intensivist-led and the evidence is that is
+24                 how things work best. So the decision is made by an
+25                 intensive care consultant but in discussion with the
+    54
+
+ 1               people referring or to the patient themselves and their
+ 2               families and with supporting staff. But there is
+ 3               a gatekeeping process.
+ 4           MS CAREY: So pausing there, a doctor dealing with a ward
+ 5               level 0 or 1 patient might think they are deteriorating
+ 6               to such an extent they may need critical care and, what,
+ 7               essentially they would ring you in your hospital and
+ 8               say: I've got a patient, here are the symptoms, will you
+ 9               admit them? Or who makes the call?
+10          DR SUNTHARALINGAM: It may be the referring teams, but also,
+11              importantly, there are actually a variety of mechanisms.
+12              So, for example, an increasingly important part is
+13              categorical outreach teams. So there are critical care
+14              trained nursing teams and others who will be around the
+15              hospital. And also there are systems for alerting, so
+16              we have early warning scores, we've heard about marker
+17              score and other measures as well, so there are various
+18              ways of raising the alarm, so to speak, and other staff
+19              around, but it ultimately comes from a referring set of
+20              people to the critical care team.
+21          MS CAREY: Are any notes taken of the decisions about
+22              whether the patient should or should not be escalated?
+23              Should that be recorded?
+24          DR SUNTHARALINGAM: Yes.
+25          MS CAREY: In the patient's notes?
+    55
+
+ 1             DR SUNTHARALINGAM: Yes, that is right.
+ 2             MS CAREY: Do they have to be made contemporaneously or is
+ 3                 that something that could be written up at the end of
+ 4                 a shift or in a downtime moment if, indeed, there were
+ 5                 any in the pandemic?
+ 6             DR SUNTHARALINGAM: Really contemporaneously but even in
+ 7                 normal times, and especially in a pandemic, obviously
+ 8                 there may be a lot going on at the same time, including
+ 9                 stabilising the patient. There are also a lot of people
+10                 involved, so it should be possible to document near
+11                 real-time but it may not be feasible to do it right
+12                 there and then but really they should be.
+13             MS CAREY: We have heard from the chief nursing officers
+14                 that during the pandemic, the nursing ratios of
+15                 a critical care nurse were stretched to potentially as
+16                 high as 1:6 patients, clearly with other supporting
+17                 staff and, indeed, redeployed staff.
+18                        Can I just ask you about those that were
+19                 redeployed. How easy or otherwise was it, in your
+20                 experience, for them to take up the mantle of providing
+21                 critical care in terms of, firstly, how they looked
+22                 after the patient, but also the impact on the staff
+23                 having to teach the critical care staff?
+24             DR SUNTHARALINGAM: In terms of dividing this between what
+25                 happens normally and how things changed in the pandemic,
+    56
+
+ 1               I'll pass that to the Professor and then I can -- it
+ 2               might tie into later discussions as well.
+ 3           PROFESSOR SUMMERS: I think it should be recognised that it
+ 4               was extraordinarily difficult and that staff from across
+ 5               roles in the NHS did an amazing thing when they agreed
+ 6               to be redeployed to intensive care units to support us.
+ 7               They were walking into a situation where many of them
+ 8               were, rightly, fearful of what they were going to face,
+ 9               often outside the kind of environments that they had
+10              chosen to work in. There's a reason they didn't work in
+11              intensive care for many of them and suddenly we were
+12              asking them to do things, and it wasn't just clinical
+13              staff, it was administrative staff, support staff,
+14              who -- I can think of a ward clerk from a day hospital
+15              who came to be one of the ward clerks, one of the
+16              intensive care, at my hospital. They did an amazing
+17              thing and they absolutely did their very best under
+18              extraordinarily difficult situations.
+19          MS CAREY: Pausing there, what kind of duties would a ward
+20              clerk who's been redeployed to critical care actually
+21              perform?
+22          PROFESSOR SUMMERS: So they were dealing with all the
+23              records and the administration. We were opening new
+24              intensive care units. You cannot do that without
+25              administrative support. Somebody needs to answer the
+    57
+
+ 1                 phones, somebody needs to make sure the records, all the
+ 2                 things that you need, arrive, and that somebody receives
+ 3                 those.
+ 4                          All of the teams that we use, and I think we've
+ 5                 listed on page 61 just the clinical staff, occupational
+ 6                 therapists, speech and language therapists, dietitians,
+ 7                 physiotherapists, pharmacists, it is an enormous package
+ 8                 of care. Every time we opened an intensive care unit we
+ 9                 stretched what we had further and further and further
+10                 and drew in more and more resource from elsewhere in the
+11                 hospital and diluted what we already had.
+12             DR SUNTHARALINGAM: Absolutely.
+13                          And just to add to that, so as well as people
+14                 doing, sort of, their jobs, but in an intensive care
+15                 environment, there were people working -- firstly, they
+16                 were being exposed to things which they wouldn't
+17                 necessarily be in their normal jobs, people
+18                 deteriorating and dying in front of them, the emotional
+19                 distress of that, and I think that's well worth
+20                 recognising, and also people who weren't in a position
+21                 to come and staff intensive care unit, because they had
+22                 other jobs to do, or non-clinical also came to help with
+23                 activities such as proning, so we had dedicated trained
+24                 proning teams who might come from dental staff or admin
+25                 staff, and they were voluntarily entering into the
+    58
+
+ 1               really quite frightening environment of intensive care
+ 2               unit to help with individual interventions as well, so
+ 3               all of it was very much appreciated.
+ 4           PROFESSOR SUMMERS: Helping us with putting on PPE and
+ 5               making sure we were safe, and that we actually got
+ 6               access to food and water, that families were phoned.
+ 7               A whole host of support.
+ 8           MS CAREY: Notwithstanding the efforts of those that came
+ 9               and were redeployed and did their best, does it follow,
+10              though, that when one stretches the critical care ratios
+11              to 1:6 that there is inevitably going to be a compromise
+12              in the amount of care that a patient receives?
+13          PROFESSOR SUMMERS: Yes, unquestionably. It takes years to
+14              train specialist critical care staff. We entered the
+15              pandemic with a number of critical care trained staff
+16              that we had and recognising, as is recognised in some of
+17              the evidence from the nursing associations in critical
+18              care, there was a 10% critical care nurse vacancy when
+19              we went into the pandemic. We can't just magic up
+20              specialist care staff because, as I think
+21              Professor Whitty referred to last week, it takes a good
+22              couple of years, at least, for minimum critical care
+23              specialty training. What we had, we had, and we had to
+24              stretch further and further to provide. So of course
+25              that impacted on the care that could be provided.
+    59
+
+ 1             MS CAREY: Whilst looking at stretching further and further,
+ 2                 can I ask you please about the measuring of ICU capacity
+ 3                 and the ways it is differently measured across the UK.
+ 4                 Can we perhaps start with how it is measured in
+ 5                 Scotland, Wales and Northern Ireland and then look at
+ 6                 the position in England.
+ 7                          Is this you, Dr Suntharalingam, who can help with
+ 8                 this?
+ 9             DR SUNTHARALINGAM: Yes.
+10             MS CAREY: I would like to look at the figure 5, please, on
+11                 page 22 of the report.
+12                          And although we're looking at a graph relating to
+13                 Scotland, I just want to understand how intensive care
+14                 capacity is measured in Scotland, Northern Ireland and
+15                 Wales, and this, I hope, graph will help us understand
+16                 it.
+17             DR SUNTHARALINGAM: Yes. So just, if I may, rewind a little
+18                 bit. So measuring capacity across all intensive care
+19                 units across all four nations is, in a way, the same.
+20                 You have the number of beds that you expect to be
+21                 staffing. It is actually more difficult than you would
+22                 think to get a national picture, even with all the
+23                 reporting, because you have beds, physical beds, you
+24                 have beds that are staffed for that shift, if you like,
+25                 or that week, and then you have actual numbers of people
+    60
+
+ 1               and the patients in them, which change minute by minute.
+ 2               So it's not as simple as you might think.
+ 3                      I think, to go back to your question, in this
+ 4               graph, the Scottish government figures quoted in BBC
+ 5               Scotland during the pandemic show the live numbers of
+ 6               occupied beds. They also show, and I think this is
+ 7               where the important difference is, the line there shows
+ 8               the normal capacity of the entire system --
+ 9           MS CAREY: The purple line is, what, about 175 or
+10              thereabouts?
+11          DR SUNTHARALINGAM: Yes. And then the higher line shows
+12              right up at the top there, shows the theoretical surge
+13              capacity if every unit went to the maximum dilution at
+14              the time, 1:6, let's say, and it gives a sight of
+15              where -- how close things are to total saturation but,
+16              as we've said, that's delivering really quite diluted
+17              care in which the details are diluted where the skill
+18              mix is boosted with redeployed people and although we
+19              may have numbers of hands and bodies, the familiarity
+20              and the skill mix is different. So you are delivering
+21              a different form of care.
+22          MS CAREY: Pausing there, if one takes this graph, by some
+23              point between 27 March and 28 April 2020, ordinarily ICU
+24              capacity was exceeded in Scotland --
+25          DR SUNTHARALINGAM: Yes.
+    61
+
+ 1             MS CAREY: -- when they went over 200-odd beds even though
+ 2                 in theory they have got 175 in normal times.
+ 3             DR SUNTHARALINGAM: Yes.
+ 4             PROFESSOR SUMMERS: Just to remind that not all of those
+ 5                 175 beds would be level 3 beds necessarily in normal --
+ 6                 some of them would not necessarily be staffed for the
+ 7                 kind of patients that they happened to have in them when
+ 8                 they had those 200 or so patients.
+ 9             MS CAREY: So that is a, sort of, easy to understand diagram
+10                 of how intensive care capacity was measured in Scotland
+11                 and similar measurements are taken in Wales and Northern
+12                 Ireland. Can I contrast that now with the position in
+13                 England, and it might be easy to understand by reference
+14                 to figure 6 at page 39 in your report.
+15             DR SUNTHARALINGAM: Can I, while this graph is up --
+16             MS CAREY: Yes.
+17             DR SUNTHARALINGAM: -- the bit where the -- sorry, my fault.
+18                        Just that little bit where it blips over the
+19                 normal line it shows that it's over 100% of normal
+20                 capacity, which I think you have already mentioned. So
+21                 just to contrast that. And then the next graph. And
+22                 this is really not so much about how it is measured but
+23                 how it's expressed, I think. So due to, kind of, the
+24                 size and complexity of England in terms of the
+25                 regions --
+    62
+
+ 1           MS CAREY: Pause there while we get the England figure up,
+ 2               please. It just takes us a moment to flip between the
+ 3               graphs.
+ 4                      Perhaps can we expand it, please.
+ 5                      Let's just explain the graph and then you can come
+ 6               on to make the point that I know you want to make. This
+ 7               is taken from north London, a hospital in north London,
+ 8               Northwick Park, and the total capacity is the grey
+ 9               shading and then it's also broken down into the number
+10              of ICU patients that were in the ICU in that hospital
+11              and, indeed, the non-Covid patients, but it's the black
+12              line, I think might be the easy one to understand, and
+13              it was ordinarily this hospital had 22 ICU beds.
+14          DR SUNTHARALINGAM: Yes.
+15          MS CAREY: Right. However, the total capacity changed, if
+16              we look at the grey, quite considerably as 2020
+17              progressed, as you have no doubt surged up the number of
+18              beds available. So at its highest in April, 60 beds.
+19          DR SUNTHARALINGAM: Yes.
+20          MS CAREY: So nearly three times as many beds as you had in
+21              non-pandemic times.
+22          DR SUNTHARALINGAM: Yes, and as Professor Summers has said,
+23              that also -- hiding in that almost is the fact that more
+24              of those beds were level 3 than usual, so the staffing
+25              was even greater diluted than 1:3, it would have been up
+    63
+
+ 1                 to 1:6 and more.
+ 2             MS CAREY: So if we look at the black line and then look at
+ 3                 the figures above it, from about 15 March, or
+ 4                 thereabouts, onwards this ICU was operating at either
+ 5                 twice or nearly three times its normal baseline
+ 6                 capacity.
+ 7                        Now, help us with how it's differently expressed
+ 8                 in England, if I may ask you.
+ 9             DR SUNTHARALINGAM: So a decision early on which is
+10                 explained in NHS England's statement is to, firstly, ask
+11                 each hospital what it could surge up to because that
+12                 gives you a maximum figure, and that is logical, it
+13                 shows when you are in danger of reaching saturation
+14                 point locally and nationally. I think the difference is
+15                 that that's how it's expressed and then communicated,
+16                 not through any kind of ill intent but I think because
+17                 of the way internal communications and assessment
+18                 worked, became what was then put out nationally in media
+19                 and so on, and it is just a very different way of
+20                 looking at it.
+21                        So looking at percentages of all surge beds gives
+22                 you, you know, what can be a lower percentage -- well,
+23                 obviously, is a lower percentage occupancy than if you
+24                 are measuring it against a standard capacity.
+25             MS CAREY: So if we go to the end of this graph and look at
+    64
+
+ 1               April into May, it is suggesting there that there are up
+ 2               to nearly 50 beds available of which, if we look at the
+ 3               blue line, perhaps just under 40 are taken up and the
+ 4               proportion of those of Covid. It's giving the
+ 5               impression there that there may be ten beds available,
+ 6               or so, that day but it doesn't reflect the fact that you
+ 7               are already running at double the capacity you would
+ 8               have ordinarily run at in non-pandemic times.
+ 9           DR SUNTHARALINGAM: Yes, and when it comes to an individual
+10              hospital that information is obviously well known, can
+11              be communicated easily, planned around. When you map
+12              that up to regions and nations, then it looks as -- the
+13              risk is it looks as if you've got lots of spare capacity
+14              in the system at all times.
+15                     That wasn't the intent of the way it was used but
+16              there's a difference between how things are seen within
+17              the system by people that know what it means versus how
+18              it then gets interpreted later on or more externally.
+19          MS CAREY: So although you make the point that's not the
+20              intent, it is potentially misleading if people don't
+21              understand that the baseline capacity is significantly
+22              less than the surge capacity.
+23          DR SUNTHARALINGAM: Yes.
+24          MS CAREY: Right.
+25          PROFESSOR SUMMERS: I think it doesn't reflect the
+    65
+
+ 1                 experience of the staff at the bedside.
+ 2             DR SUNTHARALINGAM: Absolutely.
+ 3             PROFESSOR SUMMERS: That's the critical bit.
+ 4             MS CAREY: I wanted to come on to that because when you are
+ 5                 running at double or even, now, perhaps, triple the
+ 6                 capacity that was usually at, what is the impact on the
+ 7                 staff in terms moral distress and moral injury? And we
+ 8                 haven't actually defined those phrases, so perhaps we
+ 9                 ought to deal with that first.
+10                        What is moral distress?
+11             DR SUNTHARALINGAM: So moral distress is if you -- when you
+12                 have the skills and the knowledge to know what you
+13                 should be doing and what you could be doing to do the
+14                 best for the person in front of you -- and that's not
+15                 just in healthcare, it can be in teaching or any other
+16                 endeavour -- but if you then are unable to do it,
+17                 whether due to resources or the workload or anything
+18                 else, that sets up a conflict in your brain,
+19                 essentially, that says: I should have been doing this
+20                 but I can't.
+21                        So that's moral distress.
+22                        Where that then becomes moral injury is when it's
+23                 accumulated over time, there's a crescendo effect, and
+24                 it can lead to long-lasting psychological effects.
+25             MS CAREY: And what this graph, just finally dealing with
+    66
+
+ 1               this graph, what this graph doesn't show us is what the
+ 2               kind of dilution of the nursing ratios were going
+ 3               through March into April into May 2020 in this
+ 4               particular hospital. So it's not just about the beds,
+ 5               it's about the number or staff available to care for the
+ 6               patients in the beds.
+ 7           DR SUNTHARALINGAM: Yes, out of the 22 at any one time
+ 8               normally there would be a mixture of level 2 and level 3
+ 9               patients whereas at times like this everyone would have
+10              been level 3 almost.
+11          MS CAREY: Can you help me, Doctor, in your particular
+12              hospital, what kind of nursing ratios were you
+13              stretching to in intensive care?
+14          DR SUNTHARALINGAM: I think within the range of what we've
+15              discussed. So at peak times up to 1 in 6 and sometimes
+16              beyond. It was only in wave 1. I am not really here to
+17              talk about individual sites there.
+18          MS CAREY: No, can I make it clear. We have sitrep data
+19              from NHSE that covers nursing ratios, but I just, since
+20              you were here, wanted to know at its worst, how bad did
+21              it get, and in the medium bad, if I can put it like
+22              that, what were you running at in your hospital?
+23          DR SUNTHARALINGAM: It fluctuated and it's -- also the
+24              pattern changed across the waves. So by wave 2 there
+25              was a greater understanding across the system that
+    67
+
+ 1                 having localised hotspots was potentially harmful and
+ 2                 there was a greater understanding of the need for
+ 3                 earlier decompression. Conversely, that meant some of
+ 4                 the other sites got busier because people had been moved
+ 5                 into them.
+ 6             MS CAREY: Well, shall we look at actual critical care
+ 7                 transfer since you mention decompression there? And
+ 8                 obviously we've heard from Professor Rowan on that, and
+ 9                 I think if you turn to your paragraph 75 onwards in your
+10                 report there are some diagrams and documents that may
+11                 help us deal with critical care transfers. But do
+12                 I understand this, that transferring a patient from one
+13                 critical care unit to another ought to be a transfer of
+14                 last resort?
+15             DR SUNTHARALINGAM: Yes, in the sense that it's not directly
+16                 in the patient's interest, so in an ideal world, whether
+17                 in pandemic or not, every patient should have access to
+18                 critical care where they need it, which they do, but in
+19                 some cases it may involve having to move them elsewhere.
+20                 Normally, you would want to transfer people for clinical
+21                 benefit, so not every hospital can offer every service,
+22                 whether it's surgery or ECMO or anything else, so
+23                 escalating somebody and moving them elsewhere for care
+24                 they can't deliver is appropriate clinical transfer.
+25             MS CAREY: Fine.
+    68
+
+ 1           DR SUNTHARALINGAM: Moving them closer to home or somewhere
+ 2               for rehabilitation after that is also kind of
+ 3               appropriate and in their interests.
+ 4                      What we call a capacity transfer, which does
+ 5               happen in day-to-day life as well, but nothing on like
+ 6               the same scale, is something that you would prefer to
+ 7               avoid if you can, both for --
+ 8           MS CAREY: So, pausing there, because we saw some graphs
+ 9               dealing with repatriation because it's nearer to the
+10              patient's home, for example, and take moving a patient
+11              perhaps to an ECMO unit or a baby that requires
+12              specialist care out of it, I just want to focus on the
+13              capacity transfers, and you say they do happen in
+14              non-pandemic times and we've seen some graphs dealing
+15              with the scale of them.
+16                     But the mechanisms in place I think vary across
+17              the UK and I think you said in your report that in
+18              Northern Ireland there is a Northern Ireland specialist
+19              transfer and retrieval system to help move patients,
+20              babies, paediatrics and adult transfers, 24/7; is that
+21              right? That's a service available all the time.
+22          DR SUNTHARALINGAM: Yes. So this is -- this is a clinical
+23              need that was identified before the pandemic. Various
+24              bodies, scientific papers, and editorials all
+25              recommended it. Okay, there were resource issues in it.
+    69
+
+ 1                 And different nations had different, not so much
+ 2                 different approaches but different abilities to deliver
+ 3                 that depending on the scale. So the Northern Ireland
+ 4                 NISTAR system -- you will have to excuse me, I have lost
+ 5                 my place.
+ 6             MS CAREY: Paragraph 82.
+ 7             DR SUNTHARALINGAM: Thank you. Just to make sure I get
+ 8                 my -- so the Northern Ireland system is fully funded for
+ 9                 24/7 from 2017 onwards, organised from Belfast but
+10                 with -- in coalition with the ambulance service and are
+11                 able to pick up and deliver patients and deliver care,
+12                 obviously, during the transfer in a variety of settings.
+13                        So that's that example.
+14             MS CAREY: So they had a system that had been in place for
+15                 at least three years by the time we started the
+16                 pandemic.
+17                        In Scotland you say there is the Emergency Medical
+18                 Retrieval System, EMRS, that has existed since 2008.
+19                 And help us with that, please, Doctor.
+20             DR SUNTHARALINGAM: Again, this is from reading and
+21                 conversations, so not my personal experience, and also
+22                 I think some of the variation is partly geographic, so
+23                 in Scotland you obviously have the central belt with
+24                 large population areas, more rural areas, and smaller
+25                 hospitals, and less hospital cover in other areas.
+    70
+
+ 1                      So EMRS, firstly, picks up -- it is essentially
+ 2               a pre-hospital service that can pick up and retrieve
+ 3               patients where needed. It is used for critical care
+ 4               transfers primarily, I believe, for -- initially for
+ 5               clinical escalation from the smaller hospitals outside
+ 6               the central belt into the specialist centres where
+ 7               needed. Clearly it can also be used for capacity
+ 8               transfers in that setting.
+ 9           MS CAREY: Understood. Then in England and Wales there is
+10              the regional Critical Care Operational Delivery Networks
+11              that has existed since 2000. How does that work in
+12              England and Wales?
+13          DR SUNTHARALINGAM: There is a minor error in this actually
+14              in that I think the Wales network is now part of the
+15              All-Wales trauma group of care network, and at the time
+16              this was in place wasn't an operational delivery
+17              network. So from 2000, the report Comprehensive
+18              Critical Care, which looked at how critical care can
+19              best be delivered across the country and brought in
+20              critical care outreach and more use of the term
+21              "critical care" outside ICU, among other things that
+22              pointed out that networking between hospitals would help
+23              regional collaboration, help move patients, where they
+24              did need to be moved, move closer, or over shorter
+25              distances, but also help with load balancing, and all of
+    71
+
+ 1                 this as well before the pandemic.
+ 2             LADY HALLETT: Could you slow down, please. I am sorry.
+ 3                 The stenograph is struggling and I am afraid I am too.
+ 4             DR SUNTHARALINGAM: Sorry, okay, apologies.
+ 5                        So Wales, I think is -- for a while was not an
+ 6                 operational network but more clinical collaboration but
+ 7                 now certainly fits into that category.
+ 8                        In England these were -- in some regions the
+ 9                 network activity paused and came back but now there are
+10                 operational delivery networks across the country, across
+11                 the nation, these were all in place before the pandemic.
+12                 They were there to help units collaborate with each
+13                 other. Not all of them, in fact probably a minority,
+14                 had transfer systems running. Everyone wanted to but
+15                 the resources weren't there, prior to the pandemic, and
+16                 that has changed since then.
+17             MS CAREY: Pausing there, different systems in different
+18                 countries but all essentially able to do the same thing
+19                 if there is a need for a critical care transfer for
+20                 capacity reasons; is that what it comes to?
+21             DR SUNTHARALINGAM: That's what it should come to. They
+22                 weren't all there before. They are coming into place
+23                 now and as you've touched on, it is not so much about --
+24                 I mean, there are special service specifications for
+25                 these, they do differ a bit between the nations, but
+    72
+
+ 1               what it comes down to, fundamentally, is everyone
+ 2               getting access to the treatment they need and if it's
+ 3               not where they are that they should be able to be safely
+ 4               transported to where they can get it and that's the
+ 5               goal.
+ 6           MS CAREY: We've seen this graph before but can we put up
+ 7               figure 9, please, on page 41.
+ 8                       This is data provided by ICNARC and SICSAG,
+ 9               dealing with the average daily number of ICU transfers
+10              between critical care units across the UK from both
+11              pre-pandemic and (unclear). We looked at it, I think
+12              yesterday afternoon, with Professor Rowan.
+13                      But there we can see that if you take March into
+14              April 2020 they jump to 60 daily transfers between
+15              critical care units across the UK and if you go on to,
+16              then, just after Christmas of 2020, we can see a jump
+17              there again to potentially over 80 patients a day being
+18              transferred.
+19                      So that just gives a sort of grounding in what was
+20              happening UK wide. I actually want to look at figure 7
+21              in the report now, please, and the transfers into and
+22              out of Northwick Park, just to take that hospital again
+23              as an example.
+24                      I think you've provided there -- it's on page 40.
+25          DR SUNTHARALINGAM: Yes.
+    73
+
+ 1             MS CAREY: Just pause there while we bring it up on the
+ 2                 screen, Doctor. Thank you.
+ 3                        There we have "Daily admissions to and transfers
+ 4                 out from Northwick Park". This is all in 2020; is that
+ 5                 correct?
+ 6             DR SUNTHARALINGAM: That's right.
+ 7             MS CAREY: So just starting that beginning of the graph,
+ 8                 1 March, in that week there were a relatively low
+ 9                 number, three or four, ICU admissions steadily rising as
+10                 we approach lockdown. And if we take the week of
+11                 15 March, there are already a few numbers of transfers
+12                 out that then tends to grow as we go through March and
+13                 into April.
+14                        Even in that early stage can you help why there
+15                 were transfers out in the week of 15 March?
+16             DR SUNTHARALINGAM: So that was very early. The -- so, just
+17                 for clarity, the reason this is here is because it's
+18                 publicly available, it's published as a -- you know,
+19                 a scientific journal regarding the transfer mechanisms
+20                 and very much around wave 1.
+21                        It was also published as an example of network
+22                 activity. So the Critical Care Network in this area --
+23                 which, for transparency, I've been involved in since
+24                 it's been there -- was active. It didn't have a funded
+25                 24/7 transfer team. It does now. But there was
+    74
+
+ 1               a collaborative approach amongst all the hospitals and
+ 2               joint transfer education and shared equipment packages
+ 3               and an approach to transfer that enabled a spontaneous
+ 4               activation, really, of this.
+ 5                       So the network as a group of hospitals and as
+ 6               management team basically came online, activated on that
+ 7               day really, when they realised Northwick Park was in
+ 8               trouble, and all of this sort of came around -- I won't
+ 9               say ad hoc, because it reflected a previous
+10              organisation, but spontaneously to enable this to happen
+11              to decompress the hospital.
+12          MS CAREY: So when a hospital thinks "We need to transfer
+13              some patients out to relieve the pressure on an ICU", do
+14              they ring a central unit or do they ring a neighbouring
+15              hospital? How, practically, does it happen?
+16          DR SUNTHARALINGAM: So it will vary around the country.
+17              Again, this particular network, very well established,
+18              people know each other, and also geographically it's
+19              quite proximate, and there is a -- as there is for all
+20              networks now, there's a defined network team, and at
+21              this stage they were able to be activated.
+22                      So the awareness of what was happening spread very
+23              rapidly through the existing network mechanisms, as did
+24              the activation. Which was actually very fortunate.
+25              I mean, this is what -- how you would want things to
+    75
+
+ 1                 work, and how they did work, as the pandemic evolved in
+ 2                 other places.
+ 3             MS CAREY: If we look, then, at figure 8, which is just
+ 4                 below this graph on page 40, and the circular --
+ 5                 I hesitate to use that word --
+ 6             DR SUNTHARALINGAM: Spider web.
+ 7             MS CAREY: -- diagram. Take Northwick Park there at the
+ 8                 top. I'm not going to go through all the hospitals but
+ 9                 one can see there the number of patients transferred out
+10                 to a number of hospitals in and around that region, and
+11                 indeed to some -- the Nightingale hospital, once it was
+12                 opened. It's quite a complicated --
+13             DR SUNTHARALINGAM: It is.
+14             MS CAREY: -- picture that is being painted there.
+15             DR SUNTHARALINGAM: Yes, absolutely. So I think it shows
+16                 that, firstly, it's not -- although Northwick Park was
+17                 the predominant -- a hotspot right in the early days,
+18                 but it -- things evolved very quickly. Some of those
+19                 hospitals didn't -- don't have A&Es and were, therefore,
+20                 in a better position to take in, but they do have their
+21                 own specialist workloads. And as you've seen, there are
+22                 patients moving in all directions --
+23             MS CAREY: Well, quite, I was going to say. So, I mean, if
+24                 you take Chelsea and Westminster and Hammersmith,
+25                 they're going -- there's backwards and forwards
+    76
+
+ 1               transfers between those two hospitals.
+ 2           DR SUNTHARALINGAM: Yes, and some of it may be, sort of,
+ 3               appropriate repatriation, some of it may -- bearing in
+ 4               mind this was over a period of time, and even this was
+ 5               only in a fairly small, sort of, capsule of time, in
+ 6               wave 1, in one area, so as things evolved there would be
+ 7               different hotspots, different hospitals needing
+ 8               assistance or to move people back. And although here
+ 9               the out-of-network transfers are shown to the
+10              Nightingale at the time, in fact as the pandemic
+11              evolved, there were much more wide-ranging transfers to
+12              other areas of London and between regions, particularly
+13              by the time of wave 2.
+14          MS CAREY: Right. Well, I was going to ask, perhaps. This
+15              is in a metropolitan area, where there's a number of
+16              hospitals nearby or within a number of miles, do you
+17              know what the position was in perhaps a more rural
+18              hospital, where there are many miles between it and its
+19              next neighbouring intensive care unit?
+20          DR SUNTHARALINGAM: I don't know for sure because -- I mean,
+21              this was a paper that's put together by people involved.
+22              There isn't the same data in this form for other areas.
+23              And obviously geographical distances and, sort of, if
+24              you like, cultural isolation, in terms of not having
+25              their regular contact, means that it may well not --
+    77
+
+ 1                 have been different.
+ 2                           And obviously we don't want to be repeating each
+ 3                 other's testimony, but Professor Fong's statement was
+ 4                 very powerful last week and he spoke for all of us, but
+ 5                 one of the things he mentioned was around going to an
+ 6                 isolated site and hearing them saying, "Well, we didn't
+ 7                 know if we were doing the right thing", but equally that
+ 8                 will apply to transfers and so on as well. You know,
+ 9                 I can't tell you whether everyone that was under this
+10                 level of pressure got this level of mutual support at
+11                 every stage.
+12             MS CAREY: It does bring me on though to the outcomes and
+13                 lessons learned regarding the critical care transfers.
+14                           And we can take that figure 8 down, and can I ask
+15                 you, please, Doctor, about paragraph 90 onwards in your
+16                 report.
+17                           I think you make the point that:
+18                           "Assessing the ... impact of critical care
+19                 transfer on a patient's eventual outcome ..."
+20                           Because we've heard it's a risky procedure, that
+21                 you take normally the most stable patient who's likely
+22                 to survive the transfer to the new hospital.
+23                           You say it's difficult to assess the overall
+24                 impact:
+25                           "... as the transfer is a relatively short time
+    78
+
+ 1               interval in an ICU stay [that can be] days or weeks."
+ 2                      But help us with the study that was done of the
+ 3               137 ICU transfers in North London. What was
+ 4               demonstrated by that small study?
+ 5           DR SUNTHARALINGAM: Again, it was -- this was by another
+ 6               group, but in that same patch actually, so fairly
+ 7               short-range transfers among academic and other
+ 8               hospitals --
+ 9           MS CAREY: So do you mean within a few miles of each other?
+10          DR SUNTHARALINGAM: Although the message may be
+11              transferable, just as a sort of note of caution, and
+12              again --
+13          MS CAREY: Slowly, please.
+14          DR SUNTHARALINGAM: But what it showed is that -- in this
+15              case they looked specifically at respiratory function
+16              and the gas exchange in the lungs and whether the
+17              process of disconnecting, moving to a transport
+18              ventilator, moving the patient between sites, whether
+19              that affected that particular parameter, and they showed
+20              that compared to transfers within the same hospital,
+21              between different units, there was a greater impact
+22              temporarily but that within 24 hours that had
+23              disappeared. That's only looking at one aspect of that
+24              patient group.
+25          MS CAREY: You set out in your paragraph 90 that perhaps the
+    79
+
+ 1                 caveats or the limitations of that study might be
+ 2                 a better way of putting it, and I think there was
+ 3                 another one done in Scotland that used data from
+ 4                 108 patients admitted to a unit in Scotland in the
+ 5                 second wave, and there, even when they made adjustments
+ 6                 for confounding factors, they found no significant
+ 7                 difference in mortality rates for patients who were
+ 8                 transferred for capacity reasons; is that correct?
+ 9             DR SUNTHARALINGAM: That's correct, as far as we can
+10                 understand it from the data available. And as the
+11                 authors themselves said, there may be patterns in that
+12                 but the numbers just haven't been large enough to show.
+13                 So there was evidence of patients staying in hospital
+14                 a bit longer, being on ventilator longer, but didn't
+15                 translate to mortality difference.
+16                           I think an overarching -- I'm just -- if I may go
+17                 back just to your point about it being last resort,
+18                 because I think that it's true, but I think tying that
+19                 to the development of transfer teams, I think what --
+20                 one thing we'd learnt -- or to learn from new but
+21                 reinforced is that having organised, funded retrieval
+22                 and transfer teams, which have drilled together,
+23                 practised together, in the same way as the helicopter
+24                 emergency services, for example, in another setting, it
+25                 can -- it is safe to do transfers, particularly with
+    80
+
+ 1                a good system. And it provided a role during the
+ 2                pandemic which does map across to normal life as well,
+ 3                where setting these things up means the risks of
+ 4                transfer are lower, and the benefits may be of what we
+ 5                might call load balancing, ensuring patients do get the
+ 6                right care rather than being in an over -- a busy
+ 7                hospital where they -- decisions may be different or
+ 8                where they don't have access to everything.
+ 9                       So I don't want to, sort of, in a way, inverse
+10               caveat it by saying transfers can be made incrementally
+11               safer and the transfer teams are a way of doing that.
+12          MS CAREY: I suppose the point I wanted to make was there
+13               was no evidential or study done that suggests that
+14               transferring people out had a greater impact on their
+15               mortality, but that's not to ignore the impact it had on
+16               them, their loved ones and, indeed, the staff left in
+17               the unit perhaps caring --
+18          DR SUNTHARALINGAM: Absolutely.
+19          MS CAREY: -- for the most sick who may have then ended up
+20               going on to, sadly, die.
+21          A.   Yes, and I know that's been mentioned in earlier
+22               testimony and there's the moral injury aspect of that.
+23               And actually if you are a critical care healthcare
+24               worker of any sort, but particularly the nursing and
+25               other staff who are by the bed of that patient for long
+    81
+
+ 1                 periods, having to then move them somewhere where you
+ 2                 don't see them again, and usually they're moving the
+ 3                 more stable patients, so you don't get there recovery
+ 4                 part of it. And as you have mentioned, the patients
+ 5                 themselves will wake up in a different hospital and
+ 6                 their families, even if it's by virtual and iPads and
+ 7                 not being allowed to visit, the fact that knowing
+ 8                 they've been moved, you know, possibly hundreds of miles
+ 9                 away, is very emotive, and we fully understand that.
+10             MS CAREY: Is there any lesson learnt, do you think, from
+11                 the number of transfers out and the way in which it
+12                 happened that could be usefully utilised again in the
+13                 event of a pandemic?
+14             DR SUNTHARALINGAM: I think there was learning during the
+15                 pandemic even within the relevant period between the
+16                 waves, as I've sort of touched upon. I think if you
+17                 start from the point that everyone should go to 1:6 and
+18                 cope as best you can, which was appropriate at the time,
+19                 but then when it -- once it becomes apparent there are
+20                 geographic hotspots, depending on local population --
+21                 the learning between the two waves was you can make
+22                 transfer safer but also there's a clinical need to
+23                 decompress earlier.
+24             MS CAREY: Yes.
+25             DR SUNTHARALINGAM: So you might, rather than having one
+    82
+
+ 1                hospital at 1:6 staffing ratios and somewhere else with
+ 2                more capacity, if you decompress earlier, at say 1:4,
+ 3                there's less impact on staff, the patients may do
+ 4                better. So the later transfers -- the ability to do
+ 5                transfer safely and to be at a lower threshold in fact
+ 6                and to decompress was part of the learning within the
+ 7                pandemic, and I think that is transferable to future
+ 8                ones as well.
+ 9                       Load balancing as a term sounds a bit, sort of,
+10               non-humane.
+11          MS CAREY: It does.
+12          DR SUNTHARALINGAM: This is not about cargo but as a sort of
+13               technical term, and we don't tend to talk about that day
+14               to day, but it's about evening out the dilution and the
+15               workload under overwhelming conditions, and I think
+16               that -- doing that more readily was an important part of
+17               the learning process.
+18          MS CAREY: Yes, if I understand what you are saying
+19               correctly, that this was a very reactive need to
+20               transfer out when it got too bad and, if I understand
+21               what you are correctly saying, there might be a lesson
+22               learned to be more proactive and transfer out before you
+23               get to that state of overwhelming pressure?
+24          DR SUNTHARALINGAM: Yes, and then there's something around
+25               getting the preparations right at the receiving end as
+    83
+
+ 1                 well. So the centres that did take in more to
+ 2                 decompress the busier hospitals, there was generally,
+ 3                 I think, a flow from small and medium to larger
+ 4                 hospitals. So obviously they need the resources to cope
+ 5                 with that as well.
+ 6                        So, for them, wave 2 was, in a way, more stressful
+ 7                 that wave 1, whereas for other places it was not
+ 8                 quite -- I wouldn't say the converse but there were some
+ 9                 mitigation of the initial shock.
+10             MS CAREY: Can I stick with you, Doctor, please, and look at
+11                 what are called CRITCON levels, the UK Critical Care
+12                 Readiness Condition (or CRITCON, as it's known) and this
+13                 is about how a hospital conveys to NHS England in this
+14                 particular example about their state of overwhelmedness,
+15                 for want of a better phrase.
+16                        Now, I just want to understand: is CRITCON
+17                 currently only used in England; is that correct?
+18             DR SUNTHARALINGAM: It is, yes.
+19             MS CAREY: Can we have a look at the levels and then we'll
+20                 look at what hospitals declared. Perhaps the easiest
+21                 way to do this is look at INQ000409921 behind your
+22                 tab 5, if you're using the tabs, or on screen.
+23                        These are the Covid-19 pandemic CRITCON levels.
+24                 There is a normal CRITCON 0 for business as usual, where
+25                 ICU is able to meet all critical care needs without
+    84
+
+ 1               impact on other services. Normal winter levels of
+ 2               noncritical care transfer and other overflow activities.
+ 3               So the ICU is operating as normal: is that what that
+ 4               means?
+ 5           DR SUNTHARALINGAM: Essentially, and this is -- there have
+ 6               been different iterations of this. This originates back
+ 7               from H1N1 and swine flu, when it was created for
+ 8               a similar purpose, and reflects conditions at the time
+ 9               where a bad winter is sort of within the normal range.
+10              But things that were unprecedented would include working
+11              in other areas, which at the time of the pandemic
+12              obviously became almost standard.
+13                      So there's a slight historical lag in the
+14              definitions and that's been addressed by revisions since
+15              then.
+16          MS CAREY: All right. Then we've got there -- CRITCON 1 is
+17              what is described as a bad winter. CRITCON 2:
+18                      "Medium surge, unprecedented, the usual funded
+19              critical care capacity is full, overflow into
+20              quasi-critical care areas (theatre, recovery, other
+21              acute care areas) and a high level of non-clinical
+22              transfers. Trusts beginning mutual aid."
+23                      What does that mean in reality? Try and give us
+24              a picture of what does a hospital or an ICU look like at
+25              CRITCON2?
+    85
+
+ 1             DR SUNTHARALINGAM: So if I can sort of connect this to a
+ 2                 later discussion we will come to but also a relevant --
+ 3                 originally discussed in 2009 for swine flu which is
+ 4                 tying it actually to decision-making and what happens
+ 5                 when a hospital gets overwhelmed. Is there a risk that
+ 6                 individual clinicians will start making decisions about
+ 7                 admissions which are limited by resource rather than
+ 8                 only what's best for the patient, and how do we avoid
+ 9                 that.
+10                         This shared escalation ladder, shared language, is
+11                 a way of avoiding that. So CRITCON in that context was
+12                 meant to represent not only numerical bed numbers from
+13                 sort of spreadsheets, if you like, but also a stress
+14                 gauge. It's how it feels to that hospital.
+15                         So the definitions were designed to paint
+16                 a picture of at t might look like. That picture already
+17                 mutated during pandemic because almost all of us were
+18                 already in non-traditional areas by the time the
+19                 pandemic started, because that was part of the planning.
+20                 But this is saying there CRITCON2 is something that
+21                 isn't just a bad winter and, in a rising tide event such
+22                 as flu that's creeping up and getting worse, it was
+23                 meant to pick up that this is starting to happen.
+24                         Clearly, in the case of the pandemic we knew what
+25                 was coming and there was much more accelerated
+    86
+
+ 1               escalation. It's a way for hospitals, for frontline
+ 2               clinicians, to escalate to their management within their
+ 3               region and nationally to say, "Okay, we're now in
+ 4               unprecedented territory". And then, as you get to
+ 5               CRICON3, you're approaching a situation where the
+ 6               hospital may become overwhelmed, and you're doing that
+ 7               using how it feels subjectively but trying to put some
+ 8               objective handles on to it to enable that to happen.
+ 9           MS CAREY: So when you move from 2 to 3, there's expansion
+10              now into noncritical care areas, wards or using
+11              paediatric facilities, the trust is operating at or near
+12              maximum physical capacity. There is maximum mutual aid
+13              between the trusts with the network and the regional
+14              NHSE co-ordination. The prime imperative in CRITCON3 is
+15              to prevent any single trust entering CRITCON4.
+16          DR SUNTHARALINGAM: Yes.
+17          MS CAREY: That sounds. as described there, as full stretch.
+18          DR SUNTHARALINGAM: Yes.
+19          MS CAREY: Is that really there's no other bed available or
+20              we might only have one bed available today? Is that
+21              what we're looking at.
+22          DR SUNTHARALINGAM: Yes, basically, and bearing in mind even
+23              the one bed is inadequate, so in the height of the
+24              pandemic, if you're admitting four or five or six
+25              patients a day, or more in the larger places, then it's,
+    87
+
+ 1                 you know, it's difficult to put numbers on but then
+ 2                 that's why this is meant to be deliberately a little bit
+ 3                 subjective in that it's how it is affecting that site
+ 4                 that day. And it's an alarm bell really.
+ 5             MS CAREY: Then CRITCON 4: The ICU is in an emergency, it's
+ 6                 overwhelmed, there is a possibility of triage by
+ 7                 resource (non-clinical refusal or withdrawal of critical
+ 8                 care due to resource limitation).
+ 9                         Help us, please, what does "triage by resource"
+10                 mean?
+11             DR SUNTHARALINGAM: It means deciding who comes to intensive
+12                 care, not only -- I mean, it remains important to do it
+13                 with the patient's perspective but also where there may
+14                 be limitations based on the fact you have become
+15                 overwhelmed and you can't admit everyone you might
+16                 otherwise have done. Again, this discussion arose in
+17                 2009 when there was planning for, at that stage, the
+18                 H1N1 pandemic. There were models circulating at the
+19                 time of deciding whose comes to ICU based on their
+20                 physiological state, and saying some people are too
+21                 sick. That was not adopted in the UK. Instead, at that
+22                 stage, and I was involved with this at the time, there
+23                 was deliberately a tying-in of the capacity discussion,
+24                 the shared escalation, the mutual aid, with any
+25                 discussion of triage in order that the latter could be
+    88
+
+ 1               deferred and averted by maximising mutual aid before
+ 2               there was any such discussion.
+ 3                         And secondly, to make sure that was done only on
+ 4               national authorisation so it --
+ 5           MS CAREY: I am going to come to how it is authorised in a
+ 6               moment, but does this envisage, I put it no higher than
+ 7               that, that potentially if an ICU were in -- or a trust
+ 8               were declaring CRITCON 4, they could withdraw critical
+ 9               care due to resource limitation?
+10          DR SUNTHARALINGAM: I think it's envisaging that that might
+11              start to be -- to feel or be necessary but also -- but
+12              to try and ensure that isn't the case. So every other
+13              hospital that can help would then -- would be coming to
+14              their aid. And, again, this is an early version before
+15              the sort of infrastructure that we now have was
+16              envisioned. Now it would be even more so, but you would
+17              want to be averting it before we get to that stage and
+18              maximising mutual aid within regions and across nations,
+19              really.
+20          PROFESSOR SUMMERS: The point of it was to make sure that
+21              nobody fails unless everybody fails.
+22          DR SUNTHARALINGAM: Yes.
+23          MS CAREY: We've heard that and we'll look at that in a
+24              moment.
+25                        It says basically that CRITCON 4 must only be
+    89
+
+ 1                 implemented on a national directive from NHSE, and
+ 2                 I think, indeed, you've seen a statement from
+ 3                 NHS England, from Dr Michael Charles Prentice who --
+ 4             DR SUNTHARALINGAM: Perhaps, can I comment on that, on the
+ 5                 origin of this.
+ 6             MS CAREY: Yes, certainly.
+ 7             DR SUNTHARALINGAM: So this was the early draft, and I keep
+ 8                 saying that. So the -- when they said -- actually
+ 9                 probably the wording could have been better at the time
+10                 because the "this must only be implemented" meant the
+11                 triage.
+12             MS CAREY: Yes.
+13             DR SUNTHARALINGAM: So any hospital can say this is
+14                 CRITCON 4, because that's the alarm bell, but if they
+15                 want to start saying, actually, we're now going to start
+16                 restricting our admissions to a different threshold,
+17                 that needs to be externally authorised. So that was the
+18                 vision in 2009. I think I'd say that is still true, but
+19                 the wording -- so it isn't that they can't say they are
+20                 CRITCON 4.
+21             MS CAREY: No, I follow what you are saying. You are saying
+22                 that if a hospital got to the stage where they thought
+23                 they might have to refuse a patient or, indeed, withdraw
+24                 critical care, they would have had to have declared it
+25                 and, indeed, that decision-making be authorised by NHSE
+    90
+
+ 1               in accordance with the national guidance. So not to do
+ 2               it on their own and then say, "We've done it."
+ 3           DR SUNTHARALINGAM: No, exactly, absolutely right.
+ 4           MS CAREY: I want to just look before -- at CRITCON levels
+ 5               in April 2020 and can I have up on screen, please,
+ 6               INQ000226890_27. Because we -- now knowing what the
+ 7               CRITCON levels are, we can see here on any given day
+ 8               throughout April, and I think we should say that CRITCON
+ 9               levels are reported twice daily, is that right, at 8 am
+10              and 8 pm, or thereabouts?
+11                        We can see the declarations made to NHS England in
+12              April 2020. Level 3 is the red, level 2 is the orange,
+13              level 1 is the yellow and if we look perhaps to the left
+14              of the screen in and around -- thank you very much --
+15              can we see a tiny few number of CRITCON 4 declarations
+16              as represented by the black on the graph?
+17          DR SUNTHARALINGAM: Yes.
+18          MS CAREY: I know it's easy to concentrate on the black but
+19              that's not to ignore that CRITCON 3 is a pretty dire
+20              state, if I understand --
+21          DR SUNTHARALINGAM: It is, and in a way it's the more
+22              significant of the two. I think my -- and I'm referring
+23              to the statements from Dr Prentice but also in terms of
+24              how the system was meant to work, those are the alarm
+25              bells going off. It doesn't mean those sites were
+    91
+
+ 1                 triaging, it meant they were either in error or as --
+ 2                 being at the extremes of CRITCON 3, they were
+ 3                 triggering, and what should then happen, that should set
+ 4                 up a red light and there should be questions asked about
+ 5                 do you need help, is there anything we can do, is this
+ 6                 an accurate definition.
+ 7                           So those black blobs don't mean at those sites
+ 8                 triage was happening. (Unclear) should happen anywhere.
+ 9                 But it meant the alarm bells were going on, sometimes
+10                 out of a pure typo, I think, but other times reflecting
+11                 a status of extreme CRITCON 3 which needed intervention.
+12             MS CAREY: In due course I think you've seen a statement
+13                 from Dr Prentice and I just want to show that on screen.
+14                           Can we have INQ000497473 because, my Lady, we
+15                 requested details of the CRITCON 4 declarations from
+16                 NHS England and the dates on which the various hospitals
+17                 declared CRITCON 4, and we're going to publish the
+18                 entire statement of Dr Prentice with your Ladyship's
+19                 approval. Some of them were declarations, as in "you've
+20                 hit the wrong button". So they need to be excluded from
+21                 this, but one can see there, there were some CRITCON 4
+22                 declarations and where a hospital declares CRITCON 4,
+23                 what is supposed to happen on an organisational level?
+24             DR SUNTHARALINGAM: So in the England context, and we can
+25                 come on to why, you know, the difference with the other
+    92
+
+ 1               nations and it is largely one of scale and levels of
+ 2               organisation, I think, and direct contact with senior
+ 3               people, but in an England context, certainly during the
+ 4               pandemic, you had regional medical officers, so there
+ 5               should be awareness at the regional medical office
+ 6               level, there should be awareness of what it means, and
+ 7               there was some variation in whether there was enough
+ 8               sort of critical care input in the various regions at
+ 9               that level, but people should know what it means, what
+10              it represents in terms of what's happening on the sites
+11              and there should be support measures put in place and,
+12              again, I can't tell you if that's what happened
+13              everywhere.
+14                     To sort of put a human face on it, if I can just
+15              refer back to Professor Fong's testimony, the sort of
+16              sites where he described where really extreme scenarios
+17              were happening, that's -- in a way that's what this
+18              looks like and what should happen with a CRITCON 4 or
+19              CRITCON 3 declaration, in a word, is really what you
+20              would want to happen when things like that are happening
+21              on your watch of the type that he describes and it's a
+22              way of trying to put a number and a flag on that in
+23              a way that brings help.
+24          MS CAREY: If I understand it correctly, where a hospital
+25              declares CRITCON 4, NHS England contact the hospital to
+    93
+
+ 1                 find out what's going on; whether they are truly at
+ 2                 CRITCON 4; what steps can be taken to help alleviate the
+ 3                 pressure on any given hospital; and, indeed,
+ 4                 Dr Prentice's statement sets out the steps that
+ 5                 NHS England took to identify if they were correctly
+ 6                 reporting CRITCON 4 and what steps were taken to help
+ 7                 the unit.
+ 8                        Even if it was incorrect declaration, either by
+ 9                 pressing the wrong button or in fact there was still
+10                 a bed available in a neighbouring hospital, do you think
+11                 this is an indication of the pressures that the hospital
+12                 themselves felt even if technically CRITCON 4 wasn't
+13                 made out?
+14             DR SUNTHARALINGAM: Yes, and without sort of stretching
+15                 analogies too far, it's a little bit like a smoke alarm
+16                 or a fire alarm: you want it to go off occasionally in
+17                 error because it shows it's working and that people are
+18                 looking. And, you know, if it's dealt with and we said,
+19                 okay, we can stand down on this occasion, that's fine --
+20                 so a few erroneous triggers. In a way what you want if
+21                 there's nothing happening, it means that perhaps the
+22                 reports aren't getting through or it's not sensitive
+23                 enough. So I think it does reflect pressure and I think
+24                 the number of CRITCON 3s you can see shows the pressure
+25                 that leads to this.
+    94
+
+ 1                      But I think, you know, we've got named hospitals
+ 2               and I think it is important to emphasise that for -- you
+ 3               know, there will be people listening whose families were
+ 4               in those -- this doesn't mean that people were triaging
+ 5               in those hospitals. It means that the alert system was
+ 6               going off saying there is extreme pressure.
+ 7           MS CAREY: Thank you. That can come down.
+ 8                      Now, this is obviously a measure of the strain
+ 9               that the English hospitals were under or felt that they
+10              were under. Are there or do you know are there similar
+11              ways of measuring the stress levels in Scotland, Wales
+12              or Northern Ireland? Do they use something similar to
+13              CRITCON?
+14          DR SUNTHARALINGAM: I think -- so the differences are ones
+15              of scale. So, to take one example, I think there's --
+16              there are 78 beds in total in Northern Ireland, and
+17              Scotland and Wales smaller numbers of hospitals,
+18              although very large hospitals themselves. So I think
+19              the levels of communication are easier because you can
+20              talk, firstly, in terms of you have got this many
+21              patients on this many beds. Individual hospitals, of
+22              which there are fewer, can communicate upwards to their
+23              networks and -- or equivalence and their managements and
+24              even, sort of, the political advising people can become
+25              alerted more quickly.
+    95
+
+ 1                        So I think the reason CRITCON isn't sort of
+ 2                 necessarily -- it wasn't adopted wholesale from 2009
+ 3                 onwards was because on a national four nation scale
+ 4                 outside England there was perhaps arguably less need for
+ 5                 it.
+ 6                        On the other hand, it means that there isn't
+ 7                 a commonality of language. So if you're comparing
+ 8                 what's at -- and particularly when it comes to mutual
+ 9                 aid across border -- in a way, you really ideally would
+10                 want (and this comes on to the recommendations) you
+11                 really want Scotland to be saying, you know, we've got
+12                 one region on CRITCON 3 or the country as a whole is
+13                 getting into CRITCON 4 in order to trigger mutual aid
+14                 discussions.
+15                        And as a lot of those didn't happen or wouldn't
+16                 happen, but there's an argument that sharing the
+17                 language makes that discussion easier, particularly when
+18                 it gets to, sort of, political level when you can look
+19                 across the board.
+20             MS CAREY: So you would advocate for a similar CRITCON-style
+21                 reporting system across the entire UK?
+22             DR SUNTHARALINGAM: I would and I think also partly to
+23                 reassure people that the lack of it or the absence of it
+24                 this time doesn't mean that that information wasn't
+25                 passing up. So as the Intensive Care Society, of which
+    96
+
+ 1               I was president at the time, is a four nations body and
+ 2               we were in contact with colleagues in all of those --
+ 3               and this is anecdotal -- but from conversations, I am
+ 4               sort of -- they felt able to escalate their bed
+ 5               situation, their strain, in a way that was sort of
+ 6               parallel to the CRITCON system.
+ 7           MS CAREY: I might give our stenographer a break and turn to
+ 8               you, Professor Summers. And I don't mean that rudely,
+ 9               Dr Suntharalingam.
+10                     But let's change the topic slightly and change the
+11              questions. I would like to ask you just a little bit,
+12              perhaps before we take our lunch break in a moment or
+13              two's time, about some shortages or reported shortages
+14              of oxygen, dialysis machines, ventilators, medicines,
+15              and the like.
+16                     Professor, can I turn to you, please, at
+17              paragraph 167 in your report. I think it's fairly well
+18              publicised that there was a shortage of mechanical
+19              ventilators, both invasive and non-invasive, in the
+20              early stages of the pandemic; is that correct?
+21          PROFESSOR SUMMERS: So I think the situation was twofold.
+22              We went into the pandemic without anyone being 100%
+23              certain centrally how many devices there were within the
+24              NHS. It was not a part of pre-pandemic planning to know
+25              that the entire NHS had this number of ventilators that
+    97
+
+ 1                 were capable of this type of support. So very rapidly
+ 2                 that data had to be obtained, and a decision was made
+ 3                 that what the modelling suggested might be the number of
+ 4                 patients who were going to require those devices was not
+ 5                 matched by the number of available devices.
+ 6             MS CAREY: Yes, I think NHS England and Improvement
+ 7                 certainly put out requests to the trusts in England in
+ 8                 late February that revealed there was only 7,357 devices
+ 9                 available, and that was including paediatric devices
+10                 and, for example, ventilators that might be used in an
+11                 ambulance and the like.
+12             PROFESSOR SUMMERS: Yes.
+13             MS CAREY: And the modelling, as at that time, suggested we
+14                 might need 59,000 as against, what was it, 7,500 that
+15                 were actually -- just under 7,500 --
+16             PROFESSOR SUMMERS: By the middle of March the realisation
+17                 had hit that there was a huge disparity between what was
+18                 potentially going to be needed and what was available.
+19             MS CAREY: Now, your report sets out the various workstreams
+20                 that were ongoing. I'm not going to ask you about those
+21                 or indeed the ventilator challenge, but did it by spring
+22                 2020 mean that there were a number of ventilators coming
+23                 into ICUs that weren't the usual pieces of equipment
+24                 that staff were used to working on?
+25             PROFESSOR SUMMERS: Absolutely. So in spring 2020, we were
+    98
+
+ 1               using devices such as the ventilators that are
+ 2               ordinarily attached to anaesthetic machines and other
+ 3               devices that were not familiar to the staff for their
+ 4               everyday work. NHS England, it should be recognised,
+ 5               provided training packages for unfamiliar devices and
+ 6               did what they could to support, but the fact was we did
+ 7               not have enough ventilators of the type we routinely use
+ 8               in intensive care units to support our patients
+ 9               available for the number of patients that required them.
+10          MS CAREY: Are you able to help me, Professor, how long did
+11              it take to get someone up to speed with a new type of
+12              ventilator? Is it a day or actually a few minutes?
+13          PROFESSOR SUMMERS: It depends on the device and the
+14              experience of the person doing it. Actually, sometimes
+15              to use an anaesthetic machine to provide mechanical
+16              ventilators, which is very different to routine
+17              practice, actually required additional staff. So
+18              particularly operating department practitioners would
+19              come from the operating theatres and help with that and
+20              a whole host of other staff were needed to train, in
+21              addition to providing the care for the already increased
+22              number of people. So it was a significant burden.
+23          MS CAREY: In addition, then, to not enough ventilators
+24              and/or ventilators that were unfamiliar, can I ask you
+25              about oxygen?
+    99
+
+ 1                        I think you make the point there that supply of
+ 2                 oxygen for critically ill people is clearly one of the
+ 3                 most essential treatments that they require.
+ 4                        We've heard a little bit about oxygen shortages
+ 5                 and the like but how did it play out on the ground,
+ 6                 Professor? What was done to try and ensure that all the
+ 7                 patients had the oxygen that they required?
+ 8             PROFESSOR SUMMERS: So there were multiple steps that were
+ 9                 taken both organisationally -- so alerts were put out to
+10                 all NHS trusts saying, "Please make sure you understand
+11                 the oxygen capacity of your individual hospital. Please
+12                 make sure that you have consulted with your estates team
+13                 and the oxygen engineers".
+14             MS CAREY: Can I just pause you there. Is that something
+15                 that isn't done routinely in non-pandemic times?
+16             PROFESSOR SUMMERS: I think it probably is, but I suspect
+17                 it's been many years since we put so much strain on the
+18                 oxygen capacity on some somewhat elderly estate across
+19                 the NHS.
+20             MS CAREY: So they were -- the estates effectively were
+21                 asked to make sure they had -- they understood what
+22                 their capacity was. In the event that they did not have
+23                 capacity, are you able to help as to what steps were
+24                 taken to try and ensure that there was still capacity
+25                 for oxygen?
+    100
+
+ 1           PROFESSOR SUMMERS: A huge programme of attempting to make
+ 2              sure that everybody was very careful what we called
+ 3               "oxygen stewardship" and that oxygen was used to the
+ 4               amount required. Some devices require a fixed flow
+ 5               rate, for example, 15 litres per minute. Make sure that
+ 6               you are setting at 15 litres per minute, not at 20 to
+ 7               make sure. And then making sure that you are putting
+ 8               a number of devices on to a particular bit of oxygen
+ 9               infrastructure that will not exceed the delivery
+10              capacity of that, and also alterations in the oxygen
+11              saturation targets which I'm sure we're going to
+12              discuss.
+13          MS CAREY: I would like to ask you that, please. You say in
+14              your paragraph 177:
+15                     "There were modified (reduced) peripheral oxygen
+16              saturation targets proposed."
+17                     So, what, a reduction in the amount of oxygen a
+18              patient received. How did that come about? Did that
+19              come into force and how did it affect the patient.
+20          PROFESSOR SUMMERS: So professional societies issued
+21              guidance suggesting that the safe oxygen saturation
+22              measured by pulse oximetry or arterial blood gas
+23              analysis was 92% for the majority of people. There are
+24              other people who have respiratory diseases and other
+25              chronic health issues for whom 92 is higher than the
+    101
+
+ 1                 usually recommended oxygen capacity. But for a fit and
+ 2                 healthy person, normally we say greater than 94; it was
+ 3                 dropped to greater than 92 because that was thought to
+ 4                 be safe. I could find no evidence to suggest that that
+ 5                 had done any harm at any point during the pandemic.
+ 6             MS CAREY: Can I just ask you this: is there any harm done
+ 7                 by giving someone higher oxygen saturation than they
+ 8                 need?
+ 9             PROFESSOR SUMMERS: Yes, there most certainly is. Oxygen
+10                 toxicity is something that worsens lung inflammation.
+11             MS CAREY: I think, though, you go on to say that whilst the
+12                 oxygen lower saturation targets may not themselves have
+13                 been harmful, there was concern about the equipment
+14                 being used. Can you explain to us, please, what you
+15                 were concerned about there.
+16             PROFESSOR SUMMERS: So oxygen status of a patient is often
+17                 assessed using peripheral pulse oximetry. So it is
+18                 a probe that gets attached to someone's finger usually
+19                 and measures through the skin how red or not their
+20                 haemoglobin is using a series of lights.
+21                         There is emerging evidence that suggests that some
+22                 of the devices that are in clinical use actually are
+23                 impacted by the colour of the skin tone of the person
+24                 who is having the device used upon them, such that
+25                 people with darker skin tones may have their oxygen
+    102
+
+ 1               saturations over-estimated by the devices, meaning that
+ 2               92% oxygen saturations for them may actually be
+ 3               considerably lower. It varies from device to device and
+ 4               there is ongoing research to assess the extent of this
+ 5               and the impact that's happening in the UK at the moment
+ 6               funded by NIHR, but is undoubtedly the case that some of
+ 7               the devices that were in use were not accurately
+ 8               measuring in people with darker skin tones.
+ 9           MS CAREY: We're going to hear more about that, I think,
+10              next week from a witness and I have no doubt, in due
+11              course, from NHS England and other like bodies.
+12                     Can I ask you just briefly about renal support
+13              equipment. Clearly, you've told us that Covid affecting
+14              multi-organs affected the kidneys. What was the
+15              position? Do we have enough dialysis machines and the
+16              like to support the patients that required renal
+17              support?
+18          PROFESSOR SUMMERS: We did not. So there was an issue in
+19              that we have admitted a large number of people to
+20              intensive care units who had multi-organ dysfunction, so
+21              there was an increased burden of requirement for renal
+22              replacement therapies, but at the same time there were
+23              difficulties with the supply lines.
+24                     So whilst we might have had machines, what we
+25              didn't have were the fluids and the consumables that are
+    103
+
+ 1                 needed. A mutual aid system, in the same way as
+ 2                 transferring patients, was put in place for that but
+ 3                 that was undoubtedly impacted in places not having or
+ 4                 coming very close to running out of the ability to
+ 5                 deliver the usual modalities of renal replacement
+ 6                 therapy that are used in intensive care and having to
+ 7                 put in in an emergency other types of systems normally
+ 8                 used.
+ 9             MS CAREY: Two things there. I follow what you are saying
+10                 there that actually a hospital might be borrowing
+11                 a dialysis machine from a neighbouring --
+12             PROFESSOR SUMMERS: Borrowing the fluid bags and the
+13                 circuits and consumables.
+14             MS CAREY: Again, when other systems were brought in, was
+15                 there again an unfamiliarity with the way that the new
+16                 equipment was working which brought with it the same
+17                 problems as the new ventilators.
+18             PROFESSOR SUMMERS: Exactly so.
+19             MS CAREY: Is any work or has there been any research done
+20                 as to whether the new pieces of equipment and the time
+21                 it took for people to become familiar to use them
+22                 affected the care that the patients were receiving or is
+23                 that a too granular or too difficult task?
+24             PROFESSOR SUMMERS: Not that I'm aware of. Just to
+25                 highlight that at the point we were doing all of this,
+    104
+
+ 1               we were all trying to contribute to understanding Covid,
+ 2               finding treatments, and working out the best supportive
+ 3               care to give. There was a limit to the research
+ 4               capacity alongside the extended clinical care, I think,
+ 5               at the time. So that didn't get addressed.
+ 6           MS CAREY: One other topic, please. You refer in your
+ 7               report to medicine shortages. What kind of medicines
+ 8               are we talking about here?
+ 9           PROFESSOR SUMMERS: We have had shortages during the
+10              pandemic period of the Inquiry's focus and subsequently
+11              of a variety of medicines in the pandemic.
+12              Particularly, we were running short of the medicines
+13              required to keep people sedated and on mechanical
+14              ventilators; we ran short of different types of
+15              painkillers; we ran short of, as I said, the fluids for
+16              some of there renal replacement therapy. The shortages
+17              were ever-changing and, as I say, have not entirely
+18              disappeared since the pandemic has eased.
+19          MS CAREY: Can I ask you that -- it sounds like we might be
+20              missing some basic -- and if that's wrong, I'd like you
+21              to set me straight because if we're talking about a very
+22              highly specialised piece of medication, one might
+23              understand why there aren't vast numbers of supplies.
+24              But if we're talking about something that helps sedate
+25              people in ICU or painkillers, it sounds that that ought
+    105
+
+ 1                 to be more readily available.
+ 2                          Why are we running out of what, my term, a more
+ 3                 basic types of medication?
+ 4             PROFESSOR SUMMERS: So I think part of the issue is to think
+ 5                 about where are those medicines produced. Lots of those
+ 6                 medicines are not manufactured in the United Kingdom, so
+ 7                 we are relying on supply chains from outside the
+ 8                 United Kingdom which were impacted for a whole variety
+ 9                 of reasons over that period. So it was unlikely that
+10                 the supply chains were going to be as robust and we
+11                 don't routinely keep big stockpiles. We keep stockpiles
+12                 of those things for everyday care, but suddenly
+13                 everybody in the world wanted them all at the same time
+14                 in increased numbers.
+15             MS CAREY: Are these the types of medications that have a
+16                 shelf life?
+17             PROFESSOR SUMMERS: They do.
+18             MS CAREY: So you can't keep thousand or millions of --
+19             PROFESSOR SUMMERS: You couldn't keep them for 20 years just
+20                 in case, no.
+21             MS CAREY: My Lady, would that be a convenient moment to
+22                 take lunch?
+23             LADY HALLETT: Certainly. I shall return at 1.35.
+24             (12.33 pm)
+25                           (The hearing adjourned until 10.00 am
+    106
+

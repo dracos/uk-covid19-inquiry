@@ -1,0 +1,2646 @@
+ 1                                                      Wednesday, 19 July 2023
+ 2           (10.00 am)
+ 3           LADY HALLETT: Mr Stanton.
+ 4           Submissions on behalf of the British Medical Association by
+ 5                                        MR STANTON
+ 6           MR STANTON: My Lady, the closing statement to Module 1 on
+ 7               behalf of the British Medical Association, the BMA, is
+ 8               as follows: after six weeks of hearings it is clear that
+ 9               the UK entered the pandemic with critically
+10              under-resourced and underfunded health and public health
+11              services, and that there were repeated failures in
+12              pandemic planning and preparedness, including in
+13              relation to the PPE stockpile, and the implementation of
+14              recommendations and learning from previous pandemic
+15              planning exercises.
+16                  These failures gravely hampered the pandemic
+17              response and placed doctors, other healthcare workers
+18              and patients at increased risk when the pandemic hit.
+19                  This statement highlights four key areas of
+20              deficiencies in pandemic planning and resilience.
+21                  First, the failure to ensure that doctors and
+22              healthcare workers were adequately protected when
+23              responding to a pandemic.
+24                  Second, the lack of capacity and resourcing
+25              available to provide an effective response.
+    1
+
+ 1                 Third, the specific failure to ensure there was
+ 2             an adequate test and trace response.
+ 3                 And, fourth, the government structures and processes
+ 4             in place for civil contingencies.
+ 5                 Dealing first with the issue of the provision of PPE
+ 6             to doctors and other healthcare workers. The Inquiry
+ 7             has heard repeatedly in this module that the planning
+ 8             for PPE including stockpile was inadequate for
+ 9             a pandemic event. This, coupled with the distressing
+10             accounts of healthcare workers about the circumstances
+11             in which they were required to work without adequate
+12             protection while exposed to a deadly disease, is damning
+13             evidence.
+14                 Right from the outset of the pandemic, there was
+15             a huge concern within the BMA's membership about this
+16             issue, with doctors describing how they were instructed
+17             to remove their masks, accused of scaremongering, and
+18             others expressing concern at the absence of
+19             FFP3 respirators and the inadequate consideration given
+20             to the risks of aerosol transmission.
+21                 One GP from England told the BMA that:
+22                 "We were seeing patients who had Covid, but because
+23             of the advice that was behind the curve they were deemed
+24             to be low risk. We needed proper protection with
+25             FFP3 masks, but these were not considered necessary and
+    2
+
+ 1               were not provided. It was in April 2020, whilst wearing
+ 2               inadequate PPE, that I caught coronavirus from
+ 3               a patient."
+ 4                   Tragically, there are doctors and healthcare workers
+ 5               who died because of Covid-19 infection acquired in their
+ 6               workplace, and significant numbers are suffering from
+ 7               long Covid. The BMA has very recently, on 4 July 2023,
+ 8               published a report about the impact of long Covid titled
+ 9               Over-exposed and under-protected: the long-term impact
+10              of COVID-19 on doctors, which is informed by a survey of
+11              over 600 doctors suffering from long Covid.
+12                  The report establishes that lack of preparedness for
+13              a pandemic and poor risk management in health services
+14              contributed to many doctors contracting Covid-19 at
+15              work.
+16                  A key finding of this report is the lack of access
+17              by staff to FFP3 respirators, which are the type of
+18              filtering face piece respirators that provide maximum
+19              protection from infection transmitted by aerosol.
+20                  77% of the respondents to the BMA survey who
+21              acquired a Covid-19 infection in the first wave of the
+22              pandemic believe that they were infected while at work,
+23              and only 16% of respondents had access to these more
+24              protective FFP3 respirators at the time they were
+25              infected.
+    3
+
+ 1                 There is evidence before the Inquiry that this lack
+ 2             of availability of FFP3 respirators was because cost
+ 3             considerations were prioritised ahead of safety, leaving
+ 4             doctors and healthcare workers inadequately protected
+ 5             while delivering healthcare.
+ 6                 It's not just a question of volumes of PPE. There
+ 7             was also a failure to ensure that there was PPE
+ 8             available to suit a diverse range of facial features,
+ 9             including for smaller, often female, face shapes, for
+10             staff from some ethnic minority backgrounds and for
+11             staff who wear a beard or hair covering for religious
+12             reasons.
+13                 Respondents to BMA surveys during the pandemic were
+14             more likely to report failed fit testing of respirators
+15             if they were from ethnic minority backgrounds, as these
+16             were usually manufactured for white male face types.
+17                 Clara Swinson, director general at the Department of
+18             Health and Social Care, accepted that these issues were
+19             not adequately considered as part of pandemic planning
+20             prior to Covid-19.
+21                 The BMA's position is that the adequacy of the
+22             PPE stockpile is firmly within the scope of Module 1 as
+23             a matter of planning and preparedness. However, it also
+24             recognises that PPE is a cross-cutting issue, with
+25             relevance to Modules 2, 3 and 5, and that in these
+    4
+
+ 1           circumstances you will not yet be able to make final
+ 2           findings and recommendations about where responsibility
+ 3           lies and why the stockpile remained deficient for so
+ 4           long in the knowledge of the risks posed to healthcare
+ 5           workers.
+ 6               Nevertheless, it will be important in the BMA's
+ 7           submission that this appalling failure to protect
+ 8           doctors and other healthcare workers is reflected within
+ 9           the Inquiry's Module 1 report.
+10              Similarly, healthcare workers including those more
+11          vulnerable to Covid-19, for example due to factors such
+12          as age, ethnicity, sex or underlying health conditions,
+13          did not receive timely and adequate workplace risk
+14          assessments which could, if undertaken and acted upon,
+15          have prevented the death and long-term illness of some
+16          workers.
+17              The UK Government failed to ensure that employers
+18          met their responsibilities under health and safety law,
+19          and did not provide sufficient guidance or support for
+20          employers to undertake risk assessments.
+21              The BMA raised concerns on multiple occasions that
+22          these legally required risk assessments were not being
+23          undertaken within healthcare settings. However, it was
+24          not until 24 June 2020, three months into the pandemic,
+25          that NHS England issued a letter reminding employers to
+    5
+
+ 1             undertake risk assessments for their staff.
+ 2                  In these circumstances, the BMA felt compelled to
+ 3             develop its own risk assessment tool for healthcare
+ 4             environments and the fact that it was required to take
+ 5             this step is clear evidence of the failure to plan and
+ 6             prepare to keep healthcare workers safe in their place
+ 7             of work.
+ 8                  In relation to capacity and resources, the Inquiry
+ 9             has been told that, in addition to adequate planning, it
+10             is necessary to have the resilience and the resources to
+11             implement the plans and to pivot and adapt in response
+12             to changing circumstances.
+13                  On Monday, in his evidence, the current chair of the
+14             BMA's UK council, Professor Banfield, told the Inquiry
+15             that the BMA had for a number of years been highlighting
+16             the issue of capacity within the health service to all
+17             four governments and raising concerns that, prior to the
+18             pandemic, there wasn't the capacity needed to run the
+19             health services as it was.
+20                  He is not alone in this regard, and over the course
+21             of the hearings the Inquiry has heard from numerous
+22             witnesses across a range of fields of expertise that
+23             public health and health services in the UK are
+24             suffering from a lack of resources, equipment and
+25             capacity, which impacted their ability to respond to the
+    6
+
+ 1           Covid-19 pandemic.
+ 2               These have included Professor Heymann, who noted
+ 3           that preparedness is not just about a strong public
+ 4           health system and discussed the need for NHS surge
+ 5           capacity. One of the key recommendations from
+ 6           Professor Whitworth was to have sufficient reserve
+ 7           capacity within the health system.
+ 8               Dr Marmot and Professor Bambra talked about how the
+ 9           funding of healthcare has been inadequate since 2010,
+10          and waiting times have doubled.
+11              Dame Sally Davies commented that there was no
+12          resilience in the NHS and that, compared to similar
+13          countries, the UK was bottom of the table on numbers of
+14          doctors, nurses, beds, intensive care units, respirators
+15          and ventilators.
+16              Jeremy Hunt, the former Secretary of State of
+17          Health, told the Inquiry that he had become convinced at
+18          Health Secretary that the NHS needed more capacity.
+19              Rosemary Gallagher from the Royal College of Nursing
+20          spoke about how workforce resilience is essential in
+21          order to deliver healthcare services, and that the UK
+22          went into the pandemic 50,000 nurses short, which put
+23          staff at risk when seeking to surge capacity.
+24              Nigel Edwards, of the Nuffield Trust, told
+25          the Inquiry that some hospitals had to make very major
+    7
+
+ 1             engineering and structural changes to accommodate high
+ 2             flow oxygen at the outset of the pandemic, a point
+ 3             echoed by Professor Banfield in his evidence on Monday.
+ 4                  This, he said, indicated a broader issue about the
+ 5             way hospitals have been designed and built in the UK,
+ 6             which is to strip out any kind of redundancy, to
+ 7             compress spaces that are available, to save money where
+ 8             that is possible by reducing to the lowest tolerance
+ 9             that sits within the guidance.
+10                  Mr Edwards also said that many health systems, but
+11             the UK in particular, have traditionally run with very
+12             low margins of spare capacity, which means that having
+13             a plan for how to deal with a sudden surge or emergency
+14             is very important, but it also limits the scope of that
+15             plan because the level of spare capacity in the system
+16             is relatively low.
+17                  Dame Jenny Harries referred to a 40% reduction in
+18             the funding of Public Health England in real terms over
+19             the course of its life, and Sir Jeremy Farrar, the
+20             Chief Scientist at the World Health Organisation, sets
+21             out in his witness statement that public health,
+22             clinical care, care homes, health services and the NHS
+23             were chronically underfunded for what they were expected
+24             to deliver during the period 2010 to 2020. Efficiency
+25             was the singular focus, and spare capacity, resilience
+    8
+
+ 1           and support for the staff within the NHS and all allied
+ 2           services was neglected. He said this was a system that
+ 3           was not really coping with normal pressures, and there
+ 4           was no spare capacity when a crisis hit.
+ 5               The Inquiry has also heard about specific concerns
+ 6           that the public health system was hindered in their
+ 7           pandemic response because of the continuing impact of
+ 8           the structural reforms introduced in England by the 2012
+ 9           Health and Social Care Act, which fragmented the system
+10          and fractured links between public health and NHS
+11          colleagues, and of the subsequent years of budget
+12          reductions and funding cuts.
+13              As early as 2011, prior to the implementation of
+14          these reforms, in response to the consultation on the
+15          government's influenza pandemic preparedness strategy,
+16          the BMA had raised concerns that the proposed
+17          reorganisation of the NHS and the public health system
+18          which would result from the Act jeopardised
+19          a co-ordinated and integrated approach, and asked the
+20          government to consider the knock-on effects of these
+21          reforms on the strategy.
+22              In the same response, the BMA also called for the
+23          involvement of public health doctors with specialisms in
+24          health protection, to be enshrined in the pandemic
+25          response system.
+    9
+
+ 1                  Duncan Selbie, the former chief executive of Public
+ 2             Health England, agreed with Dame Jenny Harries that
+ 3             there was a difficult transition and that the links
+ 4             between NHS staff and public health specialists became
+ 5             fractured and affected community infection prevention
+ 6             and control. He told the Inquiry that one of his
+ 7             greatest regrets was that strengthening the relationship
+ 8             between public health and local government came at the
+ 9             expense of having removed that capability and experience
+10             from the NHS.
+11                  Moving from resourcing to planning, the Inquiry also
+12             heard evidence about the dual failure to adequately plan
+13             for a coronavirus-type pandemic and separately to plan
+14             to prevent the spread of the disease rather than simply
+15             manage its impact.
+16                  A major consequence of these failures was that there
+17             was no contingency to carry out mass testing and
+18             tracing, leading to the abandonment of contact tracing
+19             on 12 March 2020, which left the UK without any
+20             effective measures for controlling the pandemic at this
+21             critical time.
+22                  However, the UK did have existing diagnostic
+23             capability within 44 NHS laboratories that simply was
+24             not fully utilised, and Dr Kirchhelle's evidence to
+25             the Inquiry, when asked about criticisms of Public
+    10
+
+ 1           Health England that they had been reluctant to engage
+ 2           with private laboratory testing facilities, is
+ 3           instructive in this regard.
+ 4               He said:
+ 5               "... I think that in the UK case it's a slightly odd
+ 6           criticism because the UK has a significant sequencing
+ 7           public capability within the NHS and it also has
+ 8           significant sequencing capabilities within the
+ 9           university sector, of which Public Health England were
+10          naturally aware because they were working with all of
+11          these laboratories prior to the pandemic ...
+12              "It's very interesting to see the NHS capabilities
+13          perhaps not being used as strongly as some observers
+14          would have wanted them to be used in 2020."
+15              Similarly, there was significant expertise and
+16          capacity to carry out contact tracing within local
+17          authority public health functions, which again wasn't
+18          properly utilised.
+19              Professor McManus, President of the Association of
+20          Directors of Public Health, told the Inquiry why it was
+21          so important to engage with directors of public health,
+22          who were trained and expert in contact tracing and knew
+23          their local areas and local communities. He said they
+24          have capabilities that should have been shaped rapidly,
+25          like on test and trace, which improved markedly when
+    11
+
+ 1             local directors of public health and local authorities
+ 2             became involved. However, at the start of the pandemic,
+ 3             the United Kingdom Government did not even have
+ 4             an up-to-date contact list for all the directors of
+ 5             public health.
+ 6                  Finally, turning briefly to government systems and
+ 7             processes for ensuring resilience and preparedness, the
+ 8             BMA's position is that there is an urgent need for clear
+ 9             accountabilities and responsibilities to be established.
+10             The process by which learning from expert reports and
+11             exercises is implemented is woefully inadequate. Over
+12             the last six weeks, the Inquiry has questioned many
+13             witnesses about the failure to implement
+14             recommendations, and there are too many instances to
+15             mention in the time available, save to say that concerns
+16             and recommendations about the need to ensure adequate
+17             PPE, risk assessment processes, test and trace
+18             capability, and adequately resourced and staffed public
+19             health and health services have been raised repeatedly
+20             since at least 2003, following the SARS outbreak, and
+21             yet by the time the pandemic struck, almost two decades
+22             later, they had still not been properly implemented.
+23                  These failures are partly explained by the vacuum of
+24             responsibility for the implementation of
+25             recommendations. Public Health England told the Inquiry
+    12
+
+ 1           that they just ran the exercises but were not
+ 2           responsible for implementing their recommendations.
+ 3           Similarly, there was no clear process by which those who
+ 4           commissioned and instigated exercises knew whether and
+ 5           how recommendations had been put in place, an example of
+ 6           this being Exercise Alice, instigated by the then Chief
+ 7           Medical Officer in 2016 in response to MERS.
+ 8               The quality of decision-making, such as the
+ 9           composition of the PPE stockpile, which was dictated by
+10          considerations of cost rather than safety, is also
+11          a serious cause for concern, particularly when
+12          considering the views expressed by Oliver Letwin, who
+13          told the Inquiry that the revolving door of ministerial
+14          and official appointments tends to undermine experience,
+15          efficacy, and the ability of ministers and officers to
+16          be able to do the job with which they are tasked.
+17              In this regard, the Inquiry has heard about
+18          a concerning lack of knowledge and awareness at senior
+19          levels within lead government departments, including in
+20          relation to key documents such as the 2011 UK Influenza
+21          Pandemic Preparedness Strategy.
+22              The Inquiry has also heard about failures to engage
+23          and to share information with key stakeholders,
+24          for example the Exercise Cygnus report, which was only
+25          published in 2020 following a judicial review challenge
+    13
+
+ 1                brought by a doctor.
+ 2                    Add all of this together, the failure to implement
+ 3                learning, the lack of clarity around roles and
+ 4                responsibilities, concerns about levels of knowledge and
+ 5                experience, cost-cutting, and a tendency towards
+ 6                unnecessary secrecy, and it was inevitable that there
+ 7                would be failures to plan and prepare properly.
+ 8                    Sir Jeremy Farrar told the Inquiry that we are
+ 9                living in a pandemic age, and before the next pandemic
+10                inevitably hits there is an urgent need to establish
+11                clear and coherent decision-making processes,
+12                responsibilities and accountability. In addition, it is
+13                imperative that key public services, in particular
+14                health and public health services, are safe working
+15                environments and are adequately resourced.
+16                    Thank you, my Lady.
+17             LADY HALLETT: Thank you very much, extremely helpful,
+18                Mr Stanton, thank you.
+19                    I think next is Mr Jacobs.
+20               Submissions on behalf of the Trades Union Congress by
+21                                         MR JACOBS
+22             MR JACOBS: Good morning, my Lady. I appear on behalf of
+23                the Trades Union Congress, the TUC, with
+24                Ms Ruby Peacock, and instructed by Thompsons Solicitors.
+25                    The TUC brings together 5.5 million working people
+    14
+
+ 1           who make up its 48 member unions and who span a wide
+ 2           range of sectors profoundly affected by the Covid-19
+ 3           pandemic.
+ 4               In this module, the TUC is working in partnership
+ 5           with the Wales TUC, the Scottish TUC, and the Northern
+ 6           Ireland Committee of the Irish Congress of Trade Unions.
+ 7           Together we seek to represent the interests in this
+ 8           Inquiry of a great many unions all listed in our written
+ 9           opening right across the four nations of the UK.
+10              Of particular concern to our affiliated unions is to
+11          understand the causes and learn the lessons of those of
+12          working age who died of Covid-19. They numbered
+13          over 15,000. Many suffered in a myriad of ways,
+14          including those who continue to live with long Covid.
+15              My Lady, in this module concerning pandemic planning
+16          and preparedness, what we have learnt in respect of
+17          a plan for a pandemic such as Covid-19 has been
+18          surprisingly straightforward. Quite simply, there was
+19          no plan.
+20              Planning was, as Dame Sally Davies put it,
+21          monomaniacally focused on pandemic flu. Even then it
+22          was focused on managing the dead, rather than protecting
+23          the living. No doubt there are many important lessons
+24          to be learned. That might include reframing our
+25          thinking around emergency planning so that we plan not
+    15
+
+ 1                only for what is foreseen as the likeliest emergency,
+ 2                but also for the emergency with the most severe
+ 3                potential consequence. It might include lessons such
+ 4                as -- as to the structures for emergency planning, such
+ 5                as there being a dedicated minister and perhaps
+ 6                an agency specifically focused on such matters.
+ 7                    The Bereaved Family groups yesterday afternoon made
+ 8                a number of suggestions as to necessary reforms for the
+ 9                structures for pandemic planning, and they seem to us to
+10                carry some significant force.
+11                    We say that the Inquiry should robustly reject the
+12                narrative suggested by some that the events in the
+13                pandemic were unforeseeable and all that could really be
+14                done was to react as it unravelled.
+15                    Perhaps the one area in which we were world leading
+16                during the pandemic was in the development and
+17                distribution of vaccines. My Lady, that was not built
+18                on plucky British resolve in response to adversity as it
+19                arose, it was built on research and development,
+20                investment and the application of clinical expertise
+21                through the establishment of the Vaccine Network.
+22                    As Dame Sally Davies explained, it was the only
+23                thing we had resilience in. It was an instance of
+24                foresight and action and a welcome escape from
+25                short-term-ism.
+    16
+
+ 1                So we have learnt, my Lady, not only that there was
+ 2           no plan, but also that preparedness really matters.
+ 3                Our particular focus and concern through Module 1
+ 4           has been on the resilience of public services and on the
+ 5           disproportionate impact of a pandemic upon certain
+ 6           vulnerable and protected groups. The unavoidable
+ 7           context for considering the resilience of services going
+ 8           into the pandemic is austerity. In our opening
+ 9           submission, we expressed this to be a central theme of
+10          the evidence which rested on a simple but inescapable
+11          truth: that no matter what planning is put in place,
+12          public services stretched to breaking point by over
+13          a decade of budget cuts will be severely impaired in
+14          their ability to cope with the shock of a national
+15          emergency such as a pandemic.
+16               What we described as a striking feature of the
+17          evidence, that so many will consistently describe
+18          austerity's disastrous consequences, has proven to be so
+19          in the oral hearings.
+20               The only real exception has been the evidence of
+21          Mr Cameron and Mr Osborne. To us, their evidence had
+22          the feeling of having come from a distant island in
+23          which NHS staff numbers were high, NHS satisfaction was
+24          high, and the output of public services had the good
+25          fortune of bearing no relation to budgetary input.
+    17
+
+ 1                  It was not a picture we recognised, nor does it
+ 2             appear one recognised by any other witness in this
+ 3             module.
+ 4                  The Chancellor, for example, was at least prepared
+ 5             to recognise that, as Secretary of State for Health and
+ 6             Social Care, he had been concerned in the years prior to
+ 7             the pandemic as to the resilience and capacity in our
+ 8             health and social care services. Indeed, he described
+ 9             the fact that he was unable to secure a long-term
+10             funding settlement for the social care sector as one of
+11             the regrets of his time as Secretary of State for Health
+12             and Social Care.
+13                  This Inquiry has made clear that it cannot and
+14             should not express a ruling on the merit or otherwise of
+15             austerity as a fiscal policy, but it is its duty to be
+16             full and fearless about its findings about the
+17             consequences of drastic cuts to public spending.
+18                  We have heard evidence about resilience and capacity
+19             in our healthcare services. For a health service that
+20             has perennially faced the existential question of
+21             whether it can cope with the next winter flu, we didn't
+22             really need to be told that it didn't have the
+23             resilience and capacity for a global pandemic.
+24                  Resilience in the face of a pandemic includes not
+25             only the ability to treat the urgent cases in its peak,
+    18
+
+ 1           but also the ability to continue to provide healthcare
+ 2           to the population generally and to be able to return
+ 3           within a reasonable timeframe to something resembling
+ 4           an effective health service.
+ 5                Given the gaps in planning, it is a real credit to
+ 6           the commitment, skill and determination of those in our
+ 7           health service that we did not run out of intensive care
+ 8           beds.
+ 9                The real price has been longer term: in respect of
+10          the impacts more generally on the ability of the NHS to
+11          meet needs for healthcare. Quite shockingly, as of the
+12          start of this year, the number of people on an NHS
+13          waiting list for hospital treatment has risen
+14          to 7.2 million. As Kate Bell of the TUC described in
+15          her oral evidence, that number can be compared with
+16          the 4.2 million patients on waiting lists at the
+17          beginning of the pandemic.
+18               That is a huge long-term cost to patients of the
+19          lack of resilience and capacity in the NHS. It is also,
+20          of course, an unfair demand on the workforce, who, burnt
+21          out from the demands of battling a pandemic in
+22          an under-resourced system, now face the pressures of
+23          managing and responding to enormous and growing waiting
+24          lists.
+25               As Ms Bell highlighted in her oral evidence, in
+    19
+
+ 1             a survey by the TUC of 1,000 NHS staff, 69% said that
+ 2             reductions in staffing and resources were putting
+ 3             patient care at risk. The issue is not, therefore, only
+ 4             one of waiting times, but of patient safety.
+ 5                  We have also heard evidence about resilience in
+ 6             social care. In our opening, we suggested that in
+ 7             social care the problem has been not so much one of
+ 8             repeated restructuring and reorganisation, but one of
+ 9             neglect. There has been no attempt to structure at all.
+10                  We observed that adult social care in England is now
+11             provided by around 18,000 organisations. We observed
+12             that the overall workforce is larger than in the NHS,
+13             yet there is no equivalent to NHS England seeking to
+14             provide some strategy and direction to the sector. We
+15             pointed out that the TUC has repeatedly called for
+16             a national social care forum to bring together
+17             government, unions, employers, commissioners and
+18             providers to co-ordinate the delivery and development of
+19             services, including the negotiation of a workforce
+20             strategy.
+21                  We also suggested that co-ordinating a national
+22             effort across a hotch potch of private organisations is
+23             impossible.
+24                  My Lady, all of those observations have been
+25             underlined by the evidence you have heard. On being
+    20
+
+ 1           asked about funding and the difficult picture facing the
+ 2           social care sector, Mr Osborne pointed out that the cuts
+ 3           in local authority funding were not secret but were
+ 4           publicly announced as part of a programme of trying to
+ 5           reduce government expenditure. No doubt they were, but
+ 6           an openness as to cuts in funding does not make the
+ 7           challenges faced by the social care sector any less
+ 8           difficult.
+ 9                There are huge challenges facing the workforce.
+10          The Inquiry has received evidence that in the year going
+11          into the pandemic there were care worker turnover rates
+12          of around 40%, in the region of 115,000 staff vacancies,
+13          and around one quarter of its staff were working on
+14          zero hour contracts.
+15               Bruce Mann described the UK Influenza Pandemic
+16          Preparedness Strategy from 2011 as very slim on the
+17          social care aspect. From the Department of Health and
+18          Social Care's own operational response centre lessons
+19          learned reviews, it is clear that there was confusion
+20          within the department regarding whether it even had
+21          responsibility for social care pandemic planning. It
+22          states:
+23               "Some commented that emergency planning had assumed
+24          care providers would be responsible for their own
+25          response, and a centralised government role had not been
+    21
+
+ 1             anticipated."
+ 2                 The Inquiry has of course received significant
+ 3             evidence from witnesses, including
+ 4             Sir Christopher Wormald, that key recommendations in
+ 5             respect of social care following Exercise Cygnus were
+ 6             not implemented before the pandemic.
+ 7                 Perhaps a scarcity of detailed planning is
+ 8             unsurprising when viewed in light of the complete lack
+ 9             of visibility and centralised oversight in social care
+10             as an undoubtedly fragmented sector. The Inquiry has
+11             heard that going into the pandemic there was no central
+12             government understanding as to how many people were
+13             receiving or needed adult social care, nor how many
+14             registered homes were providing such care. This is
+15             a glaring omission, given the complexity of the sector.
+16                 The Department of Health and Social Care described
+17             in its opening statement the fact that social care is
+18             managed across 152 local authorities and is made up of
+19             around 25,800 registered social care establishments.
+20                 The reality, as described to the Inquiry, is that
+21             a complex and fragile sector, upon which so much of
+22             pandemic response relies, went into the pandemic without
+23             even the most basic of preparations.
+24                 The Inquiry should move forward from Module 1 with
+25             some pretty stark findings as to preparedness and
+    22
+
+ 1           capacity in social care. The Inquiry cannot seek to
+ 2           recommend the solutions to those problems in this
+ 3           module, but it should be moving forward towards a future
+ 4           module in social care with a sense of conviction that
+ 5           fundamental change is needed.
+ 6                My Lady, you've committed to understanding and
+ 7           making findings as to the unequal impact of the
+ 8           pandemic. It is widely recognised that the pandemic
+ 9           disproportionately impacted certain protected and
+10          vulnerable groups. It is important for this Inquiry to
+11          understand the drivers of that disproportionate impact
+12          and to understand, crucially, how planning for future
+13          pandemics can mitigate those impacts.
+14               As a starting point, it was foreseeable that
+15          a pandemic would have a disproportionately adverse
+16          impact upon lines of socio-economic disadvantage and
+17          along the intersection of such disadvantage with
+18          precarious work, with ethnicity, disability, age,
+19          gender, caring responsibilities and poor health.
+20               As explained by Professors Marmot and Bambra, the
+21          historic and global experience of a range of
+22          whole-system shocks, whether it be a financial crisis,
+23          extreme weather events or indeed pandemic flu, is that
+24          such shocks expose and amplify pre-existing health
+25          inequalities.
+    23
+
+ 1                 The examples are numerous, but perhaps among the
+ 2             most striking, given its timing, is that in the 2009
+ 3             swine flu pandemic the mortality rate in the most
+ 4             deprived 20% of England's neighbourhoods was over three
+ 5             times higher than in the least deprived 20%.
+ 6                 It is evident that the uneven impact is not unique
+ 7             to Covid-19.
+ 8                 It is also evident that these matters were not
+ 9             considered in the UK's pandemic planning. The evidence
+10             is that such consideration relating to unequal impacts
+11             of a pandemic as there was, was limited to clinical
+12             vulnerabilities. That was acknowledged by both
+13             Sir Christopher Wormald, in evidence given on behalf of
+14             the Department of Health and Social Care, and by
+15             Katharine Hammond, in evidence given on behalf of the
+16             Cabinet Office.
+17                 The Module 1 evidence establishes, then, that the
+18             disparate impacts were foreseeable and were not
+19             considered. Those have been important points to
+20             understand, but they also give rise to, in a sense,
+21             a rather more important and certainly more difficult
+22             question: how should planning for a pandemic address
+23             these matters?
+24                 An important aspect is no doubt having appropriate
+25             structures for planning. Of course we urge a departure
+    24
+
+ 1               from the arrangements we described in opening as
+ 2               something resembling a bowl of spaghetti. But this
+ 3               Inquiry must also, we suggest, always have in mind what
+ 4               it considers should be in a pandemic plan -- or, perhaps
+ 5               more helpfully described by the Department of Health and
+ 6               Social Care in its opening, what should be in the
+ 7               toolkit of capabilities to respond to the many different
+ 8               possible characteristics of a future pandemic.
+ 9                   Whilst it may be hugely important, for example, to
+10              recommend that there be a minister with sole
+11              responsibility for emergency planning, this Inquiry will
+12              not have done its job effectively if that minister is
+13              not left with a concrete understanding as to the
+14              practical requirements of an effective pandemic plan.
+15                  To an extent, those concrete measures will be
+16              revealed in future modules, but we do not believe we are
+17              getting ahead of ourselves in considering them now.
+18              These issues should be at the forefront of the Inquiry's
+19              consideration throughout, and it is in part necessary to
+20              have them in mind to ensure that the Inquiry is
+21              continuing to look at the right issues.
+22                  It appears to us that the lessons to be learned,
+23              certainly in relation to Covid-19 in the workplace,
+24              really fall into two baskets. The first relates to the
+25              health generally of our nation and the extent of the
+    25
+
+ 1             growing structural health inequalities. The evidence is
+ 2             that the UK entered the pandemic with increasing health
+ 3             inequalities and with health among the poorest people in
+ 4             our society in a state of decline, as it has been
+ 5             since 2010. One of the starkest features of that health
+ 6             inequality is the vast difference in life expectancy
+ 7             between the most and least deprived areas.
+ 8                 As the Marmot and Bambra report describes, the
+ 9             health picture coming in to the pandemic was stalling
+10             life expectancy, increased regional and
+11             deprivation-based health inequalities and worsening
+12             health for the poorest in society.
+13                 One of the key determinants of health is work.
+14             Being in good employment is protective of health and, as
+15             Professors Marmot and Bambra describe, good work is free
+16             of the core features of precariousness, such as lack of
+17             stability and high risk of job loss, lack of safety
+18             measures and the absence of minimal standards of
+19             employment protection.
+20                 Insecure and poor quality employment is also
+21             associated with increased risks of poor physical and
+22             mental health.
+23                 My Lady, unemployment is relatively low, but, as
+24             described by Professor Marmot in the 10 Years On report,
+25             there have been some profound shifts in many aspects of
+    26
+
+ 1               the labour market and employment practices. One
+ 2               challenge is rates of pay, with more people in poverty
+ 3               now being in work than out of work. Insecure work has
+ 4               increased. One aspect of that is zero hour contracts.
+ 5               In 2010 there were 168,000 people working on zero hour
+ 6               contracts --
+ 7           LADY HALLETT: I think, with respect, Mr Jacobs, you're
+ 8               straying beyond the powers that I'll have in this
+ 9               Inquiry to tackle such issues.
+10          MR JACOBS: My Lady, I quite agree, and in fact that is
+11              a point which I am going to come on to, which is that
+12              part of what we have learnt in this module, my Lady, is
+13              that unless we become a healthier, fairer and more equal
+14              society, then a future pandemic will again see
+15              a disproportionate impact on disadvantaged groups.
+16                  What we say, it is important that the Inquiry makes
+17              appropriate findings as to pre-existing structural
+18              inequalities and their relevance to uneven impacts, but
+19              it may also be, my Lady, that the answers to a point lay
+20              beyond this Inquiry. It comes, ultimately, to questions
+21              such as the value we as a nation put on matters such as
+22              fair work, access to core services, and public health.
+23                  The Inquiry itself cannot answer those questions,
+24              but we do say it must make crystal clear findings as to
+25              the consequences of not addressing those sorts of
+    27
+
+ 1             matters.
+ 2                 But it is also, my Lady, crucially a question of
+ 3             planning. Adequate planning can at least mitigate the
+ 4             uneven impacts of a pandemic. This, my Lady, is the
+ 5             second basket of lessons that we say are to be learned
+ 6             relating to uneven impact of the pandemic in the
+ 7             workplace, and in contrast, my Lady, they absolutely can
+ 8             and should be answered by this Inquiry.
+ 9                 A number of witnesses and organisations have put
+10             forward suggestions as to the lessons to be learned in
+11             respect of pandemic planning and mitigating the uneven
+12             impacts of the pandemic.
+13                 Of course in a sense we welcome all ideas, but we do
+14             say that many, particularly when focused on how to plan
+15             to address inequalities, have tended to be rather
+16             nebulous in nature, and it is not at all clear how they
+17             would lead to concrete and meaningful action. Some have
+18             been, to take an observation of yours during the public
+19             hearings, my Lady, and in fact just a minute or so ago,
+20             noble but beyond the scope of your Inquiry.
+21                 So what does the Inquiry do about that, my Lady?
+22                 We say that ultimately, in considering uneven
+23             impacts at least in the workplace, the Inquiry must not
+24             ignore some simple truths. During the Covid-19
+25             pandemic, there was a continued need for us to travel
+    28
+
+ 1           and to eat, there was a need for food retail staff to
+ 2           attend work, for transport workers to attend work, for
+ 3           food processing workers to attend work, and many others.
+ 4           There was a need, more broadly, to keep the economy
+ 5           going. And the burden and risk of continuing to attend
+ 6           work falls not on the professional occupations but on
+ 7           those professions who need to attend work in person and,
+ 8           in doing so, expose themselves to risk, and, my Lady,
+ 9           that pattern will inevitably repeat itself in a future
+10          pandemic.
+11              Moreover, the burden falls, therefore, not on
+12          a cohort -- sorry, the burden falls on a cohort of
+13          working people, a great many of whom are in low paid and
+14          insecure work and who suffer from structural health
+15          disadvantages. Unless there are some fundamental
+16          changes in our society as to the labour market and
+17          factors driving health inequalities, the unequal impact
+18          will repeat itself too. But the Inquiry will hear in
+19          future modules, if it seeks the evidence, that the
+20          mitigations in those sectors where there were frontline
+21          and key workers were pretty hopeless.
+22              What all of that means is that one crucial aspect of
+23          planning to mitigate uneven impact is, quite simply,
+24          planning to keep frontline occupations safe.
+25              My Lady, that requires pandemic planning across
+    29
+
+ 1             a range of workplaces. In our opening, we said that
+ 2             pandemic preparedness across the whole range of
+ 3             workplaces was not so much a theme that is emerging but
+ 4             a theme that we are concerned is not emerging, and,
+ 5             my Lady, we still wait in hope for the Inquiry to
+ 6             address these issues.
+ 7                 Planning across the necessary range of workplaces
+ 8             and sectors must clearly include an adequate plan for
+ 9             PPE. It must include planning for PPE across a range of
+10             sectors. What will the provision and guidance be in
+11             advance of the next pandemic for PPE in a processing
+12             plant, in a supermarket, or on a bus? Will that be
+13             government stockpiles or will it be for employers to be
+14             able to cater for that in meeting their health and
+15             safety obligations? If the latter, are those health and
+16             safety obligations adequately clear and well understood?
+17             These questions remain unanswered, but they are
+18             important.
+19                 The relevance of PPE across a range of settings was
+20             a point stressed at least in the written report of
+21             Professors Marmot and Bambra.
+22                 Planning across a range of sectors must also include
+23             ensuring that those in the relevant occupations have the
+24             financial support to be able to self-isolate when poor
+25             pay, insecure work and a lack of sick pay means that
+    30
+
+ 1           workers are faced with a choice between not
+ 2           self-isolating or self-isolating but not having the
+ 3           money to live and eat.
+ 4               The TUC has raised repeated concerns about the
+ 5           limitations of statutory sick pay and repeatedly raised
+ 6           it during the pandemic in connection with the
+ 7           effectiveness of self-isolation as an NPI.
+ 8               As Ms Bell described in oral evidence, our evidence
+ 9           shows that those on zero hour contracts are much less
+10          likely to have access to decent sick pay. Around
+11          a third of those on zero hour contracts don't earn
+12          enough to qualify for sick pay when they fall sick.
+13              Fundamentally the TUC believes it would be better
+14          for fair rather than insecure work to be embedded in the
+15          labour market, but at the very least, and when it comes
+16          to pandemic planning, there must be proper provision for
+17          pay and support during self-isolation and it needs to be
+18          planned for.
+19              My Lady, these, ultimately, are the sorts of
+20          concrete measures that need to be seen in pandemic
+21          planning, and which will help ameliorate its uneven
+22          impact in key and frontline sectors.
+23              Of course those sorts of measures will mean little
+24          in practice without an effective health and safety
+25          regulator with sufficient resources and powers of
+    31
+
+ 1             inspection. We fear becoming a broken record on this
+ 2             point, but it is important, and we still cannot see that
+ 3             it is being addressed.
+ 4                 To place an emphasis on health and safety and health
+ 5             and safety regulation may not be a glamorous answer to
+ 6             these problems, but ultimately it is important. The
+ 7             severe cuts to the UK Health and Safety Executive and
+ 8             its Northern Ireland counterpart, particularly following
+ 9             2010, were accompanied by a dangerous narrative that
+10             dismissed workplace health and safety as unhelpful
+11             red tape that did nothing but frustrate businesses and
+12             the economy. But that is a reckless approach and the
+13             inevitable consequences have come to pass. To a worker
+14             sitting on a processing plant who may already be
+15             suffering the disadvantages of low pay, insecure work
+16             and suffering the associated poorer health outcomes,
+17             an effective health and safety regulator may be the
+18             difference between working in an environment with or
+19             without adequate measures such as social distancing and
+20             PPE. We have reiterated on a number of occasions the
+21             inability of the HSE to respond to the pandemic.
+22                 Delivering a plan which achieves measures across
+23             a range of workplaces also requires an approach of
+24             partnership in consultation with the relevant
+25             industries, including both employers and unions.
+    32
+
+ 1               Ultimately, if preparedness is needed across a range of
+ 2               workplaces, then there needs to be engagement of
+ 3               frontline workers across the necessary range of sectors.
+ 4               The answer must lie in the responsible action of
+ 5               employers, supported by government.
+ 6                   As Gerry Murphy, assistant general [secretary] of
+ 7               the Irish Congress of Trade Unions, stated during oral
+ 8               evidence, a formal social dialogue mechanism to
+ 9               facilitate co-operation and joint working between
+10              government and the trade unions is essential.
+11                  As Mr Murphy explained, formal engagement fora have
+12              worked in the devolved nations and in counterparts
+13              across unions, and the TUC, the Welsh TUC, the Scottish
+14              TUC and the Irish Congress are, of course, in a position
+15              to provide a representative and mediating function
+16              between government and unions.
+17                  As Ms Bell explained, the key points are regular
+18              meetings, a spirit of openness and collaboration, and
+19              a clear process for how government and unions themselves
+20              will act on those findings.
+21                  My Lady, our key points on pandemic planning for the
+22              workplace may be summarised relatively shortly.
+23              Pandemic planning needs to consider health and safety
+24              measures across a range of workplaces. It needs to be
+25              supported by an effective and funded health and safety
+    33
+
+ 1                regulator. It should be achieved in partnership with
+ 2                employers and workers via representative unions, and
+ 3                doing those things will preserve lives of those at work
+ 4                and will help ameliorate some of the uneven impacts of
+ 5                the pandemic.
+ 6                    Although this is the closing submission for
+ 7                Module 1, aspects of what we say is needed in pandemic
+ 8                planning and preparedness really look forward to what we
+ 9                say is necessary in future modules.
+10                    We say respectfully that we have not in this module
+11                seen the necessary consideration of preparedness in
+12                sectors beyond health and social care, but we also say
+13                that with the hope and expectation that the issue is
+14                going to be the subject of detailed evidence in future
+15                modules.
+16                    My Lady, we have been grateful for the opportunity
+17                to contribute to this Inquiry thus far. We again
+18                commend the Inquiry for its endeavour for getting to
+19                this point in this timeframe, and we look forward to
+20                some timely findings and recommendations. As ever,
+21                my Lady, we stand ready to assist.
+22             LADY HALLETT: Thank you, Mr Jacobs.
+23                    Mr Allen, I think I can see you back there.
+24             Submissions on behalf of the Local Government Association
+25                and Welsh Local Government Association by MR ALLEN KC
+    34
+
+ 1           MR ALLEN: My Lady, as you know, I represent the Local
+ 2               Government Association and the Welsh Local Government
+ 3               Association, and both organisations thank you and
+ 4               the Inquiry team for the efficiency and thoroughness of
+ 5               the process to date.
+ 6                   They also thank you and the Inquiry team for the
+ 7               opportunity to participate in this module. They know
+ 8               that you will carefully consider the two chief
+ 9               executives' separate and joint witness statements and
+10              the answers given to them and those of Ms Allen, no
+11              relation, chief executive of NILGA, in their oral
+12              examination on 12 July.
+13                  Their teams and I, having listened intently to the
+14              examination of other witnesses, are preparing a written
+15              closing submission which you will receive in due course,
+16              and this will say more than I can in this brief oral
+17              closing.
+18                  Today, I will focus on the very heart of the
+19              association's concerns. I must start by emphasising
+20              again the importance of local government in pandemic
+21              planning. You will have learnt during this stage of
+22              your Inquiry, to the extent that it was not already
+23              apparent to you, that to bring a country through the
+24              scourge of a pandemic requires multiple efforts across
+25              civil society, and that means not just from the NHS,
+    35
+
+ 1                but, as I've already emphasised, from all of the
+ 2                1 million-plus local government officers across England
+ 3                and Wales.
+ 4                    They have been at the heart of the work by: finding
+ 5                and tracing those actually or potentially affected or
+ 6                particularly vulnerable; stopping the spread of the
+ 7                virus through assisting with quarantine; helping to
+ 8                maintain social distancing; enforcing lockdowns and
+ 9                creating vaccine centres; supporting and caring for
+10                those who are particularly frail or vulnerable;
+11                providing adult social care; looking after families when
+12                schools are closed or they're otherwise in need; and, at
+13                death, doing what they can to provide a dignified
+14                departure from this world; maintaining as much of
+15                ordinary life as possible, including administering
+16                business loans to help keep business going, then and
+17                later; and, in due course, helping with the process of
+18                recovery.
+19                    The association's two chief executives have been
+20                examined about local government's preparation for these
+21                roles. Their engagement with the local resilience fora
+22                as Category 1 responders, their engagement with the
+23                Cabinet Office and the way in which the Civil
+24                Contingencies Act had worked during the Module 1 period.
+25                    You have already heard some extraordinary facts, how
+    36
+
+ 1           the planning was focused on a pan flu and ignored the
+ 2           possibility of a respiratory virus pandemic, how there
+ 3           was no preparation for quarantine, social distancing or
+ 4           lockdown, how there was no planning for cross-border
+ 5           working between England and Wales, and how the
+ 6           associations were excluded from full participation in
+ 7           Operation Cygnus and were not even informed of its
+ 8           recommendations until they were disclosed in the autumn
+ 9           of 2020, long after the pandemic had begun, and how
+10          Operation Alice was conducted with no engagement with
+11          local government.
+12              And, I must add, my clients simply do not understand
+13          the evidence of former Secretary of State for Health
+14          Mr Hancock, who stated that only two councils had plans
+15          for pandemic flu, a suggestion they do not believe to be
+16          accurate at all, and, my Lady, we refer you to the
+17          survey conducted at the request of the Inquiry team
+18          attached to the joint witness statement of the two chief
+19          executives, and, similarly, they believe the department
+20          had and has far more levers to understand, oversee and
+21          to shape social care provision than his evidence
+22          suggested.
+23              To find out the extent of adult social care
+24          provision, all he had to do was to speak to the Care
+25          Quality Commission, with which providers must be
+    37
+
+ 1             registered, or with directors of adult social services
+ 2             who commission care services.
+ 3                 My Lady, I will move now to emphasising the
+ 4             overarching conclusions that these two associations ask
+ 5             you to include in your report on this module of the
+ 6             Inquiry. These points are short and pithy, but I submit
+ 7             they are vital if your report is to address fully what
+ 8             is now known to be needed to prepare for the next
+ 9             pandemic, and they concern the vital role that their
+10             member councils play.
+11                 I shall summarise them first and then say a little
+12             more about each of them. There are three.
+13                 One, we must learn from the failures in preparing
+14             for Covid to design a better approach to pandemic
+15             planning and to ensure that local government is at the
+16             core of all future resilience planning.
+17                 Two, in this process, local government must be
+18             treated as a trusted and equal partner by central
+19             government.
+20                 Three, local government preparedness has been
+21             impacted by austerity, but this cannot be allowed to
+22             occur again.
+23                 So, turning to the first, that we must learn from
+24             the failures in preparing for Covid to design a better
+25             approach to pandemic planning and to ensure that local
+    38
+
+ 1           government is at the core of all future resilience
+ 2           planning.
+ 3               My Lady, between 2009 and 2020, councils, as
+ 4           Category 1 responders, prepared, in line with the
+ 5           government's risk assessment and planning, for
+ 6           an influenza pandemic. Yet, as the Inquiry has already
+ 7           heard, the pandemic that councils had to respond to was
+ 8           different to the one that had been planned for, meaning
+ 9           plans had to be changed or started from scratch. So for
+10          the future, government must recognise that any national
+11          response works best when it is built from the local
+12          level upwards, co-designed with local government rather
+13          than imposed, and regularly tested and exercised with
+14          local government and not in isolation.
+15              Important work has already been started by the
+16          Welsh Government in considering its response to the 2023
+17          independent report into future structures and
+18          arrangements for civil contingencies in Wales. The
+19          Welsh Local Government Association emphasises that the
+20          response needs to be wide-ranging and to address the
+21          whole system with local government involved from the
+22          outset in any system re-design.
+23              By contrast, much more is necessary in England,
+24          where details of the new UK Government Resilience
+25          Framework remain limited. Jointly, the two associations
+    39
+
+ 1             submit that the civil contingencies system needs to be
+ 2             treated and managed as a single system, from top to
+ 3             bottom, from central to local, and from strategic to
+ 4             operational. They say that for emergency events,
+ 5             whether of a national or global scale, there has to be
+ 6             a joined-up and co-owned planning system between
+ 7             the UK Government and the devolved governments, with
+ 8             local government fully engaged in this.
+ 9                 This must lead to comprehensive and inclusive
+10             national planning arrangements to build preparedness for
+11             emergency events of such scale and length. These plans
+12             should be maintained and be reviewed and tested at
+13             regular intervals by all agencies in the whole system.
+14                 The testing processes must have sensible and
+15             workable lead-in times, allowing local areas to
+16             co-ordinate their local testing approaches. Planning at
+17             all levels should be inclusive of the third sector, and
+18             they should give the opportunity for stakeholders and
+19             representative bodies, for instance those who might be
+20             vulnerable or have protected characteristics, to give
+21             advice and insight.
+22                 Arrangements should be put in place so as to give
+23             the public proper assurance about preparedness through
+24             access to information and media coverage.
+25                 As part of planning, protocols and arrangements
+    40
+
+ 1           should be put in place for clear, timely and
+ 2           co-ordinated public information in the event of a major
+ 3           emergency. These protocols and arrangements should be
+ 4           intergovernmental to avoid public confusion across the
+ 5           home nations.
+ 6                The systems for national data modelling for the
+ 7           reach and impacts of a national emergency, including the
+ 8           worst-case scenarios for a pandemic or other incidents,
+ 9           should be transparent and well understood.
+10               In preparing for or responding to an actual
+11          emergency, the data analysis should be shared within and
+12          flow through the civil contingencies system in a timely
+13          way.
+14               A peer review system for the local resilience fora
+15          should be introduced to provide external insight and
+16          local assurance about plans.
+17               Preparedness and resilience need to be reviewed in
+18          several key areas of high sensitivity and risk,
+19          including: protecting vulnerable people, the protection
+20          of dignity in the management of excess death numbers,
+21          and the resilience and capacity of the independent
+22          residential care home sector.
+23               All information within the system, whatever its
+24          confidential or sensitive status, should be shared
+25          amongst partners within the system, including local
+    41
+
+ 1             government and other Category 1 responders. And the
+ 2             principle of subsidiarity, localism, should be
+ 3             understood and honoured, so that planning and action are
+ 4             taken at the most local point possible, but equally
+ 5             there must be local input into those national decisions
+ 6             whose impacts will be most felt locally by local
+ 7             communities. And these plans should be subject to
+ 8             democratic oversight at local and national levels,
+ 9             including democratic oversight of the system of
+10             preparedness through, for instance, local council
+11             scrutiny committees and also Parliamentary committees.
+12                 Now, turning next to our second overarching theme,
+13             local government must be trusted as an equal partner by
+14             central government. I said at the outset in my opening
+15             remarks that central government must take active steps
+16             to ensure it fully understands how local government
+17             works and the complex systems within which it operates.
+18                 The evidence that you have received has shown just
+19             how little trust and understanding there has been, and
+20             also some of the consequences of this.
+21                 So my clients want to emphasise in their closing
+22             submission that local authorities are not merely
+23             delivery bodies, they are democratic representatives of
+24             their local communities and they are repositories of
+25             expertise and knowledge about their locality and service
+    42
+
+ 1           delivery within it. Forget these points and central
+ 2           government will always be in a mess in a crisis.
+ 3                But the key point is that, long before a crisis
+ 4           happens, the best resilience will be built on
+ 5           partnership in which each understands and respects the
+ 6           role of the other, because local knowledge, skills and
+ 7           expertise will always be crucial in addressing complex
+ 8           issues that affect diverse communities in the context of
+ 9           a crisis.
+10               Now, while the Welsh Local Government Association
+11          recognises that it had a different experience to our
+12          English counterparts in preparedness for major
+13          emergencies, nonetheless there are lessons there too.
+14          Nationally constructed plans for preparedness should be
+15          reviewed and updated regularly with the full involvement
+16          of all partners, including local authorities and their
+17          representative associations.
+18               My Lady, my third overarching point is this: local
+19          government preparedness has been impacted by austerity,
+20          but this cannot be allowed to occur again. We are
+21          grateful to Counsel to the Inquiry who have examined
+22          numerous witnesses about the facts and effect of
+23          austerity. The associations recognise fully the
+24          importance of fiscal prudence at their level, so it's
+25          not necessary for me to make general submissions in
+    43
+
+ 1             closing about the effects of the decade or more of
+ 2             austerity on the UK as a whole.
+ 3                 The two associations do, though, want to ensure that
+ 4             you know that they most certainly have a view about the
+ 5             effects of cuts to resources on planning for a pandemic.
+ 6                 In short, it has impacted on councils' ability to
+ 7             plan and prepare effectively, and the focus on
+ 8             protecting the NHS services has meant larger cuts
+ 9             elsewhere in the public sector, including both public
+10             health and emergency preparedness.
+11                 Reductions in spending have also affected the
+12             resilience of public services and influenced the social
+13             and economic conditions that impact on people's health
+14             in the short and long term.
+15                 So what can be said about resources and planning for
+16             the future? Well, my Lady, in short, we ask you to say
+17             that continued budget cuts will undermine the resilience
+18             and capacity of councils to respond to pandemics. If
+19             we -- ordinary people, like all of us in this room, able
+20             to get out and about -- if persons such as we are to be
+21             assured of local governments' capacity to cope and
+22             respond to any future emergency of scale and duration,
+23             then the budgets for local government must be protected.
+24                 Yet we have a duty to look further than us. Such
+25             events will, as you have heard, affect those who are
+    44
+
+ 1              less able to get out and be seen and heard, the most
+ 2              vulnerable, those with pre-existing ill or fragile
+ 3              health or comorbidities, those in poor quality housing
+ 4              or who cannot easily shield because they live in larger
+ 5              families or crowded housing. They are likely already to
+ 6              have suffered the worst effects of austerity, and when
+ 7              it comes to planning for a pandemic their particular
+ 8              vulnerabilities must be part of the preparation. They
+ 9              are less able to be resilient on their own. It is not
+10             right that they should be expected to shoulder the same
+11             burden of austerity measures as or so who are in
+12             a better place and more capable of being resilient.
+13                  So, my Lady, there should be a greater focus in
+14             planning on supporting people with a wider range of
+15             health and socio-economic vulnerabilities compared to
+16             those who are in a better place and more capable of
+17             being resilient, relying on their own resources.
+18                  So while direct funding to local resilience fora
+19             should be maintained, the government must also recognise
+20             that operational capability rests with the responders
+21             themselves and they must be adequately funded and
+22             resilient.
+23                  So finally in this oral submission, my Lady, may
+24             I remind you that in my opening submission I set out
+25             13 requests for each association. The evidence that you
+    45
+
+ 1                 have received has, we believe, more than demonstrated
+ 2                 the good sense of those proposals. I will not repeat
+ 3                 them here because I'm confident that the Inquiry team
+ 4                 will already have them well in mind.
+ 5                     I ask you, therefore, on behalf of my two clients to
+ 6                 note the width and depth of local governments' tasks and
+ 7                 responsibilities, to adopt the three overarching points
+ 8                 as headline but essential points, and to consider and
+ 9                 conclude that my opening two times 13 points are indeed
+10                 good points to be included in your report as steps that
+11                 must be taken forward in all future civil contingency
+12                 planning.
+13                     My Lady, I thank you in advance for the report that
+14                 you propose to deliver on the issues we have discussed
+15                 in Module 1, and we respect the fact that there is a lot
+16                 of hard work for you ahead.
+17                     Thank you.
+18             LADY HALLETT: Thank you, Mr Allen. On that note, I think
+19                 it may be time for a coffee break. I shall return at
+20                 11.25.
+21             (11.08 am)
+22                                       (A short break)
+23             (11.25 am)
+24             LADY HALLETT: Mr Hill.
+25
+    46
+
+ 1           Submissions on behalf of the Government Office for Science
+ 2                                       by MR HILL
+ 3           MR HILL: My Lady, thank you.
+ 4                   The Government Office for Science is grateful for
+ 5              the opportunity to contribute to this module of the
+ 6              Inquiry. You have heard evidence from two former
+ 7              Government Chief Scientific Advisers, Sir Mark Walport
+ 8              and Sir Patrick Vallance. These brief closing
+ 9              submissions, which will be supplemented in writing, are
+10             a distillation of the key aspects of their evidence and
+11             identify the key issues they would invite the Inquiry to
+12             address when formulating its conclusions and
+13             recommendations in relation to future pandemic
+14             preparedness.
+15                  There is a fundamental overarching issue to which
+16             everything that follows is subject, and that is the
+17             extent to which we, as a society, wish to devote
+18             resources to purchasing insurance against future
+19             pandemics.
+20                  Although choices on allocation of resources will
+21             always remain political ones, this module of the Inquiry
+22             provides an opportunity to reflect on the value of
+23             insurance against future risks that have the capacity to
+24             cause a large number of deaths and profound social
+25             upheaval.
+    47
+
+ 1                     In some areas, the value of inuring against future
+ 2                 risk is well understood and Sir Patrick gave the example
+ 3                 of the armed forces. He observed that money spent on
+ 4                 that aspect of the nation's security is not regarded as
+ 5                 wasted if there turns out to be no need to fight a war.
+ 6                 The effective protection of society from natural hazards
+ 7                 requires a similar mentality and an understanding that
+ 8                 natural hazards can be just as devastating as security
+ 9                 threats.
+10                     In particular, when planning for a future pandemic,
+11                 it needs to be understood that you may not need
+12                 everything that you pay for. Innovation, whether
+13                 scientific or technological, inevitably comes with
+14                 failure, and that has to be priced in and accepted as
+15                 part of the process. The success of the development of
+16                 vaccines and the Vaccine Taskforce has been referred to
+17                 by many witnesses and indeed was referred to by
+18                 Mr Jacobs earlier today. In respect of that undoubted
+19                 achievement, Sir Patrick made the telling observation
+20                 that it was only by the approval of funding,
+21                 notwithstanding the very significant risk of failure,
+22                 that success was achieved.
+23                     In the field of pandemic preparation, the concept of
+24                 value for money has to be broader than traditionally
+25                 used by government. The conventional analysis, as
+    48
+
+ 1           exemplified by the National Audit Office and the Public
+ 2           Accounts Committee requires revision when applied to the
+ 3           building up of effective resilience against future
+ 4           pandemics.
+ 5                Turning to the issues of planning and resilience, it
+ 6           is our submission that the approach to risk planning for
+ 7           future pandemics, as reflected in the NSRA and more
+ 8           broadly across government, requires fundamental
+ 9           structural change in at least two respects.
+10               First, the focus should be on capabilities and
+11          scenarios, and not specific plans for specific types of
+12          pandemic. The response to the emergency that eventuates
+13          will inevitably need to be targeted, but the preparation
+14          needs to be broad. Predicting the next pandemic with
+15          any sort of precision is impossible. There are too many
+16          variables. There is little value, we would suggest, in
+17          asking whether previous iterations of the NSRA foresaw
+18          the right sort of pandemic.
+19               Similarly, there were some suggestions floated
+20          during the course of evidence apparently predicated on
+21          a belief that it is our powers of prediction that need
+22          to be improved. One is that drugs and vaccines
+23          effective against Covid-19 should have been stockpiled
+24          and would have been with a little more imagination. Yet
+25          nobody knew which drugs worked until extensive clinical
+    49
+
+ 1             trials had taken place, and you cannot stockpile a drug
+ 2             or vaccine which does not yet exist.
+ 3                 But what you can do is to assess and build your
+ 4             capability to research, trial and roll out existing
+ 5             treatments when faced with a new hazard. You can invest
+ 6             in your capacity to discover, invent, manufacture and
+ 7             distribute a new treatment or vaccine at speed. You can
+ 8             ask what capabilities will be required to deal with
+ 9             future pandemics, whether those capabilities exist, and
+10             how they can be scaled up quickly.
+11                 In the particular context of a future pandemic, and
+12             based on recent experience, the key areas to address in
+13             this analysis include the following:
+14                 First, data. Which data will be required, who holds
+15             them, how can they be obtained and analysed?
+16                 Second, testing and tracing. What capability will
+17             we require, and what infrastructure do we have to
+18             provide it?
+19                 Third, equipment. What will we require, and where
+20             will we source it from? What can we realistically
+21             stockpile and what industrial manufacturing capacity
+22             will we be able to call upon?
+23                 Drugs and vaccines. How do we preserve excellence
+24             in our scientific research base? How do we translate
+25             that research into manufacturing? What manufacturing
+    50
+
+ 1           capacity will we require, and where is that capacity
+ 2           held?
+ 3                Fifth, diagnostics. The same questions arise,
+ 4           together with the imperative of preserving that which we
+ 5           have now built. How can we ensure that everyday
+ 6           healthcare in this country uses a domestic diagnostic
+ 7           capacity so that it can be pivoted to emergency pandemic
+ 8           response at short notice when required? What support
+ 9           and partnerships do we need to develop with industry?
+10               Sixth, international co-operation. What networks
+11          will we be able to call upon and plug in to?
+12               Seventh, vulnerable groups. Where within society
+13          are the effects of a pandemic likely to be felt most
+14          acutely, and what measures are available to mitigate
+15          that impact?
+16               These are the questions of general application that
+17          should underpin the NSRA and should, if approached
+18          correctly, provide answers that would be adaptable to
+19          the next pandemic. They do not depend for their success
+20          on correctly guessing what the pandemic will look like.
+21          They will lead to a better balance between prevention,
+22          mitigation and response. They will identify in advance
+23          areas of strength and areas of relative weakness so that
+24          they can be addressed before the pandemic, rather than
+25          during it.
+    51
+
+ 1                 The second point we make about planning and
+ 2             resilience is an inevitable consequence of the first.
+ 3             The effective formulation and delivery of a resilience
+ 4             plan of the type that I have just described cannot
+ 5             simply be allocated to a single government department on
+ 6             the existing NSRA model. Pandemics require
+ 7             an integrated cross and intergovernmental response.
+ 8             They present funding challenges which cannot be met by
+ 9             a single department, with a single budget from which to
+10             meet all of its day-to-day requirements. Nor can the
+11             effective oversight and delivery of a plan of this
+12             nature be fragmented across the various branches of
+13             government with an interest in its constituent elements.
+14             It is essential that there is a senior and authoritative
+15             single point of accountability and responsibility within
+16             government, to drive resilience and implement plans.
+17                 To take the example of Exercise Alice, this did
+18             address containment and mitigation and did provide
+19             an opportunity to develop capabilities that would have
+20             been valuable when the pandemic struck. But there is
+21             simply no point in running exercises like this without
+22             having someone responsible for co-ordinating and
+23             overseeing the response, and being responsible for
+24             ensuring that actions are followed through.
+25                 A clear structure of accountability and
+    52
+
+ 1           responsibility will address the tendency to believe
+ 2           that, as long as the report has been written, the
+ 3           problem has been resolved. It will create
+ 4           an institutional memory and repository of relevant
+ 5           information which will be preserved when officials and
+ 6           ministers inevitably move on. It will ensure that
+ 7           documents and plans relating to resilience are kept
+ 8           under regular review and remain within their sell by
+ 9           date rather than being allowed to drift into
+10          obsolescence.
+11              Crucially, from a science perspective, it will
+12          provide a clear docking point within the government for
+13          scientific advice during normal times.
+14              Both Sir Mark and Sir Patrick spoke of the need for
+15          scientific advisers to be proactive and go beyond simply
+16          answering the questions set by government. That
+17          approach will only be effective if there is a clear and
+18          direct route by which such advice can find its way to
+19          the right person's desk.
+20              There is, therefore, a need for reform and
+21          improvement in the structures for planning, preparation
+22          and resilience.
+23              In contrast, the existing structure for the delivery
+24          of science advice during an emergency is clear and fit
+25          for purpose. COBR commissioned SAGE, and the GCSA
+    53
+
+ 1             provides the link between SAGE and COBR. During the
+ 2             pandemic, SAGE could commission sub-groups such as SPI-B
+ 3             and SPI-M to undertake specialist pieces of work. Each
+ 4             department has or should have its own CSA, and each
+ 5             devolved administration should have its own
+ 6             Government CSA. They have a direct line of
+ 7             communication with the UK GCSA who supports them and
+ 8             leads the CSA network.
+ 9                 The SAGE model allows for flexibility and a tailored
+10             response to the emergency that is being faced. It
+11             enables the right people to be assembled from the
+12             appropriate disciplines. Many other countries adopted
+13             similar models in recognition of the effectiveness of
+14             the UK's arrangements and the Inquiry will recall in
+15             particular the evidence of Sir Jeremy Farrar in this
+16             regard.
+17                 This is not said complacently, and the Inquiry has
+18             heard of the ongoing work within the Government Office
+19             for Science to strengthen and improve SAGE's processes.
+20             We also see the force in ensuring that representation of
+21             the devolved -- sorry, representatives of the devolved
+22             administrations are invited from the outset to
+23             SAGE meetings where emergencies concern them. SAGE is
+24             the appropriate forum for this link rather than the
+25             CSA network.
+    54
+
+ 1               These structures work well, and we would invite
+ 2           your Ladyship to reject any suggestion that they should
+ 3           be changed further. In particular, adding mandatory
+ 4           representation of all the devolved nations' Health CSAs
+ 5           to the CSA network would risk actively harming a body
+ 6           that has developed organically into a highly effective
+ 7           means of cross-governmental collaboration and one that
+ 8           concerns the full spectrum of science advice, not just
+ 9           health. We would urge your Ladyship to resist any
+10          invitation to stray into areas beyond the pandemic to
+11          try to fix that which is not broken.
+12              In addition to these two structural matters relating
+13          to the mechanics of pandemic planning and building
+14          resilience, there are three broader issues that we would
+15          invite the Inquiry to consider.
+16              First, Sir Patrick advocated the establishment of
+17          an academic institute for pandemic preparedness. He
+18          envisages a hub and spoke model where experts from
+19          across relevant fields could bring together their
+20          expertise and identify further areas for research. The
+21          model would allow for an exchange of ideas from
+22          epidemiologists, virologists, clinicians, behavioural
+23          scientists, data scientists, engineers, economists,
+24          educationalists, and others. The UK has a rich and
+25          active research base, an institute for pandemic planning
+    55
+
+ 1             could draw from its full breadth and depth.
+ 2                 Second, the role of public health infrastructure in
+ 3             prevention and mitigation. As Sir Mark explained, and
+ 4             as some of the expert evidence commissioned by
+ 5             the Inquiry has illustrated, the lack of priority
+ 6             accorded to public health over several decades has meant
+ 7             that much of the traditional infrastructure for the
+ 8             control of infectious diseases has been lost. As
+ 9             a result, when the pandemic struck, the capacity for
+10             testing, tracing and isolation had to be built largely
+11             from scratch. The UK could not, for example, replicate
+12             the initial South Korean response to the pandemic
+13             because it had not made the investment South Korea had
+14             made in its public health systems.
+15                 A better developed, better funded public health
+16             system, delivered at a local level and including a large
+17             cohort of community health workers, would have a double
+18             benefit in this context. During peace time, it would
+19             improve the health and access to healthcare of the
+20             general population, including vulnerable and
+21             marginalised groups. In the event of a pandemic it
+22             would provide a readymade infrastructure and workforce
+23             that could pivot to testing and tracing.
+24                 The Inquiry has made clear its concern about the
+25             important issue of inequality of impact and outcome, and
+    56
+
+ 1               rightly so. That is not an issue that can be addressed
+ 2               during the course of a pandemic. It has to be dealt
+ 3               with at a structural level in advance. A high quality
+ 4               and properly resourced public health system is essential
+ 5               to achieving this.
+ 6                   Finally, whilst there are plainly steps that we can
+ 7               take at a national level to improve our planning and
+ 8               resilience, it has to be kept in mind that the effective
+ 9               response to a future pandemic will inevitably be
+10              an international endeavour. The 100 Days Mission is
+11              centrally important in this regard in respect of
+12              inventing and manufacturing diagnostics, vaccines and
+13              therapeutics. Other areas of co-operation are also
+14              required, notably in surveillance and initial public
+15              health response. It is important that any structural
+16              changes made at national level dovetail with the work
+17              that is being done on the international plane.
+18                  Although the hearings in respect of Module 1 are now
+19              at a close, we appreciate that the work of the Inquiry
+20              on the issues of resilience and preparedness will
+21              continue. The Government Office for Science will
+22              of course continue to provide the Inquiry with whatever
+23              further assistance and support it may require as it
+24              completes this important aspect of its work.
+25          LADY HALLETT: Thank you very much indeed, Mr Hill, very
+    57
+
+ 1                 helpful.
+ 2                     Next is Mr Block. Oh, right back there.
+ 3                 Submissions on behalf of His Majesty's Treasury by
+ 4                                          MR BLOCK KC
+ 5             MR BLOCK: Good morning, my Lady.
+ 6             LADY HALLETT: Mr Block.
+ 7             MR BLOCK: My Lady, as you are aware, His Majesty's Treasury
+ 8                 has not yet addressed the Inquiry. Therefore may
+ 9                 I associate the Treasury with the sentiments of the
+10                 Inquiry legal team and those core participants who made
+11                 opening statements and offer our sincere and heartfelt
+12                 condolences to those who lost family members, friends
+13                 and colleagues, and our sympathy to all those who have
+14                 been affected by the pandemic.
+15                     My Lady, no one who heard the moving and courageous
+16                 evidence yesterday morning can be in any doubt about the
+17                 profound effects on individuals and families.
+18                     My Lady, I'm instructed by Robyn Smith of the
+19                 Government Legal Department, and appear together with
+20                 Mr Steven Gray.
+21                     May I say at the outset that the Treasury wishes
+22                 publicly to reiterate its intention to assist the
+23                 important work of this Inquiry. It has sought and will
+24                 continue to seek to assist you as best it can through
+25                 disclosure of relevant material and provision of
+    58
+
+ 1               comprehensive witness evidence.
+ 2                   So far, in relation to Module 1, we've disclosed
+ 3               a significant number of relevant documents to
+ 4               the Inquiry, and supplied a detailed corporate witness
+ 5               statement from the second permanent secretary,
+ 6               Catherine Little, and we have also supported
+ 7               George Osborne, the former Chancellor, to facilitate
+ 8               the Inquiry, receiving detailed written and oral
+ 9               evidence from him.
+10                  My Lady, we hope it's of assistance to you and all
+11              of those following the Inquiry to provide a summary of
+12              the Treasury's role in government insofar as it's
+13              relevant to Module 1 and to pandemic preparation and
+14              resilience.
+15                  The Inquiry has not heard oral evidence of these
+16              matters, and of course it's only core participants who
+17              will have seen the written evidence.
+18                  Catherine Little's statement, as requested, explains
+19              to the Inquiry the Treasury's role in governmental risk
+20              management and emergency planning, and it sets out the
+21              detail of the Treasury's involvement in and engagement
+22              with pandemic planning.
+23                  In summary, the Treasury is the government's
+24              economic and finance ministry, responsible for
+25              maintaining control over public spending, setting the
+    59
+
+ 1                 direction of the United Kingdom's economic policy and
+ 2                 working to achieve strong and sustainable economic
+ 3                 growth.
+ 4                     Of course the positions taken by Treasury officials
+ 5                 are determined by ministers in accordance with relevant
+ 6                 government policy, and the Inquiry has heard and read
+ 7                 evidence relating to the Module 1 period from some of
+ 8                 those ministers.
+ 9                     It's not the Treasury's function in this Inquiry to
+10                 seek to persuade you of the merits of the
+11                 United Kingdom's fiscal and economic policy during the
+12                 relevant period. Indeed, Mr Keith has, for
+13                 understandable reasons, made clear on a number of
+14                 occasions during the hearings that the Inquiry is not
+15                 concerned with the merits or otherwise of government
+16                 policies, as well as the government's fiscal policy
+17                 generally, and this obviously includes the policy of
+18                 austerity, which has been the subject of comment at
+19                 various points during the module and in particular
+20                 during yesterday and today's closing statements.
+21                     The Inquiry is focusing in this module on the period
+22                 from 2009 to 2020, and the Treasury submits that the
+23                 evidence shows that, following the global financial
+24                 crisis, the Treasury acted to strengthen the economy to
+25                 a level whereby it was able to respond to financial and
+    60
+
+ 1           other crises.
+ 2               My Lady, I turn now to briefly address you on two
+ 3           issues in relation to this module, firstly the
+ 4           Treasury's role and approach to planning for a civil
+ 5           emergency, in other words the Treasury's plan; and,
+ 6           secondly, the Treasury's contribution more specifically
+ 7           to the United Kingdom Government's planning for
+ 8           a pandemic.
+ 9               Catherine Little's statement addresses both of these
+10          issues in detail and, my Lady, for that reason we don't
+11          propose to burden you with lengthy written submissions
+12          to supplement this oral submission, but we do commend to
+13          you her statement.
+14              I do intend to highlight certain aspects of the
+15          Treasury's general role in government, including its
+16          role in the United Kingdom's pre-pandemic emergency
+17          planning and also the involvement the Treasury had in
+18          that planning. We hope that the following summary of
+19          the Treasury's role in cross-government emergency
+20          planning and risk management, including pandemic
+21          planning and preparedness, is helpful.
+22              Emergency preparedness except in the case of
+23          a crisis originating in the financial system is not
+24          a lead responsibility of the Treasury. However,
+25          the Treasury has always engaged with the departments who
+    61
+
+ 1             are responsible for specific risk planning to provide
+ 2             targeted support in civil emergency preparedness where
+ 3             appropriate.
+ 4                 Like other government departments, the Treasury
+ 5             feeds in to the Cabinet Office National Security Risk
+ 6             Assessment, about which you have heard much, and the
+ 7             risks published on the National Risk Register. For the
+ 8             risks where the Treasury is the lead department, namely
+ 9             the economic and financial risks, the Treasury develops
+10             scenarios and determines the potential impacts and
+11             likelihood of the risk in question, and we've provided
+12             detailed statements of that for later modules. That was
+13             the case prior to the Covid-19 pandemic, and remains the
+14             case.
+15                 In the context of emergency planning, the Treasury's
+16             focus is inevitably, therefore, on economic risk
+17             management. Firstly, monitoring and responding to risks
+18             to the economy and public finances; secondly, monitoring
+19             and responding to risks to the stable operation of the
+20             United Kingdom financial system; and, thirdly, setting
+21             budgets and applying spending controls for government
+22             departments, associated bodies and the devolved
+23             administrations, the sober reality, of course, being
+24             that there is a finite amount of public money available.
+25                 As set out in Catherine Little's statement,
+    62
+
+ 1           the Treasury has a detailed and comprehensive risk
+ 2           management framework, including the Treasury economic
+ 3           risks, fiscal risks and financial stability groups,
+ 4           together with resilience and contingency planning units,
+ 5           which regularly assess, monitor and scrutinise risks to
+ 6           economic, financial and fiscal stability, and they draw
+ 7           on information and data from a wide range of sources and
+ 8           work with other organisations such as the
+ 9           Bank of England, the Prudential Regulation Authority,
+10          and the Financial Conduct Authority.
+11              The Treasury's work in this regard also has
+12          an international dimension. By way of example,
+13          the Treasury is the joint chair with the Foreign,
+14          Commonwealth and Development Office of the quarterly
+15          Global Economic Analysis and Risk Group, and this group
+16          works to ensure that there is sufficient focus on and
+17          analysis of important global economic issues and risks.
+18          It has previously, for example, included the health
+19          risks in relation to Ebola.
+20              In addition, the Treasury has regularly taken part
+21          in G20 discussions on civil emergencies and health
+22          threats.
+23              The Treasury's risk management framework undoubtedly
+24          benefitted significantly from the detailed review and
+25          the lessons learned exercise carried out in respect of
+    63
+
+ 1             the Treasury's handling of the 2008/2009 global
+ 2             financial crisis, the White review, to which you've been
+ 3             referred. This was commissioned in 2011 and it
+ 4             published its findings in 2012.
+ 5                 The review made 56 recommendations. By 2014,
+ 6             the Treasury had fully accepted and completed 46 of
+ 7             those, it had partially accepted and completed eight of
+ 8             those, and it rejected only two of those.
+ 9                 The implementation of these recommendations
+10             materially improved the Treasury's ability to react in
+11             a nimble and responsive way to new and fast changing
+12             priorities, including the Covid-19 pandemic.
+13                 In addition, both prior to and during the pandemic,
+14             the Treasury's internal risk management framework was
+15             supported by the Office for Budget Responsibility, the
+16             OBR, which is the government's official independent
+17             economic and fiscal forecaster. It's the -- and I hope
+18             I'm forgiven one abbreviation -- it is the OBR's
+19             statutory duty to examine and report on the
+20             sustainability of the United Kingdom's public finances.
+21             That's the duty which feeds directly in to
+22             the Treasury's fiscal objective to deliver sound and
+23             sustainable public finances. The OBR's regular fiscal
+24             risk report, introduced in response to recommendations
+25             included in a 2015 review by the Treasury of the OBR,
+    64
+
+ 1           has made a major contribution to the Treasury's wider
+ 2           risk management systems. Indeed, the International
+ 3           Monetary Fund has recognised that those reports "raised
+ 4           the bar on the assessment and quantification of fiscal
+ 5           risks to a new level that other countries should look to
+ 6           meet".
+ 7               In 2017, a new fiscal risks branch was established
+ 8           within the fiscal group to support the Treasury's
+ 9           increased engagement with the OBR on assessing financial
+10          risks, and the first report was published in 2017.
+11              One of the main lessons to emerge from the OBR's
+12          fiscal risk reports, and which has underpinned the
+13          government's fiscal strategy and the Treasury's approach
+14          to internal risk management, is the need to ensure that
+15          public finances are managed prudently during more
+16          favourable times to ensure that when economic risks do
+17          crystallise they do not put the public finances onto an
+18          unsustainable path.
+19              There is therefore, to state the obvious, a limit to
+20          what can be spent at any one time.
+21              It was the Treasury's position prior to the
+22          pandemic, and it remains the Treasury's position now,
+23          that the uncertain nature of economic shocks makes
+24          developing specific granular response plans for every
+25          possible contingency ahead of time difficult. We echo
+    65
+
+ 1             Mr Hill's submissions in that respect. Such plans would
+ 2             need continuous updates and may not ultimately prove to
+ 3             be directly applicable to the shocks that do emerge or
+ 4             crystallise.
+ 5                  The OBR published its third report in July 2021 and
+ 6             it's addressed in the statement of Richard Hughes to
+ 7             this Inquiry. That report specifically focused on and
+ 8             considered lessons learned from the pandemic. The OBR
+ 9             recognised with hindsight that the risk of a global
+10             pandemic received far too little attention from the
+11             economic community.
+12                  However, the OBR's focus was not on prescriptive
+13             scenario planning. Instead, it concluded that fiscal
+14             policy needs to be more nimble than previously thought,
+15             so as to be able to adapt quickly to the unexpected, and
+16             that -- and this is a quote again:
+17                  "In the absence of perfect foresight, fiscal space
+18             [by which I understand in simple terms it means a room
+19             for economic manoeuvre] may be the single most valuable
+20             risk management tool."
+21                  Without economic flexibility, it simply is not
+22             possible to respond to those risks whose size or timing
+23             is too uncertain to explicitly provision for in advance.
+24                  As George Osborne explained, a plan isn't worth the
+25             paper it's written on if it can't be paid for.
+    66
+
+ 1               A crucial part of any plan for any economic crisis,
+ 2           such as an economic crisis which may accompany
+ 3           a pandemic, is being able quickly and nimbly to scale up
+ 4           resource or surge public expenditure when necessary and
+ 5           as required to meet the specific economic and financial
+ 6           demands of the emergency.
+ 7               It is that economic flexibility which is also
+ 8           required when an emergency requires the scaling up
+ 9           described by Professor Sir Chris Whitty as being so
+10          important in responding to a health emergency such as
+11          a pandemic and this pandemic.
+12              The Treasury's role in setting budgets and
+13          controlling public spending is, in this context,
+14          an important part of its remit, and essential to
+15          maintaining sustainable and flexible public finances.
+16              Departmental budgets are set as a result of the
+17          spending review process which is overseen by
+18          the Treasury, and Catherine Little's statement explains
+19          this process in detail. However, it's ordinarily the
+20          Secretary of State for each department, on the advice of
+21          their officials, who is responsible for decisions on
+22          allocations within a department's budget.
+23              While the spending review generally covers only
+24          expenditure which can be reasonably planned in advance,
+25          the Treasury has always set aside contingency, called
+    67
+
+ 1             the reserve, for genuinely unforeseen, unabsorbable and
+ 2             unavoidable pressures. The Treasury then controls how
+ 3             this contingency is allocated.
+ 4                  Catherine Little also explains the funding
+ 5             arrangements for the devolved nations in annex G of her
+ 6             statement, and similarly to the UK departments the
+ 7             devolved administrations receive multi-year funding
+ 8             settlements at spending reviews. The amount of funding
+ 9             provided is largely determined by the long-standing
+10             Barnett formula. Devolved administrations can seek
+11             access to the reserve and access is judged on largely
+12             the same criteria as the United Kingdom government
+13             departments, but also considering the additional tools
+14             and powers open to them.
+15                  In the context of its risk management role
+16             the Treasury also wishes to assure the Inquiry that it,
+17             as no doubt all government departments do, carefully
+18             considers the equality impacts of its decision-making in
+19             accordance with its legal obligations and its strong
+20             commitment to equality issues.
+21                  My Lady, I now turn to summarise the role that
+22             the Treasury played in respect of pandemic preparedness
+23             in the period covered by Module 1.
+24                  Before the Covid-19 pandemic, as you know, pandemic
+25             preparedness was led by the Department of Health and
+    68
+
+ 1           Social Care together with the Civil Contingencies
+ 2           Secretariat in the Cabinet Office. The Treasury was not
+ 3           a lead department regarding pandemic preparedness.
+ 4           However, it did participate in and respond to influenza
+ 5           pandemic planning and the related exercises carried out
+ 6           by those departments with the lead responsibility and
+ 7           when asked to do so.
+ 8                At various points and in accordance with the expert
+ 9           advice at the relevant time, the Treasury undertook
+10          economic analysis to understand the impact of a pandemic
+11          flu scenario. For example, in 2006 the Treasury
+12          produced internal analysis of the impact of a future
+13          human flu pandemic on the economy following the avian
+14          influenza outbreak.
+15               Exercise Winter Willow in 2007, the Treasury
+16          actively supported this exercise, and in 2009/10, the
+17          swine flu outbreak, the Treasury was involved in
+18          reviewing the potential costs that could be associated
+19          with the varying degrees of that outbreak. And again,
+20          Exercise Cygnus in 2016, the Treasury focused on
+21          ensuring that government finances were resilient to the
+22          impact of a pandemic on the workforce and amending its
+23          processes accordingly in such an event.
+24               My Lady, the Treasury's attempts to gauge the
+25          potential scale of the economic impact of a pandemic
+    69
+
+ 1                serve to highlight the significant uncertainties in the
+ 2                analysis, such as the severity of the illness, the
+ 3                proportion of the workforce affected, the amount of time
+ 4                individuals might be affected by the virus, and the
+ 5                behavioural response of individuals. These were all
+ 6                identified as factors that resulted in a high degree of
+ 7                uncertainty.
+ 8                     This uncertainty highlights both the difficulty
+ 9                associated with the preparation of specific contingent
+10                plans for dealing with potential economic shocks and the
+11                importance of being able to respond quickly and flexibly
+12                when economic shocks crystallise.
+13                     This economic analysis by the Treasury was plainly
+14                not directed towards a global pandemic of the scale
+15                which struck the world in early 2020. It did help
+16                provide an analytical framework through which
+17                the Treasury could rapidly assess, based on very limited
+18                or initially very limited scientific and economic data,
+19                the potential impacts of the Covid-19 pandemic as it
+20                emerged in early 2020.
+21                     Catherine Little's statement also details the
+22                consideration given by the Treasury to funding requests
+23                related to pandemic planning. The evidence indicates
+24                that the Treasury has been receptive to and supportive
+25                of such requests. The evidence also indicates how
+    70
+
+ 1           the Treasury has been receptive to and supportive of
+ 2           requests for funding to develop the United Kingdom's
+ 3           scientific research and development capability, which
+ 4           became is so important during the pandemic for the
+ 5           purpose of developing a vaccine and has been
+ 6           acknowledged by the TUC as at least something that we
+ 7           got right.
+ 8                My Lady, in terms of lessons learned, as
+ 9           Catherine Little's statement explains, the Treasury,
+10          along with other departments, has learned much from the
+11          pandemic, and is seeking to drive change and
+12          improvement, and will listen carefully to the
+13          recommendations of this Inquiry.
+14               To date, some of the lessons that we've learnt
+15          include a need to strengthen and improve the consistency
+16          of the Treasury's risk reporting. In autumn of 2021,
+17          the Government updated the charter for budget
+18          responsibility to require the OBR to produce an annual
+19          report on sustainability of and the risks to the public
+20          finances, and that permitted the OBR to take a more
+21          flexible approach to determining its content and
+22          reporting to the Treasury and to government.
+23               Thirdly, we've learnt that we need to manage fraud
+24          risk, such as through the launch of the Public Sector
+25          Fraud Authority in August of last year.
+    71
+
+ 1                     Finally, we have learnt the need to make
+ 2                improvements regarding the risk management framework,
+ 3                with a focus on the need to address challenges
+ 4                associated with cross-government decisions and
+ 5                responsibilities, and we seek and will continue to seek
+ 6                to improve our ways of working to discharge our function
+ 7                and protect the United Kingdom economy as best as we are
+ 8                able.
+ 9                     My Lady, finally, we're grateful for the opportunity
+10                to assist the Inquiry in respect of Module 1 and to
+11                address you, and we wish to conclude these submissions
+12                by assuring you of our assistance in your future modules
+13                and work. Thank you.
+14             LADY HALLETT: Thank you, Mr Block.
+15                     Ms Murnaghan.
+16             Submissions on behalf of the Department of Health Northern
+17                               Ireland by MS MURNAGHAN KC
+18             MS MURNAGHAN: Good morning, my Lady. I make this closing
+19                statement on behalf of the Northern Ireland Department
+20                for Health, which I'll refer to as "the department".
+21                     My Lady, the purpose of this closing statement is to
+22                assist the Inquiry in respect of nine identified issues,
+23                which we feel may require further clarification as
+24                a result of the evidence which has been given during
+25                these hearings.
+    72
+
+ 1               The first of those issues, my Lady, is that of the
+ 2           updating of the 1967 Public Health Act, and, firstly,
+ 3           the department would like to emphasise that the proposal
+ 4           to pause work on updating the 1967 Public Health Act was
+ 5           made in the context of other priorities and pressures at
+ 6           that time.
+ 7               The updating work had been initially intended to
+ 8           broaden the scope of the Act from having a primary focus
+ 9           on infectious diseases to an all-hazards approach.
+10              My Lady will see, of course, that from the
+11          contemporaneous emails of Professor Sir Michael McBride
+12          that this agreement was only reluctantly given, in light
+13          of the more immediate priorities at that particular
+14          juncture. Indeed, the subsequent collapse of
+15          the Executive would have prevented further work and
+16          progress on this in any event.
+17              Notwithstanding the decision to pause that work,
+18          significant work had been taken forward in
+19          Northern Ireland during 2018 and 2019 to develop
+20          Northern Ireland clauses for inclusion in a draft UK
+21          pandemic flu Bill. This work sought to address the gaps
+22          that had been identified in the Northern Ireland's 1967
+23          Public Health Act, and indeed this work was extensively
+24          drawn upon when the -- and informed the making of the
+25          2020 Coronavirus Act.
+    73
+
+ 1                 It is also of course the case that, contrary to the
+ 2             evidence that was given to the Inquiry by
+ 3             Mr Aidan Dawson on behalf of the Northern Ireland Public
+ 4             Health Agency, that amendments to the list of notifiable
+ 5             diseases could be made at any time, and in fact this was
+ 6             the case during the Covid-19 pandemic, when the
+ 7             causative virus was made a notifiable disease.
+ 8                 The department would also like to point out that
+ 9             there has been at times during the hearing the
+10             perception that there has been a conflation and
+11             confusion in relation to the UK Civil Contingencies Act
+12             and the Northern Ireland Public Health Act. Of course
+13             these are two separate pieces of primary legislation.
+14                 The second issue, my Lady, that we would like to
+15             address is that of potential issues which may remain in
+16             relation to the department's corporate risk register.
+17             Regrettably, the most recent iteration of the
+18             department's risk register, which showed the actions
+19             completed, had erroneously not been provided to
+20             the Inquiry at the point when our witnesses gave their
+21             evidence. This oversight, my Lady, has now been
+22             remedied and the department would ask that any
+23             recommendations made by the Inquiry would refer,
+24             of course, to the most recent and relevant iteration of
+25             that register.
+    74
+
+ 1               Further, we would hope that the context and scope of
+ 2           the departmental risk register should be considered.
+ 3           Risk registers are living documents and they comprise
+ 4           identified corporate risks which are considered as
+ 5           having the potential to impact on the department's
+ 6           ability to deliver on its objectives.
+ 7               The risk register of course does not reflect risks
+ 8           that have actually materialised, but rather represent
+ 9           risks which the department has identified that may
+10          happen and the high level actions that the department
+11          will take to mitigate the risk of same.
+12              The departmental risk register is reviewed quarterly
+13          at three distinct stages, and is also separately
+14          considered by the departmental audit and risk assurance
+15          committee, who will advise in turn the
+16          permanent secretary on the adequacy of the
+17          representation of the risk and the actions to manage and
+18          mitigate.
+19              At no stage is there any expectation that the
+20          minister should review or supervise the risk register.
+21          As such, the failure to reiterate risks from the risk
+22          register in the minister's first day brief should not be
+23          regarded, we say, as a point of criticism, particularly
+24          given that the first day brief is extensively elaborated
+25          on in the minister's subsequent meetings with the
+    75
+
+ 1             respective policy leads in the first few days and weeks
+ 2             of his appointment.
+ 3                 The third issue, my Lady, we would like to address
+ 4             is that of the perception that there were concerns that
+ 5             the department had not acted on the Bengoa report.
+ 6             Indeed, a ten-year approach to transforming health and
+ 7             social care in Northern Ireland, which was entitled
+ 8             Health and Wellbeing 2026: Delivering Together was
+ 9             launched in October 2016. The Delivering Together
+10             project was in response to three significant reports,
+11             the first being the Bengoa report, the second the
+12             Transforming Your Care report, and the third, of course,
+13             being Sir Liam Donaldson's report.
+14                 Work began on that project in November 2016, and in
+15             the absence of our Northern Irish Assembly, senior
+16             departmental officials continued to provide strategic
+17             leadership and oversight in the design, development and
+18             implementation of the transformation strategy.
+19                 In that context, 18 key deliverables were identified
+20             for the Delivering Together project, and reports had
+21             been published in 2017, May 2019 and June 2021. These
+22             18 actions were all considered as being achieved in as
+23             far as possible within the decision-making context and
+24             the financial constraints of the time.
+25                 Notwithstanding this, of course, it was always
+    76
+
+ 1           acknowledged that full implementation of the
+ 2           transformation strategy required both sustained
+ 3           investment and decisions that would rightly fall within
+ 4           the purview of the ministers.
+ 5               The fourth issue, my Lady, is that of the impact of
+ 6           single-year bundles. The department would like to
+ 7           clarify that the evidence of the former health minister,
+ 8           Mr Robin Swann, in relation to single-year budgets did
+ 9           not mean that the department was only able to make
+10          short-term decisions in relation to healthcare. In the
+11          hiatus period the department was able to make some
+12          long-term decisions in respect of major capital
+13          programmes, amongst which was the establishment of the
+14          critical care building at the Royal Victoria Hospital
+15          and the introduction of the largest digital project in
+16          Northern Ireland, entitled Encompass.
+17              Despite these actions, it is, of course,
+18          incontrovertible that the absence of multi-year budgets
+19          reduced the certainty with which longer-term planning
+20          could take place and created a greater short-term focus
+21          than was otherwise desirable.
+22              Of course, my Lady, officials operate under the
+23          direction and control of the relevant departmental
+24          minister. In Health, both officials and the minister
+25          have responsibilities set out in statute in the Health
+    77
+
+ 1             and Social Care (Reform) Act (Northern Ireland) 2009.
+ 2             In brief compass, these responsibilities are to effect
+ 3             the health and wellbeing of the population and to secure
+ 4             the continuity of health services.
+ 5                 These responsibilities cannot be passive or reactive
+ 6             in nature, but rather must be performed to their full
+ 7             extent to ensure that the public has the protection that
+ 8             they rightly expect and deserve.
+ 9                 The fifth issue that I'd like to discuss, my Lady,
+10             is that of departmental structures, and the department
+11             would like to address issues which arose in relation to
+12             the extensive and complex structures for emergency
+13             planning and preparedness in Northern Ireland, and the
+14             observation that had been made that these could be seen
+15             as overly complex.
+16                 While of course the department is open to better
+17             ways of organising these arrangements, it is considered
+18             that there is no one ideal structure. The department
+19             does not consider that there was a fundamental
+20             structural problem. Rather, it considered that what
+21             mattered more is that of functionality and that those
+22             individuals who operate within the extant arrangements
+23             understood their respective roles and responsibilities.
+24                 In the Northern Ireland context, it is considered
+25             that these advisory groups and structures are important,
+    78
+
+ 1           in that they bring together individuals across separate
+ 2           organisations in order to work collectively on aspects
+ 3           of emergency preparedness and planning. These
+ 4           arrangements are, by necessity, complicated and, to the
+ 5           uninitiated, may appear complex. That said, these
+ 6           interactions are considered to be fundamental and
+ 7           necessary to ensure resolved consideration across
+ 8           separate organisations and expert groups.
+ 9               Furthermore, it is considered that there is a good
+10          level of accountability for aspects of health and social
+11          care, including emergency preparedness. Planning in
+12          Northern Ireland is necessarily delegated to boards of
+13          arm's length bodies who are in turn accountable to the
+14          department through extant arrangements of departmental
+15          sponsorship and mid and end-year accountability reviews.
+16              Accountability within the department means, in
+17          practice, that respective directors and departmental
+18          group leads will provide assurance to the
+19          permanent secretary. These arrangements are long
+20          established and well understood.
+21              The sixth issue is that of emergency planning.
+22          The Inquiry Counsel at times asserted that the
+23          department's emergency response plan was based on
+24          outdated and faulty thinking in its focus on pandemic
+25          influenza.
+    79
+
+ 1                 The department would like to emphasise that this
+ 2             response, the emergency response plan, was not of itself
+ 3             specific to pandemic influenza or even to pandemics, but
+ 4             rather it was designed to allow an appropriate response
+ 5             to be made to an emergency of any sort which impacted on
+ 6             health and social care, including infectious diseases.
+ 7                 The health service and the department have
+ 8             long-standing and well rehearsed plans to respond to all
+ 9             emergencies, irrespective of the threat or the hazard.
+10             As such, this planning and preparation is agnostic as
+11             regards to the cause of the hazard, and is designed to
+12             ensure an appropriate and proportionate response at all
+13             levels. This could range from responding to a local and
+14             contained emergency up to and including an emergency
+15             which would require cross-government response and
+16             triggering of the civil contingency arrangements.
+17                 Of course, as the Inquiry has heard over these
+18             hearings in recent weeks, it is necessarily preferable
+19             to have an approach with flexible capabilities that
+20             could be deployed in response to any pandemic. While
+21             some of the elements of the UK influenza pandemic plan
+22             were beneficial, it clearly had deficiencies in
+23             providing a response to the Covid-19 pandemic.
+24             Capabilities should be generic enough to allow
+25             a response to a range of potential pathogens and modes
+    80
+
+ 1           of transmission, agile enough to be scaled up quickly
+ 2           enough to contain spread, and specific enough, with
+ 3           tailored control measures, when there is a better
+ 4           understanding of the pathogen.
+ 5               These are all lessons which Northern Ireland and the
+ 6           department can reflect on in future approaches to
+ 7           planning and preparation.
+ 8               Further, notwithstanding the importance of a general
+ 9           pandemic plan, it is nonetheless considered essential
+10          that Northern Ireland would maintain a pandemic plan for
+11          influenza, given its continued propensity to cause
+12          outbreaks with significant morbidity and mortality.
+13              The seventh issue, my Lady, is that of the reviews
+14          that had been carried out via the silver debrief and the
+15          gold independent inflight review in the very early
+16          stages of the pandemic in Northern Ireland.
+17              In such a high pressurised, fast-moving and dynamic
+18          situation, communications are always challenging, and it
+19          was in this context that issues were raised about PPE
+20          which led to the suggestion that some had failed to
+21          appreciate that the emergency PPE stockpile did not form
+22          part of the day-to-day supply chain.
+23              In his evidence, Mr Pengelly confirmed that no
+24          concerns had been brought to his attention about the
+25          management of the emergency stockpile of PPE prior to
+    81
+
+ 1             the pandemic. The PPE stockpile in Northern Ireland was
+ 2             effectively used during the pandemic to supplement and
+ 3             to support the main PPE supply, not only to trusts but
+ 4             also to social care, primary care and emergency dental
+ 5             services during the early response to the pandemic.
+ 6                 The eighth issue I'd like to touch on, my Lady, is
+ 7             that of north-south collaboration. The department's
+ 8             evidence demonstrated the extent of collaboration with
+ 9             its Irish counterparts, but of course it is to be
+10             recalled that any formal policy, if it is to encompass
+11             a five nation, two-island approach, will be a matter
+12             necessarily for the UK and Irish governments, rather
+13             than being a matter for the department.
+14                 The ninth and final issue, my Lady, is that of
+15             whether there should be a chief scientific adviser in
+16             Northern Ireland, and we say that this is essentially
+17             a matter for the Executive Office. However, the
+18             department does wish to point out that Professor Young
+19             provided input and advice as required and on a number of
+20             areas to the Department of Health. The fact that
+21             the Executive did not ask Professor Young for scientific
+22             advice from 2015 should not be interpreted as inexorably
+23             meaning that Northern Ireland was inadequately served by
+24             the provision of scientific advice in a way which
+25             detracted from its ability to respond to the challenges
+    82
+
+ 1           posed by this pandemic.
+ 2               The Northern Ireland Covid Bereaved Families raised
+ 3           the issue of the limited participation of the
+ 4           department's Chief Scientific Adviser in the UK CSA
+ 5           network. However, it should be noted that the absence
+ 6           of the department's scientific adviser from that network
+ 7           did not mean that the department was unable to access
+ 8           its advice.
+ 9               It is also the fact that the issue of participation
+10          is outwith the scope of those in Northern Ireland and,
+11          rather, rests at the discretion of the UK Government
+12          Chief Scientific Adviser.
+13              Indeed, the Department of Agriculture, Environment
+14          and Rural Affairs, the CSA for that department in
+15          Northern Ireland acted as the single point of contact
+16          for Northern Ireland in the network, and he was able to
+17          pass papers to Professor Young.
+18              It is also, we say, apposite to note the scope of
+19          what happened at those CSA meetings. They were
+20          informal, regular meetings but significantly were not
+21          part of central government emergency planning or
+22          decision-making or advisory structures, in preparation
+23          to or in response to the Covid-19 pandemic.
+24              Additionally, it should be noted that throughout
+25          the pandemic Professor Young attended the UK SAGE
+    83
+
+ 1             meetings and other relevant UK fora. He was able to
+ 2             provide advice to our Chief Medical Officer and the
+ 3             health minister as appropriate. He attended meetings
+ 4             with the Northern Ireland Executive ministers and
+ 5             officials from other departments, participated in
+ 6             communications and briefings to the media, the public
+ 7             and other stakeholders, and established and chaired the
+ 8             department's strategic intelligence group and modelling
+ 9             group.
+10                 My Lady, to conclude, the department of course
+11             recognises that, with the benefit of experience of the
+12             Covid-19 pandemic and its particular challenges,
+13             Northern Ireland could have been better prepared. It is
+14             also mindful, however, that, without this experience, it
+15             was very challenging to be ready to meet every
+16             eventuality. In a range of ways, very substantial
+17             efforts had been made to ensure that the department was
+18             adequately prepared, with many of those involved showing
+19             dedication and commitment to achieving the best possible
+20             outcomes whilst simultaneously addressing very
+21             significant non-pandemic issues facing health and social
+22             care in Northern Ireland.
+23                 However, insofar as more could have been done, that
+24             is a matter of profound regret. The department
+25             reiterates its sincere commitment to learning lessons
+    84
+
+ 1               from the devastating impact of the Covid-19 pandemic
+ 2               such that it might mitigate the enduring consequences
+ 3               that continue to be experienced by our health service
+ 4               and our community. To this end, the department hopes
+ 5               that the Inquiry will be able to identify learnings and
+ 6               recommendations to help shape future responses,
+ 7               particularly given the ever-present potential that
+ 8               another pandemic may arise, the exact timing and nature
+ 9               of which will be unknown.
+10                  Finally, the department wishes again to convey our
+11              deepest sympathies to those bereaved during the course
+12              of this pandemic.
+13                  Thank you.
+14          LADY HALLETT: Thank you very much for your help.
+15                  Ms Studd.
+16          Submissions on behalf of the Cabinet Office by MS STUDD KC
+17          MS STUDD: My Lady, the Cabinet Office welcomes the
+18              opportunity to make an oral closing statement --
+19          LADY HALLETT: I don't know, is the microphone on?
+20          MS STUDD: It is on.
+21          LADY HALLETT: Is it?
+22          MS STUDD: Can you hear me now?
+23          LADY HALLETT: Try again.
+24          MS STUDD: Can you hear me?
+25          LADY HALLETT: Yes.
+    85
+
+ 1             MS STUDD: The Cabinet Office welcomes the opportunity to
+ 2                 make an oral closing statement, and we continue to
+ 3                 support the important work of this Inquiry. We have
+ 4                 listened with care to the evidence of all the witnesses
+ 5                 who have appeared before you over the last six weeks.
+ 6                 In this oral statement, we will review some of the key
+ 7                 evidential themes which you have been considering.
+ 8                     The first is understanding risk. In terms of risk
+ 9                 methodology, evidence has rightly covered the National
+10                 Risk Assessment and the National Security Risk
+11                 Assessment process, and in particular the way in which
+12                 pandemic influenza and emerging infectious disease were
+13                 considered in those documents.
+14                     The inclusion of pandemic influenza as one of the
+15                 most significant risks on the risk matrix reflected
+16                 an objective and widely held assessment of the risk that
+17                 it posed, and as you have heard in evidence it continues
+18                 to pose to this country.
+19                     Rightly, the experience of the pandemic has prompted
+20                 change, which we've already put into effect. The
+21                 Cabinet Office has made the most significant reforms to
+22                 the National Security Risk Assessment since its
+23                 foundation in the early 2000s. Where appropriate, the
+24                 National Security Risk Assessment now considers multiple
+25                 scenarios to reflect the different ways in which risks
+    86
+
+ 1               could manifest. For example, in the 2002 National
+ 2               Security Risk Assessment, pandemic risk now reflects
+ 3               a broader range of infectious disease.
+ 4                   The Cabinet Office recognises the uncertainty which
+ 5               is inherent in risk assessment and preparedness, and
+ 6               endorses the value of building flexibility, innovative
+ 7               thinking and diverse perspectives into its planning
+ 8               system. A future pandemic could be very different, so
+ 9               we must be able to adapt to novel risks and challenges.
+10              This is how, for example, we define the National
+11              Resilience Planning Assumptions in the National Security
+12              Risk Assessment to help emergency planners understand
+13              and prepare for the common consequences of risk.
+14                  The Cabinet Office has also increased the
+15              opportunities for expert input into the risk assessment
+16              process, especially from external experts.
+17                  We would also draw the Inquiry's attention to the
+18              planned publication of the latest National Risk Register
+19              this summer, which is the government's most transparent
+20              approach to date for publicly sharing information about
+21              risk, and ensures that we continue to be open to
+22              external challenge and input.
+23                  The second evidential theme concerns communities and
+24              putting equality considerations at the heart of the
+25              Resilience Framework.
+    87
+
+ 1                     The Cabinet Office has noted the interest of the
+ 2                 Inquiry in the issue of the pandemic's disproportionate
+ 3                 impact on particular groups. The Resilience Framework
+ 4                 sets out our ambition to transform resilience and adopt
+ 5                 a whole-society approach, with communities, members of
+ 6                 the public and businesses engaged in making decisions
+ 7                 about managing risk. It makes a specific commitment to
+ 8                 better identify and support at-risk groups and seeks
+ 9                 voluntary and community sectors' integration into the
+10                 work, with stronger local resilience fora working with
+11                 us to help prevent, prepare for, respond to and recover
+12                 from risks that the UK faces.
+13                     The United Kingdom Resilience Forum process
+14                 stimulates additional opportunities for input from
+15                 national, regional and local government, private and
+16                 voluntary sectors, and other interested parties. It is
+17                 right that we invite external challenge and obtain
+18                 different perspectives on what resilience means to all
+19                 parts of the population.
+20                     Data is key to understanding how different groups
+21                 are affected in a disaster and the causes of any
+22                 disparity. The Cabinet Office is reforming the way it
+23                 utilises data and analytics, to prepare for and respond
+24                 to crises through the National Situation Centre. We are
+25                 developing a measurement of socio-economic resilience,
+    88
+
+ 1           including evaluating how risk impacts across communities
+ 2           and vulnerable groups to guide and inform
+ 3           decision-making on risk and resilience. These plans are
+ 4           in development and much work remains to be done.
+ 5                The third evidential theme is responsibility and
+ 6           accountability. The Inquiry has asked many questions
+ 7           about the perceived complexity of the government's
+ 8           structures for resilience and emergency management. The
+ 9           Deputy Prime Minister and Chancellor of the Duchy of
+10          Lancaster holds overall responsibility for national
+11          resilience and chairs the national security committee
+12          resilience subcommittee. This is a new ministerial
+13          forum to take decisions on resilience and preparedness.
+14               The Cabinet Office's intention in the Resilience
+15          Framework is to ensure that roles are simplified and
+16          clarified as much as possible. This is a wide-ranging
+17          and complex subject area, with many organisations
+18          involved, representing the full span of the public,
+19          private and voluntary sectors.
+20               However, notwithstanding that, the Cabinet Office's
+21          reflection on the evidence heard by the Inquiry is that
+22          the structures are well embedded and generally well
+23          understood by those who are working within them. The
+24          Cabinet Office will obviously consider carefully any
+25          conclusions or recommendations from the Inquiry on the
+    89
+
+ 1             structures around resilience.
+ 2                  Under the lead government department model,
+ 3             the Inquiry has heard it was the lead government
+ 4             department which took the lead in preparing for any
+ 5             risk. The role of the Cabinet Office at the centre of
+ 6             government was to provide support, co-ordinate and
+ 7             direct resources as appropriate. The Inquiry has
+ 8             explored the appropriateness of that model. Some
+ 9             witnesses consider that preparedness under this model
+10             did not anticipate the cross-cutting nature of
+11             a response to the pandemic, including the need for
+12             non-pharmaceutical measures such as national lockdown,
+13             furlough, prolonged school closures, or the preparation
+14             of the population for measures such as mask wearing.
+15                  However, the Inquiry has also heard the approaches
+16             to pandemic planning did reflect the scientific
+17             consensus at the time and took account of the
+18             contemporaneous international guidance and practice.
+19                  The Cabinet Office remains of the view that the lead
+20             government department model is an appropriate way of
+21             allocating principal responsibility. The relevant
+22             departments have the expertise for what is inevitably
+23             a diverse portfolio of risks. It is the lead department
+24             that has the relationships and the levers to be best
+25             equipped to lead the response. But it is recognised
+    90
+
+ 1           that the lead government department model needs to be
+ 2           strengthened, with the Cabinet Office providing greater
+ 3           clarity in relation to the responsibility for risks,
+ 4           including those which are more complex and cut across
+ 5           departmental boundaries.
+ 6                The Cabinet Office's Resilience Directorate will
+ 7           proactively seek to ensure that cross-cutting work is
+ 8           carried out and tested with lessons from recent national
+ 9           exercises.
+10               In addition, the Inquiry has heard evidence of the
+11          various steps the Cabinet Office took to assist local
+12          resilience forums in gaining assurance, including the
+13          promulgation of resilience standards in 2018 and 2019.
+14          The Resilience Framework sets out further steps that the
+15          Cabinet Office and Department for Levelling Up, Housing
+16          and Communities are taking by way of investing into and
+17          strengthening the local resilience fora. Similar
+18          standards and assurance will be extended to the public
+19          health sector.
+20               In addition, the United Kingdom Government continues
+21          to work closely with the devolved administrations to
+22          promote effective emergency planning whilst respecting
+23          the devolved settlements.
+24               Resilience planning has to be rooted in the real
+25          world and focused on where the greatest risk lies.
+    91
+
+ 1             Spending on preparedness comes at a cost and has to be
+ 2             balanced with spending on other important areas.
+ 3             Flexibility is essential to resilience.
+ 4                  The Inquiry has spent considerable time considering
+ 5             evidence about the impact on pandemic preparedness of
+ 6             planning for the no-deal exit from the EU,
+ 7             Operation Yellowhammer. A number of witnesses
+ 8             considered that significant parts of
+ 9             Operation Yellowhammer work were of assistance during
+10             the Covid-19 pandemic and ensured that we were
+11             match fit.
+12                  Operation Yellowhammer was a very substantial
+13             investment in the United Kingdom resilience capabilities
+14             and the government's understanding of the resilience of
+15             our society and of our economy. This included
+16             stocktakes of supply chains, including medical supply
+17             chains, readiness for problems at the borders, the
+18             setting up of departmental operational centres, and
+19             daily ministerial meetings on preparedness. Extra staff
+20             were recruited and trained in crisis management who were
+21             then redeployed to support our response to the emerging
+22             Covid-19 pandemic when the threat of no-deal had passed.
+23             All of this was invaluable.
+24                  The Cabinet Office has reflected on how the
+25             department maintains focus on longer term resilience
+    92
+
+ 1               while also responding to crises and near term events.
+ 2                    The Inquiry has heard that several changes have been
+ 3               made, including the separation of roles into the
+ 4               Resilience Directorate and the COBR unit. Political and
+ 5               public interest in resilience will be a central driver
+ 6               of improved future outcome. Starting this autumn, there
+ 7               will be an annual statement of civil contingencies risk
+ 8               and the UK's performance on resilience made to
+ 9               Parliament. There will also be an annual survey of
+10              public perceptions of risk, resilience and preparedness.
+11              With this momentum, resilience issues will remain at the
+12              top of the agenda, and the system will remain
+13              accountable to Parliament and to the public.
+14                   These reforms are significant. They provide this
+15              country's resilience with new leadership, focus and
+16              direction, and go well beyond the Cabinet Office's
+17              traditional role. They will require the government and
+18              others to consider the risks we face as a society, how
+19              to prepare for them, and how to respond to them, taking
+20              into account the very powerful evidence of the bereaved
+21              that we heard yesterday. As we must never forget, at
+22              the heart of all this there is a human cost.
+23                   The government looks forward to the Inquiry's
+24              observations and recommendations and will continue to
+25              support it in its vital work.
+    93
+
+ 1             LADY HALLETT: Thank you very much indeed, Ms Studd.
+ 2                                        Closing remarks
+ 3             LADY HALLETT: Mr Keith, I think that completes the closing
+ 4                 submissions.
+ 5             MR KEITH: It does indeed.
+ 6                      My Lady, may I just raise the important issue of the
+ 7                 publication of material that is relevant to
+ 8                 the Inquiry's work in Module 1.
+ 9                     As you know, a number of documents have been adduced
+10                 in evidence, either because they've been brought up on
+11                 the screen during the hearing or because you've already
+12                 given permission for them to be published, but you will
+13                 inevitably be drawing upon a wider body of material for
+14                 the purposes of your report writing.
+15                      So may I therefore seek your permission to publish,
+16                 firstly, around 560 documents which the Inquiry team has
+17                 identified as being necessary for the Inquiry to publish
+18                 in connection with your forthcoming work on the report
+19                 writing in Module 1?
+20                      The list of those documents -- and they comprise
+21                 things such as policy papers, presentations, minutes of
+22                 meetings, reviews, reports into exercises, reports on
+23                 exercises, emails, risk registers and reports from
+24                 NGOs -- will be provided to the core participants,
+25                 of course.
+    94
+
+ 1                    Secondly, there are around 135 statements of
+ 2               witnesses who have not given oral evidence but whose
+ 3               statements we consider it will be necessary -- to some
+ 4               extent, rather -- to refer to in your report.
+ 5                    So may I have permission for those two bodies of
+ 6               material to be published?
+ 7           LADY HALLETT: You may.
+ 8           MR KEITH: My Lady, that does indeed conclude Module 1.
+ 9               Of course you will be resuming the evidential hearings
+10              in Module 2 on Tuesday, 3 October.
+11          LADY HALLETT: Not so fast, Mr Keith, I think Mr Weatherby
+12              wants to say something.
+13          MR WEATHERBY: Yes, I'm sorry, very briefly. I wasn't aware
+14              that Mr Keith was going to mention the documents. Could
+15              we have a little time, with our closing submissions, to
+16              perhaps add to that list? That would assist --
+17          LADY HALLETT: Yes, of course. Send any thoughts through,
+18              Mr Weatherby, of course.
+19          MR WEATHERBY: Thank you very much.
+20          MR KEITH: That's it.
+21          LADY HALLETT: Well, thank you all very much indeed. We've
+22              now completed the hearings for Module 1, resilience and
+23              preparedness for the pandemic, in just over a year from
+24              the day of our official start. Given the amount of
+25              material that's had to be gathered and then analysed,
+    95
+
+ 1                 I think that's a huge achievement, and I owe a great
+ 2                 debt of gratitude to a lot of people -- many of whom are
+ 3                 in this room today, but many who are elsewhere -- and
+ 4                 without your significant work, we couldn't have got this
+ 5                 far this quickly. I think it is a great credit to
+ 6                 everybody involved, material providers, the lawyers, the
+ 7                 paralegals, the secretariats for all different
+ 8                 organisations, that we have got this far.
+ 9                      I'd also like to praise the members of the public
+10                 who have attended, I think one of whom has been here
+11                 virtually, if not every day -- I think every day. So
+12                 especially the bereaved, obviously, they have acted with
+13                 great dignity in the hearing room. I know that feelings
+14                 are running very high at times and I would like to
+15                 thank you for your composure and your dignity in
+16                 appreciating the formality of the proceedings in the
+17                 hearing room. So thank you all very much.
+18                      The next stage for the Inquiry team is to start
+19                 drafting -- I think drafting has probably already
+20                 started in some respects -- and finalising the report
+21                 for Module 1. As I have made clear many times, I intend
+22                 to finalise it and publish it as soon as possible.
+23                      There's obviously a very great deal of material to
+24                 consider, and so I will ensure that it's published --
+25                 the hope is that it will be published by early summer
+    96
+
+ 1               next year. If we could do it any quicker, obviously we
+ 2               will, but given the amount we have to go through, we
+ 3               will have to see.
+ 4                   Anyway, that is my hope and my plan, because -- as
+ 5               I think it was Ms Marsh-Rees said yesterday -- the
+ 6               sooner I can get any recommendations, if I make any,
+ 7               public, then the sooner they may be implemented and the
+ 8               sooner they may have an effect.
+ 9                   So thank you all very much, for those who have
+10              followed online, for those who have been here, and for
+11              the participants and the lawyers involved. Thank you.
+12          (12.43 pm)
+13             (The hearing adjourned until Tuesday, 3 October 2023)
+14       
+15       
+16       
+17       
+18       
+19       
+20       
+21       
+22       
+23       
+24       
+25       
+    97
+
+ 1                                                     INDEX
+ 2             Submissions on behalf of the British .....................             1
+ 3                    Medical Association by MR STANTON
+ 4
+ 5             Submissions on behalf of the Trades Union ..............              14
+ 6                    Congress by MR JACOBS
+ 7
+ 8             Submissions on behalf of the Local .....................              34
+ 9                    Government Association and Welsh Local
+10                    Government Association by MR ALLEN KC
+11
+12             Submissions on behalf of the Government ...............               47
+13                    Office for Science by MR HILL
+14
+15             Submissions on behalf of His Majesty's ..................             58
+16                    Treasury by MR BLOCK KC
+17
+18             Submissions on behalf of the Department ...............               72
+19                    of Health Northern Ireland by MS
+20                    MURNAGHAN KC
+21
+22             Submissions on behalf of the Cabinet ...................              85
+23                    Office by MS STUDD KC
+24
+25             Closing remarks ......................................                94
+    98
+
