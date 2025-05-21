@@ -681,7 +681,10 @@ Dr Goodall, it is this: it appears from material that the Chief Scientific Advis
 
 **Ms Blackwell**: My Lady, may I please call Dr Quentin Sandifer OBE.
 
-DR QUENTIN SANDIFER (sworn).
+Dr Quentin Sandifer
+-------------------
+
+*DR QUENTIN SANDIFER (sworn)..*
 
 Questions From Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -694,7 +697,7 @@ There we are.
 
 You signed this statement on 27 February this year. Can you confirm, please, that it's true to the best of your knowledge and belief?
 
-**Dr Andrew Goodall**: Yes.
+**Dr Quentin Sandifer**: Yes.
 
 **Ms Blackwell**: Thank you.
 
@@ -708,35 +711,35 @@ We can take that down, thank you.
 
 I'd like to begin by establishing through you, Dr Sandifer, the creation of Public Health Wales. It was formulated in 2009 by the Minister of Health and Social Services, following a review of public health functions undertaken in 2006; is that right?
 
-**Dr Andrew Goodall**: That's correct.
+**Dr Quentin Sandifer**: That's correct.
 
 **Counsel Inquiry**: Thank you.
 
 The functions of Public Health Wales are three-fold: it provides data and science-based leadership, specialising in public health expertise and co-ordination and advice, and is a delivery of key public health services; second, it works closely with public health boards, local authorities and other partners, including education and housing; and, third, it protects and improves the health and well-being and seeks to reduce health inequalities. Is that right?
 
-**Dr Andrew Goodall**: That's correct.
+**Dr Quentin Sandifer**: That's correct.
 
 **Counsel Inquiry**: Thank you.
 
 The structure of Public Health Wales has a senior management team that has changed in certain respects since its incorporation in 2009, but the chief executive since 2014 has operated a corporate level business executive team structure, where collective decision-making at a corporate level is a key feature, in addition to each director having clear accountability and responsibility for a specific portfolio; is that right?
 
-**Dr Andrew Goodall**: That's correct.
+**Dr Quentin Sandifer**: That's correct.
 
 **Counsel Inquiry**: The second key role is that of National Director of Health Protection and Screening Services and Medical Director, a title which was previously known as the Executive Director of Public Health Services, Medical Director.
 
-**Dr Andrew Goodall**: That's correct, and I held that latter title from October 2012 until December 2020.
+**Dr Quentin Sandifer**: That's correct, and I held that latter title from October 2012 until December 2020.
 
 **Counsel Inquiry**: Thank you.
 
 In your role at executive level responsibility, which we'll go into in more detail throughout the course of your evidence this morning, is it right that you have now become a consultant adviser for pandemic and international health for Public Health Wales?
 
-**Dr Andrew Goodall**: Yes, following my retirement in December 2020, I returned in 2021 and undertook that contracted consultancy role on a part-time basis.
+**Dr Quentin Sandifer**: Yes, following my retirement in December 2020, I returned in 2021 and undertook that contracted consultancy role on a part-time basis.
 
 **Counsel Inquiry**: Thank you.
 
 I want to turn for a moment to deal with the funding of Public Health Wales, and to confirm with you, please, Dr Sandifer, that there are two main sources of funding for the organisation: funding from the Welsh Government and other National Health Service Wales organisations who provide remuneration for the provision of services delivered by Public Health Wales?
 
-**Dr Andrew Goodall**: That's correct.
+**Dr Quentin Sandifer**: That's correct.
 
 **Counsel Inquiry**: You tell us at paragraph 41 in your witness statement that:
 
@@ -748,13 +751,13 @@ And that, in your view:
 
 Is that right?
 
-**Dr Andrew Goodall**: That's right.
+**Dr Quentin Sandifer**: That's right.
 
 **Counsel Inquiry**: Public Health Wales funding increased dramatically from 2009 to 2010, when it was set at £41.5 million, to £152.9 million by the time we reached 2019 to 2020.
 
 What was the cause of that dramatic increase in funding, and why was it made?
 
-**Dr Andrew Goodall**: Well, the figure that you started with, the £41 million, reflected a half year position, because the organisation was established at the beginning of October 2009. The full year figure, which is reflected in the 2010/2011 accounts, was around £81 million.
+**Dr Quentin Sandifer**: Well, the figure that you started with, the £41 million, reflected a half year position, because the organisation was established at the beginning of October 2009. The full year figure, which is reflected in the 2010/2011 accounts, was around £81 million.
 
 The principal reason for the expansion in funding was partly as a result of some transfers of functions that were discharged in other bodies in Wales, transferring in to Public Health Wales, with the funding attached to those, and also in part as a result, likewise, of some service transfers, for example our diabetic retinopathy service was transferred in from a local health board into Public Health Wales and brought with it a substantial amount of financial resources.
 
@@ -764,25 +767,25 @@ Then there were some other additional investments made by Welsh Government durin
 
 Can you confirm, for the purposes of the Civil Contingencies Act of 2004, Public Health Wales is a Category 1 responder?
 
-**Dr Andrew Goodall**: Yes, it is.
+**Dr Quentin Sandifer**: Yes, it is.
 
 **Counsel Inquiry**: So as well as having health protection and microbiology responsibilities, it also had an EPRR function, didn't it?
 
-**Dr Andrew Goodall**: It did.
+**Dr Quentin Sandifer**: It did.
 
 **Counsel Inquiry**: In terms of the allocation of budget for emergency preparedness, resilience and response functions, that increased from 2014 to 2015 and £387,000 to 2020 to 2022, £884,000. Can you explain why there was such a dramatic increase in that part of the budget, please.
 
-**Dr Andrew Goodall**: Yes. I think it's fair to say it's very difficult to tease out what exactly were the financial elements attached to EPRR, because of course EPRR is a function delivered by the whole of the organisation, and in particular from our health protection and microbiology services. But I do recognise those figures, and the reason why there was such an increase is that following the Ebola outbreak in Wales in 2014 to 2016, and on the back of reviews that we undertook both to our emergency planning and business continuity arrangements, we introduced some changes in 2017/2018 including, for example, expansion of our emergency planning support workforce, the appointment of a lead manager, and all of those appointments attracted the need for further investment.
+**Dr Quentin Sandifer**: Yes. I think it's fair to say it's very difficult to tease out what exactly were the financial elements attached to EPRR, because of course EPRR is a function delivered by the whole of the organisation, and in particular from our health protection and microbiology services. But I do recognise those figures, and the reason why there was such an increase is that following the Ebola outbreak in Wales in 2014 to 2016, and on the back of reviews that we undertook both to our emergency planning and business continuity arrangements, we introduced some changes in 2017/2018 including, for example, expansion of our emergency planning support workforce, the appointment of a lead manager, and all of those appointments attracted the need for further investment.
 
 **Counsel Inquiry**: Right.
 
 Did you think at the time, in 2014 to 2015, that the EPRR budget was sufficient?
 
-**Dr Andrew Goodall**: I think Public Health Wales discharged its EPRR functions within the resources available to it, but in doing so, at that time, it should be said that the EPRR function was located in our Health Protection Team, and it is probably true to say that it was subsidised by the Health Protection service.
+**Dr Quentin Sandifer**: I think Public Health Wales discharged its EPRR functions within the resources available to it, but in doing so, at that time, it should be said that the EPRR function was located in our Health Protection Team, and it is probably true to say that it was subsidised by the Health Protection service.
 
 **Counsel Inquiry**: Well, you tell us at paragraph 196 in your witness statement that "the health protection services in Public Health Wales were under-powered". What did you mean by that?
 
-**Dr Andrew Goodall**: So that paragraph refers to our assessment of the initial phase of the coronavirus response.
+**Dr Quentin Sandifer**: So that paragraph refers to our assessment of the initial phase of the coronavirus response.
 
 So, if I could just summarise, perhaps, to help the Inquiry understand the pattern of investment: between 2010 and 2019 there had been no budget cuts and there had been an increase in both the financial resources and the workforce in the health protection and microbiology services, which is where most of the EPRR functions were based and from which they were delivered.
 
@@ -790,75 +793,75 @@ So, if I could just summarise, perhaps, to help the Inquiry understand the patte
 
 Well, just before we leave the issue of finance and budgets, you also tell us at paragraph 78 that in February 2019 the Welsh Government confirmed additional funding for the National Health Protection Service and that there was £1 million capital funding in that year to directly support the automation of the laboratory services across Wales and £0.6 million minimum revenue for the continued development of the Pathogen Genomics Unit. Is that right?
 
-**Dr Andrew Goodall**: That's correct, and that reflected, in fact, a series of investments that had been made since 2014 in our health protection and our microbiology services.
+**Dr Quentin Sandifer**: That's correct, and that reflected, in fact, a series of investments that had been made since 2014 in our health protection and our microbiology services.
 
 **Counsel Inquiry**: Dr Tracey Cooper, your successor in post, tells us in her witness statement that that funding facilitated enhancements to the microbiology laboratory network and infrastructure, but that those improvements were still being made and implemented at the time of the pandemic; do you agree with that?
 
-**Dr Andrew Goodall**: If I could just gently correct, Dr Tracey Cooper's the chief executive of Public Health Wales and had been so since June of 2014, and remains still the chief executive.
+**Dr Quentin Sandifer**: If I could just gently correct, Dr Tracey Cooper's the chief executive of Public Health Wales and had been so since June of 2014, and remains still the chief executive.
 
 **Counsel Inquiry**: Thank you.
 
-**Dr Andrew Goodall**: But to your point, yes, that is correct.
+**Dr Quentin Sandifer**: But to your point, yes, that is correct.
 
 **Counsel Inquiry**: All right. She also told us that that funding was only a part response to the need raised by Public Health Wales for the strengthening of the health protection system across Wales, so she appears to be saying -- and please correct me if I'm wrong -- that a plea had been made for further investment, and the investment in terms of the laboratory services that was received was only a part response; do you agree with that?
 
-**Dr Andrew Goodall**: It was. We began our discussions with Welsh Government in the second half of 2017 about what we regarded as the additional investment required to strengthen our National Health Protection Service. This also coincided with what we believed was some necessary investment, such as you referred to, the capital investment, in particular technologies, molecular diagnostics and genomics sequencing in particular. But -- and we were grateful for the investment that we did receive, but we had still anticipated and therefore made the case for further investment, which then came through later in 2019.
+**Dr Quentin Sandifer**: It was. We began our discussions with Welsh Government in the second half of 2017 about what we regarded as the additional investment required to strengthen our National Health Protection Service. This also coincided with what we believed was some necessary investment, such as you referred to, the capital investment, in particular technologies, molecular diagnostics and genomics sequencing in particular. But -- and we were grateful for the investment that we did receive, but we had still anticipated and therefore made the case for further investment, which then came through later in 2019.
 
 **Counsel Inquiry**: Is that partly because in 2017/2018 the organisation identified to the Welsh Government in particular the need to strengthen the health protection system and what Dr Cooper describes as a particularly fragile microbiology service?
 
-**Dr Andrew Goodall**: Yes.
+**Dr Quentin Sandifer**: Yes.
 
 **Counsel Inquiry**: All right. Do you agree that at the time and before that investment was made, the microbiology services were particularly fragile?
 
-**Dr Andrew Goodall**: Yes, that fragility was created in 2015/2016 with the retirement of a number of senior microbiologists and difficulties that we had recruiting to those posts. And the investment that we referred to, the fragility and the investment we referred to, was accompanied actually also by some internal actions we took to strengthen the model for the delivery of microbiology at the same time.
+**Dr Quentin Sandifer**: Yes, that fragility was created in 2015/2016 with the retirement of a number of senior microbiologists and difficulties that we had recruiting to those posts. And the investment that we referred to, the fragility and the investment we referred to, was accompanied actually also by some internal actions we took to strengthen the model for the delivery of microbiology at the same time.
 
 **Counsel Inquiry**: To what extent did Public Health Wales provide advice to the Welsh Government on its pandemic preparedness?
 
-**Dr Andrew Goodall**: So Public Health Wales has throughout its existence provided specialist advice and direct support systems leadership to Welsh Government and the wider health, social care and local government system in Wales in respect of EPRR, and so, yes, that included specific advice to Welsh Government on its pandemic planning arrangements, learning and development, exercising and training.
+**Dr Quentin Sandifer**: So Public Health Wales has throughout its existence provided specialist advice and direct support systems leadership to Welsh Government and the wider health, social care and local government system in Wales in respect of EPRR, and so, yes, that included specific advice to Welsh Government on its pandemic planning arrangements, learning and development, exercising and training.
 
 **Counsel Inquiry**: What level of representation did Public Health Wales have on scientific advisory bodies such as SAGE and NERVTAG?
 
-**Dr Andrew Goodall**: So Public Health Wales has never been a member -- or at least, I'll put it the other way around. Representation from Public Health Wales, there has been no representation from Public Health Wales on NERVTAG. Likewise, we've not had a seat on SAGE pre-pandemic.
+**Dr Quentin Sandifer**: So Public Health Wales has never been a member -- or at least, I'll put it the other way around. Representation from Public Health Wales, there has been no representation from Public Health Wales on NERVTAG. Likewise, we've not had a seat on SAGE pre-pandemic.
 
 **Counsel Inquiry**: Right. Do you think that Public Health Wales deserved a place on NERVTAG and SAGE?
 
-**Dr Andrew Goodall**: I do think that it would be beneficial for Public Health Wales to be on NERVTAG. I recognise that SAGE is established in specific circumstances --
+**Dr Quentin Sandifer**: I do think that it would be beneficial for Public Health Wales to be on NERVTAG. I recognise that SAGE is established in specific circumstances --
 
 **Counsel Inquiry**: Yes.
 
-**Dr Andrew Goodall**: -- and that government representation would be the most appropriate sitting outside of government. We didn't presume that that would include us but we would of course always be happy to support Welsh Government had we been asked.
+**Dr Quentin Sandifer**: -- and that government representation would be the most appropriate sitting outside of government. We didn't presume that that would include us but we would of course always be happy to support Welsh Government had we been asked.
 
 **Counsel Inquiry**: In terms of responsibility at a local level, Public Health Wales' duties and responsibilities, and its obligations indeed under the Civil Contingencies Act, meant that it worked closely with local resilience fora; is that right?
 
-**Dr Andrew Goodall**: Yes, we had representation on four -- all four local resilience fora in Wales.
+**Dr Quentin Sandifer**: Yes, we had representation on four -- all four local resilience fora in Wales.
 
 **Counsel Inquiry**: Did Public Health Wales also chair the Wales Risk Group?
 
-**Dr Andrew Goodall**: We did. One -- the senior manager for our combined -- in 2017/2018, we combined our business continuity and emergency planning arrangements. Our business -- our manager for that service did lead that group from January 2018 till November 2020.
+**Dr Quentin Sandifer**: We did. One -- the senior manager for our combined -- in 2017/2018, we combined our business continuity and emergency planning arrangements. Our business -- our manager for that service did lead that group from January 2018 till November 2020.
 
 **Counsel Inquiry**: What, if any, discussion was there during the meetings of that group about the National Risk Assessment?
 
-**Dr Andrew Goodall**: So what that group did is it took the National Risk Assessment and then, with Welsh Government and with representatives from the four local resilience fora, considered how that risk assessment applied within Wales and the steps and actions that should be taken, including the inclusion of the risks in local resilience fora, community risk registers.
+**Dr Quentin Sandifer**: So what that group did is it took the National Risk Assessment and then, with Welsh Government and with representatives from the four local resilience fora, considered how that risk assessment applied within Wales and the steps and actions that should be taken, including the inclusion of the risks in local resilience fora, community risk registers.
 
 **Counsel Inquiry**: Did that also involve an assessment of any gaps in preparedness that might exist at the local level?
 
-**Dr Andrew Goodall**: We also, as I've already said, had representation at the local level, and our representation at the local level included liaising with each of the local resilience fora about their assessed risks and advising them accordingly.
+**Dr Quentin Sandifer**: We also, as I've already said, had representation at the local level, and our representation at the local level included liaising with each of the local resilience fora about their assessed risks and advising them accordingly.
 
 **Counsel Inquiry**: So how did Public Health Wales have the necessary arrangements in place to effectively support and enable the local resilience fora to make their own rapid and effective responses to the pandemic when it struck?
 
-**Dr Andrew Goodall**: So Public Health Wales' Health Protection Team, together with the microbiology service, used our emergency response plan as the basis for our initial response to the pandemic in 2020, and in doing so we were aware that the local resilience fora in turn were standing up their strategic co-ordinating groups, as it appropriate, as a response.
+**Dr Quentin Sandifer**: So Public Health Wales' Health Protection Team, together with the microbiology service, used our emergency response plan as the basis for our initial response to the pandemic in 2020, and in doing so we were aware that the local resilience fora in turn were standing up their strategic co-ordinating groups, as it appropriate, as a response.
 
 **Counsel Inquiry**: What is the Wales Resilience Forum and how does Public Health Wales contribute to that?
 
-**Dr Andrew Goodall**: Wales Resilience Forum is a structure within Welsh Government that is chaired by the First Minister and includes representation from all multi-agency partners at a strategic level to consider the risks across the piece, so not confined only to health, and I represented Public Health Wales as a member of that group.
+**Dr Quentin Sandifer**: Wales Resilience Forum is a structure within Welsh Government that is chaired by the First Minister and includes representation from all multi-agency partners at a strategic level to consider the risks across the piece, so not confined only to health, and I represented Public Health Wales as a member of that group.
 
 **Counsel Inquiry**: How does that sit with the Wales Resilience Partnership Team?
 
-**Dr Andrew Goodall**: The Wales Resilience Partnership Team was a group underneath the Wales resilience fora, in part providing secretariat functions, and in part tasked with the operationalisation of some of the activities that had been discussed at the Wales Resilience Forum.
+**Dr Quentin Sandifer**: The Wales Resilience Partnership Team was a group underneath the Wales resilience fora, in part providing secretariat functions, and in part tasked with the operationalisation of some of the activities that had been discussed at the Wales Resilience Forum.
 
 **Counsel Inquiry**: Did you also sit on the Wales Resilience Partnership Team?
 
-**Dr Andrew Goodall**: I didn't, but our emergency planning and business continuity manager did.
+**Dr Quentin Sandifer**: I didn't, but our emergency planning and business continuity manager did.
 
 **Counsel Inquiry**: Right, thank you.
 
@@ -870,17 +873,17 @@ We can see that this version is version 2, created in September of 2018, and if 
 
 What does that mean in terms of this particular document?
 
-**Dr Andrew Goodall**: What that means is that, as the executive lead for public health emergency planning in Wales, this document was endorsed by me and commended by myself to our board for consideration.
+**Dr Quentin Sandifer**: What that means is that, as the executive lead for public health emergency planning in Wales, this document was endorsed by me and commended by myself to our board for consideration.
 
 **Counsel Inquiry**: What was the purpose of this document? How was it intended to be used?
 
-**Dr Andrew Goodall**: So this document, as it says at the top, provides the specific arrangements for our strategic and tactical response to emergencies, incidents and outbreaks.
+**Dr Quentin Sandifer**: So this document, as it says at the top, provides the specific arrangements for our strategic and tactical response to emergencies, incidents and outbreaks.
 
 It's the top level document of a suite of documents also that sit with this. It is an internal document, but it has been written very much in the spirit of the Civil Contingencies Act, was shared with and therefore deliberately made known to our local resilience fora partners.
 
 **Counsel Inquiry**: So they had access to this?
 
-**Dr Andrew Goodall**: They and Welsh Government had access to this document.
+**Dr Quentin Sandifer**: They and Welsh Government had access to this document.
 
 **Counsel Inquiry**: Thank you.
 
@@ -890,11 +893,11 @@ Can we go to page 9, please, and look at paragraph 1.1. Thank you. We can see he
 
 Did this document replace an earlier iteration, and if so, when was that first created, please?
 
-**Dr Andrew Goodall**: So this document replaced an earlier version which had been approved by our board in November 2016, and indeed it was about the fifth -- I'd have to just remind myself, we had a plan in 2009, 2012, 2014, 2016 and, yes, this would have been the fifth iteration of the plan in 2018.
+**Dr Quentin Sandifer**: So this document replaced an earlier version which had been approved by our board in November 2016, and indeed it was about the fifth -- I'd have to just remind myself, we had a plan in 2009, 2012, 2014, 2016 and, yes, this would have been the fifth iteration of the plan in 2018.
 
 **Counsel Inquiry**: It wasn't updated, was it, until 2022, I think?
 
-**Dr Andrew Goodall**: That's simply because events overtook us. At the beginning of 2020, which is -- I mean, we review our plans annually anyway. The plan was still, we considered, relevant at the beginning of the outbreak of the pandemic, but we, during the course of the pandemic, recognised that the plan would need updating and at the earliest appropriate time we did so.
+**Dr Quentin Sandifer**: That's simply because events overtook us. At the beginning of 2020, which is -- I mean, we review our plans annually anyway. The plan was still, we considered, relevant at the beginning of the outbreak of the pandemic, but we, during the course of the pandemic, recognised that the plan would need updating and at the earliest appropriate time we did so.
 
 **Counsel Inquiry**: Thank you.
 
@@ -904,39 +907,39 @@ Can we go to page 10, please, and have a look at the roles and responsibilities.
 
 To what extent did Public Health Wales achieve this? What was this intended to represent?
 
-**Dr Andrew Goodall**: So in an incident, an emergency, particularly in an outbreak, what we always sought to do was to assess the impact of that on the populations affected. We did this during the Covid response, a wide range of assessments were undertaken, including epidemiological assessment. But an example would be: had there been a chemical release from a factory with a cloud of gas discharged and floating over a local population, we would follow -- after that event had been resolved, we might well follow up with the affected population to see if there had been any longer term impact.
+**Dr Quentin Sandifer**: So in an incident, an emergency, particularly in an outbreak, what we always sought to do was to assess the impact of that on the populations affected. We did this during the Covid response, a wide range of assessments were undertaken, including epidemiological assessment. But an example would be: had there been a chemical release from a factory with a cloud of gas discharged and floating over a local population, we would follow -- after that event had been resolved, we might well follow up with the affected population to see if there had been any longer term impact.
 
 **Counsel Inquiry**: Do you agree that within this document, the EPRR information largely focuses on command and control measures and doesn't include any specific detail on how to handle a coronavirus outbreak, and it doesn't go into any plan for non-pharmaceutical interventions?
 
-**Dr Andrew Goodall**: So I think I should explain that this plan, which is an all-hazards plan, it's a generic plan, was written in the context of Public Health Wales as a Category 1 responder, being able to demonstrate that it was fulfilling the requirements of the Civil Contingencies Act and the duties and responsibilities, including statutory and non-statutory guidance, and that is how this document has been written.
+**Dr Quentin Sandifer**: So I think I should explain that this plan, which is an all-hazards plan, it's a generic plan, was written in the context of Public Health Wales as a Category 1 responder, being able to demonstrate that it was fulfilling the requirements of the Civil Contingencies Act and the duties and responsibilities, including statutory and non-statutory guidance, and that is how this document has been written.
 
 **Counsel Inquiry**: So is your answer that you wouldn't have expected that level of detail to be involved or incorporated into a document such as this?
 
-**Dr Andrew Goodall**: I would expect that information to be in other documents.
+**Dr Quentin Sandifer**: I would expect that information to be in other documents.
 
 **Counsel Inquiry**: Right. Well, we'll move to look at other documents in a moment. But before we do -- we can take that down, please -- I would like to ask you about the Health Protection Advisory Group. That is a group that had been or indeed has been in existence for many years, hasn't it?
 
-**Dr Andrew Goodall**: It has, yes.
+**Dr Quentin Sandifer**: It has, yes.
 
 **Counsel Inquiry**: And it was -- it involved the CMO, the Chief Medical Officer for Wales, but you tell us in your witness statement that there was a period of abeyance of the group before it was re-established in May of 2018. Why was the group put into abeyance, which required it to be re-established in May of 2018?
 
-**Dr Andrew Goodall**: So the group is a non-statutory advisory group to the Chief Medical Officer, and in 2014 the then Chief Medical Officer retired and the group therefore ceased to meet. The current Chief Medical Officer came into post later in the year, and then, at the beginning of 2018, he decided that he would like to re-establish the group.
+**Dr Quentin Sandifer**: So the group is a non-statutory advisory group to the Chief Medical Officer, and in 2014 the then Chief Medical Officer retired and the group therefore ceased to meet. The current Chief Medical Officer came into post later in the year, and then, at the beginning of 2018, he decided that he would like to re-establish the group.
 
 **Counsel Inquiry**: What was the involvement of Public Health Wales in that group?
 
-**Dr Andrew Goodall**: Public Health Wales has always been a member of the Health Protection Advisory Group.
+**Dr Quentin Sandifer**: Public Health Wales has always been a member of the Health Protection Advisory Group.
 
 **Counsel Inquiry**: To what extent was pandemic preparedness discussed during those group meetings?
 
-**Dr Andrew Goodall**: So, the group looked at the whole breadth of public health threats and hazards, and Public Health Wales advised and supported the group, for example by preparing technical documents and papers for it to consider, and influenza pandemic preparedness had been one of the subjects of discussion in the group.
+**Dr Quentin Sandifer**: So, the group looked at the whole breadth of public health threats and hazards, and Public Health Wales advised and supported the group, for example by preparing technical documents and papers for it to consider, and influenza pandemic preparedness had been one of the subjects of discussion in the group.
 
 **Counsel Inquiry**: What was discussed about it?
 
-**Dr Andrew Goodall**: So we had been aware that in 2016, or 2014, as has been discussed already, there had been an exercise in Wales and that there had also been an exercise at the UK level that Wales had participated in, and that had generated recommendations and outputs which needed to be followed through.
+**Dr Quentin Sandifer**: So we had been aware that in 2016, or 2014, as has been discussed already, there had been an exercise in Wales and that there had also been an exercise at the UK level that Wales had participated in, and that had generated recommendations and outputs which needed to be followed through.
 
 **Counsel Inquiry**: So did Public Health Wales become involved with the recommendations that fell out of Exercise Cygnus and the other exercises that ran before that, which we'll turn to look at in a moment?
 
-**Dr Andrew Goodall**: So when Exercise Cygnus took place, Public Health Wales had two representatives observing. When the report was published in July of 2017, we obviously received a copy of that report and, as was shown yesterday, a Wales influenza pandemic preparedness group was convened, meeting first in September that year, and Public Health Wales was represented on that group.
+**Dr Quentin Sandifer**: So when Exercise Cygnus took place, Public Health Wales had two representatives observing. When the report was published in July of 2017, we obviously received a copy of that report and, as was shown yesterday, a Wales influenza pandemic preparedness group was convened, meeting first in September that year, and Public Health Wales was represented on that group.
 
 **Counsel Inquiry**: All right. Well, we'll come to look at that in a moment.
 
@@ -944,7 +947,7 @@ Before we do, let's just have a look at a set of meetings from this group, from 
 
 You sent your apologies for that meeting. We can see that halfway down the page. But no doubt you will have been filled in by -- what took place during the course of the meeting and any recommendations that came out of it?
 
-**Dr Andrew Goodall**: Yes, I was on annual leave. Andrew Jones is my deputy.
+**Dr Quentin Sandifer**: Yes, I was on annual leave. Andrew Jones is my deputy.
 
 **Counsel Inquiry**: Thank you.
 
@@ -956,11 +959,11 @@ We can see that the:
 
 To what does this relate, please?
 
-**Dr Andrew Goodall**: So this relates to discussions that were taking place at the time about the development of a high-consequence infectious diseases unit in Wales.
+**Dr Quentin Sandifer**: So this relates to discussions that were taking place at the time about the development of a high-consequence infectious diseases unit in Wales.
 
 **Counsel Inquiry**: Yes.
 
-**Dr Andrew Goodall**: At that time, it was necessary for any patient that had a high-consequence infectious disease to be transferred to a designated unit in England.
+**Dr Quentin Sandifer**: At that time, it was necessary for any patient that had a high-consequence infectious disease to be transferred to a designated unit in England.
 
 **Counsel Inquiry**: Yes. Right. Well, if we look at the bottom of this paragraph, we can see that action 23 was for the:
 
@@ -968,7 +971,7 @@ To what does this relate, please?
 
 Do you know whether or not that was done?
 
-**Dr Andrew Goodall**: So in January 2020, as it became clear to us in Public Health Wales the novel coronavirus represented a very serious threat, we as an organisation entered into discussions with Welsh Government and -- with one of our local health boards, to discuss how we could establish very quickly a high-consequence infectious disease unit at that hospital, in advance of and in readiness for potential patients if novel coronavirus came to Wales.
+**Dr Quentin Sandifer**: So in January 2020, as it became clear to us in Public Health Wales the novel coronavirus represented a very serious threat, we as an organisation entered into discussions with Welsh Government and -- with one of our local health boards, to discuss how we could establish very quickly a high-consequence infectious disease unit at that hospital, in advance of and in readiness for potential patients if novel coronavirus came to Wales.
 
 **Counsel Inquiry**: We can take that down now, please.
 
@@ -982,31 +985,31 @@ If we turn to page 2, please, we can see in the top third of the page that again
 
 Can you tell us when this group was established and what the purpose was for the group being brought into force?
 
-**Dr Andrew Goodall**: So the group was established in August 2018. The story behind it is we had conducted a review of our business continuity arrangements in 2016, and that review had recommended that we should bring together our business continuity and emergency planning arrangements under the leadership of a single executive. They were at that time under different executives within Public Health Wales.
+**Dr Quentin Sandifer**: So the group was established in August 2018. The story behind it is we had conducted a review of our business continuity arrangements in 2016, and that review had recommended that we should bring together our business continuity and emergency planning arrangements under the leadership of a single executive. They were at that time under different executives within Public Health Wales.
 
 It also recommended that we should establish the role of the business continuity -- sorry, the executive -- the emergency planning and business continuity lead, the manager that I have already referred to.
 
 **Counsel Inquiry**: Yes.
 
-**Dr Andrew Goodall**: So all of that was accepted in 2017, and in 2017 we brought -- started to bring these entities together, and that was finally completed and formalised in the first half of 2018.
+**Dr Quentin Sandifer**: So all of that was accepted in 2017, and in 2017 we brought -- started to bring these entities together, and that was finally completed and formalised in the first half of 2018.
 
 **Counsel Inquiry**: If we look at the bottom part of this page, we can see that under the heading "Updates and amendments" that there is a blank table. Has this document, these terms of reference, ever been updated or amended?
 
-**Dr Andrew Goodall**: I don't know the answer to that question to the current time.
+**Dr Quentin Sandifer**: I don't know the answer to that question to the current time.
 
 **Counsel Inquiry**: All right. Well, if we need to establish the answer for that, then we will formally ask.
 
 Is it right that the Emergency Planning and Business Continuity Team was steered by the local resilience forum?
 
-**Dr Andrew Goodall**: The Emergency Planning and Business Continuity Team effectively provided the operational leadership for the implementation of the emergency preparedness planning and response arrangements of Public Health Wales, and that necessitated engagement with a wide range of partners, Welsh Government, local government, the health boards, the local resilience fora.
+**Dr Quentin Sandifer**: The Emergency Planning and Business Continuity Team effectively provided the operational leadership for the implementation of the emergency preparedness planning and response arrangements of Public Health Wales, and that necessitated engagement with a wide range of partners, Welsh Government, local government, the health boards, the local resilience fora.
 
 **Counsel Inquiry**: Well, let's look at the Emergency Planning and Business Continuity Work Plan, please, 2018 to 2020, which we can see at INQ000183523. Was this document the work plan for the group?
 
-**Dr Andrew Goodall**: It was.
+**Dr Quentin Sandifer**: It was.
 
 **Counsel Inquiry**: You sponsored this document as well, didn't you?
 
-**Dr Andrew Goodall**: I did.
+**Dr Quentin Sandifer**: I did.
 
 **Counsel Inquiry**: Which was approved in July of 2019.
 
@@ -1026,31 +1029,31 @@ Ending with -- next page, please -- response and recovery.
 
 There are no references to pandemic or influenza in this document, although there are references to bomb threats and Brexit health and other such matters. Do you agree with that?
 
-**Dr Andrew Goodall**: I do agree with that.
+**Dr Quentin Sandifer**: I do agree with that.
 
 **Counsel Inquiry**: Why were references to the threats or hazards of pandemic influenza and matters of that nature not contained within this document?
 
-**Dr Andrew Goodall**: So the reason why Brexit was included, because it was a live issue at the time. Pandemic influenza was not included because we were having -- those were set out in the other documents, that no doubt we will come to, the documents that have already been referred to, and that this therefore took a strategic approach to how we discharged our responsibilities under the Civil Contingencies Act in respect of any incident, outbreak or emergency that might take place. But it didn't explicitly refer to the development of pandemic influenza planning.
+**Dr Quentin Sandifer**: So the reason why Brexit was included, because it was a live issue at the time. Pandemic influenza was not included because we were having -- those were set out in the other documents, that no doubt we will come to, the documents that have already been referred to, and that this therefore took a strategic approach to how we discharged our responsibilities under the Civil Contingencies Act in respect of any incident, outbreak or emergency that might take place. But it didn't explicitly refer to the development of pandemic influenza planning.
 
 **Counsel Inquiry**: Were you aware when you sponsored this document that the National Risk Assessment had assessed the hazard of pandemic influenza as being at the first tier, so it created the most serious threat?
 
-**Dr Andrew Goodall**: Yes, we did.
+**Dr Quentin Sandifer**: Yes, we did.
 
 **Counsel Inquiry**: So do you still say that it wasn't necessary or appropriate for it to be mentioned in this work plan for emergency planning?
 
-**Dr Andrew Goodall**: As I say, we recognised that pandemic influenza was at the top of the National Risk Assessment and we were fully engaged throughout the period of Module 1 in direct discussions with Welsh Government and with our local resilience fora to prepare and respond to influenza pandemic.
+**Dr Quentin Sandifer**: As I say, we recognised that pandemic influenza was at the top of the National Risk Assessment and we were fully engaged throughout the period of Module 1 in direct discussions with Welsh Government and with our local resilience fora to prepare and respond to influenza pandemic.
 
 **Counsel Inquiry**: But that's not really an answer to the question. Didn't it deserve a mention in this document?
 
-**Dr Andrew Goodall**: In hindsight, yes, I can see that it could, but at the time, having just established this group, we didn't include it.
+**Dr Quentin Sandifer**: In hindsight, yes, I can see that it could, but at the time, having just established this group, we didn't include it.
 
 **Counsel Inquiry**: Does the fact that it's not included demonstrate that pandemic influenza was not in the forefront of the mind of Public Health Wales and other organisations who were involved in the creation of this document?
 
-**Dr Andrew Goodall**: No, I don't agree with that. As I prefaced my previous answer, Public Health Wales has had a full and active involvement in support of and advising Welsh Government and partners in the development of our pandemic influenza plans.
+**Dr Quentin Sandifer**: No, I don't agree with that. As I prefaced my previous answer, Public Health Wales has had a full and active involvement in support of and advising Welsh Government and partners in the development of our pandemic influenza plans.
 
 **Counsel Inquiry**: Public Health Wales did sit on the Wales Pandemic Flu Preparedness Group, didn't it?
 
-**Dr Andrew Goodall**: It did.
+**Dr Quentin Sandifer**: It did.
 
 **Counsel Inquiry**: I'd like to look now, please, at a set of minutes from the meeting of that group in January of 2018.
 
@@ -1058,7 +1061,7 @@ We have them at INQ000187219. Thank you.
 
 Now, we can see who was present. David Goulding, who was the Welsh Government health emergency planning adviser, and other members of the Welsh Government, and then we know that Public Health Wales was present, although the name of the person attending has been redacted. So that wasn't you on this occasion?
 
-**Dr Andrew Goodall**: No, it wasn't, but I do know who it was.
+**Dr Quentin Sandifer**: No, it wasn't, but I do know who it was.
 
 **Counsel Inquiry**: All right. Well, perhaps that doesn't matter, and if it does we'll come back to it.
 
@@ -1070,31 +1073,31 @@ Could we have a look, please, at the second paragraph, which is I think on page 
 
 Now, is it right that three of the four LRFs were not in attendance at this meeting?
 
-**Dr Andrew Goodall**: You would have to re-show the first page for me to be certain.
+**Dr Quentin Sandifer**: You would have to re-show the first page for me to be certain.
 
 **Counsel Inquiry**: All right. Can we go back to that, please. At the bottom paragraph here we can see:
 
 "It was noted with disappointment that three of the four LRF Chairs" --
 
-**Dr Andrew Goodall**: Yes.
+**Dr Quentin Sandifer**: Yes.
 
 **Counsel Inquiry**: -- "were not in attendance. WP confirmed that the LRF chairs had been invited and that no apologies had been received from them. Reference was made to LRF engagement with being taken forward by the DCLG in England and the need for Welsh Government to also engage with the LRFs in Wales. DG emphasised the importance of having the LRF chairs on the group and asked that this be re-enforced with them."
 
 Does this chime with any concern that you had about the engagement of LRFs in this particular group?
 
-**Dr Andrew Goodall**: Until I saw these minutes recently, I had not remembered that only one of the four LRFs had been in attendance. My memory of our LRFs is that they were active and full participants in pandemic flu preparedness, and I've noted which health board was in attendance. So I share this disappointment of the chair, and fully agree with his sentiment that they should be reminded of the importance of attending.
+**Dr Quentin Sandifer**: Until I saw these minutes recently, I had not remembered that only one of the four LRFs had been in attendance. My memory of our LRFs is that they were active and full participants in pandemic flu preparedness, and I've noted which health board was in attendance. So I share this disappointment of the chair, and fully agree with his sentiment that they should be reminded of the importance of attending.
 
 **Counsel Inquiry**: But was this a common theme?
 
-**Dr Andrew Goodall**: No.
+**Dr Quentin Sandifer**: No.
 
 **Counsel Inquiry**: Was this a problem, that the LRFs were not engaged in this particular group?
 
-**Dr Andrew Goodall**: No, as I said at the preface to the last answer, my experience was that the LRFs were active participants with us in all areas of emergency planning and response, including pandemic flu.
+**Dr Quentin Sandifer**: No, as I said at the preface to the last answer, my experience was that the LRFs were active participants with us in all areas of emergency planning and response, including pandemic flu.
 
 **Counsel Inquiry**: Is your recollection at the time that these meetings were taking place -- and these minutes, I remind us, were at January of 2018 -- that the Wales Pandemic Flu Preparedness Group was an effective group?
 
-**Dr Andrew Goodall**: The ... so I was aware that there were a range of workstreams which had made limited progress, as has been discussed already.
+**Dr Quentin Sandifer**: The ... so I was aware that there were a range of workstreams which had made limited progress, as has been discussed already.
 
 **Counsel Inquiry**: All right. Well, I'd like to look, please, again at page 2 and at paragraph 3, and the first paragraph there:
 
@@ -1102,11 +1105,11 @@ Does this chime with any concern that you had about the engagement of LRFs in th
 
 Were you aware of that at this time?
 
-**Dr Andrew Goodall**: I was, and I recognise those issues.
+**Dr Quentin Sandifer**: I was, and I recognise those issues.
 
 **Counsel Inquiry**: All right. What was done about it?
 
-**Dr Andrew Goodall**: So, as I understand it, Welsh Government were undertaking work on healthcare surge planning, particularly in the area of critical care. I wasn't familiar with the detail of the progress with the social care surge planning.
+**Dr Quentin Sandifer**: So, as I understand it, Welsh Government were undertaking work on healthcare surge planning, particularly in the area of critical care. I wasn't familiar with the detail of the progress with the social care surge planning.
 
 **Counsel Inquiry**: All right. We can take that down, please.
 
@@ -1114,21 +1117,21 @@ The Wales Health and Social Care Influenza Pandemic Preparedness and Response Gu
 
 This was issued, as we see, by the Welsh Government Department of Social Services, Health Emergency Preparedness Unit in February of 2014, and this was really the Welsh response to the United Kingdom 2011 guidance, wasn't it?
 
-**Dr Andrew Goodall**: It was.
+**Dr Quentin Sandifer**: It was.
 
 **Counsel Inquiry**: Yes. You will be familiar with this document, Dr Sandifer?
 
-**Dr Andrew Goodall**: Yes.
+**Dr Quentin Sandifer**: Yes.
 
 **Counsel Inquiry**: Yes, and you can confirm then, without us having to go into the detail of it, that in general terms it relied upon the planning assumptions that had been established in the UK 2011 document?
 
-**Dr Andrew Goodall**: Yes.
+**Dr Quentin Sandifer**: Yes.
 
 **Counsel Inquiry**: All right.
 
 This guidance deals with stockpiles of a range of consumable products, including eyewear, aprons, gowns and gloves. We don't see that level of detail in the UK document. Did Public Health Wales have any involvement in providing the additional guidance in relation to those particular areas of stockpile?
 
-**Dr Andrew Goodall**: So the Welsh Government led on countermeasures stockpiling, including PPE. Our infection prevention control lead did occasionally provide advice to Welsh Government if any specific questions were raised, but we had no other direct involvement.
+**Dr Quentin Sandifer**: So the Welsh Government led on countermeasures stockpiling, including PPE. Our infection prevention control lead did occasionally provide advice to Welsh Government if any specific questions were raised, but we had no other direct involvement.
 
 **Counsel Inquiry**: Could we go to page 13 of this document, please. Thank you.
 
@@ -1138,11 +1141,11 @@ Then on the third tier, left to right, we have the health boards, the NHS trusts
 
 Now, is that co-ordination arrangement familiar to you?
 
-**Dr Andrew Goodall**: It is.
+**Dr Quentin Sandifer**: It is.
 
 **Counsel Inquiry**: There would appear from this chart to be no direct contact or line of contact between Public Health Wales and, for instance, the SAGE group that we see at the top right-hand corner. Do you think there should have been?
 
-**Dr Andrew Goodall**: So, as I said earlier, no, there was no direct connection between us and SAGE. We expected that Welsh Government would be invited to join SAGE at both ministerial and official level, and if it was thought appropriate by Welsh Government for Public Health Wales representation in support of their minister or officials, then we would have been pleased to provide that.
+**Dr Quentin Sandifer**: So, as I said earlier, no, there was no direct connection between us and SAGE. We expected that Welsh Government would be invited to join SAGE at both ministerial and official level, and if it was thought appropriate by Welsh Government for Public Health Wales representation in support of their minister or officials, then we would have been pleased to provide that.
 
 **Counsel Inquiry**: All right.
 
@@ -1160,17 +1163,17 @@ Just moving down below the bullet points:
 
 Do you agree, Dr Sandifer, that this plan should have included more guidance around when someone should be discharged from hospital and what should happen on discharge back into the community, for example guidance on sending tested or untested patients to care homes or back into the community?
 
-**Dr Andrew Goodall**: Obviously that became an important issue during the coronavirus pandemic, and I can see that that could have been helpful to the health boards, and incidentally it was the health boards and the local government overseeing social care services that would have been the principal beneficiaries of that guidance.
+**Dr Quentin Sandifer**: Obviously that became an important issue during the coronavirus pandemic, and I can see that that could have been helpful to the health boards, and incidentally it was the health boards and the local government overseeing social care services that would have been the principal beneficiaries of that guidance.
 
 **Counsel Inquiry**: All right.
 
 Do you agree that there is also a failure or a gap in this guidance to include advice in terms of when lockdowns or social distancing measures of any description could or should have been implemented?
 
-**Dr Andrew Goodall**: Well, on lockdowns, I think it's fair to say from my own professional experience I hadn't envisaged circumstances where we would have locked down a whole society or, indeed, a whole country in the way that we did in March 2020. Of course self-isolation of individuals or perhaps a family unit, or quarantine of a small defined population, are established principles in public health infectious disease control. But lockdowns took us into completely unchartered territory.
+**Dr Quentin Sandifer**: Well, on lockdowns, I think it's fair to say from my own professional experience I hadn't envisaged circumstances where we would have locked down a whole society or, indeed, a whole country in the way that we did in March 2020. Of course self-isolation of individuals or perhaps a family unit, or quarantine of a small defined population, are established principles in public health infectious disease control. But lockdowns took us into completely unchartered territory.
 
 **Counsel Inquiry**: But there's nothing in this document about any social distancing measures of any severity, from mixing with people within your community and that being restricted to the other end of the spectrum, which is lockdown; is that a mistake?
 
-**Dr Andrew Goodall**: I would expect our health boards, working through their local resilience fora, to be familiar with the basic tenets of social distancing as a regular or a normal practice in reducing community transmission. So at the -- if you like, that end of the spectrum, I'm not sure that that needed formal guidance. But of course lockdowns I don't think were anticipated in the way that they were implemented, and that is the reason why they don't appear.
+**Dr Quentin Sandifer**: I would expect our health boards, working through their local resilience fora, to be familiar with the basic tenets of social distancing as a regular or a normal practice in reducing community transmission. So at the -- if you like, that end of the spectrum, I'm not sure that that needed formal guidance. But of course lockdowns I don't think were anticipated in the way that they were implemented, and that is the reason why they don't appear.
 
 **Counsel Inquiry**: All right.
 
@@ -1210,15 +1213,15 @@ And:
 
 This was a complicated business, wasn't it?
 
-**Dr Andrew Goodall**: It was.
+**Dr Quentin Sandifer**: It was.
 
 **Counsel Inquiry**: Did you, in your role at the time, find it unhelpful that there were so many different pieces of guidance and planning documentation that would need to be assessed and considered in the outbreak of a pandemic?
 
-**Dr Andrew Goodall**: I was very conscious that you had to have a good understanding of the range of organisations and guidance to be able to navigate your way through this.
+**Dr Quentin Sandifer**: I was very conscious that you had to have a good understanding of the range of organisations and guidance to be able to navigate your way through this.
 
 **Counsel Inquiry**: Right. Far better, do you agree, Dr Sandifer, to have a slimmed down, simplified set of guidance and plans for everybody to be able to understand and follow?
 
-**Dr Andrew Goodall**: There's absolutely no doubt that the principle of consolidating and simplification is a good idea, would have been helpful, but I think it's just worth recognising the context of a couple of these plans.
+**Dr Quentin Sandifer**: There's absolutely no doubt that the principle of consolidating and simplification is a good idea, would have been helpful, but I think it's just worth recognising the context of a couple of these plans.
 
 The Communicable Disease Outbreak Plan for Wales, which we haven't discussed yet, that was really a plan for responding to local outbreaks, whilst this framework was for responding to infectious disease threats that might affect the whole of Wales.
 
@@ -1236,55 +1239,55 @@ Now, we can see under the preface, written in April of 2014:
 
 So just pausing there, this is a reaction in April of 2014 to multiple plans for the investigation and control of communicable diseases, so this was an effort undertaken in 2008, to simplify things, but, as we've just seen, in fact, although this one response deals with this particular area, when you look more widely there were still multiple pieces of guidance and planning documentation that was still in existence?
 
-**Dr Andrew Goodall**: That's correct.
+**Dr Quentin Sandifer**: That's correct.
 
 **Counsel Inquiry**: Can we move down, please, to look at the full page. Thank you. If we can go over to -- oh, in fact, before we do that, can we just highlight what we can see in bold in the middle of the page, please. Because when we look at what was used to create this plan, we can see that it's an amalgamation of a major outbreak of food poisoning plan, an emergency framework for health-related incidents and outbreaks in Wales and Hertfordshire from contaminated drinking water, and then, finally, the model plan for the management of communicable disease outbreaks in Wales.
 
 So, so far as this Inquiry is concerned, that is the model plan upon which this document was able to draw?
 
-**Dr Andrew Goodall**: Yeah, if I could just clarify something about the development of this plan. We had a series of plans -- highlighted in bold here -- in the early noughties, which we recognised caused confusion, as the first paragraph states. The work began in 2008. The first version of the Wales Communicable Disease Outbreak Plan was actually published in 2011, and then we kept it under review and this plan reflected an updating of the 2011 communicable disease outbreak plan in April 2014.
+**Dr Quentin Sandifer**: Yeah, if I could just clarify something about the development of this plan. We had a series of plans -- highlighted in bold here -- in the early noughties, which we recognised caused confusion, as the first paragraph states. The work began in 2008. The first version of the Wales Communicable Disease Outbreak Plan was actually published in 2011, and then we kept it under review and this plan reflected an updating of the 2011 communicable disease outbreak plan in April 2014.
 
 **Counsel Inquiry**: All right. Well, I want to look further back, please, because the Management of Communicable Disease Outbreaks plan upon which this was based, taking into account what you've just said about there being an interim plan in 2011, was first written in 1995; is that right?
 
-**Dr Andrew Goodall**: As I understand it, yes.
+**Dr Quentin Sandifer**: As I understand it, yes.
 
 **Counsel Inquiry**: And not updated until this plan was brought into force, although we can see that there was a draft update in 2007.
 
-**Dr Andrew Goodall**: So there was a draft update in 2007, and then that plan, together with the other two plans, consolidated into the 2011 plan that I've just referred to.
+**Dr Quentin Sandifer**: So there was a draft update in 2007, and then that plan, together with the other two plans, consolidated into the 2011 plan that I've just referred to.
 
 **Counsel Inquiry**: Yes.
 
 Why was the Management of Communicable Disease Outbreaks plan not updated between 1995 and 2011?
 
-**Dr Andrew Goodall**: I don't know the answer to that. It pre-dated my time in office.
+**Dr Quentin Sandifer**: I don't know the answer to that. It pre-dated my time in office.
 
 **Counsel Inquiry**: Do you think that by 2011 the 1995 plan was massively out of date?
 
-**Dr Andrew Goodall**: Well, the 1995 plan had been updated, but it was in a draft form --
+**Dr Quentin Sandifer**: Well, the 1995 plan had been updated, but it was in a draft form --
 
 **Counsel Inquiry**: Well, according to -- I'm so sorry, Dr Sandifer, but according to this note, although a draft update was in force in 2007, from what you've told us, that wasn't formalised until 2011.
 
-**Dr Andrew Goodall**: That's right.
+**Dr Quentin Sandifer**: That's right.
 
 **Counsel Inquiry**: All right.
 
-**Dr Andrew Goodall**: But I would anticipate that our communicable disease specialists would have been working to the most updated plan, even if it was still in draft format.
+**Dr Quentin Sandifer**: But I would anticipate that our communicable disease specialists would have been working to the most updated plan, even if it was still in draft format.
 
 **Counsel Inquiry**: But why wasn't it updated between 1995 and the draft update of 2007?
 
-**Dr Andrew Goodall**: I don't know the answer to that question.
+**Dr Quentin Sandifer**: I don't know the answer to that question.
 
 **Counsel Inquiry**: Does that concern you?
 
-**Dr Andrew Goodall**: It is a very long time, and I would have expected our plans to have been reviewed and updated in a period of 12 years, at least once or twice.
+**Dr Quentin Sandifer**: It is a very long time, and I would have expected our plans to have been reviewed and updated in a period of 12 years, at least once or twice.
 
 **Counsel Inquiry**: Yes. So does it concern you that it wasn't, according to this note?
 
-**Dr Andrew Goodall**: If I -- yes, I mean, it's a concern that 12 years elapsed between updating of a plan.
+**Dr Quentin Sandifer**: If I -- yes, I mean, it's a concern that 12 years elapsed between updating of a plan.
 
 **Counsel Inquiry**: Again, I have to ask: does the fact that the communicable diseases outbreaks plan was in abeyance, I'm going to suggest, demonstrate that this was not a subject at the forefront of those who should have been thinking and planning about it?
 
-**Dr Andrew Goodall**: I don't think that's a fair characterisation of the people who were responsible for discharging communicable disease control during that period. It is a fact, and I'm not disputing that, for a period of 12 years it would appear that this plan was not updated, and I don't have information to explain that.
+**Dr Quentin Sandifer**: I don't think that's a fair characterisation of the people who were responsible for discharging communicable disease control during that period. It is a fact, and I'm not disputing that, for a period of 12 years it would appear that this plan was not updated, and I don't have information to explain that.
 
 **Counsel Inquiry**: All right. Well, I'd like to go back, please, just for a moment to the emergency response plan that we've looked at briefly, the Public Health Wales Emergency Response Plan, which is at INQ000089558, because I'd just like to for a moment concentrate on what level of consideration was given by Public Health Wales in this emergency response plan to vulnerable people.
 
@@ -1300,51 +1303,51 @@ Then we have those with mobility problems, those with mental health or learning 
 
 So it rather looks as if Public Health Wales were taking their lead as to who would qualify to be described as vulnerable from the Cabinet Office guidance at chapter 5 of the emergency planning -- Revision to Emergency Preparedness document?
 
-**Dr Andrew Goodall**: Yes, I would accept that.
+**Dr Quentin Sandifer**: Yes, I would accept that.
 
 **Counsel Inquiry**: Do you think that that was an extensive enough description of who should be categorised and considered as vulnerable?
 
-**Dr Andrew Goodall**: Well, in hindsight and reflecting from today, no, I don't.
+**Dr Quentin Sandifer**: Well, in hindsight and reflecting from today, no, I don't.
 
 **Counsel Inquiry**: Because it doesn't contain any mention of the elderly or those with comorbidities or those suffering from health inequalities, does it?
 
-**Dr Andrew Goodall**: No, it doesn't explicitly refer to those, but the way I would expect this section of the plan to be implemented is that the -- in the circumstances of an emergency, a risk assessment would be undertaken. The populations most at risk in the course of that incident would be identified, and the responders would pay due attention to those. But -- and that could be a very, very long list, but this does reflect what the chapter 5 says in the guidance.
+**Dr Quentin Sandifer**: No, it doesn't explicitly refer to those, but the way I would expect this section of the plan to be implemented is that the -- in the circumstances of an emergency, a risk assessment would be undertaken. The populations most at risk in the course of that incident would be identified, and the responders would pay due attention to those. But -- and that could be a very, very long list, but this does reflect what the chapter 5 says in the guidance.
 
 **Counsel Inquiry**: Has that narrow definition now been expanded?
 
-**Dr Andrew Goodall**: So Public Health Wales recognises that it needs to take a more, to quote Alexander and Mann, "people-centred approach" to its emergency response planning, and the current guidance plan that was recently published takes us some way toward that but acknowledges that there is still further work to be done to address that issue.
+**Dr Quentin Sandifer**: So Public Health Wales recognises that it needs to take a more, to quote Alexander and Mann, "people-centred approach" to its emergency response planning, and the current guidance plan that was recently published takes us some way toward that but acknowledges that there is still further work to be done to address that issue.
 
 **Counsel Inquiry**: Is that plan that you've just mentioned, the updated plan, an update of this?
 
-**Dr Andrew Goodall**: It is.
+**Dr Quentin Sandifer**: It is.
 
 **Counsel Inquiry**: What's the date of it, please?
 
-**Dr Andrew Goodall**: May of 2023.
+**Dr Quentin Sandifer**: May of 2023.
 
 **Counsel Inquiry**: So the current position is that, as you've just told us, Dr Sandifer, the definition has been broadened but on reflection now it needs to be broadened even further?
 
-**Dr Andrew Goodall**: So it has been broadened and in very particular way to take account of inequalities, recognising the particular impact inequalities had during the coronavirus pandemic. But it's my view that that plan represents a stage in a process that still needs further development, and I understand that my successor has had conversations with his strategic partners to signal the need for us to continue that work.
+**Dr Quentin Sandifer**: So it has been broadened and in very particular way to take account of inequalities, recognising the particular impact inequalities had during the coronavirus pandemic. But it's my view that that plan represents a stage in a process that still needs further development, and I understand that my successor has had conversations with his strategic partners to signal the need for us to continue that work.
 
 **Counsel Inquiry**: Do you know when that will be completed?
 
-**Dr Andrew Goodall**: I don't know when that work will be completed. The plan has just been approved and I would envisage that Public Health Wales will attend to that now.
+**Dr Quentin Sandifer**: I don't know when that work will be completed. The plan has just been approved and I would envisage that Public Health Wales will attend to that now.
 
 **Counsel Inquiry**: Are you able to help us with the detail of how that current definition still requires to be extended?
 
-**Dr Andrew Goodall**: Well, this definition is still within the guidance. These groups are still relevant categories --
+**Dr Quentin Sandifer**: Well, this definition is still within the guidance. These groups are still relevant categories --
 
 **Counsel Inquiry**: Yes.
 
-**Dr Andrew Goodall**: -- in any future plan. I would envisage that the plan as it develops might move away from the expression of "vulnerable persons", although that is generally recognised within the EPRR community, and set out more broadly the wider range of vulnerabilities in the population that the plan should consider.
+**Dr Quentin Sandifer**: -- in any future plan. I would envisage that the plan as it develops might move away from the expression of "vulnerable persons", although that is generally recognised within the EPRR community, and set out more broadly the wider range of vulnerabilities in the population that the plan should consider.
 
 **Counsel Inquiry**: So I'm going to press you on this. What isn't contained in the current 2023 guidance that needs to be contained within it?
 
-**Dr Andrew Goodall**: Well, the guidance does refer to inequalities, but I think it could go further and expand on what that means in terms of different population groups, minority ethnic groups, for example, who were particularly vulnerable during the coronavirus pandemic.
+**Dr Quentin Sandifer**: Well, the guidance does refer to inequalities, but I think it could go further and expand on what that means in terms of different population groups, minority ethnic groups, for example, who were particularly vulnerable during the coronavirus pandemic.
 
 **Counsel Inquiry**: For whatever reason that level of detail has not yet found its way into the 2023 guidance?
 
-**Dr Andrew Goodall**: That, I think, is simply a reflection of the scale of work that Public Health Wales is still engaged in, in the transition of Covid-19 into an endemic and the recovery work associated with that.
+**Dr Quentin Sandifer**: That, I think, is simply a reflection of the scale of work that Public Health Wales is still engaged in, in the transition of Covid-19 into an endemic and the recovery work associated with that.
 
 **Ms Blackwell**: All right. Thank you very much.
 
@@ -1397,7 +1400,7 @@ If we have a look now, please, at page 13 of this document --
 
 So that was the case as at 2017. Ms Blackwell KC put to you earlier some meeting minutes from 2019 when the CMO, Sir Frank Atherton, had raised the issue with ability to deal with HCID infection. Was that still the case as of January 2020?
 
-**Dr Andrew Goodall**: Yes, I expect it was. I certainly raised it as a concern, an ongoing concern, in July of 2019 with the Chief Medical Officer. I fully recognise this report and I fully agree with the content of this report.
+**Dr Quentin Sandifer**: Yes, I expect it was. I certainly raised it as a concern, an ongoing concern, in July of 2019 with the Chief Medical Officer. I fully recognise this report and I fully agree with the content of this report.
 
 I should state here for clarity: the responsibility for ensuring that there are safe isolation facilities on the healthcare estate rests with the health boards in Wales.
 
@@ -1407,15 +1410,15 @@ I should state here for clarity: the responsibility for ensuring that there are 
 
 So since 2006 this has been raised, it was raised in this document in 2017, and it was raised again by the CMO Frank Atherton in 2019, we get to January 2020 and still nothing has been done to address this; do you agree?
 
-**Dr Andrew Goodall**: I agree that this was a significant area that, yes, had not yet been adequately dealt with over a very long period of time.
+**Dr Quentin Sandifer**: I agree that this was a significant area that, yes, had not yet been adequately dealt with over a very long period of time.
 
 **Ms Shepherd**: Does that reflect that there was a lack of urgency in Wales to address this issue and lessons were not learned?
 
-**Dr Andrew Goodall**: I can't speculate on the precise reasons for that. As I say, Public Health Wales has flagged this as an issue over the years, but the issue clearly was not fully addressed by the time Covid-19 came along.
+**Dr Quentin Sandifer**: I can't speculate on the precise reasons for that. As I say, Public Health Wales has flagged this as an issue over the years, but the issue clearly was not fully addressed by the time Covid-19 came along.
 
 **Ms Shepherd**: Does that reflect a lack of urgency to deal with infection control generally in hospitals?
 
-**Dr Andrew Goodall**: Again, our health boards, who have responsibility for the hospitals in Wales, also have a responsibility for healthcare-associated infections and antimicrobial resistance, and again that was a journey that they were still on. Public Health Wales had worked with them over the years to address the performance and generally progress had been made, some had made better progress, but we were not yet where I would have liked by the time we reached the end of 2019.
+**Dr Quentin Sandifer**: Again, our health boards, who have responsibility for the hospitals in Wales, also have a responsibility for healthcare-associated infections and antimicrobial resistance, and again that was a journey that they were still on. Public Health Wales had worked with them over the years to address the performance and generally progress had been made, some had made better progress, but we were not yet where I would have liked by the time we reached the end of 2019.
 
 **Ms Shepherd**: Thank you, my Lady.
 

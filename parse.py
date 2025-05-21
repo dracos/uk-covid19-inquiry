@@ -248,7 +248,7 @@ def parse_transcript(url, text):
                 continue
 
             # Witness arriving
-            m1 = re.match(r" *((?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
+            m1 = re.match(r" *((?!CCG)(?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)\.?|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
             m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
             m3 = re.match(r" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
             if m1 or m2 or m3:

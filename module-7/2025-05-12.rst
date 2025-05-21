@@ -1,0 +1,1654 @@
+12-05-2025
+==========
+
+*(10.30 am)*
+
+Opening Remarks by the Chair
+----------------------------
+
+**Lady Hallett**: Good morning.
+
+Today we begin the public hearings into Module 7, investigating the test, trace and isolate policies of the United Kingdom Government, the Scottish Government, the Welsh Government and the Northern Ireland Executive.
+
+The hearings will last for three weeks, and 41 witnesses will be called to give oral evidence. As ever, we have a lot to get through in a short time so I shall keep my remarks brief.
+
+In all our modules we start the hearings with an impact film to remind everyone why we're here. I'm very grateful to all those who have contributed to making the films. I understand how difficult it must have been for them.
+
+As with the previous impact films, this one is extremely moving, and the contributors refer to sensitive topics such as bereavement and end-of-life care. There will be those who will find it too distressing to watch. I will pause in a moment to allow those who are in the hearing room who wish to do so to leave, for the length of the film, which is just over 20 minutes, and those who are following online to press "mute" or exit the live stream.
+
+After the film has been played, we shall reassemble and Sophie Cartwright King's Counsel, Counsel to the Inquiry, will begin her opening submissions. She will set the scene, provide some background, and explain the issues we shall be examining in this module in more detail.
+
+Very well. Play the film, please.
+
+*(Impact film was played)*
+
+**Lady Hallett**: Thank you. I don't know if anyone did leave, I think maybe one bereaved left.
+
+Ms Cartwright.
+
+Opening Statement by Lead Counsel to the Inquiry for Module 7
+-------------------------------------------------------------
+
+**Ms Cartwright**: Thank you.
+
+My Lady, the impact films that are shown at the beginning of each module are just one of the ways in which the Inquiry ensures a wide range of accounts are heard. On behalf of Module 7 we thank all of those who contributed to the extremely moving impact film we've just watched.
+
+The last of those who told their stories on the video, Hazel, Hazel Gray, who lost both parents within just over a month of each other, will give further impact evidence on behalf of Covid Bereaved Families for Justice Northern Ireland tomorrow, followed by impact evidence from Nicola Boyle on behalf of Scottish Covid Bereaved.
+
+This afternoon we will hear impact evidence from Professor Fulop, on behalf of Covid Bereaved Families for Justice UK, and Anna-Louise Marsh-Rees for Covid Bereaved Families for Justice Cymru.
+
+Turning then to deal with Every Story Matters records. The Module 7 Every Story Matters record analyses and brings together 44,775 stories submitted online and 340 people's stories shared during research interviews and group discussions.
+
+We are grateful to the individuals, groups and organisations who have given us feedback, ideas and helped us to hear from a wide range of people. They include FEMHO, the TUC, Long Covid Kids, Long Covid Scotland, Long Covid SOS, Long Covid Support, Clinically Vulnerable Families, SignHealth, and the Royal National Institute of Blind People.
+
+My Lady, may I formally seek your permission to adduce the record into evidence and to be published?
+
+**Lady Hallett**: It may be published. Thank you.
+
+**Ms Cartwright**: Thank you, my Lady.
+
+Contributors to the Every Story Matters record describe experiences of test, trace and isolate, which I'll now abbreviate to TTI, that echo those described on the impact film as to structural injustices, marginalisation and barriers and issues of accessibility.
+
+My Lady, I will quote just four examples at the outset and again, as within the impact videos, some of the content of these four accounts, some may find distressing.
+
+A clinically vulnerable person stated:
+
+"When information came to light about government scandals and people were getting tired of strict isolation rules, I think that's when it got to a stage where people started rebelling and people started saying no, enough's enough. I think it got to a stage, I'll be totally honest with you, people were going, Do you know what? If I'm going to die, I'm going to die with all my family around me.'"
+
+A domestic abuse survivor stated:
+
+"I self-isolated for myself for 11 days. Isolation is really hard compared to anything, you know. Taking tests is even okay. You know going to hospital is okay, but isolating yourself away from everybody is not okay, because you know you can't live without talking to, without looking at anybody, without talking."
+
+From a carer:
+
+"I suppose that if you did have to isolate you would still get paid rather than -- there's an awful lot of people in industry that don't have sick pay, so you're having to isolate for whatever reason, they just weren't paid for two weeks."
+
+And finally from another Every Story Matters contributor:
+
+"I remember people saying, 'I can't test because if I test and I'm positive, I can't work, and if I can't work, I can't support my family'. You can understand them making those choices, rightly or wrongly. You can understand, they've got to provide for their family."
+
+My Lady, having made those few introductory remarks, may I introduce those who appear before you.
+
+The representation of the Core Participants in no particular order are the following: Covid Bereaved Families for Justice UK represented by Mr Weatherby King's Counsel; Northern Ireland Covid-19 Bereaved Families for Justice, represented by Mr Wilcock King's Counsel; Covid-19 Bereaved Families for Justice Cymru represented by Ms Parsons; the Federation of Ethnic Minority Healthcare Organisations represented by Mr Thomas King's Counsel; the Trades Union Congress represented by Mr Jacobs; the Cabinet Office by Mr Strachan King's Counsel; the Department of Health and Social Care represented by Mr Stein King's Counsel; the Northern Ireland Department of Health represented by Ms Murnaghan King's Counsel; the Welsh Government represented by Mr Kinnier; Local Government Association and the Welsh Local Government Association represented by Ms Stober; the Department of Education represented by Ms Ward King's Counsel; the Chancellor of the Duchy of Lancaster represented by Mr James Strachan King's Counsel; the Department for Transport represented by Mr Glason King's Counsel; His Majesty's Treasury represented by Mr Block King's Counsel; UKHSA represented by Mr Rawat King's Counsel; Baroness Arlene Foster of Aghadrumsee and Paul Givan represented by Ms Ellison; Ms Michelle O'Neill MLA, the First Minister of the Northern Ireland Executive represented by Ms Quinlivan King's Counsel; NHS National Services Scotland and Public Health Scotland both represented by Mr McConnell King's Counsel; Scottish Health Boards represented by Mr Pugh; Public Health Wales represented by Ms Powell King's Counsel; NHS England represented by Mrs Crabtree; and the Scottish Ministers represented by Ms Drysdale King's Counsel.
+
+Module 7 has been particularly conscious, during the preparations for these hearings, of just how hard all of the legal teams and witnesses have been working to cooperate with the requests made by the Module 7 Inquiry legal team, and the competing demands caused by the module and nature of this Inquiry. 190 witnesses, including many organisations, have provided statements and as you've already said, my Lady, 41 of them will give oral evidence over the next three weeks.
+
+We are grateful to each and every person or organisation for their contribution to Module 7's substantial amount of evidence, especially to those who have contributed and/or will contribute to other modules.
+
+My Lady, when you opened the Module 2 main evidence hearings on 3 October 2023 you said as follows:
+
+"The need for me to reach conclusions and make recommendations to reduce suffering in the future, when the next pandemic hits the UK is pressing. I say 'when the next pandemic hits the UK' because the evidence in Module 1 suggested it is not if another pandemic will hit us, but when. The more witnesses we call in any module and the longer the hearing takes, the greater the delay in making recommendations, and the greater the delay in hearing other important modules investigating, for example, care homes and children and young people."
+
+Module 7 is grateful for the care and thought that has clearly gone into the witness statements and submissions that have been provided. Core Participants and a great many witnesses, informed by significant expertise, with relevant knowledge and experience of matters relating to the system of test, trace and isolate, have provided insightful comments as to the legacy of TTI, and their proposed recommendations for your consideration.
+
+Beyond those you'll hear live evidence from in Module 7, you have statements and evidence from many others. My Lady, you will wish to take into account all of the written statements and documents that are put into evidence, as well as the oral evidence heard during the Module 7 hearings, as summarised in a list of statements that will in due course be uploaded to the website, but in short, my Lady, they consist of UK decision makers, NHS England, NHS Digital, Duncan Selbie, Professor Newton, decision makers from Wales, Northern Ireland and Scotland, statements from those from local government and health, from education, justice and enforcement, impact organisations and individuals, statements from those dealing with equalities, private suppliers, societies, associations and academic institutions, SAGE and Independent SAGE scientists, and data and statistics.
+
+My Lady, you have stated your commitment in meeting the aims of the UK Covid-19 Inquiry to investigate the unequal impact of the pandemic on different categories of people across the UK, including but not limited to, those with protected characteristics under the Equality Act 2010 and equality categories under the Northern Ireland Act 1998.
+
+My Lady, you've been absolutely clear that the vital issue of the impact of the pandemic and the response to it on at-risk or vulnerable people or marginalised people and on ethnic minority groups has been at the heart of the Inquiry since its inception.
+
+Module 7 has asked all witnesses to provide relevant evidence of that, which is outlined in the Inquiry's equalities and human rights statements. Namely, did decision makers consider the impact of policy decisions on each of these groups? And were the decisions taken as a result adequate in mitigating the impact of the pandemic on these groups?
+
+It has been said by a number of witnesses and was said to you in the written submissions of Covid Bereaved Families for Justice UK prepared for the first preliminary hearing of Module 7 in June 2024 and repeated in the number of written submissions you have received, my Lady, for this hearing, that the work of Module 7 was one of the most critical modules in the entire Inquiry.
+
+My Lady, your observations of the need to make recommendations as soon as possible was never more prescient. Nearly five years ago, in May 2020, separate TTI strategies began to be launched across the four nations of the United Kingdom. My Lady, within your Module 1 report you stated:
+
+"The building blocks and essential structure of the test and trace systems established by the UK Government and devolved administrations during the pandemic should be maintained so that these systems can be rapidly restored and adapted for use in the event of a future outbreak."
+
+Lord Bethell, Minister for Technology, Innovation and Life Sciences, and who had junior ministerial responsibility for the establishment of TTI, and from whom we will hear evidence in week 2, in his statement for Module 7 dated 16 April of this year, provides his view that:
+
+"The work of this module is of critical importance, possibly the most important module for our future response to the pandemic. Because in the last three years we have gone backwards, not forwards. The diagnostic infrastructure is dismantled. The data spine is closed down. The UK diagnostic infrastructure has reverted to a small-scale, under capitalised, science-led cottage industry. Our public health infrastructure, particularly the local representation, is weaker than ever. There is little surveillance of domestic or foreign pathogens and the social habits around home testing and regular health screening have gone backwards."
+
+My Lady, in the words of Anna, who we saw on the impact video, who was working in a testing laboratory, TTI capacity needs to be resourced, and we can't run on the fumes forever.
+
+My Lady, a brief observation on the practicalities of this hearing and all of the hearings over the next three weeks: Module 7 hearings over the next three weeks are being recorded and live streamed to other locations. This allows the hearing to be followed by a greater number of people than would be able to be accommodated within this hearing room.
+
+My Lady, as you well know it goes a considerable way to satisfying the obligations set out in section 18 of the Inquiries Act to take such steps as you consider reasonable to ensure that members of the public are able to attend or see and hear a simultaneous transmission of these proceedings.
+
+The broadcasting of this hearing will be conducted with a three-minute delay. This provides the opportunity for the feed to be paused if anything unexpected is aired which it should not be, and we do not expect that to arise over the course of today, but I mention it so that those who are following proceedings from further afield can understand the reason for any such short delay during the course of Module 7's next three weeks.
+
+My Lady, could I very briefly display on the screen the outline of scope for Module 7, which is well known to you, my Lady, and all of those in the hearing room.
+
+Thank you.
+
+The outline of scope for Module 7 states that it will look at and make recommendations on the approach to testing, tracing and isolation adopted during the pandemic in England, Wales, Scotland and Northern Ireland, from January 2020 until 28 June 2022. This includes Test and Protect (Scotland), Test and Trace (England), Test, Trace, Protect (Wales), and Test, Trace and Protect (Northern Ireland).
+
+And again, in high-level summary, my Lady, this module considers the policies and strategies developed, decisions made by key bodies, the availability, use and effectiveness of different test, trace and isolate technologies, the structure of the test, trace and isolate system and the cost, enforcement, financial and practical support to those required to isolate, and the availability and use of data in decision making. And finally, by way of the fifth paragraph and perhaps of significant importance, the preservation of infrastructure, capacity, and research to improve and develop test, trace and isolate schemes for future pandemics.
+
+Some of the questions that the Inquiry and Module 7 will be exploring in the evidence include -- sorry, that can be removed from the screen, thank you -- what policies and strategies for test, trace and isolate were developed and deployed between January 2020 and June 2020 in England, Wales, Scotland and Northern Ireland, and how did they vary across the four nations.
+
+Were the policies and strategies deployed effective at meeting their stated objectives? Were the strategies and policies adopted developed with sufficient knowledge and regard had to asymptomatic transmission?
+
+Did the development of the overarching strategies and policies take account of the Public Sector Equality Duty? And how effective were any steps taken to mitigate unequal impacts on the general population across the United Kingdom and in particular, vulnerable groups?
+
+How effectively were the adopted policies and strategies communicated to the general public?
+
+How did available data and strategies or expert advice inform the development of the policies and strategies?
+
+How effectively was technology used in the rollout of the test, trace and isolate system? How effective was contact tracing? And did it adequately utilise existing and local infrastructure?
+
+How effective were the tools in place for enforcing and monitoring isolation?
+
+Were appropriate steps taken to support people to comply with test, trace and isolate?
+
+Finally, what recommendations can be made for future pandemics?
+
+My Lady, a more detailed list of the issues in Module 7 has been shared with the Core Participants.
+
+My Lady, I will now provide a brief summary of some of the facts which are by no means exhaustive, but I'm simply going to try and pick out some of the things that provide some of the foundation for the thematic issues.
+
+The emergence of the Covid-19 pandemic presented the United Kingdom Government and the devolved administrations in Scotland, Wales and Northern Ireland with an unprecedented challenge in respect of testing strategy and the structure and response. The response to the Covid-19 pandemic required the expertise, knowledge and research of medical clinicians and the scientific community, including from specialists in infectious disease, virology, pathology, the microbiology community, epidemiologists, modellers, statisticians, behaviourists, and public health to inform decision making.
+
+The devolved nations of the United Kingdom have authority and responsibility for public health in their own jurisdiction, and Module 7 provides an opportunity to examine the coordination between the devolved nations and Westminster to achieve an effective test, trace and isolate response.
+
+We will need to consider the full range of circumstances when designing a shared testing system. Data and health systems differ across the four nations. Testing policy and delivery is complex, with multiple interacting systems and needs and the need to work collectively with colleagues from across the United Kingdom, across the relevant sectors or organisations involved, and while enabling appropriate governance within each nation for operational delivery and devolved responsibilities.
+
+Could I ask, please, to be displayed INQ000587455.
+
+My Lady, this is a high-level summary of test, trace and isolate across the United Kingdom in response to the pandemic. My Lady, I'll display it for a little time as I continue. It will then be taken down but a lot of the dates that form part of my summary are from this summary, but I won't keep asking for it to be displayed. But essentially these are the dates that are being used for this opening.
+
+Developing diagnostic tests is an urgent priority for the international community once a novel infectious disease emerges. The same was true for Covid-19. In January 2020, just after the publication of the first genetic sequences of SARS-CoV-2, researchers used the data to build molecular tests for the virus.
+
+The coronavirus Covid-19 testing programme was developed during the pandemic. You have already heard evidence pertaining to preparedness in Module 1 and published your findings in your Module 1 report on resilience and preparedness of the UK in July 2024. Within that report you found there was a damaging absence of focus on the measures, interventions and infrastructure required in the event of a pandemic. In particular, a system that could be scaled up to test, trace and isolate in the event of a pandemic.
+
+Module 7 will focus on the development of TTI and the timing of that development in response to the Covid-19 pandemic.
+
+During the pandemic, a number of types of Covid-19 tests were used. These were initially the reverse transcription polymerase chain reaction tests, more commonly known as PCR tests, which were developed early in the pandemic in the UK with tests available in small numbers from January 2020.
+
+Later tests include the rapid antigen or lateral flow device, LFD, an antibody blood test. Other testing methods including reverse-transcription loop-mediated isothermal amplification, RT LAMP, and other testing functions were also explored, such as wastewater testing.
+
+Work to develop testing capabilities began as soon as the genetic sequencing of SARS-CoV-2 was published in January 2020 and the work-up of a new PCR diagnostic test was commenced.
+
+China released the first viral genome sequence on 10 January 2020, and on 12 January 2020 deposited four further genomes in the viral sequence database curated by the Global Initiative on Sharing All Influenza Data.
+
+Using this genome sequence and information from related viruses, Public Health England, in collaboration with lab partners in Europe, the UK and Hong Kong, were able to develop a specific PCR test for Covid-19 without any biological virus material.
+
+Public Health England as it then was in 2020 was an executive agency of the Department of Health and Social Care until it was replaced by the UK Health Security Agency and Office for Health Improvement and Disparities in October 2021.
+
+It was responsible for all aspects of public health.
+
+The PHE assay was available and in use from 21 January 2020, and the methodology was shared publicly on 23 January 2020. Testing had been among the topics discussed at a precautionary Scientific Advisory Group for Emergencies (SAGE) meeting on 22 January 2020.
+
+My Lady, you've heard much about the SAGE organisation and its subgroups but for a moment can I briefly display an organogram of SAGE and its subgroups, please. INQ000587458.
+
+My Lady, it needs no introduction to yourself but it might assist those following.
+
+The minutes noted that the UK was "days away from a specific test, which is scalable across the UK in weeks. The sensitivity of the test", it was said in that meeting of 22 January, "is currently unknown. There are conflicting reports of the sensitivity of diagnostic tests from upper respiratory tract sampling", and SAGE agreed that the criteria proposed by DHSC and PHE for testing "potentially infected individuals" were appropriate, namely, those presenting with symptoms of what was then being called WN-CoV, and a history of travelling to or living in Wuhan in the 14 days prior to the symptom onset.
+
+By 28 January 2020, SAGE had confirmed that a PCR test would be available within days. This was initially limited to 400 to 500 tests per day.
+
+Throughout the initial phase, the decisions taken by the DHSC and PHE were supported by advice from SAGE, Scientific Pandemic Infections Group on Modelling, SPI-M, Scientific Pandemic Insights Group on Behaviours, and the available data at the time.
+
+That can be taken down, please.
+
+The Public Health England assay was used at the PHE Colindale laboratory to diagnose the first case in England on 31 January 2020.
+
+PHE isolated and grew the SARS-CoV-2 virus from the first UK diagnosed case, which provided essential control material for the expected use of the PHE assay, which, on 10 February 2020, was rolled out to 12 PHE labs across the United Kingdom. Shipments of live SARS-CoV-2 virus, containing control materials from PHE Colindale was sent to partners in academia, other government constitutes and industry, began on 17 February 2020 as soon as the material was available, supporting the development of commercial diagnostic assays and wider capability.
+
+At this point there were still challenges relating to how the SARS-CoV-2 virus could be handled. The Advisory Committee on Dangerous Pathogens, ACDP, sets the classification of biological agents according to their level of risk of infection to humans.
+
+Biological agents are categorised into four hazard groups from 1 to 4, with 4 being the highest. Categorisation allows for measures to be put in place to control substances that are hazardous to health.
+
+In January and February 2020, laboratory work on SARS-CoV-2 was being done at containment level 3, one step down from the highest containment level.
+
+On 13 February 2020, the Advisory Committee on Dangerous Pathogens provisionally classified SARS-CoV-2 as a containment level 3 pathogen. This meant that samples from individuals with suspected or confirmed Covid-19 had to be handled in closed environment and applying stringent safety measures. This made working with the pathogen more resource-intensive and required specialist facilities and trained staff and limited the laboratories that were able to process the tests for Covid-19.
+
+The need to work at commitment level 3 was a break on the expansion of testing. On 28 February 2020, PHE, through the Health and Safety Executive, formally asked the Advisory Committee on Dangerous Pathogens for permission for testing to be carried out at a lower level of containment, provided certain conditions could be met to ensure safety.
+
+On 1 March 2020, the Health and Safety Executive and ACDP agreed to a PHE recommendation that work on the virus could be done at that lower containment level of 2, on the condition that appropriate controls were put in place at testing laboratories.
+
+This decision meant that PCR tests could now be processed more widely across the National Health Service, universities, and commercial laboratories, giving more options for increasing testing capacity, ultimately allowing for a significantly increased level of community testing.
+
+On 8 March 2020, Public Health England reported to the Secretary of State for Health that the current testing capacity within PHE was 2,100 tests per day. It was predicted that with the addition of a first phase of NHS laboratories, the capacity would increase to 4,500 tests per day over the next four weeks.
+
+The addition of NHS labs in all 29 pathology regions was predicted to add an additional 3,000 to 4,000 tests, giving a total of 7,100 to 8,000 tests per day.
+
+Throughout this period, Public Health England had been working with large-scale diagnostic manufacturers to develop scalable diagnostic tests.
+
+My Lady, you may recall that, in Module 3, you asked Sir Chris Wormwald if the UK had the necessary infrastructure to be able to put into place swiftly a scaled-up system of test and trace.
+
+Module 7 will fully explore this issue.
+
+On 12 March 2020 the risk level to the United Kingdom was raised from moderate to high as a consequence of the increase in transmission.
+
+The Inquiry is now well aware, from the work of earlier modules, that widespread testing and contact tracing stopped on 12 March 2020.
+
+Testing is a vital tool in responding to a pandemic, yet the Government for the United Kingdom abandoned community testing at this early stage of the pandemic.
+
+At COBR, on 12 March 2020, Professor Whitty stated that:
+
+"Once the policy of seven days self-isolation was in place, the plan would be to stop all testing of people entering into self-isolation and to stop all contact tracing from other geographical areas."
+
+Before the Covid-19 pandemic, PHE and NHS contact tracing systems were designed to respond to outbreaks and incidents, including those of national and international impact. Directors of public health within local authorities had existing systems and expertise for contact tracing.
+
+But on 12 March 2020 all four nations agreed to move from contain to delay, and the first restriction of self-isolation for people with mild Covid-19 symptoms to self-isolate was announced by the Prime Minister, Mr Johnson.
+
+Module 7 will explore the decision on 12 March 2020 to stop testing and contact tracing, and including in the context of, firstly, on 14 March 2020, PHE forming a partnership with Roche Diagnostics to deploy its new SARS-CoV-2 PCR test. This test could be processed using Roche high throughput PCR processing systems which were already in place in most public sector organisations, for example, NHS hospital laboratories in large NHS trusts.
+
+By the end of April 2020 the Roche test had increased total daily PCR capacity by approximately 5,000 tests per day.
+
+But, my Lady, the decision of 12 March 2020 also needs to be seen in the context of the announcement on 16 March 2020 of the Director General of the World Health Organisation, Dr Tedros Ghebreyesus stating that:
+
+"We have a simple message to all countries: test, test, test.
+
+"Test every suspected case.
+
+"If they test positive, isolate them and find out who they have been in close contact with up to 2 days before they developed systems, and test those people too."
+
+A note to this advice on 16 March 2020 included that the World Health Organisation recommended "testing contacts of confirmed cases only if they showed symptoms of COVID-19".
+
+On 16 March 2020, individuals with the symptoms of Covid-19 and their household contacts were advised to stay at home. The guidance detailed that if you lived alone and you had symptoms of coronavirus illness, however mild, there was a need to stay at home for seven days from when your symptoms started, and that if you lived with others and you or one of them had symptoms of coronavirus, then all household members must 'Stay at Home' and not leave the house for 14 days.
+
+On 17 March 2020 the Department of Health and Social Care took over responsibility for scaling up testing from PHE, Public Health England. The Inquiry will examine in detail what followed. On 23 March 2020, the first nationwide lockdown was announced.
+
+Until May 2020, only those hospitalised or included within specific outbreaks were tested, and at that point all symptomatic individuals became eligible for testing.
+
+Statistics from DHSC indicated that by 23 March the number of cases verified by a positive test in the UK was 6,650, with 77,295 negative tests.
+
+Estimates from the First Few 100 study and the Covid-19 Hospitalisation in England Surveillance System showed the true number to be in the region of 500,000, with over 100,000 of those infections occurring on the day that lockdown began.
+
+New cases were doubling approximately every 2.8 days.
+
+Priorities for testing of health care workers and frontline workers will be explored in Module [7].
+
+Could I ask, please, to be displayed INQ000587459.
+
+My Lady, it has been said that to implement effective test, trace, isolate and support systems, or to "win the game", countries must ensure that those with Covid-19 progress as quickly as possible from the start to the finish. If this does not happen, new cases will appear and another lockdown will be needed. Countries can do this most effectively by putting in place measures that enhance the availability to find, test, trace, isolate and support -- that is, landing on ladders -- and by avoiding setbacks that occur due to insufficient capacity in the health system and beyond -- avoiding snakes.
+
+My Lady, we will look at this snakes and ladders and the approach with Professor McKee tomorrow.
+
+That can be taken down, please.
+
+Could I ask again for the chronology to be displayed INQ000587455.
+
+My Lady, on 25 March 2020, Northern Ireland introduced the Discretionary Support self-isolation grant, the expert report from Professor Machin provided for Module 7 provides a detailed analysis of self-isolation support schemes developed over time.
+
+Test and trace support in England was introduced in September 2020. In Scotland, the Self-Isolation Support Grant in October 2020, and in Wales, Self-Isolation Support Scheme in November 2020.
+
+Module 7 will examine how the isolation support schemes operated, and the effectiveness of these as part of the system of test, trace and isolate across the four nations.
+
+Continuing with the chronology, from 25 March 2020. PHE continue to lead work to develop an expanded contact tracing system, including continuing to develop the contact tracing and advice service system for implementation once wider testing was available, CTAS.
+
+The Contact Tracing and Advice Service worked with a digital tool in February 2020 to help manage the increasing demand for contact tracing. Contact Tracing and Advice Service enabled PHE to contact confirmed and possible cases of Covid-19, their contacts and returning travellers, to complete contact tracing.
+
+Cases and contacts were directed to a web-based form to answer contact tracing questions and, where straightforward, they could complete the contact tracing journey through CTAS which provided advice on self-isolation as required. This formed a part of a broader programme of work for which DHSC was responsible, including the National Testing Programme, as part of the United Kingdom Government's test, trace and isolate strategy.
+
+In April 2020, the Department of Health and Social Care created the National Testing Programme as part of the government's ambition to scale up testing capacity and distribute tests more widely through a phased approach beginning with patients, NHS workers and their families, other critical key workers, and then expanding to the wider community over time.
+
+In April 2020 the government's testing strategy was launched, linked to the opening of the first Lighthouse testing laboratory.
+
+The National Testing Programme, NTP, refers to both the programme and the unit charged with delivering that programme. The National Testing Programme initially operated within the Department of Health and Social Care and brought together supply chain, logistics and procurement expertise from across government, the military and private sector.
+
+It was integrated into the TTI strategies upon their establishment in May 2020 across the four nations.
+
+My Lady, as you're well aware, on 2 April 2020 Mr Hancock set the target of running 100,000 tests a day by the end of April.
+
+The Francis Crick Institute, "the Crick", is the largest biomedical research institute under one roof in Europe. The Inquiry will hear evidence from Sir Paul Nurse, the Crick director, on Thursday this week, that this large-scale big-ships approach introduced by the Lighthouse laboratory new scheme was prioritised and the little boats approach ignored, despite the suggestions of Crick scientists and others from universities and laboratories with testing facilities who were available and ready to support complementary small-scale efforts throughout the country in the provision of PCR testing, and with the equipment, skills and expertise.
+
+In a statement provided to Module 7 from the Royal College of Pathologists, it is detailed how many NHS clinical diagnostic laboratories, and also universities, could have had capacity to carry out more testing than they did, but testing was outsourced to private laboratories which were not all subject to the same high pre-symptomatic, asymptomatic and post-symptomatic transmission of SARS-CoV-2 joint British Infection Association, Healthcare Infection Society, and the Infection Prevention Society and Royal College of Pathologists guidance standards of quality assurance routine in NHS laboratories.
+
+The Royal College of Pathologists provide the view that use of existing clinical laboratories and of university laboratories and their skilled staff would have been much more financially efficient and that there was a missed opportunity to invest this resource in equipment and infrastructure for existing NHS labs, with huge resources going to temporary, often lower-quality, facilities in the private sector instead.
+
+The government strategy was to support Lighthouse laboratories and not smaller local, more agile testing. It is still unclear and will be investigated by Module 7 who proposed this approach, who approved it, and why full consideration was not given to more local small-scale efforts which could have been put in place more rapidly.
+
+Similarly, a statement provided to Module 7 from the Microbiology Society records:
+
+"The Society believes that the Government did not sufficiently engage with universities and research institutes to understand their capacity and ability to support in the scaling up of testing, despite offers from the Society and its members. When Mr Hancock announced the five pillars of testing, including the intention to develop a UK-wide diagnostic infrastructure, frustration was felt at the delay, for the community was willing and prepared to support. However, a lack of clarity on how to help and a lack of support by the Government on local testing systems to overcome the lack of communication between NHS and other laboratories meant that there was still significant capacity wastage by the autumn of 2020.
+
+"The Society further does not understand why the Government did not consider capacity in universities for the development of reagents, even if the diagnostic capacity itself was not used universities would have been well placed to support reagent production."
+
+My Lady, that quote from the Microbiology Society referenced Mr Hancock's five-pillar approach, and could I ask, please, for INQ000106460, and page 9 internally to be displayed, please.
+
+Thank you.
+
+On 4 April 2020 the Department of Health and Social Care published its five-pillar testing plan, including the target to increase the testing, as I've already said, to 100,000 tests a day by the end of April.
+
+My Lady can see the five pillars represented by the strategy: Pillar 1 to scale up NHS diagnostic testing aimed at critical key workers. On its announcement on 4 April, Pillar 2 was said to be a partnering with universities, research institutes and commercial partners, to create capacity for mass testing for the general public. Pillar 3 was to develop antibody testing in cooperation with a private sector provider. Pillar 4 was to be surveillance testing to learn more about the disease and help develop new tests and treatments. And Pillar 5 was the diagnostics national effort to build a mass testing capacity at a completely new scale.
+
+The fifth pillar was designed to growth UK's diagnostics industry substantially and to rapidly create a new mass testing capacity. This relied heavily on the introduction of lateral flow device tests which were developed, tested and trialled during mid-2020 and introduced for use in the National Testing Programme in late 2020.
+
+The Inquiry will explore the extent to which the pillars were implemented as part of the system of TTI.
+
+And if that could be taken down, please.
+
+Continuing, then, with the chronology as we move towards May. The first of a network of drive-through testing sites, regional testing sites, was set up on 25 March 2020. By 23 April 2020, there were 30 such sites and their number continued to increase thereafter.
+
+On 9 April 2020, the first Lighthouse laboratory was launched. A Lighthouse laboratory network was established to increase testing capacity with facilities brought online to manage initial testing growth and then variable demand.
+
+Could I ask, please, for INQ000587456 to be displayed. Thank you.
+
+The Lighthouse labs were higher throughput diagnostic testing facilities purposefully created to only process Covid-19 samples following input from PHE specialists and other specialist stakeholders.
+
+The first such laboratory was set up in Milton Keynes, followed by laboratories at Alderley Park, Cheshire and Glasgow in April 2020.
+
+The Lighthouse laboratories later became part of the NHS Test & Trace laboratory network.
+
+Increasing access to tests required a commensurate increase in laboratory capacity so that the return tests could be analysed. PHE played a key role in supporting the national testing project to establish the Lighthouse laboratories.
+
+Could that be taken down, please.
+
+Briefly in respect of mobile testing units, these were manned by military personnel and first piloted on 17 April 2020 with the first unit becoming operational on 19 April 2020. The use of mobile testing units meant that those who could not drive to a regional testing site had access to testing. They were deployed in response to a request from local authorities or to locations such as care homes, prisons or factories, where there was a demand for testing. Once on site they could begin work within 20 minutes. Mobile testing units played a role in investigating hot areas of new variants and/or rapid epidemiological increases, so providing additional support, it is said, at a local level.
+
+It is clear that from the middle of March 2020 the Department of Health and Social Care and Lord Bethell, who was mentioned earlier, were engaging with a number of private companies, including Deloitte, to establish the infrastructure for the system of TTI.
+
+Could I ask, please, for INQ000587457 to be displayed.
+
+And, my Lady, this gives a snapshot of the number of private companies that were involved in the establishment of the test, trace and isolate system, including those who were set up and responding in respect of testing, and those companies and organisations assisting with contact tracing.
+
+My Lady will see within that image companies, Royal Mail and Amazon. There was a delivery service that was set up for sending PCR testing kits to homes, designed with Deloitte and industry partners, including Royal Mail and Amazon. The home delivery service meant that those not able to travel to a test location, such as a regional testing site, could still take the test.
+
+The Inquiry will examine the timeline of eligibility for tests, how effective the systems were, and how accessible tests really were.
+
+PHE provided public health guidance and expertise to the National Testing Programme, initially as testing became accessible to staff across the NHS and their household members, including individuals working in the NHS, outside acute care, for example in mental health, primary care and community services.
+
+Please can that be taken down and can we return to the chronology.
+
+My Lady, perhaps if I can briefly deal with symptomology before we take the morning break.
+
+My Lady will see from the overview chronology that on 18 May 2020, all symptomatic individuals were available for testing. Anosmia, meaning loss of smell, and ageusia, loss of taste, was adding to the list of symptoms that require seven-day isolation, on 18 May 2020.
+
+On Monday next week the Inquiry hear from Professor Tim Spector. The ZOE Covid symptoms study was initiated in March 2020 and provided data from those who joined through an online app and self-reported their presence or absence of symptoms, a subset of which were confirmed through diagnostic tests.
+
+On 24 March, one of the symptoms for selection added to the ZOE symptom study was loss of smell or taste.
+
+By 27 March 2020, the ZOE study had identified that the symptoms of loss of smell or taste were strongly associated with testing positive for Covid-19, and it also identified within the elderly aged over 75, acute confusion could be the only presenting symptom requiring differing guidelines for testing in frail, older people.
+
+One of the issues Module 7 will explore is why it took until 18 May 2020 for a loss or change sense of normal smell or taste to be recognised formally as a symptom of Covid, and whether the presentation of symptoms in older people was recognised. We will also explore the knowledge and understanding in respect of asymptomatic transmission of Covid.
+
+My Lady, would now be a convenient moment to take the morning break?
+
+**Lady Hallett**: Certainly.
+
+**Ms Cartwright**: Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much. I shall return at midday.
+
+*(11.43 am)*
+
+*(A short break)*
+
+*(12.00 noon)*
+
+**Lady Hallett**: Ms Cartwright.
+
+**Ms Cartwright**: My Lady, thank you.
+
+Before moving to the TTI strategies, can I apologise to Ms Mitchell King's Counsel and Scottish Covid Bereaved. In doing the introductions, I omitted to welcome her to the room. So I apologise sincerely to here and her team.
+
+**Lady Hallett**: How could you, Ms Cartwright?
+
+**Ms Cartwright**: My Lady, then, for the purposes of concluding my address, I want to focus finally on the TTI strategies developed in May 2020 and then give an indication of some very top-line things in respect of the system to its conclusion.
+
+My Lady, the scale of the task of test, trace and isolate was underpinned by SAGE agreeing at its 32nd meeting on 1 May 2020 that in developing an effective test and trace system at least 80% of contacts of an index case of Covid-19 would need to be contacted for the system to be effective. SAGE had high confidence that isolation of those contacts within 48 hours would be desirable. On 4 May 2020, the Department of Health and Social Care announced the first phase of "test, track and trace", a programme aimed at controlling the spread of Covid-19 as the UK began to ease lockdown restrictions. The programme was designed to work alongside existing local public health teams and emerging digital solutions to enhance contact tracing efforts. The government launched a trial of the NHS Covid-19 app alongside traditional contact tracing methods on the Isle of Wight to assess its effectiveness before a wider rollout.
+
+The Isle of Wight was a suitable first test location because it was an island with a sizeable population served by a single NHS trust. The app was designed to integrate with enhanced contact tracing services and swab testing for those with potential Covid-19 symptoms to help minimise the spread of Covid-19.
+
+The original NHS version of the app faced challenges relating to bluetooth accuracy and compatibility across devices. New technology developed by Apple and Google altered approaches which could be taken to app-based contact tracing.
+
+As a result, NHS Test & Trace went on to work with external contractors on a new NHS Covid-19 app using the new available technology.
+
+My Lady, we will hear from Professor Christophe Fraser in respect of the app development tomorrow, and Mr Gould and Mr Thompson on Friday. We will explore in Module 7 how the apps developed and implemented different across the four nations and the systems of contact tracing utilised, including digital and manual contact tracing and if it suitably and effectively utilised the existing role for the associate directors of public health.
+
+My Lady, I'm now going to give a summary of each of the systems and strategies that were implemented across the four nations in May 2020.
+
+Can I start, please, with Scotland and can we please display INQ000587500. Thank you.
+
+On 4 May 2020, Scotland published its test, trace, isolate, support strategy. Nicola Sturgeon set out that the Scottish approach to test, trace, isolate, support, and the extensive work that was under way to prepare for its implementation on 4 May stating:
+
+"Our behaviour matters, and our choices and willingness to make sacrifices to help keep people in Scotland safe will be crucial.
+
+"A key aspect of this next phase is a 'test, trace, isolate, support' approach. We will test people in the community who have symptoms consistent with Covid-19. We will use contact tracing, a well-established public health intervention, to identify the close contacts of those cases who may have had the disease transmitted to them. We will ask and support those close contacts to self-isolate, so that if they do develop the disease, there is less risk they will pass it on to others. And we will make sure that support is available to enable people to isolate effectively.
+
+"However, it is important to stress that 'test, trace, isolate, support' will be most effective when levels of infection are low -- lower than now -- and stay low, and that its success relies on all of us knowing and agreeing what to do if we have symptoms, and being prepared to self-isolate when advised to do so."
+
+Can that be taken down, please.
+
+And my Lady, you can see a very high-level summary on that image that related to Scotland's systems.
+
+Turning then, please, to Wales -- thank you.
+
+On 13 Wales 2020, Wales published its Test, Trace, Protect plan. And on that date, Mr Gething, then Minister for Health and Social Services said:
+
+"We all want to be able to return to normal life as quickly as possible and to ease restrictions further -- the science will guide us about when that happens.
+
+"Our Test, Trace, Protect strategy will be a key element in enabling us do that by enabling us to quickly identify people with coronavirus symptoms; to identify any new hot spots and to isolate as many contacts as possible."
+
+And it was said that that plan included: increasing testing of critical workers to enable them to return to work; a new system of home testing for the public if they have coronavirus symptoms; a new app to track symptoms in the general population and contact others who have symptoms or have tested positive; and it detailed at that time in Wales that the testing capacity stood at more than 5,000 tests a day with six drive-through testing centres, eight mobile units, and a number of community testing centres throughout Wales.
+
+It was said that testing capacity was to be increased by up to 20,000 tests per day by drawing on the UK-wide scheme as the Test, Trace, Protect strategy is implemented.
+
+Could that please be taken down, and could I ask that the similar image for Northern Ireland be displayed. Thank you.
+
+In Northern Ireland, on 27 May 2020, the "Covid-19 Test, Trace and Protect Strategy: Saving lives by minimising SARS-CoV2 transmission in the community in Northern Ireland", was published by the Northern Ireland Department of Health.
+
+The strategy as of 27 May 2020 detailed that:
+
+"In line with the rest of the [United ]Kingdom, the PHA were conducting rigorous contact tracing for all cases of COVID-19 until the 12th March 2020. On the 12th March, the UK moved from the containment phase to the delay phase. The focus of our efforts then shifted from individual contact tracing to wider measures, including advising all of the public to immediately self-isolate if they had even mild symptoms, prevention of spread, and social distancing."
+
+And that policy detailed that the four key elements of Test, Trace, and Protect were: early identification, isolation of possible cases, clusters and outbreaks; rapid testing of possible cases; tracing of close contacts of cases; and early, effective and supported isolation of close contacts to prevent onward transmission of infection.
+
+And it was said that chains of transmission can only be broken if those who could transmit the disease to others are isolated and get the support they need to maintain that isolation.
+
+My Lady, in the third week of the hearing we will hear evidence from Professor Arden in respect of her opinion as to the analysis of adherence to behaviours associated with the TTI system. But it was clear that the Northern Ireland strategy had identified the need for support for isolation.
+
+My Lady, can we then please display, in respect of England, INQ587506. Thank you.
+
+On 27 May 2020 Matt Hancock announced that the NHS Test & Trace service would be launched on 28 May 2020. NHS Test & Trace was funded and supported by the Department of Health and Social Care, and notwithstanding its name, it was not part of NHS England. The Secretary of State for Health and Social Care can designate an organisation as "NHS", and decided to do so in the case of NHS Test & Trace.
+
+Baroness Dido Harding was appointed to lead the UK Government's programme of testing and tracing following her appointment on 7 May 2020 as executive chair.
+
+Professor Newton of Public Health England continued to provide the professional link into public health expertise, and we will hear from Baroness Harding in the third week of the Inquiry.
+
+My Lady, you're already aware that there was a unique reporting structure within NHS Test & Trace. The Department of Health and Social Care had ministerial accountability for NHS Test & Trace and reported directed to the Prime Minister and the Cabinet Secretary until 2 December 2020. From 3 December 2020 until 7 May 2021, the executive chair then reported to the Secretary of State.
+
+My Lady, in respect of NHS Test & Trace strategy in May 2020, it was to: test, first of all, increasing availability and speed of testing; to trace when someone tests positive for coronavirus using the NHS Test & Trace, with a dedicated contact tracing staff, online service, and local public health experts.
+
+In respect of contain, a national Joint Biosecurity Centre was to work with local authorities and public health teams in Public Health England, including local directors of public health, to identified localised outbreaks and support effective local responses, including plans to quickly deploy testing facilities to particular locations, and it was said that local authorities had been supported by £300 million of new funding to help local authorities develop their own local outbreak control plans.
+
+Finally, in respect of the strategy, enable: for the government to learn more about the virus, including as the science developed, to explore how it could go further in easing infection control measures.
+
+My Lady, that is a summary of testing strategies as at May 2020. And each of those diagrams give an overview of the systems that were then adopted across the four nations.
+
+My Lady, briefly we will hear further in Module 7 in respect of the development of the Operation Moonshot programme. We will also examine the development into the Community Testing Programme, which was published on 23 November 2020 as part of the Covid-19 Winter Plan.
+
+Module 7 will look at the differing approaches to enforcement of isolation across the four nations. We will also look and examine the Universal Testing Offer as announced in April 2021.
+
+My Lady, at its peak, NHS Test & Trace was capable of processing 800,000 PCR tests a day and distributing 900,000. My Lady, as part of the Universal Testing Offer, lateral flow devices became key, and, my Lady, from its conception to winding down in 2022, 15.8 million individuals who tested positive for Covid-19 were contacted, with 31.3 million close contacts of those 15.8 million people traced as part of the contact tracing effort.
+
+And, my Lady, you're already well aware that on 24 March 2021 the government announced that NHS Test & Trace would form part of the newly created UK Health Security Agency, with that transfer happening at an operational effectiveness commencing on 1 October 2021.
+
+My Lady, the total value of contracts awarded to the suppliers of consultancy services is a matter you've already heard some evidence about. My Lady, you will recall from Module 5 and the evidence of Lord Agnew that there are mixed views as to the operation of some of the private contracts used as part of the TTI system and the cost of the same. The Inquiry will explore the use of the private sector and ask if existing infrastructure could have been better utilised rather than the private sector companies to scale up testing and effectively implement contact tracing.
+
+My Lady, finally by way of my opening submissions, a brief comment as to costs. My Lady, figures as to costs you've already heard in earlier modules, but, my Lady, the initial budget for the NHS Test & Trace service, made up predominantly of funding for testing, was 15 billion for April 2020 to March 2021. The November 2020 Spending Review introduced a further 7 billion of funding to support the rollout of mass testing, as well as the continued increase in testing capacity.
+
+This raised the total budget to 22 billion from 2020 to 2021. In practice, NHS Test & Trace spent 13.5 billion in 2020 to 2021, of which 10.4 billion was on testing. A further 15 billion was allocated to NHS Test & Trace in 2021 to 2022.
+
+In conclusion, my Lady, Module 7 will investigate each of these systems, Test and Protect (Scotland), Test and Trace (England), Test, Trace, Protect (Wales) and Test, Trace and Protect (Northern Ireland), and any variations in the measures adopted by the governments to contain the Covid-19 virus, the reason for any variations, and the timing and implementation of decisions, and the effectiveness of the systems implemented. We will further consider the consistency of decision making across the four nations.
+
+But, my Lady, principally we will do so through the lens of informing required recommendations that will flow from Module 7 and to help public health efforts to stem the spread of viruses across the UK in any future epidemic or pandemic.
+
+My Lady, thank you. I think the next opening submissions are to be provided by my learned friend Mr Weatherby King's Counsel on behalf of Covid Bereaved Families for Justice UK.
+
+**Lady Hallett**: Thank you very much indeed, Ms Cartwright.
+
+Mr Weatherby, as you're first up, can I just say this: I do know how difficult it has been, for reasons beyond the Inquiry's control, to prepare for these hearings -- for everybody, the Inquiry team, the Core Participants -- and I'm really grateful to all of you for the heroic efforts you've been making.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice by Mr Weatherby KC
+----------------------------------------------------------------------------------
+
+**Mr Weatherby**: Thank you very much.
+
+Anthony Costello, professor of global health at the UCL Institute for Global Health and a former WHO director, starkly sets out the backdrop to Module 7 in his witness statement at paragraph 66. Talking about the comparative outcomes of the UK and east Asian countries from the outset of the pandemic, he asserts this and I quote:
+
+"Over the next three years East Asian death rates were five times lower than the UK. Demographics cannot explain these huge differences. Notably Japan and South Korea had similar GDPs, life expectancy and age profiles to the UK. If we had followed the same strategy and achieved the same cumulative death rate by March 2004 as South Korea (69 per 100,000) rather than the UK (344 per 100,000) we might have prevented over 180,000 deaths. As important, large countries like Japan and South Korea had no prolonged national lockdowns, only in hotspot areas. They had no second waves before a vaccine was available and new outbreaks were quickly snuffed out by surveillance and isolation of the affected."
+
+In setting out the fact that so many lives might have been saved had the UK taken a course similar to East Asian countries, no doubt Professor Costello was not trying to draw an exact comparison or give anything other than a stark headline, but what his evidence does is to highlight that Module 7 is not simply an examination of one aspect of the pandemic response, one aspect of how we might seek to do a little better next time, but an illustration of just how catastrophic the UK's approach to TTIS really was. It started with no planning, no capacity, no contact tracing, lab analysis or isolation infrastructure for anything other than the occurrence of a limited high-consequence disease outbreak, and perhaps most significantly, too little support for those most likely to spread the virus if they did not test and isolate.
+
+Compounding the lack of planning was the incompetence of the UK Government response and the attempts to pretend that the UK was well prepared. At the Downing Street press conference on 3 March, Mr Johnson told us, the public, that the UK had, and I quote "fantastic testing systems and fantastic surveillance of the spread of the disease".
+
+This was very far from the truth.
+
+Well before the pandemic, in early 2019, a BMJ article had flagged the lack of diagnostics as "one of today's most serious health security blind spots". The problem was longstanding, underinvestment and lack of planning, all political choices.
+
+By about the time of Mr Johnson's March press conference, as we pointed out in Module 2, South Korea, a comparable country on many metrics, had undertaken five times the number of tests undertaken by the UK.
+
+At about this time, as we've heard this morning, the Director General of the WHO, Dr Tedros, very publicly urged the world to test, test and test. As we heard in an earlier module, Dame Jenny Harries, then DCMO for England and now chief executive of UKHSA, told the Downing Street press conference, again in March 2020, that the WHO directive was aimed at low and middle-income countries.
+
+She told this Inquiry that the UK had indeed been testing but had no tests left.
+
+In his witness statement, Professor Pillay says that at the time, the suggestion that the WHO appeal was aimed at less well-developed countries was "derided by many" and suggested to us that the UK Covid response was both "complacent" and based on a "UK exceptionalism".
+
+Dame Jenny Harries suggested in her evidence that her comments had been misinterpreted. That, of course, is a matter for you, but the important point for Module 7 is how did the UK, a high-income country, not have adequate testing capacity by March 2020? What Dame Jenny was actually intimating was that having run out of testing capacity, UK policy on testing was led by shortage, not public health strategy or need.
+
+As you'll hear, Professor McNally indicates that the UK was "trying to manage Covid blind", whilst senior public officials were apparently deflecting the real problems of lack of capacity and just about zero pre-pandemic planning by suggesting that the WHO advice was really for others.
+
+The importance of testing is, of course, all too obvious to see with hindsight. It's clearly set out in some of the expert evidence that you have and will hear in this module, in simple terms, those countries which had good testing provision from the outset had far lower mortality rates, and far lower economic damage and social upheaval than those which did not.
+
+I've said all this is clear to us in hindsight, but in fact this was not only obvious at the time, but it had been obvious to many countries for years before the pandemic struck. Professor Pillay says, in the final paragraph of his witness statement, and I quote:
+
+"Some areas of the world, including China, South Korea and Taiwan were able to rapidly respond to the Covid pandemic through infrastructure and testing protocols developed in response to SARS some 20 years previous."
+
+Why had the UK not learnt those lessons? They were hardly hidden.
+
+Professor Costello outlines that the failure to plan test and trace was partly because what planning there was, was for flu and a view, correct or not, that such a pandemic could not be suppressed. That minimal effect theory was adopted by SAGE in January 2020. What a catastrophic error that was.
+
+Not only were there warnings such as the 2019 BMJ article but, in fact, a 2006 WHO paper written in the aftermath of SARS-1 whose authors included Professor Horby from NERVTAG and Professor Van-Tam, both of whom were SAGE members in January 2020. It contrasted the different incubation and transmission characteristics of influenza and coronaviruses, including that this "allows more time to effectively implement isolation and quarantine measures with respect to the latter". Why was that learning ignored?
+
+Whatever the explanation, the results of not learning the lessons of SARS-1 and the approach of other countries then appeared to have been compounded by a series of further flawed decisions. Back to Professor Pillay. He asserts that the lack of UK testing capacity led to "highly expensive outsourcing".
+
+He goes on to recount a meeting led by Deloitte regarding lab capacity, and according to Professor Pillay, they asked basic questions regarding clinical sampling and "it was clear that Deloitte had no relevant expertise".
+
+This is what happens when there's an absence of planning and where there has been severe chronic underresourcing for emergencies. Testing, and, particularly, contact tracing are not easy to put in place from a standing start. In our submission, the Inquiry should question closely why there was the need for such outsourcing and, in particular, how companies with no relevant experience got the contracts? A point which obviously overlaps with the last module. Was it a fair and efficient process or was it more cronyism and lobbying?
+
+The evidence will show that the UK was quick off the mark in developing tests for Covid, but even here there were problems. Despite what has been said about PHE sharing control material, Professor Pillay asserts that PHE were in fact reluctant to share control material with others including himself. Why? A sensible solution, of course, was to encourage different approaches anticipating that some may fail.
+
+Indeed, that's what happened when PHE's own assay was found to be flawed with many false negative tests. Even with available tests, the UK had insufficient capacity to manufacture or source what was needed for testing, insufficient labs for test analysis and insufficient infrastructure to deliver testing.
+
+Once again, with insufficient capacity came errors. Of course, once it was realised that the UK had too little lab capacity it was right to ramp up that capacity, howsoever it could be done, but instead of fully utilising existing university and other labs whilst sourcing and outsourcing for other capacity it appears that the emergency response was to put all its eggs in the basket of the Lighthouse labs still being established.
+
+As we've heard, local public health teams and Directors of Public Health were overlooked with respect to operating test and trace in favour of a national approach, despite these resources fitting with the general civil emergency policy of localising response, and despite the expertise in terms of testing that they already had.
+
+Localised approaches taken in countries including South Korea and Germany, not only built on existing resources and expertise, but utilised local knowledge and built trusts with local populations, essential to a collaborative approach, which included contact tracing and isolation.
+
+A factor emphasised by many witnesses and in particular by the bereaved families is that with even the best test and trace systems, isolation could only work with adequate financial and practical support.
+
+As the evidence will show, the UK were slow off the mark in this regard. They had very low Statutory Sick Pay comparable to similar countries, and according to Professor Costello, initially, at least, it that the lowest financial provision for those needing to isolate of any OECD country.
+
+As a result, it had low compliance rates. It's clear why workers in insecure employment and those on low incomes will be reluctant to test, never mind isolate if positive. The corollary of this is that the failure to provide such support from the outset not only impacted on the spread of the virus but resulted in massively increased public spending on furlough later on.
+
+You will hear from Professor Fulop later who will tell not only her own account but refer to those of other bereaved. I won't trespass on that evidence, except to note that it will illustrate that after failing to use TTIS to suppress the spread of the virus initially, the UK compounded that, and as Professor Pagel will tell us, by repeating the mistake and ignoring the urging of the Academy of Medical Sciences, an independent SAGE, to ramp up its approach before the second wave was upon us, once again to devastating human effect.
+
+And finally, as in all other modules, we draw attention to the failure of policy and planning in this area, to recognise, let alone counter, structural and institutional race and other forms of discrimination, including disability, which led to underserved and vulnerable communities being disproportionately impacted.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Weatherby.
+
+Mr Wilcock.
+
+Submissions on Behalf of Northern Ireland Covid Bereaved Families for Justice by Mr Wilcock KC
+----------------------------------------------------------------------------------------------
+
+**Mr Wilcock**: Forgive me. We're just having to fight over the lectern.
+
+My Lady, as you know, I appear on behalf of the Northern Ireland Covid Bereaved Families for Justice, and I'm going to keep my address to you short for four reasons: one, you already have our written submissions; two, as those written submissions make clear, many of the broad points made on behalf of other bereaved Core Participants clearly apply to those from the north of Ireland and we adopt them.
+
+Thirdly, you are already aware of the unique differences between the healthcare and political systems in Northern Ireland and the rest of the United Kingdom from your time in Belfast this time last year. Uniquely underfunded and governed by an, at times, dysfunctional mandatory coalition of parties who share widely divergent views on some of the issues inherent to many of the issues you will examine in this module, such is the nature of acceptable health interventions and policies, let alone the role of the state and national identity.
+
+Fourthly, some of the evidence you heard in M2C has already touched upon one of the major controversies in Northern Ireland, in the Northern Irish approach to test and trace or to testing, rather, during the pandemic, namely the decision to, some would say blindly, follow the decision of the UK Government to suspend community testing in the early/mid March -- on 12 March of 2020, in spite of the fact that at that time, as Professor McBride has told you in the statement he has failed for this module, in contrast to other parts of the United Kingdom, there were a relatively small number of confirmed cases in Northern Ireland and therefore contact tracing there had the potential to have a significant impact on the course of the pandemic and delaying community transmission.
+
+This was not a one-size-fits-all situation.
+
+The evidence the Inquiry will be hearing in relation to the specific Northern Irish response to test, trace and isolate in the next few weeks is confined to four witnesses who will all be called on 21 May.
+
+My Lady, my clients have noted that none of those witnesses come from the Public Health Agency, which was the lead operational and coordinating body in Northern Ireland for both the testing and contact tracing programme.
+
+But having made that observation about the Northern Ireland witnesses, you have been able to call as part of this wide-ranging UK Inquiry, can I make clear that whilst it is plainly unfortunate, we entirely accept that your Ladyship has had to deal with the fact that there was, as you will know from M2C, at the time of the start of the pandemic, actually no Director of Public Health available in Northern Ireland from the agency.
+
+And furthermore, we appreciate that not only have you heard evidence from the present incumbent of that position in M2C, but you have obtained a statement from her in relation to this module in which she has told you that, in the context of the chronic underfunding of the health service in Northern Ireland you know so much about, "prior to the pandemic, the Public Health Agency was carrying a number of vacancies across its directorates, such that", remarkably, you may think, "the corporate risk register had to include risks reflecting the seriousness of this position".
+
+My Lady, you may think this depletion in staffing that you will have read about in the reports must inevitably have affected the Public Health Agency's ability to not only carry out its core functions in relation to public health, never mind the additional tasks that were imposed on it by the role it was given during the pandemic.
+
+But Dr McClean has also told you in her written statement that her understanding is that the Public Health Agency weren't even consulted when Northern Ireland suspended community testing on 12 March of 2020. But furthermore, that had they been consulted, she says, in effect, that whilst everyone recognised the burdens that testing was placing on the PHA and that they would have to carry if testing were to continue in breach of the decision made by COBR on 12 March, the decision to follow the English lead on this issue was, and I quote, "counterintuitive to public health practitioners".
+
+As I say, the one-size-fits-all approach was not appropriate, you may think.
+
+But, my Lady, the political system in Northern Ireland only came back to life, after a prolonged hiatus, on 11 March 2020. This time last year you heard Professor McBride tell you that at that stage testing capacity in Northern Ireland stood at only 40 tests a day. In deciding whether enough was done early enough in the chronology that Ms Cartwright and Mr Weatherby have told you about to expand this capacity, you may, on 21 May, want to ask yourself: who particularly in the political system asked what about that capacity and when did they ask it, in order to decide whether the approach they were taking to expanding capacity inevitably in an emergency situation was appropriate?
+
+And given its size and limited existing testing capacity, I don't think that there would be many people in Northern Ireland who would be surprised that the Northern Irish authorities were forced to rely on its existing established relationships with the UK Public Health Laboratory network when it became apparent that the Northern Irish capacity was sadly so insufficient to adequately combat the spread of our mutation of Covid.
+
+And to that extent, even if we choose to make our observations in writing rather than in oral questioning, the evidence you will hear on the expansion of the UK laboratory system is of some relevance to Northern Ireland, and the development -- analysis of the development of what was called in Northern Ireland Test, Trace, and Protect.
+
+My Lady, you will hear that across the four nations of the UK, the aims of test, trace and isolate, whatever the programme was called, were consistent, and there were broad similarities in the approaches which were taken, with some exceptions, of which I shall at this stage outline just three.
+
+First exception was, inevitably, given its status on a separate island with a shared border with another government in Ireland, the Northern Irish authorities had to use different phone apps and take a different approach, and you will hear about that when you deal with what I'm going to call the computing evidence in this case.
+
+Secondly, you will hear that, unlike other regions, adherence to and enforcement of test, trace and protect regulations in Northern Ireland were not straightforward. Possibly because of a combination of its recent history and the wider range of views amongst Northern Irish politicians as to the nature of acceptable interventions, Northern Ireland relied merely on what they called "very strong advice" to isolate, rather than any legal duty for domestic cases and contacts.
+
+My Lady, the third difference has been indicated by Ms Cartwright this morning. In relation to financial support, Northern Ireland implemented a non-repayable Discretionary Support self-isolation grant, which one of your experts, Professor Machin, has described as significantly different and broader in scope than those delivered across the UK.
+
+My Lady, this morning we heard the heartrending evidence from one of my clients, Hazel Gray, about the circumstances in which she lost both her parents, and the role that the absence of testing can reasonably be thought to have played in their deaths.
+
+Tomorrow morning she will tell you not only her story but some of the lived experiences of other bereaved families in Northern Ireland in relation to this module and the pandemic.
+
+You will be moved by those stories, but we don't ask you to listen to them to be moved, and nor do we intend by putting that evidence before you foursquarely to minimise the difficulties or tremendous effort the Northern Irish health and political systems had to put into ramping up testing in Northern Ireland during the pandemic. Because, in spite of the inevitable mistakes, neither do we suggest that there were not some things that were actually done well in this module in Northern Ireland.
+
+However, as the last witness you will hear from in this Inquiry, Professor Deenan Pillay, has put in his written statements to the Inquiry, when speaking about the UK overall, but the remarks plainly transcend all jurisdictions, one of the most disappointing -- indeed, in his view, disgraceful -- outcomes of the test and trace programme is the lack of any meaningful legacy or strategy for the next pandemic threat.
+
+Disappointing is an understatement, given the rest of that statement, and we know that you will regard it as your duty to do everything you can to counteract such a legacy, whether it's in the whole of the UK or Northern Ireland in particular.
+
+We also know that you will appreciate that this will not be achieved without the Inquiry and the health and political systems concerned asking themselves searching questions. We see our role to do everything we can to assist you and your team in that task, and look forward to continuing to do that over the next three weeks.
+
+**Lady Hallett**: Thank you very much indeed, Mr Wilcock. Very grateful.
+
+Ms Mitchell.
+
+Submissions on Behalf of the Scottish Covid Bereaved by Dr Mitchell KC
+----------------------------------------------------------------------
+
+**Dr Mitchell**: I appear as instructed by Aamer Anwar & Company on behalf of the Scottish Covid Bereaved.
+
+Chair, you have already in Module 1 found that the UK was ill prepared for dealing with the catastrophic emergency of the pandemic. Our system of building preparedness for the pandemic was found to have suffered from several significant flaws, but perhaps one of the most critical failures was the lack of attention to the systems that would help test, trace and isolate infected individuals.
+
+In the event, there was no system that could have been scaled up. Planning guidance was insufficiently robust and flexible, policy documentation was outdated, unnecessarily bureaucratic, and infected with jargon.
+
+The failures to have in place the essential tools to combat the pandemic meant that the UK entered 2020 far behind where it ought to have been. My learned friend, Counsel to the Inquiry, Ms Cartwright KC, has outlined the issues to be examined. The Scottish Covid Bereaved would like to highlight some of the matters which are of great importance to them:
+
+• The failure to put in place proper processes and procedures for the testing of those being sent from hospitals to care homes and vice versa.
+
+• The lack of routine testing in care homes for residents or staff.
+
+• Visitors to family members not being given advice, far less being tested, when visiting.
+
+• Staff being moved between care homes without being tested.
+
+• Residents, carers, patients and staff only being tested if they were symptomatic, with no consideration given to older people, not always presenting with the so-called "cardinal" symptoms.
+
+• The financial and practical support offer to those who were required to isolate. This is of particular importance in relation to care homes, where many underpaid staff may have felt a measure of financial compunction to attend work even when ill.
+
+• The track and trace system being inadequate and unable to keep up with the virus, too quickly becoming overwhelmed during the pandemic.
+
+The Inquiry will hear evidence from a member of the Scottish Covid Bereaved, Nicola Boyle, as well as the bereaved from other nations. Sadly, the experiences of the Scottish Covid Bereaved are all too similar. There was an abject failure of testing and tracing, and as a result, the most vulnerable amongst us suffered and, in the case of Scottish Covid Bereaved, they died.
+
+While the bereaved cannot bring their own loved ones back, they are determined that when the next pandemic comes, no one should unnecessarily suffer as they did.
+
+The Scottish Covid Bereaved look forward to the evidence that will be heard by the Inquiry in this module and are ready to assist the Inquiry in any way they can.
+
+These are the opening submissions on behalf of the Scottish Covid Bereaved.
+
+**Lady Hallett**: Thank you very much indeed, Ms Mitchell. Very grateful.
+
+Next we have, is it Ms Parsons? There you are. I'll move across. There we go.
+
+Submissions on Behalf of Covid-19 Bereaved Families for Justice Cymru by Ms Parsons
+-----------------------------------------------------------------------------------
+
+**Ms Parsons**: Thank you, my Lady.
+
+These opening submissions are made on behalf of the Covid-19 Bereaved Families for Justice Cymru. The submissions highlight aspects of the test, trace and protect programme in Wales that are of particular importance to the group.
+
+It is important to note at the outset that the programme was specific to Wales and it diverged significantly from the programmes in other nations of the United Kingdom.
+
+It is the experience of many of the group's members that the programme in Wales was chaotic. Policies appeared ill thought out and ineffective, messaging was confused and confusing, and implementation was late and inconsistent.
+
+The group are keen to understand why this was the case, why policies diverged as they did, and why policies were implemented late.
+
+Within the programme in Wales, the key concern relates to testing. From very early on, Wales went down its own path. First, its value was denied or overlooked. Then, when accepted, implementation was delayed. Concerns were raised in a letter from MPs on 30 April 2020 to the then First Minister, Mr Mark Drakeford. They wrote this:
+
+"We write with alarm in respect of to the disparity that now exists in Covid-19 testing availability between England and Wales."
+
+The letter then went on to outline the headline disparities.
+
+In Wales, availability of testing was limited to symptomatic key workers and their family members. By contrast, in England, testing was much more widely available. A crucial difference was that testing was available to all key workers and all care home residents, whether symptomatic or not.
+
+In addition, the symptoms required to get a test were also restricted. There was evidence as early as April 2020 that Covid-19 involved a broader range of symptoms than the cardinal three: fever, cough, and loss of smell. But the failure to expand the range of symptoms for testing in Wales, even when the wider symptoms were widely known, is unexplained, and likely resulted in the further transmission of the virus.
+
+Turning now to some specific testing issues in care homes. The failure of the Welsh Government to provide routine testing in care homes is a priority issue for the group. Mr Drakeford's comments on this issue are concerning. On 29 April 2020 he told the Senedd that routine tests were not offered in care homes because, and I quote, "the clinical evidence tells us there is no value in doing so".
+
+His own Head of Science, Robert Hoyle, wondered what the rationale, evidence and advice was behind Mr Drakeford's comment.
+
+Then again, on 6 May 2020, Mr Drakeford told the Senedd this, he had, and I quote:
+
+"... not seen any clinical evidence that led me to believe that testing of non-symptomatic residents and staff in care homes where there is no coronavirus in circulation had any clinical value."
+
+On 16 May 2020 the Welsh Government finally changed its position, almost three weeks after England, and introduced some routine testing in care homes. It was confined to large care homes for reasons not at all clear to those working in care homes, and only expanded to all care homes in mid-June 2020.
+
+In the context of this most vulnerable population, these delays are significant, as explained by care home owners in Wales. The owner of one care home in Newport reported how she first observed symptoms on the 20 March 2020. She requested tests from Public Health Wales but none were available. Three days later, the care home had its first death. Within a few weeks, 14 residents had died. Public Health Wales had visited the care home in that period just once, testing just three patients -- residents.
+
+Similarly, the owner of a care home in North Wales reported how she had campaigned extensively for routine testing because of the risks of asymptomatic transmission. She knew that her residents were falling ill and dying within 48 hours of becoming symptomatic. No testing had been made available by Public Health Wales, not even for those with symptoms.
+
+The delays in testing, in particular routine testing, are unexplained.
+
+Turning to testing issues in hospitals, my Lady. Testing in hospitals in Wales followed a similar pattern, with delays in the introduction of routine testing, insufficient levels of testing, and patchy implementation. This was the case both for healthcare workers and for patients.
+
+As to healthcare workers, the British Medical Association have described the wait to introduce routine healthcare testing in Wales as "inordinate". It was not until 14 December 2020 that Wales commenced a policy of routine testing twice weekly for health care workers, that same policy having been introduced in England a month earlier. However, most health boards in Wales did not implement routine testing of healthcare workers until March 2021 and in one case as late as July 2021. Furthermore, whilst the policy mandated testing twice weekly, in practice it only took place every five days.
+
+As for patients, whilst the Welsh Government announced routine testing on admission in June 2020, in practice, routine testing was not done until much later on and even then not consistently. It was not until 28 January 2021 that the Welsh Government introduced repeat testing every five days for asymptomatic patients. However, many patients waited many more days for repeat testing in what felt like a testing lottery.
+
+One member recalls how, in December 2020, her loved one was admitted to hospital with a non-Covid related issue and his health rapidly deteriorated. However, he was not tested until his fourth day following admission. Instead, he underwent a series of intrusive and invasive tests during that period. When eventually tested for Covid, it was positive. He was discharged without a further test and later died from Covid.
+
+Theresa, who appeared in the impact video, recalls how in February 2021 her mother was admitted to hospital for a non-Covid related matter. She was tested whilst in her ward and the test result was negative. She was not tested again for another ten days, despite her ward being closed due to a Covid outbreak. When eventually tested again, she was positive, and died just a few days later.
+
+As the Inquiry will be aware, so many of the group's members lost loved ones as a result of nosocomial infection acquired in hospital or in a care home setting. This was particularly during the second wave. By way of example, 39% of cases of Covid-19 in January 2021 in Wales were hospital acquired.
+
+Given the availability of testing and given the knowledge by then that testing would reduce transmission within hospitals, why was routine testing subject to such an inordinate delay? Why was testing not implemented consistently and in accordance with the levels required by policy?
+
+The answer to those questions may be multifaceted. Vaughan Gething, as we heard from Counsel to the Inquiry this morning, said "science will guide us". But the group invites the Inquiry to pay careful scrutiny to the claim by the Welsh Government that their testing policies, particularly in relation to asymptomatic testing, were based on science.
+
+The questions arise: why was that evidence and science any different to that which was available and applied elsewhere in the United Kingdom? What processes were in place in Wales to ensure that decisions were science led? In a text message in March 2021, the Welsh Government's Chief Scientific Adviser, Dr Rob Orford, asks a colleague this: "Do we need some emergency science for cabinet discussion?"
+
+Whatever the precise meaning of "emergency science", the casual approach to scientific advice is alarming. To adopt the question asked by Counsel to the Inquiry in Module 2B, was the Welsh Government's position on asymptomatic testing, and I quote "a position that could have been genuinely or sensibly held?"
+
+It is a critical issue, my Lady, and one which the group invites you to revisit during the course of this module.
+
+**Lady Hallett**: Thank you very much for your help, Ms Parsons.
+
+Mr Thomas.
+
+Submissions on Behalf of the Federation of Ethnic Minority Healthcare Organisations by Professor Thomas KC
+----------------------------------------------------------------------------------------------------------
+
+**Professor Thomas**: My Lady, before we begin to understand what went wrong with test, trace and isolate during the pandemic, we must first address the fundamental question: inclusion. A truly effective public health response is one that serves all communities equitably. It's not enough for a system to work only for some communities. It must work for all. The ability to identify and respond to a health crisis hinges on how well we understand and address the needs of every individual, regardless of their background, their ethnicity or socioeconomic status. This Inquiry is not just about uncovering what went wrong; it's about ensuring that in the future, every voice is not just heard but listened to, and acted upon.
+
+When we speak of test, trace and isolate, we're not just talking about a system that exists in a vacuum. It's a system that intersects with real lives, lives shaped by various experiences of access, vulnerability, and trust in public institutions. For our members, FEMHO, and their communities, many of whom faced entrenched inequalities in health and social outcomes, the system was not just about testing positive for a virus. For them, it was about survival in a system that too often overlooked their specific needs.
+
+So I ask, what would an effective TTI system look like for everyone? For the minority ethnic healthcare worker worried not just about the virus but also about the lack of culturally competent PPE, and perhaps the inability to isolate safely in overcrowded housing? For the essential worker of colour struggling with the reality that financial support for isolation was not sufficient to cover basic needs, let alone the risk of losing one's job? For the migrant worker excluded from mainstream systems of support due to immigration status or language barriers?
+
+You see, as we're examining the failures of the TTI system, we must ask ourselves, how do we ensure that when we respond to the next crisis, no one is left behind? How do we make sure that the voices of the most vulnerable, those who experience multiple layers of disadvantage, are not just heard but central to the decision-making process?
+
+Inclusion is not just a matter of fairness; it's also a matter of effectiveness. A TTI system that fails to reach minority ethnic communities fails to achieve its fundamental goal: to protect public health.
+
+If this Inquiry is to contribute meaningfully to public future health strategies, it must begin by embracing the principle that equity must be embedded in every decision made in the design, implementation and communications of such systems.
+
+So while the TTI system was intended to ensure that everyone who needed to get a test could get one, this was not the experience for many of our members and those in their communities. Testing sites were often located far from areas where communities lived, creating a physical barrier to access. The lack of outreach and engagement with these communities meant that people didn't even know where to get tested, or didn't trust the process enough to participate.
+
+For our members, there was a lack of clarity about availability of testing and the degrees of enforcement for non-compliance. NHS trusts differed in their approaches, leading to confusion and frustrations about how the systems worked. And even when testing was available, the system failed to account for specific needs of minority ethnic groups, inadequate translation of vital information, limited digital access and language barriers created additional obstacles.
+
+Our members were not consulted during the design phase. As such, the system assumes that everyone had equal access to digital devices and the Internet. But we know that many minority ethnic households were disproportionately impacted by digital exclusion and this resulted in further disparities in testing rates and a lack of equitable participation.
+
+Moving beyond testing, the failure to provide adequate support for isolation was another glaring issue. For many minority ethnic healthcare workers, particularly those in low-paid, precarious employment the financial support offered for isolation was simply insufficient. The £500 payment for isolation was inadequate for those who had to take time off work and in many cases it was difficult to access.
+
+Our members were also likely to be the staffers with the least access to Statutory Sick Pay. For individuals living in overcrowded conditions, often in multi-generational households, isolation was not even a practical option. The very design of the system failed to take into account these socioeconomic realities.
+
+How could individuals comply with isolation when they were already struggling to make ends meet? How could they isolate when their living conditions simply didn't allow for it?
+
+The failure to address these socioeconomic factors relevant to the black ethnic minority communities not only left these communities vulnerable, but also exacerbated existing inequalities: communities which were already at high risk of poor health outcomes found themselves not only more likely to contract Covid-19 but also more likely to suffer its effect due to inadequate support in place.
+
+The failure, my Lady, to design a system to take these issues into account speaks of a fundamental oversight in the planning and the execution of a TTI system.
+
+Ultimately, what we're left with is a TTI system that was not fit for purpose when it came to serving minority ethnic healthcare workers and their communities more broadly. It was not designed with inclusivity in mind, and as a result, these communities were left exposed to the worst of the pandemic. They were not just sidelined; they were excluded from a system that failed to take their needs into consideration at the outset.
+
+This is a crucial point. The inadequacies in the TTI system were not just as a result of operational oversights; they were as a result of systemic failings to address health inequalities and structural racism.
+
+One of the most glaring features we've seen throughout this Inquiry is the government's failure to properly implement the Public Sector Equality Duty. The PSED is not just a tick-box exercise, as I've said many times before, but it's a means by which public policies are required to serve all communities fairly. The failure to consider the impact of multi-generational households in the context of TTI, for example, resulted in all kinds of challenges for those who lived in such circumstances. Compliance of the rules about TTI could literally put entire families at risk of infection.
+
+And there is likely to be no buy-in to a set of rules that seemingly was inimical to the very existence of one's community.
+
+Let me finish by then saying this: there then was a lack of disaggregated data on ethnicity and race, and even when there was data, it was often not clear whether the research was being conducted into testing, tracing or isolation as distinctly different areas of inquiry. In matters of race and ethnicity there was a huge reliance on anecdotal information, which was unsophisticated to say the least. Worryingly, it was not clear what channels existed for feedback from frontline or senior leaderships to the desks of policymakers. These issues were compounded by a lack of engagement with the very communities most affected.
+
+So, my Lady, the absence of targeted interventions and the pursuit of a one-size-fits-all approach proved ineffective and, frankly, exacerbated existing disparities.
+
+At its very core, my Lady, the failure of operisation (sic) of the TTI involved trust, effective public health interventions, which cannot succeed without the trust and active participation of the communities they are designed to protect.
+
+If we are to safeguard public health in a future crisis, we must prioritise community engagement at every step, ensuring that community leaders, especially those from marginalised groups, are not just consulted but are integral to the design and implementation of the system itself.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you for your help, Mr Thomas.
+
+Right. We'll break now. I shall return at 2.05.
+
+*(1.02 pm)*
+
+*(The Short Adjournment)*
+
+*(2.05 pm)*
+
+**Lady Hallett**: Mr Jacobs?
+
+Submissions on Behalf of the Trades Union Congress by Mr Jacobs
+---------------------------------------------------------------
+
+**Mr Jacobs**: My Lady, these are the submissions of the Trades Union Congress, I'm instructed by Thompsons solicitors and I appear with Ms Ruby Peacock and Ms Natalie Lucas. We address two issues, the first of which is supporting self-isolation.
+
+My Lady, without self-isolation a test and trace system is but an elaborate means of monitoring the exponential spread of a virus. The evidence suggests that the motivation in the pandemic to self-isolate was generally high, but for many the ability to self-isolate was low.
+
+As in the account from Every Story Matters read by Ms Cartwright King's Counsel this morning, "I can't test because I have to work, and if I can't work, I can't support my family".
+
+We know from Module 2 that in addition to the public calls made by the Trades Union Congress and others, behind the closed doors of Westminster there were many arguing for much greater support for self-isolation. The instincts that prevailed, however, was one focused on enforcement: of fines rather than support.
+
+That approach abandoned those on low and modest pay for whom losing two weeks of work created insurmountable problems, including those who continued to work in the pandemic in food processing, in manufacturing, in transport, and many other sectors. It fed and exacerbated the pre-existing health inequalities about which the Inquiry has heard.
+
+In fact the focus on enforcement simply created another disincentive: a disincentive from taking a test at all.
+
+As those in Westminster were, in response to pressure, designing tepid support schemes, the virus was spreading. As the MP George Freeman relayed to the government in October 2020, staff at processing plants faced with self-isolation were moving to work at nearby processing plants in order to make ends meet.
+
+He wrote in the wake of 150 of 300 workers testing positive at Cranswick Country Foods plant in Norfolk.
+
+From September 2020, a financial support scheme was introduced which provided for payments of £500, and similar schemes were introduced across the UK.
+
+The chosen mechanism for delivering the scheme in England was that there would be a component based on eligibility and a discretionary component. It would be administered in England by 314 councils, each with the freedom to operate the application process and discretionary component as it sees fit. That is, across the country, 314 slightly different ways of making an application with different rules as to the form and required evidence, and 314 slightly different ways of determining it.
+
+It was a recipe for a low visibility and poorly accessible scheme. So it was hardly surprising that we see in this module a Covid-O paper describing the scheme as "too complex" with the postcode lottery due to variable criteria and a resource-intensive process for local authorities.
+
+Awareness of the scheme was low. Nine months into its existence in June 2021, a TUC survey found that only around 20% of workers were even aware it existed. That may in part have been a feature of having local authorities run the schemes, but there is also evidence it was the intent. Meeting minutes from a Covid-O meeting in January 2021 stated:
+
+"It would be important to be clear on how far the government would go to publicise the offer so as to not artificially and unnecessarily stoke demand."
+
+My Lady, that was a wrong-headed approach. National behaviour isn't influenced by a designedly under-the-radar support scheme.
+
+Eligibility was low. One study showed that for the self-employed, 57% of applications were rejected with common problems being difficulty in evidencing loss of income and being marginally above the income criteria.
+
+In a quarter of councils, just 10% of applications for discretionary payments were granted. In some councils, that figure was as low as 2%.
+
+The payments were also insufficient. £500 for 14 days was equivalent to earning £6.25 per hour, substantially below the minimum wage.
+
+The amounts spent on the scheme, 285 million in England in its lifetime of almost two years, was low, far less even than that spent on the six weeks of Eat Out to Help Out.
+
+There is also evidence described by Professor Machin that financial support for self-isolation is most effective if provided alongside a range of other support. In Singapore, for example, those self-isolating could receive $100 per day in support, delivery of food and other supplies could be arranged through a designated hotline, and for individuals in multi-occupancy homes not suitable for self-isolation, hotels were offered as alternatives.
+
+Professor Machin suggests that financial support in the next pandemic should be delivered through nationwide and centrally-delivered schemes, similar to the job retention scheme and the self-employed support scheme, with the system linking through to local authorities to provide the non-financial support.
+
+The TUC says there is a lot of force in that, albeit from its perspective, amending Statutory Sick Pay, even if temporarily, is most appropriate, at least for those employed, in order to make the most of an existing and well-understood structure for delivering sick pay.
+
+My Lady, ultimately what went wrong in the UK support for self-isolation and the lessons to be learned resolved to some important but straightforward points. First, losing income will be a disincentive to self-isolate and that disincentive will be most powerful for those in insecure work and on low incomes.
+
+Second, financial support for self-isolation, to be effective, must be sufficient in amount to remove the disincentive.
+
+Third, those who need the support must actually be aware that it exists.
+
+Fourth, the financial support must be easy to access.
+
+And fifth, it should be supplemented by non-financial support.
+
+My Lady, we turn to our second issue, which is the issue of test, trace and isolate in education settings.
+
+My Lady, across the four nations there are over 12.5 million pupils attending 40,000 education settings served by 700,000 teachers and support staff. Examining how test, trace and isolate operates, in that sizeable cohort, is an issue which we say warrants careful attention of this Inquiry. And my Lady, we eagerly await the disclosure of the Department of Education's statement which we understand is with the Inquiry.
+
+But we have been able to see already that the response in education was chaotic and it was ineffective.
+
+The evidence shows that decision makers considered the value in implementing an asymptomatic testing regime in schools similar to that carried out in Germany as early as June 2020. However, when a scheme was devised in December 2020, not only was it delayed, but it relied significantly upon education settings planning, administering, disposing of and recording the results of the tests.
+
+The communication to secondary schools of the plan to introduce mass asymptomatic testing occurred on the last day of term in 2020 with the idea that it would be reintroduced immediately following the Christmas break.
+
+It was a last-minute request to public sector workers who were not trained or specialist in delivering testing regimes, let alone at incredibly late notice.
+
+Too few pupils and students took part. From 1 March 2021 to 4 April 2021, participation was recorded as being 43% of primary school pupils, 27% of secondary school pupils, and just 8% of college students.
+
+That is not to undermine the importance of establishing mass asymptomatic testing in places of education. Indeed, that was something called for by TUC-affiliated unions. But in a future pandemic, government must not effectively pass all responsibility to schools and staff, who must retain the capacity to perform their primary task of delivering education to children in the challenging circumstances of a pandemic.
+
+Fundamentally, test, trace and isolate needs to be part of a coherent plan for complementary non-pharmaceutical interventions in education settings, and to that end, my Lady, a number of recommendations for the education sector as set out in our written opening.
+
+My Lady, those are our submissions.
+
+**Lady Hallett**: Thank you very much for your help, Mr Jacobs. Very helpful.
+
+Ms Stober.
+
+Submissions on Behalf of the Local Government Association and the Welsh Local Government Association by Ms Stober
+-----------------------------------------------------------------------------------------------------------------
+
+**Ms Stober**: [Inaudible: microphone off]. Thank you, my Lady. I represent the interests of the Local Government Association and the Welsh Local Government Association, together referred to as WLGA and LGA. The LGA is the voice of local governments, representing all but two local authorities in England. Both authorities applied to become Core Participants in this module because, across England and Wales, officers of local authorities played a major role in the process of defeating the pandemic by testing and then tracing and isolating those who were, or were thought likely to be vectors of the virus.
+
+This work was of very first importance in stopping the stop of the disease and protecting the population, including those who were clinically or socially vulnerable.
+
+There were many significant features of the two nations' approach to testing, tracing and isolation during the pandemic. However, they did not follow the same path, as the statements of the chief executive, Ms Killian of the LGA and Dr Llewelyn of the WLGA show.
+
+In England, neither the LGA nor local authorities were engaged in the process of making sensible, national plans for contact tracing until well into the pandemic. By contrast, in Wales there was better coordination and cooperation between local government and the Welsh government in co-designing a contact tracing system.
+
+In England, by contrast, the extraordinary thing about test, trace and isolation during the pandemic is that local authority officers had been working on the front line of health protection for a great many years, carrying out statutory public health functions that can be traced back to the 19th century.
+
+These officers had great skills and local experience, but this seems to have been passed by central government. Ms Killian, the chief executive of the LGA, explains in her statement:
+
+"Contact tracing is a recognised public health activity used to identify and break the chains of transmission, to help reduce the spread of infectious disease. It has been used for many decades in response to infectious decease outbreaks and epidemics, usually alongside other public health activities and control measures."
+
+Its purpose, which is to identify people with an infection or are potentially infected, and isolate them before infecting others, is widely accepted and work in many but not all infectious diseases to a greater or lesser extent.
+
+Local UK Health Security Agency health protection teams and local authorities have longstanding relationships with the community and a history of handling infectious disease outbreaks via contact tracing, amongst other responses. Public health officers in local authorities have extensive experience with contact tracing and a strong understanding of the need and best methods for contact tracing.
+
+For example, contact tracing is routinely carried out during local outbreaks of communicable diseases such as norovirus, salmonella, or Legionnaires' disease.
+
+So a starting question for this Inquiry is: why was the swiftest and best possible use of knowledge and skills of those local authority officers not used in the outset?
+
+Overall, where isolation is called for in a pandemic, local authorities and their public health teams must be fully engaged in the national planning and used to the utmost in the local operational deliver of these plans.
+
+Briefly, my Lady, drilling down into the events during the pandemic, there are several areas which the LGA's evidence especially addresses, and each concerned learning from what happened to ensure that the best use is made of local authority resources in the future.
+
+The need for central government to understand fully what councils do and how they are responsible for local public health.
+
+The statement of Ms Killian is truly shocking, in exposing the ignorance of central government about the longstanding responsibilities and critical role of local public health officials. Even allowing for the fact that this pandemic was much work that had to be done at pace and without the same kind of due deliberation that would be expected in more normal times, this was quite unacceptable failure.
+
+The response to the pandemic has too often been national default. Systems and provides designed from Whitehall and limited engagement and understanding of the value and role of local councils and directors of public health. The government did not document the basis for the delivery model it chose for the national test and trace programme.
+
+Closer working between central government on public health is vital.
+
+Data sharing.
+
+The need to control and prevent the spread of a virus in a pandemic is a paradigm of those situations where efficient data sharing between central and local government is for the public good. That should have been obvious, yet Ms Killian's statement evidences central government's reluctance to share detailed data with local directors of public health, and that the data collected often was not fit for the purpose of test, trace and isolate that local authorities were expected to use it for.
+
+This hampered local steps to support those affected and to control outbreaks. It must not happen again.
+
+Three: the economic social and financial and consequential implications of isolation.
+
+It should also have been obvious that the initial legal obligations to self-isolate, and the latest (unclear) recommendations to do so would have had very significant economic, financial and social consequences, not just for those isolating but for local authorities tasked with ensuring isolation occurred and supporting those who were doing so.
+
+As we have heard in previous modules, Covid-19 had a disproportionate effect on people from deprived populations, the vulnerable, and black and ethnic minorities. Not only were case and fatality rates higher among people living in less deprived areas, but also policies aimed at preventing spread, such as social restrictions and lockdown, had a greater effect on vulnerable populations.
+
+Ms Killian's statement highlights the difficulties local authorities faced in working effectively and at speed to carry out their functions in respect of isolation, not least in respect of those on low incomes.
+
+Again, it is obvious that the close involvement of local authority leaders in the planning of isolation as a measure of disease control would again be essential.
+
+The issue of compliance and enforcement.
+
+Policies for compliance and enforcement of isolation would never be optimal without an understanding of the problems and issues that would arise when put into operation. Again, Ms Killian's statement explains the difficulties local authorities faced in ensuring compliance, because central government did not engage the LGA and local authorities in the development of legislation and controls, and made frequent changes to regulations.
+
+The detail of these difficulties will be important to the Inquiry, in terms of understanding what happened, for the future. The key point, again, is the importance of close working between policymakers and those with operational experience and responsibility.
+
+Five: capacity and resources.
+
+Over and again during the different modules of this Inquiry, the LGA has pointed out that local government lacked resources and that where they are lacking, councils can only act within the constraints arising from the lack of finance and personnel.
+
+Ms Killian points out that councils' Directors of Public Health were seriously affected by these constraints and environmental health teams were stretched very thinly. It is well understood that there are limits to the extent that a local authority can carry capacity and resources for an emergency over and above that needed for ordinary times. Nonetheless, preparedness and resilience depend on resources being allocated properly and provision made for emergencies.
+
+The story of the pandemic response to the need for testing, tracing and isolation shows that the cuts to local authority funding over the preceding years had gone too far to allow for adequate emergency cover.
+
+The LGA asks that the Inquiry points this out in its report, and do what it can to ensure that this is not repeated.
+
+Six: coordination and communication.
+
+Another obvious fact that the task of controlling a pandemic is the need for excellent coordination and communication between governmental bodies. Ms Killian's evidence shows that much improvement in respect of this is essential. The lack of coordination and communication between central and local government affected the design and implementation of schemes such as contact tracing.
+
+Likewise, the LGA asks that the Inquiry point this out in its report, and do what it can to ensure that this does not happen again.
+
+Testing and tracing.
+
+The last point is that Ms Killian's witness statement shows that central government did not effectively engage with local government in shaping the national testing strategy leading to frustrations such as inadequate testing of patients before discharging from hospitals to care homes and slow test result turnaround. Testing was the first step in the process of controlling the pandemic by TTI. Getting this right is therefore very crucial for another pandemic.
+
+My Lady, I will now turn to the WLGA.
+
+As you know, my Lady, I represent the WLGA, which is the voice for all 22 local authorities in Wales.
+
+Across Wales, local authorities played a major role in the process of defeating the pandemic through the process of testing and then tracing and afterwards isolating and protecting those who were, or were thought likely to be, vectors of the virus.
+
+WLGA welcomes this module also because there's been no national review in Wales of the steps taken to develop a national programme for testing and tracing and then protecting those who had to be isolated to bring the virus under control.
+
+One key difference is that Wales has a national public health body, Public Health Wales. The statement of Dr Llewelyn explains the statutory framework concerning public health and the key role in Wales -- the key role played in Wales by Public Health Wales and the health bodies who have the direct responsibility for public health services in their localities.
+
+While in normal times, the role of the Wales local authorities is complementary to that of those two bodies, during the pandemic, they played a key operational role in ensuring logistics were effective in enforcing restrictions, and in supporting many of the most vulnerable under the national framework.
+
+The most significant way that this occurred was through the Welsh government's Test, Trace, Protect Strategy. It was the tracing and protection parts of the strategy with which the Welsh local authorities were most fully engaged.
+
+Dr Llewelyn's statement explains in detail how the strategy was development in -- was delivered in Wales and how local authorities were part of the iterative process.
+
+While this engagement between the Welsh Government and WLGA and local authorities was very important, it is also a fact that there had been no such plan before the pandemic occurred. He explains how important this deficit was, and how it meant that the strategy had to develop -- be developed by the Welsh Government at great speed. That there was no such prior plan is very regrettable.
+
+A key learning from this module should be the need to plan now for a future pandemic event when national testing, tracing and protection of individuals will be a key part of plans to overcome such a crisis.
+
+In making this point, WLGA does recognise the very good work that was done in developing the TTP strategy and the work and the good level of communication between the Welsh Government, WLGA, and local authorities.
+
+This enabled local authorities to build their capacity at speed and to make a major contribution to the national efforts.
+
+They unlocked -- undertook a central role in the delivery of the strategy in their localities, working closely with Public Health Wales and their respective local health bodies to establish the system at speed, and at scale, far exceeding existing contact tracing arrangements for localised outbreaks of much smaller and shorter duration.
+
+Above all else, it was the knowledge and versatility of local government workforce that provided the flexibility to respond as needed to the waves of the pandemic at short notice, and as when the need arose.
+
+The evidence submitted on behalf of WLGA explains how local expertise in managing and operating large-scale contact centres enabled quick and successful establishment of tracing arrangements across Wales. Local authority officers were able to provide specialist advice working with colleagues from Public Health Wales and the local health boards to ensure consistency of advice and advise on managing -- on outbreak management.
+
+Local authorities were able to then give priority to the safety and protection of the most vulnerable people in communities, as best as they could, and provide a trusted source of advice and communication within and across communities, local communities.
+
+However, as Dr Llewelyn explains in his statement that there was a significant constraint in the work that local authorities could do. While local authorities enforced TTP procedures wherever they could, like local authorities in England, they lacked the constraints -- they were constrained by the lack of effective legal enforcement powers for breach of TTP restrictions. The Inquiry is asked to note that local authorities could have been more effective if they had the legal powers to issue, for example, fixed penalty notices on individuals and to invite a review of the legislation to consider the benefits of granting such powers.
+
+WLGA asks that the Inquiry recognise the importance of removing such constraints to enable an even fully contribution from Welsh local authorities in future.
+
+In conclusion, my Lady, overall the Welsh local authorities should be proud of the work that they undertook in relation to testing, tracing and protection during the pandemic. The commitment of officers to work cooperatively and collaboratively and over very long hours, to find relevant and imaginative solutions to the critical task of tracing and protection was of the utmost importance and a significant factor in bringing the disease under control.
+
+WLGA is pleased it was able to assist in coordinating this response.
+
+Finally, my Lady, both the LGA and the WLGA extend their deepest sympathy to the families of those who lost loved ones, and very much hope that the lessons learned from this Inquiry -- with the lessons learned from this Inquiry, the UK will be better prepared for a future pandemic by placing at its heart of any preparation an effective tracing, testing and protection system, and isolation, so that lives will be saved.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you very much indeed, Ms Stober -- I'm sorry to you and to Mr Strachan. I got ahead of myself, so I took you by surprise and appeared to overlook Mr Strachan. So I'm very sorry.
+
+Mr Strachan.
+
+Submissions on Behalf of the Cabinet Office by Mr Strachan KC
+-------------------------------------------------------------
+
+**Mr Strachan**: Thank you, my Lady.
+
+I appear on behalf of the Cabinet Office, including Number 10 Downing Street, which remain committed to assisting the Inquiry's investigations across all modules.
+
+To assist with the Inquiry's investigations in Module 7, the Cabinet Office has provided extensive material and a written corporate statement and you're due to hear from two witnesses supported by the Cabinet Office during your hearings.
+
+In this opening statement, I'll briefly outline some of the key aspects of the Cabinet Office's role during the pandemic relating to testing, tracing and isolation.
+
+Throughout the response to Covid-19, the Cabinet Office provided advice to ministers to inform the government's overall strategy, ensuring that it took account of developments in the Test and Trace programme. To do this, the Cabinet Office worked in collaboration with other departments and most notably the Department of Health and Social Care and its agencies. These included NHS Test and Trace, which was established in May 2000 (sic) to lead on the supply and procurement of testing equipment, as well as the vast majority of the delivery and rollout of the Test and Trace programme, and in accordance with the Lead Government Department model, ministerial accountability for testing, tracing and isolation policies remained with the Health Secretary throughout the pandemic.
+
+At the start of 2020, the UK's existing test and trace capabilities were not sufficient to cope with the demands created by Covid-19. Only NHS pathology laboratories, a few research sites, and public health laboratories in the UK had the scientific ability to test for Covid-19 using the only widely recognised testing methodology available: reverse transcription polymerase chain reaction, or RT-PCR, if I could be allowed to abbreviate it to.
+
+In line with scientific advice at the time, the initial focus was therefore on expanding RT-PCR capacity with a view to testing and tracing symptomatic cases. But as the scale and potential impact of the pandemic became more apparent, the government initiated a huge cross-government effort quickly to build rollout and maintain a new system of national level capabilities. And given the scale and importance of this work, the Cabinet Office took a close interest in its progress, both to understand existing testing capabilities, and to explore opportunities to support and accelerate the Department of Health and Social Care's work to scale up testing capacity.
+
+And as work on testing capabilities increased in scale and complexity, the Cabinet Office sought to ensure effective and innovative governance structures were in place, and that included appointing an external expert chair, Baroness Dido Harding, to lead the programme that became NHS Test and Trace, and the Cabinet Office also established the necessary structures to facilitate discussion and collective decision making by ministers as the pandemic progressed, most notably the Covid strategy and Operations Committees.
+
+Coming out of the first lockdown in May 2020, as NHS Test and Trace was established, the UK Government's aim could be summarised as seeking to reopen the economy and society as extensively as possible while keeping the reproduction number below 1, therefore avoiding exponential growth of the virus.
+
+Estimates from the UK Health Security Agency's September 2021 Canna model study of the impact of testing, tracing and isolation on Covid-19 transmission suggests that, in several periods of the pandemic, testing, tracing and isolation played a critical role in reducing the reproduction number to below 1 and helping to reduce both the duration and the economic impact of non-pharmaceutical interventions such as lockdowns.
+
+The data collected by the test, trace and isolate system were also vital for the government's understanding of the prevalence of the virus and emergence of new variants, which helped to inform the development and evolution over time of the overarching strategy for managing the pandemic.
+
+With the governance structures set out, the Cabinet Office worked to ensure that the overall strategy continued to take account of progress of NHS Test and Trace, and provided oversight and assurance for the Prime Minister as the testing programme was rolled out. And given the importance of testing, tracing and isolation to the government's overarching strategy, a key role of the Cabinet Office was to seek to ensure that all parties involved were challenged to maximise the scale and effectiveness of the programme in order to minimise the spread of the virus and thereby enable the relaxing of restrictions in the absence of an effective vaccine for drug-based treatment.
+
+As capacity for testing increased, the Cabinet Office was involved in helping determine who would be eligible for tests, and exploring the channels through which tests could be delivered most effectively.
+
+An increased understanding of asymptomatic transmission, as well as advances in rapid testing technologies, prompted new ideas about how testing could both continue to protect public health, while enabling those who did not have the virus to participate in economic and social activities.
+
+And given its role in considering the wider impacts across different sectors, the Cabinet Office was particularly interested in accelerating the large-scale availability of rapid testing technologies in order to support the government's overarching objective to control the spread of the virus.
+
+And this work became a key focus for the Cabinet Office between mid-2020 and April 2021, when a universal testing offer was made available in England.
+
+A particular role of the Cabinet Office was its work to consider and provide advice to ministers on the constraints and trade-offs of different test, trace and isolation approaches. While other government departments focused on the impacts of test, trace and isolation policies in their specific areas, the Cabinet Office's role at the centre of government was to look across the board and support decision makers to understand and balance, where possible, the different trade-offs of different response options.
+
+Examples of those relevant constraints and consequential trade-offs that were considered during this time include the following: first, the inevitable scientific constraints (which evolved) - the tests needed to detect the virus effectively, but consistently effective lateral flow devices for Covid-19 were not developed until the summer of 2020.
+
+Secondly, there were operational constraints. For example, building testing laboratories takes time, as does procuring lateral flow devices internationally at a time of huge global demand.
+
+Third, there were enormous fiscal costs. The test, trace and isolation budget in the financial year 2020 to 2021 exceeded that of the Home Office. Even then, there were limits on testing capacity and at times, therefore, a need for prioritisation of access to testing.
+
+Fourthly, throughout the period, the effectiveness of the test, trace and isolation programme relied on public uptake of the testing offered and compliance with tracing and isolation policies. Public engagement was not guaranteed and individuals' ability and willingness to engage with the test, trace and isolate programme was not equal.
+
+And fifthly, the test, trace and isolation strategy had implications for the wider economy, as illustrated most notably in what was referred to as the "pingdemic", when so many people were asked to self-isolate as a result of tracing technology that risk to the staffing of critical sectors and infrastructure emerged.
+
+In this context, the Cabinet Office's role was threefold: first, to provide advice to the Prime Minister and the Chancellor of the Duchy of Lancaster; second, to provide constructive feedback to NHS Test and Trace on policymaking and delivery, challenging assumptions and identifying opportunities for improvements to be made; and thirdly, to facilitate cross-government collaboration and decision making, particularly where the constraints, trade-offs or consequences reached beyond the remit of the lead department.
+
+The Cabinet Office coordinated across government response to overcome the challenges that emerged in relation to testing, tracing and isolation, where the input of multiple government departments was required. For example, the Cabinet Office worked to understand the financial, practical and social barriers preventing people from following self-isolation guidelines, collaborating with experts and reviewing international approaches to consider what could be done to address such issues. And one outcome of this was the Cabinet Office's work with the departments to design and obtain ministerial approval for the test and trace support payment, intended to alleviate the financial burden of self-isolation on the lowest-income families, which was announced in September 2020 and expanded in January 2021.
+
+My Lady, the scale of the challenge to expand test and trace capabilities during the Covid-19 pandemic was unprecedented and the Cabinet Office welcomes the opportunity to contribute evidence to this module and is keen to learn lessons to support the response efforts to any such emergency in the future.
+
+Thank you very much.
+
+**Lady Hallett**: Thank you, Mr Strachan.
+
+Ms Murnaghan, I think you are expecting to go next.
+
+Submissions on Behalf of the Department of Health In Northern Ireland by Ms Murnaghan KC
+----------------------------------------------------------------------------------------
+
+**Ms Murnaghan**: Good afternoon, my Lady.
+
+As you know, I represent the Department of Health in Northern Ireland, and by this opening statement, I aim to outline some key points pertaining to that Department's role in test, trace and isolate in Northern Ireland.
+
+However, my Lady, before doing so, I would like to take this opportunity to place on record on behalf of the Department its thanks to all of those in Northern Ireland who supported the delivery of test, trace and isolate.
+
+The policy and the supporting operational delivery arrangements which underpinned the testing and contact tracing programmes were extremely complex and were introduced into a fast-moving situation.
+
+There were also significant logistical challenges associated with implementing programmes of population-wide testing and contact tracing, which were entirely new, and which operated on a scale that had not previously been undertaken.
+
+Both programmes, my Lady, were key strategic elements of the pandemic response in Northern Ireland, and the Department's view is that these played a critical role in interrupting and helping to reduce community transmission.
+
+I would like to focus attention on testing in the first instance, if I may.
+
+Whilst undoubtedly Covid-19 tests were developed rapidly, the time taken to scale up testing was a particular issue in the initial stages of the pandemic.
+
+The ability to scale up testing was not unique to Northern Ireland, and was largely impacted by the dual factors of (a) the increasing demand for testing products and (b) the global supply chain challenges in relation to the availability of reagents and other consumables.
+
+These factors often led to extremely difficult choices regarding the need to prioritise available limited capacity. The department decided to prioritise available capacity for clinical care and to protect those who were most vulnerable and at most severe risk.
+
+If unlimited testing capacity had been available early in the pandemic, it is quite likely that different decisions could have been made. However, the Department worked at pace, with much innovation, and kept eligible groups under continuous review, taking account of emerging scientific, clinical, and public health approaches and evidence, as well as keeping abreast of emerging policy across the four nations and globally.
+
+While, my Lady, there were undoubtedly some PCR capacity challenges in periods of peak demand, the Department's clear view is that Northern Ireland citizens benefited greatly from the National Testing Programme.
+
+The National Testing Programme was delivered locally through close joint working with the department and with the PHA in Northern Ireland, which was our lead operational delivery body working with the Department of Health and Social Care.
+
+My Lady, I would like to just briefly touch on the close working relationship between the department and PHA, which was a strong and collaborative approach which we contend was central to the delivery of the test and trace programmes.
+
+The PHA, of course, in Northern Ireland, in common with all other public health bodies across the UK, and indeed internationally, faced significant and sustained challenges in responding to the pandemic. It was, we believed, appropriate and efficient to take a collective integrated policy and operational approach, which was coordinated and strategically led by the Department.
+
+It was appropriate also for the PHA, in keeping with its extant health protection roles and responsibilities, to have retained overall operational responsibility and leadership for testing and contact tracing.
+
+This collective approach, my Lady, sought to ensure effective coordination, alignment and oversight, and served to optimise the public health expertise and the capacity that was available at that time.
+
+Turning next, my Lady, to contact tracing. In Northern Ireland, and across the UK, undoubtedly a key part of the pandemic response included the tracing of contacts. As already outlined, the department retained strategic and policy responsibility for contact tracing throughout the pandemic, whereas the PHA was responsible for the operational delivery and was supported by the department.
+
+As was the case across the UK, community testing and contact tracing in Northern Ireland was paused on 12 March 2020. This was in line with the policy decision that was taken at the COBR meeting to move from the containment phase to the delay phase. This, of course, was a UK-wide decision and all of the devolved administrations participated in the meeting and concurred with the position.
+
+At the time when the decision was made to pause contact tracing, there was sustained community transmission. Testing capacity was insufficient to identify all cases that needed to be traced, which meant that the impact of contact tracing as an effective mitigation to limit the spread of the virus was substantially reduced.
+
+Available testing capacity had to be prioritised for those who required clinical care and the vulnerable in hospitals and care homes.
+
+From 12 March 2020, public health advice for those who had symptoms was that they should isolate for seven days, and from 16 March the advice was that household members of those with symptoms were advised to stay at home for 14 days.
+
+In addition, people were advised to work from home, to avoid close contacts that were non-essential, and to stop all unnecessary travel. From 23 March the general population had been advised to stay at home and limit contacts.
+
+My Lady, it was that context in which the need to individually contact trace all cases had, we submit, lessened.
+
+With sustained community transmission and insufficient testing capacity to test and trace all cases in the community, the overall approach to population management was, at that time, the most effective way to delay wider community transmission.
+
+The department contends that if there had been a move to an overall population management approach, the virus might -- had there not been this move to the overall population management approach, the virus may have spread more rapidly across Northern Ireland. With the benefit of hindsight, the department maintains that pausing community test and contact tracing was prudent and appropriate at that time in the context of what we then knew.
+
+The general contact tracing service remained paused in Northern Ireland until it was reintroduced by the PHA on 27 April 2020. Initially, this was reintroduced in a pilot phase and then fully launched on 18 May 2020.
+
+The resumption of general contact tracing was earlier in Northern Ireland than in other parts of the United Kingdom.
+
+In general terms, contact tracing is most effective when prevalence and the number of cases are relatively low. While, following its reintroduction, the PHA maintained contact tracing throughout the pandemic it has to be said that at times of high prevalence the efficacy and efficiency of the service was reduced and the impact on transmission will have likely to have been very much diminished.
+
+While there were undoubted challenges with the performance and efficiency of the contact tracing service during these peak periods of demand, the department considers that the contact tracing service played a key role in the pandemic response.
+
+Turning then, my Lady, to the final pillar of Module 7, that of isolation policy. The department was responsible for setting policy in relation to the isolation of those who had symptoms, suspected cases, positive cases, and close contacts.
+
+The evolution of Northern Irish guidance was informed by knowledge of the virus, its transmission and behaviour, the emergence of new variants, awareness of particularly vulnerable individuals and populations, and the availability of vaccinations and epidemiological data.
+
+The department had to, and indeed did, act on the best available information and evidence in a rapidly changing and complex environment, factors which only served to compound the challenges for those making these decisions.
+
+The department's advice to the Northern Ireland Executive ultimately led to the implementation of various measures, including self-isolation for positive cases and their close contacts, which is a focus of Module 7.
+
+The department remains mindful, my Lady, of the potentially disproportionate impact of the pandemic and its restrictions on those with health inequalities, and for that reason, it believes that these inequities and inequalities should form an integral part of any future pandemic preparedness and planning.
+
+Of course, my Lady, as has already been stated this morning, in Northern Ireland the self-isolation rules were never law but rather were classified by the department as "very strong guidance".
+
+Despite this, it should be noted that the overall level of adherence in Northern Ireland was good, as elucidated in the department's statement to this Inquiry.
+
+The citizens of Northern Ireland are to be commended for the actions that they took to protect others.
+
+While there were no easy or straightforward solutions to many of the challenges, we contend that the collective endeavour of all ensured that, through research, innovation and operational logistics, the delivery came together in what was an unprecedented local and national effort.
+
+We consider, my Lady, that the evidence submitted by the department has shown how continuous learning occurred throughout the department.
+
+In conclusion, therefore, the department reiterates its ongoing commitment to this Inquiry and its work and stands ready to assist in any way that it can. Thank you very much.
+
+**Lady Hallett**: Thank you very much indeed, Ms Murnaghan.
+
+Ms Drysdale.
+
+Submissions on Behalf of the Scottish Ministers by Ms Drysdale KC
+-----------------------------------------------------------------
+
+**Ms Drysdale**: Good afternoon, my Lady.
+
+I appear for the Scottish Government alongside Iain Halliday, Kenneth Young and Christian Whittaker.
+
+My Lady, testing, tracing and supporting those that were isolating was at the heart of the Scottish Government's strategy to mitigate the impact of Covid-19. In May 2020 as the country moved out of lockdown, the Scottish Government published its test, trace, isolate, support strategy. This recognised that isolation would only be effective if people were properly supported. Test and Protect implemented this strategy. The Scottish Government pays tribute to the people of Scotland for their support for this strategy and the sacrifices made to keep family, friends, neighbours and communities as safe as possible. The Scottish Government's strategic objective was clear: to suppress the virus to the lowest possible level and to keep it there. Test and Protect was central to that.
+
+The Scottish Government did not do this alone. Partnership with the UK Government and others was the hallmark of its approach. Test and Protect was led by the Scottish Government, implemented by NHS National Services Scotland, and supported by Public Health Scotland and others.
+
+The Scottish Government's framework for decision making, published in April 2020, acknowledged that although Covid-19 affected everyone, the harms caused by the pandemic were not felt equally.
+
+A key part of the framework was the four harms approach which provided a mechanism to ensure that a balanced approach was taken, and that consideration was given to vulnerable and at risk groups as part of the decision-making process.
+
+The Scottish Government remains committed to learning all relevant lessons to strengthen preparation for the next pandemic. In this opening statement, I will address five key themes: persuasion to encourage self-isolation; evidence-based decision making; how testing capacity was increased; the evolution of test, trace and isolate interventions; and the Scottish Government's reflections.
+
+Turning to the first theme, my Lady, persuasion to encourage self-isolation.
+
+The effectiveness of the Scottish Government's strategy depended on compliance. It considered that the best approach was to encourage and persuade the population to comply, rather than to force them to comply by imposing large fines.
+
+Recognising the challenges that compliance posed for many was key. A range of financial and practical support was introduced to support ordinary people, and to remove barriers to compliance. This included the pre-existing Scottish Welfare Fund, introducing the Self-Isolation Support Grant, the Local Self-Isolation Assistance Service which provided access to a range of practical support, the Local Government Hardship Fund, food fund, and business support schemes.
+
+The Scottish Government worked out in partnership with the convention of Scottish local authorities focusing on persuasion and support along with clear public health messaging.
+
+Turning to the second theme: evidence-based decision making. The Scottish Government's response was based on the best available information and advice of clinical advisers. It made decisions tailored to the needs of Scotland's population. Where this pointed to an approach for Scotland which aligned with that taken by the UK Government and the other devolved administrations, then that was adopted.
+
+Ultimately, the Scottish Government's responsibility was to take decisions in the best interests of the people of Scotland. High-level clinical advice on the use of testing was broadly aligned across the four nations and approaches to testing policy was similar. The testing programme was built as a four nations programme. The Scottish Government and the UK Government worked together collaboratively and the programme was later formalised through a memorandum of understanding.
+
+In relation to contact tracing the test and trace service in England was operated directly by the UK Government. In Scotland, delivery was predominantly carried out by NHS special and territorial health board employees. The Scottish Government believed that the optimal structure was locally driven, with the ability to draw on central surge capacity.
+
+NHS NSS was the central coordinator of contact tracing alongside local health boards as part of a hub and spoke model. The key difference when compared with the UK Government's delivery model was that the Scottish Government preferred to use the existing health workforce to deliver contact tracing.
+
+Moving on to the third theme, my Lady: how testing capacity was increased. Through an extraordinary expansion effort, the Scottish Government built a national testing infrastructure from scratch, combining NHS Scotland's laboratories with access to the UK Lighthouse Lab Network. While much of the lab network performed well, reliance on the Lighthouse network exposed the Scottish Government to delays when demand surged across the UK. That reinforced the value of maintaining sufficient Scottish laboratory capacity and creation of NHS regional hubs.
+
+The rapid increase in testing capacity was a significant operational achievement, delivered through partnership working. As it became clear that asymptomatic transmission was occurring, the Scottish Government worked with the UK Government and the other devolved administrations to expand testing capacity.
+
+Community engagement was a key strength of the Scottish Government's approach. Local authorities and community partners helped bring testing directly to communities, particularly in deprived areas or among groups less likely to engage with national systems. The Scottish Government are committed to learning lessons and ensuring that, at the beginning of any future pandemic, structures and systems to increase testing capacity are already in place.
+
+Turning to the fourth theme, my Lady: the evolution of test, trace and isolate interventions. The Scottish Government's approach to testing adapted as the pandemic progressed. When lockdown was implemented, testing was used for more targeted purposes to protect the most vulnerable, ensure that critical workers could continue working, and maintain surveillance of the spread of the virus.
+
+This was the first pandemic where digital innovation supported the pandemic response. Scotland developed its own proximity tracing app, the Protect Scotland app, as part of a UK-wide approach. Scotland took the lead on providing the underlying technology platform that connected all the proximity tracing apps across the four nations.
+
+The Check-in Scotland app helped businesses support contact tracing.
+
+Intergovernmental collaboration on Test and Protect generally worked well with any challenges centred around funding. One of the most difficult challenges was ensuring people had support to isolate.
+
+The Scottish Government was reliant on the UK Government decisions on funding. No dedicated funding for test, trace and isolate existed at the start, and initial funding and its growth relied on decisions made by the UK Government.
+
+The Scottish Government announced its Self-Isolation Support Grant in September 2020 before it had confirmed funding from the UK Government. Advance agreement of funding for public health would enable clarity in any working.
+
+In early 2022 the UK unilaterally announced it would stop population testing in England. While the Scottish Government continued to run testing in Scotland for a short period it had little choice but to end mass population testing.
+
+Moving to the final theme: the Scottish Government's reflections, my Lady.
+
+The Scottish Government endorses the recommendations of the technical report of the CMOs on the Covid-19 pandemic in the UK. It recognises that equality, inclusion and human rights require to be essential parts of future testing. The Scottish Government's future pandemic preparedness programme of work will ensure that policy across government is better able to respond to the next pandemic. It is committed to working with the UK Government, other devolved administrations, and key partners to review the test, trace and isolate functions and ensuring that equality is embedded in everything that it does.
+
+In conclusion, my Lady, the delivery of testing and contact tracing in Scotland was a remarkable achievement delivered by the Scottish Government in partnership with the whole system of public agencies. A sophisticated and high-capacity programme was put in place with outstanding speed, which evolved with the pandemic and as testing requirements changed. The Scottish Government worked closely with the UK Government but was also able to take evidence-based decisions relating to Scotland's characteristics.
+
+The Scottish Government pays tribute to all those clinical, scientific support and administrative staff who showed such dedication and continuous effort in delivering Test and Protect.
+
+It also wishes to reiterate its appreciation of the vital role of the public. The cooperation, trust and commitment shown by people across Scotland in coming forward for testing, sharing contacts, and self-isolating when asked, was fundamental to the success of Test and Protect. Their collective effort was a cornerstone of Scotland's pandemic response and helped to save lives.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Ms Drysdale.
+
+Mr Kinnier.
+
+Submissions on Behalf of the Welsh Government by Mr Kinnier KC
+--------------------------------------------------------------
+
+**Mr Kinnier**: My Lady, prynhawn da.
+
+Today, the Welsh Government's submissions concentrate on four particular issues: first, discharge from hospitals to care homes; secondly, asymptomatic testing in care homes; thirdly, testing capacity; and finally, the self-isolation support scheme. During the early stages of the pandemic, based on advice from Public Health Wales and SAGE, it was not Welsh Government policy for patients to be tested for Covid-19 infection before being discharged from hospitals and care homes. On 15 April 2020, the Technical Advisory Cell advised caution about discharging patients with the virus from hospitals to care home settings. As a result, the decision was made to test patients being discharged from hospitals to care homes. That decision was communicated to Public Health Wales by email in the late afternoon of 15 April. On 17 April, Welsh ministers were advised that the UK Government had committed to testing patients on discharge from hospital before returning to care homes. Also on that day, local health board chief executives were told that Wales would align its approach to care home testing with England, and revised guidance would be released soon.
+
+My Lady, the Welsh Government recognises it should have acted more swiftly in respect of testing of patients being discharged from hospital to care home settings. In short, there ought not to have been a delay between 15 April 2020, when the risk came to the fore, the announcement of the new approach in joint letters of 22 and 24 April 2020, and the ultimate publication of guidance on 29 April.
+
+The Welsh Government is sorry for that delay, and most particularly to those affected by it.
+
+Asymptomatic testing in care homes was introduced on 16 May 2020. The Welsh Government received updated advice on asymptomatic transmission and adjusted its policy as the scientific assessment and understanding developed, and advice changed in favour of asymptomatic testing.
+
+Knowledge of asymptomatic transmission continually developed as the pandemic progressed. It is now accepted that it is an important factor in the spread of the virus.
+
+The Welsh Government has carefully reflected on whether it could have acted differently by including asymptomatic individuals when prioritising tests, or indeed sooner.
+
+The question is undoubtedly complex, but the Welsh Government's considered view is that asymptomatic testing for certain individuals was introduced at the appropriate time, bearing in mind the contemporaneous state of knowledge of asymptomatic transmission and the available testing capacity in Wales.
+
+To have introduced asymptomatic testing sooner, while knowledge was still developing, was likely to have moved resources away from identified and understood priorities.
+
+That said, undoubtedly this question will be the subject of careful examination both in this module and Module 6.
+
+Testing capacity was initially provided by laboratories in Public Health Wales's network. On 21 March of 2020, testing capacity was 800 tests per day. That was expected to expand to 9,000 tests per day by the end of April 2020. A further expansion by 5,000 tests per day anticipated on 1 April 2020 was based on an expected agreement between Public Health Wales and Roche Diagnostic Limited.
+
+Regrettably, that agreement did not materialise because Wales's position had not been correctly communicated by the UK Government, which was also negotiating with Roche at the time. Consequently, only 900 of the expected 5,000 daily tests were made available for testing in Wales, and the expansion of domestic testing was certainly slower than had been hoped. This lower rate of expansion meant that the expected number of 9,000 daily tests by the end of April was not met.
+
+Alongside the testing capacity provided by Public Health Wales, Wales had access to its population share of the testing capacity through the Lighthouse laboratories available under the UK's national testing programme.
+
+The UK Government placed constraints on laboratory testing during times of high demand. As detailed in the Auditor General for Wales's report on Test, Trace, Protect, the fact that Wales did not have sole control over all elements of the Test, Trace, Protect programme caused some operational difficulties. That said, the UK National Testing Programme also provided valuable opportunities for new testing technologies.
+
+For example, Wales's share of lateral flow devices enabled pilot schemes which helped inform decisions about alternatives to self-isolation.
+
+Although there were initial supply difficulties, in the final analysis, more than 8 million PCR tests were processed for people in Wales during the pandemic and testing was central to the Welsh Government's response to the pandemic.
+
+Looking ahead, the Welsh Government believes that laboratory capacity and sampling facilities will be important to any future pandemic. To that end, it has maintained significant laboratory testing capacity and infrastructure and it has also invested in testing technology to be prepared for future hazards.
+
+My Lady, the self-isolation support scheme was introduced in October 2020. As in England, eligible claimants were entitled to receive £500 per week and its introduction was timed to coincide with the entry into force of legislation requiring contacts of positive cases to self-isolate when notified by a contact tracer. Alone among the four nations, Wales increased the level of the support payment in August 2021 to £750, following concerns about the adequacy of a £500 payment to cover living expenses for ten days.
+
+Professor Machin considered this to be good practice. Significantly, the increase was made after the evidence made it clear that an increase would help to promote positive behaviour.
+
+Professor Machin also concluded that financial support is an integral part of encouraging people to self-isolate, particularly in the case of those on lower incomes. It was right, therefore, that financial support was made available and that Wales strove to make the Welsh scheme amongst the most generous.
+
+My Lady, in conclusion, we look forward to supporting your work in this module and in particular, learning the lessons for the future. Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Kinnier.
+
+Very grateful.
+
+And may I also thank every one of those who have been making submissions, timekeeping has been superb. I will, of course, also read the written submissions of those who haven't made oral submissions and the written submissions of those who have made oral submissions but obviously that have summarised their effect. So thank you all very much. I think it's probably time to take the break now.
+
+**Ms Cartwright**: Thank you, my Lady.
+
+**Lady Hallett**: And then we will call the first witness or you will call the first witness, Ms Cartwright, at 3.30.
+
+**Ms Cartwright**: I'm grateful. Thank you, my Lady.
+
+*(3.12 pm)*
+
+*(A short break)*
+
+*(3.30 pm)*
+
+**Lady Hallett**: Ms Cartwright.
+
+**Ms Cartwright**: Good afternoon.
+
+My Lady, Professor Naomi Fulop is the witness in the
+
+witness box. Can I ask, please, that Professor Fulop be
+
+sworn, please.
+
+Professor Naomi Fulop
+---------------------
+
+*PROFESSOR NAOMI FULOP (affirmed)..*
+
+**Lady Hallett**: I hope you were warned that we wouldn't get
+
+to you until quite late in the day. I'm sorry if you've
+
+been kept waiting.
+
+**The Witness**: That's okay, thank you.
+
+Questions From Lead Counsel to the Inquiry for Module 7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Cartwright**: Can we start, please, could you give the Inquiry your full name.
+
+**Professor Naomi Fulop**: Professor Naomi Judith Fulop.
+
+**Lead 7**: Thank you. Professor Fulop, you should have in front of you a copy of your witness statement. Can I take you to the last page of that, please, page 14. It's a statement dated 28 March of this year.
+
+Can I ask you to confirm that the contents of that statement are true to the best of your knowledge and belief.
+
+**Professor Naomi Fulop**: Yes, that's correct.
+
+**Lead 7**: Thank you. Now, Professor Fulop, you have already identified yourself as a professor. Could you confirm to the Inquiry, please, what you are a Professor in.
+
+**Professor Naomi Fulop**: Yes, I'm a Professor of Health Care Organisation and Management at University College London.
+
+**Lead 7**: Thank you. Now, you attend today, essentially, as the corporate or the spokesperson for Covid Bereaved Families for Justice UK?
+
+**Professor Naomi Fulop**: That's right.
+
+**Lead 7**: And it's correct, isn't it, that the witness statement that's been prepared essentially identifies the thematic issues of concern to Covid Bereaved Families for Justice UK and is the combination of collaboration of the membership?
+
+**Professor Naomi Fulop**: That's right.
+
+**Lead 7**: Now we'll turn to look at those thematic issues in the moment. The Inquiry is already well aware who Covid Bereaved Families for Justice UK are, but can we just identify together, it's right, isn't it, that you are an organisation of approximately 7,000 members?
+
+**Professor Naomi Fulop**: That's correct.
+
+**Lead 7**: All of whom have lost a loved one to Covid-19?
+
+**Professor Naomi Fulop**: Yes.
+
+**Lead 7**: You were founded in March of 2020?
+
+**Professor Naomi Fulop**: Yes.
+
+**Lead 7**: And the primary aim is to ensure lessons are learned from the pandemic to prevent further loss of life?
+
+**Professor Naomi Fulop**: Yes, that's all correct.
+
+**Lead 7**: And I think it's right also, isn't it, that you identify
+
+that one of the goals of the organisation is to
+
+establish the truth of what happened to their loved ones
+
+and to ensure accountability and to learn lessons to
+
+prevent future deaths?
+
+**Professor Naomi Fulop**: That's correct.
+
+**Lead 7**: Thank you. You are not only a member of the group, but
+
+it's right, isn't it, that you have been on the board of
+
+directors since July of 2022?
+
+**Professor Naomi Fulop**: That's right.
+
+**Lead 7**: Thank you. Now, we're going to come on to look at the thematic issues, and it's right, isn't it, that as part of that, you are identifying issues that happened in respect of your own mother's death and infection, Christina Fulop?
+
+**Professor Naomi Fulop**: Mm-hm.
+
+**Lead 7**: Which identifies relevant issues relating to test, trace and isolate?
+
+**Professor Naomi Fulop**: Yeah, that's right.
+
+**Lead 7**: Can we then, before dealing with the overarching thematic issues, could you perhaps give us some context to the death of your mother and the relevance of TTI?
+
+**Professor Naomi Fulop**: Yes, of course. So, actually, I'd like to start by taking just a few moments to talk about my mum and her life, just briefly, because I think it's really important that we remember, and the whole Inquiry remembers, who we've lost. So my mother was a really remarkable woman. She broke glass ceilings before they were called glass ceilings. She was born into a working class family in East London where none of her siblings stayed at school past the age of 12.
+
+She won a scholarship to a prestigious school but unfortunately due to the circumstances of the Second World War she had to leave aged 14. So she then worked in the day and went to night school and studied for the equivalent of GCSE and A levels and that's where she met my dad, who had arrived here in 1939 on the Kindertransport.
+
+She took her degree at LSE and, in later years, a PhD from Brunel University, and her career culminated in being professor of marketing at City University Business School. She combined professional life with raising three children and my parents were married for 69 years.
+
+**Lead 7**: Thank you.
+
+**Professor Naomi Fulop**: So, moving on to the pandemic and the circumstances of her death.
+
+She lived at home, supported by wonderful, dedicated domiciliary carers, who were absolutely fantastic and went above in beyond their duty. In the first wave, for example, when we couldn't get her supermarket deliveries, they went in their own time to buy her food.
+
+They had inadequate PPE. In March and April of 2020, they had no PPE. At the beginning of May, my mother was sent a week's worth of PPE to give each carer one mask as they came through the door. At the end of that week, my mother got a notification from the care agency to say that was ending, and they were now -- the carers were going to have one thin medical mask per shift. So they worked for 8 hours, going from frail elderly person to frail elderly person, with one thin medical mask.
+
+And when I rang the care agency to ask them about this, they said it was a change in policy by Public Health England.
+
+So I felt my mother was a sitting duck for Covid. However, she survived the first wave, so scroll forward to autumn and winter 2020, 2021, she started showing symptoms on New Year's Day, and then she became very unwell on Monday, 4 January. And the ambulance was called, paramedics were called, and they I didn't take her into hospital because they said there was such a long wait.
+
+The following day, the Tuesday, 5 January, they did take her into hospital once the carer had found her unresponsive.
+
+On Thursday, 7 January, we were informed she was moved to end-of-life care, and we were informed that one of us could visit. And we are -- there are three of us. So a difficult decision had to be made.
+
+And in the end, unfortunately, we weren't able to be there when she died, on Friday, 8 January. And that is a source of great pain to me personally. And I hadn't seen her since the end of September, because we were trying to protect her from Covid, and I regret that now.
+
+**Lead 7**: Thank you. And --
+
+**Professor Naomi Fulop**: If I could just finish by saying the following week she receive a letter inviting her to have her vaccine, and it was dated the day of her death.
+
+**Lead 7**: Thank you.
+
+**Professor Naomi Fulop**: So those were the circumstances. And if I can now go into the connection with the lack of an effective test, trace, isolate and support system, which could have played a really crucial role in protecting her, and it's at two levels: the first is that, as we've heard today, a centralised system was set up in May 2020 which sidelined local public health, which we'll say more about, and had too heavy a reliance on an app.
+
+It meant that the second wave was much worse than the first one. The virus spread in an uncontrollable way during autumn 2020 and despite warnings from experts. In particular I include in the statement the report from the Academy of Medical Sciences in July 2020, "Preparing for a challenging winter", which set out detailed recommendations overall but in particular about test, trace and isolate, which were ignored.
+
+And then, in my mother's case in particular, the lack of an effective test, trace and isolate support system meant that the care workers who looked after her so diligently were exposed due to both inadequate PPE and an ineffective test, trace and isolate system.
+
+They weren't able to test regularly, there was no asymptomatic testing at that time, and it was difficult for them to isolate without adequate financial and practical support. So they were risking themselves, their families, and the people they cared for.
+
+**Lead 7**: Thank you.
+
+Now, thank you for drawing out some particular thematic issues from the test, trace, isolate and support that you believe played a role in your mother's death on 8 January.
+
+Can we then, please, move to some other thematic issues.
+
+My Lady, I omitted to ask you at the outset for permission for the statement to be published, please.
+
+**Lady Hallett**: That will be the default setting.
+
+**Ms Cartwright**: Thank you.
+
+And we're not going to deal with details of the other personal accounts of thematic issues that are contained within the statement but it's right to identify they are provided from Kathryn De Prudhoe, Cleo Scrivener, Professor Fudge, Saila Ahmed, Elaine Seaton, Jackie Lancaster, Stuart Wright, Sylvia Ferro, and also an individual named as Karen, but it's right to say that there are too many other individuals from the group that have also contributed to these thematic issues?
+
+**Professor Naomi Fulop**: That's right, many people included.
+
+**Lead 7**: Can we then, please, look together at five of the overarching issues, appreciating that many, many others are identified in this statement.
+
+Could I ask you, please, first of all to detail and set out the group's concerns, by reference to test, trace and isolate, relating to preparedness and lack of capacity, please.
+
+**Professor Naomi Fulop**: Yes, and perhaps I can start that our group is concerned in an overall way by the lack of an effective test, trace, isolate and support system, because what that meant was, not only an increase in the number of deaths, but also it meant that we had more and longer lockdowns, and therefore the economic and social impact was much greater.
+
+And I feel that this has come out today somewhat in the Inquiry and it will come out more, but our group feels it's really, really important that people understand: it's not either many, many people dying or lockdowns. Actually, if you have an effective test, trace, isolate and support system, you can both reduce the number of deaths and reduce the number and length of lockdowns.
+
+**Lead 7**: Thank you.
+
+**Professor Naomi Fulop**: So in terms of -- sorry -- in terms of preparedness and lack of capacity, so as we've heard this morning, we weren't prepared prior to the pandemic. We hadn't learned from what happened with SARS, the SARS outbreak in the early 2000s. And we weren't even using the capacity that existed in, for example, the Crick institute and the universities. And the government ignored the warnings of experts, so we know we heard this morning that community testing stop on 12 March 2025 -- 2020, sorry. 12 March 2020 we stopped community testing.
+
+On 15 March, Professor Mark Woolhouse, who we've heard from in an earlier module, wrote to Chris Whitty, the Chief Medical Officer, and he said:
+
+[As read] "Many of us are at a loss to understand why the government has abandoned intensive population surveillance, contact tracing and quarantine, which is the bedrock of WHO advice for epidemic control."
+
+**Lead 7**: Thank you.
+
+Can we then please move on to one of the other significant issues for the membership of Covid Bereaved Families for Justice UK, and that's the issue of lack of financial support, please.
+
+**Professor Naomi Fulop**: Yes, so we're very concerned by the inadequate financial and practical support that people were given to isolate.
+
+So, for the system TTIS to work, all elements of it have to work. So even if you were very good at testing and tracing, if you can't help people -- facilitate them to isolate, you're not going to help them control the spread of the infection.
+
+So, for example, people on minimum wage, on zero-hour contracts, were -- found it incredibly difficult to isolate. They were forced to choose between earning a living or spreading the virus. And TUC research found -- that I've included in the statement -- that more than two times, twice as many people on zero-hour contracts were likely to die. And people like my mum's carers are an example here.
+
+But I'd also like to bring out an example from one of our members, Karen, who didn't want her surname to be used --
+
+**Lead 7**: Yes.
+
+**Professor Naomi Fulop**: -- whose husband worked as a maintenance engineer at a company where staff were dismissed if they had more than two absences a year. As a result, a colleague awaiting the results of the PCR test felt too afraid to isolate and instead attended work. There was minimal social distancing measures in place and Karen's husband was exposed to the virus. Despite being advised to shield due to his underlying health conditions, he feared the financial consequences of taking time off and continued working. He later contracted Covid and tragically died on 8 February 2021.
+
+**Lead 7**: Thank you. And with thanks to Karen for sharing that deeply personal experience.
+
+Could we then move, please, to the third overarching thematic issue of concern to the membership, namely the failure to utilise, as part of TTI, local expertise, please.
+
+**Professor Naomi Fulop**: Yes, so this is a fundamental failing of the policy. We've heard already today, and have already said, that a centralised system was established in May 2020, which sidelined local public health expertise. Local public health teams from 2012 were based in local authorities, and whilst unfortunately, due to austerity, they had undergone cuts, had they been given the resource, they could have undertook contact tracing with which they are so expert. But also, they understand their local communities. Every community is different, and those public health experts understand their community and could have been much more successful than test, trace and isolate was.
+
+So for example, the National Audit Office report found that between May and November of 2020, only 66% of contacts of infected people were contacted and asked to isolate, and SAGE -- as we've heard earlier today, SAGE's recommendations were that at least 80% of contacts have to be contacted. So this is a deep failure and it could have been different, and it could have been that the funds that were used, as we've heard about on test, trace and isolate, could have been used in a much more effective way.
+
+**Lead 7**: Thank you.
+
+Can we then, please, move on to topic 4, which we're aware is a significant issue for Covid bereaved families UK, which is the experience of the United Kingdom compared with other countries.
+
+**Professor Naomi Fulop**: Yes. So, again, that's something we've heard about today but it's of great concern to our members. So South Korea and the UK developed a test for Covid on the same day in early 2020, but by March, South Korea had conducted five times as many tests as we had because they had a very proactive testing process. So even in March, we could have been looking at those data and asking: how have they done that? What can we learn from it?
+
+And closer to home, in Germany, who implemented a widespread testing, contact tracing and quarantine system, which was successful, there were publications, including in the BMJ in May and June 2020, outlining their system and how -- and the successes of it. Why, again, why didn't we learn from that?
+
+**Lead 7**: Thank you. Then could I ask you, please, to detail the membership's concerns in respect of nosocomial infection and testing, and testing in care homes, please.
+
+**Professor Naomi Fulop**: Yes. These are of great concern to our members, many of whom have lost loved ones due to nosocomial infections, and the lack of testing, even though testing was confined to hospitals after March 12, there was still shortages, and in particular, asymptomatic patients were not tested, and healthcare workers also did not have good access to testing, which meant, and as we've heard and my Lady has heard in previous modules, infection rates were very high in hospitals, and which led to deaths of many of our members' loved ones.
+
+Secondly, as we've heard before and we'll hear in the next module, the decision to discharge hospital patients into care homes without testing in April 2020, and there weren't enough tests to do so, was absolutely disastrous, and again, many of our members lost their loved ones, who died, sadly, tragically, in care homes.
+
+**Lead 7**: Thank you. Professor Fulop, I know those are overarching issues of concern for the membership, but before concluding my questions, are there any other thematic issues you wish to draw out, and in the knowledge that your statement, the full statement, will be published and available for all to read?
+
+**Professor Naomi Fulop**: There's just a couple of things. One is that I just want to emphasise this message, again, about the link between test, trace, isolate and support being effective, and being able to reduce deaths as well as having fewer and shorter lockdowns. Our concern as a group is that lockdowns has become an ideological football in a really unhelpful way, and it's our hope the Inquiry can bring cool, calm, rational evidence to this discussion to show how test, trace, isolate and support, together with other pandemic preparedness and responses can mitigate both the number of deaths and the lockdowns and economic and social damage.
+
+**Lead 7**: Thank you very much.
+
+**Professor Naomi Fulop**: And there was just one final point I wanted to raise to my Lady, if I could. Our group was really heartened by your letter to the Chancellor of the Duchy of Lancaster, Pat McFadden, about the government's response to your Module 1's recommendations, which we wholeheartedly support, and calling for a radical reform in planning and resilience, and that there'd been too little detail so far in the government response.
+
+And we've also seen his response, which was quite short, and we eagerly await the publication of the Cabinet Office's resilience review, which we hope will provide the detail that both you and our group are looking for. But if I may, we'd like, really like you to consider, following the example of chairs of other inquiries such as Sir Brian Langstaff and Sir John Saunders, who called in government and other officials to hold them to account, and it would be really great if you would call in the Chancellor of the Duchy of Lancaster for a hearing to ask him to go through the detail that you have requested. Thank you.
+
+**Ms Cartwright**: Thank you.
+
+My Lady, did you have any questions?
+
+**Lady Hallett**: No, I don't. Thank you very much indeed, Professor Fulop, I understand how difficult it must be for you. My mother was 94 when she died and she didn't die in the awful circumstances of during a pandemic. So I can only imagine how difficult it must have been, but if I may say so, you and your fellow members have made some really constructive points and raised some very important issues which I undertake, as I hope I've done before, to consider really carefully.
+
+So thank you so much for your help.
+
+**The Witness**: Thank you.
+
+**Ms Cartwright**: Thank you.
+
+**Lady Hallett**: Ms Cartwright.
+
+**Ms Cartwright**: My Lady, the next witness is Anna-Louise Marsh-Rees. Please could she be called.
+
+Ms Anna-Louise Marsh-Rees
+-------------------------
+
+*MS ANNA-LOUISE MARSH-REES (affirmed).*
+
+Questions From Lead Counsel to the Inquiry for Module 7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Hello again, Ms Marsh-Rees. Sorry to keep you waiting until the end of the day. I hope you were warned.
+
+**The Witness**: I'm fine.
+
+**Lady Hallett**: Thank you.
+
+**Ms Cartwright**: Could I ask that you please give your full name to the Inquiry.
+
+**Ms Anna-Louise Marsh-Rees**: It's Anna-Louise Marsh-Rees.
+
+**Lead 7**: Ms Marsh-Rees, do you have a copy of that witness statement in front of you?
+
+**Ms Anna-Louise Marsh-Rees**: I do.
+
+**Lead 7**: It's dated 9 April 2025 and if I could ask you to turn to the last page of that, page 21. Could I ask you to confirm that the contents of that statement are true to the best of your knowledge and belief?
+
+**Ms Anna-Louise Marsh-Rees**: They are.
+
+**Lead 7**: Thank you. Ms Marsh-Rees, you've given evidence on a number of occasions to the Inquiry and thank you for attending today on behalf of Covid Bereaved Families for Justice Cymru to give evidence again in respect of Module 7.
+
+Can I ask you, then, first of all, if we just briefly confirm that Covid Bereaved Families for Justice Cymru was established in July 2021 and essentially it looks through a perspective uniquely of Welsh experience to identify learning from the deaths of your loved ones in your membership.
+
+**Ms Anna-Louise Marsh-Rees**: That's correct.
+
+**Lead 7**: Thank you. Now, again, it's right to say that there is a wide range of thematic issues that your witness statement identifies, but can we perhaps focus together on five of those in the knowledge, again, that this statement will be published for all to see. And once we've looked at those five topics together, I hope to end your evidence with just briefly dealing with the recommendations that Covid Bereaved Families for Justice Cymru have set out in their statement.
+
+So could I ask you, first of all, to deal, please, first of all with the issue of preparedness, please.
+
+**Ms Anna-Louise Marsh-Rees**: Absolutely. As we've heard in Module 1, there was no preparedness, despite numerous pandemic preparatory exercises. The one that is of most interest to us is Exercise Shipshape, which was an exercise that was carried out in 2003 and was specific to a SARS respiratory virus and it was undertaken by Wales and southwest England. There were a number of recommendations that were made, including being able to effectively contact, trace and isolate. Clearly none of that seemed to be taken on board in subsequent years.
+
+**Lead 7**: Thank you.
+
+Now, you have also identified that a thematic issue of concern to the membership is, again, the learning from international examples or other countries. Could I ask you to deal with the issues of concern relating to that topic, please.
+
+**Ms Anna-Louise Marsh-Rees**: Yeah, absolutely. I mean, we can see from countries like South Korea, Taiwan, Singapore, that particularly following the MERS outbreak where they were profoundly impacted, that they really did learn lessons. That they were able, when SARS-2 emerged, to ramp up their testing laboratory facilities quickly. They had a robust all-encompassing testing and contact tracing capability, and they didn't do it piecemeal. They were looking, you know, across the piece. They were looking at people that were asymptomatic and symptomatic. They were looking at a range of symptoms, none of which appeared to happen, you know, in Wales. And what's very interesting to hear, as well, is that Wales had a very -- had a discreet relationship with people like the World Health Organisation and we read from statements that they had, you know, an ongoing dialogue with southeast Asian countries like South Korea, but we're not seeing how any of that translated into what subsequently happened in Wales and, you know, we hope -- we would hope that we would find out why that's the case.
+
+**Lead 7**: Thank you. Can we then, please, move on to another thematic issue of concern, which is identified, and I think you've spoken about this before in other modules, but it's the issue, please, of testing and testing in care homes, please.
+
+**Ms Anna-Louise Marsh-Rees**: Well, there wasn't any in wave 1. And, you know, we're, as a group, we are very pleased to hear just now that the Welsh Government have finally apologised for the delay in discharging those from care homes to hospitals. You know, it was a massive impact, but what we'd like an apology for and an explanation for is why there was no testing of anyone in care homes, neither staff nor residents. We have one of our members who ran a care home in Wrexham, and she had no tests at all. It wasn't a case of there wasn't any asymptomatic testing, there were just no tests at all.
+
+**Lead 7**: Thank you. And are you able to identify what time period she had no access to tests in her care home?
+
+**Ms Anna-Louise Marsh-Rees**: This would have been April 2020.
+
+**Lead 7**: Thank you. Now, you've already touched upon asymptomatic transmission and testing but that also, I think, is an issue of concern you've spoken about before but is another thematic issue identified in the statement. Is there anything additional you'd like to say about that thematic issue?
+
+**Ms Anna-Louise Marsh-Rees**: Sorry, which one?
+
+**Lead 7**: Asymptomatic transmission.
+
+**Ms Anna-Louise Marsh-Rees**: Yes, that's a difficult one, because there's so much to say --
+
+**Lead 7**: I appreciate --
+
+**Ms Anna-Louise Marsh-Rees**: -- about that. It is almost preposterous for a government to say they did not know Covid was asymptomatic, you know, even as late as October '23 we were -- there was a -- Frank Atherton was still only advocating testing for those with symptoms and only the top three symptoms. Because there was no asymptomatic testing, and as we know, Korea, South Korea, Taiwan, Germany, all testing asymptomatic, this meant that you were not seeing the whole picture of Covid. There's -- it's almost like no point doing it if you're just picking out bits of who you're doing it and where, and, you know, moving in a -- on a related subject, you know, with not testing asymptomatic, you're limiting the pool of people you're testing, therefore you're limiting the way to, you know, stop the spread, but also, if you're only focusing on -- well, it was top two symptoms and then eventually three -- you're, again, limiting those, you know, the way to find out what, you know, who'd got it, isolate them.
+
+And, you know, to hear Mark Drakeford throughout that time saying there was no value to asymptomatic testing, what was that -- where was -- you know, we will look forward to finding out where he got his clinical advice from, because it seemed like everyone else differed in that clinical judgement.
+
+Now, of course, this meant that many people weren't tested, that they didn't know they had it, and then they spread it. Now, they even knew that in, I think it was April for some symptoms and then June for others, that there was a whole range of symptoms that you could have had. And we're not for one minute suggesting, you know, that testing should be undertaken for a sniffle but when particularly -- our group's focus is on older people, there was, it became very clear quite early on that there were a whole range of other symptoms like extreme fatigue, diarrhoea, nausea, headaches, that were, you know, absolutely, you know, silent hypoxia, for example, that just weren't tested, weren't factored in.
+
+**Lead 7**: Thank you. And I think you mentioned a moment ago, in giving that answer, the letter, that you've also helpfully provided with your statement, from Dr Frank Atherton from October 2020. I know it's a letter you've spoken about before when you gave evidence to the chair, and were taken in evidence by Mr Keith King's Counsel where you referenced -- that was a letter I think your father received, Ian, who we know died in October 2020 and I think your concern is that even in October 2020, the symptoms being identified were still very limited.
+
+**Ms Anna-Louise Marsh-Rees**: And only to have a test with those three symptoms, it's -- as I say, I use the word "preposterous" again, but it's just alarming.
+
+And bringing it back to my own -- my dad's situation, he wasn't tested in hospital, even though he'd been exposed to 20 other Covid patients. But when he was discharged, there was a week where my mother was calling the GP we had for out of hours doctors. Now, it was clear on his documentation that he had potentially been exposed to Covid but he did have all of those other symptoms, apart from the three cardinal ones, but not one person joined the dots in any shape or form and said, "Actually, not only has he been exposed to Covid but he's exhibiting a range of other Covid symptoms."
+
+**Lead 7**: Thank you. And I think you've previously identified that your father, I think who'd been in hospital for a gallbladder infection, was then discharged without having been tested for Covid but having been exposed to Covid whilst in hospital?
+
+**Ms Anna-Louise Marsh-Rees**: That's correct, yes.
+
+**Lead 7**: I know I'm highly summarising it but I am conscious that we have access to the transcript of the detail of what happened to your father in an earlier module.
+
+Can we then, please, before moving to dealing with recommendations, deal with the concern that the membership have around what was happening with the test, trace and isolate in wave 2, please.
+
+**Ms Anna-Louise Marsh-Rees**: Yes, and this again aligns with my personal experience and my father's experience.
+
+So, although he was tested on admission, there was no regular testing or repeat testing of patients in Wales until January 2021. Now, there was no lack of -- as far as we're aware, no lack of PCR tests at that time, nor capacity to test. But, you know, other members also experienced the same thing. Many, many of our families lost loved ones during that second wave, and had there been repeat testing, there would have -- you know, it would have identified that they were either asymptomatic, and segregated them, or other people would have been. And even when they introduced it, they only introduced it to re-test every five days, whereas in England it was every three days.
+
+And then the really big issue, which is the one that makes our group so angry and sad, is that despite lateral flow tests being available from November 2020, healthcare workers in Wales were not tested regularly, twice a week, in most cases until February and March 2021. That is the whole of wave 2, where there was no regular repeat testing of healthcare workers. So they were probably coming to work asymptomatic and spreading the virus, and this is why Wales has the highest nosocomial rate in the UK. Highest percentage, I should say.
+
+**Lead 7**: Thank you.
+
+Can we then, please, together look at the recommendations that Covid Bereaved Families for Justice Cymru have sought to offer to the chair. And I'm looking now at your paragraph 59 of the witness statement, please.
+
+Do you want to, please, detail the recommendations informed by participation in other modules but consideration of the documentation in Module 7 as to the group's views as to potential recommendations, please.
+
+**Ms Anna-Louise Marsh-Rees**: Well, the group's views are it should have started already, but, you know, and we know the chair would -- has already recommended this, and we are hoping that this is in flight, but don't believe it is, but there should already be in place a whole strategy around ramping up the scalability of testing and lab capability, a complete strategy around how testing is undertaken, how contact tracing is done.
+
+There needs to be people that understand tech, that understand how data privacy works. It can't just be an app. Although if it works, then that's good, but there have to be consideration for people that can't use digital or are not familiar or comfortable with using digital means. You know, look at South Korea. Look at those places.
+
+But get the experts in, listen to the experts. Do you know, we can't have a repeat again of somebody saying that they've got -- nothing is of clinical value, that there isn't -- when, you know, those decisions or that outlook caused thousands of people to die.
+
+**Lead 7**: Thank you. And I think you've already touched upon some of the other recommendations. So you have identified a robust testing and tracing system be developed and be ready to put in operation prior to any future pandemic. That you also make comment on the lack of a scalable testing system being the key reason for contact tracing being abandoned in Wales in March 2020, as we've heard today.
+
+And you also identify, and perhaps if you want to speak a little bit this, at paragraph 62 you identify that the group consider it imperative that exercises are carried out to ensure that communications between the United Kingdom Government and other devolved administrations are improved in relation to testing and tracing infrastructure and the appropriate sharing of information.
+
+**Ms Anna-Louise Marsh-Rees**: Absolutely. We are an island, you know, with a porous border with England. You know, we can't call it -- we even call it different things, you know, Test, Trace, Protect, rather than Isolate. It has to be, you know, a coordinated approach to test, trace and isolate. Again, we just can't have a -- you know, all I can say is, in Wales it was chaos. Test, trace, you know, moving from England to Wales, the app pinging when you hadn't been in contact, and getting the wrong results. You know, it was chaos.
+
+It was also -- you know, whether it's a centralised approach or a decentralised approach, our view is very much that it should probably -- you need to tap into the sort of local expertise. And, you know, we've heard in a previous module about, you know, there's really robust contact tracing in place for sexual health, for example. Utilise those. But there needs to be, you know, not just nationally coordinated in Wales but a UK coordinated approach to this. And it needs to be thought out now.
+
+If I can just say, last week in Wales, 178 people had contracted Covid in hospital. Five years on, 178 people. That doesn't sound like any lessons have been learnt.
+
+Testing has been forgotten. Well, it's proactively not undertaken. And it's almost felt throughout that the Welsh Government didn't want to know whether someone was positive. That's how we feel. It's like a concerted effort not to find out, because then you have to take a proactive -- you know, do something to save lives and protect people.
+
+**Lead 7**: Thank you.
+
+Then I'm looking at the final recommend in paragraph 63 of your statement, it details that:
+
+"[Covid Bereaved Families for Justice Cymru] recommend that the UK Government conducts a comprehensive analysis of international best practices, with a particular emphasis on South Korea's approach."
+
+Do you want to indicate or assist as to why the experience of South Korea is identified as one that gives an idea of best practice, please.
+
+**Ms Anna-Louise Marsh-Rees**: And I think that's well recognised that it did.
+
+Now, I know there are concerns around -- I mean, obviously they did it properly. They thought it through. There was a strategy. They had critical thinkers, they had experts, and people that made, you know, evidence-based decisions. But I think they've just understood what they were trying to achieve, and they did it for the right reason. It felt like any politics or any point scoring was -- you know, it went away. They were a hundred per cent focused on doing the right thing. And, you know, we want to take the best of that.
+
+What I was going to say was we are fully cognisant that there were -- there will be criticisms that their data protection laws or data privacy laws wouldn't -- you know, that they weren't as robust as they were in Europe, but that's the sort of thing we need to start thinking about now. You know, work out what you can anonymise, what you can -- there's lots of good ways to do it, but let's get the experts in to do this.
+
+**Lead 7**: And I think that's, in fact, how you end your witness statement on behalf of the group. You say this:
+
+"A review of these methods should engage with international public health experts to determine which components are transferable to the [United Kingdom] context. This should enable the [United Kingdom] to develop a more agile, efficient, and resilient framework for testing, tracing and protection, thereby strengthening its capacity to manage challenges in future public health emergencies."
+
+**Ms Anna-Louise Marsh-Rees**: Absolutely.
+
+**Lead 7**: Ms Marsh-Rees, is there anything else you wish to say in respect of the helpful recommendations set out in the witness statement?
+
+**Ms Anna-Louise Marsh-Rees**: No, that's captured it. I just would like to say this module is incredibly important to our group because so many of our loved ones and even ourselves were not tested, and we, you know -- and I also want to personally thank people like Paul Nurse and -- and McKee, people that actually stood up and said this is not right and did the right thing, and we look forward to hearing over the next three weeks, you know, the real experts and, you know, what -- you know, hopefully they will back up some of the things that we are asking for and the chair can make the appropriate recommendations.
+
+**Lead 7**: Thank you. We'll ensure your thanks are passed on to Sir Paul Nurse, and Professor McKee, when he attends tomorrow.
+
+**The Witness**: Thank you.
+
+**Ms Cartwright**: My Lady, do you have any questions?
+
+**Lady Hallett**: No, I've no more questions.
+
+Thank you so much, Ms Marsh-Rees. A number of times you said about how we've got to look at this now and, you know, the more evidence I hear in this Inquiry, the more convinced I am it's all about preparedness. So I think you're absolutely right.
+
+**The Witness**: It is.
+
+**Lady Hallett**: And I promise you that argument -- I firmly take it on board, as you know from the Module 1 report, but it's not just going to end with Module 1 because the preparedness aspect goes on in every single module.
+
+**The Witness**: We are in a constant state of preparedness -- well, we should be.
+
+**Lady Hallett**: We should be.
+
+**The Witness**: Yeah.
+
+**Lady Hallett**: Thank you so much for your help.
+
+**The Witness**: Thank you very much. Thank you.
+
+**Lady Hallett**: Does that conclude the evidence for today?
+
+**Ms Cartwright**: It does. We start again at 10.00 tomorrow with more impact evidence, my Lady.
+
+**Lady Hallett**: Thank you very much. 10.00 tomorrow, please.
+
+**Ms Cartwright**: Thank you very much. Good afternoon.
+
+*(4.13 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+
