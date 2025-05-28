@@ -1,0 +1,702 @@
+27-05-2025
+==========
+
+*(10.30 am)*
+
+**Lady Hallett**: Ms Cartwright.
+
+**Ms Cartwright**: My Lady, the gentleman by the witness box is
+
+Ben Dyson, could I ask for him, please, to be sworn.
+
+Mr Ben Dyson
+------------
+
+*MR BEN DYSON (affirmed).*
+
+Questions From Lead Counsel to the Inquiry for Module 7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Cartwright**: Good morning, could you please tell the Inquiry your full name.
+
+**Mr Ben Dyson**: Benjamin Paul Oakley Dyson.
+
+**Lead 7**: Mr Dyson, you have provided four witness statements for
+
+Module 7 providing, essentially, the corporate position
+
+of the Department of Health and Social Care. Can we,
+
+firstly, identify each of those four statements, please.
+
+If we can turn, first of all, to what we are going
+
+to call statement A, INQ000587292. Could I ask for us,
+
+please, to go to page 42. Thank you.
+
+It's the first statement, dated 27 March 2025, and
+
+can I ask you to confirm, are the contents of that
+
+statement true to the best of your knowledge and belief?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: And is it right to say that essentially this statement
+
+gives context as to the structures, the key individuals,
+
+and gives an overview chronology?
+
+**Mr Ben Dyson**: That's correct.
+
+**Lead 7**: Thank you. Can we then, please, move to the second witness statement, which is INQ000587347. Can we please turn to page 85. It's dated 4 April of 2025, and are the contents of that statement true to the best of your knowledge and belief?
+
+**Mr Ben Dyson**: Yes, they are.
+
+**Lead 7**: Thank you. And I think this statement principally deals with the scaling up of testing?
+
+**Mr Ben Dyson**: That's correct.
+
+**Lead 7**: Thank you. If we can then move to witness statement C, please, INQ000587346. Could I ask you to turn to page 106, please, in that witness statement. It's dated 11 April 2025 and again, is this statement true to the best of your knowledge and belief?
+
+**Mr Ben Dyson**: It is.
+
+**Lead 7**: And I think this statement essentially gives full details as to the scaling up of the contact tracing by the department?
+
+**Mr Ben Dyson**: And it deals with self-isolation and other matters.
+
+**Lead 7**: Thank you. So adjunct matters dealing with tracing and isolation and support for isolation?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: Thank you. Finally then, please, if we can turn to witness statement D, INQ000587345. Can we turn to page 70, please, where we there see your statement of
+
+truth. It's dated 11 April 2025. And can I ask you to
+
+confirm, are the contents of that statement true to the
+
+best of your knowledge and belief?
+
+**Mr Ben Dyson**: Yes, they are.
+
+**Lead 7**: Thank you. Now I think although you're the signatory to
+
+these witness statements, it's right, isn't it, that
+
+essentially a large volume of individuals have assisted
+
+in the preparation of these four statements, but you are
+
+the person to speak to them?
+
+**Mr Ben Dyson**: That's correct.
+
+**Lead 7**: Thank you. Can we then, please, deal with you and your
+
+background, please. It's right, isn't it, that you
+
+personally held four roles in relation to the pandemic
+
+response. Is it right that you were first director
+
+of the reasonable worst-case scenario team from March to
+
+April of 2020?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: You then were director of policy for NHS Test and Trace
+
+from May of 2020 to June of 2021?
+
+**Mr Ben Dyson**: That's correct.
+
+**Lead 7**: You then were director of cross-cutting policy for NHS
+
+Test and Trace from June of 2021 to October of 2021?
+
+**Mr Ben Dyson**: Correct.
+
+**Lead 7**: And then you were director of cross-cutting policy and
+
+public and parliamentary accountability at the UKHSA from October of 2021, when UKHSA was established, to the March of 2022?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: Thank you. And I think it's right, isn't it, that since then, you returned to the Department of Health and Social Care on 14 March of 2022 to take up the post of director of prevention services?
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: And you're currently a director for the Better Care Fund and Hospital Discharge, a role you've held since December of 2022?
+
+**Mr Ben Dyson**: That's all correct, yes.
+
+**Lead 7**: Thank you. And you're still in that position as at the present day?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: Thank you. And Mr Dyson, can we thank you for the obvious care that's gone into these four comprehensive statements, but also you being the person to speak to them.
+
+Can we then start, please, with providing some context in respect of what you say relating to development of testing, please. I want to go, please, into your statement B, which is then, please, at paragraph 4 so that's INQ000587347, and go to paragraph 12 on page 4, please.
+
+That's INQ000587347, page 4., paragraph 12.
+
+Now, I'm just going to move through these paragraphs, because it's right, isn't it, that you deal with testing for pathogens prior to the pandemic and if we move, then, to paragraph 13, but essentially the role of the Department of Health and Social Care, is it correct, pre-pandemic, was mainly limited to its oversight of Public Health England?
+
+**Mr Ben Dyson**: Yes, the department didn't have a direct role in testing at that point.
+
+**Lead 7**: And I think -- throughout the statement I think you similarly make the observation that the Department of Health and Social Care didn't pre-pandemic either have rule for contact tracing; is that correct?
+
+**Mr Ben Dyson**: Not an operational role.
+
+**Lead 7**: Again, I think you identify that sat with Public Health England?
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: But also the involvement of Directors of Public Health; is that correct?
+
+**Mr Ben Dyson**: Yes.
+
+**Lead 7**: Can I then seek your assistance, please, and necessarily our time together today will be focused on specific areas and specific topics -- by reference to scaling up of testing, please. And linked to an earlier operation, the Operation Alice.
+
+And can I ask, please, to be displayed INQ000090431. Thank you.
+
+And I think you've had an opportunity to consider this document as part of your preparations.
+
+And if we move through the report, please -- we can see it's a Public Health England report but if we move, please, through to page 10, thank you, we can see that action 4 was that -- the requirement for the development of a MERS-CoV serology assay procedure to include a plan for a process to scale up capacity.
+
+And if we can, please, just continue to move through to appendix A, I think -- on page 16, we see that summary of lessons and actions identified. Thank you.
+
+And also, just to identify the involvement of the Department of Health, please, can we turn to page 18, appendix C, which is the list of participants, but there's a large number of Department of Health individuals that were part of that exercise. Thank you.
+
+And so can we then move back, please, to the recommendation, please, which is on page 10. Thank you.
+
+As we can see there, one of the actions from Exercise Alice was to develop a MERS-CoV serology assay to include a plan for a process to scale up capacity. Can you assist, despite this, no plan was put in place to scale up testing, and according to other evidence we have, PHE had never been resourced to scale up testing.
+
+Do you accept or does the department accept that they were aware that there would be need for both planning and capacity to scale up testings as one of the lessons learning from Operation Alice?
+
+**Mr Ben Dyson**: Yes, that is clearly one of the lessons, as we see here. I think it's worth bearing in mind that this was an exercise about MERS, which is a -- doesn't have the same level of infectiousness as Covid-19. So I think it's important not to see this as a blueprint for the scale of testing that it -- that we went on to need during the Covid-19 pandemic. So yes, this is about scaling up capacity, but I don't think there's anything in the report that really envisages the industrial-scale level of testing that we did during Covid-19.
+
+**Lady Hallett**: Can I just interrupt there. I understand the level that was needed, because of Covid-19, but if MERS is not as infectious, yet still Exercise Alice said you needed to scale up testing, surely there's all the more reason that capacity to scale up should have been increased?
+
+**Mr Ben Dyson**: I agree. I agree. The recommendation was to include a plan for a process to scale up capacity, as it says here, and as has been reflected in my Lady's report on Module 1, we didn't have a plan in place for the industrial-scale expansion of capacity that we went on to adopt during the Covid-19 pandemic.
+
+**Ms Cartwright**: Can I ask you, then, leaving aside the industrial-scale capacity that was needed, bearing in mind that MERS-CoV was a coronavirus, and Exercise Alice had identified the need for a process to scale up capacity using an assay, was there any planning done by the Department of Health and Social Care to essentially plan to scale up capacity informed by this exercise?
+
+**Mr Ben Dyson**: I don't have any direct knowledge of the work done at the time. So I'm afraid I can't answer the question very directly. What I would say is that, at the start of the pandemic, PHE, having developed a coronavirus test, did then expand capacity to some extent, but what was clear, and certainly became clear later on, was that it didn't have the capacity to go beyond that.
+
+**Lead 7**: Thank you.
+
+Can I then ask, then, in terms of asking about the learning or the action from Operation Alice, were the department aware that there would need to be planning and capacity to scale up testing, but they failed to ensure these were in place by the time of January 2020?
+
+**Mr Ben Dyson**: As we've seen, the exercise report has a clear set of actions and recommendations. I can't say -- again, because I wasn't involved at the time, I can't say how far there was awareness within the department, but certainly I would imagine that the Emergency Preparedness Team would have been more than aware of all these recommendations.
+
+And I come back to the fact that there were clearly some systems in place to allow what I would call a moderate scaling of capacity and that's the work that we saw PHE did in the early stage of the pandemic. I would say that there weren't the plans in place to move beyond that.
+
+**Lead 7**: Thank you.
+
+Can I then ask questions again in the context of lack of scale-up of capacity.
+
+Could we please display -- it's paragraph 104 of a statement of Mr Hancock. It's INQ000587294. That's INQ000587294, please. And it's paragraph 104, please, at page 31. Thank you.
+
+Now, within this paragraph, we can see that Mr Hancock is detailing his frustration by the lack of scale-up capacity, given Public Health England's early assurances that they had the best system in the world.
+
+Now can you assist, had the Department of Health and Social Care allocated the development of -- had they allocated resources to the development of such a system for scaling up testing? Or at this stage, in February, was it still that it had been left as the responsibility of Public Health England?
+
+**Mr Ben Dyson**: May I just clarify, that's a question about testing or tracing?
+
+**Lead 7**: Well, this is obviously the context of testing, but also, and we'll come on to deal with it separately, through the prism of tracing, please.
+
+**Mr Ben Dyson**: So, to the best of my knowledge, the department hadn't provided additional resources to allow scaling up of testing, certainly not to the extent that we saw during the pandemic, no.
+
+**Lead 7**: Thank you.
+
+Then in terms of, again, in the context of the scale-up needed of contact tracing, which we'll come on to look at a little bit more together, what was the position of the department in terms of what was there to assist with scaling up on contact tracing?
+
+**Mr Ben Dyson**: Again, I can't speak to exactly what the department would have done prior to the pandemic. I think what this statement is telling us is that the PHE had -- it certainly had the protocols in place for contact tracing. As it says here, it didn't have the -- it didn't have the ability to scale up beyond a certain point.
+
+Obviously at the start of the pandemic, the department made clear that -- or the government made clear that resources were not to be an obstacle to further scale-up. So, as soon as it became clear that more contact tracing would be needed, resources became available.
+
+**Lead 7**: Thank you.
+
+Can I then, please, building on the scaling up of contact tracing, please, can we move into your statement C, so INQ000587346, please, and it's paragraph 40 at page 12, please. Thank you. You detail, and now we're just after the January in the paragraph before: "... contact tracing was considered likely to be more effective in the early stage of the pandemic, when the focus was on preventing wider community transmission." And we can see the paper reference there. It noted that: "... contact tracing ... would no longer be effective and should cease where there was sustained community transmission." Can I ask you, was that the position? Was it linked to the sustained community transmission or was the reality that there simply wasn't the capacity available for doing the contact tracing? Can we just be clear as to why the contact tracing stopped?
+
+**Mr Ben Dyson**: It's worse -- well, I'll come on to the answer to that question, it's just worth emphasising that contact tracing didn't stop entirely; it continued in high-risk settings, most obviously. But as this indicates, the view, of I think both SAGE and Public Health England at the time, was that neither contact tracing nor testing would be effective in -- when it came to the point of widespread community transmission. But as I say, notwithstanding that, it continued in high-risk settings.
+
+You ask whether this was because there weren't the resources for it. That's not my understanding. My understanding is that the position was that, other than in those high-risk settings, it wouldn't be effective in controlling widespread transmission once it's covering the whole population.
+
+**Lead 7**: Thank you. And obviously you've sought clarification that contact tracing did continue --
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: -- in high-risk settings. So can I perhaps use the decision of 12 March when the government move from the 'contain' -- sorry, from the 'delay' to the 'contain' phase, and so can you just be clear because I think you wanted to make some clarification about the fact that contact tracing did still continue in those high-risk settings and can we just be clear, then, where you say contact tracing continued after the move from -- into the 'contain' phase, please.
+
+**Mr Ben Dyson**: Yes, that's the case. So Public Health England managed contact tracing largely through its regional health protection teams who often worked in conjunction with local authority public health teams, and throughout the pandemic, including this early phase, they would have used contact tracing as a way of looking to control and manage outbreaks in settings such as care homes or prisons.
+
+**Lead 7**: Thank you. Can we then ask a question through the prism of scaling up of testing, please. And can I have displayed, please, the statement of Professor McNally, which is INQ000587245, please. And it's paragraph 11, please.
+
+Now, Mr Dyson, the Inquiry has heard some evidence that -- I know you've identified about the scaling up of testing, perhaps the context I want to give to this is before we move to the Lighthouse Project there is evidence that the Inquiry has heard that other resources were available, including through academic institutions, universities, and other research facilities, that were offering their laboratories to assist with the scaling up of testing.
+
+Now, this is one example of the context and, in fact, we've heard from Professor McNally, where he was essentially detailing that the UK universities had the equipment and expertise to help but it fell on deaf ears, and he's given some evidence about what would have been possible through the University of Birmingham by way of scaling up of testing and, similarly, the Inquiry has heard from some others, such as the Crick, as to what was feasible in the early stages of scaling up, also.
+
+Can you provide any view from the department as to why these offers were not taken up of smaller institutes that could have assisted with the scaling up of testing in the January, February, March and onwards?
+
+**Mr Ben Dyson**: Again, I don't have any direct knowledge of this, because I wasn't involved at the time. My understanding is that from -- well, throughout March, Public Health England was very much looking to expand testing, and I think the phrase here about "the scrapping of testing for patients" is misleading, that there was a decision taken to prioritise testing for hospital patients and, indeed, for outbreaks in residential settings like care homes, but the aim throughout March, and this intensified from mid-March onwards, but the aim throughout March was to grow testing as quickly as possible.
+
+And my understanding, I can't comment on individual offers of help, but my understanding was that at this point, Public Health England was working with both commercial and academic partners to do that.
+
+So yeah, I appreciate there is frustration here and in other evidence from people who clearly felt they could have helped more. It is entirely possible that if things had been done slightly differently, then there could have been some more testing at that point.
+
+The other -- but the other thing I'd just emphasise is that this was at a time when it wasn't just laboratory capacity that was the issue; it was also the supplies needed for testing, particularly reagents. So we could easily have been in a position, and I think this was the case throughout March and April, where even if we'd had more diagnostic laboratory capacity available, we wouldn't necessarily have been able to source all the supplies, including reagents, needed to use that capacity.
+
+**Lead 7**: Thank you. Can we then give some context to some questions I want to ask you, please, by reference to the devolved nations. Can we, first of all, deal with the context, please, and can we display your statement A, INQ000587292, please, and it's paragraph 83, please, at 22.
+
+I think it's a point you make across the four statements. You say:
+
+"Whilst health and social care policy is largely devolved to the Welsh and Scottish Governments and the Northern Ireland Executive, the Department has some reserved policy areas with UK-wide responsibility, including international relations. Public health is a devolved matter and each of the Devolved Administrations was responsible for its own testing, contact tracing, and self-isolation strategies and operations. This meant that certain arrangements to respond to the pandemic could be and indeed were made separately by the Devolved Administrations."
+
+And I think you go on to deal with the work that took place for collaboration.
+
+Could I ask you just to give an overview and a summary about what steps had been taken, particularly when there were differences in strategies, to try and ensure that there was an understanding of what each of the devolved nations was doing by reference to testing, contact tracing, but also then support for self-isolation?
+
+**Mr Ben Dyson**: Certainly. If I may, I'll take those in turn. And then make a general point about collaboration.
+
+**Lead 7**: Thank you.
+
+**Mr Ben Dyson**: So on testing, although, as the statement says, policy on testing and, indeed, responsibility for operations was a devolved matter, in practice, the -- all four countries chose to have a UK-wide testing programme that provided essentially the infrastructure, the laboratory capacity, the procurement of tests and so forth.
+
+So in practice, although Wales, Scotland and Northern Ireland could have chosen to go a different way, in practice the infrastructure was organised on a UK-wide basis, and that obviously required constant close collaboration across all four countries.
+
+On contact tracing, the operations were largely separate, with the exception of the app, which I suspect we may come on to, but the app was, as we know, shared between England and Wales. The other issue on which there was close collaboration was arrangements for cross-border tracing, where you have somebody who has tested positive one side of the border with contacts the other side. So there were protocols in place for that.
+
+Then on self-isolation, although again this was a devolved matter, in practice through most of the pandemic -- there were some exceptions, but through most of the pandemic the self-isolation rules were the same because they were based on the consistent advice of the four UK chief medical officers. And if I could just add the Joint Biosecurity Centre, which is possible we may come on to, provided advice across all four nations.
+
+And just the final point I'd make is that, in addition to what I've described, there were, from memory, if not daily, then, I mean, at least weekly and -- very frequent calls between us and the devolved administrations to share insights on everything to do with testing, tracing, self-isolation, and other aspects of the pandemic response.
+
+I remember, I think it was in June when there were outbreaks in both Leicester and Wrexham, people came together to compare notes and understand how best to respond.
+
+**Lead 7**: Thank you.
+
+Now, you've just referenced the role of the Chief Medical Officer. Can we move to your paragraph 87, please, which is on the next page. Thank you. Obviously you detail there the role of the chief medical officers, chief scientific advisers and the deputy chief medical officers, but also the collaboration that took place.
+
+Can I ask you, obviously that statement recognises that, as public health is devolved, and information -- if we look at paragraph 83, information and experience was widely shared, can you help, certain aspects of the different policies across the devolved nations diverged markedly in timing and decisions, and one example that's been explored with a number of witnesses is the Welsh Government's response in respect of -- testing in respect of asymptomatic.
+
+And perhaps -- obviously the UK Government announced on 28 April 2020 that there would be testing of those that -- in care -- expansion of testing to all staff and residents in care homes in England whether exhibiting symptoms or not. However, the testing of asymptomatic workers and residents was not adopted in Wales until statement that testing for infectious disease is particularly important, where infection has non-specific symptoms.
+
+So are you able to assist? And there are also other examples of people's views on how this developed and also the thinking linked to testing of those with no symptoms. Are you able to assist as to whether the scientific advice in relation to asymptomatic testing was captured to ensure it was the same across the four
+
+nations in April 2020 and for the remainder of the
+
+pandemic? So if something was identified of
+
+a significant scientific matter, to ensure, then, that
+
+it was cascaded and dealt with in the same approach
+
+across the four nations.
+
+**Mr Ben Dyson**: Particularly for that early stage of the pandemic, I'm
+
+afraid I don't have any direct insights into the exact
+
+nature of how scientific advice was shared across the
+
+four nations. Although, as it says here, I'm confident
+
+it's saying that there was collaboration and
+
+coordination. And certainly in all the time that I was
+
+involved in test and trace, not only was scientific
+
+advice being shared, but we were having regular
+
+conversations with colleagues in the devolved
+
+administrations to understand how you then marry up that May 2020. And obviously you identify in your                          16           scientific advice with the practicalities of different
+
+interventions and the policy implications.
+
+And the other thing I'd just say briefly is that
+
+it's worth bearing in mind that understanding -- or
+
+scientific understanding of asymptomatic transmission,
+
+and I think Chris Wormald touches on this in one of his
+
+earlier statements, scientific understanding of both
+
+asymptomatic transmission and the role that testing
+
+could play in relation to asymptomatic transmission
+
+evolved gradually over the -- certainly over the first few months and beyond of the pandemic.
+
+**Lead 7**: Thank you.
+
+Can we, please, then move -- there are some questions, please, based on your statement B, INQ000587347.
+
+Can we start, please, at page 22, just with displaying the table which is a different way we've looked at the five pillars but I think where you've identified what each of the pillars were, and also the organisations responsible for the five pillars of the testing strategy from April of 2020.
+
+But then, having looked at that, because it is going to be relevant to questions I ask you now, please, linked to Pillar 1 and 2, can we move, please, to your paragraph 126 at page 27, please.
+
+This is is under the subheading of "Testing NHS and Social Care Workers". And you detail within the statement:
+
+"... that there were 71,961,000 Covid-related absences in hospital trusts on 25 March 2020 ..."
+
+And that:
+
+"... the submission recommended that the initial priority needed to be the testing of NHS staff and social care workers, given the importance of health and social care services, particularly for older and vulnerable people."
+
+And in fact there's a submission that's been provided, please, which was a submission from Julia Dudley and Kathy Hall, "Approach to Keyworker Prioritisation for Covid-19 Testing", which is one of the documents in your pack, dated 28 March 2020. Can we turn to that, please, for a moment, which is INQ000546879. That's INQ000546879. Thank you.
+
+Can we move forward, please, in respect of this submission, to paragraph 8. Go back, sorry. It's paragraph 6. Sorry, paragraph 6. Thank you. Thank you.
+
+We can see that this paper from 28 March identified:
+
+"Once we reach more than 1,000-2,000 tests per day, we will move into a new mode. The legal position is that Devolved Administrations ... have autonomy over testing decisions. As tests are being purchased on a UK-wide basis, the Chief Medical Officers will agree an overall allocation for each nation based on the current disease profile and activity profile. The DAs will then prioritise key worker testing as best meets their needs. In some cases and for some groups, 2 or more of the 4 nations may choose to align their prioritisation approaches."
+
+Can I ask then, you've obviously identified, if we go back to your witness statement, please, so it's the INQ000587347, and it's, please, paragraph 135. Thank you. So paragraph 135, please. Page 29.
+
+Thank you for your patience, Mr Dyson, as we move across these documents. You identify that:
+
+"Thanks to the successes of implementing Pillars 1 and 2 of the testing strategy, eligibility for testing was expanded again on 20 April ... to include anyone over the age of 65 with symptoms, anyone with symptoms whose work could not be done from home and all social care workers and residents in care homes (with or without symptoms)."
+
+Can I ask you, then, with that having been identified and also, then, allocation of testing, having regard to allocation of testing between the four nations, was test capacity then increased to the four nations in light of the fact that there would then be testing of those without symptoms? So to ensure, essentially, each of the four nations had the appropriate test to do this testing of those without symptoms?
+
+**Mr Ben Dyson**: That is a good question. And the first thing to say is that I don't know for sure what the precise arrangements are. As we've seen in one of the other exhibits that you've shown, the agreement was that the chief medical officers across the four countries would allocate testing based on both population size and relative need, but I'm afraid I can't say exactly what arrangements were made to factor in asymptomatic testing.
+
+**Lead 7**: But are you able to help, was there someone within the department that had a role for looking at issues such as that?
+
+**Mr Ben Dyson**: To look at issues vis à vis the -- well, certainly the testing team, from all the time I worked in Test and Trace, our testing team had a dedicated team responsible for working with the devolved administrations. So they would have looked both at the operational aspects of testing and any associated policy issues.
+
+**Lead 7**: Thank you. I thank you for your assistance, Mr Dyson, because certainly the Inquiry has heard evidence from the Covid bereaved that this was a concern particularly where there was not the standard testing of care home workers, and even in the second wave, for example we've hearing from Hazel Gray of that being an issue linked to her parents and, similarly, it's an issue that a number of the Covid bereaved statements addressed their concerns. So I wonder whether you could assist with ensuring that, essentially, the Barnett consequentials to ensure the appropriate testing were increased in line with an identified need for testing of those without symptoms.
+
+**Mr Ben Dyson**: As I say, I'm afraid I can't offer more on the detail. I can reaffirm the principle that, as you say, under the Barnett principles, the firm intention was to make sure that there was a fair allocation of testing capacity across the four nations based on both population size and the relative needs of the four countries.
+
+**Lead 7**: Thank you. Can we then, please, staying in your statement B, please, move to paragraph 305, please. And that's at page 67, please -- in fact, before we go to paragraph 305, can we start, please, at paragraph 297, page 66. And I think perhaps this is an important distinction to make.
+
+You tell us by reference to adult social care testing:
+
+"The Department's role in testing for the adult social care sector is referred to at various points in the statement ..."
+
+But essentially you identify that there's a difference by reference to adult social care and the department.
+
+And can you, perhaps, give the clarity, and I think it's linked to where the responsibility for adult social care sits within local authorities; can you just clarify the position, please?
+
+**Mr Ben Dyson**: To clarify the position as regards the department's relationship with the social care sector?
+
+**Lead 7**: Please. Thank you.
+
+**Mr Ben Dyson**: Yeah, so the department has overall responsibility for policy in relation to adult social care, but funding for adult social care is a combination, broadly speaking -- there are some exceptions to this, but broadly speaking, of funding allocated by what at the time was the Department for Levelling Up, Housing and Communities, and also locally-raised revenue. So local authorities have -- also have much greater flexibility, if you like, to decide how to deploy funding and what policies to follow. Notwithstanding that, we may come on to this, the department did play a very active role in working with the adult social care sector throughout the pandemic to support testing, amongst other interventions.
+
+**Lead 7**: Thank you. Can I then, please, having identified that, can we move to paragraph [306], which is the creation of a digital portal. Thank you.
+
+You refer to the creation of this digital portal to facilitate the rollout of the testing programme in adult social care from 13 May 2020 and to allow care home workers to access tests.
+
+And I think the -- can you assist, please, whether there was any particular discussion with the devolved nations about how this rollout and testing priorities would operate across the four nations, or was that solely for the devolved administrations?
+
+**Mr Ben Dyson**: That would have been a matter for the devolved administrations.
+
+**Lead 7**: Thank you. Thank you. Can we then, please, move back to another topic, please, on international cooperation, please, and can we move back into your first statement, please, INQ000587292.
+
+It's at page 28, please, at paragraph 113. Thank you.
+
+Now, you tell us that:
+
+"Throughout the pandemic, the Department interacted with other countries and international partners to identify best practice with regard to testing and contact tracing."
+
+And if we can move to the next paragraph, please, you identify that:
+
+"The Department [also] established the Testing and Contact Tracing International Forum to share insight and learning from other countries' testing and contact tracing programmes ..."
+
+And you detail the attendees there.
+
+Can I ask, because it's identified as representatives from the United Kingdom; would that also include representatives from the devolved administrations?
+
+**Mr Ben Dyson**: I don't know whether the devolved administrations did attend some or all of these meetings. What I can say is that, at the same time as these international forum meetings were taking place, we were meeting, I suspect, on almost a daily basis with the devolved administrations. So if they were not at these meetings, and if significant issues had arisen in them, I have no doubt that we would have discussed them with the devolved administrations.
+
+**Lead 7**: And that's the follow-on. What was the way to cascade knowledge and learning? Is that from what you've just said in the meetings that followed?
+
+**Mr Ben Dyson**: Yes. There were multiple forums through which we worked with the devolved nations. My team, which was a policy team, had a, we had dedicated leads for liaising with counterparts in the devolved administrations, so we were regularly discussing policy issues in relation to testing and contact tracing, but there were complementary arrangements for operational cooperation through the testing programme, and as I've mentioned, the Joint Biosecurity Centre was providing advice, on the epidemiology and understanding how Covid was spreading, to all four nations.
+
+**Lead 7**: Thank you. Can I then ask you some questions, please, around the development of the app, and perhaps before doing that, can we just contextualise. We know that there's reference to the contact tracing app in the May strategy that it was hoped that it would be available "in a few weeks' time", but as it happened, the Inquiry has heard quite a lot of evidence about the development of app 1 and app 2, so I don't want to spend time going over that chronology we've heard, but we know, as it happened, it wasn't until the September time that the app was available, and I think utilised in England and then Wales.
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: That was not until the end of September. So can you assist when it was anticipated that there would be a contact tracing, an app that would have a contact tracing function, what impact that delay in it being operational had on the scaling up of contact tracing, please?
+
+**Mr Ben Dyson**: To the best of my recollection, it didn't alter the plans we were making for scaling up of what's sometimes called manual contact tracing, although I think "manual" is a slightly misleading term because even standard contact tracing does rely to some extent on digital support. So essentially during April and May, PHE, together with the department, the business services and authority -- the Businesses Services Authority and others, were working to make sure that we had sufficient standard contact tracing capacity, if I can call it that, to deal with the projected number of positive cases and contacts there would be.
+
+So from the best of my recollection, I don't think that was affected by the timing of the introduction of the app.
+
+And although you're absolutely right that -- I think at that point in the pandemic, there was perhaps greater emphasis being placed upon the importance of the app, sometimes, I think, to the exclusion of people thinking about the benefit of standard contact tracing, certainly we geared up to make sure that we had a standard contact tracing service able to deal with all positive cases and their contacts.
+
+**Lead 7**: Can we then just deal with it as a topic, please, using your third statement, please, INQ587346. If we start really with the purpose of contact tracing, paragraph 10, please, on page 4. You tell us that:
+
+"Contact tracing is a longstanding public health measure used to identify individuals at risk of having been infected with -- and manage the spread of -- a pathogen. This includes both forward and backward contact tracing, with forward tracing forming the primary approach during the pandemic."
+
+We can see that principally, I think, a forward contact tracing approach was taken rather than backward contact tracing. Can you assist as to the consideration of that, as to the effectiveness, please, of contact tracing by the department?
+
+**Mr Ben Dyson**: It's worth saying there was some backward contact tracing undertaken, particularly from, I think, the summer of 2020 onwards. So one of the changes we made within the contact tracing service was to ask people who'd tested positive not just about who they'd been in contact with in the previous two days, but to ask them to think back, I think it was, seven or ten days, about who they'd come into contact with, and provide some clues or indications as to where they may have become infected. And that enabled Public Health England and local authorities to start to identify where there might have been outbreaks associated. So essentially where you have multiple people testing positive in the same setting or in the same area, that can then lead you back to how you manage outbreaks.
+
+But it's certainly correct to say that at the start, the big focus was on forward contact tracing as a way of essentially identifying people who -- individuals who had come into contact or were thought to have come into contact with a person who had just tested positive and then to advise them to self-isolate.
+
+**Lead 7**: Can I ask you, you detail within the witness statement essentially the process of the scale-up --
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: -- and how then the Public Health England teams and then the involvement, latterly, of the local authority Directors of Public Health, but certainly one of the issues and themes in the Inquiry is the under-utilisation of the local contact tracing and the skills of the Directors of Public Health. I think you just identified how there was some backward contact tracing that started in the summer of 2020. Do you identify that link as to when the contain framework was established in the July of 2020 and essentially looking to use more of those local resources by the Directors of Public Health?
+
+**Mr Ben Dyson**: So there are a number of issues here. I mean, first off, can I say I think it's a critical piece of learning from the pandemic that we understand, as far as we can, the -- how you get the best balance between local and national. And certainly in hindsight there are things which I think a number of us wish we'd done slightly sooner, to strengthen the local element of that relationship.
+
+It's also worth saying that -- and we've touched a bit on this already, that from the start, there was certainly local authority involvement in the more complex cases. So even before the introduction of test and trace, where there was an outbreak in a care home or a prison, it would very often be the public health protection team, that's a regional team, working with local authorities to take appropriate action in that setting.
+
+So there had been an element of local contact tracing from the start, and indeed, when we established the test and trace service on 28 May, it was built into the model from the start that you have essentially a three-tier system and the first tier is where the person who's tested positive is from -- say, somebody who works in a care home or a school or a prison, and straight away those cases would be referred to health protection teams who would then often work with local authorities.
+
+So that is context in terms of what was done from the start.
+
+The big change in from around June/July onwards, was to start to look at people who'd tested positive and whose details had therefore come into the contact tracing system, and where the central tracing teams were unable to reach them. So the central tracing teams would have routinely emailed, texted, and then, where they didn't get a response, they would seek to phone them. But we were finding that some people with either not engaging or were engaging later than was ideal. And so the approach taken at that time was to start to ask local authorities to do the tracing of positive cases for those who the central service had been unable to reach.
+
+And I think that was an important step in, if you like, harnessing the -- what local authorities could bring to contact tracing with the greater efficiency that you could get from doing more straightforward contact tracing on a national basis.
+
+**Lead 7**: And can I ask you, in terms of the central service and the building up of that from scratch, I've described it as call centre contact tracers, albeit they may have been operating virtually as a call centre, but who in the department had an input into the numbers or that centralised model initially before the skills of the local authorities and local contact tracing was identified as really being the preeminent skill? Can you help as to who identified the numbers that were needed for that central contact tracing, or who thought a centralised approach was the best way to go initially?
+
+**Mr Ben Dyson**: The -- so, again, I think there are a number of questions caught up in that.
+
+In terms of who thought the centralised system was the way to go, ultimately that was a ministerial decision, but it was based on the -- as I recall, the firm recommendations of both Public Health England and the team within the department that was responsible for what became test and trace, it was called I think the Test, Trace and Certify programme at the time.
+
+So the team in the department and Public Health England, supported by the NHS Businesses Services Authority, had identified that the most efficient and effective way of scaling up contact tracing at the start would be through that three-tier model. The first being the local for the high-risk cases and the more complex contact tracing; the second element being health professionals -- doctors, nurses and other health professionals that were brought in to act as people who interviewed the person who had tested positive. And then finally the third tier was the contact tracers who essentially phoned people who were identified as contracts.
+
+**Lead 7**: Can I ask you, would you agree that if the local level infrastructure of contact tracing was utilised from the outset, it would have increased test and trace capacity?
+
+**Mr Ben Dyson**: Um, so certainly it would have been advantageous. There is no doubt about this. It would have been advantageous if, early on, it had been possible to adopt the blended tracing model that we did.
+
+I think it's still the department's view that where you have what I'm going to call straightforward cases -- and essentially by that, I mean somebody who has tested positive who is ready to engage, ready to share information about their contacts, and then it's relatively straightforward to get in touch with those contacts and pass on advice. For those more straightforward forms of contact tracing, I think the department's view still is that there are obvious efficiencies in doing that on a national basis. But yes, I agree that particularly where there are people who are perhaps either more reluctant to engage with the national service or are taking time to engage with the national service, it would have been beneficial to have the local tracing element in place sooner.
+
+**Lead 7**: Thank you.
+
+Then can I ask you, why did it take until July for this to be established and only then, I think initially, on a pilot level in certain local authorities?
+
+**Mr Ben Dyson**: Partly for the -- I mean, for the obvious reason, and this is, I think, another key lesson, that we didn't have plans in place before the pandemic, and certainly I, you know, my personal view -- yeah, my personal view is that that should be a key learning for the future: that you plan in advance for the type of local, national blend that you're likely to need.
+
+I think the other thing I'd draw out is that there may have been a degree of optimism bias, if I can call it that, in terms of how successfully the national service would be able to get in touch with people and get in touch with them quickly. It did do that for the majority, indeed the great majority, for most of the pandemic of people who tested positive, but I don't think anybody had quite anticipated that there would be a sizeable minority of people who were either not engaging or really taking time to come back and engage with the National Tracing Service.
+
+**Lead 7**: Thank you.
+
+Now, I'm not going to go through the aspect of your statement that deals with the local outbreak management plans and essentially the allocation in June of 2020 of the 300 million to local authorities to develop local outbreak management plans, but can I ask you, was lack of resources also an inhibiting factor to the establishment of a localised system of contact tracing?
+
+**Mr Ben Dyson**: As I say, the -- I don't think it was ever considered, and I think it's still the department's view that it would be unwise to consider a system where you put all of contact tracing responsibility with local authorities. So that model would certainly not have been possible, but nor do I think would it have been desirable.
+
+It is certainly the case that as we started to roll out local tracing partnerships, there were times when local authorities were unable to deal with the volume of cases that were being referred to them, and we had to adopt a very flexible model whereby we could adjust the thresholds that you use to determine which cases a local authority takes on, and which cases the national service continues to operate.
+
+So yes, it's possible that certainly at the margins, additional resources would have been helpful.
+
+It's worth emphasising, though, that the money allocated to local authorities under the Contain Outbreak Management Fund, which you've referred to, was definitely intended to give them as much flexibility as they needed in deciding how to -- how best to use that resource to tailor testing, tracing and support for self-isolation to the needs of local communities.
+
+**Lead 7**: Thank you. Can I then ask you, on the app, please, in your statement, please, at paragraph 127.
+
+So this is in the INQ000587346 statement, please. That's INQ000587346, statement C. It's paragraph 127.
+
+It's just a question on the use of the contact tracing app.
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Lead 7**: And obviously you give the detail within the statement about that development and rollout.
+
+If we could go though, please, to INQ000587346 at paragraph 127. Thank you.
+
+You deal there with:
+
+"Interoperability with the devolved administrations was discussed at an early stage. Wales chose to join with England in adopting the NHS COVID-19 app, while Scotland chose to develop its own contact tracing app. Northern Ireland joined with the Republic of Ireland in adopting a test and trace application. The NHS COVID-19 app was interoperable with the Northern Irish StopCOVIDNI app because it was also based on the Google/Apple system and became interoperable with the Protect Scotland app in November 2020."
+
+Are you able to assist as to liaison that took place with the Welsh Government as to why they stuck with the NHS Covid-19 App and didn't develop their own contact tracing app?
+
+**Mr Ben Dyson**: I didn't have any direct involvement on this particular issue so I can't, I'm not sure I can add much in terms of the specific conversations that took place with devolved administrations, but I -- I'd reiterate what, I think, both Matthew Gould and Simon Thompson have said in previous sessions about the regular contact we had with all four nations throughout the development of the -- of the app 1 and app 2.
+
+**Lead 7**: Thank you.
+
+And if we could go back a page to your paragraph 125, thank you, you deal there with the analysis from the NHS Covid app by reference to the Nature article of May 2021 and so, essentially, you identify the positive things that the UK -- sorry, the app that was rolled out and used in England and Wales had by reference to preventing a million cases, of 44,000 hospitalisations, and saved 9,600 lives.
+
+But can I ask as to whether you can assist in identifying the analysis of the data from the app, whether you can help with the trend that was also picked up in at Nature article which is -- please can we go to that very briefly, INQ000475153 and it's internal page 27, please, INQ000475153 -- thank you. And could the map be expanded.
+
+So obviously there's been some review of the article but, obviously, no reference to this universal trend of low uptake across Wales. Had that -- has that been spotted at any point by the department and can you cast any light on why there appears to be the low uptake of 16-20% or even lower in one area, almost universally across Wales, please?
+
+**Mr Ben Dyson**: So on the first question I'm afraid I can't be absolutely sure. I do know that as a -- well, as a test and trace service within the department, we were very alert to what we knew to be the risks of different levels of uptake in different communities, but I'm afraid I don't recall any specific discussions about this strikingly low uptake in Wales.
+
+And sorry, the second part of the question was?
+
+**Lead 7**: Whether there had been any analysis of it.
+
+**Mr Ben Dyson**: Whether there'd been any analysis. Um, I don't know, I'm afraid.
+
+**Lead 7**: Okay, thank you.
+
+**Lady Hallett**: I should just say I think -- was it Mr Drakeford or somebody questioned the accuracy of the map.
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Ms Cartwright**: Can I ask you bearing in mind the department has relied upon the data to identify those positive things that the app had identified, has the department identified any issue with the data that fed into this Nature article?
+
+**Mr Ben Dyson**: Not that I'm aware of, but I am not familiar with any work that's been conducted since the pandemic which could have touched on that.
+
+**Lead 7**: Thank you. Can I then move on to a separate topic, please, which is support for isolation and then the enforcement of isolation.
+
+And to contextualise the question, can I ask you, if we look in your statement D, please, INQ000587345, and can we go to paragraph 109 at page 35 of statement D, please. Thank you. Thank you.
+
+You deal with the rollout of the contact tracing and also, at paragraph 110, that the department recognised that, for some people, self-isolation was likely to have an impact in respect of loss of income, concerned about job security, loneliness.
+
+And I think if we look at paragraph 108 also, please, I think it had already been identified by the department in May of 2020 the inequalities that self-isolation would cause to individuals.
+
+Can I first of all capture when the department had identified that there was going to be a disproportionate impact of isolation on many?
+
+**Mr Ben Dyson**: I -- my recollection is that this would have been considered throughout April and May. Certainly when I was involved in both April and May we were thinking about the impact of -- that would arise once we are -- once we are testing on a much more widespread basis and contact tracing on a widespread basis, and therefore asking thousands of people to self-isolate.
+
+**Lead 7**: Thank you.
+
+And then can we move forward, it's a paragraph that's within reflections and lessons learning. It's paragraph 203, please, at page 65, and just on this theme of isolation, support for isolation and enforcement, you say this:
+
+"Some of the individuals culled in the development of this statement reflected that, for any future health threat, it will be important to consider carefully the balance of potential benefits and risks in making rules on self-isolation and other public health measures legally enforceable, taking account on the one hand the value of reinforcing the critical importance of these rules and on the other hand the potential impact on uptake of testing and engagement with contact tracing and the challenges of enforceability. Some individuals consulted in the development of this statement also reflected on the potential advantages, subject to public health advice, and behaviour insights, of encouraging and enabling individuals to take a greater personal role in giving information to their close contacts (to complement the role of contact tracing teams) and of exploring how to strike the right balance in terms of the detail and specificity of self-isolation rules (bearing in mind the possibility that what are perceived as overly restrictive rules could limit adherence). This requires understanding both the science behind how any future pandemics operate and behavioural insights into how people are likely to respond to rules or guidance and applying that knowledge to implement tailored measures specific to the threat. These reflections are not Departmental policy but have been included in this statement so that lessons learned by individuals who worked on testing, contact tracing and self-isolation policy during the pandemic can be documented."
+
+And so obviously -- that's obviously a clear view that is not attributed to any one individual, but did you have an input in that particular paragraph, and is that expressing your own personal views, Mr Dyson?
+
+**Mr Ben Dyson**: It expresses a number of views and it's probably worth saying that these reflect views of people who were involved in the Department of Health and in Test and Trace. I suspect you would get somewhat different views if you spoke to people in other parts of government, but certainly the -- this reflects I think both my views and a number of my colleagues' views at the time.
+
+**Lead 7**: Now, you deal with the history around the development of the self-isolation payment that came in at the end of September alongside the legal enforcement of isolation. And we -- I think in fact you led on the policy for isolation support payments?
+
+**Mr Ben Dyson**: Mm.
+
+**Lead 7**: And we're going to hear some evidence I think from Baroness Harding on Thursday that identifies a pitch that was made to make the scheme equivalent to the jury service payment, where essentially you could claim £64.95 per day for the ten days.
+
+Can I ask you, just by way of overview, can you help as to why it took, when it was identified that people need financial support to isolate, and that certainly seemed to have been identified as early as May, if not earlier, why it took to almost the end of September before there was a scheme, leaving aside the Statutory Sick Pay, that provided a scheme for financial support for isolation?
+
+**Mr Ben Dyson**: Yeah. You have said leave aside Statutory Sick Pay, so I'll only touch on that --
+
+**Lead 7**: It is -- and it's more this specific fund that gave support to individuals to isolate.
+
+**Mr Ben Dyson**: The reason why I think both Statutory Sick Pay and other benefits is relevant in this context, because certainly the view of Treasury at the time was that the combination of Statutory Sick Pay and the eligibility that some people on low incomes would have through other benefits, income support, housing benefit, and so forth, coupled with the furlough scheme, provided, in their view, a reasonable and proportionate response.
+
+That was not our view within the department and with Test and Trace, and throughout June, July and August we worked with Treasury colleagues and others to seek to identify some different possible ways of specifically opening up financial support to, or more generous financial support to people on low incomes, and the reason those weren't initially successful was, I think, primarily, primarily a view within Treasury, amongst Treasury ministers, that first off, they were unconvinced that this would have the impact we claimed it would. We felt this was very important, particularly in getting people to come forward for testing in the first place, where we knew that the financial disadvantages they would face if they tested positive and were then asked to self-isolate were a barrier.
+
+So it's partly they felt we weren't providing firm enough evidence that it would have a positive impact, and second, they were concerned, from memory, that there are difficulties in providing financial support when you can't verify that people are then self-isolating, people could be paid but not self-isolate.
+
+**Lead 7**: Thank you. And can I ask you, having looked at what you say about the May of 2020, the Inquiry has also heard evidence from Professor McKee that detailed that isolation is a key element of a pandemic control strategy and was a weak link in the United Kingdom, with a key element being financial vulnerability due to comparatively low Statutory Sick Pay, at 29%, and inadequate emergency payments, leaving many without adequate financial protection?
+
+Would you agree that by May of 2020 there was a recognition within the Department that there was lack of adherence to self-isolation advice which undermined the efficacy of the Test and Trace Programme?
+
+**Mr Ben Dyson**: This is an important point, and I haven't got the -- I haven't got Professor McKee's statement in front of me but, from memory, he refers to reported evidence that only 20% of people were self-isolating, and the point I just want to emphasise is that that was a statistic based on people who had symptoms of Covid, and sadly, through most of the pandemic, and certainly at this time, I think fewer than 30% of people with symptoms were getting tested.
+
+The surveys that we were doing within Test and Trace, and these were borne out later by studies done by the Office for National Statistics, showed that if you did come forward for a test and you tested positive or if you were identified by Test and Trace as a contact, you were likely to self-isolate. So very, very different results for people with symptoms versus confirmed cases and their contacts.
+
+And what we also found from our surveys and from the ONS surveys was that even if some people said that they weren't following the strict letter of the rules, the great, great majority reported that they avoided contact with other people. So they might leave the house to go for a walk, but they were not going to work, they were not going to bars or restaurants. So I think there's a crucial distinction between self-isolation for people with symptoms and self-isolation for people who tested positive.
+
+But I think that reinforces what was then our view that, given one of the critical elements of the successful testing and tracing service is people's willingness to come forward for testing in the first place, if you know that the financial consequences of testing positive and then self-isolating might be a deterrent, then that is certainly something we felt we needed to test, and that was borne out by pretty much all our conversations with local authority, Directors of Public Health.
+
+Again, they couldn't provide the hard and fast evidence that Treasury colleagues were looking for but I think it's fair to say that every local authority Director of Public Health we spoke to said this is a big issue, particularly in more disadvantaged communities.
+
+**Lead 7**: Now, having asked you to put aside Statutory Sick Pay, can I ask you, do you agree that the lack of Statutory Sick Pay infrastructure around the Test and Trace system, and inadequate emergency payments compared to other countries undermined the Test And trace system's efficacy?
+
+**Mr Ben Dyson**: We don't have, I think it's important to emphasise we still don't have good hard and fast evidence on this. I still don't think we know how far -- how far either the level of SSP, which I think was -- is about 90, 94, £95 at the time per week, we don't know how far the level of SSP or eligibility for SSP was a factor, so we can't quantify if it, but certainly, as I say, our concern and that of local authorities and Directors of Public Health, were, first off, that the level of Statutory Sick Pay was unlikely to be enough to encourage everybody who needed to, to self-isolate. And second, that there were key groups, like people on lower incomes, the self-employed, people on zero-hours contracts and so forth, who wouldn't benefit from it.
+
+**Lead 7**: Thank you.
+
+Can I then, please, still in your statement D, please, INQ000587435, turn to your page 112 please -- sorry paragraph 112, page 36.
+
+And it details the self-isolation equality issues identified by the Department in its May and September 2020 equality impact assessments and the mitigations which were put in place to address them, and also references then the equality impact statements -- impact assessments shared with ministers on 21 May 2020. Thank you.
+
+Can I ask you, because the Inquiry has an expert report of Professor Machin, and the view taken by Professor Machin is that the equality impact assessment completed in England was inadequate and the evidence it presents is inconsistent with established knowledge on the disproportionate impact of self-isolation on certain groups in society, and the report continues: a clear rationale has not been provided for why there is no specific impact on any group in society, and I think you've had an opportunity just to review that paragraph of Professor Machin's report.
+
+Can you assist, what steps were taken by the Department to ensure that vulnerable communities, including ethnic minority groups, were properly informed of and supported in accessing support for self-isolation?
+
+**Mr Ben Dyson**: So, again, I agree, this is a critical issue. And from the start, the -- and I'm not saying we always got this right by the way, but from the start the department and the test and trace service were looking to understand how we could make sure that you have a combination essentially of three things. One is good comms and engagement to make sure that people understand not just what the rules or guidance say, but also why it's important to self-isolate, so to provide the motivation to do so when you're asked.
+
+The second is the practical, social and emotional support.
+
+And the third, which we've touched on already, is the financial support.
+
+And throughout the work we did, we were trying to strike a -- we were trying to get a balanced package across all those three elements. That's reflected in part in the work that we did with local authorities, starting with the contain framework which you've mentioned, and the funding given to local authorities under the Contain Outbreak Management Fund, which was designed in part to enable then to communicate and engage with different communities working with voluntary organisations, faith groups, Community Champions and so forth, but was also designed to enable them to offer or partner with the voluntary sector and others to either offer or signpost people towards support.
+
+What we found when we were looking at this in the autumn of 2020 was that although there were some excellent examples of what local authorities had done, there was also some inconsistency, and that led to the decision to develop a framework governing practical, social, and emotional support, and to give additional funding, which I think began in January of 2021, to local authorities to enable them to go further in either offering or mobilising offers of practical support for people self-isolating.
+
+But I -- having said all that, I think the main point I would make is that I think lots of us working on Test and Trace at the time would, with hindsight, say that we wish it had been possible to do more, sooner, and I think this is a critical element of preparedness for future pandemics: that however technically good your testing and tracing systems, they're only as good as the willingness of people to -- the willingness and ability of people across different communities to use them.
+
+**Lead 7**: Thank you.
+
+**Lady Hallett**: Sorry to interrupt, what would you have done sooner? You've been through one or two things. Do you have a list of what you and your colleagues to feel could have been done sooner?
+
+**Mr Ben Dyson**: I can give some examples of that. The -- I've mentioned the framework that we developed, which was -- you know, it was just a framework, but all the local authorities we've worked with said that they found it a helpful framework for understanding the different elements of practical, social and emotional support you should offer, and being given additional targeted funding to help with mobilising that support. We did that in January 2021, I think. I wish we'd done it sooner.
+
+Similarly, it was about that time that we introduced the medicines delivery scheme for people self-isolating which had already been in place for people who were shielding but it wasn't until 2021 that we extended that to people self-isolating, and again, with the benefit of hindsight, I wish we'd done that sooner.
+
+But more broadly -- I think the broader thing I would say is -- and I believe there's some evidence from the UKHSA on this, and this is work that UKHSA have done since the pandemic, but what they found, and I hope this is a fair characterisation of their work, is that some of the things we did to communicate and engage better worked, some worked less well. So it was quite mixed. And the things that work best is where you are working through local groups. It may seem a very obvious point but having local authority Directors of Public Health and their team, able to work with those voluntary organisations, faith groups, Community Champions and so forth, is probably the most important thing when it comes to cutting through and making sure that people not only have got the support they need, but also that they understand the importance of engaging with testing and self-isolation, and so forth.
+
+And I think a critical part of future preparedness for pandemics is having the protocols in place from the start to understand how you -- essentially how -- at the same time within the first hundred days that you are building up your testing and contact tracing capacity, within those first hundred days, how are you working with local communities to build trust and willingness to be part of the response?
+
+**Lead 7**: Thank you.
+
+And finally on lessons learned and recommendations, please, Mr Dyson, a good part of witness statement D, at pages 50-69, deals with lessons learned and reflections and recommendations. But can I ask you, in respect of data, if we can just display page 64, please -- sorry, 62, "Diagnostics and Data Are Crucial in a Pandemic Response", but can I ask you specifically first of all, and if there's time a follow-up question: how did the department's shortcomings in respect of the collection and evaluation of data exacerbate the inequalities faced by ethnic minority healthcare workers and communities in relation to test, trace and isolate policies, please?
+
+**Mr Ben Dyson**: The -- so -- first to say that, again, data sharing is important, and was recognised as such from a very early stage. So I -- there were some features of the way that we had to establish initial services at huge pace and at scale, that meant that the right data sharing arrangements weren't in place at the start, but from, I think, May onwards it was an explicit role of the Joint Biosecurity Centre within Test and Trace to work with local authorities to improve data sharing. But I'm very aware that there have been a number of criticisms about the speed at which that happened, and the scale at which it happened.
+
+What I can't do is -- I think it would be -- I'm not sure that anybody could do this -- is to pinpoint the quantitative difference that that made, to ask the "what if?" What if this data had been available sooner, can we quantify the impact that would have? I suspect that would be very difficult and I certainly can't provide an answer on that.
+
+**Ms Cartwright**: Thank you.
+
+My Lady, that's my time up, and so there are Core Participant questions from Covid Bereaved Families for Justice Cymru.
+
+**Lady Hallett**: Thank you.
+
+Ms Parsons, I don't know whether Ms Cartwright has left you ... I think she may have pinched at least one of your questions.
+
+**Ms Parsons**: She has, my Lady. In fact, both our permitted questions have been covered by this witness but I wonder whether I might be able to follow up, just briefly, on the first of those topics, that's scientific advice on asymptomatic transmission?
+
+**Lady Hallett**: Certainly.
+
+Questions From Ms Parsons
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Parsons**: Thank you.
+
+Good morning, Mr Dyson. I ask questions on behalf of the Covid-19 Bereaved Families for Justice Cymru.
+
+Your statement describes good levels of coordination and collaboration between the scientific communities of the four nations. I want to ask you about scientific advice on asymptomatic transmission.
+
+**Mr Ben Dyson**: Mm-hm.
+
+**Ms Parsons**: And I do appreciate the limitations that you've given in your evidence this morning on what you can help us with, but the Inquiry heard last week from Mr Hancock that he received advice, scientific advice, on 14 April 2020, and that advice marked a major change of approach. In short, it meant that asymptomatic transmission became a baseline assumption for policy making and decision making.
+
+Can you help at all with whether that scientific advice would have been shared among the four nations?
+
+**Mr Ben Dyson**: I'm afraid I can't. I'd only refer back to what I said before, that certainly the principle throughout the pandemic, I've no reason to suppose it was different at the time, the principle was to work very closely across the four countries in relation to both scientific advice and public health advice, but I'm afraid I can't shed further light on what specific information was shared at that point in relation to asymptomatic testing.
+
+**Lady Hallett**: It seems likely, doesn't it?
+
+**Ms Parsons**: It does.
+
+Thank you.
+
+Thank you, Mr Dyson.
+
+**Lady Hallett**: Well, given how much the CMOs were working closely together.
+
+**Mr Ben Dyson**: Yes, I'm perhaps being over cautious in not speculating about things that I don't know. I would find it very surprising, but I've been warned not to speculate too much about things. I can't be sure.
+
+**Lady Hallett**: Right. Thank you very much indeed for your help, Mr Dyson, and for providing the reflections from you and some of your colleagues. It has been extremely helpful. And I repeat what I've said many times to other people from government departments, particularly the DHSC: I am so acutely aware of the burden that we've been placing on you and your colleagues, so thank you very much for what you've done and your colleagues have done to help us.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Very well, I shall take the break now and return at 12.10.
+
+**Ms Cartwright**: Thank you.
+
+*(11.54 am)*
+
+*(A short break)*
+
+*(12.11 pm)*
+
+**Ms Malhotra**: The next witness, my Lady, is Dame Raine, CBE.
+

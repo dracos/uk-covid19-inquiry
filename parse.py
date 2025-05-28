@@ -265,15 +265,14 @@ def parse_transcript(url, text):
                 yield speech
 
                 witness_heading = Section( heading=heading )
-                if re.match(' *and$', data[page][num][1]):
+                if len(data[page]) > num and re.match(' *and$', data[page][num][1]):
                     witness_heading.heading += ' and '
-                    if re.match(' *and$', data[page][num][1]):
-                        next_witness = data[page][num+1][1]
-                        m4 = re.match(r" *((?:[A-Z0-9' ,-]|Mc|Mr)+?)(,?\s*\(.*\)|, (?:sworn|affirmed))$", next_witness)
-                        if m4:
-                            witness_heading.heading += fix_name(m4.group(1).strip())
-                            narrative += '*\n\n*%s%s.' % (m4.group(1), m4.group(2))
-                            skip_lines = 2
+                    next_witness = data[page][num+1][1]
+                    m4 = re.match(r" *((?:[A-Z0-9' ,-]|Mc|Mr)+?)(,?\s*\(.*\)|, (?:sworn|affirmed))$", next_witness)
+                    if m4:
+                        witness_heading.heading += fix_name(m4.group(1).strip())
+                        narrative += '*\n\n*%s%s.' % (m4.group(1), m4.group(2))
+                        skip_lines = 2
                 yield witness_heading
 
                 yield Speech( speaker=None, text=narrative )
