@@ -700,3 +700,1719 @@ Thank you, Mr Dyson.
 
 **Ms Malhotra**: The next witness, my Lady, is Dame Raine, CBE.
 
+Dame Raine
+----------
+
+*DAME JUNE RAINE (sworn).*
+
+**Lady Hallett**: Dame June, thank you for coming back to help us.
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Malhotra**: Could you state your full name, please.
+
+**Dame Raine**: June Munro Raine --
+
+**Counsel Inquiry**: Now, Dame Raine, you've --
+
+**Lady Hallett**: Dame June, I think.
+
+**Ms Malhotra**: Dame June, you have provided a witness statement dated 2 April 2025. We can see the date there in the top right and on the final page as well.
+
+Have you had an opportunity to familiarise yourself with your witness statement recently?
+
+**Dame Raine**: Yes, I have.
+
+**Counsel Inquiry**: I am very grateful.
+
+Can you confirm that the contents of that statement are true?
+
+**Dame Raine**: I can confirm that.
+
+**Counsel Inquiry**: Now, this is a corporate witness statement on behalf of the Medicines and Healthcare products Regulatory Agency, I'm going to refer to it as "the agency", meaning, effectively, that you've had the input and the benefit of a number of other individuals in preparing this witness statement; is that right?
+
+**Dame Raine**: I have, very much so.
+
+**Counsel Inquiry**: And this is your Module 7 witness statement, I believe your fourth to the Inquiry. You've previously provided written evidence in Module 3, Module 4, and Module 5 and you've also given evidence in Module 4, so you'll be certainly familiar with the process. Could I just invite and remind you to keep your voice up and to speak into the microphone, please.
+
+Now, you were the chief executive of the agency until 31 March of this year; is that right?
+
+**Dame Raine**: I was.
+
+**Counsel Inquiry**: Now, at paragraphs 5 to 10 of your statement you give details of your professional background and your statement will be published, as you know, on the website so that the public will have the full context of your witness statement and your professional background. So I hope you will forgive me for not repeating it now.
+
+With regard to your roles and responsibilities as chief executive of the agency, you say at paragraph 5 of your statement, page 2, that you were accountable to health ministers for ensuring that the agency took all possible steps to ensure that medicines, medical devices and blood products for transfusion meet appropriate standards of safety, quality, effectiveness and performance; is that correct?
+
+**Dame Raine**: That's correct.
+
+**Counsel Inquiry**: And the -- just in terms of the regulator, the agency, it's an executive agency of the Department of Health and Social Care; is that correct?
+
+**Dame Raine**: It is.
+
+**Counsel Inquiry**: And it takes decisions on behalf of the Secretary of State; is that so?
+
+**Dame Raine**: It does.
+
+**Counsel Inquiry**: And the function of the agency is wide and your statement touches upon various aspects of it. For the purposes of why you're here today to give evidence with regards to Module 7, it's with respect to Test, Trace and Isolate. As succinctly as possible, could you please summarise for us the role that the agency played with regard to testing of Covid-19?
+
+**Dame Raine**: Well, thank you. The agency played the role as it does with all medical devices, from clinical investigations, these are proposals to undertake studies, right through to looking at surveillance. The important point the agency undertook during the pandemic was to be flexible and adaptable, and one of the key tools is the exceptional use authorisation when there is no available product and a medical need arises.
+
+Part of the flexibility and adaptability was also to use the very extensive scientific resource the agency has to produce target product profiles to drive up industry, scientific endeavour to produce the best possible products to benefit the public's health.
+
+And it's very good to know that those target product profiles, including for self-testing of asymptomatic people, had benefits worldwide, so a flexible and adaptable agency focusing on the access safely to innovative diagnostics.
+
+**Counsel Inquiry**: And so with regard to diagnostics, that were used during the course of the pandemic that we're concerned with, LFD tests and PCR tests, what was the role of the agency with regard to those two tests?
+
+**Dame Raine**: The lateral flow device tests and the PCR, the polymerase chain reaction tests, are both medical devices, and as just mentioned, we would be concerned with any clinical investigations that were to be conducted and we would also conduct surveillance. And in respect of our tool that we used extensively in the pandemic, exceptional use authorisations, we used that for those particular types of diagnostics.
+
+**Counsel Inquiry**: Now, in your witness statement -- I needn't take you to it -- you say that the agency didn't approve testing kits, but it regulated them. Could you perhaps explain the distinction, please?
+
+**Dame Raine**: The generality is that a medical device, and that includes a diagnostic like a lateral flow test, receives a conformity assessment mark, either from a European notified body or from an approved body, as now we can issue a UK CA mark. But as I have tressed, during the pandemic, we were able to use the power to exempt companies from meeting those standards and requirements by issuing an exceptional use authorisation.
+
+So I hope I've helped with the distinction there that the generality is that we do not approve, but in this case, we were capable of making judgements about the circumstances and the data needed to exempt a product from CA mark -- CE marking, or UK CA marking.
+
+**Counsel Inquiry**: And, in fact, there were 17 occasions when the use of exceptional authorisations was made; is that right?
+
+**Dame Raine**: That's right.
+
+**Counsel Inquiry**: Now, there are three topics, time permitting, that I'd like to explore with you. The first is wastewater testing; the second is issues with those diagnostic tests that we've outlined; and thirdly, recommendations for the future.
+
+So starting with wastewater testing, please. The agency played a role in wastewater testing; is that right?
+
+**Dame Raine**: That's correct, but building on experience as a WHO collaborating centre for polio, where there's a long-established monitoring role looking for any fragments of the polio virus that might hint that this was coming back, which is clearly something our immunisation policy colleagues would wish to prevent. There was evidence in the pandemic that the SARS-CoV-2 virus particles, the ribonucleic acid, could be picked up in a similar way. So what our scientists did was to look back to ask the question: did what we might pick up in the wastewater, the sewage, mirror clinical infections?
+
+**Counsel Inquiry**: Just coming to that, then, you set it out in your witness statement page 26, paragraph 82, that, by testing waste water samples from a North London sewage site serving 4 million people retrospectively, the agency was able to ascertain that on 11 February 2020, so three days before the first case of Covid-19 was reported in the sewage plant catchment area, low levels of SARS-CoV-2 viral ribonucleic acid was present, so RNA was present; is that right?
+
+**Dame Raine**: That's correct. And further samples showed an increase in concentration as Covid took hold in that area.
+
+And more importantly, my Lady, is we were able to -- the agency scientists were able to pick up variants when the genetic sequence changes. So, overall, an important piece of work, although, as counsel is saying, retrospective at that stage.
+
+**Counsel Inquiry**: Can you help us with whether it was possible to undertake the testing of wastewater samples prior to July 2020?
+
+**Dame Raine**: It would have been possible, particularly as the technology and the research team had already used that methodology, that kind of research, for polio, and it was important that that continued. The discovery that SARS-CoV-2 fragments had been detected in other countries was what triggered the piece of research we're talking about.
+
+**Counsel Inquiry**: So do I understand it then that the reason why it was done in July 2020 as opposed to earlier was because of what the agency was viewing happening overseas?
+
+**Dame Raine**: Yes.
+
+**Counsel Inquiry**: And that prompted then -- for the retrospective investigation.
+
+Can you help us, then, if that information had been known in realtime, sort of, say, for example, in March 2020, how could that have been used in responding to the threat posed by the virus in those early stages?
+
+**Dame Raine**: From what we know now, it could have been an early warning, and it could have been systematically used to look for variants as they appeared well before -- appreciably before clinical cases then were tested. And it's a matter of thinking that this could be done UK-wide and even internationally to help us be on the front foot and look for these early warnings.
+
+So if I continue a little bit, this is a subject we're looking at carefully at the moment. You find what you look for. Should we be expanding the range of kinds of viruses that wastewater testing could look for?
+
+**Counsel Inquiry**: And just on that point, then, can you help us understand, what are the limitations to wastewater testing?
+
+**Dame Raine**: At the moment we have a small team, our polio team, whose names are on the paper, together with Public Health England. The reliance on grant funding; the funding from the Coalition for Epidemic Preparedness Innovations has been invaluable. And the need for the kind of international network -- we might come to this, considering the World Health Organization is now looking to build alignment internationally. So there are several things, the science, capability, and capacity, the funding, and the design of a system which could be switched on and scaled up as needed.
+
+**Lady Hallett**: So basically are you talking about a surveillance going on the whole time?
+
+**Dame Raine**: In a --
+
+**Lady Hallett**: As well as --
+
+**Dame Raine**: -- defined set of viruses or other pathogenic organisms.
+
+**Lady Hallett**: So, given that viruses change in their nature -- forgive me, I'm no scientist -- given they change their nature, how might you detect a novel virus like Covid-19 was, if you were doing this kind of -- or would you only start it once you knew something more about the new virus?
+
+**Dame Raine**: The Covid-19 was actually one of the viruses that the scientists in our laboratories had actually been ready to look for, because of the experience with SARS and MERS. As you say, my Lady the challenge is to expect the unexpected, but I think it's quite clear that there could be a hit list or a panel of multiple pathogens that, perhaps with an international agreement, would be what was systematically looked for.
+
+**Lady Hallett**: And if you're talking about -- as ever, everything comes back to resources -- what size of cost are we talking? Are we talking a huge amount of money to give the agency the kind of resources it needs? Are we talking about a reasonable amount of money? What's reasonable depends -- (overspeaking) --
+
+**Dame Raine**: I think I would build from the funding which CEPI has already used, and look at this study to see what a business case would look like. I'm sure that's very much in the thoughts of the scientists who are currently looking at what an international or a local system might mean.
+
+**Lady Hallett**: Thank you.
+
+**Ms Malhotra**: Just -- you said there, in response to my Lady's question, that coronavirus was something that the scientists were already looking into.
+
+If it was something they were already aware about, it was already on the horizon and were looking into, can you help us with why it was then only in July that there was this retrospective review?
+
+**Dame Raine**: I would say that the priority was to create the standards and reference materials that our laboratory scientists are expert at. They supply over 90% of the standards worldwide. And these are the materials that enabled testing, diagnostics, to be accurate and reproducible and consistent. So that really was the first priority in mind. And as I mentioned a moment ago, only when it was clear that we could adapt the environmental surveillance was that piece of work done.
+
+**Counsel Inquiry**: We've -- I've asked you about the limitations and you've given us some practical limitations to wastewater testing with regards to grant and funding and resourcing. Can you help us -- and obviously you need to know what you're looking for in order for there to be value with regards to wastewater testing, can you help us with what the real benefits of wastewater testing can be?
+
+**Dame Raine**: It would, I think, enable early warning and monitoring variants. Those are the clear benefits, if scaled up and adequately resourced.
+
+I think it's worth, perhaps if we do touch on the World Health Organization agreement of last week, thinking about the pathogen access and benefit sharing group that would, I think, now need to be the basis for the design of a system, and let's look forward to countries involved putting their scientists into this work.
+
+**Counsel Inquiry**: You've mentioned the WHO agreement that has been recently reached. I think it was last week it was signed. We've got that available.
+
+I wonder if we could bring up INQ000587665, please. This is the WHO report. And if we go to page 13, a number of articles -- it says there at the bottom of the page -- I'm not sure why it's highlighted green but that's how it's been provided:
+
+"Each Party shall strengthen its national and, where appropriate, regional regulatory authority responsible for the authorisation and approval of pandemic-related health products, including through technical assistance from, and cooperation with the World Health Organization ..."
+
+And I think, if it goes over to the next page:
+
+"... and other international organisations upon request and other Parties as appropriate, with the aim of ensuring the quality, safety and efficacy of such products."
+
+So, in essence, what article 8 is dealing with here is to make available and to update information on regulatory processes for authorising the use of pandemic-related health products and to promote strong regulatory systems with international alignment where possible.
+
+And can you help us whether the agency is ready for this or taking steps to be ready towards this?
+
+**Dame Raine**: Well, absolutely. It happens to come at a time point when the agency, as in the statement, is already looking at changing, reforming the law on medical devices, and that includes diagnostics. But what we see here, and it's, I think, right through the agreement, is a focus on equitable access, which I think is part and parcel, as was said before, no one is safe until everyone is safe, and for that reason, the coming together to look at what an expedited pathway, like the emergency exceptional use authorisation might look like, what effective vigilance is like on an international scale, and reliance on decisions made by other regulators. So all about this -- about being better prepared but more agile in response, including equitable access.
+
+**Counsel Inquiry**: That can be removed.
+
+I'd like to move on to ask you about DHSC self-test. Now, the Inquiry has heard evidence the test already and I'd like to focus on the agency's role with regard to this test. Now, for context, the agency provided DHSC with support to become a legal manufacturer of self-tests, also known as the lateral flow device tests; is that right?
+
+**Dame Raine**: That's correct.
+
+**Counsel Inquiry**: And Innova was the manufacturer of the test; is that correct?
+
+**Dame Raine**: Yes.
+
+**Counsel Inquiry**: And DHSC subcontracted the provision of the supply of the kits to Innova; is that so?
+
+**Dame Raine**: Yes.
+
+**Counsel Inquiry**: And the agency seconded a member of staff to DHSC to support the efforts including ensuring that instructions for those self-tests were fit for purpose; is that right?
+
+**Dame Raine**: Yes, the goal was to integrate a good understanding of regulatory requirements and to be able to look at an application from the DHSC in the shortest time possible. There was very great care taken to ensure that the staff, the teams of scientists and clinicians who would look at the data were not involved in close advice to the department. So that separation was very fundamental.
+
+**Counsel Inquiry**: Now, the agency granted an exceptional use authorisation on 22 December 2020; is that correct?
+
+**Dame Raine**: Yes.
+
+**Counsel Inquiry**: And that was because there was no CE marking, the CE marking you've already referred to that signifies the medical advice complies with EU legislation; is that right?
+
+**Dame Raine**: Yes, and there was no alternative product available, CE marked.
+
+**Counsel Inquiry**: And on 10 June 2021, the US Food and Drug Administration, the FDA, issued a safety notice and a recall letter with regard to those Innova LFD antigen tests; is that right?
+
+**Dame Raine**: That's correct.
+
+**Counsel Inquiry**: And if we can have up INQ000496261, we can see here, and I'll perhaps deal with it as briefly as possible, there were three reasons cited here that we can see: firstly, the tests had been distributed in the US without the food and drug administration approval; secondly, the labelling included a clinical performance section which claimed a level of sensitivity and specificity that was not matched by the evidence that the FDA had seen at the time of the inspection; thirdly, that there were significant failures in the quality management system in the company; and fourthly, it's dealt with in the section below, that Innova did not notify DHSC of the FDA audit and findings.
+
+So I would like to ask you about the second and third of those matters, please, if we could turn to page 2. We can see here that the false negative results which may lead to delayed diagnosis or inappropriate treatment and false positive results that could lead to a delay in both the correct diagnosis and the initiation of an appropriate treatment, can you help us understand whether the agency was satisfied with the information it received about the efficacy of these tests, in particular their sensitivity and specificity?
+
+**Dame Raine**: Yes, I can. And I think the first thing to say in this context is that the use in the UK for asymptomatic people, people feeling okay, at home, was different from the use in the US. And what data were provided at the time of the application back in December 2020, assured us on the laboratory analytical accuracy, and on field studies and thirdly, usability. The question, of course, is always in a regulator's mind overall benefit and risk, and I'm sure even with the prism of reflection back we can all see what a change it meant to allow people, enable people to test at home rather than driving to a testing centre. And to have a result within 15 minutes or half an hour. So a benefit in enabling that change, big change to happen.
+
+Of course the sensitivity of the test was very much in mind, and the fact that we've already heard, I think, from some witnesses about the debate about how infectiousness and being asymptomatic relates to amount of virus, the viral load in the body. So there were some uncertainties but the judgment that resulted in the issue of the authorisation was that about two-thirds of cases would be identified and prevented and chains of transmission could be broken, such that there would be benefit at that time.
+
+So the reasons for the agency's decision, I think, were clear.
+
+Having said that, absolutely inherent in that decision was very clear mitigations, and a very clear message to self-testers, to people using this test, is that a negative does not guarantee or mean that you do not have Covid. And that was always very clear. This was what we call a red light test not a green light test.
+
+**Counsel Inquiry**: Now, the Inquiry has received evidence from Professor Jon Deeks, a medical statistician at the University of Birmingham. And he explains in his statement, I don't think we need to pull it up for time, but he had an official role within the agency between the March '21 and July '21 as a member of the In Vitro Diagnostics Expert Advisory Group. And he gives reference to a letter that the group wrote on 8 July 2021 to the Director of Devices at the agency, and we can see that and I will ask that that is pulled up, INQ000531145, please.
+
+Thank you.
+
+We can see this was the letter that was sent, and if we go to page 2, for example, he sets out, the letter sets out a number of concerns and issues. So for example, it says there at paragraph 1:
+
+"We would advise that prior to any further extension of the Authorisation of Specialist Use [the agency] should seek independent evidence and not just rely on evidence submitted by the manufacturer."
+
+Was this a concern that you recognised?
+
+**Dame Raine**: The agency always takes into account all available evidence at the time of reaching a position but what's important about Professor Deeks' letter and the In Vitro Diagnostic Expert Advisory Group is that we also have access to independent experts to, if you like, challenge our decisions. I think I could explain that at the time of the FDA letter and recall, we paused an extension and carefully considered at that time, which was mid-'21, whether it was still justified, knowing that the company were preparing for a CE mark, and we were eagerly anticipating that they had done the work for that. We had also, the agency had also audited the company and was aware of areas that needed attention in their systems, which we may come to.
+
+So this, I think, accords with the view of the agency. Of course, the question then later in the letter is that the changed terms of the EUA did include one off testing prior to an activity which the expert advisory group had concerns about.
+
+**Counsel Inquiry**: And that CE marking is dealt with at paragraph 4. And at paragraph 3 the letter raises the independent scrutiny of the claim that the test has 95% sensitivity for infectious people. Can you help us with whether the Innova test achieved the lower limit of the 95% confidence interval above 60%?
+
+**Dame Raine**: I would have to check data available at that time to assure you on that, although clearly we were monitoring, this is mid-June, work ongoing, for example, the Liverpool study.
+
+**Counsel Inquiry**: And there were a number of reports -- I needn't take you to any more -- but a number of reports and concerns about the efficacy of the tests, false positives, false negatives. Should the agency have been more robust in its scrutiny of the Innova and other test kits once approved, given the significant risk from inaccurate results?
+
+**Dame Raine**: I'd like to be clear that the issuance of an exceptional use authorisation is really just a milestone. There is a very rigorous ongoing monitoring and a set of requirements, particularly around post-market performance follow-up, that, if you like, we're sitting on the company's tail or the legal responsible body's tail all the time, fortnightly updates in this case. So I would like to assure you that the approach of the agency is very rigorous and ongoing.
+
+**Counsel Inquiry**: Can you help us, the agency was involved in assessing the swabs, for example, and can you help us with what consideration was given to those who were, for example, neurodivergent or healthcare workers with regard to using that method of testing? Was that within the regulator or the agency's thinking?
+
+**Dame Raine**: Yes, it was and I know that our test team had a lot of ongoing interactions, to make sure that the instructions for use were as helpful as possible, available in 11 languages, and also a video. So multiple modalities for people to understand really quite an important and very clearly defined set of requirements there.
+
+**Counsel Inquiry**: Did the agency have any role in regulating the Lighthouse laboratories?
+
+**Dame Raine**: The agency doesn't have a role in regulating laboratory practice, this is the UK assessment service, UKAS, that does this. And will leap in, though, if products are being used that are non-compliant, they don't meet the standards that would be expected under the legislation.
+
+And we didn't have any reports. Otherwise we would have, as I say, jumped in.
+
+**Counsel Inquiry**: Now, the Inquiry has received some evidence in April of 2020, correspondence between the Catapult Medicines Discovery (sic) and Deloitte, with regard to voiding of test results caused by the use of supermarket sandwich bags, and we can see that at INQ000511040 at page 2.
+
+Can you help us with the agency's role with regard to collection of those samples?
+
+**Dame Raine**: Requirements in terms of the function of the medical device, in this case I think it is the PCR test, are clearly described. These laboratories were working under enormous pressure and, as I say, it isn't the MHRA's role to step in and regulate how their processes work. I'm assuming that the processes would have been evolving rather rapidly and I think we've hearing about Rosalind Franklin, for example, being state-of-the-art, you know, that digitalisation of these end-to-end processes has made a very big difference. I hope the comments are helpful but in a nutshell, we wouldn't have had a responsibility for this.
+
+**Counsel Inquiry**: And similarly on 13 May 2020, if we can pull up INQ000511161, page 1, here there were concerns that were raised, voiding of samples because of faulty kit, so split tubes, two samples in the same tube, labels covering lids of tubes, samples with no liquid and sample tubes not being sealed correctly.
+
+And then if we go to INQ000511111, page 1, there's reference here to unvalidated tubes. Can you help us with regard to the agency's role in swabs and sample collection tubes?
+
+**Dame Raine**: These are as individual consumables, subject to the requirements of the medical device legislation, and the regulations that we oversee and give guidance on, and depending on any signals we get, any harm that results, as I say, we would distinguish our role to ensure that products perform as appropriate and are safe. However, the issues around what happens in a laboratory, the standards that apply there need to be looked at through the accreditation role.
+
+**Counsel Inquiry**: Just finally, I'd like to ask you about the Randox tests, so sticking with that theme. The Randox tests -- at paragraph [146] of your statement, you explain that the National Testing Programme flagged them to the agency. Can you explain what the issue was that was raised with you?
+
+**Dame Raine**: The issue was that the regulation of this kind of product is a matter for the categorisation that allows for self-certification, unless any part needs to be sterile and in the case of these kits, the swabs needed to be sterile, as you can imagine. The worry about a contaminant, either making the test invalid or causing patient harm. So the agency was very clear that there had to be microbiological or cultures done to test if there was contamination.
+
+The understanding, shortly after that alert was given to the agency, was that there had been communication to stop use. I believe that was on 15 July. And that had gone out on gov.uk. The reason for the recall later was that it became clear that the kits were still being used and therefore they had to be removed until such times the swabs were sterile.
+
+**Ms Malhotra**: Thank you. That completes my time with you, Dame June, thank you.
+
+I believe there are some Core Participant questions.
+
+**Lady Hallett**: Certainly, I think Mr Thomas is first.
+
+Mr Thomas is over there.
+
+Questions From Professor Thomas KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Professor Thomas**: Good afternoon, Dame June, just a few questions. My name is Leslie Thomas and I'm representing FEMHO, that's the Federation of Ethnic Minority Healthcare Organisations.
+
+**Dame Raine**: Good afternoon.
+
+**Professor Thomas KC**: Between 3 March 2020 and 30 June 2022, the Medicines and Healthcare products Regulatory Agency received 3,400 adverse incident reports through the Yellow Card Scheme relating to devices using Covid-19 testing. These included reports of missing or defective kit components and possible incorrect results, and we note that all reports were triaged and assessed under normal safety surveillance processes. We would like to explore how this monitoring system functioned for healthcare workers, particularly those from ethnic minority backgrounds. So with that in mind, let me turn to my questions.
+
+Firstly, Dame June, can you assist us with what steps were taken to ensure that healthcare workers, including those from ethnic minority backgrounds, were aware that the Yellow Card Scheme could be used to report concerns about Covid-19 diagnostic tests such as the lateral flow and the PCR tests?
+
+**Dame Raine**: Well, thank you, it's a really good question. Many of the healthcare workers will have received messages about reporting for medicines, but in fact the Yellow Card Scheme took reports on medical devices, including diagnostics, since 2014, I believe. So they would have known that they could report. But the important point is that a Covid portal was set up by the May, and that was particularly to invite reports, not just about medicines or vaccines, but about medical devices.
+
+**Professor Thomas KC**: Were any of the 3,430 reports linked to patterns of concern raised by frontline health or care staff, and did the MHRA analyse this data in a way that captured occupational or demographic context, including ethnicity?
+
+**Dame Raine**: We do capture the reporter's specialty or profession, and -- that's really part of the analysis that's done. I'm not aware that the scheme actually looks into the demographics, ethnicity, and so forth, of the reporter. We do that for the patient.
+
+So I think that's a gap you've highlighted, and would like to look further into it.
+
+**Professor Thomas KC**: Okay.
+
+What engagement took place with NHS bodies, professional associations or community health networks, to promote participation in the scheme among healthcare workers from minority ethnic backgrounds?
+
+**Dame Raine**: I participated, as someone from an executive agency of the Department of Health, in multiple interactions, largely led, I believe, through NHS England, and my laser focus was on ensuring outreach on reporting. I mentioned, I think in Module 4, as an example, working with Vaughan Gething in Wales for this. But I did also stress that more can be done, and I think for the future a planned approach will be really important.
+
+**Professor Thomas KC**: Finally this: in light of feedback that the scheme lacked transparency, or trust among some groups, what changes would the MHRA now recommend to ensure that future safety reporting systems are inclusive, responsive and actively used by those most at risk?
+
+**Dame Raine**: Thank you. This is a really important question and an important priority, I believe. My legacy for the agency is a yellow card strategy that does include this kind of much more facilitated interaction. The ability for our what we call interactive drug or device analysis prints to be able to search out relevant information for the health professional who is interested in a particular safety issue is at the heart of that.
+
+And I think there will be a lot more that you will see as that important strategy moves forward.
+
+I think that a key development and a key milestone in our reform of legislation for medical technology is coming into force of post-market surveillance requirements, which is the middle of June. So a lot is happening, and more will be done.
+
+**Professor Thomas**: Dame June, thank you.
+
+**Lady Hallett**: Thank you, Mr Thomas.
+
+Ms Maragh is just there.
+
+Questions From Ms Maragh
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Maragh**: Thank you, my Lady.
+
+Good afternoon, Dame June. I am Thalia Maragh and I ask questions on behalf of the Covid Bereaved Families for Justice UK.
+
+Two topics, if I may, starting with the Yellow Card reporting and online system of surveillance to which you were taken just now.
+
+And, my Lady, with your leave, if I could just tailor my question in light of the matters explored with Dame June with Mr Thomas.
+
+And it's this: you mentioned moving towards equitable access. And bearing in mind that the online reporting system, it was digital, it was online, would you agree that the exclusive use of online platforms for reporting lost, late or incorrect test results potentially excluded sections of the populations such as those -- the elderly and the digitally excluded?
+
+**Dame Raine**: Thank you for your question. It's really important. The agency has kept alive different ways of reporting and it's quite clear that someone can report on your behalf, so you just need to tell someone that you've got a concern or a worry, and your health professional or a member of the family can do that for you. But it's still possible to phone or to use a paper report, a card. So I hope that is of some reassurance, but digital exclusion we do understand is a very important issue.
+
+**Ms Maragh**: And I think, my Lady, that deals with the second question in terms of forward planning.
+
+Dame June, may I move to my next topic briefly, which is NHS Digital, which you touch on at paragraph 63 of your statement.
+
+In short, the MHRA software team worked with NHS Digital in the Covid-19 app in relation to the development of contact tracing and the lateral flow device reader.
+
+Knowing, as we now know, that there were -- by the time the NHS app was rolled out, there were more than three symptoms which were known to detect Covid-positive symptoms, however the app only captured fever, cough and shortness of breath.
+
+Firstly, was the NHS app subject to the MHRA regulatory oversight and scrutiny?
+
+**Dame Raine**: The app needed to conform to the requirements as a medical device, yes.
+
+**Ms Maragh**: So in light of the limitation at the start of the rollout of just the three symptoms, was there regulatory oversight over the period of the life of the app, in terms of data updates?
+
+**Dame Raine**: I'm very confident there will have been. I can't give you a date as of today as to when a change in taste or smell might have been added in there as a symptom, but the coherence of the different sources of information is a really important one, and the app was clearly very well used, as we heard earlier from the previous witness.
+
+**Ms Maragh**: Right. It's just that during the life of the app, there were known to be more than the three symptoms, however, it was not updated. And so the question and the issue for you, if you can assist us, is whether the failure to pick up on the additional symptoms could be considered as a gap in the regulatory framework?
+
+**Dame Raine**: Well, those additional symptoms -- as we know, Covid had a different manifestations in different people, really important point. I would be surprised if the app wasn't updated, but I stand corrected if you're able to speak with confidence on that one. It's something consistency between information sources, really important, otherwise trust in experts, including government, isn't a taken as read.
+
+**Ms Maragh**: Thank you.
+
+My Lady, that's as far as I will take that point in light of Dame June's answer.
+
+**Lady Hallett**: Thank you very much indeed.
+
+Dame June, that completes the questions. I think it probably completes your assistance to the Inquiry, so thank you very much indeed for all that you've done to help the Inquiry and, of course, your colleagues, who have helped prepare the statement.
+
+**The Witness**: And the agency as a whole, my Lady, has made an immense and outstanding effort in this time of crisis -- with results.
+
+**Lady Hallett**: I'm really grateful to everybody, and may I wish you luck in your so-called retirement. I suspect it won't be retirement if you're anything like me, but thank you very much for your help.
+
+**The Witness**: I'm very grateful to you, my Lady.
+
+**Lady Hallett**: I shall return at 1.55.
+
+*(12.57 pm)*
+
+*(The Short Adjournment)*
+
+*(1.55 pm)*
+
+**Lady Hallett**: Ms Nagesh.
+
+**Ms Nagesh**: My Lady, the next witness is Dr Robin Howe. Could the witness please be affirmed or sworn.
+
+Dr Robin Howe
+-------------
+
+*DR ROBIN HOWE (sworn).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Nagesh**: Dr Howe, thank you for coming to give evidence to the Inquiry. May I ask you, please, when you're answering questions just to keep your voice up and to direct the answers towards my Lady.
+
+Now, Dr Howe, you have produced, helpfully, two witness statements for the Module 7 of the Inquiry. The first you'll see on screen is a corporate witness statement, and we can see in the first line two names: Dr Giri Shankar and yourself, Dr Robin Howe. That's because this statement is jointly signed by both of you; isn't that right?
+
+**Dr Robin Howe**: That's correct.
+
+**Counsel Inquiry**: And just to put things into context, you were both professional lead consultants for Public Health Wales during the pandemic, and Dr Shankar was the professional lead consultant in health protection and you were the professional lead consultant in microbiology.
+
+**Dr Robin Howe**: Correct.
+
+**Counsel Inquiry**: Now, but as this is a corporate witness statement, not only have yourself and Dr Shankar contributed to the statement, but where matters you've been asked about fall outside your or Dr Shankar's personal knowledge or experience, is it right that you've sought input from others within the organisation?
+
+**Dr Robin Howe**: Yes, correct.
+
+**Counsel Inquiry**: If we could turn, please, to the last page, which is page 132 of the statement. Can you see at the top of the page there's what's headed as "Statement of Truth" attesting to the facts in the witness statement being true to the best of your knowledge or belief. Does that remain the case today?
+
+**Dr Robin Howe**: Yes, that's correct.
+
+**Counsel Inquiry**: And is it the case that although only you attend to give evidence today, you are able to speak to all matters in this statement?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Thank you. And the second statement is a statement you've produced individually on behalf of yourself, dated 2 May 2025, and that's on screen as well. And again at page 24, do we see a statement of truth which you've signed attesting to the facts in the witness statement being true to the best of your knowledge and belief?
+
+**Dr Robin Howe**: Yes, correct.
+
+**Counsel Inquiry**: And again, does that remain the case today?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Thank you. Now, both statements and their exhibits are with the Inquiry and the statements will be published, but -- so please rest assured that the Inquiry will be taking everything in those very full witness statements into account. But for today's purposes, if I may, I want to just focus on some specific topics and ask for further clarification or assistance with those as far as you're able.
+
+So let's start, please, with your professional background. You qualified in medicine in 1989 having trained in Cambridge and Newcastle upon Tyne; is that right?
+
+**Dr Robin Howe**: Correct.
+
+**Counsel Inquiry**: You then trained in microbiology at Sheffield and Bristol and became a consultant senior lecturer at Bristol University and North Bristol NHS Trust in 2002?
+
+**Dr Robin Howe**: Correct.
+
+**Counsel Inquiry**: In 2025 you moved to Cardiff to undertake the role of consultant microbiologist and head of the Welsh Antimicrobial Resistance Programme for the National Health Protection Service which was the predecessor to Public Health Wales?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And your particular area of professional interest has always been -- or has been, all aspects of the antimicrobial resistance?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: So following that interest you were chair of the British Society for Antimicrobial Chemotherapy Standing Committee for antimicrobial susceptibility testing since 2012?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And then from 2014, you were working within Public Health Wales as the national clinical lead for the microbiology division, which meant that you were providing overall clinical leadership for the Public Health Wales microbiology service?
+
+**Dr Robin Howe**: Yes, that is correct.
+
+**Counsel Inquiry**: And then in February 2020 you, alongside Dr Giri Shankar, became an incident director for the Public Health Wales Covid response?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And outside your role as incident director, your main role during the pandemic was focused on Covid testing and you were the lead for the team delivering laboratory testing across Wales and also advising on operational and scientific matters.
+
+**Dr Robin Howe**: [No audible answer].
+
+**Counsel Inquiry**: Then, finally, in April 2022, you were appointed to the new role of director of Infection Services in Public Health Wales; is that correct?
+
+**Dr Robin Howe**: Correct, yes.
+
+**Counsel Inquiry**: And so if we can just then go through a broad overview of Public Health Wales, it was established in 2009, wasn't it, as an independent NHS body in Wales, is that --
+
+**Dr Robin Howe**: Yes, correct, yeah.
+
+**Counsel Inquiry**: And is it right that its overarching function is to provide professionally independent public health advice and services?
+
+**Dr Robin Howe**: Yes, correct.
+
+**Counsel Inquiry**: One of those services is public health related specialist advice to the Welsh Government and its ministers?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And in order to provide those services there is, within Public Health Wales, a health protection division?
+
+**Dr Robin Howe**: Correct, yeah.
+
+**Counsel Inquiry**: And that encompasses within itself several teams including, for example, the Communicable Disease Inclusion Health Programme and the All Wales Acute Response team?
+
+**Dr Robin Howe**: Yes, correct.
+
+**Counsel Inquiry**: And as we've touched upon so far as your role during the pandemic is concerned, in relation to the Inquiry and this module in particular, you provided advice in relation to Test, Trace and Protect services in Wales?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: But importantly, you weren't the decision maker in relation to any test, trace or protect services. I use the word "advice" because you provided advice to the Welsh Government and they were the ultimate decision maker?
+
+**Dr Robin Howe**: Yes, because Public Health Wales is part of the NHS and not part of Welsh Government.
+
+**Counsel Inquiry**: Thank you. So that's an overview of your role. If we can move, then, on to one specific task which you had relatively early on during the period in which we're looking, which was the development of a health protection response plan.
+
+And just so we can see what it is can we have up, please, INQ00056350, page 1, thank you.
+
+So is this the "Public Health Protection Response Plan", which you led the development of, and we see a publication date of 5 May 2020?
+
+**Dr Robin Howe**: Yes, that's correct.
+
+**Counsel Inquiry**: If we can turn to page 3 of that same document, please. There's an introduction, and going down the page we can see the heading "What needs to happen", and it says:
+
+"The Plan outlines three major activities for concerted public health action at scale. These are:
+
+"1. Preventing the spread of disease through contact tracing and case management ...
+
+"2. Population surveillance ..."
+
+And then over the page, please:
+
+"3. Sampling and Testing different people in Wales ..."
+
+So the language sounds relatively familiar to us now here at Module 7 of the Inquiry, and is that because this Public Health Protection Plan formed the basis of Test, Trace, Protect strategy in Wales?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Now we'll return to its contents a little later but if we could just take it off the screen, please, I want to ask you a few questions first, if I may, about the development to that plan.
+
+You were instructed, I believe, to create the plan on 22 April 2020?
+
+**Dr Robin Howe**: Yes, that's when we had a formal instruction from the CMO Wales.
+
+**Counsel Inquiry**: Thank you. And then on 4 May, so I think less than two weeks later, you submitted a final version of that plan to the CMO?
+
+**Dr Robin Howe**: Yes, correct.
+
+**Counsel Inquiry**: Then the Welsh Government published its final Test, Trace, Protect strategy on 13 May 2020 following, I believe, a seven working day consultation with its stakeholders?
+
+**Dr Robin Howe**: Yes, that's correct.
+
+**Counsel Inquiry**: What I wanted to ask you about that timeframe is this: with just under two weeks for the development of the plan and then something like 11 days before the publication of the Welsh Government Test, Trace, Protect strategy, do you consider that gave adequate time for the development of, and consultation on, the plan?
+
+**Dr Robin Howe**: It was a very challenging timetable, although Public Health Wales had already been in discussion with colleagues in Welsh Government and also been doing some work in the background on thinking about, you know, the TTP programme that would be required.
+
+But nevertheless, those -- I think it was ten working days, were very challenging, both to pull together the breadth of the document and then have some consultation. And in fact, the consultation that we were able to have with colleagues, stakeholders across Wales was really only 24 to 48 hours. But we did get helpful feedback that then -- that did play into the response plan.
+
+**Counsel Inquiry**: Thank you. Now, we know, of course, you developed the plan but the Welsh Government were responsible for delivery of the plan. During the development process, to what extent, if at all, was there any involvement of the Welsh Government in the development, or was it purely Public Health Wales developing the plan and handing it over effectively?
+
+**Dr Robin Howe**: As I said, there was at this point a lot of informal discussion between colleagues in Public Health Wales and in Welsh Government so it was not -- there wasn't a formal working together on this, but informally, we knew from, you know, what we had shared with them, and vice versa, that this was -- the direction was going to be appropriate.
+
+**Counsel Inquiry**: Now, we mentioned, of course, that the plan -- you were given the instruction by the CMO to develop it on 22 April. Are you able to help us with why -- the -- why 22 April, why there was no Test, Trace, Protect strategy or plan before 22 April or even before the pandemic?
+
+**Dr Robin Howe**: I'm not -- I don't recall why particularly there was a question raised on 22 April. Prior to that time, we had already started working on a TTP plan, and colleagues in Health Protection had drafted the, you know, the outline plan a couple of weeks earlier than that.
+
+Prior to that, and prior to the pandemic, the emergency response plans that we had worked through more usual health protection response levels, and didn't have -- didn't take account of the extent of a pandemic response such as this. They had been appropriate for previous pandemics, such as the 2009 pandemic, but needed a different approach.
+
+**Counsel Inquiry**: I see. Thank you.
+
+Now, we've touched upon the fact that you, obviously your main role was to give guidance to the Welsh Government, and you helpfully mentioned that during the development of the plan there was some informal discussions. In relation to the guidance and advice that you provided to the Welsh Government, did it largely take the form of informal or formal discussions? How did you provide the advice?
+
+**Dr Robin Howe**: At this point and during these -- the development of the plans, they were informal discussions with colleagues within, predominantly, the CMO's office.
+
+**Counsel Inquiry**: And generally speaking, when you would provide advice to the Welsh Government, what form would that take in the early stages of the pandemic?
+
+**Dr Robin Howe**: Well, there were a lot of meetings, and I think you've heard previously, in previous modules, about meetings between colleagues in Public Health Wales, the CMO, and other colleagues in Welsh Government. And at lower levels in the organisation, people such as myself would be meeting with colleagues in the CMOs office.
+
+**Counsel Inquiry**: And then I think, am I right that from about October 2020, you set up a system which you called the CMO advice notes?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And what was that?
+
+**Dr Robin Howe**: So prior to October 2020, there were a lot of informal and sometimes more formal interactions, but coming into Public Health Wales were a number of queries from different parts of Welsh Government and other organisations, and there was clearly a challenge in ensuring that the Public Health Wales response was collated in Public Health Wales and also directed into a single point in Welsh Government, because there was a danger of disparity in advice, or, you know, where it landed in Welsh Government.
+
+So we set up the system of advice notes whereby the questions should come from CMO and the advice would be given to CMO.
+
+**Counsel Inquiry**: Thank you. I'd like to just ask you, if I may, about instances when the guidance you provided to Welsh Government wasn't followed. First of all, paragraph 585 of your statement, oh thank you.
+
+If we're looking at the second line, and the bracketed line, you say:
+
+"Note: Public Health Wales had advocated contact tracing to commence on the basis of symptom onset rather than test results, but this was assessed as being not practicable."
+
+So is that one example of a time when you had provided guidance and it wasn't followed by the Welsh Government?
+
+**Dr Robin Howe**: Yes, I think so. I mean, we felt that contact tracing on the basis of symptom onset meant that it could occur -- it could commence two days, on average, earlier rather than waiting for a positive test. That meant that contacts could be advised two days earlier to modify their actions and that we felt it would have a bigger impact. There was a contrary issue that, without a test result, it was possible that we would be contact tracing and isolating people who actually didn't have Covid but had symptoms due to something else, and so there was that concern about the -- that system being more sensitive but less specific. And at this point in the pandemic, we were looking to come out of lockdown, and it was felt that putting a lot of people into contact isolation potentially, when wasn't justified, was not the direction we want to go.
+
+**Counsel Inquiry**: If we just turn to another piece of advice that you gave to the Welsh Government at INQ000056323, page 3, please.
+
+Thank you.
+
+You've said at the top here:
+
+"The Public Health Wales IMT has discussed the changes from 14 days quarantine of contacts to 10 days."
+
+Then in the third paragraph you explain that:
+
+"Reducing the quarantine period from 14 days to 10 days will mean that an increased number of contacts will be mixing when they are infectious ..."
+
+And you finish by saying:
+
+"However, we are concerned that the increased risk of COVID-19 transmission is significantly greater risk for individuals who work with vulnerable people, specifically care home workers and healthcare workers."
+
+So were you there advocating for self-isolation for healthcare workers especially to stay at 14 days rather than be reduced to ten days?
+
+**Dr Robin Howe**: Yes, for health and social care workers to continue contact isolation for 14 days.
+
+**Counsel Inquiry**: Thank you. And then if we just turn to page 1 of that same document, please. And just going down to the email:
+
+"Robin, CMO has responded to say that we need to be careful not to divert from agreed 4 nations approach on this. If [Public Health Wales] have a different view, they should discuss with [Public Health England] colleagues ..."
+
+So again, is that another example of there being pushback on your guidance, if I can put it that way?
+
+**Dr Robin Howe**: Yes, I mean, there was an important principle of trying not to divert from agreed four nations approaches, and really, this was a situation where it was a risk balance, and we felt the risk was in favour of maintaining 14 days. There were a number of colleagues in England who had similar reservations, particularly in the world of infection control, and a paper -- following this exchange, a paper was put together by colleagues in England and taken to the Senior Clinicians Group. That then led to an agreement that contacts would have reduced isolation to ten days if they were healthcare or social care workers, but that residents and patients would maintain contact isolation for 14 days and we accepted that view.
+
+**Counsel Inquiry**: Thank you. We can take that off the screen, thank you.
+
+I just want to understand, using those two documents as a touchpoint, how common was it for Welsh Government not to follow your advice? Can you think of any other key instances?
+
+**Dr Robin Howe**: I can't recall other key instances. In general, Welsh Government followed our advice. There were -- I mean, we were trying to, you know, follow advice coming from the CMO group as well.
+
+**Counsel Inquiry**: Thank you. I just want to ask you just a couple of questions about your case management system, because at the time the pandemic started, you operated using a case management system called Tarian, T-A-R-I-A-N.
+
+**Dr Robin Howe**: Correct.
+
+**Counsel Inquiry**: Which you'd had, I think, since 2017. Now, did there come a point around the preparation of your report that you consider that Tarian was not fit for purpose for the test, trace and protect scheme?
+
+**Dr Robin Howe**: Yes, when we were mapping out the likely demand and workload within the system, and predicting that, we could see that Tarian would not be able to cope. It was server-based rather than cloud-based, and it was designed to be able to have a maximum of 500 concurrent users, and we mapped that we were going to need more like 3,000 concurrent users. So, for those and other reasons, we felt we needed to develop a new system.
+
+**Counsel Inquiry**: Was there a reason that Tarian was not tested or -- in advance of the pandemic or at least an earlier 2020?
+
+**Dr Robin Howe**: So Tarian was used up to the point at which we developed the CRM, so it was used in the first tranche of contact tracing that happened in February and March, but it had -- you know, it had not been designed to fulfil what was required.
+
+**Counsel Inquiry**: Thank you. Now, you mentioned in your answer about the self-isolation periods, about liaison with Public Health England, and I think that brings me to my next topic, which is I wanted to ask you about your work with the other nations, England, Scotland and Northern Ireland.
+
+One of the contributors -- to place this in context, one of the contributors to the Inquiry's Every Story Matters public engagement exercise said this:
+
+[As read] "I think you have to have a standard over the UK. You can't have something different in each UK country. When you live so close to a border, you could be working in England and living in Wales or vice versa, and you've got two different guidelines."
+
+So, bearing that in mind, what was the extent to which Public Health Wales engaged with Public Health England, and/or either of the public health agencies in Scotland and Northern Ireland to try to aim for consistency?
+
+**Dr Robin Howe**: So we very regularly engaged, initially on a less formal basis, but later on more formally, with colleagues in England, Scotland and Northern Ireland, and, you know, there was an effort to try to keep key elements consistent between their four nations, but health is a devolved matter and it is the responsibility of the Welsh Government and Public Health Wales's advisers to try to do the best for the Welsh population.
+
+So, you know, we did take different approaches to our contact tracing, for example, but at the level of, you know, trying to, you know, have the same guidance around 14 days or ten days, we did try to work together.
+
+**Counsel Inquiry**: You've said in your statement -- we don't need to bring it up, but for your reference it's paragraph 155 -- that Wales had limit ability to influence UK Government decisions and that the largest porous border between England and Wales was pretty much impossible to close.
+
+Do you consider there ought to have been greater account taken of Wales in decisions taken in UK Government?
+
+**Dr Robin Howe**: Well, I think it's an issue for the Inquiry around the decision making at UK England level, and how the four nations can be or should have been more closely involved in that decision making, because there were clearly issues with central decisions made that then, in Wales -- that I can speak for, you know -- we then had to process those and assess whether they were appropriate for the Welsh population.
+
+**Counsel Inquiry**: Thank you.
+
+Now just moving even further outside the borders of the UK, you've mentioned again, we don't need to bring it up, I think, but for your reference it's paragraph 576 of your statement, you've referenced that in April 2020, following a request from the Chief Medical Officer for Wales, you established an international horizon scanning and learning workstream, so a workstream looking specifically at international comparators.
+
+My question about that is this: prior to the pandemic, or indeed earlier on at the start of the pandemic, had Public Health Wales undertaken any exercises to learn from comparative international examples in relation to Test, Trace, Protect?
+
+**Dr Robin Howe**: So prior to the pandemic, Wales had -- Public Health Wales had engaged with IANPHI, the International Association of National Public Health Institutes, and in fact, you know, was a full member of IANPHI and the purpose of that was to share public health knowledge and understanding.
+
+I'm not aware that TTP arrangements were discussed in that forum.
+
+**Counsel Inquiry**: Thank you. Now, can we move on then, please, to discuss testing. First, you may or may not have heard the evidence of Vaughan Gething last week, but he gave some evidence to the Inquiry about the decision to stop community testing on the 17 March 2020. He linked it to capacity and he said:
+
+"... if you're going to have sustained community transmission and community testing is going to come back, you need a much bigger testing infrastructure ..."
+
+So he said it was about scale-up, the decision to stop community testing. And he said that scale-up didn't happen in the timeframe expected and that was partly due to the issues with Roche.
+
+So I appreciate there's a bit to unpack there but can I invite you, please, to comment on that evidence of Vaughan Gething?
+
+**Dr Robin Howe**: Yes, so at this point we had moved into the delay phase of response, and we were rapidly moving towards the first lockdown, people had already been enjoined to isolate if they had symptoms, so that actions were being taken in order to try to limit the spread and with lockdown, the most draconian of actions, to try to limit the spread was going to happen in the next week or so.
+
+The issue of capacity was both an issue of testing capacity within the laboratories, but also sampling capacity in the community, in the health boards, and neither was in a position to be able to upscale at that point, and there was also an issue with capacity in terms of contact tracing. So if we had positive individuals, we didn't have the contact tracing symptom into place.
+
+So it was all of those three things that impacted, you know, what was available.
+
+**Counsel Inquiry**: Thank you. I actually do want to now move on to ask about asymptomatic testing, if I may. It may be helpful to anchor that, or these questions, in the timeline of the Welsh Government's testing strategies throughout the pandemic.
+
+The first strategy, I believe, was developed in March 2020 and published in April 2020. Is it right that Public Health Wales had no formal input into that strategy but did have informal input?
+
+**Dr Robin Howe**: Correct.
+
+**Counsel Inquiry**: And then 15 July 2020 was a refreshed Welsh testing strategy, and is it right that at that point, whilst the main focus was still on testing of symptomatic individuals, there was acknowledgement that testing of asymptomatic individuals may be appropriate in certain settings such as care homes?
+
+**Dr Robin Howe**: Correct, yes. And in fact, a national framework for leading the NHS out of lockdown and into potentially more normal operations that Welsh Government published in 2020 also touched on asymptomatic testing in healthcare workers as well, and suggested that it -- excess capacity could be deployed to routinely test asymptomatic healthcare workers.
+
+**Counsel Inquiry**: Thank you.
+
+And then it may assist to look at INQ000227202, please. And page 1, thank you.
+
+This is a written statement by the Welsh Government and in fact, more specifically, by Mr Gething. And this was a statement, as you can see from the second paragraph, is it right, to accompany the release of the Welsh testing strategy on 15 July?
+
+**Dr Robin Howe**: Yes. Sorry.
+
+**Counsel Inquiry**: And then if we just turn to page 2, then. And if we look under the heading "Testing in Care Homes", we can see five bullet points. We can see there:
+
+"All residents in care homes [at the first bullet point] were offered testing in May and June, whether they were symptomatic or asymptomatic."
+
+Then again:
+
+"Following the testing programme for all care home staff and residents, all staff in care homes have been tested on a weekly basis since 15 June, whether they were symptomatic or asymptomatic."
+
+So do we see there a focus on asymptomatic testing as well?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: So I just want to pause on that data of 15 July -- and we can take that off screen, thank you -- and just ask you about the advice that you at Public Health Wales had given to the Welsh Government in relation to asymptomatic testing.
+
+So, first of all, when was it first appreciated by Public Health Wales that asymptomatic transmission was a possibility?
+
+**Dr Robin Howe**: I think, and I speak personally, that I rather assumed that there would be asymptomatic infection and some level of asymptomatic transmission from the outset, from translation from other respiratory viral illnesses.
+
+It, however, became clearer during March, April, May, that -- the extent of asymptomatic transmission. I should say that, you know, asymptomatic transmission was a little bit difficult to define, because it was defined to an extent due to the definition of symptoms. So that clearly there were -- and others have touched on this, including Lord Vallance -- clearly there was a small proportion of people who were without any symptoms, but then a larger number of people who were -- who had -- who were pauci- or oligosymptomatic, so had some symptoms but were not the typical symptoms.
+
+And that confusion made it slightly difficult to unpick some of the studies and the science as to exactly what was asymptomatic or paucisymptomatic and how we should use that information to determine our testing policies.
+
+**Counsel Inquiry**: Thank you.
+
+Did you give any guidance to the Welsh Government, either for the March 2020 testing strategy document or for the July one, in relation to asymptomatic testing or indeed, as you say, paucisymptomatic people?
+
+**Dr Robin Howe**: So there was informal discussions around asymptomatic testing that -- where we wanted to balance whether we would be better concentrating on testing, or alteration of the symptomatology, because we could increase the number of healthcare workers who might be infected with Covid. We could increase the detection of them by either performing testing or by moderating the symptoms.
+
+So there was that -- that was discussed, yeah.
+
+**Counsel Inquiry**: Now, just on that point, you've referred in your statement to having conversations with other countries, and in fact am I right that you -- for example, you had conversations with contacts in South Korea and in Germany?
+
+**Dr Robin Howe**: [No audible answer]
+
+**Counsel Inquiry**: Now, just considering Germany in particular, could we please have up on the screen INQ000338265, page 1.
+
+Now, these are -- it says "TAC Notes", so that's the technical advisory committee, dated 15 April 2020. Just first of all briefly, what was the technical advisory committee?
+
+**Dr Robin Howe**: Well, so there was the technical advisory committee or the Technical Advisory Group and I'm not -- sometimes their names were used interchangeably. I think this was the Technical Advisory Group, which fed into TAC, which was the committee that was actually a Welsh Government internal group that took the information from the Technical Advisory Group.
+
+**Counsel Inquiry**: That's helpful, thank you.
+
+So would Public Health Wales have been part of, do you think, this meeting?
+
+**Dr Robin Howe**: Public Health Wales, I think, were part of this discussion.
+
+**Counsel Inquiry**: Thank you.
+
+So if we then turn, please, to page 3 of this document, if we look at the penultimate paragraph about four lines from the bottom, thank you. And it's -- if you can see, there's a line that starts "reconsidered?" With a question mark. About four lines from the bottom.
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Then -- it's being highlighted now, thank you -- it says:
+
+"TC suggested looking at the German approach, which consisted the daily testing of all healthcare staff regardless of symptoms."
+
+So at this stage, 15 April, it was known in the group that Germany was testing healthcare staff regardless of whether they were asymptomatic or what their symptoms were. Was this something that would have come from your discussions with your German contact?
+
+**Dr Robin Howe**: Yes. So I wasn't part of the specific discussions with our German colleagues, so I'm afraid I don't know exactly what was discussed with them.
+
+**Counsel Inquiry**: Thank you. You've said that this is more likely the Technical Advisory Group which was -- which involved Public Health Wales. Do you know whether this information was provided by way of advice to the Welsh Government in relation to asymptomatic testing?
+
+**Dr Robin Howe**: I don't know, and I'm not sure whether Germany, at this point, which was April 2020, was actually able to do daily testing of all healthcare staff regardless of symptoms.
+
+**Counsel Inquiry**: You're not sure whether Germany --
+
+**Dr Robin Howe**: I'm not sure. I just don't know whether that was actually the case. That was quite early in the pandemic and would have required a huge resource in terms of testing.
+
+**Counsel Inquiry**: Thank you. If you can take that off the screen. Thank you.
+
+Now, just linked to that, the Inquiry has heard, you may be aware, has heard in earlier modules about a so-called "precautionary approach" that could be taken in a pandemic. So effectively an approach to treat risks such as asymptomatic transmission as a possibility until they can be excluded.
+
+Now, keeping in mind what you've said about the fact that you always assumed asymptomatic transmission would be a possibility and, on the face of it, the fact that Germany seemed to be implementing asymptomatic testing, did you consider that the Welsh Government were taking a precautionary approach or not?
+
+**Dr Robin Howe**: I think they were taking a precautionary approach within the resources that were available at that time.
+
+So, you know, in order to test all healthcare staff with the PCR test -- you know, the simple testing process takes some time, but the sampling process would have taken a very significant amount of staff resource, which would have been a challenge for the healthcare institutions, which were really stretched in delivering other elements of the pandemic response.
+
+**Counsel Inquiry**: Thank you. That answers my question, I think.
+
+If we can move on, then, from asymptomatic testing to the range of symptoms, and I'd just like to read out an extract from a witness statement from Anna-Louise Marsh-Rees of Covid Bereaved Families for Justice Cymru, it's paragraph 36, page 13. I think you've seen the statement.
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Thank you. And she says:
+
+"CBFFJ Cymru are aware that testing criteria in Wales was limited to three cardinal symptoms -- fever, cough and anosmia. The families and friends of many of our members experienced a range of symptoms outside these three symptoms, such as headaches, sore throat, fatigue, nausea, and diarrhoea, amongst others."
+
+And she goes on to say:
+
+"The Welsh Government's failure to acknowledge this broader range of symptoms in testing criteria, even as late as March 2021, would have led to a very high number of instances of symptomatic people continuing to spread the virus."
+
+Now, just pausing there and moving on to another document that's linked to it, if we can have up on screen, please, INQ000116616, first of all at page 1 to place the document in context.
+
+This was ministerial advice dated 23 March 2021, for a decision by the Minister for Health and Social Services.
+
+If we can please turn to page 11 which might be page 11, which might be a page you recognise. Ah, apologies. I think page 12 is the ... oh no, sorry, back to page 11. My fault there.
+
+If we see at the top, there's a title "Expanded Criteria for COVID Testing" and it says, "Author" -- your name, Robin Howe.
+
+**Dr Robin Howe**: Yeah.
+
+**Counsel Inquiry**: And the date is 15 March. So this is advice from you that's included in that ministerial advice.
+
+**Dr Robin Howe**: Yeah.
+
+**Counsel Inquiry**: If we can turn to page 12 then, please. And in the bottom half of that page, we see a line starting "If symptom criteria are broadened there are a few issues to resolve", and then you talk about issues to resolve in relation to broadening the spectrum of symptoms, and then over to page 13, please. "Recommendations", we see:
+
+"It is recommended that:
+
+"Symptom criteria for public access to testing should be broadened to include new and unexplained sore throat, runny nose, sputum production, fatigue ..."
+
+And you go on to list a number of symptoms.
+
+So do you recognise this advice as being from yourself?
+
+**Dr Robin Howe**: Yes, yes.
+
+**Counsel Inquiry**: And then if we please go back to page 1 of this document, we see again a heading "Recommendation" and can you see there that it says:
+
+"The Minister is asked to agree:
+
+"That all LHBs can recommend [local health boards] can recommend testing for a wider range of symptoms
+
+"[But] that our national messaging should remain focused on the 3 primary symptoms until there is 4 nations agreement on widening the case definition."
+
+So just a few questions arising from all of that information.
+
+First of all, can you help us at all -- you may not be able to and if you can't, please say, but can you help us with why the advice was to persist with national messaging based on three symptoms?
+
+**Dr Robin Howe**: So I think this was written at a time where, you know, we understood that there was a wider range of symptoms for people with Covid, and that if we wanted to optimise the pick up of cases, that we should widen the definition. And a number of health boards had already started, because we were embedded with the health boards, they had already started to do this locally. And so we brought this to Welsh Government colleagues to reach a more standardised national approach, and as you can see from the Ministerial Advice Note, there was agreement with broadening the symptomology for testing, but a wish, going back to our earlier discussion, to, you know, await a four nations agreement on this before pushing that at the national level.
+
+**Counsel Inquiry**: Did you or do you now have concerns that the delay, perhaps I should say, to expand the range of symptoms in public messaging could have resulted in individuals who did suffer from Covid-19 not taking a test because they didn't realise that they had Covid-19?
+
+**Dr Robin Howe**: It's possible, yes.
+
+**Counsel Inquiry**: Thank you.
+
+Now we'll move on, if we can, to tracing, please. I wanted to ask you few questions about contact tracing, and firstly about the digital element of contact tracing. Is it right, first of all, that in relation to contact tracing, much as with the rest of the Test, Trace, Protect scheme, you sought to align with Public Health England in your approach?
+
+**Dr Robin Howe**: We did as much as possible, yes.
+
+**Counsel Inquiry**: Now, one specific question that has arisen time and again, which you may well be able to help us with, is in relation to the Welsh adoption of the NHS England app, or NHSX app. We know that Wales, unlike Scotland and Northern Ireland, did adopt the English app in late 2020.
+
+Now, first of all, did you have any concerns in Public Health Wales about adopting the English app?
+
+**Dr Robin Howe**: Well, I think from fairly early on, we felt that the app was going to be an adjunct rather than a major, major part of our response. Our model for contact tracing was personal, someone speaking to another person, delivered by local teams who understood the local geography and culture.
+
+And as the NHS app was being developed, there were concerns about, you know, it needed Welsh translation and basic Welsh-ifying, but also that it didn't follow exactly the same contact tracing guidance that we had. So we always recommended contact isolation, whereas there were some categories in England from the NHS app where people would be just asked to perform strict social distancing rather than isolation.
+
+So we had that concern.
+
+And then we were concerned that the data from the NHS app didn't then come into our contact tracing system. So the individuals would get some advice, but they weren't within our system, either for us to, you know, just know about them from the surveillance perspective but also from the perspective of the support that we would wish to give them.
+
+**Counsel Inquiry**: Thank you. Given those concerns, why did Wales or the Welsh Government ultimately decide to adopt the app?
+
+**Dr Robin Howe**: I think it was really just because we thought that, you know, for certain sections of the community, it may be a helpful adjunct. But, you know, not a main plank of the response.
+
+**Counsel Inquiry**: Now, you've mentioned that contact tracing in Wales was delivered by local teams, and that's something, I think, that -- in fact if we can put up the plan again, your initial plan, INQ000056350, at page 3. And underneath "What needs to happen", we can see under the contact tracing heading:
+
+"Contact tracing identifies individuals who have come into contact with an individual with COVID-19 ..."
+
+You go on to say:
+
+"The Plan proposes a three-tiered approach across Wales at a national, regional and local level. It will require very large numbers of people to be involved as local contact tracing teams. They will be managed locally and coordinated regionally ... [and that] Local authorities, health boards and other partners will be pivotal in leading and supporting local action."
+
+Now, it's right that, as we've heard from other witnesses as well, that this differed from the approach in England.
+
+Now, why was it? Why was it that Wales decided to choose a local contact tracing system?
+
+**Dr Robin Howe**: Well, we -- you know, we felt that there was a clear advantage in having a local system where people would understand the geology, geography, and the culture within their local areas, and it was really growing out of the pre-existing arrangements. We had always worked very closely in terms of communicable disease management in the community with our local authorities, and they were very keen to be involved, and so something that was based on the local authority level supported by our health boards seemed to be a, you know, the best solution.
+
+**Counsel Inquiry**: Thank you. We can take that document off screen. Thank you.
+
+In terms of, effectively, feedback of, if I can say it that way, or monitoring of how local health boards implemented tracing, is it right that they produced operational plans for the --
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: -- for Public Health Wales? And is it right that the lead strategic director and his deputy reviewed the plans in August 2020 and concluded that they didn't provide complete assurance of a whole of Wales system response for the next phase of the pandemic at that time?
+
+**Dr Robin Howe**: Yes, that's correct. And feedback was given, and then acted upon. Yeah.
+
+**Counsel Inquiry**: And when you say "acted upon", how were the problems addressed?
+
+**Dr Robin Howe**: So the challenges in the different -- in the seven different responses were different. One was more -- was giving more of a sitrep of what the situation was and wasn't forward looking, and then others had had various gaps. And all those elements were fed back to the health boards who were the regional unit for them to address.
+
+**Counsel Inquiry**: Were the problems addressed, as far as you're aware?
+
+**Dr Robin Howe**: Yes, yes.
+
+**Counsel Inquiry**: And just finally on tracing, I just want to ask you a question about backwards contact tracing. Because am I right that in October 2020, you provided advice to the Welsh Government's Test, Trace, Protect programme board which advised on the use of backward contact tracing?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: And am I also right that the advice was effectively that full backward contact tracing was the best way to maximise the potential for effective contact tracing?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Do you recall what the response was to this advice?
+
+**Dr Robin Howe**: So we put forward the advice around backward contact tracing because at that time, only 10% of cases had been identified as a contact already. So we were aware that there was a lot of transmission going on that we were not picking up.
+
+We were also aware that for most cases, actually led to less than one secondary case, but a few cases led to many secondary cases, and it was felt that those were driving the community spread, so-called superspreader events. And so backward contact tracing is going further back, as the name suggests, to try and identify the source of infection, and with a view to being able to identify the superspreader events and try and get on top of those.
+
+Unfortunately, that requires very significantly more resource, because it identifies many more contacts, and I think the outcome was that backward contact tracing was felt not possible as a blanket approach but was definitely used in areas of, you know, high prevalence or to investigate particular situations.
+
+**Counsel Inquiry**: So it was implemented but only in specific situations?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Thank you. Now, then, if I can just move on to, as you may have gathered, isolation, and your role in relation to isolation.
+
+Now, am I right that Public Health Wales advised on numerous occasions about changes to self-isolation periods?
+
+**Dr Robin Howe**: Yes, yeah.
+
+**Counsel Inquiry**: And I think you say in your statement, but we don't need to bring it up unless it would particularly help you, on 10 December 2020, 31 December 2021, and 28 January 2022, those were three changes to self-isolation periods.
+
+Now, is it right that you didn't provide any specific advice on the first change in December 2020?
+
+**Dr Robin Howe**: I don't recall such, no.
+
+**Counsel Inquiry**: You did provide advice on 31 December 2021 --
+
+**Dr Robin Howe**: Yeah.
+
+**Counsel Inquiry**: -- in relation to allowing individuals to be released from isolation after day 7 if they had a negative test, and you provided advice again in relation to the third change.
+
+Now did you also undertake, I believe, or commission research in relation to the impact of isolation?
+
+**Dr Robin Howe**: Yes. Yes.
+
+**Counsel Inquiry**: If we can please get up on the screen INQ000056337.
+
+Is this is an example of some research that was commissioned on 10 March 2021?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: If we can turn then, please, to page 4 of that same document, and the third heading down, "Challenges of self-isolation", and the third bullet point, we see there:
+
+"The top 5 challenges contacts thought they would face during self-isolation were: Suffering from anxiety or mental health problems ... looking after children ... being concerned about the impact isolation will have on work or business ... experiencing financial problems ... and caring for vulnerable people who cannot stay with friends or family ..."
+
+Then if we could then, please, go to page 6. Thank you.
+
+And under the bottom heading, 1.4.2, we see "Developing and targeting support for those experiencing challenges whilst self-isolating", and there's -- if I can call it a recommendation, "[Providing] mental wellbeing and social support".
+
+Then over the page to page 7, please.
+
+We see three more recommendations in light blue -- sorry, just the second paragraph there. The second paragraph is:
+
+"[Increasing] financial support and access to food and medications for those with precarious incomes."
+
+So does it follow from this document that it was within -- first of all, it was within your remit to advise on the impact of self-isolation?
+
+**Dr Robin Howe**: Yes.
+
+**Counsel Inquiry**: Does it then also follow that it was within your remit to advise on the necessity for, or indeed consequences of, support for those isolating?
+
+**Dr Robin Howe**: I think throughout we were highlighting the issues and stresses the self-isolation caused for different groups, and giving a range of options to be able to mitigate some of those, to be able to make it easier for people to isolate. So within that comes a suggestion that increased financial support would help.
+
+**Counsel Inquiry**: Now, we know in fact that the Welsh Government did offer financial payments for those isolating, initially £500 and then it was increased to £750. Given in particular your recommendations and your findings in relation to people's concerns about their finances when isolating, were you asked to provide any specific advice as to the financial packages or support offered by the Welsh Government?
+
+**Dr Robin Howe**: I'm not aware of whether we had a specific query about, you know, how much it should be or whatever like that.
+
+**Counsel Inquiry**: Would you consider that you ought to have been involved in those discussions?
+
+**Dr Robin Howe**: I'm not sure that we should. I'm not sure that I can answer that question.
+
+**Counsel Inquiry**: Thank you.
+
+Then if we can move on, please, to my final small topic before we get on to lessons learned and recommendations, I just want to ask you about equalities and inequalities.
+
+What steps, if any, did Public Health Wales take to ensure that Test, Trace, Protect, and indeed isolation support, was effective in relation to protected groups or those with vulnerable characteristics?
+
+**Dr Robin Howe**: So, as we noted the -- with one of our studies -- we did a number of studies that looked at the impacts of various parts of the pandemic on different groups, including black, Asian, minority ethnic and people in lower socioeconomic groups, et cetera, and all of this was fed into the TTP programme in terms of -- to the local teams as well as to Welsh Government to try to make improvements as to how they operated and could reach all the different -- different sections of the community.
+
+**Counsel Inquiry**: And did you get any feedback from the local groups as to steps they'd taken, or was your role done at that stage?
+
+**Dr Robin Howe**: We did -- I think we did get feedback, but I don't have that.
+
+**Counsel Inquiry**: Thank you.
+
+Then just finally, if I can turn, please, to lessons learned and recommendations, you've very helpfully provided us in both of your witness statements with a list of recommendations and lessons that you have taken from the pandemic and your experience. The Inquiry has those, and we will be taking those into account and using them going forward.
+
+Having had some time to reflect since those witness statements, is there anything that you wish to add today?
+
+**Dr Robin Howe**: I don't think there's anything that I want to add to the -- what's written down in the two statements, thank you.
+
+**Counsel Inquiry**: Thank you.
+
+**Lady Hallett**: Is there anything in particular you wish to highlight?
+
+**Dr Robin Howe**: I'm not sure to what extent it is documented explicitly, but I would highlight the need for digital interoperability in the future, and also, as we have touched on this afternoon, the involvement in the four nations in UK decision making, as well.
+
+**Lady Hallett**: And when you say digital inoperability, between which different systems are we talking about? Systems around the UK or systems within Wales?
+
+**Dr Robin Howe**: Um --
+
+**Lady Hallett**: Or all of them?
+
+**Dr Robin Howe**: All of them, but specifically systems around the UK.
+
+**Ms Nagesh**: Thank you, my Lady. Those are my questions. I understand that there are some questions from others.
+
+**Lady Hallett**: Thank you, Ms Nagesh.
+
+Yes, I think Ms Parsons, who is -- if you look that way, there you are. You've probably got direct sight.
+
+Questions From Ms Parsons
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Parsons**: Thank you very much, my Lady.
+
+Good afternoon, Dr Howe, I ask questions on behalf of the Covid-19 Bereaved Families for Justice Cymru. My questions are about delays in testing of healthcare workers, care workers and patients. That's the overall topic.
+
+Firstly in relation to testing of care home residents and care home staff in Wales, Mr Drakeford recognised in the Senedd as early as 3 March 2020 that older people, especially those in care homes, were particularly vulnerable to Covid-19. That view that routine testing in care homes may therefore need to be prioritised was held by experts and, indeed, it was a view highlighted in a paper produced by the Welsh Government Office for Science on 29 April 2020.
+
+On that date, the 29th, Mr Drakeford said this in the Senedd:
+
+[As read] "The reason we don't offer tests to everybody in care homes, symptomatic and asymptomatic, is because the clinical evidence tells us there is no value in doing so and that such testing would divert capacity."
+
+He made a similar statement the following week, 6 May.
+
+Firstly, Dr Howe, what is your view, from a clinical perspective, on Mr Drakeford's statement in the Senedd that there was no clinical value in asymptomatic testing in care homes?
+
+**Dr Robin Howe**: So I think what he said was at the end of the sentence was "in care homes where there's no evidence of Covid", and I think that this was in a situation that the majority of patients would have had symptoms, and if there were no symptoms within the care home, it was felt that the likelihood, given the prevalence within the community, was very much that there would be no benefit from asymptomatic testing when there was no signs of symptoms.
+
+**Ms Parsons**: So it's confined, then, to if there is no symptoms in the care homes?
+
+**Dr Robin Howe**: Yes, I think that -- the expectation, I think, was at that point that Covid being present within a care home would be identified through the presence of symptoms.
+
+**Ms Parsons**: Right, but what was your view, from a clinical perspective, on that statement that there was no value?
+
+**Dr Robin Howe**: I think there was limited -- there would have been limited value at that point for testing if there was no signs of infection within that care home, and it was at around this time that there was whole home testing, including asymptomatic individuals, if there was signs of Covid within the care home, but if there wasn't any sign, routine testing of all residents and staff was not being performed.
+
+That started, you know, the routine staff testing started on 15 June.
+
+**Ms Parsons**: I won't dwell on this point for much longer because we have other points to cover, Dr Howe, but as to the chronology of routine testing for care workers in Wales, asymptomatic testing or routine testing was announced on 16 May, as I'm sure you know, implemented on a weekly basis on 15 June, and then on 4 December 2020, twice weekly routine testing. And given what we know about the particular vulnerability of people in care homes, do you think it should have been introduced earlier and more regularly?
+
+**Dr Robin Howe**: At the time, there were challenges in terms of capacity, not just testing capacity, but also sampling capacity and the ability to deal with the results appropriately. If all those symptoms had been in place, then there would potentially have been benefit in testing earlier, most benefit significantly earlier during the earlier in the first wave, lesser benefit as the community levels of Covid were falling.
+
+We referenced the routine testing that was done from 15 June. In the week of 22 June, 9,700 asymptomatic staff were tested through the Lighthouse labs, and of those 9,700, only four were positive. And from a purely statistical perspective, you would expect, with the specificity of the test, if you tested 10,000 individuals, that you would get around about four false positives. And so statistically it was possible at that point that, you know, those four people who were identified were actually false positives, and that -- and this is just to give an idea of the fact that the -- you know, at a low prevalence, the number of cases to be picked up was relatively modest, but that --
+
+**Ms Parsons**: Dr Howe, I apologise for cutting in, but I've got other topics that I've been permitted to ask you about. That was June, the example you give, and obviously as we go further in 2020 we get to wave 2, and then a much greater prevalence of the virus.
+
+I'm going to ask you now, please, about delays to routine testing of healthcare workers, which you have touched upon already in your evidence.
+
+**Dr Robin Howe**: Yeah.
+
+**Ms Parsons**: And it was recognised very early on that asymptomatic testing was of benefit, and the Inquiry heard evidence last week from experts that by April 2020, it was clear that asymptomatic testing of healthcare workers was absolutely essential, and you've referenced healthcare testing in Germany in April 2020.
+
+The chronology as we understand it is this: 4 December 2020 the Welsh Government announce routine testing of healthcare workers; implementation begins on 14 December 2020, and in many cases, Dr Howe, it isn't in fact implemented until March 2021.
+
+Now, given what we know about the value of testing healthcare workers, in particular in relation to preventing nosocomial infection, do you think routine testing of healthcare workers should have been introduced sooner?
+
+**Dr Robin Howe**: So I think that the big change that happened in November was the availability of lateral flow tests, and that meant that the testing could be delivered at much greater volume and much more effectively in November. And, you know, we were able to take advantage of that and introduce the healthcare worker testing.
+
+**Ms Parsons**: So you don't think it should have been introduced sooner or you do?
+
+**Dr Robin Howe**: If we had the resource, and particularly lateral flow tests that could effectively test for whether people were infectious, then I think there was -- there would have been benefit in testing earlier.
+
+**Ms Parsons**: I want to ask you about resourcing and testing capacity in particular, please, because in the evidence that the Inquiry has, and indeed in your statement, you talk about Wales's underutilising of its testing capacity.
+
+I'll give you two quick examples before turning to the question: 6 May 2020, utilisation of 35% Public Health Wales laboratories, and January 2021, 24% of capacity.
+
+So does that not suggest, Dr Howe, that, actually, there was a huge amount of capacity that was under-utilised, and indeed testing could have been brought about or introduced much sooner?
+
+**Dr Robin Howe**: So this was purely testing capacity that I was talking about, and you referenced, and that doesn't necessarily reflect sampling capacity or the capacity across the whole system to be able to support not only the sampling but dealing with the results. So there was not the capacity across the board to deal with what would have been a very significant increase in resource requirement.
+
+So if we were to have, using PCR tests, introduced healthcare worker testing for 80,000 healthcare workers, just the processing prior to the laboratory would have required something like 160 whole-time equivalent weeks of resource behind it.
+
+You know, that's -- in the pandemic, that might have been possible, but that was -- sampling was being -- at the responsibility of the health boards.
+
+**Ms Parsons**: Dr Howe, just before we move on to the last topic, I think the answer to my question is you don't think there was the scope or the capacity to test routinely sooner, but did you in fact advise the Welsh Government to do so?
+
+**Dr Robin Howe**: I don't recall formal advice to test healthcare workers, although we were involved in the advice that I referenced earlier in June 2020 to use excess capacity to test asymptomatic healthcare workers, and the health boards responded to the extent that we were in July testing 400 healthcare workers a week, and that increased up to 2,000 a week in October 2020. And they were focusing on areas either where there were outbreaks or areas where staff were looking after particularly vulnerable patients, such as bone marrow transplant units, et cetera.
+
+**Ms Parsons**: Thank you, Dr Howe. So I think the answer is that you provided advice, informal advice, and you used the word in your evidence "informal discussion", about asymptomatic testing; is that correct?
+
+**Dr Robin Howe**: Yes, and --
+
+**Ms Parsons**: And was it advised to not test asymptomatically?
+
+**Dr Robin Howe**: I don't think we advised to not test asymptomatically. We did raise the question of, you know, why would we be testing and what was the best way of achieving the necessary outcomes from testing.
+
+**Ms Parsons**: Thank you.
+
+My Lady, I'm very conscious of the time, may I touch briefly on the final topic and I'll be quick.
+
+**Lady Hallett**: Yes, if you can shorten it -- (overspeaking) --
+
+**Ms Parsons**: Yes, I'll shorten it, my Lady. I'm most grateful.
+
+**Lady Hallett**: Thank you.
+
+**Ms Parsons**: The last topic, Dr Howe, is routine testing of patients in hospitals, and we know from an Audit Wales report in March 2021 that that needed to be strengthened further, "Once tested on admission", I quote, "there has been no regular testing during a patient's hospital stay unless patients have developed symptoms", and then the report concludes that more should be done -- that more effective testing should be done, including more frequent testing during a patient's hospital stay.
+
+And I think a Public Health Wales report of 23 September 2020 said that there is evidence to suggest transfer of patients between wards and hospitals resulted in spread of Covid-19 to new areas in the hospital.
+
+Just quickly then, please, Dr Howe, the question is this: given the high levels of nosocomial infections in Wales, are you able to help with why the Welsh Government didn't implement more frequent testing sooner of patients during a patient's stay in hospital? And is this something Public Health Wales advised or not?
+
+**Dr Robin Howe**: I think the recommendation was from fairly on to test people who were symptomatic, and then -- when they presented to hospital, and then there was advice to test, asymptomatically, people who were coming in electively. It did appear from the Welsh Audit Office report that that was not -- that that had not been implemented by colleagues in the health boards, and then there was later advice on routine testing of hospital inpatients, which was initially at day 5 following admission, and then subsequently to every five days, and the update -- uptake of that by health boards was variable and we reviewed that in fact in 2022, and found that it was variable across the health boards as to how they had implemented that.
+
+**Ms Parsons**: Thank you, Dr Howe.
+
+Thank you, my Lady, I am most grateful for the time.
+
+**Lady Hallett**: Thank you, Ms Parsons.
+
+Mr Thomas.
+
+Mr Thomas is around there.
+
+Questions From Professor Thomas KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Professor Thomas**: Good afternoon, Dr Howe. I represent FEMHO, that's the Federation of Ethnic Minority Healthcare Organisations.
+
+In paragraph 546 of your witness statement, you note that data from sources such as passenger locator forms and other UK nations was not integrated into the contact relationship management system, and had to be manually inputted.
+
+What efforts, if any, were made to integrate these data sources and what operational impacts did the lack of integration have on the delivery of Test, Trace, Protect programme?
+
+**Dr Robin Howe**: So I think that it was difficult during the pandemic to make much progress with the data, automated data integration, which was the challenge. And so we had to rely on manual data entry, which was obviously time consuming. The impact was on the time and, at times, us having an incomplete picture of the situation.
+
+**Professor Thomas KC**: At paragraph 547, you state that the epidemiological reports, based on the CRM data, were used to guide strategies and advice.
+
+**Dr Robin Howe**: Mm-hm.
+
+**Professor Thomas KC**: How regularly were these reports reviewed and adapted to reflect realtime changes in infection patterns or risk among different population groups?
+
+**Dr Robin Howe**: So the situation evolved during the pandemic. I mean, epidemiological reports were given on a daily basis, and then more thorough reports on a twice-weekly and later weekly basis.
+
+**Professor Thomas KC**: Paragraph 549, you refer to SAGE's recommendations for essential data fields for test and trace systems. How did Public Health Wales assess its readiness in relation to the recommended data fields, and were there any gaps identified that required urgent remedy?
+
+**Dr Robin Howe**: As stated in the statement, we went through the data fields as required by SAGE, and we were able to show that most of the data was already captured in Wales at that time.
+
+There were one or two elements that were not captured --
+
+**Professor Thomas KC**: Gaps?
+
+**Dr Robin Howe**: Sorry?
+
+**Professor Thomas KC**: Gaps. When you say one or two elements, there were one or two gaps?
+
+**Dr Robin Howe**: Gaps, yes, there were one or two gaps that we then sought to remedy.
+
+**Professor Thomas KC**: How urgently?
+
+**Dr Robin Howe**: I think as soon as we could.
+
+**Professor Thomas KC**: At paragraph 555, you highlight the poor completeness of occupation, place of work and ethnicity data in the CRM system. Given these gaps, how did they affect Public Health Wales's ability to evaluate adherence to or to assess the equity impacts of Test, Trace and Protect programme, particularly among ethnic minority or low-paid workers?
+
+**Dr Robin Howe**: Yes, this was a particular challenge, and as your question implies, it did mean that we had some gaps in the information. We felt that we had a, you know, reasonable overall appreciation. However, as you say, we didn't have this information filled in as much as we would wish. And we fed this back to the local teams, because, you know, the reason that it was not filled in was because the contact tracers were very focused on speaking to contacts and telling them to isolate, and were not always collecting some of the important metadata that we were relying on.
+
+So we fed that back to them, the importance of filling that in.
+
+**Professor Thomas KC**: At paragraph 558, you refer to efforts to improve the recording of ethnicity data in NHS systems. What concrete steps have Public Health Wales and its partners taken since the pandemic to improve the recording and use of ethnicity data, and are these measures now embedded in routine surveillance or emergency planning?
+
+**Dr Robin Howe**: Yes, so in our IT systems that we're now using, and as -- and we're also seeking to procure a new system, a replacement to the Tarian, of which we've spoken earlier, in that, and our current systems, a number of these fields have been made mandatory, so that staff have to, you know, record a response.
+
+**Professor Thomas KC**: I now want to move on to another theme, which is lessons learned.
+
+What lessons were learned from the data reliability issues with postcodes, addresses, ethnicity and international travel in the CRM system, and the lack of integration of certain data sources?
+
+**Dr Robin Howe**: So I think that the lesson that isn't necessarily learnt but is to be learnt, as I said earlier, is, you know, that data interoperability is key. We have made some steps in terms of what I've said earlier around mandatory fields, to try to improve some of the information that we collect, but being able to move it between different systems I think will be key in the future.
+
+**Professor Thomas KC**: Let me move on. I want to do these last three questions very swiftly, if I may.
+
+What changes would you recommend to improve data
+
+accuracy and completeness in future public health
+
+programmes and ensure better integration of data in
+
+future contact and tracing of healthcare systems,
+
+surveillance systems?
+
+**Dr Robin Howe**: So I'm not sure if I am misunderstanding the question,
+
+because I'm not sure that I've got anything to add over
+
+what I've said --
+
+**Professor Thomas KC**: All right.
+
+**Dr Robin Howe**: -- around interoperability and, you know, ensuring the data capture in the first instance.
+
+**Professor Thomas KC**: Given the operational challenges caused by the lack of integration that we looked at of certain data sources, passenger locator forms et cetera, what improvements would you recommend to ensure better integration?
+
+**Dr Robin Howe**: And again, it's similar, but it needs a review of all the different systems, because it potentially might not be recognised which systems do need to be integrated, but across the board, integration or interoperability more, I think is the answer to the question.
+
+**Professor Thomas KC**: Okay. Any specific recommendations you would make to improve the consistency and accuracy of ethnicity data recording in the NHS public health systems to ensure more equitable and inclusive pandemic responses in the future?
+
+**Dr Robin Howe**: I'm sorry, I don't have anything to add. I think it's key information because it enables us to understand the impact on different parts of society, and it really should be a priority for the future.
+
+**Professor Thomas KC**: Finally this: in the light of the challenges faced with aligning data fields with SAGE recommendations, are there any steps that could be taken to ensure that future public health systems are better prepared and more adaptable in terms of data collection and analysis that you can suggest?
+
+**Dr Robin Howe**: Well, as I referenced, you know, we are looking at a refreshed system in Wales and all these issues are well acknowledged, that, you know, for the future.
+
+**Professor Thomas**: Dr Howe, thank you.
+
+My Lady, sorry for racing through them.
+
+**Lady Hallett**: No, don't worry. Thank you very much, Mr Thomas. I'm very grateful.
+
+Dr Howe, that completes the questions that we have for you. You have spoken about the time during the pandemic very calmly, but that's probably your professional training. It must have been enormously pressurised for you and your colleagues, so thank you very much for all that you did and your colleagues did to try and keep the people of Wales safe. I'm very grateful to you for that work and of course for helping
+
+the Inquiry.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Very well, I shall return at 3.35.
+
+*(3.21 pm)*
+
+*(A short break)*
+
+**Lady Hallett**: (3.35 pm
+
+**Ms Cartwright**: Good afternoon.
+
+My Lady, please could Oliver Munn be affirmed.
+
+Mr Oliver Munn
+--------------
+
+*MR OLIVER MUNN (affirmed).*
+
+**Lady Hallett**: I hope you were warned that you were last on today, Mr Munn.
+
+**The Witness**: Yes, my Lady.
+
+Questions From Lead Counsel to the Inquiry for Module 7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Cartwright**: Could you please give the Inquiry your full name.
+
+**Mr Oliver Munn**: My name is Oliver Munn.
+
+**Lead 7**: Mr Munn, quite unique in this Inquiry, you have provided a one-page witness statement to the Inquiry dated 30 April 2025. Can I ask you, first of all, to confirm that the content of that statement is true to the best of your knowledge and belief?
+
+**Mr Oliver Munn**: It is.
+
+**Lead 7**: And in reality you are, by this statement, confirming that the statement of Jessie Owens dated 15 April 2025, who was the corporate witness for the Cabinet Office, was true to the best of your knowledge, as well, and belief.
+
+Perhaps if we just briefly identify, at page 108, please, the signature and date of the statement of Jessie Owen, please. Thank you.
+
+But essentially, you've adopted this statement now as your own and so, for all practical purposes, you are the corporate witness.
+
+**Mr Oliver Munn**: That's right.
+
+**Lead 7**: Thank you. So can we then start with identifying yourself, please. You tell us that you're a former senior civil servant who had the role of director, testing and tracing delivery, in the Covid taskforce within the Cabinet Office from 28 April 2020 to 25 February 2022.
+
+**Mr Oliver Munn**: That's right.
+
+**Lead 7**: And I think it's right that prior to joining the taskforce in the Cabinet Office you were not -- you were in the private sector; is that correct?
+
+**Mr Oliver Munn**: That's right.
+
+**Lead 7**: So we need to bear in mind that you only arrived 28 April 2020.
+
+**Mr Oliver Munn**: (Witness nodded)
+
+**Lead 7**: Thank you. And you tell us that essentially you were in that role for the two years to the February of 2022, but thereafter, you were part of the UK Health Security Agency's director general Health Protection operations from 2022 to 2024?
+
+**Mr Oliver Munn**: [No audible answer]
+
+**Lead 7**: And can you help us identify, because I think you're back in the private sector now, when in 2024 did you leave UKHSA?
+
+**Mr Oliver Munn**: On 31 March 2024.
+
+**Lead 7**: Thank you. So can we thank you for, notwithstanding that background, agreeing to speak to the corporate witness statement on behalf of the Cabinet Office.
+
+But perhaps before we identify the role of the Cabinet Office, can we just understand, then, as the director of Testing and Tracing Delivery in the Covid taskforce and the Cabinet Office, can you give us an idea what that practically that meant day-to-day when you first joined in April of 2020, please?
+
+**Mr Oliver Munn**: Well, in April of 2020, NHS Test and Trace had not been set up. It was still a period where things were moving very quickly and, indeed, I didn't join on 28 April with the title director of Testing and Tracing Delivery because at the time things were so fluid that portfolios would change day-to-day and so in my first week I remember I did something on transport and something on test and trace and something on businesses, and it was only really over the course of May that my portfolio became defined as everything relating to testing, tracing and isolation.
+
+**Lead 7**: So taking that date, then, of around May when you then became the director for testing and tracing, can you just give us some idea, bearing in mind we're going to look at the roles of different departments they had in supporting the work of, particularly, the Test and Trace system, what were you actually doing day-to-day, just to give an idea practically of the involvement of the Cabinet Office and you in particular?
+
+**Mr Oliver Munn**: So the Cabinet Office corporate statement refers to three roles that the Cabinet Office played, one of which was the critical friend role, and, my Lady, I spoke to test and trace colleagues pretty much every day for two years, and ensured that I was aware of exactly what they were doing, where they were going, fed into their strategy, updated them on the government's broader Covid strategy so that everything test, trace and isolate related fully tied into where the government was and was going on non-pharmaceutical interventions, vaccination, et cetera.
+
+The Covid taskforce also played an important role in relation to collective agreement and the process of ensuring that decisions were properly taken by ministers, and so the taskforce was the secretariat for the Covid-O, Covid Operations Committee, that ministers used throughout the pandemic to make decisions. And in that regard, I and my team would sometimes draft papers for Covid O to consider on testing, tracing and isolation matters, or at least draft the chair's briefs for the chair of Covid-O and the CTL.
+
+**Lead 7**: Thank you. Can we then, please, turn into the statement INQ000587352 at paragraph 2.5, please, just to make sure we are clear before we get into the detail of the role of the Cabinet Office, please.
+
+So it's paragraph 2.5 on page 7 of the statement of Jessie Owen INQ000587352, please. Thank you.
+
+At paragraph 2.5 you detail that:
+
+"Throughout the pandemic, including in the context of work relating to TTI, many decisions rightly continued to be taken within individual departments. Where collective decisions were not required, the role of the Cabinet Office was, as is typical for the centre of government, focused around strategic coordination, ensuring collaboration between the relevant parts of government, assuring progress and providing challenge to help strengthen policy making and ensure alignment with the Government's overarching strategic objectives."
+
+And then if we move down, please, to paragraph 2.7, you detail that:
+
+"The Cabinet Office also had 'responsibility for coordinating the Government's response to crises', working closely with the lead government departments."
+
+Just pausing there, it's right, I think, you identify that the Lead Government Department for test, trace and isolate was the Department of Health and Social Care; is that correct?
+
+**Mr Oliver Munn**: Correct.
+
+**Lead 7**: So can you then help, when you describe that the Cabinet Office has that lead in respect of crises, how that operated in practice in respect of test, trace and isolate, please.
+
+**Mr Oliver Munn**: The Cabinet Office, and through the Civil Contingencies Secretariat, that I think you heard about in Module 2, my Lady, plays an important role in planning for crises, and in the early stages of the crisis in the coordinating the central response, but, as I think Lord Sedwill in his evidence in Module 2 made clear, the aim is then to hand over to the Lead Government Department as quickly as possible, and so responsibility for testing, tracing and isolation was obviously the responsibility of DHSC, and it was rightly for DHSC to lead the planning and operationalisation of TTI.
+
+**Lead 7**: Thank you. Can we just highlight another number of paragraphs that perhaps help understand the dynamic that operate between the Cabinet Office and the Department of Health and Social Care.
+
+Paragraph 2.18, please, at page 9, you detail that:
+
+"The Cabinet Office was not and would not have been expected to be routinely involved in the detailed TTI work led by [the Department of Health and Social Care] and its agencies, for example, establishing, maintaining or monitoring infrastructure, laboratory capacity, testing technologies or other associated capabilities, nor would the Cabinet Office be expected to assess overall UK preparedness to develop and scale diagnostics for a given disease. This more detailed preparedness work would fall under the responsibility of [the Department of Health and Social Care] as the [Lead Government Department]. DHSC and its executive agencies, notably the UKHSA [which we know came on latterly and was operational from October 2021], would therefore be best placed to summarise and comment on the adequacy of the TTI policies and strategies in place prior to the onset of the COVID-19 pandemic."
+
+**Mr Oliver Munn**: I think this paragraph relates specifically to preparedness, and so what it's saying is that the Cabinet Office would not and would not have been expected to be routinely involved in detailed TTI work by DHSC before the pandemic came along, hence why there are several references to preparedness within the paragraph.
+
+Once the pandemic had come along and that TTI was a big part of the government's response, and -- the Cabinet Office was very close to TTI work being led by the department, obviously not in the lead role, but as I mentioned we were having daily conversations with them and ensuring that what they were doing was fully coordinated with the rest of the work of government.
+
+**Lead 7**: Thank you.
+
+Then perhaps just to highlight some additional paragraphs, paragraph 2.37, please, at page 14. Thank you. The statement details:
+
+"As was the case throughout the COVID-19 response, one unique role of the Cabinet Office was its work to consider and provide advice to ministers on the trade-offs of different TTI approaches. Whereas the focus of other government departments centred around, for example, the impacts of TTI policies on health (for DHSC), the economy (for [Her Majesty's Treasury]) [at that time] or specific sector-based impacts (for other government departments), the Cabinet Office's role at the centre of government was to look across the board and support decision-makers to understand and balance where possible the trade-offs of different response options."
+
+Is there anything you want to add in respect of that?
+
+**Mr Oliver Munn**: No.
+
+**Lead 7**: Thank you.
+
+And then significantly you then identify at paragraph 2.38 that:
+
+"The Prime Minister, [Mr] Johnson, remained close to this work throughout the pandemic, including through regular, often weekly, meetings with Baroness Harding, as Chair of NHS [Test and Trace], and others closely involved in TTI work including the Health Secretary, the Chief Scientific and Medical Advisors and other officials, which focused on a range of issues from the ambition to roll out a mass population testing programme ... to community testing and surge testing in specific settings and geographical areas."
+
+And you also detail:
+
+"In addition, Baroness Harding on occasion provided updates on the progress NHS [Test and Trace] to the Prime Minister and the Cabinet Office."
+
+Pausing there, can you assist us, because we know that when Baroness Harding was the chief executive of NHS Test and Trace there was a unique reporting structure initially until the December of 2020, where essentially she reported directly to the Prime Minister, and so can you help us understand that structure set against the lead department being the Department of Health and Social Care, please.
+
+**Mr Oliver Munn**: Yeah, absolutely.
+
+And Ms Cartwright, you mentioned the word "unique", I actually don't think it's unique because the chief executive of NHS England had exactly the same arrangement reporting directly in to the Prime Minister rather than the Health Secretary, and so actually, I think it was quite a parallel arrangement to that with NHSE before its recent abolition.
+
+I wasn't involved in the decision to appoint Baroness Harding or to make her report in to the Prime Minister rather than the Health Secretary, but I can only speculate that the Prime Minister was trying to make clear that he was very personally invested in this work and that that would send a message across Whitehall that Test and Trace was a foremost government priority and that other government departments should do all they could to assist it in its work.
+
+**Lead 7**: Thank you. And so, in correcting me in describing it as a unique reporting restriction, we know that that reporting directly to the Prime Minister came to an end in December of 2020, so can you help us understand, then, why that shifted after December 2020 and then it went back to reporting essentially to the Health Minister in the Department of Health and Social Care?
+
+**Mr Oliver Munn**: So that was a decision made by the Cabinet Secretary, and I can't pretend to know exactly what was going through his mind in determining that, but by way of context, I can tell you that the Secretary of State for Health had been very, very closely involved in all of the work of Test and Trace since the very beginning, and that Baroness Harding, who you'll be hearing from tomorrow, was speaking to the Health Secretary all the time on everything and that submissions that Test and Trace was preparing were going through the Health Secretary for his approval. So I think, although the formal reporting line may not have changed until December 2020, in practice, the Secretary of State for Health was all over every aspect of NHS Test and Trace's work from the very beginning.
+
+**Lead 7**: Thank you. Can we, then, please, look together at paragraph 3.2 on page 28, please.
+
+Thank you.
+
+Now, you detail there under the "Development of Test and Trace":
+
+"As explained in Section 2, in line with the [Lead Government Department] model, the [Department of Health and Social Care] is responsible for public health protection and responding to emerging infectious diseases. At the outbreak of the pandemic, therefore, the Cabinet Office ordinarily had limited involvement in policy and strategy work relating to TTI."
+
+Can you assist, then, we've already looked together that the Cabinet Office was responsible for coordination across government departments in response to crises, working closely with lead government departments, and this would have included with regard to Test, Trace and Isolate; would you agree?
+
+**Mr Oliver Munn**: Yeah.
+
+**Lead 7**: Thank you. And if we look at paragraph 3.5, please, it details:
+
+"In this early stage, the Cabinet Office worked to understand the progress of test and trace work across government in order to update and provide advice to the Prime Minister, and to understand where further support from central government may be needed. The Cabinet Office was not, however, closely involved in [Public Health England [or the] Department of Health and Social Care's] detailed work in this initial period to test, trace and isolate contacts, nor is the department able to comment on how any existing capacity, infrastructure and policies and capabilities were used to respond to the initial cases of the novel coronavirus."
+
+And so can I ask you then, why is the Cabinet Office not able to comment on how existing infrastructure and capacity was utilised in the early stage, especially given its central coordination role in times of crises?
+
+**Mr Oliver Munn**: The central coordination role that you describe, led by the Civil Contingencies Secretariat, involves assigning actions and being clear on owners and assessing progress across a waterfront of the crisis response, but those actions, those owners, sit in nine departments in the nine -- in the Lead Government Department for each of those activities, and the Civil Contingencies Secretariat is not staffed to man mark, for want of a better phrase, each of those workstreams being led by departments.
+
+As we might get on to, it became clear in the spring of 2020 that the centre of government needed to grip a wide range of department-led initiatives, and so a Covid taskforce was created within the Cabinet Office over the spring of 2020, precisely to provide the kind of close involvement that the Cabinet Office had not been resourced to provide in January, February of 2020.
+
+**Lead 7**: Thank you. Now, that may partially answer the next question, please, Mr Munn. Do you accept that as part of the Cabinet Office role in advising the Prime Minister, it would have needed an understanding of what infrastructure actually existed at the outset of the pandemic? So I think you've dealt with the spring, but would you agree that it would have been far better if there was that information known about the infrastructure in the January of 2020?
+
+**Mr Oliver Munn**: The Cabinet Office would be reliant on the relevant government department to provide it with information on the state of preparedness in its area or the actions that it was taking. And so in those early days before the Covid taskforce was created, the Civil Contingencies Secretariat would have been commissioning the Department of Health and Social Care for updates on the testing and tracing infrastructure that they had in place, how it was expanding, et cetera. It would have been receiving updates from DHSC, but would not have been in a position to do much more than pass on those updates to the Prime Minister and certainly wasn't in a position, as was the case later when the Covid taskforce was established, to have real subject-matter experts who knew all about testing, tracing and isolation sitting within the Cabinet Office and who understood, you know, the various nuances and complications of operationalising a TTI system.
+
+**Lead 7**: Thank you.
+
+I'll take you in a moment to a passage in Mr Johnson's statement by reference to the Civil Contingencies Secretariat just for reference, but briefly before doing that, do you accept that the United Kingdom's lack of infrastructure for testing at scale would have been obvious to the Cabinet Office from January 2020 had comprehensive enquiries been made in that early stage?
+
+**Mr Oliver Munn**: As we covered a few moments ago, I joined the Cabinet Office at the end of April 2020 and so it's difficult for me to state with any certainty what the Cabinet Office should or shouldn't have known in January. What I do know is that from the documents I've reviewed in preparing for this meeting, that the Cabinet Office did ask DHSC for various updates in January and February of 2020 as to what testing capacity was in place and could be put in place, and received those updates. I can't tell you to what extent they had the resources or the knowledge to really scrutinise the responses they got back.
+
+**Lead 7**: Thank you; can we then briefly look at a passage in Mr Johnson's witness statement that he's provided, please.
+
+Which is INQ000587378. It's page 9, paragraph 22. Thank you.
+
+We can see that he details in this statement:
+
+"I remember that I was told that we had an excellent system for testing and tracing contacts although I cannot now recall who said this -- I think I was told it many times by many people."
+
+Then it goes on, effectively:
+
+"As an example of a document that gave me this reassuring message about our preparedness ... on 28 February 2020, the Director of the Civil Contingencies Secretariat sent me a briefing note prepared in consultation with the CMO and GCSA on the UK's preparedness ... The note said that our '[p]reparations are well underway' and '[w]e continue to be ready with to deal with ...many more if the outbreak escalates' ... '[o]ur NHS has tried-and-tested systems to quickly identify and isolate those who may have Covid-19'."
+
+Thank you. Can you assist, why did the director of the Civil Contingencies Secretariat send Mr Johnson this reassuring message about the state of preparedness, rather than inform him that there was, in fact, a lack of infrastructure and capability? Can you assist with that, please?
+
+**Mr Oliver Munn**: I can assist by providing context. As I mentioned, I was not an employee of the Cabinet Office at the time, nor even a civil servant, and I have never worked in the Civil Contingencies Secretariat, so my knowledge of that process is secondhand, but I can only assume that the director of the Civil Contingencies Secretariat had received from DHSC a reassuring update endorsed, as is mentioned, by the CMO and the Government Chief Scientific Advisor, and had passed that on to the Prime Minister. I'm afraid there's not much more I can add.
+
+**Lead 7**: No, thank you.
+
+Perhaps, then, if we can go back into the witness statement, please, at paragraph 1.8, so it's the INQ000587352, page 2, paragraph 1.8, we can see that in fact the position that is now detailed is:
+
+"At the outset of the pandemic, the UK had very limited capability and infrastructure to test for cases of the novel coronavirus and trace their contacts. Setting up a test and trace system on the scale and at the speed demanded by the virus posed an unprecedented challenge. The UK Government worked to meet that challenge in collaboration with the wider public sector, [including] industry, academia, local government and others."
+
+And so identifying that unprecedented challenge, when did it become clear to the Cabinet Office that there was very limited capability and infrastructure? Can you assist?
+
+**Mr Oliver Munn**: All I can tell you is that when I arrived on 28 April, I think that was the feeling within the Cabinet Office. I suppose what you're asking is at some point between the notes to the Prime Minister at the end of February, where the message from CCS was there's infrastructure in place, and my arrival at the end of April, the message changed, but I am afraid I can't tell you within that two-month window exactly when that feeling changed. And obviously the Cabinet Office is a big organisation and different people would have had different views at different times.
+
+**Lead 7**: Thank you. But would you agree with the principle that the role of the Cabinet Office should have been to advise the Prime Minister of this lack of infrastructure and capability as early as possible?
+
+**Mr Oliver Munn**: Absolutely.
+
+**Lead 7**: But you can only really speak to that that plainly had been identified when you came along near to the end of April?
+
+**Mr Oliver Munn**: Correct.
+
+**Lead 7**: Thank you.
+
+Can we then, please, move forward again to paragraph 3.8 at page 29, please.
+
+And perhaps before doing that we'll start at 3.7, please. The statement details:
+
+"By mid-March 2020, at the time the World Health Organization (WHO) was encouraging countries to 'test, test, test', concern was being raised within No.10 about the UK's ability to scale testing to the levels required to respond to COVID-19, particularly in relation to limitations in PHE's capacity for operational delivery of testing and contact tracing on a large scale."
+
+Then if we move then to 3.8 you detail that:
+
+"On 14 March 2020, CDL" -- is that the Chancellor of the Duchy of Lancaster?
+
+**Mr Oliver Munn**: That's right, Michael Gove at the time.
+
+**Lead 7**: Thank you. Obviously as a member of the cabinet:
+
+"... chaired a meeting to explore ways that the Cabinet Office could Help DHSC to increase testing capacity ..."
+
+Can I ask you, do you accept that there was no attempt by the Cabinet Office to have a high-level meeting with the Department of Health and Social Care on the subject of test and trace specifically to understand the UK's readiness and detail until this meeting of 14 March 2020?
+
+**Mr Oliver Munn**: Whilst I'm not aware of any other attempts, I cannot categorically state that there were none.
+
+**Lead 7**: Can you assist, then, if the Cabinet Office did not undertake sufficient detailed work to understand the progress of test and trace until March, but is it -- does it look more like that the Cabinet Office was accepting the assurances at face value from the Department of Health and Social Care without examining or scrutinising capability and infrastructure?
+
+**Mr Oliver Munn**: The processes of the Civil Contingencies Secretariat, as I've mentioned, are not a process I'm familiar with. They obviously go out to the department asking them for their plans and their preparedness and they receive them. I imagine that they do more than just, you know, passing them on to the Prime Minister and saying, "We've received this and here it is", but I'm afraid I don't know the level of scrutiny that they apply, or the extent to which they dive into the responses they receive from departments.
+
+**Lead 7**: Thank you.
+
+Can I then, please, briefly ask you about some evidence that we're going to hear from on Friday from Professor Pillay, and it's one of the documents in the pack, it's INQ000475152.
+
+That's INQ000475152 and it's page 4, paragraph 15, please.
+
+This is on capability.
+
+**Mr Oliver Munn**: Mm.
+
+**Lead 7**: Thank you.
+
+We can see detailed there that Professor Pillay details:
+
+"... there remained considerable expertise through local Directors of Public Health and outbreak control teams. Despite this, the immediate COVID response involved very significant investment in a series of outsourced functions, rather than using such resource to rebuild existing [infrastructure]."
+
+And similarly, the Inquiry has a statement from Lord Bethell that similarly comments upon the preference to use Directors of Public Health's knowledge.
+
+So can I ask you, do you agree that the UK's lack of sufficient localised infrastructure for test and trace hampered its ability to deliver a Test and Trace Programme despite Directors of Public Health, expertise and local teams?
+
+**Mr Oliver Munn**: Let me say that Directors of Public Health have a huge amount of expertise and often are extremely accomplished and talented people. They lead public health teams within local authorities that have faced consistent resourcing and budgetary challenges, and it is not the case, in England today, and it certainly wasn't in 2020, that we have a well-resourced local public health layer that, you know, can be deployed at short notice to do all sorts of extremely ambitious things. There are extremely talented people in public health departments in local authorities across the country but they are operating on very limited budgets and they often have considerably smaller headcounts than they had historically and so, unlike some other countries where contact tracing in particular was sent to a subnational level, and I'm thinking particularly of federal countries like Germany or the US which had well-resourced, high-budget public health departments at a regional level, England does not have that. It has 152 public health teams at local authority level, some of which cover really very small areas, all of which face massive budgetary challenges in the context of local authority finances.
+
+And so whilst there are some exceptionally talented and hard-working people working for Director of Public Health and as a Director of Public Health, they are not a well-resourced function that can easily be activated to deliver huge, very ambitious contact tracing as was required -- (overspeaking) --
+
+**Lead 7**: Can you assist, considering the United Kingdom's Civil Contingencies Act framework which emphasises the role of local responders as the building block to response, did the Cabinet Office liaise across departments to identify and build up the localised infrastructure early on in the pandemic?
+
+**Mr Oliver Munn**: When NHS Test and Trace was launched on 28 May, it was a very national operation, and fairly quickly transitioned into a mix of national and local and indeed, by August 2020, local tracing partnerships were announced, I believe on 10 August 2020, and the Cabinet Office was certainly supportive of that move to better involve Directors of Public Health and local public health expertise to ensure that contact tracing was more effective and made better use of local knowledge.
+
+**Lead 7**: Thank you. But obviously that seems slightly later on in the chronology. I wondered if you could assist, before we get to what was announced in the May, whether you're able to assist from the April when you were in -- sort of arriving in the Cabinet Office, was there consideration being given about this existing local resource with the expertise that existed in Directors of Public Health?
+
+**Mr Oliver Munn**: I think there was knowledge in the Cabinet Office that Directors of Public Health were in place across the country and often brought tremendous talent, energy and enthusiasm to their roles. What DHSC was tasked with assembling over the course of May 2020 before its announcement on 28 May, was a large-scale contact tracing operation that could handle the many, many thousands, tens of thousands of tests -- of cases a day that were forecast, and so they put their focus on building a large, scalable central operation at first, before then transitioning fairly quickly in the following months to a mix of national and local, to ensure that they were making best use of the expertise that was held at local level.
+
+**Lead 7**: Thank you. Then can I ask with referencing obviously the large-scale testing and therefore the large-scale central contact tracing, was any thought given about the fact that this was outsourcing to companies with no experience or relevant expertise or local knowledge, in terms of whether that was the best way to go for this centralised contact tracing, rather than utilising the local contact tracing?
+
+**Mr Oliver Munn**: The first thing to say from a Cabinet Office perspective is that that was a decision for the Lead Government Department, the Department of Health and Social Care. And so the Cabinet Office would not that have had a direct role in that. But I would add by way of context, we were looking at tens of thousands of contact tracers that needed onboarding, and local public health teams who already have a large number of existing and ongoing responsibilities, did not have tens of thousands of people sitting around waiting to be -- to have new responsibilities given to them.
+
+**Lead 7**: Thank you. Can we then, please, just look on the chronology, and I appreciate we're just picking issues and themes out of the full chronology context that your witness statement provides, but can we please look at paragraph 3.22 where you detail, at paragraph -- sorry, page 39, paragraph 3.22.
+
+You detail there the announcement of the 2 April 2020, when Mr Hancock the Health Secretary announced the 100,000 testing target across the UK by the end of the month. And can you assist, did the Cabinet Office play any role in the identification of the need to increase testing to be 100,000?
+
+**Mr Oliver Munn**: Well, later in that paragraph it says:
+
+"... Dominic Cummings notes that he and the Prime Minister had told the Health Secretary to aim for 100,000 tests per day."
+
+So from that I conclude that the Cabinet Office, or Number 10 as part of the Cabinet Office, was very supportive of a stretching testing target.
+
+**Lead 7**: So can I ask with obviously identifying that Mr Cummings and Mr Johnson had been involved in that, do you accept that the Cabinet Office was under a duty to clearly advise that the target was wholly unrealistic rather than simply encouraging rapid extension of -- expansion of testing capacity?
+
+**Mr Oliver Munn**: It would have been for DHSC to judge whether it was realistic or not. The role of the Cabinet Office and, I think, the role of the Prime Minister as he'd have seen it, would be to challenge departments to aim high, and that's what he did with that 100,000 target. And to the point that it was wildly unrealistic, it was met, which suggests that it was not wildly unrealistic.
+
+**Lead 7**: Thank you. Now I'm going to move on now to the creation and establishment of NHS Test and Trace. Can we briefly look, please, at the terms of reference which is INQ000198082. INQ000198082. Thank you.
+
+We can see there the Test, Track and Trace Ministerial Taskforce terms of reference and I think at this point we can see the membership included Dido Harding as the chair. And if we move through, we can see that, as required, please, a little further down, we only have "As required" that Number 10 would be involved.
+
+And then over the page, I think it identifies as what you've already told us -- we can keep moving down -- that the Cabinet Office had the secretariat role of those meetings.
+
+And so without a standing member in the taskforce can you assist us as to why the Cabinet Office was only the secretariat on those meetings, please?
+
+**Mr Oliver Munn**: I think it's important to give some context on this taskforce. It was announced on 7 May, and by 28 May had been superseded by the creation of Test and Trace, so it existed for no more than three weeks.
+
+**Lead 7**: Yes.
+
+**Mr Oliver Munn**: And I've asked the Cabinet Office which, as you say here, was the secretariat to look through records and they have confirmed that they have no evidence that this taskforce ever met in its form. So I think this taskforce is a bit of an irrelevance, if I'm honest.
+
+Now, it's true that, you know, these stakeholders remained involved, but the notion of the taskforce as described in these terms of reference I think was quickly overtaken by events.
+
+**Lead 7**: Thank you.
+
+Well, then can we look at an email that I think -- looking, from the appointment of Baroness Harding on 7 May, at an email of 18 May, just to try to understand something that you were involved in.
+
+It's INQ000195932, please. That's INQ000195932. Thank you.
+
+And so this is an email of 18 May 2020. So almost -- just over a week before the announcement of the NHS Test and Trace strategy which was then going to be implemented on 28 May. And we can see that you're one of the recipients of this e-mail.
+
+**Mr Oliver Munn**: Mm-hm.
+
+**Lead 7**: And essentially we just move through the policy. If we look at the punchline:
+
+"Punchline is that most of the big design questions remain unresolved -- with some pretty fundamental differences of view as to what this programme is trying to achieve, and by when."
+
+And then we can obviously see reference to the app. And:
+
+"It won't involve the app ..."
+
+So this is 18 May suggesting that the app wouldn't be involved.
+
+"... it won't be very good, but she [Dido Harding] thinks she has agreed with Chris and Patrick that it will be 'good enough' to begin with, if coupled with the JBC being able to implement effective ... measures."
+
+And again, if we go over the page -- the time doesn't allow to go through the detail of this, but if we go over the page, please, we see "Questions outstanding", and they include relating to strategy, speed and scale, fundamental questions about isolation, about -- then over the page -- asymptomatic contacts and testing, enforcement. And again in respect of the app on page 3. Questions about what was the hurdle to the app to make comfortable enough to launch it. And again over the page, questions around sort of further issues of testing and capacity.
+
+And so can you help us, we know that this is 18 May with some fairly fundamental concerns being expressed about the strategy of test, trace and isolate, can you help us understand this in the context of then what happened at the announcement on 27 May? Was test, trace and isolate at this stage in a very poor state?
+
+**Mr Oliver Munn**: Let me first say that I think this -- you were asking earlier about the role of the Cabinet Office vis-à-vis DHSC.
+
+**Lead 7**: Yes.
+
+**Mr Oliver Munn**: This is a wonderful example of the role of the Cabinet Office versus DHSC, which is to say the Cabinet Office asking difficult questions, including big-picture difficult questions, and tasking them to the DHSC.
+
+And you'll see in this email it's -- Tom Shinner writes:
+
+"I've agreed with Dido that if we give her ... seven days, they'll come back with that they think the answers are."
+
+Which is exactly the role that the Cabinet Office should and did play. I mean, it's clear from this email on 18 May that Tom Shinner, as well as others who he references, and I am among them, still had some concerns over whether Test and Trace was going to be ready to launch promptly. But to give full credit to Baroness Harding and her team, they engaged with these questions promptly and came back with answers, and there were a series of discussions over the following week which got us into a place collectively where we were happy to go ahead with the launch of the Test and Trace service on 28 May, just ten days later.
+
+**Lead 7**: Thank you.
+
+Now, there's two references to the app, and essentially this seems to be identifying that it was not going to be ready, but can you assist, then: when the announcement was made of NHS Test and Trace, and the public announcement on 27 May, it indicated that to complement the rollout there would be the NHS Covid-19 app that was predicted to follow in a couple of weeks or in the coming weeks, and we know in fact that it wasn't rolled out until 24 September 2020, so four months later.
+
+This email seems to suggest that the significant issues with the app were still not dealt with. Can you help as to why, then, it was expressly referenced as being almost imminent on 27 May?
+
+**Mr Oliver Munn**: I think by 27 May, apps had already been rolled out in various European countries, and the Prime Minister and the Health Secretary felt the need to say something about an app. But you're right: on 27 May, the app was not ready to go and it would -- as we know, it would take several more months for it to be ready to go, but I think ministers wanted to signal that that was the desired direction of travel and that we weren't ignoring what others were doing in other comparable countries and that we wished to make use of all the technology available to ensure an effective testing, tracing and isolation system.
+
+**Lead 7**: Can I ask you, was there not an issue, though, of public trust then in suggesting that the app was about to be rolled out in the next couple of weeks? Would it not have been better to be more open about the stage that the Covid-19 app was at, rather than, in the rollout of NHS Test and Trace, almost heralding that the app would be with us in a couple of weeks?
+
+**Mr Oliver Munn**: It's a good question and a question that comms professionals within Number 10 would have doubtless considered. I mean, I don't -- my memory is not good enough to know whether, on 27 May, we were clear how far away the app was. I think we all thought the app was going to come sooner than it did.
+
+There had been a successful trial on the Isle of Wight in April or May 2020, and so I think that, you know, if you'd have asked the average person within the Cabinet Office or Number 10 "When is the app going to come?", they wouldn't have said as late as 24 September, but I would say the Cabinet Office was -- broadly supported the principle of getting the app right before rolling it out, and you will see emails from Tom Shinner, from Ben Warne and others saying there was a very real risk of going live with an app that wasn't ready, that would lose public confidence, and you only really got one opportunity to launch it and drive take-up, and that if an app was rolled out prematurely that was unstable or not functional, that would destroy public confidence in the app.
+
+And just one thing I'll say is that the effectiveness of the Bluetooth app is proportionate to the square of the number of users. So you double the number of users, you have an app that's four times more effective. Hence it's incredibly important that you get high take-up. And that's why there was a real desire from the centre to ensure that the app was not launched until it was ready to go.
+
+**Lead 7**: Thank you. Can I briefly, then, ask you about just two paragraphs. There are others where Baroness Harding in her witness statement comments upon the role of the Cabinet Office.
+
+But please can we display INQ000587322, at page 21, please. That's INQ000587322, and it's paragraph 5.10.
+
+We're going to hear from Baroness Harding tomorrow, but because the Cabinet Office are referenced, I wonder if you can assist at all. We can see at 5.10, its detail, for example:
+
+"... NHS [Test and Trace] faced various difficulties in obtaining HMT and [Cabinet Office] approval for Lighthouse laboratories in the summer of 2020 ... and this meant that the approvals process for the expansion of the Lighthouse network took far longer than it should have in the circumstances. Had [NHS Test and Trace] had greater delegated procurement authority during this time, this would likely have reduced the capacity issues we experienced in the autumn."
+
+So can you assist, the criticism of the delay, then, in the later rollout of the Lighthouse laboratories, seems to be referencing difficulties in the Cabinet Office approval. Can you give us some context to whether that's accurate as to the assessment made by Baroness Harding, please?
+
+**Mr Oliver Munn**: Of course. In Module 2, Lord Sedwill, the former Cabinet Secretary gave evidence to the Inquiry, and I think he very aptly described the dual roles of the Cabinet Office. The first is to coordinate cross-government action on the Prime Minister's top priorities, such as Covid, and the second is to act as a shared service provider across government on things like digital, legal, commercial, HR, et cetera. And I think what you see here is the second of those.
+
+So I was in the Covid taskforce which was very much in the first of those, but there is a Government Commercial Function as part of the Cabinet Office that is charged with ensuring that departments follow commercial best practices and commercial rules in order to deliver the best possible value for money to the taxpayer.
+
+And I think what Baroness Harding is referring to here is that Test and Trace had to get approval from the Government Commercial Function and from the minister, who was Lord Agnew, for various spends, and that at times that process took longer than they'd have liked.
+
+What I will say is that the Government Commercial Function moved very quickly compared to its usual pace, very much took on board the exceptional circumstances in which we were operating, and was, broadly, very expeditious in getting approvals to Test and Trace but I think on these particular occasions there are some emails that suggest that Lord Agnew as the minister had some concerns and some questions that he wanted answering before he was willing to approve the sign-off.
+
+My Lady, I believe you've heard from Lord Agnew in a previous module and you'll know that he had strong opinions on these topics.
+
+**Lead 7**: Thank you. And then briefly can I take you to the next paragraph of Baroness Harding's statement, please. 5.11. It's detailed:
+
+"These challenges were further exacerbated by the inherently unpredictable nature of the pandemic. In December 2020, [NHS Test and Trace] was encouraged to move towards a more 'business-as-usual' environment and increase focus on value for money across the organisation (including in relation to procurement). Shortly afterwards, a new variant of the virus emerged which led to the standing up of new use cases such as the testing of hauliers at the border and of secondary school staff and pupils at very short notice and the need for a third lockdown. This meant that simultaneously [NHS Test and Trace] was being challenged by the Prime Minister to scale faster, and the [Cabinet Office] to slow down."
+
+Can you assist to identify in this time period, in particular, the Cabinet Office is seeking to slow down matters?
+
+**Mr Oliver Munn**: I think, per my previous answer, this is a reference to commercial approvals, and I think the exhibits that are attached to that, relate to some emails that Lord Agnew sent laying out his concerns about approving certain spend.
+
+**Lead 7**: Thank you. Can we then briefly, just to make sure there's absolute clarity about the ultimate responsibility for the development of testing, can we look at 3.47, please, in the INQ000587352 statement to which you're speaking at page 47. That's paragraph 3.47, thank you.
+
+Sorry, it's INQ000587352. Sorry, we're back into Jessie Owens's statement now, please. INQ000587352, at page 47, paragraph 3.47. Thank you. And we can move into page 47, please. Thank you.
+
+So just so there's absolute clarity as to responsibilities, we can see at paragraph 3.47 you detail that:
+
+"Under the leadership of the Executive Chair, [NHS Test and Trace] had the Prime Minister's full authority to deliver. Ministerial accountability to Parliament remained with the Health Secretary. Considerable freedoms and independence were afforded to [NHS Test and Trace] to expedite the delivery of testing and tracing. Baroness Harding was given permission to draw upon resources and expertise across government, to bring in external experts as required ... and all government departments were instructed by the Cabinet Secretary to provide any necessary support that [NHS Test and Trace] requested."
+
+And then the next paragraph, please. 3.48:
+
+"At the same time, it was important for the Cabinet Office to maintain a proportionate level of central oversight of work undertaken by [NHS Test and Trace] given its centrality both to the understanding the virus and the government's overarching strategy for managing the pandemic and easing restrictions."
+
+And so can we just have complete understanding of who ultimately was responsible for the development of an effective large-scale mass testing and tracing system?
+
+**Mr Oliver Munn**: Baroness Harding.
+
+**Lead 7**: Baroness Harding, from NHS Test and Trace?
+
+**Mr Oliver Munn**: Mm-hm.
+
+**Lead 7**: And can you assist, then, in terms of that sitting within the Department of Health and Social Care, as the Lead Government Department, how did that work?
+
+**Mr Oliver Munn**: Baroness Harding and all of the officials working within NHS Test and Trace were members of the Department of Health and Social Care. Indeed, they worked out of the DHSC building, they had DHSC email addresses. And in practice, they sent submissions to the Health Secretary and health ministers before making important decisions, but I think Baroness Harding will be able to describe the inner workings of Test and Trace to you better than I can.
+
+**Lead 7**: Thank you.
+
+Can I briefly touch upon Operation Moonshot, which was then the Prime Minister who made the announcement on 9 September 2020 about his desire for Operation Moonshot. It's your paragraph 3.91. I don't think we need to turn to it. But can you assist, then, as to why the Prime Minister was getting involved again in testing strategy, which ultimately had quite a number of people criticise the Operation Moonshot philosophy, and I think ultimately, from that announcement on 9 September, I think the tests that were identified that would have been part of Operation Moonshot effectively were used as part of the Community Testing Programme that came in in November of 2020, but do you have any observations from the Cabinet Office's perspective of the Prime Minister essentially making that Operation Moonshot announcement?
+
+**Mr Oliver Munn**: I think by way of context it's worth remembering that until vaccines came along very late in 2020, testing, tracing and isolation was one of the largest tools at the government's disposal, and it's absolutely natural and right that the Prime Minister should take a personal interest in it.
+
+I think the PM was very excited by the possibilities that large-scale testing using lateral flow devices offered. These would -- a technology that had been around for years but was only really proven to work for Covid at scale from autumn 2020 onwards, and he saw in that a huge tool in the government's arsenal for combatting Covid, particularly before vaccines arrived. So I think it's no surprise that he was keen to push NHS Test and Trace to move fast on the rollout of lateral flow tests.
+
+**Lead 7**: Thank you.
+
+Can we then, please, move to the topic of financial support briefly, please, and can we move to paragraph 5.18 at page 85.
+
+You detail at paragraph 5.18:
+
+"By mid-September 2020, with infections rising and evidence suggesting only a very low percentage (circa 20%) of those with COVID-19 symptoms in England fully complied with self-isolation guidance, and that rates of self-isolation by other household members and contacts were likely to be even lower, the [Covid-19 Taskforce] prepared advice for the Prime Minister recommending a carrot-and-stick approach to increasing compliance."
+
+We obviously know that the figure that was then arrived at subsequently was £500. Can you assist, did the Cabinet Office have a view on the -- whether £500 was an adequate amount of --
+
+**Mr Oliver Munn**: I think there's an important context to provide here. Ministers, including the Prime Minister, had been arguing for some time that they were keen to increase support for self-isolating people, both financial and non-financial support, that there had been a range of views across ministers on this topic I think it's fair to say, and it took some months of conversations at official level and at a political level, in -- to get alignment across government on what that would look like. And, eventually, a package that was acceptable to the Chancellor, the Health Secretary, and the Prime Minister emerged, and that was the package that is described in paragraph 5.18.
+
+**Lead 7**: Thank you. And are you able to assist how the needs of those from ethnic minority backgrounds were considered in decision-making respect to the provision of financial support for isolation?
+
+**Mr Oliver Munn**: Absolutely. Test and Trace, by the summer of 2020, was doing a lot of work to understand the barriers to self-isolation among groups of all types, with polling data, with follow-up calls to people self-isolating, asking them whether they fully complied, et cetera. And although NHS Test and Trace is best placed to answer this question, from my personal recollection I know that they really, you know, went into the data on what was keeping people from self-isolating, people of all ethnicities, people in different professions, different income levels, and so they built up a data picture that was able to move ministers towards alignment.
+
+**Lead 7**: Thank you.
+
+Then can we pick up, then, perhaps on that theme on inequalities and disproportionately impacted groups.
+
+Can we move, please, to paragraph 6.5 at page 93, where you detail:
+
+"The Cabinet Office's involvement in work to address inequalities in relation to TTI began early in the pandemic, prior to the establishment of [the Covid-19 Taskforce] and [NHS Test and Trace]."
+
+And so can you assist, the Cabinet Office provided guidance to the Department of Health and Social Care on the public sector of -- PHE as well as equalities insights regarding the potential impacts of TTI policies. How were the needs and concerns of those from ethnic minority backgrounds, including healthcare workers, factored into this?
+
+**Mr Oliver Munn**: The Cabinet Office was home to the Government Equalities Office that eventually emerged with some other teams to become the Equalities Hub, and I'd also add that on the establishment of the Covid taskforce, a team was established within that taskforce focused on disproportionately impacted groups. So there was a real focus at the Cabinet Office that then saw the appointment of Emran Mian as the senior responsible owner for disproportionately impacted groups. I know that you heard from him, my Lady, recently.
+
+So the Cabinet Office was very keen to share with DHSC and with NHS Test and Trace the expertise that the Department had on equalities questions, and to ensure that NHS Test and Trace took full advantage of the knowledge that was at the central government.
+
+**Lead 7**: Thank you.
+
+Now, if we just move forward, please, to paragraph 6.15 on page 98, please. And throughout 6.15 through to 6.20, you refer to the recommendations in the quarterly reports on inequalities, including to improve participation in the TTI system.
+
+Can you assist, were the recommendations from those reports implemented?
+
+**Mr Oliver Munn**: So I can't speak to those exact reports. What I do know, though, is that, following the pandemic, the government launched an Inclusive Britain action plan with 74 actions that I think incorporated many of these actions that had come from the quarterly reports during the pandemic. That action plan the government has been providing periodic updates against. The most recent of those updates was in May 2024 when it was reported that 62 of the 74 actions had been completed.
+
+I don't have an update since May 2024, but I can tell you that at that date the vast majority of the actions in the Inclusive Britain action plan were complete.
+
+**Lead 7**: Thank you.
+
+And then can I move, then, to lessons learned and recommendations for the future. The Cabinet Office has provided seven pages looking at lessons learning and recommendations.
+
+Can we please briefly look at paragraph 7.6, please, at page 103. Thank you.
+
+It details there:
+
+"A number of recommendations were made by [the Covid-19 Taskforce] strand of the project."
+
+And I think this is a project that followed
+
+following the spring of 2022.
+
+"One recommendation was to ensure equalities
+
+considerations were central to decision making from the
+
+start, and to identify those who may be
+
+disproportionately impacted as early as possible (eg
+
+multi-generational households), whilst recognising that
+
+disproportionately impacted groups will not always be
+
+the same cohort of people. Another recommendation was
+
+to create and maintain an overview of all pressures on
+
+local authorities and key delivery agencies related to
+
+the policies and decisions in question to ensure
+
+effective allocation of resources."
+
+Are you able to assist as to what specific action
+
+the Cabinet Office has taken since the review to
+
+implement this recommendation, and to ensure that equity
+
+is embedded in its decision-making processes?
+
+**Mr Oliver Munn**: Yes. I have three updates. Firstly, the National
+
+Security Risk Assessment methodology now includes
+
+a specific impact category on vulnerable people with the
+
+Cabinet Office having issued new guidance to departments
+
+in October 2024 to improve consideration of the
+
+disproportionate impacts that risks may have on
+
+different groups across a full spectrum of
+
+vulnerability.
+
+Second, supported by the ONS, the National Situation Centre has created a risk vulnerability tool to estimate the number of people who are vulnerable to negative impacts of national security assessment risks. It will be made available across government, including to the devolved administrations.
+
+And thirdly, lessons management best practice guidance, published last year on gov.co.uk, now advocates for a participatory approach to emergency management which considers the impacts of emergencies on individuals and builds community resilience.
+
+**Lead 7**: Thank you. And then finally can I take you back to 7.4, please, which deals with data and analyses at page 102. Obviously, data analyses was one thematic area reviewed as part of the Innovation and Lessons Learned Project. It goes on to detail that:
+
+"The report acknowledged that 'more interoperability between digital systems across government would improve the ability of the state to rapidly introduce new digital services."
+
+The Inquiry has heard quite a lot of evidence about issues of data blockages and with number of criticisms levied as against how data was managed within the Department of Health and Social Care and how that operated across departments. Are you able to provide
+
+any update of any work that's been done to improve data
+
+sharing or interoperability?
+
+**Mr Oliver Munn**: I'm afraid I'm not, but I do know that this remains an
+
+area that the government is focused on and that recent
+
+public statements have focused on the need to share data
+
+better across government, particularly in an age where
+
+AI and others tools are emerging.
+
+**Ms Cartwright**: Thank you, Mr Munn.
+
+Those are my questions, my Lady. There are no Core
+
+Participant questions that have been permitted.
+
+**Lady Hallett**: Thank you very much indeed, Mr Munn, and
+
+thank you, particularly having left the Civil Service,
+
+to return to the private sector to volunteer -- I assume
+
+it was volunteering, rather than anything else, to come
+
+along and help the Inquiry. I'm really grateful to you.
+
+**The Witness**: Very well.
+
+**Lady Hallett**: Very well, it is 10.00 tomorrow.
+
+**Ms Cartwright**: Thank you, my Lady.
+
+*(4.36 pm)*
+
+*(The hearing adjourned until 10.00 am the followed day)*
+
