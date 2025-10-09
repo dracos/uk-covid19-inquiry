@@ -191,7 +191,7 @@ def parse_transcript(url, text):
                     state = 'text'
                     speech.add_text(line.strip())
                     continue
-                if re.match(' *(MODULE 2[ABC])$', line):
+                if re.match(' *(MODULE [28][ABC]?)$', line):
                     # End of multi-line heading
                     state = 'text'
                     speech.heading += ' ' + fix_heading(line)
@@ -222,7 +222,7 @@ def parse_transcript(url, text):
                 continue
 
             # Multiline heading
-            m = re.match(' *(Response statement by LEAD COUNSEL TO THE INQUIRY FOR$|Opening statement by LEAD COUNSEL TO THE INQUIRY for$|Submissions on behalf of)', line)
+            m = re.match(' *((Response statement by|Questions from) LEAD COUNSEL TO THE INQUIRY FOR$|Opening statement by LEAD COUNSEL TO THE INQUIRY for$|Submissions on behalf of)', line)
             if m:
                 yield speech
                 state = 'adjournment'
