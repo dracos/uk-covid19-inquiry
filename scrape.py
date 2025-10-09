@@ -34,7 +34,7 @@ def fetch_hearings():
         i += 1
 
 def fetch_hearing_page(item):
-    link = item['guid']
+    link = item['guid'].replace('&#038;', '&')
     title = item['post_title']
     date = datetime.datetime.strptime(item['post_date'], '%Y-%m-%d %H:%M:%S').date().isoformat()
     #filename = item['post_name']
