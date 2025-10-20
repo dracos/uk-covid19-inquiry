@@ -889,7 +889,7 @@ My Lady, forgive me, this is important, and it's right that I say this before Ms
 
 **Lead 8**: -- is the reality of the situation. And I think it's also right that although that legal regime came into place in November 2020, that in fact Ofcom didn't start its regulation activities until 2021; is that correct?
 
-**Ms Kate Davies**: Yes. So in November 2020 it effectively became law in the UK, but what needed to happen, for real regulation to take place, was for us to consult and eventually produce final guidance for those services. We consulted reasonably quickly, so four months after the law, so in March 2021, and finalise that guidance in October 2021, which really kicked off proper regulation.
+**Ms Kate Davies**: Yes. So in November 2020 it effectively became law in the UK, but what needed to happen, for real regulation to take place, was for us to consult and eventually produce final guidance for those services. We consulted reasonably quickly, so four months after the law, so in March 2021, and finalised that guidance in October 2021, which really kicked off proper regulation.
 
 **Lead 8**: So in fact -- and we'll come to one of your reports shortly -- the period that you started, the first time really this area was regulated then, was from October 2021 --
 
@@ -979,7 +979,7 @@ So at this time, we didn't really engage in a lot of these questions in detail. 
 
 **Lead 8**: Yes.
 
-**Ms Kate Davies**: -- as part of the Online Safety Act, both on legal content and on the protection of children, they both point to evidence in this area. So the illegal harms register of risk points to the fact that children are more likely to be exposed to harm in this area, the specific self-harm and suicide harm that you've pulled up, and then the Children's Register of Risk pulls up that older children are the most likely out of children's ages group to be exposed to self-harm and suicide content.
+**Ms Kate Davies**: -- as part of the Online Safety Act, both on illegal content and on the protection of children, they both point to evidence in this area. So the illegal harms register of risk points to the fact that children are more likely to be exposed to harm in this area, the specific self-harm and suicide harm that you've pulled up, and then the Children's Register of Risk pulls up that older children are the most likely out of children's ages group to be exposed to self-harm and suicide content.
 
 **Lead 8**: Thank you, and we'll come to those --
 
@@ -1341,7 +1341,7 @@ There are various things you can do, essentially, and there were certainly at th
 
 **Lead 8**: Just coming back, then, and I think the research that Ofcom did during this period sets it all out, but again, as I think you've already alluded to, what this may -- in large part, but tell me if I'm wrong, it's probably children accessing sexually inappropriate sites, if they're doing this?
 
-**Ms Kate Davies**: I'm able to, yes.
+**Ms Kate Davies**: Able to, yes.
 
 **Lead 8**: And in terms of just coming back, then, to the point that you made originally about the research that Ofcom did during the -- particularly during the pandemic, setting aside time, there were then these other factors in the home --
 
@@ -1437,7 +1437,7 @@ Can I ask again whether or not this was quite a specific pandemic-related issue?
 
 **Lead 8**: Yes.
 
-**Ms Kate Davies**: So the one in 2024 was specifically related to our legal harms duties, so it covers things that do specifically impact on children such as grooming, that are illegal, and then the one in 2025 was a requirement for our protection of children duties.
+**Ms Kate Davies**: So the one in 2024 was specifically related to our illegal harms duties, so it covers things that do specifically impact on children such as grooming, that are illegal, and then the one in 2025 was a requirement for our protection of children duties.
 
 **Lead 8**: All right, and I'll come and ask you about the change in the regulatory regime, but those reports, as you say, really comprehensively analyse a whole series of risks to children that emerge from the online world, so to speak.
 
@@ -1483,7 +1483,7 @@ May I just ask -- and again, it was really just going back to the pandemic -- do
 
 **Lead 8**: Are we able to say whether, during the pandemic, that would also have been the position in terms of children being exposed to these sorts of algorithms?
 
-**Ms Kate Davies**: I would assume so. I mean, the technology changes over time but recommended algorithms were definitely in operation, so I would assume so.
+**Ms Kate Davies**: I would assume so. I mean, the technology changes over time but recommender algorithms were definitely in operation, so I would assume so.
 
 **Lead 8**: All right. What has changed since the pandemic is the advent of the online harms Act; correct?
 
