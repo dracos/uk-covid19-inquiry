@@ -191,7 +191,7 @@ def parse_transcript(url, text):
                     state = 'text'
                     speech.add_text(line.strip())
                     continue
-                if re.match(' *(MODULE [28][ABC]?)$', line):
+                if re.match(' *(MODULE [28][ABC]?)$', line) or re.match(' *INQUIRY for MODULE 9$', line):
                     # End of multi-line heading
                     state = 'text'
                     speech.heading += ' ' + fix_heading(line)
@@ -222,7 +222,7 @@ def parse_transcript(url, text):
                 continue
 
             # Multiline heading
-            m = re.match(' *((Response statement by|Questions from) LEAD COUNSEL TO THE INQUIRY FOR$|Opening statement by LEAD COUNSEL TO THE INQUIRY for$|Submissions on behalf of)', line)
+            m = re.match(' *((Response statement by|Questions from) LEAD COUNSEL TO THE INQUIRY FOR$|Questions from RICHARD WRIGHT KC, LEAD COUNSEL TO THE$|Opening statement by LEAD COUNSEL TO THE INQUIRY for$|Submissions on behalf of)', line)
             if m:
                 yield speech
                 state = 'adjournment'
@@ -248,7 +248,7 @@ def parse_transcript(url, text):
                 continue
 
             # Witness arriving
-            m1 = re.match(r" *((?!CCG)(?:[A-Z]|Mr)(?:[A-Z0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)\.?|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
+            m1 = re.match(r" *((?!CCG)(?:[A-Z]|Mr)(?:[A-ZÉÈ0-9'’ ,-]|Mc|Mac|Mr|and)+?)(,?\s*\(.*\)\.?|, (?:sworn|affirmed|statement summarised|summary read by ([A-Z ]*)))$", line)
             m2 = re.match(" *(Mr.*)(, statement summarised)$", line)
             m3 = re.match(r" *(Summary of witness statement of )([A-Z ]*)(\s*\(read\))$", line)
             if m1 or m2 or m3:
