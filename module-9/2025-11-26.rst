@@ -1,0 +1,1794 @@
+26 November 2025
+================
+
+*(10.00 am)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: Thank you, my Lady.
+
+Lady Coffey
+-----------
+
+*LADY THÉRÈSE COFFEY (sworn).*
+
+**Lady Hallett**: Thank you for coming to help us, Lady Coffey.
+
+**The Witness**: Good morning.
+
+Questions From Richard Wright KC, Lead Counsel to the Inquiry for Module 9
+--------------------------------------------------------------------------
+
+**Mr Wright**: Lady Coffey, you've provided a statement to the Inquiry dated 24 October of this year, and the reference of that statement is INQ000588238. And I'm going to ask you questions about your role as Secretary of State at the Department for Work and Pensions during the pandemic.
+
+I'm going to just set out for you, by way of overview, the nine broad areas that I would like to cover during your evidence, please, so you know the areas that we're going to turn to and the order in which we're going to deal with them.
+
+First, joint working, some questions about the relationship between your department at the time, the Department for Work and Pensions, and the Treasury.
+
+Second, to examine the Kickstart scheme and ask some questions about that.
+
+Third, Restart, which was another job support scheme.
+
+Fourth, Statutory Sick Pay. A few questions about changes to eligibility and then the rebate scheme that was introduced.
+
+Fifth, the overall Department for Work and Pensions strategy for supporting the economically vulnerable and alleviating hardship.
+
+Sixth, the decision to uplift Universal and Working Tax Credits.
+
+Seventh, issues of fraud and error related to easements that were applied to the application process.
+
+Eighth, some questions about the factoring in of, to decision making by the department, of Long Covid.
+
+And then finally, looking ahead, some questions about the future, recommendations drawing on your experiences during the pandemic.
+
+So that's quite a lot of ground to cover. We've got the morning and the session this afternoon, I'll try and move between topics around the breaks that are factored into the day. I'll also check in from time to time that you don't need a break, because as I say, there is a lot to cover. And I will signpost when we're moving from one thing to another.
+
+So the aim in the first session this morning is to cover at least the first three of those topics, and -- up to the break.
+
+So can I begin, then, with some questions about joint working and principally by that, I mean joint working between the Department for Work and Pensions the Treasury.
+
+You have described in your statement, it's paragraphs 17 and 18 of it, what you describe there as a particularly close working between the department and the Treasury during the pandemic.
+
+Then you say in paragraph 18 there, we see there that the Chancellor and the Treasury were more generous and agile than the regular status quo.
+
+A couple of questions arising from that. First of all, particularly close working relationship during the pandemic. Was that different to how the department worked alongside the Treasury in ordinary times?
+
+**Lady Coffey**: Well, in business as usual, kind of, more normal speed, there's a much more of a longer iterative process of how the two departments work together, particularly official level, for example -- for example the budget being prepared today for the current Chancellor, DWP officials would have been heavily involved and were at the time, in my time, with, for example, discussions with the OBR, trying to get things scored, and all of this is quite an iterative process.
+
+So what was needed, recognising the challenge, was much closer, much more rapid -- there'd be email chains flying all over the place, but one of the things that I think we sought to do was to try and condense some of that and at various points we talk about creating cells, so be much closer kind of discussions in order to able to help with the decision making, rather than email chains that are hugely extensive, but I mean, there was plenty of them anyway but we tried to make sure that we were walking in step.
+
+**Lady Hallett**: So would you say, then, that it was a process that meant that decisions could be made much more quickly than they normally would be?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: And would you say that the relationship was more open than it usually is between the Treasury and other departments?
+
+**Lady Coffey**: I think it's a good question about whether it was more open. I think it's fair to say that I arrived in September 2019, starting off as a new Secretary of State, it wasn't a general reshuffle, somebody had resigned and I went into the role. We had a few things along the way, then we had an election, come back really January 2020. So there was still quite a big learning period for me, as well, but these things had been going on, general processes, budgets, spending reviews. So there was a regular pattern of that interaction between the two departments but clearly this time we had to, due to the novel situation, we had to speed a lot of this up.
+
+So stuff that might have taken days or even weeks was taking potentially, at times, hours or a few days. But still rigorous in trying to make sure we could come up with good analysis.
+
+**Lady Hallett**: Was decision making essentially more direct in that there would be a direct communication between either ministers or at Secretary of State/Chancellor level, or --
+
+**Lady Coffey**: No, it still tended to go -- special advisers would be involved, the back and forth. So my conversations directly with Rishi were actually quite limited in certain ways, again, keeping effectively quite a formal process instead of an informal process. However, I'm just conscious as I say, people were working very hard, particularly in that early time to try and get rapid analysis back and forth.
+
+It's a classic way of how government works, stuff gets commissioned, you don't always get told what the endgame is. Sometimes perhaps, and it'll be my reflections, you know, give us the problem not just what you think the solution should be, so we can think about that, and avoid some nugatory work.
+
+But I think overall, people were trying to genuinely make good, well-qualified decisions.
+
+**Lady Hallett**: When you say "more agile than normal", do you mean by that that decisions were being made with more speed than was normally the case, and that there was more free thinking going on about how a problem could be solved?
+
+**Lady Coffey**: I think there was a bit more free thinking, and also normally -- and by the way, parts of these processes continued in the regular run of things throughout the two years this Inquiry is covering. You'd have back and forth, making your requests at budget or spending review. You'd produce the analysis, you'd have to basically try and justify, and that's when you would end up having a meeting with the Chancellor or the Chief Secretary to the Treasury to basically have a bit of a kind of face-to-face on why this really mattered, minister to minister.
+
+So this is, as -- I'm not trying to say the Treasury aren't agile, they are, but I think it was more dynamic, and that was helpful in coming to shared understandings on situations.
+
+**Lady Hallett**: And you also said --
+
+**Lady Coffey**: By the way I also -- sorry --
+
+**Lady Hallett**: Not at all.
+
+**Lady Coffey**: -- I talked over you.
+
+**Lady Hallett**: Not at all. You finish.
+
+**Lady Coffey**: One of the things I tried to do in my time as Secretary of State was to give my officials more confidence that they were actually the experts on a lot of stuff that he was doing, and to be more confident in that in their dealings with the Treasury.
+
+The Treasury is a classic in terms of they have to approve the spending. That's fine. So they should. But we should also -- they may not have the variety of experience that DWP has had in its interactions with its customers and wider elements. So, just being a bit more pushback on some of perhaps assumptions that Treasury officials had jumped to, and showing why that may or may not be the case.
+
+I'm talking quite generically, but it is that element of not just taking what the Treasury says as gospel.
+
+**Lady Hallett**: Do you think, then, that the need for speedier working in government that the pandemic brought about brought closer together those who were funding government activity, the Treasury, and those who were responsible for delivering it, in the department, so it bridged that gap between delivery and funding?
+
+**Lady Coffey**: Well, I think it was an experience that almost required that to happen. I'm a great believer in sharing as much as possible, rather than trying to hold or hide, because if one side of the argument doesn't understand why this matters to you, and the back-up of why you're doing it, then you can understand when they get a bit defensive. So I just tried to change that element of culture in our thinking of how we interacted with the Treasury.
+
+It's not a criticism of DWP beforehand, far from it, but I think it's just aspects of my level of experience in business of how you try to come to the best outcome. But, yeah, I'll give credit to both my department and Treasury on trying to work this through.
+
+**Lady Hallett**: And more generous than normal is also how you describe the Treasury.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Now, I don't imagine you mean, by that, that they were just giving out lots and lots of money that they wouldn't normally hand over. What were you meaning by that they were more generous than normal?
+
+**Lady Coffey**: Well, I think they were prepared to look at things again which had been ruled out, to my understanding, like changing the Local Housing Allowance rate. That very quickly became a straightforward way to get more money to people straight away, about a billion pounds, helping many households across the country.
+
+Now, I think if it hadn't been for Covid, I don't think we would have got that change. But this was a straightforward way to try to put some more money into people's pockets.
+
+**Lady Hallett**: Yes, okay. Thank you.
+
+And you go on in your statement to describe that you discussed with the Chancellor, and then established, a cell, as you -- essentially, between the Treasury and your department, which put together a small group of officials -- it was paragraph 9 of your statement -- a small group of policy officials from your two departments that could collaborate and work closely together.
+
+So, first of all, should we understand that was something that didn't exist before?
+
+**Lady Coffey**: Correct.
+
+**Lady Hallett**: Yes. And what was the advantage of working in that way, so far as you were concerned?
+
+**Lady Coffey**: We had a smaller group of people who were able to interact within minutes or exchanging work very quickly. And that was useful. It was also an element of confidentiality. As I say, you've already seen to some extent some of the email chains that result, which can end up being pages long. And this way I think the relevant issues could be kind of a small group of people. Instead of advice taking quite a long time to come up to ministers, by having our Director General Jonathan Mills involved, able to do that very quick communication.
+
+It's like: this is what we're thinking about, where are you on this? And back and forth.
+
+So I think it's fair to say I found that very useful. And I think the Chancellor, my understanding is he found it very useful as well.
+
+**Lady Hallett**: Okay.
+
+We -- or the Inquiry has received evidence about the policy partnership that exists and has existed for a long time between the Treasury and Revenue and Customs. There wasn't a formal policy partnership between the Treasury and the Department for Work and Pensions. Were you aware of any efforts to try to establish a similar arrangement, or is the cell that you've spoken about as close as it came, essentially?
+
+**Lady Coffey**: Well, I think, taking a step back about the machinery of government, in 2005, HMRC was formed by legislation and it brought together Inland Revenue and Customs & Excise, but the key difference of that to other departments is HMRC was a non-ministerial department, and that's done deliberately so that Treasury could not get involved in effectively individual tax cases. So that partnership was already there, because in other normal circumstances, apart from that concern about personal confidentiality and not allowing ministers to interfere, if it weren't for that specific reason, I don't see any reason why it wouldn't be part of Treasury anyway.
+
+So they're just interlocked, candidly, and actually in the Coronavirus Act, Treasury took a power to be able to issue ministerial directions to HMRC, very specifically so they could just get on and make decisions quickly instead of it going through their process.
+
+So I think it's a particular situation, and there's a formality. Throughout lots of Covid one of our challenges at times was having to agree memoranda of understanding with other arm's length bodies in different departments, which was a bit of a pain, candidly, but this allowed them, this ongoing relationship they had -- it wasn't a surprise to me. It was just business as usual for them.
+
+I think more broadly, we already had in effect an element of policy partnership because of our considerations and our ongoing fact that we, our department was responsible for distributing billions of pounds to over 22 million households.
+
+**Lady Hallett**: So would your view be, then, that the policy partnership is unique as between the Treasury and the HMRC, because the relationship between those two organisations is unique within government with HMRC being a non-ministerial department and given its function?
+
+**Lady Coffey**: I think that formality of what's called a policy partnership is due to that government structure.
+
+**Lady Hallett**: Yes. Can I just pick up on one discrete issue arising from joint working with the devolved administrations.
+
+**Lady Coffey**: Sure.
+
+**Lady Hallett**: And that is, in particular, with the Welsh Government. There's evidence received by the Inquiry that the Welsh Government was seeking access to Department for Work and Pensions data on Universal Credit. And it took some time for that to be resolved, but it was then resolved. Were you aware of that as an issue?
+
+**Lady Coffey**: Well, I'm conscious, I'm trying to remember if it was specifically Wales. Because of the way our benefits systems work, we had a much closer relationship principally in terms of the benefits side with the Scottish Government, because the (Scotland) Act started to devolve benefits and we operated this on their behalf and we already had a particular relationship with Northern Ireland. So our interaction with Wales when it came to benefits was different because the Welsh Government had no powers over it at all.
+
+Now, more broadly, and I know the department was actually very protective of its data because we're dealing -- we were dealing with some of the most vulnerable person in our country, so we're quite careful about how that information was released to others. So it wouldn't surprise me if that had taken a bit of time to sort out, and what level of data people were looking for in that regard.
+
+We didn't want to risk any kind of data breaches, so there's an element that my department will have gone through on trying to verify how they would be using and holding the data.
+
+**Lady Hallett**: Is there any learning that could be drawn from that in terms of data sharing in a future emergency?
+
+**Lady Coffey**: I think there probably is, and it's not unique to that situation of sharing. I think setting out expectations early on would probably help on how some of that could be -- well, in what format it could be given out and at what level, given that we do generate quite a lot of statistics already.
+
+So what I don't know, Lady Hallett, is what level of data the Welsh Government were actually asking for. So without knowing that specific -- undoubtedly data sharing with -- in government has got more straightforward, but we did have issues, for example, dealing with the NHS as another example.
+
+**Lady Hallett**: Okay, thank you.
+
+Thank you, Lady Coffey, that completes my questions on that first topic, so I'm going to move to the second broad topic, which is Kickstart. Before I get into questions about Kickstart specifically, can I just pick up at this stage a few questions about the principles of good policy making generally for government.
+
+And I'm sure these, or I hope these won't be controversial. Do you agree, first of all, there's a need to have clear goals? So clear objectives of policy that are identified?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: That those should be evidence based. So evidence should be informing policy?
+
+**Lady Coffey**: Well, sometimes you need to be novel. So I think being prepared to understand your objectives and where you're heading, and how you might evaluate that along the way, and be agile, is important. Sometimes you don't have the evidence in policy formation, you've got to set out a supposition and then adjust accordingly if it's not meeting what you're expecting.
+
+**Lady Hallett**: Okay. Subject to the need for confidentiality of the type you've referred to, with personal data, have you found that open consultation with key stakeholders is an important part of policy formulation and implementation?
+
+**Lady Coffey**: So I think regular conversations with stakeholders or -- we also use data in DWP of things like the Family Resource Survey, to give us a sense or picture. It's actually one of the things that during our wider work, which we may get on to later, I wanted to increase the survey size so we could get a more -- starting to get a more granular level of understanding what was happening in various parts of the country. So you just have to bear in mind what is your survey based on.
+
+But being a Member of Parliament at the time, you do have a different -- and all the other MPs talking to you -- you do have a sense of what is happening and where you might want to think.
+
+I'm not sure -- sorry, I'm probably taking us down a segue but you get to in engage with stakeholders in a number of ways when you're a Minister and Member of Parliament, and so I think having multiple sources, but you can't judge by anecdote.
+
+**Lady Hallett**: No.
+
+**Lady Coffey**: And that's the key thing that we need to work out what senses might be going on through anecdote, but then try and take that away and understand: is that really an issue in this regard?
+
+**Lady Hallett**: It's important, isn't it, to have a focus in policy making in terms of implementation --
+
+**Lady Coffey**: Mm.
+
+**Lady Hallett**: -- so how you're actually going to deliver the policy; would you agree with that?
+
+**Lady Coffey**: I certainly do.
+
+**Lady Hallett**: And in terms of policy going forwards, there needs to be an iterative process, in other words it's important to monitor how a policy is landing, to have a process of evaluation, and to make adjustment over time, if necessary?
+
+**Lady Coffey**: Yes, I agree.
+
+**Lady Hallett**: Yeah.
+
+So can we turn on to Kickstart itself. Now, Kickstart as a scheme, as the Inquiry understands it, was part of the Treasury's Plan for Jobs that was announced on 8 July 2020, and it was described by the Treasury in correspondence with your department as a "flagship policy".
+
+Can you just explain to us, please, what the Plan for Jobs was and where Kickstart fitted into that plan.
+
+**Lady Coffey**: Well, Plan for Jobs was actually an umbrella term for a series of departments coming together to try and get people to stay in work, to get into work, thinking of skills. So the Department for Education was involved in different ways. We clearly were. And working with the Treasury as well. So Kickstart in particular, one of the big concerns that the Chancellor -- that Rishi and I shared was about the effect potentially of this pandemic on young people, and to try to avoid economic scarring. So that was a key element of thinking about people newly or recently into the jobs market.
+
+So the Kickstart was a different sort of scheme which -- there'd been a similar scheme, through the Future Jobs Fund after the financial crisis, but we saw this as an opportunity to put a significant investment into young people as well as the other job schemes which came as well, Job Finding [Support], JETS, Restart and so on, SWAPS, all these different things, in order to try to have a more tailored approach, thinking of the cohorts of people that we were trying to help.
+
+**Lady Hallett**: And you mention there the Chancellor and you had this concern about young people and the dangers of scarring on them economically. And so it's right, isn't it, that the department, your department, and HMRC worked closely together on the design --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- of Kickstart?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: And in government spending terms, it was an expensive intervention, on a per head basis?
+
+**Lady Coffey**: Yeah. So I think the budget ended up being roughly £2 billion.
+
+**Lady Hallett**: And I think it was estimated to be about £7,000 per head, so per person who was assisted by the scheme, was being spent. Now, in terms of job support, that sounds like quite a lot of money to invest. Is that how you viewed it?
+
+**Lady Coffey**: I saw it as a way to help ...
+
+So, the economic scarring, there's good evidence that shows that if young people in particular don't get into work, it gets harder and harder for them to get a job. So, trying to facilitate that was, I think -- there was a business case put together, there was all sorts of evaluations done. This is why during the process we looked at different aspects of unit costs that we were prepared to give to help facilitate this, but overall we used the basis of a Future Jobs Fund on thinking about so many hours per week to -- that we would pay for.
+
+So my impression is, or the expectations were, it was going to be good value for money. And I believe that's what the evaluation later showed.
+
+**Lady Hallett**: And it was a plan that had four core objectives that you've set out in your statement at paragraph 214 but I'll just give them to you to assist.
+
+As you've said, it was focused on the 16-24-year age group, so young people. And it was designed to improve their employability and chances of sustained employment for those who had been at risk of long-term unemployment. So that was the first objective; is that right?
+
+**Lady Coffey**: Yes, and it was different to the Future Jobs Fund, because we wanted wraparound support so people would spend some time getting that extra bit of help, in effect thinking about being job ready for what the next job could be.
+
+**Lady Hallett**: Secondly, was it also focused on the creation of jobs? So this wasn't just about matching young people to jobs that already existed, but it was about trying to support the creation of new jobs in the economy?
+
+**Lady Coffey**: Well, one of the very clear criteria by the Treasury was about additionality. What we wanted to avoid was that people would be laid off and then employers taking people on basically for free, to them, because that wouldn't have been very sensible. But I think it was -- gave itself the opportunity to open up whole areas of employment for young people that traditionally they might not have got into. So -- with candidly quite low risk on behalf of the employer.
+
+**Lady Hallett**: The third objective was to make sure, as you put it, that there was a quality experience for participants, so that the placement was one that delivered that quality experience; is that right?
+
+**Lady Coffey**: Yes. I think that's what we were hoping to do.
+
+**Lady Hallett**: And then also, finally, it was a policy designed to incentivise positive behaviour amongst placement holders. So, making them attractive to future employers. Was that the other objective?
+
+**Lady Coffey**: Yes. Here was somebody hopefully getting a future job, will have done several months of work, had turned up on time, done the work effectively, had learned as they went along. So these were all substantial benefits.
+
+**Lady Hallett**: And thereby became more attractive when they applied for another job, because they had that experience, they'd got into the habit of work, of being there on time --
+
+**Lady Coffey**: Yeah, exactly.
+
+**Lady Hallett**: -- of turning up and doing a good job?
+
+**Lady Coffey**: Mm.
+
+**Lady Hallett**: Yes. So, putting all that together, that was all designed at trying to reduce scarring by unemployment on that sector of young people; is that --
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: Thank you. I think the Chancellor of the Exchequer had a very keen interest in job creation schemes; is that fair to say?
+
+**Lady Coffey**: I think he wanted to try and -- his broader approach, and this was true of the furlough scheme, was -- we didn't know how long this was going to last. The then Prime Minister was hopeful that we could get through it by the summer but we had to anticipate it could go longer than that, and I know Rishi in particular was very keen in thinking of aspects of the furlough scheme, or how it was explained to me, I should say -- I shouldn't speak for him -- of trying to keep connections between employers and their employees, but also to try and do whatever we could, because there were still jobs available, and although certain jobs closed down, how we were able to redirect people or get them to go into sorts of different potential careers which was there, and Kickstart was there for people who didn't really have very much experience of work at all.
+
+So it's -- it was a -- in terms of job creation, I don't know if particularly it was about trying to -- we did think about how we helped certain sectors more on other programmes like JETS, where we were strategic on what we were trying to do with aspects of that. But on this one, it was just trying to get some people into work.
+
+**Lady Hallett**: I'm just going to ask for a document to be put on the screen, please, INQ000592948, which is part of the Kickstart policy experience guide. And just pick up on that middle paragraph initially.
+
+It says that:
+
+"Initially the DWP Secretary of State ... was hesitant about the benefits of job creation schemes ... [Treasury] colleagues indicate the Chancellor was keen to explore further," and sets out the objective.
+
+First of all, do you recognise that as being your position initially, that you were hesitant about the benefits?
+
+**Lady Coffey**: I don't, and I think Katie Farrington puts it in her evidence later, or covers it in her evidence. What I didn't want to do was to have just an identical replication of the Future Jobs Fund scheme where we gave money to some councils, some charities, some other organisations, and, like "There you go."
+
+It was -- we were looking at this as a basis and it's just, like, I really want the private sector involved, I want proper jobs, not just stuff to keep people busy for a day. This has got to be meaningful in that regard. So I don't agree with that assessment of what I was thinking at that time.
+
+**Lady Hallett**: Would this better reflect what you were thinking, which was: I would be hesitant about another scheme that did what was already being done, if this was something different, and actually produced quality, then I'd be supportive of it? Is that effectively -- was that your position?
+
+**Lady Coffey**: I think -- I can't specifically recall that exactly. I do recall general discussions about: here's the playbook from last time, start off with this. And it's just like, well, I don't want to do exactly what we did last time; I want to create real jobs.
+
+**Lady Hallett**: Yeah. Okay. Thank you. You can take that down.
+
+You say in your statement that you felt that elements of the policy design were overengineered, and that there needed to be greater flexibility, and I'd just like to explore with you what you meant by that. In what sense was the scheme or the policy overengineered and what greater flexibility were you looking for?
+
+**Lady Coffey**: Well, one of the things I did pretty quickly in contrast to the Future Jobs Fund was remove the community element, which had been part of FJF, which had basically excluded most private sector.
+
+When we got into, later into understanding some of the flow of what was happening with Kickstart, aspects of things like whether a job was additional or not started to get quite complicated, overly complicated, and that's where I felt at times we were overengineering, instead of trying to do something more straightforward, more simple, that actually, businesses applying to give jobs could properly understand.
+
+So I think that's an element of where overengineering, from my recollection, will have happened.
+
+**Lady Hallett**: And as the scheme developed, do you think you were able to overcome that overengineering that you were concerned about?
+
+**Lady Coffey**: Definitely. The -- I also got one of my other ministers involved, a lady called Baroness Debbie Stedman-Scott. She'd had many years of experience running a jobs-focused charity called Tomorrow's People and getting people into work, and so using a combination of our strengths, we were able to do some deep dives, workshops, really trying to get into, look, we've got lots of jobs being offered, we're turning down a lot of these jobs, especially coming from the private sector. Why are we doing that? So we started just having to be agile because we weren't achieving some of our original objectives and it needed assessing.
+
+**Lady Hallett**: So as far as you were concerned, did you find that as the scheme developed, it continued to be, or it continued to evolve, so it did become more flexible?
+
+**Lady Coffey**: Well, I think we managed to fine tune it. We put this together at pretty short notice, officials had told us this would -- initially it would take well over a year. Well, frankly, there wouldn't have been much point to it waiting over a year for our purposes of trying to get young people into jobs. So I'm not going to shy away from the fact it may not have been perfect when it started, but it started off, we were getting people, employers signed up. We did get people working in November. So we got it going. And like a lot of things during that time, you just need to check, is it working to its full intention? If it's not, what is it that's going wrong?
+
+And I felt I was able to use the strengths of my own business experience, my lead NED, non-executive director, special adviser, other ministers to really try and just constantly looking for constant improvement to it.
+
+**Lady Hallett**: Obviously you didn't want the scheme to take a year to stand up but looking on the other side, did you feel the Treasury was pushing too fast for the scheme to be introduced so that there was a risk the other way, that it wouldn't be well designed?
+
+**Lady Coffey**: No, I agreed that we needed to try to get this moving. I kind of knew that it would be quite tight, and ... but I used to say this a lot in DWP, let not perfect be the enemy of good. It's true in quite a lot of government. Something can be wonderful but actually, if nobody takes it up or does it, then it ends up becoming somewhat nugatory. So I think there's a lot of -- and especially given the dynamic situation that we were experiencing during Covid, I think it was important to try to get something going, get the young people working, and, you know, the feedback from them through a variety of surveys was generally very positive about their experience.
+
+**Lady Hallett**: I'm just going to ask for a couple of sections from the statement of Mims Davies to be brought up, which is INQ000661480, and paragraph 58 in particular at the bottom there.
+
+Her reflection was that:
+
+"... there were differences in perspective between [the Treasury] and DWP at times, particularly around pace and delivery expectations", and they were addressed constructively.
+
+Can you help us as to, first of all, whether you agree that there were differences in perspective between the Treasury and the DWP?
+
+**Lady Coffey**: Well, it wouldn't surprise me at official level, and Mims, as Minister for Employment would have been involved in this, that, it's like, "Can we really get this launched by September?" Whereas it wouldn't surprise me if somebody from Treasury had said, "Why can't we launch this next week?" I mean, I'm perhaps para -- being somewhat in my hyperbole, you do this, and it does take time, and when I was initially told, "Oh, ideally, Future Jobs Fund took over a year to do", it's just like, "We haven't got time for that." So we had to move at pace. And I supported, in my discussions with the Chancellor, what I thought was reasonable to get to a starting point.
+
+**Lady Hallett**: And if I could have up, please, INQ000655306.
+
+This is a letter to Katie Farrington, is that right, we can see there?
+
+And it says in that top paragraph:
+
+"As you know, Kickstart is the flagship policy in the Government's Plan for jobs and it is a priority of the Chancellor's to ensure that the scheme is delivered effectively and urgently. It is critical that we maintain this momentum ahead of the scheme's launch."
+
+So that appears to be push coming from the Chancellor directly that this has got to land urgently. Did you share that view that there was an urgency about standing the scheme up?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: And I think if I could have back up, please, back to Mims Davies's statement, back to INQ000661480, paragraph 141, when we've got it up, so this is at page 41, I think. Mims Davies there:
+
+"... the Kickstart Scheme was [delivered] at pace and launched as a minimum viable product to ensure that support was available for young people in uncertain and unprecedented times."
+
+And then in the middle of that paragraph:
+
+"The Secretary of State" -- which is a reference to you, I believe, Lady Coffey -- "had made clear that it was non-negotiable that there should be young people starting Kickstart jobs and they should be given priority at the beginning of November 2020."
+
+It then goes on:
+
+"The approach to delivery was designed to manage this risk: Kickstart was to be launched as a minimum viable product with all elements in place for jobs to start by November 2020."
+
+That appears to be you sharing the urgency of the Chancellor that this needs to be stood up --
+
+**Lady Coffey**: That's right.
+
+**Lady Hallett**: -- and we've got to get people into these jobs by November 2020 at the latest.
+
+**Lady Coffey**: That's right. I think we had a launch event at Canary Wharf very early September, and so it had been announced by the Chancellor as part of his statement, and we had a lot of interest and we wanted to show that we were open for business.
+
+**Lady Hallett**: Yes, to put November 2020 into a bit of context in the pandemic, November 2020 had been the time at which the Coronavirus Job Retention Scheme, as initially implemented, was due to end. Was there a fear, therefore, shared by you and the Chancellor that there would be a rise in unemployment potentially if the scheme had ended in November 2020, and that's why there was a need to have this scheme stood up and ready to go, to combat that?
+
+**Lady Coffey**: So I don't recall exactly, but we were concerned about potential youth unemployment, yes. A lot of this was on this wider element of trying to -- how we get economic growth coming back into the economy as quickly as possible, you know, with the hope, desire, of trying to recover almost immediately from Covid.
+
+So if the furlough scheme had ended then, if everybody was going back to work like normal, then there wouldn't be, necessarily, those brand new jobs. So having further opportunities, in particular for young people, to get roles was important. In my mind right now, I can't definitively say that it was linked time-wise to the end of furlough, but it may be that it is, and it's in a document somewhere where -- where it is.
+
+**Lady Hallett**: I think, in fairness to you, it's paragraph 299 of your statement.
+
+**Lady Coffey**: Apologies.
+
+**Lady Hallett**: Don't worry, it's a very significant statement. And this isn't a memory test, so that's why I'm trying to help.
+
+**Lady Coffey**: Right.
+
+**Lady Hallett**: But you do reference there the fact that furlough was initially going to end in November of 2020, and that there was this concern, therefore, that there would be a rise in unemployment at around that time.
+
+**Lady Coffey**: Apologies, yeah.
+
+**Lady Hallett**: Okay.
+
+And you go on elsewhere in your statement to observe that your officials had initially been telling you this will take between 11 and 15 months to design and stand up as a scheme, but in fact, you -- the department had it stood up by November of 2020. How was that possible? Were there trade-offs in terms of scheme design, or does that reflect the sort of agility of -- and the speed at which decisions could be made when things were urgent and needed to be done?
+
+**Lady Coffey**: Agility and drive, I would say. Can you imagine as a work coach what an exciting moment it would be for that person to help them get into a great job? Our work coaches are really driven people. It's very exciting to get money from the Treasury to pay for new jobs, that you can help that young person hopefully get a great experience and, importantly, six months of guaranteed work. And that job security is actually a really important element of why Kickstart mattered in particular for young people.
+
+I remember going on a visit to one of the M&S schemes, and it's this young lady, a graduate, and I said, "Oh, why have you come on Kickstart?"
+
+And she said, "Well, I'm very keen to get into retail."
+
+She said, "All these other jobs are laying people off, so M&S will naturally take on people who have already got experience in retail. Here there was this great scheme where I got to work for a leading company in retail, got their HR, got all these other things."
+
+And she said, "I really hope now this can kickstart properly" -- she used the phrase -- "kickstart my career with this."
+
+And the six months was also a key thing, she said, because classically when you're trying to get jobs people might be taken on for just three months or -- if that.
+
+So that was an important element of trying to help young people, and a genuinely exciting time for the department.
+
+**Lady Hallett**: We saw in Mims Davies's statement that was put up on the screen it being described as a "minimum viable product" at the time it was implemented. I just wondered if, first of all, you could tell us what you understand by that and whether you agree with that as a description?
+
+**Lady Coffey**: Well, I think -- it's fair to say I think's a terminology created by the department. There's different levels of what kind of systems you would have gone through, in terms of checking, X, Y, Z -- you know, on Restart, which we'll come on to later, that did take over a year -- go through a lot more iterations, and trying to avoid having to make adjustments.
+
+So, from my perspective, I felt it was a good product on which to start, absolutely. And if -- if -- we needed to make changes, then we could.
+
+**Lady Hallett**: So, get it started, and refine it as it goes if we need to?
+
+**Lady Coffey**: If we need to.
+
+**Lady Hallett**: Yeah. So we've got at least the minimum that we can get started and, if we need to, we can tweak it along the way, rather than spending 11 to 15 months delivering a perfect product --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- that wouldn't need any adjustment that could be foreseen? It was that, really --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- the trade-off?
+
+**Lady Coffey**: An element of that, but it is about grasping the moment.
+
+**Lady Hallett**: I'm just going to ask that INQ000657741 is put up, please.
+
+This is paragraph 150 of the statement of Katie Farrington, page 46. Or it isn't.
+
+That's not what I was expecting on the screen, so let's not worry about what's on the screen.
+
+**Lady Coffey**: Of course.
+
+**Lady Hallett**: Something had to go wrong.
+
+Let me just ask the question. Katie Farrington says in her statement -- now, she was the senior responsible officer, I think it is, the SRO, for Kickstart. And she makes this point about the link between -- ah, there we are. It's paragraph 132.
+
+She says this:
+
+"During this time, we were expecting the lockdown and the furlough scheme both to end in November 2020. We did not know that the furlough scheme would be extended and that there would be successive waves of lockdown affecting the labour market. Had we known in advance that the furlough scheme was going to be extended in November 2020 and that there would be further lockdowns in October 2020 and January 2021 which would disrupt the labour market, we might have recommended to Ministers to take longer in designing the scheme and to introduce it later."
+
+So this is linking the timing of the implementation of the scheme with lockdown, and saying essentially that officials might have said, "Well, let's take the time now."
+
+Where would that have sat with you at the time, as advice? Would you have taken the view that, no, let's get this stood up now and refine it as it goes? So, let's run with the minimum viable product?
+
+**Lady Coffey**: Absolutely.
+
+**Lady Hallett**: And why would you have held that view?
+
+**Lady Coffey**: Well, going back to the element of overengineering, you've got a novel situation, you've got an offer of significant amount of support from the Treasury, at the personal, kind of, level of the Chancellor, who, while that money was allocated, he very specifically had said there'd be no cap. If this was a huge success, he'd put more money into it, if it was needed.
+
+And I didn't feel that we needed to go round -- we had a fairly basic product. We would pay employers 25 hours. We would do -- taking some of this from the Future Jobs Fund. I'm not entirely sure how much more, although we might have been in a better place on trying to perhaps getting some of the management reporting going. We might have had more ministerial involvement perhaps. Actually, I shouldn't overspeculate, I would have wanted to go for it, because by that time a lot of young people would have been unemployed already for a few months, so we needed to still get going.
+
+**Lady Hallett**: Can I just interrupt there.
+
+I don't actually understand -- I appreciate you didn't write the statement it's not your words. I don't understand the link being made here between the furlough scheme being extended, which was all about people who were already in jobs and therefore had to be put on furlough, with the Kickstart scheme. I can understand the more lockdowns, that seems to make sense, I'm just not understanding why she's making the link.
+
+**Lady Coffey**: I think it's probably an element of would there be job opportunities because people would have -- if the furlough scheme comes to an end, I think that -- I'm at risk of speculating now -- that Covid was over and people would just go back to work, and the economy --
+
+**Lady Hallett**: -- (overspeaking) -- oh, I follow, yes.
+
+**Lady Coffey**: Yes, so that's possibly where it's coming from. I think -- forgive me, it's quite a few years ago and I'm trying to remember the intricacies of some of our --
+
+**Lady Hallett**: I shouldn't encourage speculation.
+
+**Mr Wright**: Was there not also a concern, though, that when the furlough scheme ended, not everybody who had been furloughed would go back into their job, that some employees would then make people redundant because they were no longer being supported by the government in paying their wages, so there would be an increase generally in unemployment at the end of the furlough scheme and that would put pressure on young people?
+
+**Lady Coffey**: That could be a consideration. As I say, my understanding of the furlough was to try and lock in where -- employers to employees in a ready way. I mean, not every employer took advantage of the furlough scheme so it would vary significantly, I think.
+
+**Lady Hallett**: You say in your statement that the indicative target for Kickstart was to achieve a quarter of a million placements, 250,000 placements is what you were hoping to achieve.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: But ultimately, 168,000 young people started a Kickstart job. Now, that's obviously 168,000 young people who had that opportunity, but it's some way from the quarter of a million that was anticipated. Why do you think the uptake was lower by that magnitude from that which had been expected?
+
+**Lady Coffey**: So I think a few things did happen during that time. We did have the lockdown. So there was a bit of a stop-start situation, which -- perhaps if I take a step back. When we opened up the Kickstart, the officials had said to me there's no way they could cope with individual applications. They wouldn't be able to process that. And I'd said quite clearly: I want us to get to a point where people can do -- just say, "I want to take on one Kickstarter."
+
+So we found a way using what we call Gateways, but we also found a number of employers took on saying, "Right, I want 30 places" but we accepted it wouldn't -- it might come in waves of them taking people on.
+
+So I didn't want us to particularly go over the allotment of jobs available, or jobs we'd allocated money to, in effect, but then we started to see, in our information data: so and so has said that they will take on 90 people and they've taken on five. So there's a balance of what we had to get back into and we started to develop something later about use it or lose it.
+
+So I think aspects of having put that initial barrier in, or hurdle, I should say, we came to realise that we should have been placing more people but actually the employers, despite saying they'd take on however many people it was, or a Gateway taking on a thousand people or, an employment agency through Gateway Plus, they weren't actually taking the numbers.
+
+So then we had to work through why wasn't it that they weren't taking on the young people, grant agreements weren't coming back, or ... So it took quite a lot of, the take-up quite early on in the scheme was quite small, so then this -- we had a series of deep dives, workshops, looking at the monitoring, the weekly monitoring, to try and make sure we increased the take-up of roles.
+
+So I think it's a combination of factors.
+
+**Lady Hallett**: One of the other factors that you mention in your statement at paragraph 271 is that in some areas of the country, there were more vacancies than there were eligible --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- young people to take up those vacancies. So was there a geographical difference, depending on where you were in the country in some instances?
+
+**Lady Coffey**: So there was definitely some mismatches. So I used to represent Suffolk, it turns out that we, when I started looking at this in more and more detail, we had offered Kickstart funding, in effect, to, say, Norfolk and Suffolk, and then I was getting complaints from farmers and other local employers just like "We've got this Kickstart job waiting, what is going on? Why aren't they being filled?" And then I went looking into the data more at granular level, and then it turns out we'd already -- we'd offered too many Kickstart placements.
+
+Now, I can't recall exactly if there was rationale there but giving a bit of choice to young people, but that's -- I'd then -- just like, "Hold on, let's get this sorted. We shouldn't be having -- while in other parts of the country we haven't -- we've got more young people needing a role."
+
+But we didn't want to get into set allocations of quotas like the northeast has to have this many, or other things like that. It was a very much: employers, here's an opportunity to give young people a help, and we'll help you to take them on.
+
+So that needed refining as well.
+
+**Lady Hallett**: I'm just going to ask if INQ000657661 could be brought up on the screen, please. And then -- there we are.
+
+This is a briefing from the Treasury titled "Kickstart Policy Design", it's dated 10 August 2020, and it says there:
+
+"To try and create more jobs than FJF ..."
+
+What's FJF? Future Jobs Fund, is that FJF?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: "... [Department for Works and Pensions] is streamlining the employer application process and removing barriers to private sector involvement."
+
+I think that's something you picked up on earlier, you were keen to have the private sector involved in this?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: "However, given the unpredictable nature of the local and national economic situation, where entire areas may be locked down, DWP is creating a strategy to ensure Kickstart can adapt and achieve national coverage."
+
+Now, was there a formal strategy to do that?
+
+**Lady Coffey**: Well, Lady Hallett, Mr Wright, I don't know the date of when this briefing --
+
+**Lady Hallett**: 10 August 2020.
+
+**Lady Coffey**: Okay. So we wanted to make sure there were jobs available around the country, for sure.
+
+**Lady Hallett**: Yeah.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: But, I mean, was there a formal strategy to do that? I mean, that's an inspiration: let's have jobs available around the country. Was that taken forward in any particular way?
+
+**Lady Coffey**: Well, initially what was happening was, as I say, employers came forward, and we did at some point introduce the concept, I think, that got called "account managers", this was learnings brought in from some of us ministers of how you try and manage relationships.
+
+What I don't know is the extent of whether -- how we approached lots of employers. I know that, early on, Tesco was keen to be involved, and to the extent that they also said they didn't want to be paid by taxpayers' money to do this but wanted to get involved in the Kickstart approach. And that in itself led to -- we knew that there would be jobs around the country.
+
+So I don't know if we -- I don't think we went into the level of detail that you -- that you might be looking for in that regard.
+
+**Lady Hallett**: Yeah. Was there a sense in which Kickstart was struggling to get the numbers because it was being launched at a time where there were still significant public health restrictions, so the further lockdowns, and also regional variations in lockdown that might have been feeding into this problem of getting young people into jobs in certain areas?
+
+**Lady Coffey**: Well, for what it's worth, we got more people, young people, into Kickstart jobs than ever happened in the Future Jobs Fund. So I think it was actually a success.
+
+Could we have done it even better? In hindsight, yes. And a lot of the learnings, I think I put it in my reflections, I actually think the current Chancellor has pretty much readymade product if she wanted to use it, and the Secretary of State at DWP now, if they wanted to deploy, with a lot of the learnings that we got along the way. And some of that was -- as we gathered more and did more deep dives, trying to unlock management information was a key way of trying to help us understand.
+
+**Lady Hallett**: You've told us that the target group was 16-24-year olds, so young people. Is it right that in fact young people who were in receipt of Jobseeker's Allowance, the legacy benefit, were not eligible for Kickstart?
+
+**Lady Coffey**: Yes, we designed -- it was designed to particularly get people somewhat new, to avoid that economic scarring. There's also an element of how some of this gets built into the Universal Credit system, often referred to, including in what will be exhibits, the UC build, and the relationship with the work coach and the person making the claimant commitment on -- on this would then somewhat generate opportunities for jobs as part of that interaction between the work coach and the client.
+
+It's a different relationship, really, to how other work coaches, focused on those people on the legacy benefits, had their interactions with their customers, because they'd already been out of employment for quite some time.
+
+**Lady Hallett**: All right. Now those might have been all very good reasons not to include those people at the outset, say, but you said this was developing as it went along.
+
+**Lady Coffey**: Mm-hm.
+
+**Lady Hallett**: Numbers were lower than expected. In some areas there weren't enough eligible people, so enough young people in receipt of Universal Credit for the jobs that were available. Why not, as it developed, expand it to allow young people in receipt of Jobseeker's Allowance the opportunity that Kickstart presented?
+
+**Lady Coffey**: Well, there were some proposals even to put it above the age of 25 plus, and that was taking it away from its key focus of thinking about young people, the broader offer.
+
+I think it's a different, as I say, situation. People who were, say, still on Income Support will have been unemployed for a long time, and so quite often trying to help people to get job ready would require certain steps along the way before getting straight into Kickstart. So there was an element of simplicity to try to keep this -- we're talking in East Anglia where perhaps some of the jobs -- we're talking about a handful of jobs perhaps not being filled because there were a difference in people deemed eligible versus jobs available.
+
+That's just one example.
+
+**Lady Hallett**: I suppose what I'm really asking is, what was the downside in saying: look, every young person, regardless of which benefit they happened to be claiming, let's give everybody the opportunity?
+
+**Lady Coffey**: Well, there were plenty of young people. This came up -- I can't recall at what moment, there was a realisation that some jobs in, I think it was, East Anglia and Cumbria, where we had a different -- we had a mismatch in numbers, but in the rest of the countries that certainly wasn't happening.
+
+So to then unravel, kind of, what the existing system that used UC, that work coach-client commitment and claimant commitment approach, as I say it was a different relationship for those people who had been on benefits for a long time.
+
+**Lady Hallett**: And another group of young people who might be unemployed who were ineligible were those in receipt of certain disability benefits, for example PIP claimants, and I'm going to ask you why they weren't able to access Kickstart, again if there was a lower uptake?
+
+**Lady Coffey**: Anyone on PIP could absolutely, if they were on Universal Credit as well. PIP --
+
+**Lady Hallett**: Well -- if they were on Universal Credit?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: But what about those who were claiming PIP but not on Universal Credit? They'd be excluded, wouldn't they?
+
+**Lady Coffey**: Well, this was about trying to get people who were on benefits to get them into a job. If you weren't claiming Universal Credit, you wouldn't necessarily -- it wouldn't be flagged to us that you were looking for a job.
+
+**Lady Hallett**: Well, can I ask that INQ000626521 is put up, please. It's from Justin Tomlinson, who was the Minister for Disabled People:
+
+"I understand that we want people to move from legacy to [Universal Credit] to qualify. That said, surely there aren't many ... under 25s on legacy rather than [Universal Credit], as for quite sometime new claimants can only enter benefits via [Universal Credit]?
+
+"I would personally like to see Kickstart open to PIP claimants under 25. This would be a big boost for disability employment."
+
+Were you aware that the Minister for Disabled People was pushing for that expansion?
+
+**Lady Coffey**: Yeah, I think, if we read further on some of this stuff, I think Justin is thinking about the people who weren't claiming benefits, apart from PIP, and we didn't have a relationship in terms of job searching for people who weren't claiming UC.
+
+That's how I've interpreted it at the time.
+
+And opening it extra, I think it will be in an exhibit somewhere, I think I do recognise the incentive or the attractiveness of people coming on to UC if they were on the legacy benefits in order to access this, as a way to make some of that -- one of the reasons why a lot of people on legacy benefits that were going to be replaced by UC were waiting to be moved is they were worried in case their benefits would fall.
+
+Well, if they had started a job, they'd have to move on to Universal Credit anyway. So some of that nervousness was -- would have automatically gone away, because you would automatically be getting a salary that would take you off your legacy benefits, that would take you on to the UC system.
+
+**Lady Hallett**: I think I might be --
+
+**Lady Coffey**: I'm sorry if it's --
+
+**Lady Hallett**: No, no.
+
+**Lady Coffey**: It sounds quite complicated, and it is.
+
+**Lady Hallett**: I might be able to help with that exhibit so let's see if I can. INQ000592945.
+
+This is a submission to you as Secretary of State from 19 February 2021 on access to Kickstart for young people on legacy benefits. And we see there at the bottom -- sorry. Let's start with the summary:
+
+"You have asked for advice on expanding the eligibility ... to claimants on Employment and Support Allowance. This submission also provides advice on access to the Kickstart Scheme for claimants in receipt of Jobseeker's Allowance ... and Personal Independence Payments."
+
+If we go to the advice -- recommendation part of that. "Recommendations":
+
+"... we continue to focus Kickstart on the current target group of young people aged 16-24 on Universal Credit ... especially as the link between Kickstart and [Universal Credit] is perceived as a potential incentive to encourage legacy claimants to transfer to Universal Credit.
+
+"The option to expand to further groups of claimants with disabilities and health conditions is considered for a potential further phase of Kickstart to run beyond the life of the current Scheme."
+
+I don't know if that was exactly the exhibit you were thinking of, but that seems to articulate, I think, what you just said in your answer.
+
+**Lady Coffey**: Yeah, I think the exhibit I'm thinking of -- and I'm sorry, I've got so many, I can't quite remember, it's my handwritten notes in response to this, which then generates a response from the private secretary.
+
+**Lady Hallett**: I'm just, again, wondering why, given that there was a lower uptake by almost 90,000 people than you'd planned for, it wouldn't have been a good idea to just expand this scheme to those people who were being talked about in that submission, or was this in part because you wanted people to be encouraged to move across to Universal Credit?
+
+**Lady Coffey**: What I'd hoped to try to explain earlier is that there were plenty of young people on Universal Credit looking for a job. I think that we had some issues in terms of following up the whole pipeline of how we got people from an employer being accepted to then jobs actually happening. So this would have been an added -- which would have perhaps impacted a very small number of people, is my recollection in the numbers of people given to me. We needed to keep our focus on basically jobs had been offered, or as it turns out, some of those hadn't been cemented in terms of actual opportunities for young people. That's what we needed to fix because we had plenty of people waiting to try to get a Kickstart job.
+
+**Lady Hallett**: Can I move on to monitoring and evaluation. Just a few questions, and then we'll have finished the Kickstart section of my questions in time for the break.
+
+There was an evaluation of Kickstart. It did find that it had had a beneficial impact for participants, and found that there had been returns for the taxpayer. The Inquiry has received evidence to that effect.
+
+But can I ask you this, really, having picked up the position of disabled people, young disabled people, one of the things that the evaluation found was that those with long-term health conditions did not gain as much advantage from Kickstart as others. So their placements were not as successful, their long-term prospects not as improved.
+
+Do you think, looking ahead, that in the future, there should be consideration to a separate or more focused scheme that is focused on those with those sort of long-term conditions to help them get back into work?
+
+**Lady Coffey**: Well, that's accommodated already, I would say. And I wouldn't want Lady Hallett to think in some way that people with disabilities were excluded from Kickstart. That's simply not the case. Absolutely not the case. In fact, on evidence that I've submitted, I specifically refer to make sure that we're really getting the Access to Work scheme well understood and well advertised, that we've got the Flexible Support Fund. This is given to individual Jobcentres to help people with access to work in a variety of ways. So it wasn't about -- far from -- ignoring people with disabilities; it was just making sure that we had extra levers, making sure all of our work coaches across the country were deploying them to do that.
+
+So, in terms of the future, a separate example, Severn Trent in particular used the Kickstart opportunity to take on people perhaps of the neuro-diverse spectrum as a way of trying to get them and build their confidence about being in work as well.
+
+So there was a number of situations where my impression would be people who might otherwise have struggled to get a job got a job thanks to Kickstart.
+
+But thinking ahead, disability is quite wide-ranging so I think the Access to Work scheme is still a really important part to that, and one of the things that could be strengthened, perhaps we could have increased the budget for Access to Work -- but I don't know if that was the main barrier, about the amount of money available in that regard. I don't think it particularly was and I don't think it was brought to my attention ever that there was a lack of money in order for these different funds.
+
+**Lady Hallett**: So essentially I think you're making the point that there is a suite of schemes, suite of measures available --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- across the piece, Kickstart is one of them, and it's necessary to look at the entire offering?
+
+**Lady Coffey**: That's right. And the Work and Health Programme more broadly, all the other elements of Plan for Jobs, but existing tools that we already used to help people with disabilities in order to get a job.
+
+Bear in mind we'd been set a challenge in the 2017 manifesto of reduce -- of getting a million people into -- people with disability into work within a decade, and we did it in five years. The idea of aspects of disability was just in our DNA. We were preparing a National Disability Strategy. So it's not like just people with disabilities were parked somewhere. Far from it. It was part of the stuff we did every day within DWP.
+
+And that doesn't mean to say it's not challenging, of course there's still a disability employment gap, but progress has been made on that and was made on that in my time as Secretary of State at DWP.
+
+**Mr Wright**: Thank you very much. That takes us to the break.
+
+**Lady Hallett**: We'll take a slightly longer break today. I shall return at 11.35.
+
+*(11.16 am)*
+
+*(A short break)*
+
+*(11.38 am)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: Thank you, my Lady.
+
+Lady Coffey, the bad news is that I hadn't dealt with the three topics I wanted to, but the good news is I don't need to deal with Restart because we've picked it up as we've gone along in terms of the questions I wanted to ask about part of the future plan for jobs.
+
+So I'm going to move on to the Statutory Sick Pay, and in particular the Statutory Sick Pay Rebate Scheme, and just to set the scene, the Statutory Sick Pay Rebate Scheme, the Inquiry understands, went live on 26 May 2020, and it was targeted on SMEs, small medium enterprises, with less than 250 members of staff, and it allowed two weeks per employee. So 14 days.
+
+And the Inquiry understands that your department were the policy owners, that the direction, much of it was coming from the Treasury, but HMRC were responsible for delivery. So three departments, effectively, working together. Does that all accord with your understanding?
+
+**Lady Coffey**: Health and BEIS, as well.
+
+**Lady Hallett**: So this is cross-government working to bring that --
+
+**Lady Coffey**: Oh, yeah --
+
+**Lady Hallett**: -- scheme ...
+
+And the objective of the rebate scheme was essentially to protect those businesses from the increased costs of paying Statutory Sick Pay to workers during the pandemic. That was the objective.
+
+**Lady Coffey**: Yes. The underlying objective was to try and make sure that what we could do was to help the Department of Health to get people to be able to reasonably comply with the guidelines. We didn't want to be in a situation where people felt they had to go to work or an issue with employers and employees. So this was a credible way and straightforward way of trying to help employers with the costs of the compliance, which at the time was initially seven days if you got symptoms, but if in your household somebody had symptoms, you were supposed to say away for 14 days.
+
+So this is where all this sort of thinking came, but it was a way of helping with the costs.
+
+**Lady Hallett**: So this was an economic scheme aligned with the public health restrictions?
+
+**Lady Coffey**: Absolutely.
+
+**Lady Hallett**: And as you've just said, the rationale for two weeks was that at the time, the maximum period of self-isolation for somebody with coronavirus was 14 days?
+
+**Lady Coffey**: That's right.
+
+**Lady Hallett**: And so that's why the two things aligned.
+
+Did you consider that that was a sensible limit, initially, 14 days?
+
+**Lady Coffey**: Well, I think that was the element that was being bandied around of -- not bandied around, sorry, that's not an appropriate phrase -- that had been set out, and it felt, on the initial calculations, it could have been as high, I think, as nearly over -- well, over £2 billion, could have been £3 billion if pretty much everybody in the country had undertaken that 14-day absence from work, due to potential Covid symptoms.
+
+So this felt like a reasonable way to support the small businesses in particular.
+
+**Lady Hallett**: So far as you're aware, was there any consideration of Long Covid, perhaps not at the start, but as the scheme developed, and the fact that somebody could be ill for longer than 14 days?
+
+**Lady Coffey**: It certainly wasn't considered at the start, because the concept of Long Covid wasn't in anyone's mind, as far as I'm aware. I think later -- I'm not sure that it did -- what we did see was that take-up was quite a lot lower than perhaps had been anticipated, but I don't recall specifically, unless it's in my document somewhere, and I apologise, but at the top of mind, I don't recall us revisiting this later.
+
+**Lady Hallett**: Do you think, looking ahead, that in any future scheme, if there were to be a rebate scheme, that there should be consideration of, sort of, longer-term health consequences of a novel virus?
+
+**Lady Coffey**: I think it slightly depends on what the nature of the restrictions are and what needs to be done to comply with the guidelines.
+
+**Lady Hallett**: Now, you've touched on uptake and I will come on to that, in terms of uptake, and explore with you generally why it might be that a scheme that was predicted to cost £2.2 billion in fact cost about £100 million. We'll come on to that. But before that, I just want to ask you about a document.
+
+INQ000609462, please. And the penultimate bullet there ... sorry. Sorry, no, the second bullet:
+
+"DWP SoS."
+
+That's you, Secretary of State:
+
+"DWP SoS has asked HMT to consider extending the SSP Rebate, both opening it to employers with more than 250 employees [so making it available to larger firms] and removing the restriction that employers can only claim up to two weeks of Covid-19 [Statutory Sick Pay] per employee. You also need to make a decision about the future of the scheme -- it currently has no end date."
+
+Now, we know that is in an email from the Head of Welfare Strategy at the Treasury to HMT colleagues, and it's dated 21 August 2020. So it's suggesting there that you were pushing for the scheme to be expanded.
+
+Do you recognise that, that you did think the scheme should be expanded to bigger businesses and for longer than 14 days?
+
+**Lady Coffey**: I can't say I have individual recollection but I'm not going to dispute what the Treasury officials have sent either to the Chancellor or the Chief Secretary.
+
+**Lady Hallett**: Are you aware of any discussions about expanding the scheme to bigger business and for longer?
+
+**Lady Coffey**: I'm afraid I'd have to go back to looking in records. I've tried to do a comprehensive check of the documents I was given access to on a database, but trying to get through over nearly 700,000 documents was quite challenging.
+
+**Lady Hallett**: All right, well, we'll --
+
+**Lady Coffey**: Sorry.
+
+**Lady Hallett**: No, don't apologise.
+
+**Lady Coffey**: I'll happily take that one away and see what I can find. If that's helpful to Lady Hallett.
+
+**Lady Hallett**: Thank you.
+
+So, in terms of cost, it was, as I've said, predicted to cost 2.2 billion, ended up coming in at about 100 million. Do you consider that, to some significant extent, that underspend, if you like, was linked to the furlough scheme and the fact that a large number of employees were furloughed, so there were less workers actively in the workplace, therefore less who might become ill and need to claim?
+
+**Lady Coffey**: Well, we did get a survey done of employers. I think that has been presented as evidence. And that gave us a sense of whether -- I think the majority of employers knew about it. Some had decided it wasn't worth the admin to get the refund. So there were a variety of reasons of why, perhaps, it wasn't taken up.
+
+And the other thing, I think the initial assumptions were of the high cost, and even the 2.2 billion I think midpoint, was that it was going to be a significant proportion of people needing to be away from work.
+
+I think there's an evolution also of work that not everybody was necessarily turning up in their office place so they could -- more and more people were able to start working from home. So I think there's a combination of factors that led to it, which -- which meant there was a significantly smaller amount of money spent. Or distributed, I should say.
+
+**Lady Hallett**: Do you --
+
+**Lady Coffey**: I think it's also worth pointing out, it's not technically a benefit from the government, it's a legal requirement on employers as well. So it's -- it wasn't for us to necessarily promote or push; it was us genuinely just trying to make sure that employers could get money to help them with the financial costs in helping their employees to comply.
+
+**Lady Hallett**: Just picking up on that point, in terms of where this sits in the overall strategy of -- economic strategy of government, is your position, then, that this is really a scheme that was designed to support business and cushion their cost of paying the statutory required sick pay as opposed to a scheme to put money into the pockets of vulnerable person or workers directly? It was about supporting business, essentially?
+
+**Lady Coffey**: Well, I think, as I just said earlier, we'd already changed certain requirements through regulation changes on being eligible for sick pay. The extra rebate, it used to be the case that this was an automatic thing, and that policy had been disposed of I think about seven or eight years earlier. And this is one of the reasons why it sat within DWP. We used to administer it, or have responsibility for it, given our broader authority on sick pay regulations.
+
+I still think it was underlying that, but the reason it was focusing on smaller employers was to alleviate some of the costs that they were bearing. So it wasn't trying to put money into small business owners' pockets; it was to help their employees comply with the guidelines.
+
+**Lady Hallett**: Thank you. The scheme was due to end in September of 2021. So it had been extended, and it was due to end, and the decision about whether it should be withdrawn, the Inquiry understands, was a decision for yourself and the Chancellor in conjunction. Is that how you saw it?
+
+**Lady Coffey**: Well, formally, policy would be my responsibility. But if I'd wanted to extend it, I'd have had to apply to the Treasury for more money.
+
+**Lady Hallett**: Okay. So you held the policy but the Treasury was funding it.
+
+**Lady Coffey**: They had the chequebook, yeah.
+
+**Lady Hallett**: So it didn't matter, really. You might have wanted to pursue the policy but if the Treasury said no, they would ultimately have a veto, I suppose?
+
+**Lady Coffey**: I think that's theoretical. At that point we were trying to bring a lot of the Covid support schemes to an end, and I didn't want to apply to extend it beyond where we were. Of course the situation changed when the Omicron came along and we had a different variant and further restrictions were put. So we resurrected.
+
+**Lady Hallett**: Picking up on that, in the summer of 2021, it's right, isn't it, that your officials were advising you that they thought the scheme should be extended further and should be extended until March of 2022?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: And if we could have up INQ000653764, the position is on I think page 2. Yes, at the bottom there:
+
+"SOS has reviewed this submission and is not content with the recommendation to extend the [Statutory Sick Pay] rebate scheme. Instead, the [Secretary of State] would like to close the [Statutory Sick Pay] rebate scheme. She commented that HMRC should action this but if necessary we could help to prepare the SI for them."
+
+So that was your position, your officials advised you that they thought it should be extended. You said that you thought it should end, and effectively gave direction to that effect.
+
+Why did you think, in the summer of 2021, that the scheme should end rather than accepting the advice of officials that it should be extended until 2022?
+
+**Lady Coffey**: Well, I considered that there were a number of interventions that we were undertaking that were coming to an end naturally at that point. And I would have had to have made a further request for funding and I didn't feel that we needed to do that.
+
+I can't really explain it much more than that. But it did get reopened when the situation needed it.
+
+**Lady Hallett**: Yes, in December of 2021.
+
+**Lady Coffey**: Yes, so we were able to resurrect it very straightforwardly.
+
+**Lady Hallett**: Was that not, though, the fact that the virus might re-emerge and there might be higher incidences of infection in the winter? Was that not what your officials had been warning you and suggesting why the scheme should be extended?
+
+**Lady Coffey**: Well, I haven't got the actual submission to hand. But I have looked at this, obviously, in preparing for today, and one of the approaches we were trying to make generally was have a consistency in how we worked with businesses, there's a variety of schemes right across government. And I appreciate my officials were trying to suggest things they thought were helpful, but I had already, to some extent, been part of the thinking of how to bring a lot of these schemes, and we needed to get more into the recovery phase of post-Covid. But as the facts turned out, a new variant came along and we adjusted.
+
+**Lady Hallett**: So your position in the summer was: you were moving from emergency support into recovery --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- but --
+
+**Lady Coffey**: Getting back to normal.
+
+**Lady Hallett**: Yeah, but events then overtook that?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Okay.
+
+**Lady Coffey**: And we adjusted appropriately.
+
+**Lady Hallett**: Yes, thank you.
+
+Well, those are my questions about the Statutory Sick Pay Rebate Scheme.
+
+I just want to ask you about one aspect of the next topic, which is the overall strategy for supporting the economically vulnerable or alleviating hardship. And it's to pick up really on some evidence that Will Quince gave to the Inquiry yesterday and I'd just like to ask you about it.
+
+He spoke about being part of what he described as a junior ministerial taskforce. You'll no doubt remember that evidence, and he spoke about that being an association of junior ministers across departments, across government, who would then act together and then, as he put it, push their respective secretaries of state on issues.
+
+Were you aware that that taskforce existed? Did it have the status of a taskforce, or is that really overly formalising what was an ad hoc arrangement?
+
+**Lady Coffey**: I really appreciated Will's evidence yesterday but it was actually more formal than what he may have recalled. Quite early on, particularly with the shielded people, we needed to -- and this is where DEFRA in particular were leading -- we needed to work out how we could get -- and MHCLG with Rob Jenrick as Secretary of State -- we needed to work out how could we get food to people? How could we get stuff to people who were shielding? So there was a whole process about people who may not be considered, who were shielded, and DWP actually helped in that, in that we set up a big call centre, went through a whole process, in order to try to contact people.
+
+What happened, in effect, within a day or two of the formal announcement the Prime Minister made on 23 March about lockdown for everybody, Michael Gove convened a group of ministers, me, secretaries of state, to think about the non-shielded vulnerable person, and consideration of how we might need to help them.
+
+This all got worked up pretty quickly, in just a matter of days, and one of the conclusions from the meetings -- I took Will along to a meeting with me, because I knew that if we were going to get involved, I'd delegate to him. So, basically, the recommendation, Michael took it away, and I believe spoke to the Prime Minister, and they decided that they would just get a taskforce and that Victoria Prentis from DEFRA would lead it. So that was, I think, primarily about access to food.
+
+Then, from that, there was an initial amount of money through DEFRA given to food distribution charities and the like, and that's when other things started to evolve on that particular element.
+
+A bit later, once we'd been through the summer, we had an issue about the preparing for winter, and that's where I pulled together a package for the government, for the Prime Minister, which evolved into the winter grant and so on. So, absolutely, Will was on there as a formal representative of DWP.
+
+**Lady Hallett**: So your position, then, is there was a taskforce?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: It was more formal than he recalls it to have been, in that it was stood up at Secretary of State level?
+
+**Lady Coffey**: Well, Secretary of State came together to discuss the issue and then the taskforce was stood up, to be chaired, very specifically, by Victoria Prentis from DEFRA, who was a minister there. And that pulled in -- I delegated to Will to be the DWP person.
+
+**Lady Hallett**: Yes. It had a specific initial remit.
+
+**Lady Coffey**: Mm-hm.
+
+**Lady Hallett**: But having discharged that, it continued to meet and continued to be a forum where ministers across departments could meet? Is that your understanding?
+
+**Lady Coffey**: Yes. I mean, it had a particular focus on food and essential supplies.
+
+**Lady Hallett**: Yes.
+
+**Lady Coffey**: One of our challenges to some extent within DWP is that we were trying to focus on the shielded population, and that's where, at times, it -- that's where we wanted to put our focus, because -- so we'd taken on that responsibility of trying to contact, in the end, several million people, to get them. Meanwhile this other work continued which was, I think, a good response for people with -- particularly in financial difficulty.
+
+**Lady Hallett**: Was that sort of arrangement, junior ministers from different departments working together on a taskforce, unusual in government, from your experience?
+
+**Lady Coffey**: No, interministerial groups were quite a regular thing. Later on, I got the Prime Minister to agree that I could set up an interministerial group on tackling poverty. That's where I pulled in people from housing, education and so on, to try to tackle cross-government issues.
+
+**Lady Hallett**: And, generally, have you found that that cross-departmental working, that collaboration, is effective?
+
+**Lady Coffey**: Yes, it can be, as long as people don't just turn up with a script. If they actually come up with solutions. I mean, the -- a formal process of actually getting that taskforce was one of the ministerial groups, the general purposes -- public services MIG. There were a number of Ministerial Implementation Groups set up quite quickly in this Covid, but I know you've covered a lot of that already in earlier modules.
+
+**Lady Hallett**: Yes.
+
+**Lady Coffey**: But the difference, probably, just to be helpful in consideration, a cabinet committee is a delegated committee of the cabinet so can make decisions which collectively holds everybody -- has collective responsibility powers. Interministerial groups tend to be not quite so formal and more issue driven, and tend to go on for quite some time, but don't have to exist for the lifetime of a government. So it's tackling different things.
+
+**Lady Hallett**: All right. Thank you.
+
+Can I move on, then, to the sixth broad subject area, and that is the decision to uplift Universal Credit and Working Tax Credit by £20 a week.
+
+Now, we obviously covered this from the perspective of Mr Quince yesterday and I'm not going to just cover the same ground with you for the sake of it. Where things are not in issue, we'll take his evidence as a jumping-off point -- and that applies in particular to the origin of the uplift and the commission that was given to investigate it.
+
+Can I start with decision making. Is this again an example where the policy was your department's, it was a DWP policy, but it was a policy that had to be funded by the Treasury, hence the interest of the Chancellor alongside your oversight of policy?
+
+**Lady Coffey**: That's right.
+
+**Lady Hallett**: And implementation was for your department, on-the-ground delivery?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: And in terms of the objective of the uplift, what do you say the core objectives of the uplift were?
+
+**Lady Coffey**: It was to particularly help those people who were facing the most disparate adjustment to their incomes as a result of the pandemic. So those suffering could be suffering an economic shock. Principally people who were probably going into benefits for the first time.
+
+**Lady Hallett**: And so it was not designed to be a general, or to give general assistance with the cost of living or to all people in receipt of benefits regardless of when they had started to receive them?
+
+**Lady Coffey**: That's right. The beauty of UC is it's a dynamic benefit so for people already on UC, Universal Credit, sorry, if their income suddenly falls, then the system adjusts and will give them more as a consequence. So people who may have had -- I mean, I'm bandying around a figure but £1,000 salary coming in, if that had fallen to, say, 400, or nothing, the amount of benefit would step up to help in that dynamic situation.
+
+**Lady Hallett**: Yes. Were you viewing this uplift as being a policy that was driven by a wider aim of alleviating poverty and assisting those most in need or were you viewing it as a policy that was very much pandemic focused, and offering targeted support to those who'd fallen into difficulties as a result of the pandemic?
+
+**Lady Coffey**: I'd say it was pandemic focused. There was quite a lot of, within our department, thinking through: can we adjust this? Can we tweak that? We had to bear in mind whilst UC was an online digital system and the old system would never have coped with what we went through, it still had limitations on stuff potentially needing to be reprogrammed, to tweak at a fine level.
+
+Also we were looking at, there was quite a difference between in the standard allowance, well, it was about a £20 difference, between that and Statutory Sick Pay so by trying to work out how you can end up there, you also can bear in mind that self-employed people, while other things developed, actually here was a way that, if we put that £20, roughly, to the UC standard allowance, that entry point would be similar in value.
+
+So there were a number of factors that got tossed around a bit, and then the other element is trying to make it simple, deliverable, straightforward, and that's where it eventually ended up.
+
+**Lady Hallett**: Right.
+
+I want to ask you about a particular -- and this is quite a narrow topic, but was this a policy to help those who were newly claiming benefits, that had to be applied to everybody because of the universal nature of Universal Credit, or was it a policy that was designed to help new and existing claimants who'd suffered a drop in income?
+
+**Lady Coffey**: The focus was on new people. The -- we were told that trying to change the UC build to accommodate trying to differentiate would just end up taking quite a lot of programming and quite a lot of time.
+
+I think in a different way, Lady Hallett, one of my greater concerns, thinking this through, was for people coming in to UC anyway, the way the system works, people may not have even been getting the amount of money they thought they would on their first UC payment so we need to try and communicate elements of that, but just trying to re-engineer the system, this UC build, as it's called, was over-complicated.
+
+**Lady Hallett**: The way you've put in your statement to assist you, paragraph [180], is that:
+
+"... the ... uplift for the standard allowance was considered as a simplistic approach targeted at helping people newly in receipt of benefits."
+
+**Lady Coffey**: That's right.
+
+**Lady Hallett**: And the only reason I'm focusing on this is that there would be people in receipt of Universal Credit who were in employment.
+
+**Lady Coffey**: Mm-hm.
+
+**Lady Hallett**: And may equally have suffered, therefore, a drop in their income as a result of losing that employment as a result of the pandemic.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: So was it not intended to help those people? Were they not the intended recipients, as opposed to those who had, for the first time, ended the benefits system? Do you see the distinction I'm drawing?
+
+**Lady Coffey**: Somewhat. The UC payment to households would have adjusted reflecting a drop in their own salary. Because that's the dynamic nature of UC. So, to some extent, they were already -- would have seen the benefits of being part of a dynamic benefit system already.
+
+**Lady Hallett**: Because there would have been an automatic adjustment --
+
+**Lady Coffey**: Exactly.
+
+**Lady Hallett**: -- up to the ceiling of the benefit.
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: All right, thank you.
+
+My Lady, we need to take another short break this morning, or it's afternoon just now, but if we could ...
+
+**Lady Hallett**: Sorry, when shall I return?
+
+**Mr Wright**: Ten minutes, please.
+
+**Lady Hallett**: 12.20.
+
+*(12.09 pm)*
+
+*(A short break)*
+
+*(12.21 pm)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: Thank you, my Lady.
+
+Can I move on to another topic under Universal Credit, that is the exclusion of legacy benefits from the uplift. So we know the uplift was applied to Universal Credit, and to Working Tax Credit, but not to other legacy benefits.
+
+But we've also heard evidence that your department did explore whether or not it was possible to apply the uplift to legacy benefits. So there was an exploration of whether that was feasible.
+
+Can I ask this: first of all, why do you say that legacy benefits were excluded from the uplift?
+
+**Lady Coffey**: It goes back to people newly impacted and how to help kind of that element, aligning UC, standard allowance, with sick pay was in the thinking, and that was the primary reason. I expect there may be other suggestions that people have on why we didn't do it.
+
+**Lady Hallett**: Well, I might test some of those, but your, your primary justification is that it was intended to support people who were newly unemployed, newly unemployed people would all be receiving Universal Credit because that was the only benefit that new entrants could claim; is that right?
+
+**Lady Coffey**: That's correct.
+
+**Lady Hallett**: And so therefore that's why it wasn't applied to legacy benefits.
+
+If that's the case, why were officials exploring whether it could be applied to legacy benefits? So in other words, if it was never meant to help those people, why spend the time seeing if you could apply it?
+
+**Lady Coffey**: Well, I don't know what discussions happened amongst officials. I'm not surprised, knowing the dedication of my officials, that they will have tested to see what else could be doing, but all of this is happening at quite a quick pace back and forth.
+
+**Lady Hallett**: Mr Quince gave evidence yesterday about this, and his evidence was that his understanding was that the reason the uplift wasn't applied to legacy benefits was operational. It was an operational block because of the IT system. Do you accept that?
+
+**Lady Coffey**: Well, what's accurate is that it would have been difficult to automate the existing legacy benefits system. That's definitely the case. It's an ancient system with a lot of interdependency which is why the Secretary of State has to make effectively the decision on the regular uprating of benefits -- I think it's happened in just the last few days -- because it takes, all this, months to avoid the system basically crashing.
+
+In fact you end up doing it on the basis that even when Parliament hasn't approved the rating that you have to start the process. So it takes months on that legacy benefits system. That is accurate.
+
+**Lady Hallett**: But do you accept that that was the reason that it wasn't applied, that operational block, or do you say it was never meant to apply for policy reasons?
+
+**Lady Coffey**: For policy reasons, it was focused on newer benefit claimants.
+
+**Lady Hallett**: What about those who might be in receipt of Job Seeker's Allowance, so a legacy benefit, who might have therefore experienced a reduction in income, but were claiming a legacy benefit? Why should they be excluded, given the policy objective was to support those who'd had a drop in income because of the pandemic?
+
+**Lady Coffey**: So the legacy benefits are -- are, strictly speaking, the ones being replaced by Universal Credit, which is a process that is still to finally come to an end quite yet, as far as I'm aware. And then there are other benefits. There's the ESA -- the Employment Support Allowance and the Jobseeker's Allowance are based on a contributory. So you will have already had to have paid into National Insurance to be eligible for that.
+
+Now, one of the big differences is that, for Universal Credit, if you have capital savings, the UC element -- that payment you might get starts to change as soon as you have savings over £6,000. And if you have more than £16,000, you get nothing at all. That isn't the case for the contributory versions of JSA and ESA. So there is a variety of ways that people potentially could get help from the benefits system.
+
+But I wouldn't call that a -- those two a legacy benefit. They're just a contributory. In fact, in DWP they get called "new style".
+
+**Lady Hallett**: If somebody had been a recipient of legacy benefits but then moved over to Universal Credit, which was obviously what you were encouraging everybody to do, but if someone did do that, would they then be eligible for the uplift?
+
+**Lady Coffey**: I wouldn't say that we were actively encouraging people to leave legacy benefits. That option has always been open to people on legacy benefits, but it's quite a different benefits system, in terms of you get flat rate on the legacy and then the new, the Universal Credit, is dynamic. And people who may have been anxious about moving to UC, they could have done it at any time, but they would only get transitional protection if they waited for the department to say: you must move to UC now. And we suspended all of that process pretty early on in Covid.
+
+**Lady Hallett**: Yes. My fault for probably mixing two concepts in one question --
+
+**Lady Coffey**: Okay.
+
+**Lady Hallett**: -- which is always bad advocacy, so I will be more direct. If I was in receipt of legacy benefits and chose to move to Universal Credit, would I then get Universal Credit plus the uplift? Would the uplift apply to me?
+
+**Lady Coffey**: You'd have got the new standard allowance, yes.
+
+**Lady Hallett**: With the uplift?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: So how would that be consistent with the policy objective of assisting people who were new claimants to Universal Credit? So, in other words, I've been on legacy benefits for a long time, my receipt of that benefit is nothing to do with the pandemic, but I move across and I then get the additional money that's meant to be supporting people who have lost their job?
+
+**Lady Coffey**: Because to change the UC system to only have it, this uplift of £20 in the standard allowance, apply to brand new benefits claimants, would have required a lot of programming of the UC build. The priority was to keep of the system stable and in fact it was to expand the system, which is what a lot of the programmers had to -- spent a lot of their time expanding capacity so that the UC system in its own right wouldn't fall over.
+
+And it never did fall over. But that was dedicated effort of people doing that.
+
+So the Director General was pretty clear on when policy considerations were happening, is that, "We can't do everything you're asking, we can't just say it's only for people who are making a claim for the first time, and so on. We just cannot cope with that."
+
+So -- and we had to take their operational advice.
+
+**Lady Hallett**: The same point you made earlier? The same point you made earlier --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- about the uplift basically applying to all or nothing?
+
+**Lady Coffey**: Yes, that's right.
+
+**Mr Wright**: If you wanted to deliver it at all you had to try and do it in that way, because to try to target it would have collapsed the system?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: But if you'd have been able to target it, then that is what you would that have instructed officials to do?
+
+**Lady Coffey**: I think we, in very early conversations that were being -- going around our department, it was, yeah: how can we target some help to new people?
+
+**Lady Hallett**: Can I move on to another design element of the uplift, and that is, namely, the benefit cap.
+
+We heard some evidence from Mr Quince about the benefit cap yesterday. Do you agree that the benefit cap meant that the effectiveness of the uplift was limited for some claimants of Universal Credit?
+
+**Lady Coffey**: Well, for new applicants, as long as they'd been working already, there was a grace period of about nine months. And that, for the newly impacted people, that was sufficient to say there wouldn't be a benefit cap.
+
+At the same time, all benefits, never mind the £20, was going up for the first time in four years because we'd legislated to freeze benefits for four years. So I think they went up by 1.5%, something like that, 1.7%.
+
+So I think in our considerations, I know at some point in the summer I'd started asking for some advice, could we perhaps extend the grace period and the like, but I felt that the majority of people who were new to benefits would not be impacted.
+
+**Lady Hallett**: Well, certainly wouldn't be impacted for nine months?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Though when it was introduced, this was a 12-month policy, in its first iteration, it was for the first year?
+
+**Lady Coffey**: The £20, yes.
+
+**Lady Hallett**: Yes.
+
+**Lady Coffey**: I think that was a simplicity factor, as well, in terms of having a whole year of one figure being changed here, and for tax credits, which was a Treasury policy.
+
+**Lady Hallett**: But that does mean that even a new claimant would become caught by the benefit cap within that year, so after nine months, doesn't it?
+
+**Lady Coffey**: Potentially, if they were still unemployed. Of course our hope was that we'd be trying to get the economy back to -- would recover post-Covid a lot earlier than it did.
+
+**Lady Hallett**: Again, is this a sign that there was a hope, if not an expectation, that things would have returned to a more positive position before the nine months had been reached?
+
+**Lady Coffey**: Yes, I think that's right. I think -- I'm not trying to rewrite history, I know that the Prime Minister at the time was keen, hopefully, to -- that we would be through the significant impacts of Covid within that year.
+
+**Lady Hallett**: And do you know why it was difficult or impossible to alter the benefit cap?
+
+**Lady Coffey**: Well, there's a separate piece of legislation where the Secretary of State has to review every Parliament. In terms of extending the grace period within the -- within our systems, when I'd asked for some advice about looking at this issue, I was told -- there's no better way of saying this, "Computer says no", it would take a lot of rebuilding, and I don't particularly like a "Computer says no" approach to life, but the -- that was one of the reasons given why it couldn't be adjusted in terms of extending the grace period.
+
+**Lady Hallett**: Can I move on now to the extension. So we had the initial 12-month policy and you've just explained why it was 12 months, it was, frankly, operationally easier to make it for 12 months, which I'm sure everybody understands, but then there came the discussion about the extension and I really want to focus not on how the decision to extend was made but more on policy design and development of the policy at the time of the extension.
+
+So far as you were concerned, the initial policy had been intended to assist those who were new entrants to benefits, you have told us that, that was the principal focus.
+
+By the time it came to the extension a year later, had the policy objectives from a DWP perspective widened? In other words, was it also now about generally alleviating poverty and supporting people who were at the lowest end of the income spectrum?
+
+**Lady Coffey**: Well, I think in a variety of ways, having given people some more money, taking it away is -- can be quite challenging. I mean, the decision wasn't made until, in the end, February of 2021 about whether we were extending it at all. So that took up a considerable amount of time, in putting forward the proposal to actually it happening.
+
+But during our considerations clearly we hadn't come out of the full situation on Covid, so I saw it as part of my mission to try to extend.
+
+**Lady Hallett**: Yes. But when you were talking about the extension, you favoured, didn't you, an extension, but also a modification of how the money was paid, so in other words, reducing the uplift to the standard allowance to £10 and then giving the other £10 focused on the child element of the benefit?
+
+**Lady Coffey**: Well, we went through quite a significant amount of policy reiteration, looking at a variety of ways. I'm conscious that I don't want to give the impression, I don't see people as statistics. Far from it. But we also had a manifesto commitment of trying to reduce poverty. So I'd started this work on trying to tackle poverty. Quite clearly, just by maths, having put extra money into a significant number of households, we had lifted hundreds of thousands of people technically out of poverty. And then by removing the uplift we were going to put a lot of those people technically back into the definition of poverty.
+
+So I wanted to use a variety of ways, and benefits is one way, but there's all sorts of other costs-of-living challenges and the like, which is why we got the interministerial group going, that yes, I wanted to try and see what we could do to fulfil our manifesto commitment.
+
+**Lady Hallett**: And so were you promoting the idea of changing the way in which the uplift was paid, splitting it between the standard and the child element, to further those aims?
+
+**Lady Coffey**: Yeah, I think there's an element here about we worked up multiple options, and I saw a way of splitting what would be considered a £20 uplift into considering what we could do, perhaps, to increase the child element at that point as a way of advocating how we might try and help tackle poverty.
+
+**Lady Hallett**: If --
+
+**Lady Coffey**: I think there were multiple options presented, but that was my suggestion.
+
+**Lady Hallett**: I mean, the way Mr Quince put it was essentially that, you know, the objective had been to help those newly in receipt of benefits as a result of the pandemic, but if the side effect of that was that everybody was assisted with their meeting the cost of living, that was a good thing, and one that should be banked if at all possible. Is that how you viewed it going forwards?
+
+**Lady Coffey**: I think there's an element of that but we also had our, of course, a key focus on trying to help people get into work.
+
+**Lady Hallett**: So part of an overall integrated strategy --
+
+**Lady Coffey**: Yeah, absolutely.
+
+**Lady Hallett**: -- as opposed to just one thing viewed in isolation?
+
+**Lady Coffey**: Yeah, and what could we do to help with the cost of childcare? What could we do, aspects of housing? There's all sorts of issues we started looking at but of course I had a particular focus or responsibility for the level of benefits.
+
+**Lady Hallett**: At the time of the extension, there was still the situation that those receiving legacy benefits hadn't had an uplift, and we know from documents the Inquiry has received that there was a further investigation of whether it was possible to make payment to legacy benefits. And in particular, a one-off payment was an option that was discovered -- discussed, rather. Did you favour investigating whether there could be a lump-sum payment to those on legacy benefits?
+
+**Lady Coffey**: Well, advice from officials, traditionally trying to avoid one-off payments, significant lump sums. And that's from history of evidence that sometimes this can cause issues. So, by and large, the strong advice from officials has always been to do it through the regular monthly payment that people would expect and manage.
+
+**Lady Hallett**: Can I just pick up one very discrete topic about the digital divide, given the changes to the -- or the uplift and easements and the reduction of face-to-face meetings, and so on and so forth. Are you aware of any consideration being given to how those who were unable to access digital forms and systems would make claims, and what support was given?
+
+**Lady Coffey**: Oh, yes, that was very clear at the beginning, when we went through various phases of considering our Jobcentre opening and application. It was already the case that people could apply online for Universal Credit, but we were very aware that there'd be people who didn't have digital access, also struggled to make claims, that we needed to stay open for them. And that's why every Jobcentre, while the door may have been closed to the majority of people, every Jobcentre was open, in effect, to help vulnerable people. This was a really important part of what we needed to do. There's a whole element of that being in the forefront of people's minds for sure.
+
+Talking about divides, a bit later in 2022, when I'd managed to negotiate a cost of living payment, particularly you had inflation, we did do these sorts of one-off payments, but we didn't do it through the UC system and we didn't do it through the legacy benefit system. I decided we would do it a different way, to make sure everybody got money to help at that stage, even against potentially some of the advice about the issue of lump sums happening, which sometimes can have adverse effects.
+
+**Lady Hallett**: Right. Can I move on to the end of the uplift.
+
+As the Inquiry understands things, the uplift was put in place. It was then extended. Did you view the end of the uplift as being a positive decision, ie a positive decision to end it, or was it rather that it was a decision not to do anything to extend it?
+
+**Lady Coffey**: It's fair to say --
+
+**Lady Hallett**: I didn't mean "positive" as a -- (overspeaking) -- I'll just make it clear, Lady Coffey, I didn't mean "positive" as in a good thing.
+
+**Lady Coffey**: Right, okay. Right.
+
+**Lady Hallett**: I meant a positive decision as in it needed positive action. So was it just that the legislation, the statutory instrument, had expired, therefore it would end naturally, or was it that a positive policy decision had to be taken to end it? How were you looking at it?
+
+**Lady Coffey**: Well, the decision got made in February. It was confirmed in a meeting -- or we finalised the decision, I think it was 26 February, in a trilateral between myself, the Prime Minister and the Chancellor.
+
+So that was it. The decision had been made. It would go on for another six months.
+
+So then we had to operationalise that. And I'm not sure if I can add much more than that, really, that messages started to be sent to people saying that "Your £20, this specific element, would no longer be part of your regular payment."
+
+**Lady Hallett**: I suppose what I'm really getting at is, and I think you may have answered it, that that decision was made in February, there would be a 6-month extension, and that was it. So that was the decision. There wasn't a further decision down the line --
+
+**Lady Coffey**: No.
+
+**Lady Hallett**: -- that, "Right, now we're stopping the uplift"?
+
+**Lady Coffey**: No, that was it, six months.
+
+**Lady Hallett**: And you had lobbied to maintain it permanently?
+
+**Lady Coffey**: I had.
+
+**Lady Hallett**: Was there any further attempt to persuade for a further extension or had the decision been taken and that was that, essentially?
+
+**Lady Coffey**: I'm very conscious that there was a lot of -- there'd been a lot of lobbying in the run-up to the end of 2020, early 2021. But a decision had been made and I do believe in collective responsibility. I think it's fair to say the economy, we'd seen, was needing to recover and that we were moving now only on our Plan for Jobs scheme to try to get people into work. So the decision was made.
+
+There was a lot of lobbying in the autumn, that's for sure, as it was coming to an end, but ...
+
+**Lady Hallett**: Do you know whether any fresh equality impact assessment was carried out about the effect of removing the uplift?
+
+**Lady Coffey**: I think because we weren't making any further changes, we didn't need to do a further equality impact assessment. One had already been done on the extensions.
+
+**Lady Hallett**: So -- because that was the point at which the decision was effectively taken --
+
+**Lady Coffey**: That's right.
+
+**Lady Hallett**: -- that was the -- I understand.
+
+Can I just pick up, if it's all right with you, for another five minutes and then I'll just deal with another topic.
+
+**Lady Coffey**: Mm-hm, sure.
+
+**Lady Hallett**: And then that leaves me with two short topics after the lunch break, if that's all right.
+
+**Lady Coffey**: Okay.
+
+**Lady Hallett**: And that is fraud and error arising from easements. Now, we know that a number of easements were introduced for claims, and in many ways, they were not a decision to introduce them, but they were essential because of the public health restrictions; is that right?
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: So for example, you couldn't have face-to-face meetings in Jobcentres because people weren't meeting face-to-face?
+
+**Lady Coffey**: Indeed, we decided that it wasn't sufficiently essential that people had to go in to do claimant commitments and the like, so we, for a, particularly at the very start, we put a considerable number of easements in place.
+
+**Lady Hallett**: And were you concerned at the time about the increased risk of fraud and error that might arise from those easements?
+
+**Lady Coffey**: Yes, I was.
+
+**Lady Hallett**: Yes.
+
+**Lady Coffey**: The -- we had no doubt that people would try and defraud, sadly. Both in a sophisticated, coordinated way, or other ways. And we had gone through a process, I think before I was Secretary of State, on how face-to-face checks were important but also we had to, I think, get the balance right of helping getting money out the door but then following up as quickly as we could to get some of the extra checks that were needed.
+
+But yes, I was concerned. I was concerned throughout that whole time that I was there at DWP about the challenges of fraud and what we needed to do about our easements.
+
+**Lady Hallett**: Accepting, as you did, the advice that you had to make the easements, because of conditions, we heard from Mr Quince yesterday and we looked at an email he sent where he was expressing surprise and/or annoyance, really, that the department wasn't making retrospective checks and getting on with the process of trying to weed out instances of fraud and error. Did you share that concern, that there wasn't enough being done, those easements being accepted, to make what checks could be made and to pursue recovery?
+
+**Lady Coffey**: Well, we put in place initially almost, and this was in discussion actually, as well, with Treasury, going back to the spending review 2015, Treasury had put in a variety of conditions about how some of this was being done. So in late April I asked for a calendar of easements, so we could get into some systematic way of how we could be reviewing and considering aspects of fraud and what learning was going on at the time.
+
+The department started to learn quite quickly how to improve some of their fraud avoidance. They'd already done a pretty good, reasonable job, that for example they started to use things like -- they modified their telephony questions when they were phoning people where we hadn't got evidence of their identity or some of the issues. I think a tool called Searchlight was opened up to them which was used in mainly local government, I think it was, trying to check did they really live where they said they did, or ...
+
+But this had to evolve, and also opened up -- we had initially used something called Verify which was run by the Cabinet Office and at one point, it basically fell over because Vodafone's pipeline for a number of calls wasn't big enough for the number of people trying to do their claims.
+
+So we did a variety of ways of trying to manage that at the start, but I did keep wanting to push back on, in particular, things like advances of benefits, that we needed to reintroduce face-to-face as quickly as possible in order to achieve that.
+
+I do recall at the time the department pushed back to basically say, well, we need to focus on claimant commitments and these other things and, by the way, we think our level of fraud has now fallen considerably, but it was certainly in my mind, this is taxpayers' money for which I was responsible, and if there was money going to people who shouldn't have it that was not a good thing and so keeping a focus on fraud was something that we as ministers in particular, I think, pushed throughout our whole time, and then evolving a new fraud strategy with some of the learnings from the pandemic.
+
+**Lady Hallett**: Do you think the officials in the department were sufficiently focused on that fraud and error? Did you feel you were having to push this along otherwise nothing would have been done?
+
+**Lady Coffey**: I think it would be unkind to say nothing would be done, but I think -- I think ministers did really push hard on this. I mean, there were some great successes. I think one weekend quite early on there was a sophisticated, coordinated attempt, and by blocking that, we saved about a billion pounds.
+
+Now, that's good. There were other things that were starting to be picked up quite quickly. People all of a sudden moving in Covid and their rent going up considerably, and really checking and then doing some analysis, like there'd be ten families all of a sudden claiming housing support for that address.
+
+So, stuff was happening, but I think it's fair to say there was a reluctance to reintroduce some of the face-to-face aspects. But in a different way, this gave the department an opportunity to rapidly go into perhaps more sophisticated ways -- I think they called it IRIS, but their risk and intelligence. So we had different levels of factors.
+
+There was another issue that when you were trying to do interviews about fraud, they would have to come into the Jobcentre, and there was some limitations about that. So there was a mixture of things going on but I -- I think it's fair to say ministers did keep pushing and nagging, frankly, about trying to tackle some of these issues.
+
+**Mr Wright**: Thank you very much.
+
+My Lady, I wonder if that's a helpful moment to take the --
+
+**Lady Hallett**: Certainly. I shall return at 1.55 pm.
+
+*(12.52 pm)*
+
+*(The Short Adjournment)*
+
+*(1.54 pm)*
+
+**Lady Hallett**: Last stint, Lady Coffey.
+
+**The Witness**: Thank you.
+
+**Mr Wright**: Thank you, my Lady.
+
+Lady Coffey, two subjects, then, I'd like to deal with finally in my questioning. The first relates to Long Covid. And I think you touched on this in your evidence this morning: that in the early stages of the pandemic, Long Covid wasn't known as a condition, and you explain therefore it wasn't factored into decision making I those early stages, and I followed that up with a question about it later on.
+
+Did the department do any analysis during the pandemic of the potential implications of Long Covid for the workforce and the economy that you're aware of?
+
+**Lady Coffey**: So I think probably the interaction was more thinking about people applying for disability benefits, and I guess people new to the -- certain aspects of the benefits systems may not be familiar initially with how it works, and there are very few, if any, that, say, when you go for a PIP assessment or work capability assessment, it's all about what you can do, and to some extent what you can't do, that gets assessed, rather than individual diseases, or similar, having that, because it's all, in effect, your personal, the impact on you personally.
+
+I'm conscious that we'd started to see people presenting themselves I think in the autumn with that and we arranged or I arranged for tags to start being put on, I should say officials arranged for tags to be put on to our systems so we could start to monitor the situation.
+
+And I'm also mindful that some of this started to be discussed at cabinet, where the Chief Medical Officer had started articulating it was -- they're still identifying some of that underpinning elements and a variety of syndromes of how people were presenting themselves. And he came from the angle more about that some of these syndromes are very similar to existing syndromes that we already have treatments for, others are new to us so they are still trying to work that out.
+
+So there was an effect starting to come in to people's minds about quite how we might start to handle some of this.
+
+**Lady Hallett**: Was any formal guidance issued to Jobcentre staff, for example, as to how they might approach that condition?
+
+**Lady Coffey**: I can't recall right now. And I don't remember coming across any of that in some of the research I've done for coming to the Inquiry. But I do know there was exchanges with the Department of Health at one point, but in terms of DWP and job coaches -- work coaches are pretty well acquainted with working with people with fluctuating conditions, and trying to work out how to best help people stay in work, or get into work.
+
+So that's kind of bread and butter stuff already.
+
+**Lady Hallett**: Thank you.
+
+Were you aware of any concerns in the department or indeed did you have any concerns that Long Covid could be used by people who were seeking to make false claims?
+
+**Lady Coffey**: Um, I think my concern was that it was at risk of becoming a catch-all term and that -- so we used to in DWP, in fact our processes are designed to try and work on the individual, rather than, kind of, "You have this, therefore" -- you know -- we're not just a tick -- I think it's fair to say as a department we tried not to take just a tick-box approach into compartmentalising people.
+
+**Lady Hallett**: So it was a process that was more thinking about the individual than simply saying, "If you have condition A, then these are the consequences of that"?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: You'd look at the actual individual --
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: -- and what they could and couldn't do?
+
+**Lady Coffey**: Yes, because some conditions are acute and others are chronic.
+
+**Lady Hallett**: Thank you very much.
+
+If I can turn, please, to the final topic I want to cover with you, which is forward looking and looking at recommendations for future change from your experience as Secretary of State and learning that you think could be taken forward to any future civil emergency.
+
+I want to pick up first of all on something Mr Quince raised yesterday, just to test your view about it, and that is you've had mentioned yourself in your evidence about the vulnerability, if you like, of existing IT systems, how they were at risk of falling over if they were pushed to a certain point. Do you think, looking ahead, that further work needs to be done in terms of contingency planning for IT systems for delivery?
+
+**Lady Coffey**: So I think the overall architecture and security of IT through DWP is very well guarded. I don't wish to sound repetitive but the scale of DWP's interactions is extraordinary. It has the largest call centre in Europe. It has interactions with millions of people on a very regular basis. So protecting data is very important to it.
+
+In terms of antiquity of systems, very soon nobody should be -- everybody should be on Universal Credit. So there's that already digitalised approach. And my understanding and recollection is that even UC itself is somewhat going through -- was starting to go through a bit of an up -- improvement. So, instead of -- I'm not explaining this very well. But, perhaps like a car, instead of having to take the entire engine apart, the system was being effectively, gradually, is my understanding of it, rebuilt. So you could, like, remove a bit, fix that, put it back in, so it was more -- starting to be more flexible.
+
+**Lady Hallett**: More modular in the way --
+
+**Lady Coffey**: More modular. That's the right word. Because while DWP had created UC, it was created well over a decade ago, and IT has moved on a lot since then as well. But in terms of -- there are other systems which also need to be improved in DWP(?), that's for sure, which has led to other issues.
+
+**Lady Hallett**: Well, shall we pick that up? You say other systems that need to be improved.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: What do you have in mind that may be relevant to a future emergency --
+
+**Lady Coffey**: To be fair, it's not related to a pandemic but the whole pension infrastructure, the pension scheme has been redone.
+
+**Lady Hallett**: Well, if it's not Covid related --
+
+**Lady Coffey**: It's not Covid.
+
+**Lady Hallett**: -- then let's leave that there.
+
+I won't press you about legacy benefits and solutions because you've made the point that there is a programme of everybody becoming a Universal Credit claimant, and so there will be a point at which all of those issues will have gone away naturally.
+
+**Lady Coffey**: Yes.
+
+**Lady Hallett**: So we can leave that there.
+
+Mr Quince suggested in his evidence, written and oral, that the need for a series of, if you like, off-the-shelf solutions, not a set response to a particular incident but a number of different things, different levers that could be pulled, could be stress-tested before an emergency and then could be put into play depending on the nature of the emergency; where does that sit with you as a suggestion?
+
+**Lady Coffey**: Well, I think a couple of things there. I mean, we picked up the Future Jobs Fund as an idea, redid it for what -- the strategy I wanted to take it, and repurposed it in that way. But we had a starting point. I'm not sure to the extent of what Mr Quince was considering the different interventions but ultimately we will -- I do think quite a lot what we did during Covid, we learn from it, and in just improving the general ways of working, and one of that was actually a significant improvement on things like management information, I mean, we have -- DWP already had about 600 analysts, so it's not that we need more analysts. But it's a case of then, I think, deploying whatever levers we have in order to try and achieve objectives.
+
+And the reason I say that, the ONS has traditionally used a number of surveys, DWP has as well. I'd recommended that we increase the number of people interviewing for the Family Resources Survey so we could get something a bit more reliable, a bit going to more detail, but as we keep evolving our understanding of the needs of the country, we should increasingly be in a better position to do much quicker analysis, I think, of what might need to be done to fix the solution -- the problem. And I think sharing the problem is probably the main issue.
+
+What happened this time with doing an uplift may not be what's needed next time.
+
+So I'm afraid I think it's a horses for courses. Having off-the-shelf, I would say in terms of policy solutions, it's probably not necessarily what's needed, but the agility and looking back on doing a proper analysis of where the fraud really went badly wrong, and what could we do more quickly to either identify that or switch off easements if they were needed again in the same way?
+
+So I think it's, um, perhaps not the most helpful in that regard, but it's -- I think some of this is going back to the basics of what DWP's ultimate legal role is, and that is paying money to people who are entitled to it, as well as, particularly as we saw in this pandemic, getting people back into work.
+
+**Lady Hallett**: I just want to pick up on that point about its legal role.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Some of the things you did, when the pandemic hit, you did not have statutory power to do, so emergency legislation was required?
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Do you think there should be, going forwards, either an act, emergency act, in place that would give you those powers? Or at least in draft that would provide the powers?
+
+**Lady Coffey**: I think that could be anticipated. There is a handful of elements there. I've made the point, no longer having the powers to do hardship grants made us change -- or made us think of a different way of how to provide and help alleviate some of the real difficulties. I mean, the Civil Contingencies Act at the time, I think you've more or less covered, but it was deemed that we could get legislation ready, so it would be too draconian to use that particular power -- or that Act to deploy, but I appreciate you've covered that.
+
+One of the things, I guess, are that some of our regulations are pretty technical, so it may be worth thinking of a streamlining way of being able to readily adjust, say, things like the sick pay scheme. But I'm just conscious that the -- this government is bringing in a different approach on some of this, so it might be something they want to think about while they're creating new primary legislation for the future of what they're doing with various employment matters -- or benefits matters, sorry.
+
+**Lady Hallett**: Can I pick up on the data point that you've mentioned.
+
+**Lady Coffey**: Yeah.
+
+**Lady Hallett**: Dr Brewer raised the idea of a household dataset. You've described how the department holds an enormous amount of data at the moment, and you have a lot of analysts. Is there a need for more focused data collection? Are there gaps in data?
+
+**Lady Coffey**: So the analysts mainly do stuff, I'd say, analysis, at a very more macro level. The idea -- and I did read this -- I think it was in Dr Tetlow's report. So what I'm not entirely clear -- or how I've interpreted her suggestion is almost having a knowledge of household income by household. Now, interestingly, in terms of our fraud strategy that I wrote in '22, I wanted to have the ability, and that became our policy at the time, to be able to scan varieties of bank accounts so we could understand people's capital. Because this was one of the key elements -- it's one of the leading points of how fraud happens in our benefits system: people don't declare their capital.
+
+And my success -- and the government have basically decided that's too over the top, trying to understand it. So in the recent Fraud Bill, that's been scaled back. So I think it's unlikely that parliamentarians and the British public would ever want the government to know exactly what they've got, even if it was being done with the best of intentions to potentially help them in response to a future pandemic situation.
+
+So, that's a long way of saying we've come a long way in understanding people's income, but even self-employed, it's only next year that self-employed people are going to have to start declaring their earnings on a quarterly basis, to give a sense of how much income they have.
+
+So I think trying to over-analyse would end up becoming quite an arduous and perhaps not welcome task.
+
+**Lady Hallett**: Do you have any reflections yourself, looking back on things that could be changed for a future emergency that would allow the department to operate with more agility or better focusing?
+
+**Lady Coffey**: Well, what I hope, Lady Hallett, Mr Wright, is that we did learn a lot during the pandemic which we then used to make continuous improvements, and in particular, learning from what happened with Kickstart, learning what happened with some of the other job schemes. In our final -- we were set the challenge by the Prime Minister and the Chancellor to reduce unemployment by half a million people in six months as we were basically heading into December 2021 -- around that time. And we did it in five months. So we turned DWP into being an employment broker, different ways of doing interviews, learning from Kickstart when employers had been a bit too fussy on certain things or just gave out standard CVs.
+
+So there's number of ways that we have, that I hope the department is in a better place, as well as the extensive work that we did, combination of Covid but also business as usual on improving our understanding Jobcentre by Jobcentre, what was happening.
+
+So there's a variety of things there. I think in my written statement I've made perhaps a couple of things. What I've always found quite interesting is that ministers rarely interviewed for their role, or it tends to be National Audit Office to the Accounting Officer and officials, and actually there's a lot that ministers, I think, bring to how they do their jobs or can do, and how we get more into that as well.
+
+The other element would be -- look, I'm fortunate enough, I was trained by a really world-leading company, I worked for Mars Incorporated and -- very operational, and also bringing a lot of different acknowledge to that but I'm also a trained accountant. I did science. And trying to -- one of the things that in a different way business as usual, never mind a pandemic, every minister having a basic understanding of statistics will be a massive improvement in helping them make decisions.
+
+Even now on Select Committees people will send in representations which try to suggest something, and when you dig into it, it's not always all that they seem.
+
+So sorry if that sounds a bit dull and a bit technical, but I just, I think the other element and what I've always tried to encourage, and I think it's particularly true in a pandemic, is share the problem, bring evidence, don't hold back when things that you're trying something and it's gone completely wrong, share the problem, but also the "so what" so that you can make and prioritise judgements and prioritise the outcomes of what they might intend. Because when you're juggling so many different decisions -- and by the way, I should point out during Covid of course we were doing tonnes of other things, getting ready for Brexit and all this other stuff, so civil servants should never ever flinch away from bringing tough stuff to ministers.
+
+It's our job to be provided with the best evidence that we can and to make decisions and take the responsibility for them, but we need to do that with a good understanding of what underpins the recommendations.
+
+So that's a long way of saying: let us politicians who have to make decisions own the problem, but please give us enough information and evidence on which we can make a good decision.
+
+**Lady Hallett**: So as a Secretary of State, just picking up on that, you would be assisted by high-quality analysis being brought to you, which could then inform your decisions on an evidence-based basis; is that fair?
+
+**Lady Coffey**: Yeah. And we went through a big journey in DWP on our information, analysis, pipelines, you know, from something that was very tragic for -- well, millions of people, especially those who lost their lives tragically, but it was through that adversity that also other improvements we were able to make, to be better prepared for the future, pandemic or not, and to try and do the best we can in serving the people of this country and what we do in helping people getting to work or paying their benefits accurately and on time.
+
+**Mr Wright**: Thank you very much.
+
+Those are my questions, my Lady. I think there are some other questions.
+
+**Lady Hallett**: There are. Thank you, Mr Wright.
+
+Ms Hannett. Ms Hannett is just there.
+
+Questions From Ms Hannett KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Hannett**: Lady Coffey, I appear on behalf of Long Covid Support and Long Covid SOS.
+
+My Lady, you granted two questions. We're very grateful that the substance of the first was put by Mr Wright, so I will ask the second question only.
+
+**Lady Hallett**: Thank you.
+
+**Ms Hannett**: Lady Coffey, in your evidence earlier today you state that its important to engage with stakeholders to ensure that you have information from a variety of sources. Long Covid SOS wrote to you on 21 September 2022 emphasising the number of people affected by Long Covid and asked your department to consider their needs. They didn't receive a response to that letter. Do you accept that you should have met with organisations who represented those directly affected by DWP policies such as my clients?
+
+**Lady Coffey**: Did you -- sorry, Ms Hannett, did you say September '22?
+
+**Ms Hannett KC**: That's right, yes.
+
+**Lady Coffey**: Okay, I'm trying to remember if the leadership contest had finished by then, if I was still in post at DWP or not.
+
+**Ms Hannett KC**: Perhaps, if I may, don't worry so much about the letter.
+
+**Lady Coffey**: Okay.
+
+**Ms Hannett KC**: That provides the context of my question, but perhaps the critical point, really, is this: do you accept that you should have met with organisations who represented those directly affected by to be, policies?
+
+**Lady Coffey**: So the approach I took a lot throughout Covid was, because I had the overall vision of the department, attending in the Cabinet Committee meetings or the ministerial meetings on Covid, I would often be getting the like -- my ministers to do a lot of the stakeholder engagement. And that way, given that we had shared calls, certainly at the beginning of the pandemic, daily, but also I would have weekly meetings -- two weekly meetings with ministers at, plus I had a weekly report from ministers and then a monthly meeting, usually, there was a lot of interaction that was possible, and I know in particular -- well, all of them did a lot of engagement with stakeholders.
+
+**Ms Hannett KC**: Do you recall any of them reporting up for meetings with Long Covid Groups?
+
+**Lady Coffey**: I just -- I don't recall the details of individual things. It may be within the documents which I haven't got through that there might be reference in some of the weekly summaries, for example. Weekly reports.
+
+**Ms Hannett**: Thank you my Lady.
+
+Thank you, Lady Coffey.
+
+**Lady Hallett**: Thank you very much, Ms Hannett.
+
+Mr Ahluwalia. He's over there.
+
+Questions From Mr Ahluwalia
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Ahluwalia**: Thank you.
+
+Lady Coffey, I appear on behalf of Child Poverty Action Group. I'm going to ask you some questions based on three parts of your statement, and if we need that again, that is INQ000588238.
+
+First question is, you say at paragraph 111, which is on page 28 of your statement, in a section where you're talking about easements and Universal Credit, you say that the decision to suspend the minimum income floor for self-employed people on Universal Credit was:
+
+"... a straightforward decision, recognising that claimants' economic opportunities would likely be highly constrained so we could not expect claimants to be penalised financially."
+
+Would you consider that the same constrained economic opportunities also applied to those subject to the benefit cap during the pandemic. And if so, why did the government not consider removing the benefit cap at the start of the pandemic?
+
+**Lady Coffey**: The -- I'm sorry, I didn't catch which paragraph you were referring to?
+
+**Mr Ahluwalia**: It's 111, page 28.
+
+**Lady Coffey**: Okay, thank you.
+
+So, going back to the minimum income floor, there was, I guess, a perception early on -- because Rishi Sunak announced this on 11 March. I think it was his first -- part of his first statement. Since we were considering aspects of sick pay and the other, I think there was a perception that, particularly for self-employed people, it could -- recognising the particular sectors in which they worked, it could be all of a sudden no more work. And I think that's reflected in some of the comments made in the Everybody Matters Report.
+
+So, recognising that what happens with Universal Credit and self-employed, there's almost a target level of earnings that people are supposed to show to show that they're gainfully self-employed, is the phrase, and an expectation that that may not be realistic. So you then apply, effectively, a blanket change in the policy.
+
+In terms of the benefit cap, people new to claiming benefits, if they'd been working for some time, and actually quite a small amount of earnings coming in, then the benefit cap would not apply for the first nine months.
+
+So, at that point, I don't think that we were considering any changes to existing arrangements straight away.
+
+**Mr Ahluwalia**: So a follow-up to that answer, then. Even if the government did not consider removing the benefit cap at the start of the pandemic, once evidence of the economic situation became clearer, why did the government not consider removing the benefit cap later on in the pandemic?
+
+**Lady Coffey**: We -- I think I asked for some advice, thinking about extending the grace period. Covered that a little bit earlier, about how the computer UC build would make that difficult. And I think some analysis, from memory, came in which -- and by law, I'm required to do it -- was required to do it once at Parliament -- that came to the conclusion that with quite fluctuating scenarios -- and actually what we were starting to see is that people on lower incomes were probably more likely to have been made unemployed than higher incomes. That was starting to have an impact on when -- what was then becoming the weekly median earnings.
+
+So there was just too much shifting around to come to a proper conclusion about was this the right moment to change the benefit cap. And so I made a decision that we wouldn't consider it at that point.
+
+**Mr Ahluwalia**: Okay. Second question. I'm going to move on to ask about the uplift to Universal Credit and in particular, in your statement at paragraph 134, which is at page 35, you say that:
+
+"The rationale for the uplift to Universal Credit was to assist people experiencing increased economic hardship due to the pandemic. The uplift was intended to support those who faced the most significant financial disruption due to the pandemic, in particular those who lost or were at risk of losing, employment or significant earnings and were making a new benefit claim for the first time."
+
+Do you consider that a government should, when designing social security interventions in the context of a future pandemic or crisis, consider the need to protect the living standards of those with the lowest incomes?
+
+**Lady Coffey**: Well, I think, if I go back to then, I think I pointed out earlier that, after four years, that April 2020 was the first time that any benefits were getting an uprating, based on the September 2019 inflation rate. And inflation was particularly low at that point anyway, but in the future, I think it just -- I hate to say it, but it depends. Trying to work out what extra support could be needed, other elements were given, in that very first intervention, there was an extra half a billion pounds given to help everybody with Council Tax. More money came in through housing allowance change. That was a billion pounds. And meanwhile, we had -- people newly in were certainly getting support for the first time, but trying to align, say, somebody's salary to a UC standard allowance doesn't really work because UC, it will vary, sometimes you might get housing support, you might get -- so it's just a mixture of benefits.
+
+So I think trying to go above and beyond, unless there were significant increases in costs, then I don't see that changing radically the benefits system at that time would be a sensible approach when you're actually trying to accommodate people new to the benefits system.
+
+I mean, later on we did do the cost of living payment as an example when we had big inflation, and I made sure we did that in a different way and everybody on benefits got it. So that's when we took the leap of faith that it was okay to do very limited one-off payments, but that is still a challenge in a wider sense of thinking through what the impact of having large, one-off payments does.
+
+**Mr Ahluwalia**: Then Lady Coffey, third question is in relation to paragraph 195 of your statement which is at page 50 under the section headed "Reflections". And at 195 you say:
+
+"While I hope we are never in a situation again where most of the population is confined to their homes, a future government may want to consider if their focus at that moment was a substantial change in people's falling incomes, or other factors like cost of living spikes -- which may impact more those with children. This consideration should guide any future response."
+
+Why do you think it is important for any future government's economic response to a crisis or pandemic to put greater focus on the needs of households with children?
+
+**Lady Coffey**: Well, I think it's about being sufficiently agile to try and understand what is the situation you're trying to address. So there were a number of interventions throughout Covid, for example when we did introduce the Covid winter grant, I designed it, I set the criteria for 80% of the money. It was ring-fenced. Traditionally government or certainly local government doesn't like ring-fenced grants, but I did. So I think it is about tailoring in as straightforward a way as you can. But if we'd entered, say, if Covid had coincided with the outbreak of war and all of a sudden people's energy bills spiked like they did eventually later, but not at the start of Covid, then clearly we did a situation as a government which addressed that specific need.
+
+So I think you've just got to be agile rather than necessarily having pre-prepared solutions to what's needed at the time.
+
+**Mr Ahluwalia**: Lady Coffey, thank you.
+
+Thank you, Lady Hallett.
+
+**Lady Hallett**: Thank you very much.
+
+Ms Beattie. Ms Beattie is just there.
+
+Questions From Ms Beattie
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Beattie**: Lady Coffey, thank you, I ask questions on behalf of national Disabled People's Organisations.
+
+**Lady Coffey**: Yes.
+
+**Ms Beattie**: On 5 November 2020, the Cabinet Office commissioned the Department for Work and Pensions and the Treasury to consider and put forward a package of financial support to address the disproportionate impacts on disabled people, including specifically those on legacy benefits not covered by Universal Credit.
+
+Aside from general measures that applied to non-disabled and disabled people alike, what specific package of financial support did the Department for Work and Pensions put forward to address the disproportionate impacts on disabled people on legacy benefits not covered by Universal Credit?
+
+**Lady Coffey**: So my recollection is there was a looking at people who could be disproportionately impacted, but without a reference to a submission or an exhibit, I can't recall off the top of my head, but I'm happy to go away and try and find one.
+
+Forgive me. It may be in here somewhere I just can't remember exactly which -- where it might be.
+
+**Ms Beattie**: Well, I think you've referred to, in your answers to Counsel to the Inquiry, for example, to the relevance of whether people were newly unemployed or not. I mean, was that the focus of the department's response in respect of to anything for people on legacy benefits?
+
+**Lady Coffey**: Well, the situation I've already tried to explain to Lady Hallett, was that was our focus, and for the first time in four years, people on legacy benefits will have seen an increase in the amount of benefits that they had. I've already also tried to explain, on certain job schemes, we -- I wanted to make sure that Access to Work and Flexible Support Fund was being used accordingly.
+
+Now in terms of one of the broader elements of support given, it's possible that people who had -- that your organisations represent may have already been helped through the food boxes that went to people who had to shield. So that will have been considered.
+
+We also started doing some more work, as I say, on the Covid winter grant evolving into household support grants. I'm afraid just right now off the top of my head, I can't recall specifically your request, I'm sorry.
+
+**Ms Beattie**: So you can't recall anything specific on legacy benefits, just to be clear?
+
+**Lady Coffey**: I do know that there was work done on the disproportionately impacted, but I can't find right now in front of me, that's what I'm looking for, of what we might have had as an exhibit on some of that work.
+
+I'm just trying to find, and I'll just have a quick scan.
+
+I am aware that we of course were in the middle of also creating or starting to create a national disability strategy which DWP led on, and so there was already work going on thinking about that more broadly.
+
+**Ms Beattie**: Right. Can I assist, Lady Coffey --
+
+**Lady Coffey**: Forgive me, yes you can.
+
+**Ms Beattie**: -- is it right that, actually, in terms of any specific financial step, what happened -- the only thing proposed was that there would be the next round of annual uprating of benefits which would have then come in some five months later from April 2021 and in the event, because of the inflation level that you've mentioned being very low, was a very marginal increase of 0.5% in those benefit uplifts; is that right?
+
+**Lady Coffey**: I haven't got that figure to hand but I believe you are -- I believe what you're saying will be correct.
+
+**Ms Beattie**: Thank you, my Lady.
+
+Moving to Kickstart, Lady Coffey, you say in your statement that you were confident that consideration of disabled people would have been made as part of Kickstart. Counsel to the Inquiry has taken you to some of the concerns of the Minister for Disabled People about the lack of access and opportunities for disabled young people on Kickstart. Given that, what was the basis of your confidence that consideration of disabled people would have been made as part of Kickstart, and did you make specific enquiries in that respect?
+
+**Lady Coffey**: Well, I do know that every -- given Kickstart was creating regular jobs, every job was eligible to be considered for Access to Work financial support. Just like any other job.
+
+And I go back to I think Justin Tomlinson's -- having read the wider contribution he made, I think his frustration, or what I inferred from his wider email, was that there may be people on PIP not claiming other benefits, weren't claiming Universal Credit. They may have been at home with mum and dad, is I think how he put it. So he was frustrated that Kickstart specifically wasn't being opened up to them.
+
+By and large, the way our processes have worked as a department, as a government, is that if you're on benefits, you get support through -- particularly through DWP-created schemes. Other schemes are open, like there were start -- boot camps facilitated by DfE. The business department had other ways of trying to help with entrepreneurship.
+
+So there's a variety of avenues for people who weren't on benefits, specifically requiring them to look for work. There could have been other avenues for people to explore on how to get a job.
+
+**Ms Beattie**: But we obviously know that Kickstart was really focused on those young people, 16 to 24, who were at such risk from economic scarring and unemployment, so what -- was there anything targeted or a specific or significant step for disabled young people who were also in that position?
+
+**Lady Coffey**: Well, I think one of the things I think I tried to articulate again earlier, we had been set a challenge as a department to reduce -- to get the million people with disabilities into work. And we'd met that challenge during '22. So this was part of an ongoing kind of widened experience of trying to make sure that people with disabilities were considered in pretty much everything we did.
+
+I -- so there have been Work and Health Programme elements, courses. I come back to our focus was principally on trying to support people who were claiming benefits and seeking work. That was our focus, as DWP.
+
+**Ms Beattie**: And specifically, obviously, as you've already indicated, specifically claiming Universal Credit in this case?
+
+**Lady Coffey**: On Kickstart specifically, yeah. Otherwise we wouldn't necessarily know people are looking for work. There was other services, like Find a job prior to Covid was the second most searched government website. The only other one higher was people getting their driving licences and things like that.
+
+So we had already done a series of programmes. And as part of our National Disability Strategy, that was another aspect that we -- that was included in that.
+
+**Ms Beattie**: And in relation to accessibility issues within Kickstart, in your witness statement you say that you had no reason to believe, and it was not anticipated, that there would be any accessibility concerns for disabled individuals because of previous evaluations of the Future Jobs Fund.
+
+**Lady Coffey**: Yeah.
+
+**Ms Beattie**: Now, given that the Future Jobs Fund dated back to 2008 to '10, as I understand it, wasn't the very different context of 2020, including the onset of a global viral pandemic, and that you were now extending the scheme to the private sector, which hadn't been part of the Future Jobs Fund, sufficient reason to believe that position may have been different in relation to Kickstart on accessibility and needed to be looked at?
+
+**Lady Coffey**: Well, I think also confident in -- as I say, we were on a journey that had been forecast to take a decade to help a million more people with disability into work, and we were already making considerable progress on that. So I think it -- I haven't got a better way to articulate that trying to help people with disability get to work had become very much part of our DNA in every aspect as a department.
+
+**Ms Beattie**: And accessibility is obviously fundamental to that. You'd agree?
+
+**Lady Coffey**: Yeah.
+
+**Ms Beattie**: Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Ms Beattie.
+
+That completes the questions we have for you, Lady Coffey. I'm extremely grateful to you for your help and I suspect the members of the department who perhaps helped you put together the statement, I don't know. You've obviously done a lot of work preparing for today so I'm really grateful to you. And please don't do any extra work. If we want you to find out anything, I'll get the Inquiry to give you more specific detail so you can be entirely focused if there's anything extra we need from you.
+
+**The Witness**: I'm very grateful to you. Thank you.
+
+**Lady Hallett**: Thank you very much indeed.
+
+All right. I think I've been asked to break for five minutes because the next witness is attending remotely --
+
+**Mr Wright**: That's right, my Lady.
+
+**Lady Hallett**: -- and we need to set up. Thank you.
+
+*(2.37 pm)*
+
+*(A short break)*
+
+*(2.43 pm)*
+
+**Lady Hallett**: Mr Ormerod, can you see and hear us?
+
+**The Witness**: Yes, I can, thank you.
+
+**Lady Hallett**: Thank you very much for waiting. I hope we haven't kept you waiting for too long.
+
+**The Witness**: That's fine, my Lady.
+
+**Lady Hallett**: And if Mr Wright can now check that you can see and hear him.
+
+**Mr Wright**: Yes. Can you see and hear me, Mr Ormerod?
+
+**The Witness**: I can, yes.
+
+**Mr Wright**: Thank you. I think you'll now be administered the oath or affirmation.
+
+Mr Mike Ormerod
+---------------
+
+*MR MIKE ORMEROD (affirmed).*
+
+Questions From Richard Wright KC, Lead Counsel to the Inquiry for Module 9
+--------------------------------------------------------------------------
+
+**Mr Wright**: You are Mike Ormerod; is that right?
+
+**Mr Mike Ormerod**: That's correct.
+
+**Ms Beattie**: And you are a member of the Long Covid Support Operations Committee and have focused on economic support; is that right?
+
+**Mr Mike Ormerod**: That's correct.
+
+**Ms Beattie**: And you're one of the co-authors of a witness statement to the Inquiry, and I'm going to give the reference, Mr Ormerod, for the Inquiry's purposes, which is INQ000657079.
+
+Now, Mr Ormerod, you are speaking for yourself of course, but also on behalf of Long Covid Groups; is that right?
+
+**Mr Mike Ormerod**: Yes.
+
+**Ms Beattie**: Mr Ormerod, I recognise that you have cognitive and physical issues that you suffer from as a result of Long Covid, and I'm going to try and take those into account in the way I ask you questions, and so I'll give you plenty of time to process my questions, and I'll try and keep the questions short.
+
+If I'm failing in that, please let me know.
+
+**Mr Mike Ormerod**: I will, thank you.
+
+**Ms Beattie**: Mr Ormerod, we are speaking obviously over a link and we will try not to talk over one another and so I'll wait until you have obviously finished speaking before I ask another question, and similarly, can you wait until I have obviously finished asking my question before you start answering?
+
+**Mr Mike Ormerod**: Yes, I will.
+
+**Ms Beattie**: To try and help you, Mr Ormerod, I'm going to try and structure my questions under topics and I'll let you know the topic when I move from one to another.
+
+There are various documents that I might ask to be put up on the screen, and I know that it helps you, in fact, to be able to read things and process them from the screen and so you take your time to do that whenever I put something up.
+
+The first topic, Mr Ormerod, I want to ask you about, relates to the economic vulnerability of people with Long Covid, and I know that you'll be speaking in part from your own experience. And I want to first of all ask you to focus on the long-term health implications of Long Covid, accepting that every person with Long Covid may have a different experience.
+
+So can we concentrate first on that and try and get, please, a high-level understanding that you can help us with about the specific extra health difficulties that come with Long Covid. So this is over and above what might be thought of an ordinary infection with Covid and recovery.
+
+All right?
+
+**Mr Mike Ormerod**: Certainly. I'd just like to give a short context before I answer the question in full. Natalie Rogers and I both have Long Covid, we both have cognitive impairments. The effort of preparing the witness statement and preparing to give evidence has caused relapses for us both.
+
+Over the last year I have had to plan every part of my life, my Long Covid symptoms, managing them, to create literally 15 minutes, 20 minutes, half an hour, to work on writing and giving evidence to the Inquiry. And I'd really like to stress that today is not the tip of my capability iceberg; it's like the ice cube on the tip of the iceberg. It's just so far from my normal.
+
+I also want to point out that during the session I will be discussing the cost of failure from the economic interventions and valuations of health-related quality of life. Both Natalie and I know from experience that these costs of failure and valuations are measured by people dying and profound losses.
+
+**Ms Beattie**: Yes, thank you for that, Mr Ormerod, that I can assure you everyone in the hearing room has heard.
+
+I'm going to now ask you to focus on particular questions, please, and particular extra health difficulties you've identified. Firstly, you say in your statement, or you describe Long Covid as both disabling and fluctuating; is that right?
+
+**Mr Mike Ormerod**: Yes, it is. So the fluctuating can be triggered by any exertion, whether that's physical, mental, cognitive or emotional. It's essentially anything that you expend energy on can cause that fluctuation.
+
+That fluctuation can last a short period of time, it can last for days. For some people it can last into weeks and months, triggering, sort of, two conditions, called post-exertional malaise and post-exertional symptom exacerbation, which are one of the type -- you know, they're -- they're one of the core criteria of Long Covid, and also ME/CFS is an example.
+
+**Ms Beattie**: You have said in your statement that there are over 200 identified symptoms of Long Covid from cognitive impairment to kidney disease and you make the point that there is no standard clinical pathway; is that right?
+
+**Mr Mike Ormerod**: That's correct. So we have Long Covid clinics in the UK, each of which have effectively their own clinical pathway, and they're not consistent across the UK. Some areas of the country have no Long Covid clinics, and so the -- the ability for GPs to refer people on for more advanced investigation, diagnosis and support, varies dramatically across the UK.
+
+**Ms Beattie**: Thank you.
+
+I want to move on to look at the resulting economic consequences of suffering from Long Covid and I'm going to ask that page 13 of your statement is put up on to the screen. This is paragraph 8.4. Have you got that, Mr Ormerod?
+
+**Mr Mike Ormerod**: Yes, I can see that.
+
+**Ms Beattie**: And these are figures that come from an Office for National Statistics survey that you've put into your statement, and this is at March 2023 across the United Kingdom for just the 381,000 how Long Covid sufferers whose daily activities are limited a lot. You set out there from that survey that 16.7% were no longer in paid work and had no work income.
+
+11.5% were no longer in paid work but were receiving work income such as sick pay or permanent health insurance.
+
+23.5% had reduced paid work hours.
+
+There was £5.7 billion in lost income from infection to February 2023, that being a cumulative total.
+
+And £4.8 billion of informal caregiving to February 2023; again, that being a cumulative total at that point.
+
+And is this right, Mr Ormerod: that for some people, Long Covid will mean they cannot work at all, but for other people, they may be able to work, but their work will be of a different quality than it was before they contracted Long Covid, that their productivity may be affected, and their ability to work the same number of hours may be affected.
+
+**Mr Mike Ormerod**: Yes, that's correct. And symptoms are very individual, so I -- I can't actually think of anybody I've met who's got exactly the same symptoms except -- as me. There are there's lots of overlap between people's symptoms, and that has an implication in that if you are well enough to work and able to find work, then any reasonable adjustments that need to be made have to be tailored to your individual symptoms. There isn't a one-size-fits-all, for example, like you might see with, say, diabetes.
+
+**Ms Beattie**: And you make the point in your statement that the condition comes at a financial cost to the individual, the employee, if they remain in employment, but also at a financial cost to the employer for the reasons that I've just been through with you, in terms of quality of work, productivity, hours worked, and so on, and support required.
+
+**Mr Mike Ormerod**: Yes, and we quoted in the witness statement a research study in -- from Canada. They recruited people with Long Covid, and in that -- that study, 18.7% had Long Covid. All of these people were working full time, so they're not in the 381,000 "impacted a lot" category. But the results of that study showed that they were three times more likely to take time off, they were over four times more likely to report lower work performance, and, in total, that came up to a loss of 10.8 working weeks per year, a combination of time off and drop -- drop in productivity.
+
+That's possible to value, that productivity loss. So, for example, if you took the March 2021 productivity loss, that would come out at about 2.8 billion a year in the UK, using the "impacted a little" population. If you took the same population at 2024, which is up to 1 million at that point, then that productivity loss would come out at about 8.1 billion a year, so we're talking really substantial impacts.
+
+**Ms Beattie**: And so the broader point you make in your statement, Mr Ormerod, is this right: is that there is a significant macroeconomic impact affecting the entire economy from Long Covid?
+
+**Mr Mike Ormerod**: Yes, and it's composed of lots of individual impacts, as opposed to just, you know, there being one big one. It's the additive of all the costs in the whole system of the economy.
+
+There's one thing I just want to go back to, because I forgot to mention it -- very appropriate, as it's about cognitive impairments -- is that the UK Defence Medical Services looked at serving personnel and they found that the people who had -- the staff who had cognitive impairments were operating at the level of the UK drink driving limit or having aged ten years. So the cognitive impairments can have a really, really profound effect on people's ability to work.
+
+**Ms Beattie**: I want to move on, Mr Ormerod, to look at some specific economic interventions that were taken by government and I want to focus first of all on Statutory Sick Pay. And before I turn to Statutory Sick Pay itself, I'd like your assistance with what you describe at page 10, paragraph 7.3 of your statement, as the approach of "illness as usual" that is the approach that is common, you say, in the United Kingdom.
+
+**Mr Mike Ormerod**: Yes.
+
+**Ms Beattie**: Could you just explain what you I mean by the "illness as usual" approach?
+
+**Mr Mike Ormerod**: Yes.
+
+Effectively you get sick with a disease that's known or a condition that's known and understood. You can go and see your GP, you can get referred to hospital, you can get treatment, you can get drugs, you can get rehabilitation.
+
+Sadly, some people might die from that condition, but most, obviously, will recover back to their best stable level. For example, if you have the flu, you're going to take couple of weeks off, you might see the GP, but generally, you'll come back to -- you just go back to work when you're finished with the flu.
+
+Typically, return to work is either straight back or, in more serious cases, it's over a period, and typically in the UK, that -- from an employer's perspective, that's over a period of about four weeks, phased return to work.
+
+And it works well for most illness, it works well for all the illnesses where we've got good clinical experience, we've got clinical pathways, standardised treatments, NICE clinical guidelines, all the medical infrastructure to manage and treat that illness.
+
+Long Covid breaks that completely. Five years ago it did not exist, so when Long Covid started, there was no specific medical knowledge, no diagnostic tests, no cures, no clinical pathways.
+
+The recovery trajectories for Long Covid vary widely, so some people are going to return to their pre-Long Covid level of health, some will have some improvement, but not full recovery, and unfortunately some people do not recover at all.
+
+Even if you recover or improve, the experience of catching another infection, having surgery or another Covid infection can actually trigger a long-term change in your symptoms. The recovery trajectory is one of the big critical areas because the understanding about how many people are going to be able to work, and at what level, how many people are not going to be able to work, is driven by those recovery outcomes, and we're only five years in. So we have no long-term view, as we do for every other disease that we routinely see.
+
+I want to finish on that just to reinforce that, as of today, there's no agreed biomarkers or tests for Long Covid. The treatments that there are, are orientated at managing symptoms, and currently there is no cure. So we've moved an enormous distance in the last five years in medical research but we are still not into the "illness as usual" category.
+
+**Ms Beattie**: And the point you have just made is that Long Covid does not fit comfortably at all into that "illness as usual" category because of the variability of symptoms, and their fluctuation. So do you, Mr Ormerod, looking ahead, say that, in any future pandemic, the fact that a novel condition may arise that doesn't fit into the "illness as usual" pattern needs to be factored into planning?
+
+**Mr Mike Ormerod**: Absolutely. And in terms of that pre-pandemic planning, it needs to look at, for example, disease scenarios to say: well, the long -- the new disease might have a pattern similar, to, say, SARS-CoV-1 in terms of severity and the frequency of impact. It's not -- you can plan different options and you can test the response plans against those different options but that --
+
+**Ms Beattie**: Thank you.
+
+**Mr Mike Ormerod**: -- that was fundamentally one of the major failures for people with Long Covid, is that it was not in the pre-pandemic planning, long term sequelae.
+
+**Ms Beattie**: So taking the focus back to Statutory Sick Pay, do you also say that the United Kingdom's Statutory Sick Pay scheme assumes "illness as usual", and that Long Covid, therefore, does not align well with the requirements and rules of the Statutory Sick Pay scheme?
+
+**Mr Mike Ormerod**: As the Statutory Sick Pay scheme stood at the start of the pandemic, absolutely. The reforms that are potentially coming will make some difference, but the Statutory Sick Pay scheme, if you're lightly impacted by Long Covid, then it's a better fit. If you're severely impacted by Long Covid, you're unable to work and you're not likely to be able to work in the long term, it doesn't fit.
+
+The other aspect was eligibility. So, for example, if you were in low-income jobs, you had multiple jobs, and none of them met the lower earnings limit, you couldn't get SSP. There were sections of the community in the UK, and what are described by gender, ethnicity, the industry sector in which they worked, they were employed, those particular sectors, like hospitality, would all increase your risk of catching Covid, and that would increase your risk of Long Covid. You might not be eligible for SSP at all. If you're a low-income individual, then losing 50 quid is a significant income loss for you.
+
+And hospitality was a very good example, because in a government survey back in July '21, that identified that in the hospitality sector, 10 out of 50 employees were offered no sick pay at all by their employer.
+
+So a lot of our members fell through the safety net, and in many cases there was no safety net for those people.
+
+**Ms Beattie**: And so I think, Mr Ormerod, you advocate any Statutory Sick Pay regime in the future having a pathway within it that acknowledges those with fluctuating and variable health conditions; is that right?
+
+**Mr Mike Ormerod**: That's correct. So we have the "illness as usual" pathway, which is what we have today, and then we have a long-term/chronic pathway for Long Covid and other conditions. ME/CFS and fibromyalgia are two good examples. Lots of people with Long Covid meet the diagnostic criteria for ME/CFS because it's overlapping symptoms.
+
+Lots of people with Long Covid have pain. I have crippling pain. And it's the same set of symptoms and problems experienced in terms of being able to work.
+
+It's interesting that the NHS and the National Institute of Health Research are looking at how to converge clinics for long-term chronic conditions into a sort of single service to maximise the benefit and maximise the cost effectiveness.
+
+Moving forward to the next pandemic, then, again, we need two pathways defined: one for the acute infection stage. And it may be far more severe, that acute infection. And I'm thinking, if you think about SARS-CoV-1, for example, in terms of the number of people who were hospitalised, it had a very low infection rate but very significant impact.
+
+Then you've also got the long-term, what happens to the long-term sequelae pathway, which is what happens after you've recovered from the acute infection.
+
+Now, they are absolutely pandemic planning, and the government's sort of responses would need to account -- or planned responses would need to account for the different ways you would need to support people, whether that was flat rate, furlough-type schemes, higher rate for low-income families, just as some examples, that would give the government flexibility to tailor the response to the new pandemic disease.
+
+And just picking up from the DWP -- sorry, Dame Thérèse Coffey's point, agility is important, but you need the pre-planning to go with the agility. Because in some cases, you will need to put things in place which you activate when the situation occurs. And you will not be able to build those during the pandemic.
+
+**Ms Beattie**: Thank you for that answer, Mr Ormerod.
+
+Can I turn to Universal Credit, and just preface this question, because you may not have heard the opening statement, or indeed been present at the earlier hearings, but questions about the level of benefits generally are outside the scope of this Inquiry. I know that you say in your statement that the level of financial support available through Universal Credit and other benefits are inadequate and you set out the financial pressures, but what I really want to focus on is not level of benefits but this question: are you advocating for specific support schemes financially for Long Covid, or are you advocating for additional support for those with any fluctuating long-term health condition?
+
+And I ask you that question in the light of evidence that Dr Brewer gave and other evidence we may hear to the effect that it's difficult to, he argues, say there should be support for one particular condition over one other.
+
+So can you address that question? I'm sorry, it was a fairly long question, which I promised not to ask you, but if you want me to repeat any part of it I will, but that's really the focus of the question: are you saying there should be Long Covid specific support by a bespoke scheme, or are you, rather, saying that there needs to be -- or the scheme should apply to any fluctuating health condition?
+
+**Mr Mike Ormerod**: Can I just go back and read the transcript?
+
+**Ms Beattie**: Of course. You take your time.
+
+**Mr Mike Ormerod**: Okay.
+
+I am clearly advocating that -- the Long Covid Support and Long Covid SOS, the Long Covid Groups, are advocating that the financial support is there for people with Long Covid, which, as you've described, is a highly complex, fluctuating, variable condition. It's -- in some ways it's more challenging, because we don't have long-term understanding, compared to some of the other conditions like ME/CFS, fibromyalgia, about how long people are going to operate at the level they're capable of, whatever that level is, if severely impacted, slightly impacted, and how that might change over time.
+
+So I guess the short answer is: we are advocating for both, but we are absolutely advocating that Long Covid, as it's so far from the "illness as usual", requires a distinct support, but what we're saying is that there are a number of other conditions, ME/CFS, where the patterns are very similar, the symptoms are very similar, and the impacts are very similar.
+
+So it's a system that would require to be able to support Long Covid plus other, you know, appropriate conditions.
+
+**Ms Beattie**: Thank you, I understand your answer.
+
+Can I then turn to the future, and forward-looking questions. You have already raised the -- what you have characterised as a failure to plan for a novel virus that may have infections and long term sequelae, so a lack of planning, and I think you advocate that there should be planning in any future pandemic for the potential for a virus to have those long-term implications; is that right?
+
+**Mr Mike Ormerod**: Yes. And those plans are not going to be, in my view -- personal view, because I used to work in business continuity as part of my career -- those plans would not be the definitive answer. They are a framework with options for responses that can be applied, and modified to meet the actual disease as it appears.
+
+**Ms Beattie**: And that really, I think, picks up on the question I was about to ask, then. It's not really just planning in advance of any future emergency, but systems for monitoring, evaluation, and revision of plans as an emergency develops.
+
+**Mr Mike Ormerod**: Absolutely. And I think that's -- from the perspective of Long Covid, if we look at the history of it, it was driven by patient advocacy in terms of generating the awareness. You know, I have to quote in the -- I put in a witness statement -- we have to quote research that was done outside of the Inquiry's relevant period, because there was a failing to do the right level of investigations at the pace and the level needed to answer the questions that we are asking today.
+
+So if that investigation had been done, and it had covered the relevant aspects, it had looked at the economic impact, it had looked at the health impact, it had looked at the benefits impact, then we'd have had better responses during the pandemic, and we would be in a much better position for people with Long Covid today.
+
+**Ms Beattie**: Thank you. And do you also advocate that there should be better and increased analysis of the economic impact of novel conditions that develop in a pandemic as they develop?
+
+**Mr Mike Ormerod**: Yes. To me, it's about gaining the understanding of how the disease is impacting people and how they respond, how employers respond.
+
+Sorry, there's a thought there in terms of ... yes, sorry. You know, one of the markers that we use for looking at the impact is economic inactivity where people have basically stopped work, and are not working, and are not really tied to -- they're not tied to a job any longer but they're unable to look for work.
+
+The way that people solve their financial problems in families with Long Covid is they're very creative. They have to be. They're creative out of desperation. So some of the solutions, for example, might be both partners end up reducing their workload, their work, so they both go part-time. One, because that's all they can tolerate with Long Covid, and the second is because they need to either provide care, but also cover the family responsibilities which the individual with Long Covid can no longer do.
+
+So the actual on-the-ground responses of people to the situation are not -- are very flexible and complicated; and that's one of the reasons why, for example, in our recommendations we talk about "nothing about us without us", because unless policymakers, decision makers, understand how people actually cope then they won't understand the stats or won't be looking for the right stats, the right data to help them understand the impact and make effective policy decisions.
+
+**Ms Beattie**: Just finally, Mr Ormerod, don't you make also, though, a wider point, which is that -- I think your argument is that if people understood the actual effect on the economy, so the true scarring effect of Long Covid, and actually understood the extent of it, then it would be promoted up the hierarchy of things to take into consideration when fixing economic policy?
+
+**Mr Mike Ormerod**: Yes, I think that's very spot on. There's an old saying that I was taught a long time ago and still use, "If you don't measure it, you can't manage it", and I know if you're not measuring the impact of Long Covid effectively, you're not understanding the scale and the numbers, then the decisions are going to be less than optimal, if not flawed or wrong.
+
+**Mr Wright**: Thank you very much, Mr Ormerod.
+
+My Lady, those are my questions.
+
+**Lady Hallett**: Thank you very much, Mr Ormerod. I'm truly sorry to hear the extent of your problems caused by Long Covid and the fact that you tell me that both your condition and Ms Rogers' condition has been exacerbated by helping the Inquiry. I'm truly sorry for that but I am extremely grateful to you both for the help that you've given and obviously to you for giving evidence today. I appreciate it can't have been easy for you. So thank you very much indeed.
+
+**The Witness**: Thank you, my Lady.
+
+Could I just make one final comment?
+
+**Lady Hallett**: Of course.
+
+**The Witness**: The reality for people with Long Covid is many of us have become newly disabled. Our lives have been radically altered. Many of us can't work. We've lost jobs, we've had to reduce hours, and in many cases people have just simply had to move to less demanding jobs, which drives things like long-term financial insecurity and poverty. Their children's future lives have been changed, because of disruptions to their education because of the illness of parents, and also by the impacts of insecurities in the parents not being able to meet basic needs such as food, housing and heating.
+
+We remember -- sorry, this is where I get very emotional -- we remember the people that we knew who have died, either directly from Covid-19, from long-term complications, or with Long Covid.
+
+We remember the people that we know who are living with Long Covid, and in far too many cases we are just existing with Long Covid.
+
+We remember Ondine Sherwood, who died recently. She was the CEO of Long Covid SOS. And she was the first Long Covid advocate I came across in my own journey, and she contributed to me starting advocating for Long Covid.
+
+I also want to thank the Inquiry team for all the adjustments they have made which have allowed me to give evidence today. It's been very, very supportive. Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Ormerod.
+
+As you say, we do remember all those that you've mentioned, those who have died and those who have suffered. So thank you again.
+
+I don't know, Ms Hannett, would you like to have a word with Mr Ormerod before we cut the link?
+
+**Ms Hannett**: We can do that.
+
+**Lady Hallett**: We can do our best.
+
+Mr Ormerod, if you'd like to speak to your Long Covid team before we cut the link, I'll leave the hearing room now and we'll try to make arrangements to ensure that Ms Hannett and others can have a word with you; all right?
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Thank you very much, I think that completes the matters for today.
+
+**Mr Wright**: It does, my Lady.
+
+**Lady Hallett**: I shall return for 10.00 tomorrow.
+
+*(3.19 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+

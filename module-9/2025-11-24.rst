@@ -1,0 +1,1357 @@
+24 November 2025
+================
+
+*(10.29 am)*
+
+Opening Remarks by the Chair
+----------------------------
+
+**Lady Hallett**: Good morning.
+
+Today we begin the public hearings into Module 9, investigating the economic response to the Covid-19 pandemic.
+
+It's a subject that raises some difficult and complex issues, but I'm confident that with the help of the Inquiry team, the Core Participants, the witnesses, the experts, and the large quantity of written material the Inquiry team has gathered, we shall navigate our way through them successfully over the course of the next four weeks.
+
+For those who are new to Inquiry hearings and for some who are old hands, I should emphasise that they must stick to the issues that are within the scope of this module and the scope of the Inquiry, and they must stick to the timings allotted to them.
+
+I shall be forced to be strict on both. I do not wish to interrupt speakers mid-flow but I will if necessary.
+
+We shall start as we always do: with an impact film in which we hear from a range of contributors. Some describe the financial and other impacts of the pandemic and pandemic measures on them and those around them and some describe the impact on those whom they tried to help.
+
+There may be those who find parts of the film distressing. If you're one of those and following online, may I suggest you pause the live stream and return after about 21 minutes. If you're here at Dorland House, please leave the hearing room in a moment.
+
+The Inquiry's website provides links to organisations that may be able to help and here at the hearing centre we have the Hestia counselling team ready to assist.
+
+After the film has been played we shall reassemble and Mr Richard Wright King's Counsel, Counsel to the Inquiry, will begin his opening submissions. He will set the scene, provide some background, and explain the issues that we shall be examining in this module in more detail.
+
+I will now pause for anyone who wishes to leave the hearing room or press "pause" on their device, and then the film will be played.
+
+Very well, please play the film.
+
+*(Impact film was played)*
+
+**Lady Hallett**: Thank you very much.
+
+Mr Wright.
+
+Opening Statement by Richard Wright KC Lead Counsel to the
+----------------------------------------------------------
+
+**Richard The**: INQUIRY for MODULE 9
+
+**Mr Wright**: On 14 February 2020, the day after he had been appointed as Chancellor of the Exchequer, Rishi Sunak received an internal briefing paper prepared by Her Majesty's Treasury. The paper was titled "The potential impact of the Covid-19 (Coronavirus) outbreak on global growth and financial stability".
+
+It observed that on the then-assumed reasonable worst-case scenario of between 25 and 50% of the UK workforce becoming infected in a pandemic that lasted for four months, GDP could be estimated to be between 0.6% and 1.3% lower than expected by 2021.
+
+Within weeks, that reasonable worst-case scenario for the United Kingdom economy had been overtaken by global events and consigned to history. The only element of the briefing note that held good was the concluding observation that "with little data or precedent" uncertainty surrounded any estimates of economic impact.
+
+By 20 April 2020, a further internal paper prepared by Her Majesty's Treasury concluded that the United Kingdom economy was "effectively in hibernation". The action taken by the Government of the United Kingdom and the devolved nations to combat the risk to public health post by the virus had resulted in a cessation of economic activity across large swathes of the economy.
+
+Data from the most recent quarter, in which just 16 days had been affected by social distancing measures, recorded a fall in GDP at the sharpest rate since the General Strike of 1926, and the Office for Budget Responsibility was predicting the largest fall in the United Kingdom economic output for over 300 years.
+
+By the end of 2020, that prediction was confirmed as a hard reality with the data demonstrating a fall in GDP of 10.3% over the course of the year, that figure representing the most significant annual fall in GDP in the United Kingdom since the early 1700s.
+
+If the economic shock of the pandemic was unprecedented, then so was the response of the government in attempting to meet it. On 17 March 2020, in a speech in Downing Street, the Chancellor of the Exchequer declared that:
+
+"The coronavirus pandemic is a public health emergency, but it is also an economic emergency. We have never, in peacetime, faced an economic fight like this one."
+
+He continued:
+
+"This government effort will be underpinned by government interventions in the economy on a scale unimaginable only a few weeks ago."
+
+The cost of the interventions taken by government necessitated an unprecedented surge in public expenditure. Predicted to cost in the region of £350 billion at the time the support was announced, by 2023, the Treasury estimated that the total spending of government across all schemes was £373 billion.
+
+The pressures on the public finances caused by the pandemic were not just a result of that government spending. They were also the result of the other economic effects of the pandemic; as economic output fell, so did tax revenues, whilst tax compliance also declined.
+
+This massive rise in spending was funded through borrowing, causing an unprecedented sharp increase in public debt. Borrowing during the pandemic contributed to a near tripling of debt levels since the onset of the financial crisis in 2008.
+
+All of these high-level statistics of course translate into the experiences of individuals throughout the United Kingdom who found themselves rapidly and severely impacted by the economic shock of the pandemic. One contributor told the Inquiry's listening exercise, Every Story Matters, about their own experience as a small business owner in this way:
+
+"One awful day, I had to call 80% of my staff and tell them that we had to make them redundant because there was no job for them anymore. And I cried. I didn't sleep all night. I was so, so upset. I had people that had worked for me for seven, eight years, and I had to say, 'I'm so sorry, I literally can't afford to pay you anymore because we've got no business'."
+
+In the course of these public hearings, we are going to hear from witnesses whose evidence can helpfully be considered under a number of broad subject headings under which we will focus our investigation.
+
+First, we will examine the initial economic response to the pandemic. That will necessitate exploring the scale and nature of the economic shock that was being faced, the relevant economic considerations of government in responding to that shock, the range of viable policy options open to it, and the early measures implemented, particularly the announcement of furlough, a truly significant and unprecedented moment in United Kingdom economic history.
+
+Second, we will explore the economic decision-making systems and structures through which the UK Government and the governments of the devolved administrations formulated economic policy. This will necessitate an examination of the advice receive by government, the success or otherwise of cross-government working, and the sharing of data and analysis.
+
+Third, we will examine the monetary policy decisions taken independently by the Bank of England that complemented the fiscal response of government. In particular, this will entail consideration of the reduction in the bank rate and the rounds of quantitative easing that the Bank of England undertook.
+
+We will explore these issues in the context of the nature of economic shock caused by the pandemic, and how bank policy aligned with that shock.
+
+Fourth, at a high level, we will consider how the government funded its fiscal interventions on a UK-wide level and how emergency funding for the devolved administrations was determined and delivered. We will go on to consider how local authority funding was determined and administered across the four nations of the United Kingdom.
+
+Fifth, we will consider the key measures taken by government to support jobs and the self-employed, with particular focus on the Coronavirus Job Retention Scheme and the Self-Employment Income Support Scheme. Under this broad heading, we will also explore the other key schemes that were introduced and designed to rebuild and restart economic activity as restrictions were eased, such as the Kickstart and JETS schemes.
+
+Sixth, we will explore the delivery of support for business, including through the various loan and grant schemes that operated on a UK-wide basis, and through some of the discrete schemes implemented by the devolved administrations.
+
+Seventh, we will consider the steps taken by government to alleviate economic hardship, understanding that inequalities existed in both the labour market and the economy before the pandemic, and were exacerbated during it, and examining the policy approach to this issue.
+
+We will explore the uplifts to universal and working tax credits, and the support given to the voluntary and community sectors.
+
+Eighth, and finally, we will conclude by considering steps that might be taken to manage risk and better safeguard public funds in any future pandemic, acknowledging that there is an inevitable trade-off between the need for a speedy response to an acute shock and the risks to the public purse from fraud, error, and the delivery of untargeted support that does not provide value for money or have a positive economic benefit.
+
+At the heart of this final strand of investigation is a consideration of the importance of data and analytical capabilities across the United Kingdom Government and the devolved administrations.
+
+Across each of these areas of investigation, it is important to acknowledge that the scale, speed, and depth of the economic shock faced by the United Kingdom and by the global economy was indeed unprecedented. Any policy response was being formulated at pace, and without any clear timeline of the likely duration of the pandemic or the severity of its consequences.
+
+Your Ladyship will of course be careful not to approach your investigation in this module by applying an artificial perfect hindsight to the economic decisions that were taken, but will consider the steps that were taken in their proper context.
+
+We will be exploring bold decisions that, on any view, were implemented at speed and intended to deliver immediate and tangible benefits to business and individuals facing a storm of economic uncertainty.
+
+Equally, where subsequent events may have demonstrated missteps or questionable policy decisions, we intend to explore them fully. We intend to do so in order that your Ladyship might identify appropriate lessons that can be learned, alternative approaches that could be considered, and improvements that should be made to better facilitate the delivery of economic support in any future pandemic.
+
+Economists, as an academic community, are unlikely to ever reach a consensus of opinion on any or all of the issues that your Ladyship is considering in this module. For that reason, our investigation is not in the form of a crude success or failure evaluation of the various measures introduced by the governments of the United Kingdom and devolved nations in the course of their economic responses. Any attempt at such an evaluation immediately runs up against the problem of a lack of any counterfactual scenario against which to test the UK response.
+
+Similarly, we may note from time to time that alternative approaches to the delivery of economic support were taken by other nations, but we do so to identify the range of potential policy responses in any economic emergency, and not in an attempt as a comparative analysis of the success or failure of those differing approaches.
+
+Having outlined the overall approach to your Ladyship's investigation in this module, I turn now to each of those eight subject headings to expand, where appropriate, on the issues that are likely to be engaged in the course of our hearings over the next four weeks.
+
+The initial response, then.
+
+If the speed and scale of the economic impact was unprecedented, it was perhaps not entirely unpredictable. As James Smith observes in his expert report, historical experience supported the proposition that whilst the pandemic was fundamentally a health crisis, it was one that would inevitably do great economic damage. That damage would be occasioned both by the direct impact of the virus on health, and also as a result of the steps taken, whether mandated by government or voluntarily by the public, in response to that health crisis. For instance, the impact of social distancing would have an inevitable effect upon incomes, public confidence, the labour market, and supply and demand in the economy. Each of those short-term effects in turn had the potential to translate into longer-term effects on jobs, investment, and productivity.
+
+On any view, this was an economic shock of a very different kind to that experienced in previous economic downturns. The closing down of significant sectors of the economy had an immediate and massive impact on the demand side of the economy, as any spending that was tied to face-to-face interactions collapsed overnight following the announcement of the first lockdown.
+
+Moreover, there was also a significant supply-side shock to the economy occasioned by the closure of those sectors; workers were unable to go to work, productivity reduced, and even when sectors of the economy were able to reopen, they were less productive than they had been prior to the pandemic. Even in sectors that were not shut down, supply-side shocks were present as the virus increased absenteeism, either directly through the illness, or as a result of employees having to discharge caring and care-giving responsibilities.
+
+The additional supply-side nature of the shock caused by Covid marked out the pandemic from previous instances of financial crisis, and necessitated a policy response from government that addressed both the supply and demand shocks.
+
+Appreciating and understanding the scale and nature of any economic shock is comparatively easy to do after a long lag during which official statistics founded on hard data become available. In contrast, those making policy decisions at pace in the early stages of the pandemic did not have access to that dataset, and so were having to make decisions in the face of a rapidly-worsening crisis by reference to a wide range of higher-frequency proxy data.
+
+One example of that data is the record of the number of claims made for Universal Credit. A 20 April 2020 briefing to the Chancellor suggested to him that between 16 March and 20 April, the number of claims for Universal Credit increased by 1.5 million, with 1.1 million of those claimants not in employment, an indicator of large increases in job losses.
+
+Because the pandemic was primarily a health emergency, tackled by restrictions on human interactions, the economic shock was highly uneven. Those sectors of the economy that relied on human contact, such as the hospitality sector, saw the greatest falls in economic output. The extent to which a sector would be economically affected was intrinsically linked to the dependence of that industry on face-to-face interaction and the extent of health restrictions on such interactions at any given time.
+
+The uneven sectoral impact translated into a significant variance in economic impact on the labour market by age and income. Those who worked in sectors that were more significantly impacted by restrictions were already typically low earners compared to workers across the economy as the whole. As James Smith has observed in his report, 80% of social housing tenants worked in sectors of the economy that were most significantly affected by social distancing. Fewer than one in ten low earners were able to work from home, compared to half of those in the highest-paid jobs.
+
+Furthermore, the financial vulnerability of low to middle-income families prior to the pandemic was significant, with 55% of adults in those families reporting no savings to which they could have recourse. A pandemic that disproportionately affects those on lower incomes amplifies the economic impact, indicating the need for a large-scale policy response.
+
+The unequal impact of the economic shock on different sectors of the economy and on different individuals was summed up by a contributor to Every Story Matters who was self-employed as a freelancer in this way:
+
+"I was, at the time, and still mostly am, a freelancer, self-employed performer, musician and technician ... for live events and occasions. And I was on tour with [the] Circus ... As both freelancers working in the live event industry, we were both unemployed, largely. In some circumstances people were just working from home and all that, there wasn't really an option for us."
+
+Another self-employed person related that:
+
+"We were living on next to nothing financially. We were living on very basic food because we could not afford to go and buy anything other than very basic food ... Everyone was doing the same thing, we weren't special. Just to pay the bills that mattered, the rent, the electric, the water, the council tax, the lease on my van, because I still had to keep my van."
+
+The impact on family finances was also uneven, as between lower and higher-income families. Those on higher incomes reduced their expenditure as social distancing restrictions impacted their pre-pandemic spending. This resulted in savings being accumulated by those who were already better paid. In contrast, those on lower incomes reduced any savings and were more likely to resort to reliance on debt, often debt that would prove expensive to service in the longer term, such as credit card borrowing.
+
+A further contributor to Every Story Matters said that:
+
+"My wife had left a zero-hours contract with her work and so was not entitled to maternity pay. This situation was very, very stressful and I'm still recovering from the financial strain. We still had all the rent and bills to pay, nappies and baby formula, food ... we just survived."
+
+It is also important to acknowledge that there were very real reasons to believe that the severe economic shock could precipitate another financial crisis. The Bank of England had been clearly warning of the low levels of liquidity and risks in the financial system since the 2008 financial crisis, and in the early stages of the pandemic, levels of volatility in the financial markets were at levels even higher than during that crisis.
+
+Government decision makers were therefore, in short, having to design a response to a deep economic shock that was uneven in its impact and distribution, posed significant risks to the financial markets, was of an uncertain duration, and presented uncertain potential long-term effects.
+
+Not least of the potential long-term effects that policymakers had to consider was economic scarring, a phenomenon that can arise in a number of different ways. Periods of unemployment can lead to longer-term negative labour market outcomes. The successful matching of skilled workers to jobs can be disrupted, which in turn can prolong the process of economic recovery. The collapse of firms, that but for the pandemic had viable futures, was also capable of scarring the economy in the longer term.
+
+The design of any immediate response to the pandemic ought to have had regard to all of these factors. However, those making very significant decisions about the economic response were not doing so with a free hand in which they were only concerned with how much money to distribute. This was the formulation of a macro economic response that had to be grounded in hard economic reality and balance a myriad of factors with the long-term aim of propping up the economy, reducing scarring, and enabling recovery once the pandemic had passed. A number of objectively justifiable policy options were available to decision makers, but there were inevitably going to be trade-offs between all of them.
+
+It is also important to bear in mind that there was arguably a pressing need to reassure the public in a time of national emergency, that their jobs and economic welfare were being protected, insofar as that was possible. As the Chancellor said in his budget speech on 11 March 2020: "I will do whatever it takes to support the economy."
+
+One key consideration was the extent to which policies designed to stimulate demand were appropriate, given the nature of this shock.
+
+In a typical downturn, macroeconomic activity can be restored more quickly by policy action taken to increase consumer demand. This can be achieved by increasing the amount of money available to spend, for example by monetary policy or income support. The difficulty in this working was that the shocked occasioned was both on the supply and demand side of the economy, a subject to which I will return when dealing with monetary policy. Ordinarily, targeting support on less well off groups may result in additional levels of consumer spending than when targeted at other groups. This tends to mean that measures that support the most vulnerable can tend to have a greater macroeconomic stabilisation effect.
+
+But the pandemic was no ordinary economic shock. The uncertainty here was so great that even if additional funding was provided, it may well have been saved and not spent. This has the potential to create further economic danger if that money is then spent at wrong time, for example when the emergency has passed, as that may create inflationary pressure in the economy.
+
+A second key policy consideration was the desirability of preserving the pre-pandemic economic structure. Preserving employer-employee relationships within businesses that had a long-term viable future would arguably hasten the post-pandemic recovery and lessen economic scarring. This points towards a policy response of business loans and grants and job retention through a furlough-type scheme. Though even that response was not risk free.
+
+Labour markets need churn, as employees move to better or more productive employment, and job to job movement in which skills are matched to jobs within a framework of career progression. And that's a sign of a healthy market. By its nature, a healthy economy will see less productive firms fail as more productive and innovative firms replace them. Freezing the job market prevents this churn and can result in a mismatch between workers and jobs. The longer the freeze continues, the greater the concern.
+
+There was another risk in that the nature of the pandemic crisis had the potential to have an impact on the structure of the economy in the longer term. The danger in maintaining the pre-pandemic status quo risked businesses being preserved only to find that they had no post-pandemic future. A focus on pre-existing structures also risked discouraging innovation and adaptation to the new and emerging economic environment.
+
+The final major trade-off in policy response can be seen in the tension between the need to deliver support at speed on the one hand, as against the ability of government to fine tune the delivery of that support on the other, so as to better prevent fraud and error, and to more accurately target the support given where it was most needed and most appropriate.
+
+Against those broad policy considerations, the initial response to the pandemic by the government comprised four core elements: first, an integrated system of income and job protection delivered through the Coronavirus Job Retention Scheme. The scheme combined a number of policy objectives in that it (i), preserved job matches; (ii), protected the incomes of employees; and (iii), stabilised demand in the economy.
+
+Second, income protection without job preservation, delivered by the temporary uplift to Universal Credit and Working Tax Credits.
+
+Third, a package of support for business through the delivery of grants, reliefs, and loan schemes.
+
+And fourth, demand stimulus, for example by reductions in the VAT rate, those fiscal interventions being complemented by monetary policy decisions taken independently by the Bank of England, which acted on 16 March to cut the bank rate from 0.75% to 0.25% before making a further reduction to 0.1% on 19 March.
+
+Decision-making systems and structures. I turn now to that second broad subject area: the systems and structures through which the economic policy objectives of government were implemented.
+
+Some of the most significant support schemes, in particular the Job Retention Scheme and the Self-Employment Income Support Scheme, were designed and delivered by the Treasury working in close partnership with HMRC. This close working relationship may have been stress tested during the pandemic, but it was in place long before it. The Treasury and HMRC have long worked together through a formal mechanism known as the "policy partnership". That relationship is unique within the United Kingdom Government, and enables the two departments to work together effectively as a single team.
+
+We will be exploring that relationship in this module, and the extent to which it was instrumental to the rapid rollout of significant schemes that were generally considered to have achieved their policy aims and objectives. Identifying the strengths and successes of the policy partnership will also enable us to compare and contrast the success of other cross-departmental working relationships in the delivery of support schemes, and in particular as between the Treasury and other government departments.
+
+We will explore issues that arose in cross-departmental working arrangements, and the extent to which departments, and in particular the Treasury, were willing or able to share their own analysis and modelling with other departments.
+
+Some witnesses have suggested that working relationships with the Treasury were not always straightforward, with the Treasury being keen to receive data and analysis from other departments, but less willing to share their own internal analysis externally.
+
+Your Ladyship is taking a forward-looking approach to these issues, with a view to considering whether lessons can be learnt and improvements made in cross-departmental working that would better enable the development of the economic response to any future emergency.
+
+In this regard, and highlighting what appears to have been a very good example of joined-up working at the heart of the United Kingdom Government, we will explore the establishment of the Covid-19 Taskforce and, in particular, the Directorate General for Analysis, headed from 19 October 2020 onwards by Robert Harrison. This unit provided integrated data and analysis to the Prime Minister, Chancellor and other cabinet members, informed by multidisciplinary teams across areas including health, economics, and social policy.
+
+This enabled a coordinated effort across government, producing analysis that had a cross-Whitehall consensus. One of the core aspirations of this team was to ensure that, as the pandemic progressed, policy was driven by analysis. We will examine the evidence for the need for a powerful analytical capability at the heart of government when responding to an economic shock such as that occasioned by the pandemic.
+
+Through an examination of schemes, including the Job Retention Scheme, the Self-Employment Income Support Scheme, and the uplifts to Universal and Working Tax Credits, your Ladyship will consider the extent to which their delivery benefited from the fact that the delivery experts for those schemes, particularly HMRC and the Department for Work and Pensions, were in the room from the outset of the formulation of those policies.
+
+Your Ladyship may consider that the relative success in policy, development and delivery of the Job Retention Scheme, which also benefited from open, innovative thinking within the Treasury, is a good comparator against which to consider other schemes that appear to have been delivered in a disjointed manner and without adequate consultation with those responsible for delivery.
+
+The pace at which the Treasury was making and announcing decisions appears to have created challenges for other departments, that then found themselves shouldering the burden of on-the-ground delivery.
+
+We'll explore those challenges in the course of the evidence, seeking to draw out lessons for the future.
+
+Good examples of schemes in which there were -- I'll start that again.
+
+Good examples of schemes in which there was arguably confusion between scheme ownership and delivery, included the grant schemes. These were schemes in which the Treasury, the Department of Business, the Ministry of Housing, Communities and Local Government all had an interest centrally but which would be delivered by local authorities, who were not consulted at the policy design stage.
+
+In a similar vein, there appear to have been less than clear lines of responsibility for the rollout of loan schemes as between those departments and the arm's-length body of the British Business Bank.
+
+In the context of decision-making systems and structures, we will explore the working relationship between the UK Government and its constituent departments, and the devolved administrations in formulating the economic response. Although the largest schemes were designed and delivered UK wide by the UK Government, the devolved administrations were designing their own schemes to support people in Scotland, Wales, and Northern Ireland. Were they given adequate notice of the UK Government schemes, or involved in the designing of them to better enable them to formulate and launch their own responses?
+
+And finally in this broad topic area, we will also explore the extent to which the potential long-term health consequences of a novel virus were factored into the policy design of economic schemes, both at the outset of the pandemic and during it, as Long Covid emerged as a recognised medical condition.
+
+Was there sufficient regard throughout, when formulating policy, to the risks posed to the economy in terms of scarring from long-term health conditions?
+
+My Lady, that's 11.30 and time for the break.
+
+**Lady Hallett**: Thank you very much, I shall return at 11.45.
+
+*(11.30 am)*
+
+*(A short break)*
+
+*(11.45 am)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: My Lady.
+
+I turn, then, to the third broad area: monetary policy. Whilst the majority of the focus in Module 9 will be upon the fiscal interventions, by which we mean the spending of public money by the government, it is important that we acknowledge that those fiscal interventions were complemented by monetary policy decisions taken by the Bank of England, principally related to controlling inflation.
+
+The Bank of England, whilst owned by the government, operates independently of it. As the government's banker, it has a key role in utilising monetary policy so as to ensure price stability in the context of inflation. Price stability means that prices do not vary wildly on a day-to-day, month-to-month, and year-to-year, basis. In simple terms, when the government was deciding which fiscal interventions to make, and estimating the costs of those interventions, it was doing so on the assumption that the Bank would fulfil its role of ensuring price stability.
+
+Predictability of pricing meant, for example, that when the government decided to spend tens of billions of pounds on the Job Retention Scheme, the money it spent would have had a predictable real life impact on the businesses and workers that the government was seeking to support.
+
+The primary monetary policy levers available to the Bank of England at any time are making adjustments to the short-term interest rate, known as the bank rate, and making adjustments to the Bank's holding of government and corporate bonds by what is called quantitative easing, or tightening, which has the effect of either lowering or raising the longer-term interest rate.
+
+In March 2020, the ability of the Bank to make reductions in the bank rate was limited. The pre-existing and long-term low levels of interest rates that had prevailed since the financial crisis of 2008 left little room for significant lowering of the rate. The Bank nonetheless acted quickly to reduce the bank rate from the pre-pandemic level of 0.75% to an unprecedented low of 0.1%. The purpose of making such a reduction is to make it cheaper for businesses and individuals to borrow money, leading to an increase in spending power and supporting demands for goods and services in the economy.
+
+Alongside a reduction in the bank rate, the Bank engaged in several rounds of quantitative easing. In simple terms, the Bank increases its balance sheet by buying UK Government debt in the form of gilts, which has the effect of raising the price of those gilts, and thereby pushing down their yield and the long-term interest rate.
+
+In March 2020, quantitative easing was increased by £200 billion to a total of 645 billion. That level increased to 745 billion in June and then to 875 billion in November of 2020. Lowering the long-term interest rate is intended to encourage businesses to invest, and individuals to spend their money rather than save it.
+
+In the course of the hearings we'll hear evidence from Andrew Bailey, the Governor of the Bank of England, and we'll explore with him the close working relationship between the Bank and the Treasury throughout the pandemic. It was undoubtedly a crucial relationship to the overall economic response to the pandemic, ensuring a complementary fiscal and monetary response.
+
+We will also examine the limits of monetary policy during the pandemic. We will explore with Lord King, Governor of the Bank during the global financial crisis of 2008, the circumstances in which, in his view, monetary policy can and cannot help to manage an economic crisis.
+
+One area that the Inquiry is interested to explore is the extent to which the use of quantitative easing and the extent to which it was used was in fact appropriate, given that the pandemic's effect was arguably felt most dramatically on the supply side of the economy, as a result of the measures taken by government to tackle the health implications of the pandemic. It also appears that the justification for quantitative easing appears to have been at least in part to calm the financial market volatility.
+
+The Inquiry wishes to explore the extent to which the true nature of the shock was obvious, and understood at the time that the Bank engaged in the first round of quantitative easing in March 2020, and when it was considering whether further rounds were appropriate as the year progressed. If so, given that some argue that there were also early indicators of substantial inflationary pressure in April 2021 onwards, we will consider whether the risk of rising inflation was sufficiently factored into the decision making of the Bank in 2020.
+
+The Inquiry's interest in these issues is not in order that it can express an opinion as to the merits of the approach that was taken, but rather so that we can explore the extent to which lessons have been learned from the pandemic and can be factored into any response in a future emergency.
+
+Economists inevitably offer conflicting opinions of the success or failure of decisions taken by the Bank at any time. The same is true of the decisions that it took during the pandemic. It is not the function of this Inquiry to assess and rate the Bank's decision making in the course of an unparalleled emergency, not least because there is no counterfactual to test its performance against. In his expert report prepared for the Inquiry, James Smith expresses the opinion that the decisions taken by the Bank during this period of time have largely stood the test of time.
+
+At a high level -- and moving on to the topic of funding -- and linked with the decision-making systems and structures deployed by government, this module will consider how the UK Government was able to fund its fiscal interventions and how it arrived at its funding decisions.
+
+In the course of these hearings, we will also consider funding for the devolved administrations in the course of the pandemic.
+
+We recognise, of course, that the Barnett formula provides the backcloth for any consideration of regular funding for the devolved administrations, and emergency funding measures taken in the course of the pandemic. That said, the formula itself, its design, operation, and the political decisions often associated with it are not within the scope of this module and will not be explored in the course of our hearings. Rather, your Ladyship's focus will be on the delivery of emergency funding through the Barnett guarantee, and the fiscal frameworks through which the devolved administrations operated during the pandemic.
+
+The Barnett guarantee was introduced in the summer of 2020 by the United Kingdom Government and applied until final spending plans for 2021 were published in March of that year. This provided guaranteed levels of funding to the devolved administrations at a level above that usually provided under the Barnett formula.
+
+This was intended to enable the devolved administrations to respond to developing conditions without needing to wait for the United Kingdom Government to confirm additional funding. We will explore the structures for cross-nation working on funding, including the Finance Ministers Quadrilateral, and the timing and certainty of funding announcements.
+
+We will also examine issues related to the funding of local authorities in England, Scotland, Wales and Northern Ireland, including the levels of support, the mechanisms by which funding was delivered across the four nations, and the efficacy of monitoring by the United Kingdom Government and the devolved administrations. We will consider in particular the extent to which it's both desirable and feasible to develop a framework for local government funding for use in the course of a future pandemic.
+
+Whilst the scope of this module includes consideration of additional funding for relevant public services, that does not equate to your Ladyship examining in these hearings departmental spending decisions or the level of funds allocated by the United Kingdom Government, the devolved administrations, or local authorities to particular public services. The focus of the module in this context has been, throughout, and remains, on additional funding for relevant public services that were provided exceptional emergency funding because they were central to the economy. In particular, that extends to public transport systems throughout the United Kingdom.
+
+Looking to the future, your Ladyship will consider the framework of funding of the devolved administrations in any future pandemic emergency, including the operation of any future Barnett guarantee, and whether or not it would be desirable to include in any future framework mechanisms that would enable the devolved administrations to fund divergent responses to any future pandemic. That would be potentially important if the impact of any future pandemic was significantly unequal across the United Kingdom.
+
+Similarly, we will explore the potential for a future emergency framework of funding for local authorities that would enable greater funding certainty through a method of assessing and monitoring increases to operating costs and reductions in income consistently.
+
+I move on to our next topic, support for jobs and the self-employed.
+
+The Coronavirus Job Retention Scheme, CJRS, commonly known as furlough, was at the heart of the UK Government economic response to the pandemic. The scheme was announced on 20 March 2020 and launched, ahead of schedule, on 20 April. In the first eight and a half hours of the scheme being live, 141,000 applications were made by employers relating to in excess of 1 million jobs at a cost of £1.19 billion. By the time that it finally closed on 30 September 2021, the Treasury and HMRC estimated that the gross cost of the Job Retention Scheme had been £69 billion, with a net cost of 54 billion.
+
+That cost represented the saving of an estimated 4 million jobs across the UK workforce, the preservation of businesses across the economy that would otherwise have fallen into administration, and a resulting lessening of the economic impact of the pandemic.
+
+Praise for both the scale of the scheme and the speed of its implementation has been forthcoming from across the United Kingdom and across business sectors. Make UK, the representative voice of the manufacturing industry across the UK United Kingdom, observed in its questionnaire response to the Inquiry that the most significant form of support for manufacturing during the pandemic was via the Job Retention Scheme. Their assessment was that the scheme saved jobs, protected employees, and kept businesses afloat. Without the Job Retention Scheme, they were confident that there would have been mass redundancies, as many manufacturing companies had planned to make up to a quarter of their staff redundant.
+
+Similar appreciation of the support offered to business by the Job Retention Scheme was reflected in the questionnaire response of the Charity Retail Association, which considered the scheme to have played a key role in saving a number of charity shops from permanent closure. A number of contributors to Every Story Matters, from -- sorry, a number of contributions to Every Story Matters from workers who had been furloughed provided positive reflections on the operation of the scheme, noting its speed and the ease at which it could be accessed. As one person remarked:
+
+"I do believe the Furlough scheme saved my career."
+
+Against this general appreciate of a well focused scheme that was stood up at pace, what issues will this module focus upon with witnesses during the hearings?
+
+Well, in general terms, our focus will be largely forward looking, aiming to identify whether, in any future pandemic, a similar scheme could be perfected to deliver better value for money and to increase flexibility and versatility. However, we will also explore the alternative policy options available to government in this pandemic, as they will equally be available in any future pandemic, and will need to be thought through in the specific circumstances that present themselves at any given time.
+
+That is because the decision to place the Job Retention Scheme at the heart of the economic response was effectively a policy decision by government to deliver the bulk of income support via business rather than by providing support directly to individuals through welfare payments.
+
+The approach of the United Kingdom can be compared and contrasted with that taken in the United States of America. From a policy perspective, the expert consensus is that a number of factors will determine the extent to which it is desirable to link income protection with job preservation. In particular, the extent to which the pre-pandemic economic structure ought to be preserved, the likely duration of the pandemic, the feasibility of delivery, the practicability of targeting support, and the risks of long-term economic scarring, and the unequal nature of the economic crisis, are all important considerations in reaching this judgment.
+
+Some criticism of the Job Retention Scheme approach stems from the differing levels of support offered by government to different sectors of society, and in particular to those groups who were already economically vulnerable prior to the pandemic. In other words, those in low-paid employment or dependent on benefits were comparatively less well supported than those in well-paid employment whose incomes were maintained at or very close to pre-pandemic levels.
+
+Against that criticism, a number of factors are generally considered to have supported the decision to target support through job retention in the United Kingdom. First, the available data enabled the Treasury and HMRC to rapidly stand up a scheme in reliance on PAYE records. Correspondingly, data that would have identified the financial circumstances of households was limited. Had such data been available, it may be that a more targeted income support model would have been easier to design and implement.
+
+Second, the duration of the emergency is an important consideration. The advantage of job retention is amplified in a relatively short emergency, in which skilled workers remain aligned with their jobs as the labour market is temporarily frozen, allowing rapid recovery as soon as restrictions are lifted.
+
+The longer the pandemic the less effective furlough schemes may become, as a stagnated labour market becomes harmful and the natural dynamic of a healthy economy, in which efficient, innovative new firms that are more productive replace those that are not, is itself stilted. We will seek to explore those criticisms.
+
+We will also explore the design of the Job Retention Scheme, and its inability to deliver support that was targeted to any real extent, for example by sector, geographical location, or by reference to whether a business remained open or was forced to close by imposed restrictions. We will investigate a number of examples of the Chancellor seeking to introduce elements of targeting into the scheme but being thwarted by operational and other challenges. The advantage of targeting as a mechanism that protects public funds is obvious as, in theory, it ensures that only those in need of support receive it.
+
+The broader a scheme, the greater the sums of money that may have been legitimately claimed within the scheme rules but not necessarily needed. This "deadweight", as it's called, in the Job Retention Scheme, was estimated to have cost the taxpayer £3.3 billion.
+
+There are other features of the Job Retention Scheme in particular that we will consider, including the stipulation that employees had to be on the payroll by 28 February 2020, later amended to 19 March, in order to be eligible. Whilst this was regarded as an important measure to prevent fraud, confusion over its application arguably left an estimated 470,000 employees in a state of limbo. The exclusion of company directors, and whether payments should have been made in advance, or in arrears, will also be considered.
+
+Further, given the lack of targeting, should the list of companies that furloughed workers and was published in January 2021 have been published at the inception of the scheme?
+
+After it commenced in March 2020, the Coronavirus Job Retention Scheme was extended on three occasions, namely 12 May 2020, 31 October 2020, and the 3 March 2021, with the scheme concluding in September of that year. The initial extension of the scheme was announced in good time and was an example of economic policy being complementary to the ongoing public health restrictions.
+
+However, the position in October 2020 appears to have been less clear. The Job Retention Scheme had been telegraphed to close on 31 October to be replaced by a less generous Job Support Scheme. In fact, on 31 October itself, the Job Support Scheme was scrapped, as was the Job Retention Bonus Scheme, a scheme that had linked a bonus payment to companies retaining jobs through furlough and payable at the conclusion.
+
+We will explore the timing of this change of policy, and in particular, whether or not it represented coordinated financial and public health decision making and policy, notwithstanding that the extension of the scheme provided security to those workers who were furloughed. As one contributor to Every Story Matters put it:
+
+"I think the extension of furlough was a lifeline. It gave me peace of mind knowing I had some income coming in."
+
+Finally, we'll examine the cessation of the scheme in September 2021, a decision that was taken in March of that year, and therefore signposted well in advance. There are conflicting views as to whether or not the scheme should have extended further until at least Christmas of 2021, or conversely, whether it continued for too long, having ceased to have a positive economic effect, and resulting in the scheme overall representing less value for money. The continuation in August and September 2021 in and of itself cost at least £1.1 billion net.
+
+Following the announcement of the Job Retention Scheme on 20 March 2020, guidance for that scheme was published on 26 March. On the same date, a scheme to support self-employed individuals, namely the Self-Employed Income Support Scheme, known as SEISS, was also announced. Often viewed as a complementary scheme to the Job Retention Scheme, it was intended to provide support to those self-employed individuals whose businesses had been adversely affected by the Covid-19 restrictions, and was a scheme designed at speed to enable support to be rolled out rapidly to the eligible self-employed.
+
+The first phase of the scheme opened for claims on 13 May 2020 and closed on 13 July. A second window for claims opened on 17 August, and an extension of the scheme was announced on 24 September 2020, two days after the Prime Minister had announced a new phase of national restrictions in Parliament. The second claim window closed on 19 October 2020, and third and fourth rounds followed in late 2020 and into 2021, with a fifth and final round opening on 29 July 2021.
+
+By 11 August of that year, HMRC was indicating that they were seeing a significant decline in claims under the scheme, and the closure of the fifth round application window on 20 September 2021 represented the effective endpoint of the scheme.
+
+Over the course of the five rounds of grants made under the scheme, financial support was provided to 2.9 million self-employed people at a gross cost of £28.1 billion, although that figure reduced to a net cost of 19.5 billion when recoupments through Income Tax and National Insurance contributions were taken into account.
+
+The scheme operated by providing a level of income replacement to those who were eligible to apply for any of the rounds of grants. Without access to the scheme, those without any income would have had to have recourse to the welfare system, the means by which the state usually provides income replacement. One issue that may arise in the course of our examination of the scheme is whether or not there was in fact a sound economic case for such a scheme at all. Ordinarily, the self-employed are expected to find their own solutions for economic downturns, and their business model incentivises them to do so.
+
+Critics of the scheme maintain that its introduction was the result of political and not economic pressures, and that the self-employed were excluded from the Job Retention Scheme and that therefore there was a case for a complementary scheme.
+
+The mechanism by which the scheme was delivered relied heavily on the Income Tax Self Assessment system administered by HMRC. Reliance on self-assessment arguably created a number of cliff edges in the eligibility criteria, that we'll explore in the course of the hearings. The principal stumbling blocks to eligibility were:
+
+First, the exclusion of the newly self-employed. That was occasioned by HMRC not holding data on those who commenced self-employment in the 2019-2020 tax year. Whilst that group became eligible in the fourth and fifth grant cycles, they were otherwise excluded. In contrast to the position of the United Kingdom Government, the governments of the devolved nations implemented their own schemes that supported the newly self-employed, namely the Newly Self-employed Hardship Fund, the Start-Up Grant in Wales, and the Newly Self-Employed Support Scheme in Northern Ireland.
+
+Second, the operation of a hard-edged eligibility threshold at £50,000 annual earnings. The scheme had no tapering, and therefore resulted in the total exclusion of any person previously earning over that limit.
+
+Third, a further hard edge created by a stipulation that at least 50% of income had to be from self-employment. This had the potential to affect those who were, in any event, economically vulnerable, for example in low-paid employment, supplementing their income with some element of self-employment and often working in sectors that were the hardest hit by the pandemic restrictions.
+
+In addition to exploring those issues, we will also examine other aspects of the scheme, design and implementation. In particular, examining whether there was an appropriate trade-off between rapid implementation and the delivery of support on the one hand, and implementing a scheme that provided targeted support and represented a more effective use of public funds on the other.
+
+The ease of access to the scheme was certainly appreciated by those who received funding through it. As a contributor to Every Story Matters remarked:
+
+"The criteria were quite simple, if you'd submitted tax returns and paid tax, it was based on your profit you don't need to prove anything, it's the records that were held with HMRC that would be looked at, I already knew that I'd declared my income and I'd paid my tax, so it was something that I knew I'd be getting."
+
+As the rounds of grants continued, the application process was tightened in an effort to achieve an element of targeting. Looking forwards, we will consider whether any future scheme could or should include stricter eligibility requirements and could be designed around a broader dataset to enable efficient targeting of support where it is in fact required.
+
+Similarly, we will also look at some of the gaps in the scheme, a good example being the initial exclusion of new parents, with an eye to identifying how any future scheme might avoid those omissions.
+
+We will also consider, in the context of our remit to examine steps taken to protect public funds, the levels of suspected fraud in the scheme and why, given they sat at a likely level of 5.2% of all claims across the five rounds, they were notably in excess of the predicted level of 1-2%.
+
+As the support provided through schemes such as the Job Retention Scheme and the self-employed scheme was coming to an end, a number of initiatives were announced that were forward looking and focused on the need to rebuild the economy and jobs, and the jobs market, as the pandemic restrictions eased. These included Kickstart, Restart, JETS, and other bespoke schemes introduced by the devolved nations, such as JobStart and the Work Ready Employability Services in Northern Ireland. We will consider those schemes in a proportionate manner in the course of these hearings.
+
+Now, acknowledging that the support for jobs and the self-employed through the Job Retention Scheme and Self-Employment Income Support Scheme were a form of support for business, we are also going to investigate the wider economic support provided to business in the course of this module.
+
+In broad terms, that support was delivered through a series of business loan and grant schemes across the United Kingdom and the devolved nations. The central loan schemes that we will examine in the course of this hearing include, first, the Coronavirus Business Interruption Loan Scheme, so-called CBILS, the Covid Corporate Financing Facility, the Coronavirus Large Business Interruption Loan Scheme, the Bounce Back Loan Scheme, the Future Fund, and the Recovery Loan Scheme.
+
+The Coronavirus Business Interruption Loan Scheme was announced by the Chancellor on 11 March 2020 and launched on 23 March. The scheme allowed businesses that had been adversely affected by the pandemic to access loan funding to a limit of £5 million with a government-backed partial guarantee for the loan repayments that was designed to encourage more lending by financial institutions.
+
+Similarly, the Coronavirus Large Business Interruption Loan Scheme, which was announced on 3 April 2020, and introduced on 20 April, offered a partial guarantee to lenders advancing funds to larger businesses up to a maximum credit limit of £200 million. Each scheme was administered by the British Business Bank, a British development bank -- sorry, a business development bank that during the pandemic was wholly owned by the Department for Business, Energy and Industrial Strategy but operationally independent of that department. Over the course of the pandemic, in excess of £30 billion of funding was provided to over 100,000 businesses across the two schemes.
+
+These two British Business Bank-administered schemes were aimed at smaller businesses than those eligible for support through the Covid Corporate Financing Facility, a scheme administered by the Treasury and the Bank of England directly, announced by the Chancellor on 17 March, and going live on the 20th. That scheme was designed to support the UK's largest businesses by advancing in the region of £38 billion of short-term financial support by the date of its eventual closure on 18 March 2022.
+
+On 27 April 2020, the Chancellor announced a further tier of government-backed lending, namely the Bounce Back Loan Scheme, with the scheme launching a few days later on 4 May 2020, also administered by the British Business Bank. By the time that it closed on 31 March 2021, the Bounce Back Loan Scheme had seen over £45 billion of funding advanced to over 1.5 million applicants. The policy rationale for the introduction of this scheme was related to the inability of small businesses to rapidly access funds through the CBILS mechanism. The short-term cash flow pressures that were being reported by many SMEs was fed back to the Treasury by UK Finance as the representative body of the UK finance industry.
+
+It appears that despite the government backing of a significant element of any CBILS finance advanced, commercial lenders were conducting standard security and eligibility checks that were often taking many weeks to complete, just as they would have done in ordinary times. The Bounce Back Loan Scheme was therefore designed to provide an easily and rapidly accessible finance facility with a 100% government backing to provide certainty for lenders and requiring only self-certification from borrowers with no credit checks being performed.
+
+A contributor to Every Story Matters identified the ease of the application process under the Bounce Back Loan Scheme as compared to the CBILS scheme saying:
+
+"Bounce Back was 100% guaranteed. It was a very light touch application. We just entered information that was required about our bank details, our company registered number, when we were formed. It was a ten-minute job. Whereas, with CBILS, you had to put a cash flow forecast, profit and loss balance sheet together."
+
+The future fund, which was also administered by the British Business Bank, was announced on 20 April 2020, launched on 20 May, and advanced just over £1 billion of government-backed funding before it closed to new applications on 31 January 2021. It was a fund designed to match private investor funding in innovative business to a maximum value of £5 million.
+
+Finally, the Recovery Loan Scheme was announced on 31 March 2021. As the name suggests, it was designed to offer government-backed financial support to businesses as they recovered from the economic impacts of the pandemic. This scheme, which continues to exist, although rebranded as the Growth Guarantee Scheme, was also administered by the British Business Bank.
+
+During the course of the hearings we will examine a number of aspects of those loan schemes. In particular, we will explore the architecture of the CBILS scheme, that was built on the foundations of the pre-Covid Enterprise Finance Guarantee scheme. That scheme was not designed with the emergency conditions of the pandemic in mind, nor was it a scheme that ever handled applications in the numbers seen by CBILS. The tension between designing a scheme at speed and the conditions of the scheme necessary to combat instances of fraud and error, thereby protecting public funds, will also be considered, as will the relationship between the British Business Bank and the Treasury as the scheme developed, and the Bank warned of increased financial risks.
+
+Similarly, in the context of the Bounce Back Loan Scheme, we will consider the obvious trade-offs between a scheme that undoubtedly provided access to a rapid finance facility for over a million applicants against a scheme that did not require lenders to conduct any credit checks, operated on a self-certification basis, and did not take into account the affordability of loan repayments. Not only will we explore the levels of significant financial risk inherent in such an approach, but also the vulnerability of the scheme to fraudulent claims, with current government estimates being that 1.88 billion, or 4.05% of monies drawn against the Bounce Back Loan Scheme, are suspected to have been as a result of fraud.
+
+The relationship between the government or government-backed institutions like the British Business Bank on the one hand, and the finance sector as represented by UK Finance as a trade association, will also be explored, to consider whether communication and collaborative working in a time of future crisis could be improved.
+
+The structural relationship between the British Business Bank, His Majesty's Treasury and the Department for Business, Energy & Industrial Strategy is another important area of investigation.
+
+The British Business Bank was an arm's-length body of the Department for Business, Energy & Industrial Strategy, now the Department for Business and Trade, and therefore did not report directly to the Treasury. The impetus for the various loan schemes that the British Business Bank administered came from the Treasury with the design of the schemes requiring close working between the Treasury and the British Business Bank. Despite that, another government department, the Department for Business, Energy & Industrial Strategy, was responsible for the delivery of the schemes, and this created a position in which the accounting officer of one department had to seek ministerial directions for the schemes from that department's ministers despite those ministers not having been closely involved in the development of the schemes.
+
+Finally, acknowledging that internal reflection has already taken place and that lessons will undoubtedly have been learned, we will conclude our consideration of this topic with forward-looking evidence from the current permanent secretary of the Department for Business and Trade, the successor department. In particular, we'll explore the current levels of preparedness for the delivery of a comprehensive economic response as compared to that state in 2020. In doing so, we will have regard to playbooks for a future pandemic that have been, and are being, developed.
+
+As I've indicated, we will also examine the various grant schemes that were used to deliver support to business across the four nations of the United Kingdom. These were discretionary payments that did not need to be repaid by the businesses that received them.
+
+The grant schemes in England were launched in three cohorts, comprising a total of eight separate grants. Taken together, these represented a major fiscal intervention with support delivered to an estimated 1.4 million businesses through over 4.5 million grant payments delivered by 314 local authorities across England to a total value of £22.6 billion.
+
+In common with other interventions, the schemes were developed at pace with an initial cohort being announced on 11 March 2020 with guidance issued to local authorities on 23 March, and funding for the schemes provided to local authorities on 1 April.
+
+The first cohort comprised the Small Business Grant Fund, the Retail, Hospitality and Leisure Grant Fund, and the Local Authority Discretionary Grant Fund.
+
+The grant schemes were intended to deliver speedy financial support to small businesses in a targeted way, and within four weeks of the first round of funding being provided to local authorities, 70% of the monies had been paid out to eligible businesses. That rapid delivery was, on any view, impressive. All the more so because local authorities had not been consulted as to these schemes, their design, or their role in delivering them. Moreover, there was no pre-existing infrastructure for delivery.
+
+The second cohort of schemes launched in September 2020 and ran until March of 2021. Rationale for the schemes to deliver targeted and speedy financial support to businesses affected by the public health restrictions remained the same. The second cohort also comprised grants that were designed to support businesses affected by tiered restrictions, and the second and third national lockdowns.
+
+Funded centrally and delivered locally, as with the first cohort, the second comprised the following schemes: the Local Restrictions Support Grant, which itself subdivided into a number of discrete schemes; the Additional Restrictions Grant, and the Christmas Support Payment.
+
+The third cohort of schemes ran from April of 2021 until March 2022 and was initially designed to support businesses reopening and recovering from the third national lockdown.
+
+Later, a scheme was introduced to focus on the hospitality sector dealing with the emergence of the Omicron variant in late 2021. And the schemes in the third cohort were the Restart grant, and the Omicron Hospitality and Leisure Grant.
+
+The Scottish and Welsh governments developed their own grant schemes to be delivered to businesses by local authorities. In Scotland, £4.6 billion was paid to businesses through funds in two phases. In Wales, support for businesses was delivered primarily through eight phases of the £2.6 billion Economic Resilience Fund. We will examine the working relationships between the Scottish and Welsh governments and their respective local authorities.
+
+In Wales, consultation on design and delivery took place through the Partnership Council for Wales, a pre-existing forum which enabled consultation in the design and delivery of those business grant schemes.
+
+Business support in Northern Ireland was delivered directly by the Executive. Nearly £1 billion, 958 million, to be more precise, was paid to businesses through funds such as the £10,000 support scheme for small businesses and the £25,000 scheme for retail, hospitality, tourism and leisure.
+
+In the course of the hearings, we will explore with the witnesses the challenges that arose from the speed at which the grant schemes were developed, and the resulting increase in risk of fraud and error. The rate of irregular payments under the first cohort of English grants was in the region of 4.6% or £1 billion in cash terms. Another important area of investigation will be the apparent lack of consultation between central and local government, about the design and delivery of the schemes, in particular, the first cohort.
+
+Policy was being formulated centrally yet delivery was to be performed by local authorities without adequate scheme architecture. We will also examine the effectiveness of the relationship between the United Kingdom Government and English local authorities and the economic response to the pandemic, and make comparison as between those relationships and those in the devolved administrations.
+
+Although the delivery of support was delegated to a local level with the resulting risk of unequal delivery across the United Kingdom, contributors to Every Story Matters praised local authorities for their effective explanation of the available support. One person from England said:
+
+"They were quite good, through our council ... there was, sort of, a purpose-built website for businesses and that gave you access to grants and all sorts."
+
+Another sole trader running an arts and entertainment business in Wales observed:
+
+"So we did get emails from our local council. It was a type of newsletter-type thing that came out to let us know all the things that we could apply for, all the help that was available as and when it came out, basically."
+
+Finally, we will examine how, as the various grant schemes were rolled out across the three cohorts and developed in response to the rapidly changing social distancing restrictions, there came to be multiple schemes and sub-schemes in existence, each of which had its own eligibility criteria, rules and guidance. We'll explore how this complexity arose, and the effect it had on their delivery and efficacy.
+
+As another contributor to Every Story Matters said:
+
+"It's actually knowing what avenue to go down because there was so much out there, you type on different things and you're just going down a whirlpool, really, because you don't know what you're looking for. You I don't know if it's the right one."
+
+I've already outlined the uneven economic impact of the pandemic and noted that many who were economically vulnerable before it began were likely to be more adversely affected by it economically. This module is, of course, concerned only with the economic response of government. When we come to consider measures that were capable of alleviating economic hardship, it's important in the hearings that we maintain a focus only on economic measures and not on other forms of support that were provided.
+
+Under the broad umbrella of considering measures that were capable of alleviating economic hardship we will investigate the uplift to Universal Credit and Working Tax Credits and the support provided to the voluntary and community sectors through a £750 million package of support.
+
+Consideration of the uplift to Universal Credit and Working Tax Credit inevitably engages a consideration of the benefits system in the United Kingdom as the means through which those measures were delivered. My Lady's consideration of the benefits system in this module does not extend to an examination of the political decisions taken historically as to the shape of that system, or as to the level of benefits available within it. Module 9 is concerned only with the economic support delivered in response to the pandemic.
+
+As early as 27 February of 2020, the Chancellor sought advice from his officials as to the options for a package of support for individuals. That request included a specific request for the issue of Statutory Sick Pay to be considered. Early advice to the Chancellor posited a number of options dependent on the severity of the economic impact of the pandemic, but included a series of options for the reform of Statutory Sick Pay.
+
+On 2 March, the Prime Minister and Chancellor commissioned HMRC to work up a Statutory Sick Pay rebate scheme to support small and medium enterprises, and delivery advice was rapidly provided.
+
+In addition to making eligibility changes to the Statutory Sick Pay scheme, many of which were examined by your Ladyship during the hearings in Module 7 of the Inquiry, and which we will therefore not be reconsidering in this module, the UK Government also introduced the Statutory Sick Pay Rebate Scheme on 26 May 2020.
+
+The scheme was designed to ameliorate the increased cost to business of Statutory Sick Pay and therefore represented a policy decision to shift the economic responsibility for Statutory Sick Pay payments caused by Covid-19 from employers to the state. We will investigate the scope of the rebate scheme and in particular whether the decision to confine its application to claims of no more than two weeks' absence per employee, and to businesses employing less than 250 people was appropriate, with discussions on that issue taking place between the Treasury and the Department for Work and Pensions in August of 2020.
+
+The speed at which the rebate scheme was rolled out is another factor that we will consider in the context of safeguarding public money. Was there adequate monitoring of the economic impact and value for money of the scheme? And were there increased risks of fraud associated with that rapid rollout?
+
+We know that the Chancellor discussed those risks with officials at HMRC as early as 10 March 2020. We will also explore the cessation of this support and the initial decision to close the scheme in 2021 being taken by the Secretary of State for Work and Pensions, and the Chancellor. That decision appears to have been one taken against the advice of Department for Work and Pensions officials and was rapidly superseded and the scheme had to be reopened due to the increase in infections resulting from Omicron.
+
+The scheme closed initially on 30 September but was reopened by 20 December 2021.
+
+On 19 March 2020, the Chancellor decided to implement a temporary uplift to Universal and Working Tax Credits at a rate of £20 per week for a 12-month period. He stated when they were announced that these measures would benefit over 4 million of the most vulnerable households.
+
+A range of experiences related to the adequacy of the level of uplift to Universal Credit were shared with Every Story Matters. One person said:
+
+"When that extra £20 did come in it was a huge saviour; it really, really was, because they took away a lot of stress, a lot of the other women, you know, they didn't think it was much of a help, but for me, that £20 pounds was going to go a long way."
+
+Whereas another remarked:
+
+"I don't really think that uplift was that great. In terms of what I had to spend paying off things, I don't really think that was enough, if that makes sense. It still wasn't enough."
+
+On 25 March 2020, the same day that the Coronavirus Act came into force, Department for Work and Pensions ministers were asked for approval for regulations to bring the uplift into effect, and at the same time, to disapply the minimum income floor for self-employed Universal Credit claimants. This had the effect of linking support for self-employed claimants to their actual earnings rather than an assumed amount that they were not in fact earning.
+
+The advice to ministers was that it would not be operationally deliverable to apply a similar uplift to legacy benefits such as the Employment Support Allowance, Job Seeker's Allowance, or Income Support. The regulations that gave effect to these changes came into force on 30 March 2020 and the uplift was applied to Universal Credit awards from 6 April.
+
+In the course of our hearings, your Ladyship will explore the policy rationale for the introduction to the uplift and how the policy was communicated to those who were entitled to receive it. The uplift appears to have been designed to support those who had recently faced financial disruption as a result of the pandemic as opposed to extending support to all of those who were economically vulnerable in generally.
+
+Certain questions therefore arise: was the introduction of an uplift to certain benefits in order to help this particular group in this way justifiable, or should the government have introduced an increase in benefits that was intended not only to help people who'd lost employment or income, but also low-income families who faced additional or increased costs as a result of the pandemic?
+
+Similarly, if the uplift was designed to support a class of pandemic claimants who'd lost employment, and seen sudden sharp drops in income, why was a universal uplift appropriate? We will explore these questions and the trade-offs between rapid rollout of support and taking a more targeted approach to delivery.
+
+Although Working Tax Credits are regarded as a legacy benefit and did receive the uplift, other legacy uplifts were excluded. We'll investigate why this decision was made, including the policy rationale for excluding legacy benefits generally, at the same time as not relying solely on Universal Credit to deliver the uplift.
+
+The uplift was introduced as a temporary measure in response to the economic emergency. On 9 October 2020 the Secretary of State for Work and Pensions wrote to the Prime Minister regarding its future. A letter confirmed that officials have been asked to explore a number of options relating to Universal Credit, including the option of maintaining the uplift.
+
+The Secretary of State expressed her preference for a permanent uplift to be applied, both to the Universal Credit standard allowance and to the child element, each at the rate of £10 a week.
+
+A month later, on 9 November 2020, a meeting took place between the Secretary of State and the Prime Minister regarding the future of the uplift, at which she repeated her view that the uplift should become permanent, and a trilateral meeting including the Chancellor was booked for 15 January 2021.
+
+In December 2020 it was recognised by Treasury officials that extending the uplifts could help support macroeconomic demand during the recovery. However, they cautioned about long-term fiscal sustainability. A trilateral meeting took place and a number of options were considered, from removal with a one-off compensatory payment, through various options for extension, through to making the uplift permanent.
+
+And on 3 March 2021, the Chancellor announced a 6-month extension of the uplift during the spring budget.
+
+In a briefing prepared by Treasury officials on 21 May, the Chancellor was briefed on the impending withdrawal of the uplift. Various options raised included tapered reduction and extension. The removal of the uplift was predicted to have a disproportionate effect on households with the lowest incomes, and as being likely to increase child poverty. The analysis of the Department for Work and Pensions suggested that removal would place 800,000 adults and 300,000 children into poverty.
+
+Ultimately, the decision was taken to remove the uplift as planned, and that removal took effect on 6 October 2021, with the last uplift payments being made on 12 October.
+
+A contributor to Every Story Matters described the effect of the removal of the uplift in this way:
+
+"[The end of the uplift] was really difficult. I wrote to my MP and said, 'Can we, like, keep the Universal Credit uplift?' As much as our bills went up, they've never really come down, but the support stopped. I got to a point where I was having to borrow money from family to pay my bills, because the money had stopped."
+
+Accepting that the removal of the uplift had the potential to significantly impact those who'd been in receipt of it, the consideration of whether it should have been removed, whether Universal Credit should have been permanently uprated, and the level of support available through Universal Credit generally are all issues that appear to be outside the terms of reference of your Ladyship's Inquiry. However, and with a local on the economic response to the pandemic, we will consider how the decision to remove the uplift was arrived at and explore the timing of that decision.
+
+In addition to the uplift itself, the Department for Work and Pensions also introduced a number of easements to the Universal Credit and other benefit application systems. Under the Trust and Protect regime, information that would have previously been captured face-to-face was accepted from claimants over the telephone, and verified retrospectively in case reviews, face to face for assessments having been suspended from 17 March onwards and Jobcentres closing on the 24th.
+
+From April 2020, the Don't Call Us, We'll Call You campaign resulted in calls being made to claimants if information needed to be verified and increased resource to online systems and messaging. We'll examine why these easements were introduced, whether they were principally designed to speed up delivery of the uplift, whether fraud and error increased as a result, and whether more whether could have been done to deter fraudulent claims from the outset.
+
+Many of these changes not only impacted on applications for benefits, but also upon the level of support that was available to those who were seeking employment. As one contributor to Every Story Matters remarked:
+
+"I used to go to the Jobcentre Plus every 2 weeks or every week ... And when they switched everything off and went online or on the phone, it was quite strange ... No [training] was offered at that time."
+
+Looking to the future, we will be keen to examine how systems could be developed now to ensure that, in a future pandemic, government will be able, if appropriate, to deliver more target support by anyway of an uplift. Similarly, whether upgrades could be made to legacy systems or other changes made to ensure that the delivery of support through an uplift was an option for those relying on benefits other than Universal Credit.
+
+We will also consider whether risk of fraud and error might be mitigated by a clearer indication, when any uplift is initiated, that retrospective additional checks to eligibility will be applied.
+
+The final area that we are going to examine in the course of this module is intended to be entirely forward looking. Pulling together the evidence that we will hear over the course of the next four weeks, we will examine the lessons that have already been learned, the developments in thinking, the changes to systems and structures that have already been put in place to better enable the management of economic risk and safeguarding of public funds in any future emergency.
+
+Returning to the theme of data and analytical capability, we will explore the ability of the government to access appropriate data sources during the pandemic and consider improvements to that data capability that might be made.
+
+We will also focus on the extent to which the analytical capability or capacity of government type of function, that Robert Harrison and his team at the Directorate General for Analysis were performing during the pandemic, have been enhanced or improved. We will consider whether further steps in this regard are necessary and appropriate to better inform the economic policy response of government in any future pandemic level emergency.
+
+My Lady, I am now approaching the conclusion of this opening address through which I've sought to identify the structured approach that we will take to the calling of evidence and the examination of the key issues that will be explored over the course of the hearings in this module. I will then give way to the representatives of those Core Participants who wish to make opening statements, but before I do I want to thank the Core Participants and their legal representatives for their continued constructive engagement in this module, which has greatly assisted my team in their preparation for the hearing.
+
+And as one final point before, I think, your Lady takes the lunch break, may we have permission, please, to adduce the Every Story Matters record into evidence?
+
+**Lady Hallett**: You may.
+
+Thank you very much indeed.
+
+Ms Beattie, I think you're up first, but I think we'll take that this afternoon, if that's all right. I shall return at 1.50.
+
+*(12.49 pm)*
+
+*(The Short Adjournment)*
+
+*(1.50 pm)*
+
+**Lady Hallett**: Ms Beattie.
+
+Submissions on Behalf of Disabled People's Organisations, Disability Rights UK and Disability Action Northern Ireland by Ms Beattie
+-----------------------------------------------------------------------------------------------------------------------------------
+
+**Ms Beattie**: My Lady, we act for the national Disabled People's Organisations, or DPO, Disability Rights UK, and Disability Action Northern Ireland.
+
+The DPO see the economics of the pandemic as fashioned by four matters: money, means, exclusion and design.
+
+First, money. Your Ladyship will hear evidence that billions of pounds were expended by the government in the economic response to the pandemic through unprecedented measures for unprecedented times.
+
+The DPO ask, in all seriousness and not at all flippantly: where did this money go? And what did the money do? Who received and benefited from this unprecedented economic support and who missed out by design?
+
+The expenditure shows that where there is a will, the state is able to implement extraordinary economic adjustments through newly designed interventions, directed at providing, as the Chancellor of the Exchequer put it when he spoke to the nation on 20 March 2020, "a significantly strengthened safety net".
+
+The overall balance of the expenditure is also revealing about the choices that are made about what constitutes a significantly strengthened safety net and what is deserving of economic intervention. But did disabled people receive support and benefit from unprecedented measures? Was the safety net strengthened significantly for them? Did key economic interventions even include them? Did they actively exclude them? And where has this left them in anticipation of the next pandemic?
+
+Second, means. The Inquiry published some critical findings last week not only about the qualities of individual decision makers and systems of government, but of deeper matters relevant to the way we live together in times of peace and times of crisis. Your Ladyship concluded that the pandemic touched the lives of everyone but its impact was not shared equally.
+
+And for the people who suffered from the social and economic and cultural consequences of the steps taken to combat the pandemic, the people who suffered the most were those who were socially and economically disadvantaged.
+
+If unequal social impact of infectious disease was predictable, then the discrete inevitable, unequal economic outcomes for disabled people should have been obvious.
+
+They were obvious because disabled people in working-age families are far more likely to be living in poverty than those who are not disabled, and nearly 50% of those people living in poverty going into the pandemic were either disabled themselves or lived with a disabled person.
+
+The disability employment gap was 28.6 percentage points in England, 31.9 points in Wales, 34.9 points in Scotland, and 42.3 points in Northern Ireland.
+
+The disability pay gap stood at 15.5%.
+
+Having a disability was also, as the Inquiry has already concluded, one of the strongest predictors of digital exclusion.
+
+For many sources, and as the Inquiry impact film contributor Hussein said this morning:
+
+[As read] "The Inquiry is aware that lockdown measures created their own cost of living crisis for disabled people because its services were often abruptly withdrawn, disabled people had to fund those services for themselves or parents had to find the equivalent for disabled children, and often in circumstances where assessments and reviews in relation to funding care plans were subject to easements with backlogs on those assessments reaching several hundred thousand by 2022."
+
+These matters about disabled people's means were known to government. Their ramifications were in fact stated openly in government workings about pandemic economic interventions. To quote a few examples from the initial months of March to May 2020: disabled people were likely to be vulnerable to short-term income loss and were people with lower financial resilience who were likely to be particularly affected.
+
+Disabled people were amongst those most likely to be in serious financial difficulty.
+
+And among those in work, some disabled people will be less able to work from home and may be more economically vulnerable. Which brings us to our third matter: exclusion.
+
+How much do government interventions designed to protect against income loss and address labour market instability involve a substantial and substantive response to the obvious needs of disabled people, in terms of social and economic vulnerability, and especially the vulnerability generated by pandemic policies.
+
+My Lady, in several instances, you will hear evidence of economic support interventions from which disabled people were excluded by design. This applied across the range of interventions, affecting those who were looking for work, already in employment or self-employment, or unable to work.
+
+Kickstart, the government's flagship employment support programme for young people looking for work, was launched in the knowledge that young people needed major targeted support. Kickstart was opened to 16-24-year-olds receiving Universal Credit, but not to disabled young people receiving other benefits, including disability-related benefits.
+
+Several months into the scheme, in October 2020, the Equality Hub in the Cabinet Office asked: how is the Department for Work and Pensions and the Treasury ensuring that Kickstart delivers for young disabled people, a group that we know will be disproportionately negatively impacted by pandemic job loss?
+
+In February 2021 the Minister for Disabled People, Justin Tomlinson MP, belatedly asked the same question. But he did not press the matter to a resolution in favour of disabled young people and the government maintained its stance of limiting Kickstart to those who received Universal Credit.
+
+Disabled young people were left to await a potential further phase of Kickstart to run beyond the life of the current scheme. As your Ladyship has just heard in Module 8, young people do not have time up their sleeve to await possible future schemes that are introduced after they've grown up and no longer qualify for them. On Kickstart, a Covid generation of young disabled job seekers was effectively abandoned.
+
+For disabled people who received benefits, exclusion was also done by design. Through no choice or fault of disabled benefit claimants themselves, the system is still in the process of an enormous shift to Universal Credit, which began to be rolled out as long ago as October 2013. By 2020, in some parts of the country, such as the whole of Northern Ireland, the move to Universal Credit rollout had not even started. The Chancellor of the Exchequer provided additional support through an additional £20 per week for Universal Credit claimants. In what the Inquiry's labour market expert Dr Mike Brewer describes as "harsh justice", no equivalent uplift was provided to people receiving other so-called legacy benefits.
+
+My Lady, this would be harsh justice in any times, all the more so in an economically devastating pandemic. This was exclusion from the government's primary measure to strengthen the safety net, which the Chancellor of the Exchequer said was supposed to benefit the nation's most vulnerable households.
+
+The ostensible justifications for this unfairness do not stand up. Pandemic help, we are told, was only for those who had suffered lost wages, even though those who happened to be on Universal Credit received the uplift irrespective of whether they were wage earners.
+
+The DWP, it is explained, was being impacted generally by the pandemic and increased reliance on the benefits systems by others who were new to it, which made additional extensions too difficult, even while HMRC was to distribute furlough payments in a novel way.
+
+In more telling language from the DWP, it was apparently not feasible alongside other key priorities, and, in more chilling language, the approach prioritised the safety and stability of the benefits system overall. A priority, it seems, over disabled people, who were supposed to be served by that system equitably and fairly along with others.
+
+As with Kickstart, there is evidence that government acted in furtherance of other aims, unrelated to the pandemic safety net, of making gains in the protracted move to Universal Credit, and making savings on the transitional protections built into that process along the way, even if it meant a perverse economic outcome.
+
+Alongside such direct exclusion was apparent oversight and omission in design in other areas: design of the scheme for the self-employed in relation to disabled people, who are more likely to experience fluctuations in income and interruptions of business continuity due to absences; whether and how sick pay covered those who have to reduce their working hours or have fluctuating conditions and those with Long Covid; how sick pay interacted with furlough and whether community funding reached representative organisations.
+
+Which brings us to our final matter of policy design and the values --
+
+**Lady Hallett**: I'm sorry, you're going to have to -- (overspeaking) --
+
+**Ms Beattie**: -- underpin that design.
+
+As with all aspects of the pandemic response, the economic response needed to cater for the human condition in all its manifestations. If it did not, it was a non-response.
+
+More broadly, better designed policies to assist disabled people could have been achieved by drawing on wider and more diverse expertise, including, as the Inquiry has now found, by seeking advice informed by disabled people themselves.
+
+But other design shortcomings of the economic measures are more basic and, frankly, ideological. They were about supporting, with billions of pounds, people who had been able to work in a certain way, but who were temporarily unable to work.
+
+For DPO, Covid economics remained a comparatively, small C, conservative endeavour, designed to protect the status quo, cautious about change to provisions like sick pay and wary of creating what were perceived as new dependencies that could become politically difficult to withdraw.
+
+One of the reasons that government was generally resistant to appreciating the obvious needs of disabled people during its improvised formation of pandemic policies is that there is an embedded tendency to see all economics around disabled people as resolved by low-paid or unpaid care, and a dedicatedly retrenched approach to benefits deemed to be a gift rather than a commitment to basic needs and dignity.
+
+My Lady, Counsel to the Inquiry referred this morning to the sharp increase in government borrowing and public debt to fund the pandemic economic interventions. Disabled people's fear is that they will, even now, have to pay the price of that borrowing without having shared equitably in its benefits.
+
+Thank you, my Lady.
+
+**Lady Hallett**: Ms Beattie, I'm sorry, having told you all you have to get your timings right, I got mine wrong, and I was premature in hurrying you along. So apologies. Thank you very much.
+
+Right, Ms Smyth, you're over there.
+
+Submissions on Behalf of Child Poverty Action Group by Ms Smyth KC
+------------------------------------------------------------------
+
+**Ms Smyth**: Thank you, my Lady, I am timing myself.
+
+I appear for Child Poverty Action Group which I will call CPAG. CPAG conducted extensive research during the pandemic about its impact on low income families with children and the functioning of the social security system, and its work has been set out in more detail in its evidence to the Inquiry, which highlights the financial hardship that low-income families with children experienced.
+
+CPAG submits that in its economic response, the UK Government failed to recognise this hardship, let alone to act upon and mitigate it, and that was despite the fact that it was not just significant, but entirely foreseeable.
+
+In Module 8 the Inquiry heard from the Children's Rights Organisations, and that included CPAG, about a litany of failures to recognise and prioritise children's needs in any meaningful way, and about the serious and sustained impacts that that has had on children.
+
+The Inquiry's Module 2 report recognises the severity of both the impact of the pandemic and the government's response to it on children, referring to the decisions to close schools and early years provision as having brought ordinary childhood to a halt.
+
+In particular, CPAG welcomes the Inquiry's finding that for most children, the closure of schools, the inability to see friends, and the requirement to stay at home were of profound consequence and compounded disadvantages to which they were already subject.
+
+We would add that CPAG also welcomes the Inquiry's recommendations in Module 2 that the UK Government should introduce legislation to place child rights impact assessments on a statutory footing, and also that it should bring into force in England section 1 of the Equality Act 2010, which implements the socioeconomic duty.
+
+In this module, CPAG's position is that the same failure to pay enough attention to the impact on children identified in Module 2 underpinned the government's economic response. CPAG considers that children's rights and needs should have been at the absolute heart of that response, but instead, as I've said, those needs were not properly recognised let alone taken into account in decision making in any meaningful way. The consequence is that the pandemic has had a devastating impact on children growing up in poverty, and the full effects on their mental wellbeing, educational attainment, and life chances are still yet to play out fully, but on any view, those consequences will be sustained and significant.
+
+So before what we summarise what CPAG say were the key flaws in the economic response, it's important to understand why low-income families with children were not in a financial or social position to weather the financial and other costs of the pandemic. In our opening submissions last year, we explained what poverty actually is, essentially not having enough resources to meet a household's needs or not having the living conditions that are widely accepted in society in which you live as being usual.
+
+When the pandemic hit, some 31% of children in the UK were growing up in poverty, and of those, seven in ten had at least one parent or carer in work.
+
+Families with children are, and indeed still are, more likely to be in poverty than the general population because of the additional costs of raising children, and the effect of raising children on the hours that parents can work, and of course the fact that wages don't adjust for household size. That means that the social security system is particularly important for families with children as a way of supplementing their incomes.
+
+And while of course we absolutely recognise the remit of the Inquiry, we do say that it's impossible to consider the effectiveness of the economic interventions without understanding the position when the UK entered the pandemic, and in particular, the wider social security system in which the measures that were introduced took effect.
+
+So, to give a snapshot, on the eve of the pandemic, policies which had been introduced since 2010, such as the benefit cap and the two-child limit, had severed the connection between the level of need of a family and the level of social security support which they received, and those policies are explained in more detail in our written submissions.
+
+And as we've also noted in our written submissions, in 2020, the government had spent some £36 billion a year less on social security for children and families in real terms than it would have done had the various cuts and freezes not been introduced since 2010. And just to give a flavour, child benefit had lost 20% of its value in real terms, and other benefits were worth between 9% and 17% less in 2020 than they had been in 2010.
+
+The result, then, is that on the eve of a pandemic, some 4.3 million children were living in poverty, and benefit income levels were already inadequate to support the basic expenditure of many families with children.
+
+Given that context, those children were hit particularly hard by the pandemic. And again, just to give a flavour of what things were like in reality, with children unable to go to school, families needed to spent more on food, electricity, heating, resources for homeschooling and entertainment. Many low-income families had to find a way of buying devices, arranging for broadband access for their children, just so they could access education.
+
+And on top of that, the costs of accessing essential items such as groceries went up while access to other family and community support, such as informal support or support from food banks or public services such as libraries was either disrupted or simply not available.
+
+Against that background, we welcome the issues that have been highlighted this morning by Counsel to the Inquiry, and we take this opportunity, if we may, to highlight five core issues which we invite the Inquiry to consider in this module.
+
+So, first, what were the government's objectives in its economic response, and particularly when it made decisions in relation to the social security system? And, for example, did it prioritise providing help to people who would suffer the most financial hardship, or was its focus on other aims, such as providing support to the wider economy?
+
+Second, did the government assess or reassess the distinct needs of low-income families with children and how they were negatively impacted by the pandemic? And if so, when and how did it do this, and was this effective?
+
+Third, what options to target support at families with children were considered, and why were no targeted measures ultimately implemented?
+
+Fourth, what were the consequences for families with children when support like the £20 uplift was later removed?
+
+And finally, in designing its economic interventions, or in failing later to adjust them or remove them, did the government know that some people, including families with children, would be left in deep poverty, and even destitute, and failed to do anything about it?
+
+Based on the material that CPAG has already seen from the Inquiry, and based on its own experience during the pandemic, which the Inquiry will be hearing about, we highlight at this stage three core and fundamental failings in the government's economic response.
+
+First, in the early part of the pandemic, the government failed properly to recognise the foreseeable economic impacts of the pandemic on low-income families with children. Key decisions were made without appreciating the reality of home life for many.
+
+We say that this is illustrated by the comment we highlight in paragraph 39 of our written submissions: that by receiving an extra £20, existing benefit claimants were receiving a "windfall".
+
+Actually, families living in poverty, most of whom were in work, were the subject of seriously increased financial pressures. And their income, even with that £20 uplift, was inadequate to meet those pressures. So far from receiving any kind of windfall, many were devastated by the pandemic.
+
+Second, because it failed properly to identify those who were most likely to be adversely affected in economic terms, the government didn't set out to design economic interventions to help those people, and nor did it adjust them in the face of clear evidence of ongoing financial hardship.
+
+And CPAG ultimately submits that the UK Government should have identified, but didn't, as one of the core objectives of its economic interventions, the protection of people who were most likely to experience financial hardship during the pandemic, especially children in low-income families. Instead, it focused on protecting the UK economy and neglected to provide adequate support for the most economically vulnerable.
+
+And third, and whilst while of course respecting the remit of the Inquiry, CPAG say that the continuation of policies during the pandemic which severed the connection between need and the level of support -- and the key examples there being the benefit cap and the two-child limit -- was manifestly inappropriate.
+
+Starting with the benefit cap, the two options available to individuals to escape that cap, either working more or moving house, were practically impossible, and obviously contrary to the government's public health measures.
+
+And as to the £20 uplift, of course CPAG recognise that the situation of families would have been worse without it, but it was a blunt tool as, crucially, it didn't take account of family size.
+
+And then, even worse, and as Counsel to the Inquiry has said this morning, despite the Secretary of State for Work and Pensions recommending that the £20 uplift be made permanent, made up of a £10 additional standard allowance and a £10 additional child element, that that support be introduced, that support was in fact withdrawn in 2021, at a time when families were still dealing with the financial consequences of the pandemic which we've described.
+
+Finally, then, in terms of solutions, CPAG's core point is that the default mechanism for getting financial support to children in low-income families in future emergencies must be an improved social security system which is not structured so as to disadvantage families with children.
+
+That would help to ensure that families are in a stronger position going into any future crisis, as well as ensuring that the system is ready to provide support to those who most need it in the event of another national emergency.
+
+And CPAG also hopes that the Inquiry's investigation will scrutinise how we can best ensure that in any future civil emergency, the realties of those experiencing financial hardship, including children in poverty, are better understood by decision makers, and that consideration of their rights and needs are embedded into future economic responses.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Ms Smyth.
+
+Ms Hannett.
+
+Submissions on Behalf of the Long Covid Groups by Ms Hannett KC
+---------------------------------------------------------------
+
+**Ms Hannett**: My Lady, I appear on behalf of the Long Covid Groups along with Ms Sivakumaran, instructed by Jane Ryan of Bhatt Murphy Solicitors.
+
+The Long Covid Groups in this module are Long Covid Support and Long Covid SOS. They are grassroots advocacy organisations whose members came together in the early days of the pandemic to achieve recognition of Long Covid.
+
+They advocate for the recognition of the economic harms caused by Long Covid and represent those affected. In this module, the Long Covid Groups will provide evidence on the adverse effects of Long Covid on their members' economic circumstances.
+
+Members of the Long Covid Groups have lost their income entirely or seen it reduce dramatically. Their careers have been damaged or destroyed, rendering many unable to provide financially for themselves and for their families.
+
+My Lady, this module commences immediately after the publication of your report on Module 2. That report makes a number of findings which will inform your investigation of the economic response. Relevantly, you found, first, that the potential for long-term illnesses to occur was predictable. You concluded, second, that sufficient information was available by October 2020 for decision makers to understand that Long Covid was a significant health and policy issue to be tackled.
+
+Third, you found that the UK Government, in particular the then Prime Minister, Mr Johnson, was slow to acknowledge the seriousness and prevalence of Long Covid and direct that greater attention be paid to how it could be addressed, mitigated, and taken into account in decision making on strategy.
+
+These findings informed your recommendations that, in future pandemics, considerations of long-term sequelae must be built into any strategy and supporting plans.
+
+And, further, you recommended that the potential for long-term sequelae, as well as the developing understanding of them, should be communicated to the public.
+
+My Lady, precisely the same failings are apparent in the approach of the UK Government and the devolved nations to the economic response to Long Covid.
+
+First, the existence of long-term sequelae was foreseeable and should have been planned for, but in any event, the Long Covid Groups advocated for economic measures to assist their members from the very earliest stages of the pandemic.
+
+For example, Long Covid SOS wrote to the Prime Minister and all Members of Parliament on 3 July 2020 calling for the recognition of Long Covid and asking for action to be taken to consider, and I quote, "the economic implications, including making provision for long-term sick leave, financial support, and taking steps to ensure employers were made fully aware of this situation."
+
+Certainly, by November 2020, the Treasury were well aware of the catastrophic economic impact of Long Covid on individuals, and were aware of its significance for the wider economy. For example, in email exchanges in November 2020, Treasury officials recognise that the economic costs of Long Covid causing workers to be unable to work had not been accounted for.
+
+Dr Tim Leunig also advised in November 2020 that the increasing number of Long Covid sufferers was a further factor weighing in favour of maintaining restrictions until the wider populations were vaccinated, and certainly by 19 July 2020, the Cabinet Office, in a document entitled "In-depth risks associated with high Covid-19 prevalence" referred to one of four key risks associated with high Covid-19 prevalence as being "more Long Covid workforce absences, including in the NHS", and noted that high prevalence will almost certainly increase the health and economic burden of Long Covid.
+
+Further, it stated that the long-term impact of Long Covid on workforce absences and productivity was currently unknown, but likely to be significant.
+
+Second, while you concluded in Module 2 that decision makers had been slow to respond to the threats posed by Long Covid, in the context of the economic threats posed to the individual, to the public purse and to the wider economy, the evidence discloses a total failure to respond at all. Specifically, none of the relevant witnesses in Module 9 reviewed the existing economic interventions as more information became available.
+
+The highest any of the witnesses puts it to you is the Treasury, who say that they maintained an interest. They maintained an interest in Long Covid.
+
+The department responsible for alleviating economic hardship, Department for Work and Pensions, apparently failed to take any specific action in response to Long Covid. In July 2021, a Covid-19 Taskforce paper identified the Department of Health and Social Care and the Department for Work and Pensions as responsible for preparing a strategy to address the cumulative impact of Long Covid on public and private sector workforces, but none of the witnesses for DWP explain whether a strategy was developed or how DWP responded to the known impact of Long Covid on the workforce.
+
+As of today, there are, and have not been, any economic interventions targeted at those with Long Covid.
+
+The Long Covid Groups say that there should have been. Neither has any information about Long Covid been communicated to employers or benefits assessors, despite a lack of understanding or even disbelief about Long Covid being a significant barrier to people with Long Covid both remaining in work and accessing benefits.
+
+For example, DWP has not reviewed its assessments to ensure that they are able to understand the relapsing and remitting nature of Long Covid.
+
+Third, as you concluded in Module 2, in future pandemics, economic interventions to mitigate the harm caused by long-term sequelae must be built into the economic response.
+
+The Inquiry's expert, Dr Mike Brewer, suggests that labour market interventions are not relevant to Long Covid. Similarly, some of the government experts say that Long Covid should be treated such as any other chronic condition. Our clients do not accept this. We invite the Inquiry to cast a critical eye over the evidence and to reach its own finding on whether Long Covid should have been factored into economic interventions.
+
+In particular, the Long Covid Groups make the following three points.
+
+First, the scale of suffering attributable to Long Covid should not be underestimated. The last ONS data from March 2024, confirming that 1.5 million people's daily activities are limited by Long Covid, and 381,000 are limited a lot, suggests that the contribution due to Long Covid is significant.
+
+And this tallies with the reported increase since the pandemic of people who are economically inactive for health reasons and an increase in people working with health-limiting conditions.
+
+The UK Government recognised in July 2021, in Covid-O advice, considering the high prevalence of infection that summer, that there would be worker shortages caused by increased illness including Long Covid, yet there has been no comprehensive survey of the economic impact of Long Covid. Evidence relied on by the Treasury to suggest that the contribution of Long Covid to economic interactivity is smaller than expected is outdated and not truly representative, given that it was gathered prior to June 2021, when Statutory Sick Pay may have hidden the true scale of the impact.
+
+Second, providing targeted support for people with Long Covid would have fulfilled two of the Treasury's key economic objectives: namely, first, preventing unemployment and supporting living standards, and, second, protecting the most vulnerable.
+
+The Long Covid Groups' surveys documented that many people had to leave their jobs following extended periods of sick leave due to Long Covid. Reforms to Statutory Sick Pay and guidance to employers about Long Covid were mitigations which could have preserved work and prevented the scarring effects of employment.
+
+Further, Long Covid disproportionately affected women and people from lower socioeconomic backgrounds.
+
+Again, targeted support would have mitigated the disproportionate impacts of Long Covid.
+
+Third, there's a moral and ethical imperative to provide targeted financial support for people with Long Covid. People who served on the front line in healthcare, transport, and other essential key worker roles were at disproportionate risk of suffering from Long Covid. And whilst there was some support for NHS workers by way of Covid sick pay until 2022, other key workers did not receive any support, despite sacrificing their health to work throughout the pandemic.
+
+As of 2022, there was no support for people who suffered Long Covid from workplace infections, and the implications, we say, for the future are profound. Knowing that long-term sequelae are foreseeable, how can we ask frontline workers to serve again without a guarantee that if their health is damaged, they'll be properly looked after?
+
+The Long Covid Groups would like to know why nothing has been done to alleviate the suffering of those with Long Covid and we say so far three themes have emerged from the evidence which offer some explanation and warrant further investigation in this module.
+
+We say, first, the lack of response is a function of disbelief in or indifference to, Long Covid. The Inquiry has already found in Module 2 that this attitude affected the UK Government's approach to Long Covid generally, and we say that's equally apparent in the failure to respond to its economic impact.
+
+Second, we say the economic impact of Long Covid required a whole-systems approach, namely across departmental government response. This didn't occur. And to the contrary, each relevant government department abdicated responsibility to another.
+
+Third, the Inquiry's expert, Dr Tetlow, has concluded that there was a failure to integrate economic and public health evidence. This was seen particularly acutely in the context of Long Covid. To the extent it was considered at all by the UK Government, Long Covid was approached as a public health problem only, and not as a public health problem with a discrete economic impact.
+
+In summary, as we observe in our written opening submissions, Long Covid has long consequences. Those consequences include adverse effects on health but also individual and wider societal economic impacts, and yet, despite these impacts being foreseeable at the outset of the pandemic and certainly known about by later in 2020, the government failed to introduce interventions to support people with Long Covid to remain in work, or to access the support they were told was available.
+
+My Lady, we conclude with two points: first, we would like to pay tribute to Ondine Sherwood, a co-founder of Long Covid SOS who died in March 2005. Ondine advocated for those with Long Covid from early in 2020 and indeed gave evidence to you in Module 2. Much of the evidence presented by the Long Covid Groups in this module builds on Ondine's brilliant and tenacious campaigning.
+
+Second, we thank the Inquiry for the opportunity to participate in Module 9 and we look forward to helping the Inquiry in its work.
+
+Unless I can be of further assistance my Lady, those are the opening submissions for the Long Covid Groups.
+
+**Lady Hallett**: Thank you very much indeed, Ms Hannett, very grateful.
+
+We seem to have lost Ms Stober at the moment, I hope she's okay, but that means we're going to have to move people up.
+
+But next it's Mr Jacobs.
+
+Submissions on Behalf of the Trades Union Congress by Mr Jacobs
+---------------------------------------------------------------
+
+**Mr Jacobs**: My Lady, these are the submissions of the Trades Union Congress. They address the importance of the labour market interventions, the contribution of social partnership to those interventions, the need to fill the gaps, the need for a stronger social security net, and the Treasury's decision making on matters outside of its core interests.
+
+First, the importance of the labour market interventions.
+
+A great many of the 5 million members of the TUC affiliated unions were supported by the labour market interventions introduced during the pandemic. The interventions were bold, and because they were bold, they came at a significant cost to the public purse. But it is also because they were bold that they substantially achieved their objectives and reduced long-term damage to the economy.
+
+The TUC considers that a critical part of the work of this module is to recognise the value of these labour market interventions in mitigating the harms of the pandemic.
+
+They avoided mass redundancies, limited damage to, and loss of, self-employed businesses, and reduced the severity of long-term economic scarring.
+
+By July 2021, 11.6 million people and 1.3 million employers had used the CJRS. It is estimated that the CJRS directly protected around 4 million jobs, and that a quarter of a million employers who used the scheme would have closed permanently without it.
+
+The SEISS was also hugely important. Dr Tim Leunig, an economic adviser to the Chancellor, has suggested that the scheme had a moral and political rationale rather than an economic one, as the UK already has an Income Support scheme in Universal Credit.
+
+That, however, fails to recognise that many self-employed would be eligible only for very limited support, if any, due to savings and assets, and in any event the income provided by Universal Credit would have represented a significant drop in earnings for most self-employed people.
+
+Many self-employed people would not be able to support themselves, and meet the costs of sustaining their businesses during a lockdown without support. The resulting economic scarring would have been significant.
+
+The Inquiry should also consider the unquantifiable but vast consequences of mass redundancies and loss of livelihood, in terms of impact on mental health and increased levels of poverty and associated consequences of that for the lives of children, those at risk of domestic violence, and myriad other impacts.
+
+There is evidence, as set out in our written submission, as to the particular scarring effects on young people of time out of the labour market.
+
+My Lady, sometimes the best lessons to learn are actually about what went well, and the core elements of the CJRS and SEISS are an example.
+
+In a future pandemic, reductions in spend on such interventions which severely restrict their capacity to achieve the objectives of protecting jobs and livelihoods will not achieve value for money at all. To take a hypothetical example, significantly lowering the level of income replacement from 80% would reduce the initial outlay but thwart the benefit of the intervention. The value of providing income protection at or above 80% of usual earnings is an important lesson learnt from this pandemic. As observed, it was successful because it was bold.
+
+This morning, your Lead Counsel in this module entirely appropriately canvassed a line of thinking that interventions aimed at preserving the labour market going into the pandemic may not be effective in assisting the economy coming out of it, that it might preserve an economy for conditions that may not exist coming out of the pandemic, that it might suppress a churn in employment in which economies thrive, that it might as press innovation, that it might support the survival of businesses that are not otherwise viable.
+
+My Lady, putting to one side the merits of that as an economic theory in normal times, in the midst of national lockdowns in a global pandemic, the notion of not providing support to see who sinks and swims would be utterly disastrous. A great many would sink and not because they aren't great or innovative businesses. The damage to individuals and the economy, in the short and long term, would be disastrous.
+
+Second, my Lady, the contribution of social partnership to the labour market interventions. The TUC called for and in substantial part was able to work in successful partnership with the government in developing these interventions. Going into the pandemic, there was an absence of established and utilised frameworks for partnership working. That had the disadvantage that in the midst of responding to significant and unfamiliar challenges, arrangements for partnership working had to be established from something akin to a blank slate.
+
+The problem fits into a broader picture as to engagement with stakeholders. Structures for partnership working are not limited to unions and no doubt this module will receive evidence from stakeholders who are significantly constrained in their engagement with government on issues key to this module.
+
+Nonetheless, on many of the core issues, there was meaningful and effective engagement between key government departments, the TUC, and a number of unions. Kate Bell, the TUC's Assistant General Secretary, described in her statement the intensity of that engagement, particularly in the early phases of the pandemic. It is echoed by the evidence of the then Chancellor who says that while the economic interventions during the pandemic were developed at pace, understanding the views of recipients or the views of key stakeholders involved in delivery was central to the design of policy.
+
+In looking to a future pandemic or other crisis, the benefits of partnership working should be harnessed, the TUC says, by way of a tripartite panel of government, businesses and unions, brought together to work through and refine the labour market interventions in advance of a future pandemic.
+
+My Lady, the third issue is the gaps in the labour market interventions. Many workers fell through the gaps. For some, those gaps meant that they were not eligible for any support, whether under the SEISS or the CJRS. For others, the support available represented a significant and unaffordable drop in their incomes. Workers in both categories were in many cases pushed into the welfare system, and the gaps had a disproportionate impact on those in low-paid and insecure work and upon those in the creative industries.
+
+A short oral submission in opening is not the place for detailing the gaps, but they included the delay in introducing the provision for those in self-employment, those in freelance, zero-hour, or short-term PAYE work, those whose employers chose to decide not to make use of furlough, the cliff edge created by a system whereby employees needed to work all of their hours or none at all, and those whose earnings were at minimum wage, who saw their income drop to below minimum wage.
+
+My Lady, why is it important to fill in the gaps, or does filling the gaps just create more of a burden on the public purse?
+
+We say filling the gaps is firstly about effectiveness and maximising effectiveness of the interventions in terms of preventing job losses and loss of business. The long-term protection of the economy is better served by filling the gaps.
+
+Secondly, it is about policy coherence and fairness. Many of the gaps arose due to the hasty creation of the schemes rather than the pursuit of a cogent policy objective. It would be fairer and better policy making if these gaps were filled.
+
+And behind the gaps are thousands who suffered the severe economic effects of the pandemic without support that was desperately needed. And several of the powerful accounts of the impact film this morning were precisely the accounts of those who fell in the gaps.
+
+Third, it is about inequality. Those on lowest incomes and those to in precarious work were the most likely to miss out. It is a point about which the TUC is especially concerned. And this, my Lady, is a practical way that this Inquiry can seek to address the devastating unequal impact which inevitably arises during a pandemic or other whole-of-society crisis. So work should be done now, in partnership, to prepare for complete schemes for support.
+
+The TUC also considers that the lack of a pre-existing short-time working scheme in the UK contributed to the gaps in the CJRS. Whereas other countries were able to refine and adapt pre-existing schemes to the present crisis, the UK had to scramble to create schemes from scratch. Inevitably, in the scrabble, lacunaes emerged. The TUC considers that the significant benefits of having a standing scheme, for which practical and contractual features are already fully worked through and with which stakeholders are familiar, will be underlined by the evidence in this module.
+
+The fourth issue is the need for a stronger social security net. The TUC and its affiliated unions held concerns about the inadeqacies in Universal Credit which were exacerbated during the pandemic. The five-week wait for Universal Credit and the savings cap, which dramatically tapers payments when the claimant has over £6,000 of savings, were particular areas of concern.
+
+The TUC noted in its April 2020 report, entitled Fixing the Safety Net, that the best way to protect incomes was to keep people in work, but that many more people were already, at that point, having to turn to the social security system.
+
+On a number of occasions, the TUC made the case for the basic level of Income Support to be raised at 80% of the National Living Wage or £260 per week.
+
+Limitations in the safety net also made it more difficult to adhere to self-isolation. The Inquiry has observed in its Module 2 report many of those in low-paid professions had no option but to go out to work, and they faced additional risks of becoming infected by Covid-19. They then faced financial hardship if they self-isolated. For people on low pay who struggled to pay for the basics, these hardships or their consequences should not be underestimated. They also had significant public health implications with regard to potential onward transmission.
+
+My Lady, of course, the TUC welcomes that finding, and says that it is part of the -- part of the problem is the extraordinarily low rate of and narrow eligibility for, Statutory Sick Pay.
+
+Fifthly, and finally, we turn to Treasury decision making on matters outside its core interest.
+
+In several modules the Inquiry has heard evidence about responses to the pandemic that require money and the Treasury offering resistance as it manages the public purse and ensures value for money. It is a proper responsibility of the Treasury.
+
+But it is also a feature of decision making that whereas the Treasury could be resistant to the interests and concerns of other departments, it was more persuadable in respect of its own.
+
+The TUC considers that the Treasury was most effective and responsive on matters related to the Treasury's primary concern, the wider economy. But it was less persuadable on issues of public health response, social and mental health impacts, and widening health inequalities, unless linked to wider economic impacts in the state of the economy.
+
+This featured during the pandemic in a number of respects, perhaps most significantly the gaps in the labour market interventions, the resistance to changing Statutory Sick Pay and financially supporting self-isolation, and its resistance to enhancing the social security safety net.
+
+My Lady, those are the submissions of the TUC. Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Jacobs. Mr Lissack.
+
+Submissions on Behalf of the British Business Bank by Mr Lissack KC
+-------------------------------------------------------------------
+
+**Mr Lissack**: May it please you, my Lady.
+
+In this matter I appear on behalf of the British Business Bank together with my learned friend Ms Emily Wilson, instructed by Claire Whittle of DLA.
+
+In this short opening statement I would like to touch on three themes. Each, I hope, will chime with the opening approach of Counsel to the Inquiry of this morning.
+
+First, the humanity of what the world endured during Covid-19 viewed through the lens of the Bank. Secondly, the Bank's role in the schemes. Thirdly, the financial outcome of those schemes.
+
+First, the humanity of it all. Your Ladyship has, over the course of the Inquiry to date, heard detailed and moving evidence about the toll the pandemic took on individuals, families, and businesses. It hardly needs me to underline that to you.
+
+Rather, we wish to make two points. First, the Bank wishes me to emphasise that it recognises the significant impact which the pandemic had, and offers its sincere condolences to those who lost loved ones and to recognise the price paid by those who suffered mentally, physically, and financially, all captured so evocatively in the impact film played at the start of this module, a film that no one could have found easy to watch.
+
+Secondly, my Lady, the Bank pays tribute to its staff and those with whom they collaborated who worked seven days a week from early morning to late evening, adapting simultaneously to the same dislocating pandemic-related disruptions to their personal and family lives that we all suffered, but at the same time, managing the demands of unprecedented financial policy implementation.
+
+Without their commitment, the Bank would have struggled to discharge its role at scale and in a dramatically compressed timeframe, when failure to deliver would have had a significant adverse effect on the survival of many businesses and millions of jobs during the pandemic.
+
+To our second point, the Bank's role. It is important, my Lady, that we emphasise what the Bank's role was and what it was not. As Counsel to the Inquiry said this morning, it is less than clear where the lines of responsibility lay. We wish to emphasise this because the contours of division as to role as regards to the schemes that existed between the Bank and government were not always obvious, as is evidenced by what Counsel to the Inquiry said earlier this morning, to those on the outside looking in, and consequentially the boundary between the role of the Bank and the role of central government and ministers, has not always been well understood in public commentary either at the time or since.
+
+So, first, the government's role. It originated, designed and approved the pandemic schemes with which this module is concerned. It determined the size of the interventions, the timing of the schemes, and the accreditation criteria for each of them.
+
+The Bank's role was very different. Its core duty was the launch and operation of the schemes as mandated by the government and, in addition, it provided advice to the government and assistance as and when needed. It acted as a conduit between lenders and government, and played a coordinating role during the operation of the schemes working with the lenders.
+
+Throughout, my Lady, the Bank remained active in trying to identify ways to minimise ways to minimise fraud by borrowers and resultant losses, and continues to review lender performance on recovery from borrowers and the lenders' own claims under the guarantee, adjusting where there were errors or issues with the loans.
+
+But this should be understood, if I may emphasise it. The work required of the Bank to launch and operate the schemes was immensely challenging. All this was introduced in extraordinary time spans and under extreme pressure. By way of example, there was just 16 days from its inception to the operation of the Bounce Back Loan Scheme. Sixteen days.
+
+The work went far beyond the capacity of which the Bank, as it existed in early 2020, had been designed. Indeed, the task required an exponential development of the Bank in the most difficult circumstances. For example, its headcount went from 250 before Covid to 600 after Covid. It went from supporting 98,000 businesses, with 8 billion of finance before Covid, to supporting about 1.65 million businesses with 82 billion of funding post-Covid.
+
+This exponential development has been informed by lessons learned on many fronts, and has led to its capacity, its systems, and its processes, all being significantly enhanced and evolved from those in place pre-pandemic. It has resulted in the Bank having a model for future emergency lending and the Bank being in a much better position to support the UK Government and economy in the event of any future shock.
+
+Third, and last, the financial outcome of the schemes.
+
+The Bank wishes to emphasise these three things. First, and whilst we recognise, my Lady, not directly a matter for the Bank itself, its perception is that the schemes that eventuated reflected what could be achieved given the time available and the parameters set by government.
+
+Secondly, it is recognised that if the schemes were run again, they would benefit from the knowledge and experience gained through the disaster of this pandemic.
+
+Third, inherent in these schemes, delivered as they were at scale and speed, as mandated by the government, were risks. Risks identified by the Bank, known by government, but accepted by government, given the dramatic economic emergency we all faced.
+
+The Bank recognises this is not a time to be blase. There is rightly public concern about the level of fraud and error and the impact on public spending via the government guarantees. This is a concern that the Bank shares, and on which it provided clear and robust advice in real time.
+
+But bearing in mind, my Lady, the level of risk that the Bank originally identified in its reservation notices, which are, as you know, formal letters sent by the Bank to the secretary of state highlighting specific risks of relevant schemes, the actual level of identified fraud and the overall effectiveness in terms of jobs and livelihoods may, on final analysis, prove to be better than some commentators would have it.
+
+So it should also be said that the positive impact of the schemes is undoubted. That led large from the screen in the film we saw at the beginning of this module. And when looking at what went wrong, it is important to do that in the context of what went right.
+
+From data effective as of the end of June 2025, these facts can be distilled: first, that £82 billion of finance was delivered through the schemes. Secondly, but for the government guarantees, lenders would not have been willing and able to provide billions of pounds of lending, nor at such speed, meaning that many businesses that stayed afloat would have sunk, with the consequential loss of employment.
+
+Thirdly, as regards the rate of repayment, four points can be made by volume, meaning by counting the number of individual loans, published for the period ending 30 June 2025, and set out in our written opening, paragraph 55 and following.
+
+The picture is encouraging. The vast majority of loans are fully repaid or on schedule. Of the remainder, the number the Bank anticipates to be a default is lower than initially projected, and looking at the value of the loans made and the ultimate amount which it is likely to be spent on the government guarantee, the picture is broadly even better.
+
+The fourth general point we'd make is to pick up on a point made by my learned friend in his opening address this morning. On Bounce Back loans, which has the highest level of suspected fraud attendant to it, as you know, lenders have flagged about 4% of the 46.48 billion of drawdown value as suspected fraud.
+
+In no sense does the Bank take this level of loss lightly, but it must be seen as the price paid for the delivery of the schemes at scale at speed in extremis.
+
+And finally, my Lady, may I emphasise this: all this must be set against the fact that the schemes provided tens of billions -- initial estimates suggest up to £77 billion -- of additional gross value added to the UK economy. And as a result, hundreds of thousands of businesses and up to 3.5 million jobs, were saved.
+
+With that, we leave these opening submissions. We thank you for allowing us to make them and we stand ready to assist the Inquiry in any way we can over the weeks to come.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Lissack. Our timing is going to be a bit out today, so I think the suggestion is that I should break now and see if we can make some enquiries, even more enquiries, about Ms Stober, and I shall return at 3.10.
+
+*(2.52 pm)*
+
+*(A short break)*
+
+*(3.09 pm)*
+
+**Lady Hallett**: I'm afraid Ms Stober won't be with us this afternoon so Mr Mitchell.
+
+Submissions on Behalf of the Scottish Ministers by Mr Mitchell KC
+-----------------------------------------------------------------
+
+**Mr Mitchell**: Thank you, my Lady.
+
+This is the opening statement for the Scottish Government. I appear today along with junior counsel Michael Way and we're instructed by Fraser Johnston Roberts and Iain Wallace of the Scottish Government legal directorate.
+
+Although it may have begun as a health crisis, the Covid-19 pandemic soon became an economic crisis. Epidemiological requirement necessitated non-pharmaceutical interventions. In turn, NPIs necessitated financial support.
+
+The Scottish Government introduced measures to address the impact of the various NPIs. It also provided support to ensure that the measures were effective in achieving their desired aim. This included considering any additional impacts on the vulnerable in society, and those who suffered the effects of inequality.
+
+In this opening statement we examine some of the ways in which the Scottish Government sought to alleviate economic hardship. We look at some issues that arose, and we consider improvements that could be made to a future emergency economic response that would allow the Scottish Government to make full use of its devolved powers and thereby to respond in an optimal manner.
+
+At the outset, it's important to highlight that the Scottish Government's economic activities are not overseen by the same Director General that has responsibility and oversight for fiscal strategy and management. The economic response was led by DG Economy, whilst fiscal strategy was led by DG Scottish Exchequer. They worked closely together.
+
+Economy made policy recommendations to ministers about support schemes and economic interventions and ministers considered advice from Exchequer on the extent and means available to fund those schemes and interventions.
+
+Looking firstly, then, at some of the challenges that were faced. Difficulties arose through unaltered reliance on existing funding mechanisms in place with the UK Government. Normal borrowing arrangements and the overall fiscal framework between the two governments continued to apply during the civil emergency. These mechanisms were neither designed nor adequate for responding to the pace and scale of the spending.
+
+The Scottish Government could not borrow in order to support additional spending that ministers may have felt was required. The financial resource available to make policy decisions, including on economic interventions, was directly dependent on UK Government policy decisions on spending.
+
+Decisions regarding NPIs had to take account of the levels of infection, and transmission rate of the virus. That was the primary guiding metric in the initial period. But deployment of support was constrained by the inability to predict the level of funding that would be made available.
+
+Early on, the Scottish Government asked for more flexibility to allow for greater autonomy and timely spending decisions. The eventual response was the Barnett guarantee of July 2020. Whilst that provided a welcome upfront commitment, namely that the Scottish Government would receive a minimum level of funds as a result of UK decisions, in practice, questions around timings of announcements and ongoing revisions to the level of guaranteed funding resulted in ongoing uncertainty and an opportunity cost.
+
+With more assurance around timing and amount, the Scottish Government would have had greater flexibility to respond more effectively to emerging local priorities, and could potentially have taken decisions to apply support earlier.
+
+The Scottish Government made a commitment that any consequentials related to support for businesses in England would be passed on in full to Scottish businesses. In practice, the support available exceeded the related Barnett Consequentials by half a billion pounds. This reflected the Scottish economy's distinct features, the spread of the virus, and the need for different restrictions.
+
+A recommendation should be considerate to review the fiscal frameworks, specifically adjustments that cater for a pandemic crisis, so as to facilitate mutual rapid responses and financial risk management.
+
+The ability to respond at pace to a crisis would be best served by having prior agreement with the UK Government as to how the fiscal framework can be adapted, as well as having an upfront agreed approach and consultation on how UK-wide measures might best suit all four nations.
+
+We explore this in detail in our written opening statement, along with some of the recommendations of the expert David Phillips.
+
+One of the key challenges was obtaining timely data to monitor the impact of the pandemic and the NPIs to be put in place. Considerable progress was made by the Scottish Government's Office of the Chief Economic Adviser, in conjunction with the Office for National Statistics and the other DAs. And the Scottish Government did make considerable use of analysis and expertise. For example, the Chief Economist presented analysis at weekly meetings chaired by the First Minister and attended weekly meetings of UK-wide ministerial economy ministers.
+
+However, difficulties arose in identifying businesses that required support. For businesses without premises on which non-domestic rates were applicable, the Scottish Government developed a range of targeted funds aimed at those sectors that could not access the main grant schemes.
+
+The information on individual businesses was held by HMRC and was not available to the Scottish Government at an individual business level. A future need was identified for sharing of HMRC and DWP data. Cultural, technical and legislative barriers currently exist.
+
+The Scottish Government has appointed a Data Liaison Officer to liaise with the Cabinet Office and other DAs to establish ways of working during crises. Further, a memorandum of understanding was signed in July 2025 which outlines mechanisms to enable rapid sharing of data and analysis between UK and Scottish Governments.
+
+Turning now to support for businesses.
+
+The Scottish Government implemented bespoke funding to augment that from the UK Government. This was more reflective of the differing rate of infection in Scotland, the distinct features of the Scottish economy, and the nature of the businesses that comprise it.
+
+Mr Jacobs spoke a short while ago for the TUC in relation to the fitting -- to the filling of gaps. A great amount of the Scottish Government's efforts in this respect went to fill gaps identified in UK Government support.
+
+The Scottish Government provided over £4.7 billion in support for businesses. This was not intended to, nor could it, fully compensate businesses for the losses that they faced but it was a contribution towards costs that might be incurred when complying with restrictions, to ensure that, when lifted, businesses could return to operation.
+
+On 17 March 2020, the initial UK Government funding package was increased to £330 billion. On 18 March the Cabinet Secretary for Finance, Kate Forbes, set out details of phase I funds, including a similar package of NDR relief. There were two specific reliefs. One often them, the 100% relief, was based on the equivalent relief in England, which recognised that these sectors were most likely to be directly affected by restrictions, but with some local variation.
+
+Also on 18 March, the Small Business Grant Fund and the Retail, Hospitality and Leisure Grant Fund were announced. These schemes were initially based on the design of the English schemes with some, often significant, variation.
+
+The non-domestic rates system had formed the initial basis of support, as the non-domestic property valuation roll contains details of all such properties in Scotland.
+
+This information, held by local authorities, was considered to be the only way to deliver business support at scale and speed in the early days.
+
+Local government played a vital role in the administration of NDR relief and more broadly in the distribution of grants and funds in Scotland. Initial support was delivered via local authorities, and targeted towards the specific sectors and businesses most impacted by NPIs. The Scottish Government considers that its working relationship with COSLA regarding the economic response was strong and effective.
+
+In April 2020, the Chief Economist had published estimates of the potential impact of Covid-19 on the economy. These early estimates, quite accurate compared with outturn, suggested GDP would reduce by 33% and, in the absence of support, the unemployment would rise to 14% over the first lockdown period.
+
+There were over 130 Scottish Government businesses support funds in operation at various times during the pandemic. The total value of funding paid in 2020 to 2021 and 2021 to 2022 was over £4.73 billion, of which 1.46 billion was NDR relief, 728 million was sectoral funding, and 2.54 billion was local authority delivered funds.
+
+Some funds were highly targeted and modest in size while others were broad and combined to pay out over £1 billion in support.
+
+The introduction of the strategic framework in Scotland at the end of October 2020 enabled a new approach, linking business support to the application of the levels and the associated package of restrictions.
+
+These phase II funds were designed and delivered by local government working with Scottish Government officials. They provided flexibility and autonomy for local authorities to decide how best to support economic recovery in their own areas.
+
+Bus-related initiatives proposed by Transport Scotland, and approved and funded by the Scottish Government, sought £223 million of funding to support bus operators until 31 March 2022. This kept essential services running and offset rising fuel, energy and staffing costs.
+
+Rail and ferry services were supported through variations to existing subsidy arrangements. This funding bridged the gap caused by physical distancing and reduced capacity between operating costs and the lost fare revenue.
+
+The funding covered both commercial and local authorities-supported bus services, rail and ferries.
+
+Considering the effectiveness of the schemes, in September of 2021 the Chief Economic Adviser considered that support provided by the Scottish Government, focused on small businesses and sectors most impacted by lockdown, had provided complementary support to the Coronavirus Job Retention Scheme and had an additional impact on business survival over and above the UK schemes.
+
+The risk of fraud was mitigated through control mechanisms built into the scheme's design and delivery, with many grants administered by local authorities. They could use existing administrative capabilities including fraud detection and prevention, and a well-established, robust, existing NDR dataset to allow businesses to be paid quickly with appropriate checks.
+
+The approach taken by the Scottish Government to the risk of fraud and error was, it is submitted, appropriate and proportionate. Audit Scotland stated that this was something of a success story compared to the fraud issues which may be seen elsewhere in the evidence.
+
+In terms of alleviating hardship via business support, consideration was explicitly given to the importance of some sectors to particular communities in Scotland, and particularly where there were fewer alternative economic or employment opportunities.
+
+This was part of the underpinning rationale for the seafood industry support schemes.
+
+Turning to support for jobs and the self-employed.
+
+The Scottish Government introduced its own key economic interventions to support jobs. The Newly Self-Employed Hardship Fund was set up to provide hardship relief to newly self-employed individuals who lost revenue but who were ineligible for the UK-wide scheme because they had registered with HMRC as self-employed within the previous year.
+
+It was designed by the Scottish Government in partnership with local authorities, who also implemented them. The Furlough Support Grant was made available in five health board areas for businesses that had to close down due to increased restrictions between 9 and 31 October 2020. The grant's purpose was to help meet the cost of furloughing staff by supporting the 20% employer's contribution that they were required to pay at that time under the UK-wide scheme.
+
+These businesses were primarily within the hospitality sector, which employs a disproportionately high number of people from groups with protected characteristics, particularly young people, women, and minority ethnic groups.
+
+Turning finally, my Lady, to the alleviation of economic hardship.
+
+Support for businesses, jobs, and the self-employed was of course only part of a wider programme of actions to alleviate economic hardships within Scotland's communities. For example, Scotland remains the only nation in the UK to have made, in addition to other benefits, a Scottish Child Payment which was a very significant anti-poverty measure. Also, on 18 March 2020, a £350 million package of resources was set out to support the third sector communities and vulnerable individuals.
+
+This package benefited, amongst others, the Scottish Welfare Fund, allowing it to provide community care grants, and crisis grants, to those in immediate need. The package also allowed the setting up of a resilience fund administered by Firstport, Social Investment Scotland, and the Cora Foundation. It helped save organisations with a collective turnover of approximately half a billion pounds, and safeguarded 14,000 jobs.
+
+In conclusion, my Lady, we trust that this opening statement has been of some assistance in understanding the position of the Scottish Government on some of the main pillars of its economic response. While we have dealt exclusively with economic hardships, the Scottish Government does not forget the many forms of suffering experienced by the people of Scotland during the pandemic.
+
+Thank you.
+
+**Lady Hallett**: Thank you very much indeed, Mr Mitchell. Ms Walters.
+
+Submissions on Behalf of Welsh Government by Ms Walters
+-------------------------------------------------------
+
+**Ms Walters**: Prynhawn da, my Lady.
+
+In this module you have received 13 written statements from the Welsh Government together with a written opening statement, all of which provide substantial detail insofar as the Welsh Government's economic response to the pandemic.
+
+As your Ladyship will of course be aware, legislative competence for fiscal, economic and monetary policy, employment duties, and social security schemes is generally reserved to the UK Government.
+
+There are of course exceptions to these, and these have been detailed in the written evidence provided where relevant.
+
+My Lady, it is intended in this short oral statement to concentrate upon two main issues: firstly and mainly, the funding and support provided by the UK Government to the Welsh Government during the relevant period. Secondly, and your Ladyship may be pleased to hear more succinctly, the Welsh Government-designed economic interventions.
+
+My Lady, turning first, if I may, then, to the issue of funding for the Welsh Government during the relevant period.
+
+Your Ladyship has already heard considerable evidence in other modules regarding the fiscal framework governing public expenditure in the UK. As your Ladyship, again, will be aware, approximately 80% of the Welsh Government's annual financial resource is allocated by His Majesty's Treasury via the block grant. That block grant is then subject to adjustments determined using the Barnett formula, which factors in, amongst other matters, Wales's comparable population.
+
+This then either results in positive consequential funding, where funds will be provided to the Welsh Government, or negative consequential funding, where funds will be clawed back from the Welsh Government.
+
+In non-pandemic times, notification of which of these applies, and the quantum thereof, usually occurs relatively late in the financial year.
+
+Now, the Welsh Government acknowledges that the general fiscal framework is a politically sensitive area that sits beyond the scope of the Inquiry and your Ladyship's considerations. However, its operation in pandemic times is fundamental to your Ladyship's consideration of the devolved government's ability to appropriately respond to the economic needs of their respective nations during such times.
+
+It's business-as-usual design renders the Welsh Government wholly reliant upon the discretion of His Majesty's Treasury to depart from, or grant flexibilities in respect of the framework to enable it to properly support the required economic response.
+
+In making this statement the Welsh Government repeats its gratitude for the extent of funding and support provided by His Majesty's Treasury during the pandemic. As the Inquiry will hear during this module, that support enabled the creation of national support schemes under reserved powers, and the creation of complementary support schemes in devolved areas.
+
+The impact of all of these schemes was overwhelmingly positive and many Welsh businesses and individuals are still in operation or employment as a result.
+
+That said, the Welsh Government identifies two key areas in which lessons can be learned to further improve its ability to respond to economic needs in a future pandemic scenario.
+
+First, there was a lack of clarity about the consequential funding to be made available to the Welsh Government; and second, there was a lack of information and consultation regarding the national support schemes and, more importantly, a limitation upon their availability in Wales save for in accordance with English considerations.
+
+Turning to the first, the consequential funding to be received by the Welsh Government was particularly unclear at the outset of the pandemic. This inevitably impacted the ability of the Welsh Government to formulate its economic response during those early stages. Whilst Welsh ministers proceeded to make decisions at pace without this information when required, this lack of clarity necessitated that they did so at risk until such time as confirmation of funding was provided.
+
+The situation was somewhat alleviated upon the introduction of the Barnett guarantee in July 2020, which provided advance confirmation of consequential funding to be received as a result of Covid-19 response interventions in England.
+
+Further uplifts to the guarantee were then provided in October, November and December of 2020, although it did not continue into the 2021-22 financial year.
+
+Whilst the Barnett guarantee did not entirely remove funding uncertainties, the Welsh Government welcomed this measure and is grateful for the certainties that it did provide. Indeed, the Welsh Government makes a recommendation for your Ladyship's consideration that the Barnett guarantee should be introduced from the outset of any future pandemic or economic crisis and should remain in place until its conclusion.
+
+The Welsh Government further invites your Ladyship's consideration of other fiscal flexibilities during pandemic times such as an increase to the amounts that may be carried forward at the end of a financial year or the ability to switch from capital to revenue budgets. These and others were sought by the Welsh Government during the relevant period but were refused, with one such refusal resulting in the recruitment of £155 million due to an underspend of funds which were provided to it very late in the 2020-21 financial year.
+
+Turning to the national support schemes, the Coronavirus Job Retention Scheme and the Self-Employment Income Support Scheme was successful in Wales. They prevented employers from closing, preserved jobs and supported household spending without which job loss and business closures in Wales would likely have been far higher.
+
+However, the absence of consultation regarding these schemes presented difficulties for the Welsh Government in the timely development of complementary support. Earlier, and fuller engagement would have enabled the design and simultaneous announcement by the Welsh Government of its own package of assistance, which would have provided necessary reassurance to Welsh businesses during this period of considerable uncertainty.
+
+However, as stated earlier, the more pertinent issue for your Ladyship's consideration is the availability of the UK Government's national support schemes in the devolved nations when they were required, irrespective of a UK Government decision as to their necessity in England.
+
+My Lady, if public health legislation is to be utilised in responding to a pandemic situation, such that the devolved governments are required in law to independently exercise decision-making powers for their respective nations, it must follow that His Majesty's Treasury be made available to support those independent decisions in the same way that it is available to support decisions made by the UK Government for England.
+
+Unfortunately, it is the Welsh government's view that at times such support was not available to Wales in the same way that it was in England.
+
+Your Ladyship has already received considerable evidence from the Welsh Government on this point in relation to the firebreak lockdown. Requests for assistance in supporting Wales's firebreak lockdown in October 2020 were denied whilst the UK Government's later decision to impose such a measure in November 2020 was backed by the provision of support it required.
+
+This seemingly demonstrates a limitation in the availability of Treasury funds to support action taken by the Welsh Government, where it does not align with the UK Government.
+
+Failure to make such support available in this manner indirectly ties the hands of the devolved governments in exercising their decision-making powers in a way that simply does not exist for the UK Government. This restriction upon decision making was best illustrated during the emergence of the Omicron variant. As the Welsh Government's evidence demonstrates, Welsh ministers were in receipt of scientific evidence that promoted the imposition of greater non-pharmaceutical interventions to protect the public health position from the risks to the emerging new variant. However, the Welsh ministers were unable to act upon such advice to impose those measures as they could not properly mitigate the economic risks of doing so, as a direct result of His Majesty's Treasury refusing to reinstate relevant support schemes in Wales.
+
+To this end, the Welsh Government invites your Ladyship to consider how the availability of this or similar support should operate during pandemic times to ensure that all four governments of the United Kingdom can exercise their respective decision-making powers on an equal footing.
+
+Turning briefly, then, my Lady, if I may to the economic interventions put in place by the Welsh Government. These complementary measures, which included the Economic Resilience Fund, the Covid-19 Wales Business Loan Scheme, and bus and rail transport schemes sought to target those who fell through the gaps of the UK Government schemes.
+
+The Welsh Government will submit that it was largely successful in achieving its objective, providing more than a quarter of a million grants, worth more than £2.6 billion, which was distributed to protect businesses and their employees throughout Wales.
+
+The successes of these interventions was seen not only in the very fact of the support provided but also the multitude of sectors targeted, the utilisation of existing local authority systems -- which permitted fast access to support, at proportionate operational cost -- and the robustness of the measures put in place to mitigate against the risk of fraud and error.
+
+There can be little doubt that such measures may have benefited from access to increased data sources such as that from His Majesty's Revenue and Customs. However, in the absence of such, the Welsh Government was able to design and implement alternative processes which ensured that the support provided ended up exactly where it was intended to.
+
+My Lady, in concluding this opening statement, the Welsh Government wishes to restate its enduring commitment to assisting your Ladyship and the Inquiry, including in respect of your consideration of such matters as falls within the scope of this module.
+
+The Welsh Government acknowledges and welcomes the lessons to be learned in this module as, notwithstanding the successes of the national and Welsh Government schemes, it is recognised that there will have been those that did not benefit or who do not consider that they benefited sufficiently.
+
+There will inevitably have been people who felt the economic repercussions of the public health measures far more deeply than others. The Welsh Government is committed to learning those lessons and building upon the successes of the response where they exist in the hope of assisting even more of the Welsh population in the event of a future pandemic.
+
+Diolch, my Lady.
+
+**Lady Hallett**: Thank you very much, indeed, Ms Walters, very grateful.
+
+Mr Chapman, I think you're right over there.
+
+Submissions on Behalf of the Cabinet Office by Mr Chapman
+---------------------------------------------------------
+
+**Mr Chapman**: I am, thank you, my Lady.
+
+I make this short opening statement on behalf of the Cabinet Office, including Number 10.
+
+The Cabinet Office wishes me to begin by restating its ongoing commitment to assisting the Inquiry throughout this module, as in all other modules, in whatever ways it can.
+
+It has disclosed extensive material of relevance to the Inquiry's work in Module 9, building on the vast quantity of evidence provided in previous modules. It has provided two detailed corporate statements for the purposes of this module describing its role in relation to the economic response and it supported several individual witnesses in providing evidence to the Inquiry in this module.
+
+During the forthcoming hearings, the Inquiry will hear oral evidence from three of the witnesses supported by the Cabinet Office. Taking them in the order in which they'll appear, first, Robert Harrison, former Director General for Analysis in the Covid-19 Taskforce, will give evidence concerning the way data was used to support decision making, and his work and the work of his team to improve the process and systems for analysing data in the heart of government.
+
+Second, Dr Ben Warner, former special adviser at Number 10, will give evidence relating to government analytical capabilities during the pandemic.
+
+And third, Mark Cheeseman, now chief executive of the Public Sector Fraud Authority, the PSFA, who was formerly the head of the Centre of Expertise in the Government Counter Fraud Function. He will give evidence on the role it played in encouraging and supporting government departments to mitigate fraud and error during the course of the pandemic.
+
+And as the Inquiry will hear, the Cabinet Office has proactively made improvements, including by the creation of new anti-fraud provisions in the Public Authorities (Fraud, Error and Recovery) Bill.
+
+As the Inquiry knows, the Cabinet Office is a dual role at the centre of government: it both facilitates collective decision making across government in relevant areas; and it supports and advises the Prime Minister and other Cabinet Office ministers.
+
+The Cabinet Office's corporate statements for this module set out the range of its functions during the pandemic, which included overall strategic coordination, informing decision making with data and analysis, supporting departments to address fraud risks, and considering disproportionate impacts, including disproportionate economic impacts on disadvantaged and vulnerable members of our society.
+
+The Covid-19 Taskforce Disproportionately Impacted Groups subgroup, for example, was set up to examine, consider, and advise upon the impact of various interventions, including economic interventions on vulnerable groups.
+
+The Inquiry heard in Module 2 about the Cabinet Office's role in establishing structures such as ministerial implementation groups, and the Covid-O and Covid-S framework to facilitate collective decision making during the pandemic.
+
+While the economic interventions in response to the pandemic were of course discussed through that framework and in those structures, they were not the primary forums for decision making in relation to economic interventions.
+
+During the pandemic, HM Treasury, as the UK Government's economic and finance ministry, led on the policy work to develop the various economic interventions, and worked with other departments on the delivery of those schemes. As is usual practice, they were typically discussed and agreed bilaterally between the Chancellor and the Prime Minister.
+
+A key part of the Cabinet Office's role in facilitating decision making during the pandemic and helping ministers to balance the health, economic and other impacts of the pandemic, was working to ensure that decision making was supported by relevant data, analysis and expert advice.
+
+As explained in the corporate witness statement of Simon Ridley, these processes evolved over the course of the pandemic, including through the innovation of the Covid-19 dashboard and the separate economy dashboard, coupled with the substantially enhanced analytical capability within the Covid-19 Taskforce in the Cabinet Office.
+
+Robert Harrison, former Director General for Analysis in the Covid-19 Taskforce, will give evidence concerning the way data was used to support decision making, and work to improve the process and systems for analysing data.
+
+This included putting the analytical capacity developed within the Cabinet Office during the pandemic on a more permanent footing, and the creation of the Joint Data and Analysis Centre. In addition, the National Situation Centre was established in 2021 to provide situational awareness for crisis response, bringing together data, analysis, and critical expertise.
+
+The Cabinet Office also had an important role in the cross-government work to mitigate fraud against the public purse during the pandemic. The central team of the Government Counter Fraud Function based in the Cabinet Office advised departments in reducing fraud and error risks in relation to the economic schemes which they were responsible for administering.
+
+The PSFA now acts as the government's centre of expertise in combating fraud against the public sector. The PSFA has identified a number of lessons from the management of fraud risk in the pandemic which, as Mark Cheeseman explains in his evidence, have been integrated into the work of the PSFA and across government.
+
+The government has also appointed a Covid Counter Fraud Commissioner to provide assurance that everything possible has been done to recover public funds lost to fraud in the Covid schemes.
+
+Critically, the Public Authorities (Fraud, Error and Recovery) Bill will allow the PSFA to investigate suspected fraud against public authorities where there is limited investigatory provision. The Bill will also increase the time limit for bringing civil claims in Covid-19-related fraud from six to 12 years, so giving the PSFA more time to investigate complex cases and apply its new powers.
+
+To conclude, the then government made what were, in its view, unprecedented economic interventions to support jobs and businesses and individuals through the pandemic and to seek to mitigate its wide-ranging impacts.
+
+HM Treasury led the policy work in relation to those economic interventions, and worked with other departments on the delivery of the various schemes.
+
+The central team of the government's Counter Fraud Function worked to advise departments on how to mitigate fraud and error risks and how to conduct post-payment assurance and, more broadly, the Cabinet Office played a central role in the strategic coordination and analytical underpinning of the Covid-19 response.
+
+The Cabinet Office will continue to consider and reflect on the evidence as it emerges in this module, and looks forward to the Inquiry's report and recommendations in due course.
+
+**Lady Hallett**: Thank you very much indeed, Mr Chapman. Very grateful.
+
+Mr Block, I think you're -- oh, there you are. Right.
+
+Submissions on Behalf of the Department for Work and Pensions by Mr Block KC
+----------------------------------------------------------------------------
+
+**Mr Block**: Thank you, my Lady, as you know [microphone off]
+
+**Lady Hallett**: I'm not sure your ...
+
+**Mr Block**: Is it on now?
+
+**Lady Hallett**: That's it. Right, thank you.
+
+**Mr Block**: It took a moment to warm up.
+
+My Lady, as you know, I represent three Core Participants in this module, two of whom wish to make opening statements, and the first is on behalf of the Department for Work and Pensions, and I am instructed by Elizabeth Rebello of the Government Legal Department for them.
+
+My Lady, the department applied to become a Core Participant in this module because it recognised the key role it had played in the economic response to the Covid-19 pandemic through its various economic interventions and it wished to assist the Inquiry to fully understand these matters. My Lady, although this is Module 9, this is the first time the department has addressed the Inquiry and it wishes to express its deepest sympathy to everyone affected by the Covid-19 pandemic, including those who lost loved ones, people who suffered serious illness, and everyone who has faced significant challenges and upheaval during this difficult and challenging time. And the department also recognises and sympathises with members of the wider community who still continue to deal with the consequences of the pandemic, and it considers it's important for it to reflect on this period, both out of respect for people who are affected, and to ensure that the government is better prepared for the future.
+
+The department has provided a written opening statement, a corporate witness statement, and seven individual witness statements in this module. My Lady, you're due to hear from two of the individual witnesses this week, the former Secretary of State Baroness Coffey, and the former Minister for Welfare Delivery, Will Quince.
+
+To provide some context, the Department for Work and Pensions is the largest public service department in the United Kingdom. It has a mandate to assist the more vulnerable and economically disadvantaged members of our society. It's a role that the department takes extremely seriously, and it keeps it at the forefront of all its policy developments.
+
+It was no different during the pandemic.
+
+The interests and welfare of those adversely affected were at the heart of its economic interventions. The paramount objective was that services must be delivered to everyone affected and with speed, care, and dedication.
+
+My Lady, the three particular economic interventions identified by the Inquiry and addressed within the corporate and the individual witness statements for the department are, firstly, an increase of £20 to the Universal Credit standard allowance rate, which is generally referred to as the Universal Credit uplift. Second, the Statutory Sick Pay and the Statutory Sick Pay Rebate Scheme. And thirdly, the employment schemes Kickstart and the job entry targeted support.
+
+The interventions were largely determined by what was feasible within the benefits framework. As my Lady will no doubt appreciate, the benefits framework is extremely complex and difficult to navigate. It's not possible in the time available today to explain the benefits framework and how each of the interventions were developed. We've attempted to do this in the written opening statement, the corporate witness statement, and the seven individual witness statements.
+
+These provide a detailed account of the benefits system, the decisions made by and on behalf of the department during the pandemic and their underlying rationale.
+
+My Lady, we respectfully refer you to those documents for a detailed account and understanding of the department's actions. The necessarily limited scope of the oral evidence must be considered alongside these detailed and largely unchallenged written accounts.
+
+The department wishes to draw your attention to three key considerations that it took into account in designing, developing and implementing its interventions, and these were: first, each of the interventions was developed in close collaboration with His Majesty's Treasury, other government departments, and devolved administrations.
+
+This close working relationship, in particular with His Majesty's Treasury, was maintained throughout the pandemic. In line with usual practice, the Department relied upon His Majesty's Treasury to approve the spending for the interventions. This was necessary, as the department does not have delegated authority for annually managed expenditure, and this is an important consideration, we submit.
+
+Secondly, it carried out equality impact assessments for each of the interventions in line with its obligations under section 149 of the Equality Act 2010 to have due regard to the Public Sector Equality Duty in the development of all of the department's policies, programmes, projects, and the services that affect its customers and staff.
+
+It's a duty that the department has always taken very seriously, and the commitment is reflected in the corporate and individual witness statements.
+
+Thirdly, the policy design for each of the interventions and any easements were carefully considered before implementing them. The risk of fraud and error was recognised and one that the Department did not ever underestimate.
+
+But my Lady, you'll hear of the fraud concern from the former Minister for Welfare Delivery, Will Quince. The department was faced with two equally strong but competing concerns. On the one hand, it had to provide financial support to the millions of new and existing claimants in line with public health guidance and, on the other, it had to safeguard against fraud.
+
+These two competing considerations had to be carefully balanced. The department fully recognised its fiduciary duties and the need to manage public funds. However, the prevailing circumstances left it with little choice but to accept the risk at the time with a view to removing the easements at the earliest opportunity which it in fact did.
+
+This is addressed in detail within those statements.
+
+It is widely acknowledged that the scale of the challenge to design, implement and action benefits changes at all stages of the pandemic was unprecedented. The department believes that it rose to meet those challenges, and this was against a background of moving to working from home, geographically relocating staff, and dealing with staff absences due to contracting Covid.
+
+The department succeeded in processing and paying claims promptly.
+
+The department's efforts were guided by comprehensive business continuity plans which had been refined over 20 years and tested across Whitehall and through internal department exercises. It took every step to maximise the processing capacity of its Jobcentres and service centres. My Lady, it quickly secured 30,000 additional laptops and by July 2020, all 30,000 staff were able to work virtually. Given it's the largest public department in the country, this was a tremendous achievement and one that was the subject of positive comment and feedback at the time.
+
+My Lady, right from the start of the pandemic, events move quickly, and this required the department to respond at pace in designing and delivering new initiatives and schemes. At the time, the department had to ensure that delivery of its key services remained unaffected despite these pressures so it's not just the new, it's the old, as well. And this it managed to do successfully.
+
+Post-pandemic, the department proactively conducted a range of internal and external reviews and lessons learned exercises to examine its processes and procedures, so we hope that it is even better prepared to handle future crises. But notwithstanding this, my Lady, the department remains fully committed to this Inquiry, and will welcome any recommendations that you make to strengthen and enhance its response to any future emergency.
+
+And my Lady, unless I can assist you further, those are the submissions on behalf of the department.
+
+**Lady Hallett**: Thank you, Mr Block.
+
+Submissions on Behalf of His Majesty's Treasury by Mr Block KC
+--------------------------------------------------------------
+
+**Mr Block**: My Lady, if I may move now to make opening submissions on behalf of His Majesty's Treasury.
+
+My Lady, I think, as you will recall, I act with Mr Grey for this Core Participant, and we're instructed by Robyn Smith of the Government Legal Department.
+
+My Lady, you have today already heard various and wide-ranging submissions regarding this module, which concerns the government's response, economic response, to the pandemic.
+
+We're grateful to Mr Wright King's Counsel, no doubt ably supported by the whole Inquiry team, for helping set out the focused approach the Inquiry will take to this module, and we are also grateful and -- to those Core Participants who have submitted written opening statements and addressed you today, and we do take into account what they say and for their setting out the various issues of concern to them in relation to this module.
+
+My Lady, the Treasury, of course, played a central role in the economic interventions made in response to the Covid pandemic. Its work extended across the United Kingdom, including funding for, and liaison with, the devolved administrations, local government, and other relevant public services and voluntary and community sectors.
+
+I wish to assure both the Inquiry and those Core Participants who have already addressed you today that the Treasury has been and remains committed to engaging fully with this Inquiry.
+
+The issues raised today, and as the hearings progress over the next four weeks, will all receive careful consideration, and the Treasury will endeavour to respond to them all, including by reference to lessons already learned, and additional work already undertaken by the conclusion of this module.
+
+As my Lady knows, the written evidence before the Inquiry in this module is extensive. I'm not the first to refer to that. That includes the detailed corporate evidence supplied by the Treasury as well as the evidence from nine individual Treasury officials and two former chief secretaries to the Treasury, and the then Chancellor of the Exchequer, Mr Sunak.
+
+Our written opening statement provides an overview of that evidence and we won't repeat that here. Suffice to say that the Treasury urges anyone who wishes fully to understand the actions of the Treasury, as well as the Chancellor and other ministers, in the course of the government's economic response to the pandemic, to have regard to that full range of written evidence submitted to the Inquiry.
+
+Our written opening statement was intended to set the scene for Module 9 from the Treasury's perspective. It includes an overview of: (i), the roles and responsibility of His Majesty's Treasury and the Chancellor of the Exchequer, and other Treasury ministers and officials, so as to assist the Inquiry and the public to put the evidence to be heard in Module 9 in its appropriate context; (ii), the scale of the economic shock caused by the pandemic to which His Majesty's Treasury was required to respond, again to provide important context; and (iii), the Treasury's approach to the economic response to the pandemic.
+
+In this brief oral opening statement, I wish to emphasise some of the key points relating to that response which, from the Treasury's perspective, are of particular relevance to the evidence which the Inquiry and the public are going to hear in the next four weeks.
+
+My Lady, I have eight key points.
+
+Now, first, the primary cross-government objective during the pandemic was to contain the virus and save lives. That objective was not inconsistent with the Treasury's economic and fiscal responsibilities during the pandemic. The Treasury's long-term objectives of economic growth and stability depended on control of the virus. Controlling the virus was, therefore, essential for protecting both public health and the economy.
+
+Economic interventions were, therefore, designed to be consistent with, and supportive of, the public health measures. As the public health measures developed, the economic interventions evolved to compliment them accordingly.
+
+Second, the economic impact of the pandemic was immediate, on an unprecedented scale, and unique. From the beginning, GDP fell sharply and there was a real risk of businesses failing, mass unemployment, and significant long-term economic damage to the country.
+
+This situation was compounded by the fact that there was an extraordinarily high degree of uncertainty in all economic analysis during the pandemic, whether by the Treasury or elsewhere.
+
+There was no comparable historic precedent to draw on to assess the economic impact of NPIs, with the impacts themselves changing over time and dependent on the path of the virus, which itself was changing and being learned about over time.
+
+The nature of the Covid economic shock was also unique, as it involved the unprecedented intentional suppression of economic activity by the government through the use of lockdowns and other social restrictions, in the interests of the United Kingdom's long-term public health and economic recovery.
+
+Third, within that context, the Treasury's institutional objectives, namely ensuring economic growth, fiscal sustainability and financial stability, nevertheless remained consistent throughout the pandemic and shaped the design of the economic interventions. I have five bullet points:
+
+1. To prevent unemployment and support living standards.
+
+2. To prevent viable businesses from failing.
+
+3. To protect the most vulnerable and avoid unfair impacts.
+
+4. To ensure economic activity was consistent with public health restrictions and enable rapid recovery as restrictions eased.
+
+5. To maintain value for money and fiscal discipline and safeguard against fraud.
+
+My Lady, a whole suite of economic support schemes was developed and implemented across the United Kingdom focused on those economic objectives, to provide direct support to businesses, households and individuals.
+
+However, it was equally important to ensure that support measures did not inadvertently slow down recovery once restrictions eased. Ensuring people were not economically inactive for longer than necessary also mitigated the risk of longer term economic damage.
+
+Striking the right balance, providing timely support when economic activity was not possible, whilst also allowing businesses and individuals to transition out of reliance on government interventions as conditions improved, was a core consideration in designing and implementing the economic interventions.
+
+Fourth, the economic response to the Covid pandemic was unprecedented in speed, scale, borrowing and spending and breadth. The United Kingdom's economic support package was among the largest and most comprehensive globally. It directly prevented the loss of millions of jobs, and the closure of thousands of businesses.
+
+In response to the Covid pandemic generally, the government borrowed more than an additional £300 billion across 2020 and 2021, and 2021/2022, with record peacetime borrowing recorded in the first of those years.
+
+Regarding the economic interventions, CJRS, or "furlough", alone prevented 4 million direct job losses and saved many businesses from closure. The United Kingdom Government's economic response to the pandemic prevented a public health crisis from also becoming an economic crisis.
+
+Fifth, the unprecedented nature of the crisis, the various economic challenges presented by the pandemic, and the scale of the required response nevertheless required flexibility and trade-offs.
+
+The Treasury was not blind to fraud and error risks, but those risks had to be balanced against the countervailing risks of mass unemployment, and significant economic damage, that would have been caused by inaction or a delayed response.
+
+That balancing exercise required very difficult judgement calls to be made, and at pace.
+
+Sixth, as a result of the heightened uncertainties during the pandemic, the Treasury relied on a wide range of analytical tools and techniques to try to understand what was happening in the economy, and inform policy development. These tools, which included established and new economic models, were developed and refined throughout the pandemic. Alongside traditional modelling approaches, new capabilities were rapidly built.
+
+The Treasury also engaged with external experts and institutions such as the OBR, the IMF, and the OECD, utilising their analysis to inform policy.
+
+As an example of where the written evidence will be essential to the Inquiry in this module, the Module 9 witness statement of Vanessa MacDougall, at the time, the director of the Economics group in the Treasury between January and October 2020, provides particular detail regarding the Treasury's approach to data analysis and modelling. The Treasury also engaged with the scientific community to ensure that economic decisions were informed by the latest health intelligence, including the emerging evidence in relation to Long Covid.
+
+Seventh, economic data of course played an important role in economic analysis during the pandemic. The Treasury had a comprehensive data-monitoring, briefing and analysis function in place before the pandemic. During the pandemic, the Treasury's analysis brought together different types of economic intervention to understand the economic impacts of the virus restrictions and economic support policies.
+
+This included analysis of data and evidence of both what was happening in the United Kingdom and in other countries. Traditional economic data was supplemented with additional data sources that provided a more rapid and real-time picture of economic activity, and which had not previously been used to consider economic impacts such as, for example, transport data from the Department for Transport, education data from the Department for Education, to understand levels of mobility across the United Kingdom and school attendances and absences. The Treasury also obtained data from travel and hospitality applications such as Google Maps, Citymapper, and OpenTable, as well as anonymised credit card usage data.
+
+Data analysis and modelling were highly interdependent throughout the pandemic. Modelling was used to understand and interpret the data and to help identify which data would be most useful. Data provided inputs and calibration to the modelling. The quality of the modelling was therefore dependent on the data but also in particular on the assumptions applied, and the uncertainties around those data and assumptions is the principal reason why the utility of economic modelling in the pandemic became an issue.
+
+With respect, the Inquiry should be wary of criticism of the Treasury's use of data and modelling, for those who had no real involvement in economic modelling and analysis during the pandemic.
+
+Data analysis is, though, an example of where the Treasury has already started to build on its experience during the pandemic to improve its ways of working. The Treasury has continued to develop its analytical capabilities. It has deepened its engagement with the Office for National Statistics and the newly established Joint Data and Analysis Centre in the Cabinet Office and continues to build its modelling capability supported by academic engagement. The Treasury has also expanded its data science capabilities establishing a data science team in 2022.
+
+It has increased its analysis of economic risks, including establishing a new horizon-scanning workstream within the economic risk group to monitor and assess future risks to the economy more systematically.
+
+And, my Lady, eighth and finally, the Treasury worked closely with other government departments, local governments, and external institutions to deliver the economic interventions. The Treasury developed and implemented CJRS and SEISS in lockstep with HMRC and DWP, and collaborated with BEIS and the British Business Bank to deliver support to businesses.
+
+The Treasury also sought to engage extensively with the devolved administrations to ensure that their perspectives were factored into decision making as far as possible and provided them with an unprecedented funding guarantee.
+
+And, my Lady, just one minute on lessons learned.
+
+The Treasury continued to seek to improve its ways of working to ensure economic resilience in the event of any future health or major crisis. There have already been extensive evaluations to the Covid economic support and recovery schemes, and lessons have been learned in a number of areas, as set out in the corporate witness evidence.
+
+My Lady, the Treasury welcomes the opportunity to address you today, and it will build on that work through this module of the Inquiry, and thank you very much.
+
+**Lady Hallett**: Thank you very much for your help, Mr Block, and for bringing proceedings today to a close -- subject to one matter, Mr Wright?
+
+**Mr Wright**: Yes, my Lady. It's just could we have permission, please, to publish the written submissions that have been received by Core Participants?
+
+**Lady Hallett**: Certainly.
+
+**Mr Wright**: Thank you.
+
+**Lady Hallett**: Very well, I shall return tomorrow, Tuesday the 25th, at 10.00.
+
+*(4.07 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+

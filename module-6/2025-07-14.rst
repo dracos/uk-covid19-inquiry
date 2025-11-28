@@ -1463,7 +1463,10 @@ Sir Sajid, that completes the questions we have for you, I think I can say for t
 
 **Ms Shotunde**: May I please call Heléna Herklots.
 
-MS HELÉNA HERKLOTS (affirmed)
+Ms Heléna Herklots
+------------------
+
+*MS HELÉNA HERKLOTS (affirmed).*
 
 Questions From Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1474,7 +1477,7 @@ Questions From Counsel to the Inquiry
 
 You were the former Older People's Commissioner for Wales, appointed on 20 August 2018, and your term of office ended on 19 August 2024; is that correct?
 
-**Sir Sajid Javid**: That's correct.
+**Ms Heléna Herklots**: That's correct.
 
 **Counsel Inquiry**: The role of the Older People's Commissioner for Wales is an independent statutory role with the remit to protect and promote the rights of older people; is that right? And you undertook a lot of work during the pandemic in order to promote the rights of older people within care homes and also in their own homes.
 
@@ -1482,7 +1485,7 @@ However, I'm going to mainly focus on the liaison that you had with the Welsh Go
 
 You had weekly meetings with the Deputy Minister for Health and Social Services, Julie Morgan, and also the deputy director for Health and Social Services during the pandemic; is that correct?
 
-**Sir Sajid Javid**: That's correct.
+**Ms Heléna Herklots**: That's correct.
 
 **Counsel Inquiry**: And in Module 2B you spoke about a letter that you wrote to Julie Morgan dated 14 April following a meeting with her on 9 April in which you set out concerns about the impact of the pandemic on older people in care homes. You'd mentioned a number of matters that you wanted addressed in that, and that also included there being a care home actions plan.
 
@@ -1496,7 +1499,7 @@ older people, if she'd agreed with your suggestion in
 
 April?
 
-**Sir Sajid Javid**: So at that time, in April, people were in a really
+**Ms Heléna Herklots**: So at that time, in April, people were in a really
 
 desperate situation in care homes. People were being
 
@@ -1540,15 +1543,15 @@ And then I was extremely disappointed to get a letter saying no, it won't add va
 
 **Counsel Inquiry**: In the letter Julie Morgan also invited you to join the social care subgroup. Just to clarify, was that the Welsh Government social care planning and response sub-group?
 
-**Sir Sajid Javid**: Yes, I think it was called that, and there was going to be a workstream as part of that, that they said would look at care homes.
+**Ms Heléna Herklots**: Yes, I think it was called that, and there was going to be a workstream as part of that, that they said would look at care homes.
 
 **Counsel Inquiry**: And was this the first time you were invited to join a working group specifically for the adult social care sector during the pandemic?
 
-**Sir Sajid Javid**: I'm trying to recollect now, because there are a lot of different working groups, and there was a lot of engagement, actually, with Welsh Government at that time. So it might have been the first time, in terms of a formal group, but I can't quite recollect that.
+**Ms Heléna Herklots**: I'm trying to recollect now, because there are a lot of different working groups, and there was a lot of engagement, actually, with Welsh Government at that time. So it might have been the first time, in terms of a formal group, but I can't quite recollect that.
 
 **Counsel Inquiry**: That's fine. I can see from your statement that you had been invited to the Covid-19 Moral and Ethical Advisory Group on 3 April 2020, but I presume that wouldn't have just been in relation to the adult social care sector, would it?
 
-**Sir Sajid Javid**: So the Covid-19 Moral and Ethical Advisory Group, part of the reason I think I was invited to that, and part of the reason it was set up, was because of the issue of do not attempt CPR notices. So that obviously covered a lot of issues across health and care in terms of ethical decision making.
+**Ms Heléna Herklots**: So the Covid-19 Moral and Ethical Advisory Group, part of the reason I think I was invited to that, and part of the reason it was set up, was because of the issue of do not attempt CPR notices. So that obviously covered a lot of issues across health and care in terms of ethical decision making.
 
 **Counsel Inquiry**: Thank you.
 
@@ -1560,7 +1563,7 @@ If I could just pull up on screen INQ000514106, page 18, paragraph 93. This is t
 
 There were a number of meetings and letters after that, at which it was clarified that the Welsh Government's response would focus on care homes, specifically decisions on testing, including decisions made to discharge people into care homes from hospital without testing, the provision of PPE, and visits to care homes. You also, and the head of the Equality and Human Rights Commission in Wales stated you wanted evidence on how the rights of older people living in care homes were considered from the beginning of the delay phase --
 
-**Sir Sajid Javid**: Yes.
+**Ms Heléna Herklots**: Yes.
 
 **Counsel Inquiry**: -- from 13 March 2020 until 18 June 2020.
 
@@ -1568,7 +1571,7 @@ You received a response from the Deputy Director General for Health and Social S
 
 What was it about the evidence that made it insufficient, in your view?
 
-**Sir Sajid Javid**: One of the key things we asked for was evidence of the undertaking of equality impact assessments. This was crucial because we wanted to see if and how the Welsh Government had examined the possible impact of its policy and decision making on older people and older people's rights, and to also ensure from the Equality and Human Rights Commission perspective that they were following their obligations under the Equality Act.
+**Ms Heléna Herklots**: One of the key things we asked for was evidence of the undertaking of equality impact assessments. This was crucial because we wanted to see if and how the Welsh Government had examined the possible impact of its policy and decision making on older people and older people's rights, and to also ensure from the Equality and Human Rights Commission perspective that they were following their obligations under the Equality Act.
 
 The information that was sent to us did not give us the assurance that that had been done. It did set out ways in which decisions had been made to some extent, and some evidence, but in relation to the key element which was about equality impact assessments, instead of really saying this is what we had undertaken, it wasn't able to demonstrate it had undertaken equality impact assessments. Instead, it really set out a rationale for why they say they hadn't done it, and this included something that I found very worrying at the time, and still do, which is that they set out that they didn't need to do that at all times because they intuitively knew the action that was needed.
 
@@ -1576,13 +1579,13 @@ Now, we all have blindspots and unconscious bias, and unless you have mechanisms
 
 **Counsel Inquiry**: And for completeness, what was the outcome of this investigation?
 
-**Sir Sajid Javid**: So the work took us through to December time, that initial phase of work, and we had a more productive meeting, I would say, towards the end of December with the Minister for Health and Social Services, the Deputy Minister, and other officials, where the Welsh Government at that point then said they could see there had been some gaps in what they were doing, they hadn't necessarily recorded equality impact assessments. The Equality and Human Rights Commission was following up in terms of training, there was going to be work done internally within Welsh Government to look at its processes, and we felt at that point that they'd really started to address the issues we'd raised specifically in relation to their decision making and use of equality impact assessments.
+**Ms Heléna Herklots**: So the work took us through to December time, that initial phase of work, and we had a more productive meeting, I would say, towards the end of December with the Minister for Health and Social Services, the Deputy Minister, and other officials, where the Welsh Government at that point then said they could see there had been some gaps in what they were doing, they hadn't necessarily recorded equality impact assessments. The Equality and Human Rights Commission was following up in terms of training, there was going to be work done internally within Welsh Government to look at its processes, and we felt at that point that they'd really started to address the issues we'd raised specifically in relation to their decision making and use of equality impact assessments.
 
 **Counsel Inquiry**: Thank you.
 
 I'm going to move on to discuss the discharge of people from hospitals both into care homes and also into their own homes. You've stated that the discharge of people from hospitals to care homes without the testing needed was a key concern of yours during the early months of the pandemic. Were you consulted on the decision to discharge without testing?
 
-**Sir Sajid Javid**: Not to my recollection.
+**Ms Heléna Herklots**: Not to my recollection.
 
 **Counsel Inquiry**: On 11 December 2020, you were consulted regarding the proposed low-positive cases and also the admission into care homes and the duration of outbreaks.
 
@@ -1610,11 +1613,11 @@ You asked if that remains the case, and you asked if there was able to provide a
 
 Did you receive a response to this?
 
-**Sir Sajid Javid**: No.
+**Ms Heléna Herklots**: No.
 
 **Counsel Inquiry**: What, if anything, did you do to try to obtain a response?
 
-**Sir Sajid Javid**: So this was just in the run-up to Christmas, and the nature of this meeting, it was one of my regular meetings with the Deputy Minister for Social Services, so I didn't know that this discussion was going to take place.
+**Ms Heléna Herklots**: So this was just in the run-up to Christmas, and the nature of this meeting, it was one of my regular meetings with the Deputy Minister for Social Services, so I didn't know that this discussion was going to take place.
 
 It felt to me that I was being asked for my views at a very late stage and I felt that the decision had really already been made. And I did what I could to raise questions and also questions about how would it be implemented and monitored.
 
@@ -1624,11 +1627,11 @@ And at that stage it felt that that was all I could do, because it felt like the
 
 Now, I understand there was a Care Home Visiting Stakeholder Group which was set up by Care Inspectorate Wales, and you first attended the group in June 2020. Is this around the time that the group was first set up?
 
-**Sir Sajid Javid**: Yes.
+**Ms Heléna Herklots**: Yes.
 
 **Counsel Inquiry**: What benefits did the group bring?
 
-**Sir Sajid Javid**: It was -- I was really pleased that the group was set up, because there were a lot of different organisations and agencies involved in making decisions and having perspectives about visiting, and it felt like quite a muddled situation about where did accountability lie, who was responsible for making decisions.
+**Ms Heléna Herklots**: It was -- I was really pleased that the group was set up, because there were a lot of different organisations and agencies involved in making decisions and having perspectives about visiting, and it felt like quite a muddled situation about where did accountability lie, who was responsible for making decisions.
 
 So bringing everybody into the same group to work through felt like the only possible way forward, really. And it meant that everybody could hear the different perspectives that could be brought to it.
 
@@ -1638,7 +1641,7 @@ So it felt like the best mechanism at that point, really, to try to make progres
 
 **Counsel Inquiry**: Do you think it succeeded in that aim?
 
-**Sir Sajid Javid**: I think it definitely made progress. It definitely led to guidance being produced, and it kept the spotlight on visiting.
+**Ms Heléna Herklots**: I think it definitely made progress. It definitely led to guidance being produced, and it kept the spotlight on visiting.
 
 I think the nature of it meant there were a number of different iterations as time went on, and I think that was difficult for people working in care homes. There was also an issue at all times, really, between guidance at the national level and then what would happen at the local level. And, again, issues about where did accountability lie, therefore, for making decisions about visiting.
 
@@ -1646,7 +1649,7 @@ So I felt it was the best possible mechanism at the time, and it definitely had 
 
 **Counsel Inquiry**: Do you think, in a future pandemic, such a group should exist from the start?
 
-**Sir Sajid Javid**: I think in a future pandemic there needs to be, at the outset, greater clarity about who is responsible for making those decisions, and clear accountability for that.
+**Ms Heléna Herklots**: I think in a future pandemic there needs to be, at the outset, greater clarity about who is responsible for making those decisions, and clear accountability for that.
 
 I found it incredibly frustrating in the early stages, having conversations where, you know, somebody might be sympathetic but saying, "It's not my area of responsibility or accountability to make that decision."
 
@@ -1656,7 +1659,7 @@ And that should have a much greater focus on the rights of older people and the 
 
 **Counsel Inquiry**: And you had mentioned in Module 2B that issue with not knowing who the decision maker was in respect of care home visiting. How did this issue affect care homes visiting in practice?
 
-**Sir Sajid Javid**: It took longer to work through who could make the decisions to get visiting happening, and it meant that there was a lack of clarity about that.
+**Ms Heléna Herklots**: It took longer to work through who could make the decisions to get visiting happening, and it meant that there was a lack of clarity about that.
 
 I -- it took some time for me to find the right people, actually, and then to liaise with the key person in Public Health Wales who had the responsibility for that. And then it took some time to get across the importance of visiting, because they hadn't really -- I don't think they'd factored that into their decision making.
 
@@ -1684,13 +1687,13 @@ And as you said, you weren't happy with that and you asked a number of questions
 
 Presumably you were asking those questions because essentially there was just blanket suspensions without there being, in your mind, any sort of evidence as to why that was necessary.
 
-**Sir Sajid Javid**: I was asking the questions because I couldn't -- I didn't see any evidence, and it seemed a completely disproportionate response at a time when, you know, just getting to outdoor visiting had taken a huge amount of steps to get there, and the idea that that could then be suspended so quickly just felt entirely wrong, and it comes up back to, you know, in a sense to a bit of a recurring theme, really, which was how are these decisions being made? What is the evidence? How are they going to be monitored? How are they going to be communicated?
+**Ms Heléna Herklots**: I was asking the questions because I couldn't -- I didn't see any evidence, and it seemed a completely disproportionate response at a time when, you know, just getting to outdoor visiting had taken a huge amount of steps to get there, and the idea that that could then be suspended so quickly just felt entirely wrong, and it comes up back to, you know, in a sense to a bit of a recurring theme, really, which was how are these decisions being made? What is the evidence? How are they going to be monitored? How are they going to be communicated?
 
 So that was the questions I was raising at this time as well, and then discussed in my meetings.
 
 **Counsel Inquiry**: Did you get an answer to those questions?
 
-**Sir Sajid Javid**: So I didn't get a formal letter in response. We discussed these questions during my meeting. I can't recollect the detail of that now, but my sense of it was that I didn't get answers to all of that. Partly my role was about encouraging those sorts of agencies to ask these sorts of questions and to take this sort of action.
+**Ms Heléna Herklots**: So I didn't get a formal letter in response. We discussed these questions during my meeting. I can't recollect the detail of that now, but my sense of it was that I didn't get answers to all of that. Partly my role was about encouraging those sorts of agencies to ask these sorts of questions and to take this sort of action.
 
 **Counsel Inquiry**: And I just wanted to point to you a position from Care Inspectorate Wales when it comes to visiting.
 
@@ -1702,13 +1705,13 @@ In it, Care Inspectorate Wales say that they were:
 
 Do you agree with that view?
 
-**Sir Sajid Javid**: I certainly agree that the very minimum should be that people in care homes should have the same rights as people elsewhere. In addition, I would add that if you are living in a care home, there are reasons for that. It might because of your care and support means. It might be because you have other vulnerabilities, so actually, there should be additional work to see if actually people living in care homes can actually have more contact and support than perhaps those of us who were able to, you know -- didn't need to have that kind of level of care and support.
+**Ms Heléna Herklots**: I certainly agree that the very minimum should be that people in care homes should have the same rights as people elsewhere. In addition, I would add that if you are living in a care home, there are reasons for that. It might because of your care and support means. It might be because you have other vulnerabilities, so actually, there should be additional work to see if actually people living in care homes can actually have more contact and support than perhaps those of us who were able to, you know -- didn't need to have that kind of level of care and support.
 
 So I would have said that was the very minimum that we should be working towards.
 
 **Counsel Inquiry**: Thank you. And I just wanted to go back because I forgot to ask you a question about the difficulty in not knowing who the decision maker was. Is there a particular organisation that you think should hold the responsibility when it comes to visiting restrictions within the Welsh Government?
 
-**Sir Sajid Javid**: I think ultimately it needs to be a clear decision by Welsh Government, because it is the body that can coordinate what is happening.
+**Ms Heléna Herklots**: I think ultimately it needs to be a clear decision by Welsh Government, because it is the body that can coordinate what is happening.
 
 It felt to me that they were waiting on advice from Public Health Wales, and therefore it felt like, maybe almost by default, it was a sort of Public Health Wales decision. So I think in -- in any pandemic in the future, I think, you know, governments need to own those decisions, and they need to be clear about where they're taking advice and then the decisions that they're making as a government on that basis.
 
@@ -1726,7 +1729,7 @@ And you said that:
 
 So you've mentioned in that paragraph, the risk coming from the lack of visits from loved ones and healthcare professionals. I was wondering what your views were on the suspension of routine inspections by Care Inspectorate Wales and whether or not that might have added to this risk of abuse.
 
-**Sir Sajid Javid**: Yes, the prevention of abuse and the recognition of abuse of older people is one of the major areas of work I undertook during the pandemic. And actually my main focus was about people living in their own homes, where I felt the risks were particularly high.
+**Ms Heléna Herklots**: Yes, the prevention of abuse and the recognition of abuse of older people is one of the major areas of work I undertook during the pandemic. And actually my main focus was about people living in their own homes, where I felt the risks were particularly high.
 
 In relation to people in care homes, what is very valuable when you are living in a care home, and indeed working in a care home, is to have people coming in and out, to have relatives there, to have family and friends, to have professionals visiting.
 
@@ -1738,7 +1741,7 @@ Or -- and not necessarily, you know, talking about extreme cases, but those issu
 
 **Counsel Inquiry**: And do you think that the profile of this issue, this risk of abuse, was raised during the pandemic or do you think it was still not really taken or seen as important?
 
-**Sir Sajid Javid**: I work with a number of organisations. I set up an action group on the prevention of the abuse of older people, and one of the things I called for, actually, was an action plan, which I'm pleased to say was subsequently worked on and published by the Welsh Government.
+**Ms Heléna Herklots**: I work with a number of organisations. I set up an action group on the prevention of the abuse of older people, and one of the things I called for, actually, was an action plan, which I'm pleased to say was subsequently worked on and published by the Welsh Government.
 
 So the issue of the risks of older people experiencing abuse wherever they live, and hugely different types of abuse from domestic violence to neglect, for example, I think that the awareness of that has increased. There is still good work going under way. There is a long way to go yet for it to be recognised, and for it to be prevented and for people to get the support that they need. But I do feel that's an area that improvements have been made, and I think some of those improvements certainly are sustainable and will sustain.
 
@@ -1746,17 +1749,17 @@ So the issue of the risks of older people experiencing abuse wherever they live,
 
 I've seen at least two of those instances in your witness statement. Was it -- how common was this? How common was it?
 
-**Sir Sajid Javid**: When the issue came to the fore from that initial letter and became public, we then got contacted by a member of the Senedd, some family members and others, and throughout, actually, throughout the pandemic at different times, those issues were raised and sometimes it might be I was having meetings with older people and they raised it informally. So I was aware that it was certainly much more than, you know, a few isolated incidents.
+**Ms Heléna Herklots**: When the issue came to the fore from that initial letter and became public, we then got contacted by a member of the Senedd, some family members and others, and throughout, actually, throughout the pandemic at different times, those issues were raised and sometimes it might be I was having meetings with older people and they raised it informally. So I was aware that it was certainly much more than, you know, a few isolated incidents.
 
 **Counsel Inquiry**: How do you think we can prevent this from happening again?
 
-**Sir Sajid Javid**: Well, there needs to be a number of actions taken forward and I'm pleased to say that some of this has been happening in Wales where there's been work to review the NHS guidance on this and particularly in relation to communications. So there needs to be much better and clearer communications about what DNACPR is, and particularly the area that needs to be strengthened is to make sure there have been proper discussions with the individual and/or their family or advocate as appropriate. And also that there shouldn't be -- and there mustn't be -- any link between a decision on DNACPR, which is specific to do not attempt CPR, and access to other treatment.
+**Ms Heléna Herklots**: Well, there needs to be a number of actions taken forward and I'm pleased to say that some of this has been happening in Wales where there's been work to review the NHS guidance on this and particularly in relation to communications. So there needs to be much better and clearer communications about what DNACPR is, and particularly the area that needs to be strengthened is to make sure there have been proper discussions with the individual and/or their family or advocate as appropriate. And also that there shouldn't be -- and there mustn't be -- any link between a decision on DNACPR, which is specific to do not attempt CPR, and access to other treatment.
 
 And one of the most chilling things, I think, about what we were seeing during the pandemic was where DNACPR was also linked to saying, "And you won't get other treatment, you won't get an ambulance", for example, and that was frightening, and really frightening for older people, and that cast a very, very long shadow throughout the pandemic and possibly beyond where older people rather than trusting the NHS, some feared going to it because they feared that their lives might not be protected in the way that they should be, and that -- I remember the conversations that older people had with me about that.
 
 **Counsel Inquiry**: So do you think, for example, the example that you'd mentioned in your witness statement about the 97-year-old mother being contacted on the phone and she was living alone, for example, and was asked to agree to a DNACPR, do you think that sort of scenario with GPs just calling older individual people on their own in a pandemic is the right way to do it, or do you think it should be dealt with the differently?
 
-**Sir Sajid Javid**: It's not the right way to do it at all. It's a very frightening call to get out of the blue, isn't it? What we need to see more broadly is an approach to advanced care planning where these things, as far as possible, are done in advance, so that you can have a conversation outwith a crisis where you can make your wishes known. That's obviously the ideal approach. When it is much more of an emergency, I think those sorts of calls just are -- you know, and it was expressed to me how terrifying those calls could be.
+**Ms Heléna Herklots**: It's not the right way to do it at all. It's a very frightening call to get out of the blue, isn't it? What we need to see more broadly is an approach to advanced care planning where these things, as far as possible, are done in advance, so that you can have a conversation outwith a crisis where you can make your wishes known. That's obviously the ideal approach. When it is much more of an emergency, I think those sorts of calls just are -- you know, and it was expressed to me how terrifying those calls could be.
 
 So it is an area where I believe there are actions that can be taken to improve processes into the future and those need to be taken.
 
@@ -1778,17 +1781,17 @@ It's their position:
 
 What do you have to say in response to that?
 
-**Sir Sajid Javid**: Well, I'm surprised by that. It wasn't something that was reflected to me at the time at all. We had a number of meetings which I felt were very useful. I can understand their frustration that their recommendations weren't necessarily being taken forward by Welsh Government, however.
+**Ms Heléna Herklots**: Well, I'm surprised by that. It wasn't something that was reflected to me at the time at all. We had a number of meetings which I felt were very useful. I can understand their frustration that their recommendations weren't necessarily being taken forward by Welsh Government, however.
 
 **Counsel Inquiry**: And I'm just going to come to your lessons learned and recommendations which you've helpfully set out in your witness statement. Your assessment was essentially that older people were not adequately considered by the Welsh Government when making decisions during the pandemic. And that's, for your reference, it's from page 48, paragraph 226 onwards.
 
 And you list number of decisions to illustrate your point, namely the Coronavirus Act, removing people's legal right to have their eligible needs for care and support met. Presumably you're referring to what we colloquially call easements?
 
-**Sir Sajid Javid**: Yes.
+**Ms Heléna Herklots**: Yes.
 
 **Counsel Inquiry**: The discharge of older people from hospitals without testing --
 
-**Sir Sajid Javid**: Yes.
+**Ms Heléna Herklots**: Yes.
 
 **Counsel Inquiry**: -- for Covid-19; and visiting restrictions and restrictions on residents being able to go out of the care home, which you say caused great distress and harm.
 
@@ -1796,7 +1799,7 @@ You've made a number of recommendations but I'm only going to focus on three. Th
 
 As far as you're aware, has any work been undertaken on this point in preparation for a future pandemic?
 
-**Sir Sajid Javid**: I caveat my response to say I'm the former commissioner and haven't been in post since the middle of last August. There has been some work undertaken, particularly in relation to GPs and in fact some of the work that I was doing around access to primary care is still going on in terms of improving the way in which GPs can support older people more generally.
+**Ms Heléna Herklots**: I caveat my response to say I'm the former commissioner and haven't been in post since the middle of last August. There has been some work undertaken, particularly in relation to GPs and in fact some of the work that I was doing around access to primary care is still going on in terms of improving the way in which GPs can support older people more generally.
 
 I'm not aware of the detail of what's happening now, though.
 
@@ -1804,7 +1807,7 @@ I'm not aware of the detail of what's happening now, though.
 
 Do you think that this has been rectified, in your view? Obviously before you left your position.
 
-**Sir Sajid Javid**: Yeah, I think there's two elements to this. One is the ministerial element and one is the official levels. And in the Welsh Government, and indeed other governments, the Social Care Minister is often or almost always junior to the Health Minister, and I think that's the first part of the problem, which should be addressed at that level. You should have, in my view, a Care Minister that -- at cabinet level, so that at cabinet level, there is that feed-in in terms of the social care sector, which is a hugely important sector in terms of the people it supports but also in terms of the economy and wider society.
+**Ms Heléna Herklots**: Yeah, I think there's two elements to this. One is the ministerial element and one is the official levels. And in the Welsh Government, and indeed other governments, the Social Care Minister is often or almost always junior to the Health Minister, and I think that's the first part of the problem, which should be addressed at that level. You should have, in my view, a Care Minister that -- at cabinet level, so that at cabinet level, there is that feed-in in terms of the social care sector, which is a hugely important sector in terms of the people it supports but also in terms of the economy and wider society.
 
 So, first of all, I think there's needs to be ministerial weight, if you like, given to social care. And then in relation to the structures within government, the importance of having a role similar to a Chief Social Care Officer. I think, importantly, that person has a clear specialist advisory role to government, across government, and expertise in terms of being a professional social care practitioner.
 
@@ -1814,7 +1817,7 @@ And that that is supported by ensuring that those charged with making decisions 
 
 Before you'd left your post, do you think there'd been any improvements in respect of data collection and analysis?
 
-**Sir Sajid Javid**: Some slow improvements gathering data from local authorities, and beginning to -- Welsh Government gathering that data and beginning to look at what that data was saying.
+**Ms Heléna Herklots**: Some slow improvements gathering data from local authorities, and beginning to -- Welsh Government gathering that data and beginning to look at what that data was saying.
 
 There is a long way to go, I think, to make sure not just that the data is collected but, importantly, that it's made public, that there's opportunities to analyse it and gather the insight from that. And also that it specifically draws out the different groups.
 
@@ -1824,7 +1827,7 @@ Social care helps an enormous number of different groups, from children to disab
 
 And is there anything else that you would wish to tell the Inquiry?
 
-**Sir Sajid Javid**: I think just two final things, if I may. The first one is that I think the pandemic demonstrated the insidious ageism that is embedded in our society, the way in which, as we get older, too often our lives are not valued in the same way. The way in which the stereotypes and assumptions that people make about older age can then feed into policy and decision making.
+**Ms Heléna Herklots**: I think just two final things, if I may. The first one is that I think the pandemic demonstrated the insidious ageism that is embedded in our society, the way in which, as we get older, too often our lives are not valued in the same way. The way in which the stereotypes and assumptions that people make about older age can then feed into policy and decision making.
 
 I think there's a need to treat ageism, in combatting ageism, much more seriously and that needs to be done throughout organisations in terms of training and awareness, and, within that, much more serious adherence to the issue of the rights of older people.
 
@@ -1855,7 +1858,7 @@ In response to the letter, you issued public statements on the 1 and 6 April -- 
 
 Please could I ask, following these interventions, what changes were made in Wales to the indiscriminate application of DNACPR notices?
 
-**Sir Sajid Javid**: The first actions that happened, and one which I'd proposed, was a letter from the Chief Medical Officer and Chief Nursing Officer stating that age alone should not be used in any way to make decisions, and being clear about what the guidance was in relation to DNACPR. That was followed also by a joint letter, I think, from Care Inspectorate Wales and Health Inspectorate Wales on the same basis.
+**Ms Heléna Herklots**: The first actions that happened, and one which I'd proposed, was a letter from the Chief Medical Officer and Chief Nursing Officer stating that age alone should not be used in any way to make decisions, and being clear about what the guidance was in relation to DNACPR. That was followed also by a joint letter, I think, from Care Inspectorate Wales and Health Inspectorate Wales on the same basis.
 
 So the first -- you know, the first thing that I felt needed to happen was very clear statements from both the health side and the care side that stated that was unacceptable. So that's the first thing that happened.
 
