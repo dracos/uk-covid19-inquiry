@@ -31,7 +31,7 @@ jobs:
     - name: Make data directory
       run: mkdir data
 
-    - uses: actions/cache@v3
+    - uses: actions/cache/restore@v4
       with:
         path: data
         key: data
@@ -55,3 +55,9 @@ jobs:
         git config --global user.email 'dracos@users.noreply.github.com'
         git commit -am "Data update."
         git push
+
+    - uses: actions/cache/save@v4
+      if: always()
+      with:
+        path: data
+        key: "data-${{ github.run_id }}"
