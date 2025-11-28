@@ -80,7 +80,7 @@ def fetch_hearing_page(item):
 def convert_four_up_pdf(text, date):
     # Remove header/footer from all pages
     text = re.sub('\014? *(The )?UK Covid-19 Inquiry  *\d+ .*? 202\d', '', text)
-    text = re.sub(' *\(\d+\) Pages \d+ - \d+', '', text)
+    text = re.sub(' *(Briault Reporting International - info@briaultreporting.com *)?\(\d+\) Pages \d+ - \d+', '', text)
     #text = re.sub('\xef\xbf\xbd', '', text)
 
     # Loop through, slurping up the pages by page number
