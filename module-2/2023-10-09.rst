@@ -1018,14 +1018,17 @@ My Lady, that concludes this part of the evidence in relation to that particular
 
 **Ms Cecil**: Yes, my Lady, may I call Professor Laia Bécares.
 
-PROFESSOR LAIA BÉCARES (affirmed)
+Professor Laia Bécares
+----------------------
+
+*PROFESSOR LAIA BÉCARES (affirmed).*
 
 Questions From Counsel to the Inquiry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Ms Cecil**: Professor Bécares, if you could just state your full name, please.
 
-**Mr Kamran Mallick**: Laia Bécares.
+**Professor Laia Bécares**: Laia Bécares.
 
 **Counsel Inquiry**: Thank you. Thank you for coming today to assist the Inquiry. Can I ask that you keep your voice up, and that we take our answers slowly, because as you can tell we have a stenographer making a note in court. Thank you.
 
@@ -1033,19 +1036,19 @@ If there is a question from me that you do not understand or you need me to repe
 
 Just to deal briefly, if I may, with your professional background and expertise, you are a professor of social science and health at King's College London; is that correct?
 
-**Mr Kamran Mallick**: That is correct.
+**Professor Laia Bécares**: That is correct.
 
 **Counsel Inquiry**: And you have a particular expertise in the role of structural and societal determinants leading to health inequalities?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Within that area of specialism you focus specifically on LGBTQ+ populations and ethnic minorities?
 
-**Mr Kamran Mallick**: Yep.
+**Professor Laia Bécares**: Yep.
 
 **Counsel Inquiry**: In fact you co-authored the report on ethnicity from which we heard from Professor Nazroo last week; is that right?
 
-**Mr Kamran Mallick**: That's right, yes.
+**Professor Laia Bécares**: That's right, yes.
 
 **Counsel Inquiry**: Thank you.
 
@@ -1055,21 +1058,21 @@ For those following, the reference for that is INQ000280059.
 
 We see here, don't we, a declaration by you in relevance to your provision of an expert report, simply confirming that it's your own work, the facts stated in the report are within your own knowledge, you understand your professional duties and the fact that you are an independent expert providing independent evidence to the Inquiry, and then you go on to explain that you've made clear where those facts and matters referred to in the report are within your own knowledge and those that are not; and that's correct, isn't it?
 
-**Mr Kamran Mallick**: That's correct.
+**Professor Laia Bécares**: That's correct.
 
 **Counsel Inquiry**: Thank you.
 
 Now, if I can just take us to the very beginning, really, of your report, we've referred, as you've heard me, to LGBTQ+. Can you just assist the Inquiry with those definitions for each of those initials?
 
-**Mr Kamran Mallick**: Yes. So LGBTQ+, it's a broad umbrella term that refers to people who self-identify as lesbian, gay, bisexual, trans, queer, or questioning, and the plus refers to people who do not identify with any of the labels I've just said but who do not identify as heterosexual or cisgender either.
+**Professor Laia Bécares**: Yes. So LGBTQ+, it's a broad umbrella term that refers to people who self-identify as lesbian, gay, bisexual, trans, queer, or questioning, and the plus refers to people who do not identify with any of the labels I've just said but who do not identify as heterosexual or cisgender either.
 
 **Counsel Inquiry**: It's often otherwise referred to as "and more"?
 
-**Mr Kamran Mallick**: Yes.
+**Professor Laia Bécares**: Yes.
 
 **Counsel Inquiry**: Just dealing with that population, is it fair to say at the outset it's not a homogenous group?
 
-**Mr Kamran Mallick**: That's right, it's very heterogeneous.
+**Professor Laia Bécares**: That's right, it's very heterogeneous.
 
 **Counsel Inquiry**: Thank you. Now, you say in headline form that inequalities for those groups is both stark and long-standing, with worse health, healthcare and social outcomes, and I'm going to go through and break that down a little bit more with you.
 
@@ -1077,47 +1080,47 @@ But before we do so, can I just establish with you the scope and limitations of 
 
 The first is in relation to data and the datasets that you rely on, and you explain that a significant proportion of the underlying evidence that you rely on is from government bodies and arm's length bodies. What bodies are those?
 
-**Mr Kamran Mallick**: So in 2017 the Government Equalities Office conducted a very large, the largest, study on LGBTQ+ health and social circumstances, so I referred to this in my report. Public Health England has also commissioned reports to ascertain the level of health amongst LGBTQ+ people. The Scottish Government has conducted reports, and also voluntary sector and academics have conducted reports.
+**Professor Laia Bécares**: So in 2017 the Government Equalities Office conducted a very large, the largest, study on LGBTQ+ health and social circumstances, so I referred to this in my report. Public Health England has also commissioned reports to ascertain the level of health amongst LGBTQ+ people. The Scottish Government has conducted reports, and also voluntary sector and academics have conducted reports.
 
 **Counsel Inquiry**: Thank you. I think you also refer to the Scottish Government reports as well?
 
-**Mr Kamran Mallick**: Yes.
+**Professor Laia Bécares**: Yes.
 
 **Counsel Inquiry**: Generally your views within the report are expressed on a UK-wide basis?
 
-**Mr Kamran Mallick**: Yes, that's right. So, many of the data I have used have sampled LGBTQ people across England, Scotland, Wales and Northern Ireland, so yes, all the -- and where not, I have used data or studies for particular devolved nations.
+**Professor Laia Bécares**: Yes, that's right. So, many of the data I have used have sampled LGBTQ people across England, Scotland, Wales and Northern Ireland, so yes, all the -- and where not, I have used data or studies for particular devolved nations.
 
 **Counsel Inquiry**: Thank you.
 
 You explain within each category that you identify whether that data relates to a particular nation or not?
 
-**Mr Kamran Mallick**: Yes.
+**Professor Laia Bécares**: Yes.
 
 **Counsel Inquiry**: Thank you.
 
 I just want to deal with, if I may, one difficulty that you have encountered in terms of writing your report and expressing your views, and that's on, actually, an absence of data in terms of population level studies; is that right?
 
-**Mr Kamran Mallick**: Yeah, so we do not have a population level study that's representative of the whole of the LGBTQ+ population in the UK, but what we do have are very large social and health surveys that are generalisable to the population, the general population of the UK, and many of these studies collect data on sexual orientation, very few on gender identity. So we can analyse these large representative studies that have collected data on sexual orientation to understand and to assert whether there are health inequalities for LGBTQ+ people. So we have these surveys, but we do not have a survey specifically for LGBTQ+ people.
+**Professor Laia Bécares**: Yeah, so we do not have a population level study that's representative of the whole of the LGBTQ+ population in the UK, but what we do have are very large social and health surveys that are generalisable to the population, the general population of the UK, and many of these studies collect data on sexual orientation, very few on gender identity. So we can analyse these large representative studies that have collected data on sexual orientation to understand and to assert whether there are health inequalities for LGBTQ+ people. So we have these surveys, but we do not have a survey specifically for LGBTQ+ people.
 
 **Counsel Inquiry**: It's correct to say that the situation with regard to data is even more limited with regard to both Northern Ireland and Wales; is that right?
 
-**Mr Kamran Mallick**: That's right, in particular Northern Ireland.
+**Professor Laia Bécares**: That's right, in particular Northern Ireland.
 
 **Counsel Inquiry**: Thank you.
 
 Within your report, you refer to convenience sampling in relation to a number of the studies that you rely upon. Can you just assist the Inquiry firstly with what a convenience study is?
 
-**Mr Kamran Mallick**: Yes. So a convenience sample is a sample that's a non-probability sample. This means that not everybody in the population has an equal chance of participating. Instead, a convenience sample selects participants into a study based upon a particular characteristic, so either they live in a particular region or a city, they have attended a particular clinic or a social setting, or they might have been selected into the study via social media. So they are samples that are convenient to the researcher. And these studies provide very crucial and critical information on the lives of the participants but are not generalisable to a total population.
+**Professor Laia Bécares**: Yes. So a convenience sample is a sample that's a non-probability sample. This means that not everybody in the population has an equal chance of participating. Instead, a convenience sample selects participants into a study based upon a particular characteristic, so either they live in a particular region or a city, they have attended a particular clinic or a social setting, or they might have been selected into the study via social media. So they are samples that are convenient to the researcher. And these studies provide very crucial and critical information on the lives of the participants but are not generalisable to a total population.
 
 **Counsel Inquiry**: That's essentially the limitation of that material within the report?
 
-**Mr Kamran Mallick**: That's right, yeah.
+**Professor Laia Bécares**: That's right, yeah.
 
 **Counsel Inquiry**: Thank you.
 
 Then just again dealing with the scope of your report, you have been asked to opine on the situation pre-pandemic with respect to inequalities that --
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: -- individuals in this group may have faced.
 
@@ -1125,115 +1128,115 @@ If I can just turn, firstly, to health inequalities prior to January of 2020, in
 
 Turning first then to those in relation to health and physical health, you refer in here to obesity and being overweight, which, as we will hear in due course, is a risk factor for Covid. How does that impact within the LGBTQ population?
 
-**Mr Kamran Mallick**: Yes, so there's evidence that bisexual women and lesbian women are more likely to be overweight than heterosexual women, so there are higher rates of obesity and overweight.
+**Professor Laia Bécares**: Yes, so there's evidence that bisexual women and lesbian women are more likely to be overweight than heterosexual women, so there are higher rates of obesity and overweight.
 
 **Counsel Inquiry**: Thank you. The next category, paragraph 12, is in relation to respiratory conditions, and you've looked specifically at asthma there, and we see similar issues for lesbian and bisexual women; is that right?
 
-**Mr Kamran Mallick**: That's right, yes.
+**Professor Laia Bécares**: That's right, yes.
 
 **Counsel Inquiry**: Thank you.
 
 Then turning to cardiovascular disease, this is a little bit more complex, because what you refer to within your report is an elevated risk of cardiovascular disease risk factors, so not the actual disease itself but those risk factors that underline the likelihood of getting cardiovascular disease; is that right?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Thank you. And in relation to that you identify specific risks for lesbian women and gay men, and heightened risks again for those within the trans population. Is that right?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: We see that for trans women there's an increase of thromboembolic events, ie blood clots?
 
-**Mr Kamran Mallick**: Yes, following hormone therapy.
+**Professor Laia Bécares**: Yes, following hormone therapy.
 
 **Counsel Inquiry**: Yes, thank you.
 
 You then turn to look at cancer within your report, and can you just assist us with cancer within the LGBTQ population as opposed to the heterosexual population?
 
-**Mr Kamran Mallick**: So, yes, lesbian, bisexual, gay women and gay men and bisexual men are more likely to have certain types of cancer than heterosexual people. So for lesbian and bisexual women, they are more likely to have breast cancer, for example, stomach and endometrial cancer, so different types of cancer. And gay men and bisexual men are more likely to have penile cancer and anal cancer, and it's important also to say that they are less likely to engage in screening behaviour with regards to cancer.
+**Professor Laia Bécares**: So, yes, lesbian, bisexual, gay women and gay men and bisexual men are more likely to have certain types of cancer than heterosexual people. So for lesbian and bisexual women, they are more likely to have breast cancer, for example, stomach and endometrial cancer, so different types of cancer. And gay men and bisexual men are more likely to have penile cancer and anal cancer, and it's important also to say that they are less likely to engage in screening behaviour with regards to cancer.
 
 **Counsel Inquiry**: Thank you.
 
-**Mr Kamran Mallick**: It's not just the incidence but the behaviour.
+**Professor Laia Bécares**: It's not just the incidence but the behaviour.
 
 **Counsel Inquiry**: So it's not simply the incidence but it's also the engagement with health services --
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: -- in relation to cancer and diagnosis and therefore timing of diagnoses?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Thank you.
 
 HIV you identify as a potential risk factor owing to studies that connected that as a risk in relation to Covid-19 infection rates.
 
-**Mr Kamran Mallick**: Yeah.
+**Professor Laia Bécares**: Yeah.
 
 **Counsel Inquiry**: I think I can take this relatively swiftly with you, but there is a clear higher incidence of HIV within homosexual men and bisexual men; is that correct?
 
-**Mr Kamran Mallick**: Yeah, so heterosexual men who have sex with men have higher rates of HIV than men who have sex only with women. Also gay men and trans women have higher rates of HIV. But within the LGBTQ+ community, minoritised ethnic gay men and trans women have higher rates of HIV than white LGBTQ+ people.
+**Professor Laia Bécares**: Yeah, so heterosexual men who have sex with men have higher rates of HIV than men who have sex only with women. Also gay men and trans women have higher rates of HIV. But within the LGBTQ+ community, minoritised ethnic gay men and trans women have higher rates of HIV than white LGBTQ+ people.
 
 **Counsel Inquiry**: Thank you.
 
 We've heard a little bit about self-reporting and self-reporting of health and health outcomes, and you cover that off within your report. I'm going to summarise it, if I may, that, in terms of general health, typically the LGBTQ population, people, report worse health outcomes and worse health situations, is that right, than --
 
-**Mr Kamran Mallick**: That's right, they have (inaudible) health.
+**Professor Laia Bécares**: That's right, they have (inaudible) health.
 
 **Counsel Inquiry**: -- the heterosexual population?
 
 And the same is true, as you note at paragraph 17, of limiting long-term illnesses.
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Can I just pick up briefly on disability. Obviously we've been hearing from experts in disability and individuals representing disabled people this morning. But in relation to those with a disability, in the broader context, in terms of the LGBTQ population, disability is lower than the general population; is that right?
 
-**Mr Kamran Mallick**: So if you are referring to point 18, this survey does not compare LGBTQ+ people to heterosexual or cisgender people, so what this point refers to is that trans people within the LGBTQ+ umbrella are more likely to have a disability than cisgender LGBQ people.
+**Professor Laia Bécares**: So if you are referring to point 18, this survey does not compare LGBTQ+ people to heterosexual or cisgender people, so what this point refers to is that trans people within the LGBTQ+ umbrella are more likely to have a disability than cisgender LGBQ people.
 
 **Counsel Inquiry**: Certainly I was going to move to the specific position of trans people in due course, and that's certainly correct that it's a higher proportion, but is it right that in terms of the rate of disability in the general population, the LGBTQ population in the national LGBTQ survey, was approximately 17% compared to 22% that could be seen across the population. Can you assist us with that or not?
 
-**Mr Kamran Mallick**: So I don't see this in point 18, and the LGBT survey did not compare to a heterosexual population, so we could compare with other surveys, comparing the prevalence, but -- yeah, but this is not what --
+**Professor Laia Bécares**: So I don't see this in point 18, and the LGBT survey did not compare to a heterosexual population, so we could compare with other surveys, comparing the prevalence, but -- yeah, but this is not what --
 
 **Counsel Inquiry**: Not at all, but we see a particular issue in relation to trans respondents.
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: And it's probably fair to say in relation to trans people that we see that frequently in terms of exacerbated inequalities within the various areas; is that right?
 
-**Mr Kamran Mallick**: That's right, yes.
+**Professor Laia Bécares**: That's right, yes.
 
 **Counsel Inquiry**: Now if I may turn to mental health, it's paragraph 19 of your report onwards, in general terms, in headline terms, what was the position prior to January of 2020 with regard to what was known about the LGBTQ population and mental health?
 
-**Mr Kamran Mallick**: Yes. So, based on robust representative studies of the general population, we know prior to the pandemic that LGBTQ+ people have worse mental health, so they have higher rates of depression, anxiety, suicidal attempts and self-harm compared to heterosexual and cisgender people. And so this happens across the life course, but it's particularly stark perhaps for LGBTQ+ youth, who have, compared to heterosexual youth, really stark, alarming levels of poor mental health.
+**Professor Laia Bécares**: Yes. So, based on robust representative studies of the general population, we know prior to the pandemic that LGBTQ+ people have worse mental health, so they have higher rates of depression, anxiety, suicidal attempts and self-harm compared to heterosexual and cisgender people. And so this happens across the life course, but it's particularly stark perhaps for LGBTQ+ youth, who have, compared to heterosexual youth, really stark, alarming levels of poor mental health.
 
 **Counsel Inquiry**: Indeed. And just picking up, if I may, on the adolescent and young people aspect for a moment, at paragraph 21 you identify that in relation to suicide that there is a specific increase in risk for adolescents, and heightened yet again in relation to transgender young people; is that right?
 
-**Mr Kamran Mallick**: That's right, yes.
+**Professor Laia Bécares**: That's right, yes.
 
 **Counsel Inquiry**: Turning to more general issues of loneliness, isolation and social support, is that a specific issue that's raised in relation to LGBTQ people?
 
-**Mr Kamran Mallick**: Yes, so LGBTQ+ are more likely than heterosexual and cisgender people to experience social isolation. This is particularly stark with regards to youth and older people, so people aged 50 and older.
+**Professor Laia Bécares**: Yes, so LGBTQ+ are more likely than heterosexual and cisgender people to experience social isolation. This is particularly stark with regards to youth and older people, so people aged 50 and older.
 
 **Counsel Inquiry**: So we see it at two ends, effectively, young people and then people from 50 plus?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Why is that, do you know?
 
-**Mr Kamran Mallick**: Well, it's a complex causal mechanism behind social isolation, but young LGBTQ+ people experience really high rates of bullying and exclusion within their network, so within school, for example, and I provide some of the evidence in the report. Then older people also -- they may experience higher rates of digital exclusion that we've seen. They have experienced a life course of exclusion and discrimination, so I think this community of exposure leads to increased social isolation in later life.
+**Professor Laia Bécares**: Well, it's a complex causal mechanism behind social isolation, but young LGBTQ+ people experience really high rates of bullying and exclusion within their network, so within school, for example, and I provide some of the evidence in the report. Then older people also -- they may experience higher rates of digital exclusion that we've seen. They have experienced a life course of exclusion and discrimination, so I think this community of exposure leads to increased social isolation in later life.
 
 But I think it's important also to think about the different types of social support and social networks that LGBTQ+ people have. These are less likely to be kin-based, so less likely to be related to family, so they are more likely to be based on friends and past partners, perhaps, but also these social networks are more likely to be geographically dispersed as compared to social networks of heterosexual and cisgender people.
 
 **Counsel Inquiry**: So the implication there being that they may need to travel to access those?
 
-**Mr Kamran Mallick**: That's right, yep.
+**Professor Laia Bécares**: That's right, yep.
 
 **Counsel Inquiry**: Related to that is caring responsibilities, if I may just pick up on that aspect for one moment, and what you do explain in relation to LGBTQ+ individuals is that often that begins earlier in life for them, taking on a caring role, a caring responsibility for relatives or friends; is that right?
 
-**Mr Kamran Mallick**: That's right, yes. Yeah.
+**Professor Laia Bécares**: That's right, yes. Yeah.
 
 **Counsel Inquiry**: Picking up on an issue that has obviously touched many people in many different ways in the pandemic, you write in your report about grief, and in particular the additional complexities or challenges that are potentially faced by those within the LGBTQ community. Can you just expand on that a little, please?
 
-**Mr Kamran Mallick**: Yes, so I think grief is really -- has strong implications for mental health, but for LGBTQ+ people this is compounded by the fact that the grief that they experience may have to be hidden from others because it comes from a relationship that perhaps was not recognised, is not valued or accepted, and so it's a grief that they cannot share with others, they have to keep to themselves, they cannot seek support, even if it's formal or informal support, and so this compounds the impact of grief on mental health. So it's an additional complexity.
+**Professor Laia Bécares**: Yes, so I think grief is really -- has strong implications for mental health, but for LGBTQ+ people this is compounded by the fact that the grief that they experience may have to be hidden from others because it comes from a relationship that perhaps was not recognised, is not valued or accepted, and so it's a grief that they cannot share with others, they have to keep to themselves, they cannot seek support, even if it's formal or informal support, and so this compounds the impact of grief on mental health. So it's an additional complexity.
 
 **Counsel Inquiry**: Thank you.
 
@@ -1241,31 +1244,31 @@ Now, leading on from health, I just wanted to touch upon, if I may, access to he
 
 Can I just summarise that, because it's a mixed picture, isn't it, within the LGBTQ+ community, and that is that they are -- individuals are less likely to visit a GP?
 
-**Mr Kamran Mallick**: Yes.
+**Professor Laia Bécares**: Yes.
 
 **Counsel Inquiry**: But more likely to access emergency services, often more likely to use NHS online and telephone services, comes from some Scottish studies, and more likely to have accessed or tried to access public healthcare overall; is that right?
 
-**Mr Kamran Mallick**: Yes, I think because LGBTQ+ people experience exclusion from health and social care, they are less likely to seek primary care, so they're less likely to access their GP. Then their health complications worsen and so then they have to seek emergency care. So that's why they are different in the seeking behaviour.
+**Professor Laia Bécares**: Yes, I think because LGBTQ+ people experience exclusion from health and social care, they are less likely to seek primary care, so they're less likely to access their GP. Then their health complications worsen and so then they have to seek emergency care. So that's why they are different in the seeking behaviour.
 
 **Counsel Inquiry**: Thank you, that's helpful.
 
 Now if I may turn, then, leave healthcare to one side for a moment, just turn very briefly to pre-existing social and economic inequalities, I'm just going to touch on four of those if I may. There is a wealth of material within your report. But the first one is: to what extent are LGBTQ people likely to face material disadvantage, in brief terms?
 
-**Mr Kamran Mallick**: Yeah, so LGBTQ+ people are less likely to experience material disadvantage. For example, I provide an example of area deprivation, so they are more likely than heterosexual or cisgender people to live in the most deprived quintiles of England and Wales.
+**Professor Laia Bécares**: Yeah, so LGBTQ+ people are less likely to experience material disadvantage. For example, I provide an example of area deprivation, so they are more likely than heterosexual or cisgender people to live in the most deprived quintiles of England and Wales.
 
 **Counsel Inquiry**: Thank you. The second area is exposure to violence and harm in the home, so domestic abuse or hidden harms essentially. We've heard a little bit about that, but are there increased risks to LGBTQ+ populations in their homes?
 
-**Mr Kamran Mallick**: Yes. So studies show a really high rate of exposure to domestic violence, whether this is physical or emotional or sexual or threat of violence, because of one's sexual or gender identity.
+**Professor Laia Bécares**: Yes. So studies show a really high rate of exposure to domestic violence, whether this is physical or emotional or sexual or threat of violence, because of one's sexual or gender identity.
 
 **Counsel Inquiry**: Thank you. And I think you give statistics within your report of 44% of lesbian or bisexual women and 41% of gay or bisexual men of having experienced domestic violence or abuse for more than a year?
 
-**Mr Kamran Mallick**: Yes.
+**Professor Laia Bécares**: Yes.
 
 **Counsel Inquiry**: Thank you.
 
 Another area that we will touch upon within Module 2 is that in relation to residential care, and very briefly, if I may summarise that for you, you explain a little bit like in terms of seeking assistance and help with regard to public health services, that individuals within that population are more likely to delay entering residential care, with the consequence that when they do enter residential care they're likely to have more complex needs at the point of entry, and that's at paragraph 52. Is that right?
 
-**Mr Kamran Mallick**: Yes, that's right. So they are more likely to delay care because of experienced discrimination in the past and anticipated discrimination, because they have to hide a crucial part of their identity, who they are in terms of sexual orientation and gender identity.
+**Professor Laia Bécares**: Yes, that's right. So they are more likely to delay care because of experienced discrimination in the past and anticipated discrimination, because they have to hide a crucial part of their identity, who they are in terms of sexual orientation and gender identity.
 
 Also it's important to note here that lesbian and bisexual women and gay men and bisexual men are less likely to have children and grandchildren compared to hetero and cisgender people, and that has implications for arranging care and making decisions around care.
 
@@ -1273,29 +1276,29 @@ So it's a complex picture of why they delay care.
 
 **Counsel Inquiry**: Thank you, that's really helpful. If I can then just turn to the final topic under this heading and that's homelessness and housing and what particular challenges are faced within the LGBTQ+ population in relation to housing and homelessness.
 
-**Mr Kamran Mallick**: Yeah, so as we discussed before, the violence within the home often leads to people and particularly young LGBTQ people leaving the family home, which leads to increased rates of homelessness. And within housing and housing provision, oftentimes housing providers do not take into account the needs and challenges of LGBTQ+ people, so that means that they may put clients or, yeah, people seeking housing, social housing, in circumstances that they may feel threatened and be dangerous for them in terms of violence.
+**Professor Laia Bécares**: Yeah, so as we discussed before, the violence within the home often leads to people and particularly young LGBTQ people leaving the family home, which leads to increased rates of homelessness. And within housing and housing provision, oftentimes housing providers do not take into account the needs and challenges of LGBTQ+ people, so that means that they may put clients or, yeah, people seeking housing, social housing, in circumstances that they may feel threatened and be dangerous for them in terms of violence.
 
 **Counsel Inquiry**: Thank you. And we see specific statistics that you set out at paragraph 64 of your report, where 24% of homeless young people, those aged 16 to 25, are LGBTQ, and so overrepresented within the cohort.
 
 I want to turn now to the final area within your report, and that's the one of structural discrimination, and in relation to that you use the terms "heterosexism" and "cisgenderism". Can you just explain briefly what each of those are.
 
-**Mr Kamran Mallick**: Yes. So heterosexism is a system that structures societal policies, institutions, practices, norms and values under the assumption that everyone is heterosexual, and heterosexism denies and stigmatises sexual orientations or communities or relationships that are not heterosexual.
+**Professor Laia Bécares**: Yes. So heterosexism is a system that structures societal policies, institutions, practices, norms and values under the assumption that everyone is heterosexual, and heterosexism denies and stigmatises sexual orientations or communities or relationships that are not heterosexual.
 
 And cisgenderism is a system that denies and denigrates gender identities which are not congruent with gender assigned at birth.
 
 **Counsel Inquiry**: Where and in what areas is structural discrimination in your view most acutely felt by those within the LGBTQ+ population?
 
-**Mr Kamran Mallick**: Well, I think because it's a system that impacts on policies and institutions, it's very hard to say there is one area that's more acutely felt because it -- yeah, it's porous, it goes everywhere. And I think the important concept to think about here is that it accumulates across employment, education, housing, healthcare, social care, and then individual interactions as well.
+**Professor Laia Bécares**: Well, I think because it's a system that impacts on policies and institutions, it's very hard to say there is one area that's more acutely felt because it -- yeah, it's porous, it goes everywhere. And I think the important concept to think about here is that it accumulates across employment, education, housing, healthcare, social care, and then individual interactions as well.
 
 So every single aspect that matters to one's life is heterosexist or cisgenderist.
 
 **Counsel Inquiry**: Thank you. I just want to focus in on one area, if I may, and that is in relation to the lack of data, which you attribute to heterosexism and cisgenderism? Is that right?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: Why do you say that?
 
-**Mr Kamran Mallick**: Well, there is a persistent underinvestment in the infrastructure and research for LGBTQ+ populations, and data are crucial because unless we document inequities we cannot intervene on them and we cannot monitor how we are progressing around that.
+**Professor Laia Bécares**: Well, there is a persistent underinvestment in the infrastructure and research for LGBTQ+ populations, and data are crucial because unless we document inequities we cannot intervene on them and we cannot monitor how we are progressing around that.
 
 I put a statistic here around UKRI funding in relation to Covid and how, of all the funding provided for understanding how Covid was impacting on different populations, only 0.13% was given to LGBTQ+ research. So I think this is very disproportionate and it leads to us not knowing how the pandemic was impacting LGBTQ+ populations.
 
@@ -1303,15 +1306,15 @@ I put a statistic here around UKRI funding in relation to Covid and how, of all 
 
 Circling effectively back down to almost where we began, with data and investment, you've explained the consequence of that data gap. We've seen the introduction of the 2021 census, is that right, which for the first time includes questions in this respect?
 
-**Mr Kamran Mallick**: That's right.
+**Professor Laia Bécares**: That's right.
 
 **Counsel Inquiry**: To what extent does that assist in closing that gap?
 
-**Mr Kamran Mallick**: Well, it's a very positive step to include sexual orientation and gender identity in the census. It doesn't fully close the gap because it collects data on sexual orientation, but we really need to understand what are the mechanisms driving this LGBTQ+ inequities that are so stark and persistent, and so it's a great step but it's not sufficient.
+**Professor Laia Bécares**: Well, it's a very positive step to include sexual orientation and gender identity in the census. It doesn't fully close the gap because it collects data on sexual orientation, but we really need to understand what are the mechanisms driving this LGBTQ+ inequities that are so stark and persistent, and so it's a great step but it's not sufficient.
 
 **Counsel Inquiry**: What improvement, in your opinion, is required to data collection and research infrastructure for LGBTQ+ populations generally?
 
-**Mr Kamran Mallick**: Well, we first need a greater amount of funding to be able to conduct the research and we need a study that collects sufficiently large samples of LGBTQ+ people to make it generalisable.
+**Professor Laia Bécares**: Well, we first need a greater amount of funding to be able to conduct the research and we need a study that collects sufficiently large samples of LGBTQ+ people to make it generalisable.
 
 But it's not just about the numbers, it's about the questions asked as well, so these surveys need to have the questions that enable us to understand why are we seeing these stark inequities and where can we intervene.
 
@@ -1321,7 +1324,7 @@ Then my final questions for you are, firstly, you set out a number of missed opp
 
 But may I just simply ask this: should the LGBTQ+ population have been identified as a vulnerable group?
 
-**Mr Kamran Mallick**: Yes, I think so, because of the pre-existing stark physical inequalities, worse levels of mental health, but also with regards to social vulnerability, for example violence within the home, differences in social networks, increased levels of social isolation, which had strong possibilities of increasing vulnerability and inequalities for LGBTQ+ people.
+**Professor Laia Bécares**: Yes, I think so, because of the pre-existing stark physical inequalities, worse levels of mental health, but also with regards to social vulnerability, for example violence within the home, differences in social networks, increased levels of social isolation, which had strong possibilities of increasing vulnerability and inequalities for LGBTQ+ people.
 
 **Ms Cecil**: Thank you.
 
