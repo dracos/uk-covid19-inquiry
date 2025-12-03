@@ -1,0 +1,1759 @@
+3 December 2025
+===============
+
+*(10.00 am)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: My Lady, the first witness is Kate Forbes.
+
+**Lady Hallett**: Welcome back, Ms Forbes.
+
+**The Witness**: Thank you.
+
+Ms Kate Forbes
+--------------
+
+*MS KATE FORBES (sworn).*
+
+Questions From Richard Wright KC, Lead Counsel to the Inquiry for Module 9
+--------------------------------------------------------------------------
+
+**Mr Wright**: Ms Forbes, you've provided a statement to the Inquiry, which is INQ000653414. You're currently Deputy First Minister, but I want to ask you questions about your role during the pandemic when we understand you were Cabinet Secretary for Finance between February 2020 and May 2021, and then for Finance and the Economy from May 2021 until March 2023; is that right?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: And in that position or in those positions, were you responsible for managing the overall budget and allocating consequential funding that was received by the Scottish Government?
+
+**Ms Kate Forbes**: I was.
+
+**Lady Hallett**: And in that role, therefore, responsible for identifying and allocating funding for business and economic support?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: I'd just like, first of all, to deal with funding for Scotland generally by way of background, before looking on and focusing on funding arrangements in a time of emergency, if that's all right.
+
+And the background, really, just to set the context, to understand, if you like, the 'business as usual' approach of funding, essentially, we understand that the Barnett formula allocates funding to the devolved administrations, Barnett consequentials, based on announcements that are made by the United Kingdom Government during each regular fiscal event, so budget and main estimates; is that right by way of broad background?
+
+**Ms Kate Forbes**: That's correct, with it only being applied to England-only spending. So where the UK Government announces funding that is UK wide it does not generate a Barnett consequential, but for England-only announcements it does.
+
+**Lady Hallett**: Thank you. And against that business-as-usual situation, if the Scottish Government needed access to additional funding, there are a number of channels, aren't there, through which you could raise funds: first through taxation in areas where you have tax-raising powers; is that right?
+
+**Ms Kate Forbes**: That's correct. That's limited to the point at which we set the budget.
+
+**Lady Hallett**: Yes. And those wouldn't typically be relevant for raising funds in terms -- in times of emergency, would they?
+
+**Ms Kate Forbes**: That's correct, because they are set at the point of budget and obviously they cannot be changed in year.
+
+**Lady Hallett**: Yes. Borrowing, there is a capacity to borrow, but it is restricted. There are limits on what can be borrowed for capital expenditure, and we understand that resource borrowing is limited really to forecasting errors and in-year cash management; is that right?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: So, again, in terms of an emergency situation and having to respond to that, borrowing would not be an avenue available?
+
+**Ms Kate Forbes**: It would not.
+
+**Lady Hallett**: Okay. There is then the Scotland Reserve, as we understand it, that can hold up to £700 million, but, again, are there restrictions in that drawdowns are capped at £250 million for the resource budget and £100 million for the capital budget?
+
+**Ms Kate Forbes**: That is also correct.
+
+**Lady Hallett**: So, again, in terms of an emergency mechanism, there are pre-existing limitations that may make that not really an easily accessible source of funding in an emergency?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: Right. And then we understand that there is also the United Kingdom Reserve, and that for civil emergencies, the devolved administrations can, in exceptional circumstances, request to access the United Kingdom Reserve by submitting a ministerial letter to the Chief Secretary to the Treasury. Is that your understanding of the position?
+
+**Ms Kate Forbes**: That is correct, yes.
+
+**Lady Hallett**: And access to the United Kingdom Reserve would be judged on essentially the same criteria as claims by UK Government departments, but considering the additional tools and powers that are available to the devolved administrations?
+
+**Ms Kate Forbes**: Correct. We obviously would only be talking about the UK Reserve if we were in a position at the end of the year where we did not believe we could deliver a balanced budget.
+
+**Lady Hallett**: All right, thank you. And so, against that usual framework and having understood -- having gone through each in turn, that none of those really would provide a mechanism for emergency funding, in the pandemic we understand that funding was provided by a mechanism known as the Barnett guarantee; is that right?
+
+**Ms Kate Forbes**: That's correct, the Barnett guarantee was introduced in July in direct response to some concerns we'd raised around the predictability of funding.
+
+**Lady Hallett**: Yes. And was that really a commitment by the Treasury to provide a minimum level of guaranteed funding to the devolved administrations, to support the pandemic response?
+
+**Ms Kate Forbes**: It directly responded to our concern that there would be negative consequentials at the end of the year. So, because we only get a Barnett consequential on the net spend, the net actual spend of the UK Government, if they had announced England-only spending, but it had been drawn from savings elsewhere in the UK budget, it may have meant that whilst there was a Barnett consequential given, there was also a negative consequential taken which would only have been determined at the end of the year.
+
+So one element of risk that ran throughout that early few months was the fear that some of the announcements would be netted off some of the savings in the UK Government and therefore it wasn't all new money. And the Barnett guarantee essentially said there will be no reduction in spend or reduction in consequentials below a certain interest threshold.
+
+**Lady Hallett**: Yes, so it really did what it said on the tin: it guaranteed a level of funding which provided you generally with some more certainty as to the budget and the money that was going to be available.
+
+**Ms Kate Forbes**: Precisely.
+
+**Lady Hallett**: And you weren't, therefore, having to plan on the basis that it may be at the end of the year that you'd find that whilst you thought you were going to have funding at level A, it was actually lower than that because of the negative consequentials that might have arisen.
+
+**Ms Kate Forbes**: It meant that we did not have to hold contingency.
+
+**Lady Hallett**: Yes. You can be sure that the money was there to be spent, essentially?
+
+**Ms Kate Forbes**: Precisely.
+
+**Lady Hallett**: And as you've told us, that came into place in July of 2020, I think it was 24 July, to March 2021.
+
+Now, can you perhaps illustrate by any examples how that guarantee had a positive impact on the economic response of the Scottish Government, how having that certainty positively affected your ability to deliver a response?
+
+**Ms Kate Forbes**: Well, having that certainty was extremely useful, and we expressed our appreciation for that guarantee. What the Scottish Government needed, in order to respond to the pandemic financially, was predictability, flexibility, and transparency, and the guarantee provided predictable funding streams. Now, those were continuously revised up so we did not know at that point in July how much more it would be revised up, but it allowed us to, for example, announce business funds with the reassurance that we actually had the funding to respond.
+
+So prior to July, where we announced business funds, we did so only in direct response to a UK Government announcement of additional funding. After July, and you will note that we announced further funds, for example in the autumn, we were able to do so with greater reassurance that we could actually afford the funds that we were announcing.
+
+**Lady Hallett**: And that, therefore, will have given you some more flexibility, wouldn't it?
+
+**Ms Kate Forbes**: It did, but I would suggest that of those three criteria, those three characteristics of the budget that we needed, it helped with some predictability in that we knew the funding wouldn't be revised downward. I suppose in hindsight, it may seem ludicrous at this point, considering how much funding was added to our budget, to think that it would ever have been revised downward. But remember that in summer of 2020, there was still some hope that the pandemic would be shorter lived than it actually was.
+
+So after July 2020, the budget continually increased, but often only increased to a point that wasn't as helpful to the Scottish Government for planning purposes.
+
+So it gave us a watermark, but actually, the scale of the response that would come over the next 18 months meant that that waterline was actually not terribly useful because it kept getting moved, if that makes sense.
+
+**Lady Hallett**: It does make sense, but you would accept, presumably, that no one could foretell the future, and therefore no one knew what was coming and how much additional funding would be required?
+
+**Ms Kate Forbes**: That's right. So I suppose in my response to you, I'm saying it was useful in July 2020. Its usefulness was short lived because that guarantee kept changing.
+
+**Lady Hallett**: If there was a future emergency, I mean you've said it became less useful over time, but is this something that you would or wouldn't want to see repeated as a mechanism for funding in time of emergency?
+
+**Ms Kate Forbes**: I would very much like to see it repeated as it eliminates one of several risks.
+
+**Lady Hallett**: Okay. So it's not a criticism which leads you to say, therefore, we need to do something different; it's rather a criticism that that is not all that is required from a Scottish Government perspective; is that fair?
+
+**Ms Kate Forbes**: That's right, yeah.
+
+**Lady Hallett**: And in a future pandemic, it was established and set up in July, and you've already touched on how that changed your ability to plan and respond pre July to post July; would you argue that it should be available from the outset?
+
+**Ms Kate Forbes**: That's right. I note that one of the recommendations that others have given is that if you were able to provide a guarantee upfront at the outset of an emergency as a minimum fund that would be available, that would be very helpful for the full duration of the emergency.
+
+**Lady Hallett**: Well, I --
+
+**Lady Hallett**: Just pausing there, sorry to interrupt.
+
+**Mr Wright**: Not at all.
+
+**Lady Hallett**: But how does that work if you don't know how long the pandemic is going to go on and therefore how much funding is going to be needed?
+
+**Ms Kate Forbes**: So this is why I'm sympathetic to the UK Government, in how difficult it was for them to manage.
+
+I think it was David Phillips, one of your expert advisers, I believe, who suggested that if you could provide a notional sum, I think he suggests about £1 billion, at the outset, it would at least give you access to a fund.
+
+The other suggestion we had for the duration of the pandemic is that if we were to be given a notional sum which we then would have to pay back over subsequent years after the pandemic, almost as an advanced sum of funding, it would have allowed us to plan more comprehensively rather than await further announcements of funding from the UK Government.
+
+**Mr Wright**: I think the suggestion of £1 billion comes from Alyson Stafford, who was a Scottish Government official; is that right?
+
+**Ms Kate Forbes**: It's -- Alyson Stafford was the Director General of the Exchequer.
+
+**Lady Hallett**: Yes. Well, helpfully, I was going to come on to that.
+
+So we'll have it up on the screen. It's INQ000652290, paragraph 128.
+
+This is the suggestion she makes in her statement:
+
+"HM Treasury Ministers faced with a similar crisis in the future may wish to consider allocating a substantial, upfront set amount to give authority to the Scottish Government to act straight away to ensure protection measures are available at the outset -- a notional figure of circa £1 billion (real terms equivalent from now) would be a pragmatic sum. This could an advance on subsequent consequentials, so that Devolved Administrations do not have to wait for the negotiations between HM Treasury and Whitehall Departments."
+
+That doesn't sound very flexible, as a mechanism. Do you agree that it would lack flexibility, which was one of the things you said you needed?
+
+**Ms Kate Forbes**: It would have allowed us to be far more flexible. So if I could contrast it with our experience in the early days of the pandemic to illustrate the point, the first time that consequential funding was announced for the pandemic was, if I believe correctly, 14 March, and it was £320 million. By 18 March, that had increased to £2.2 billion.
+
+Now, in response to 14 March we did rapid policy work and announced some funding schemes. Within days, those were out of date because there was significant additional funding of £2.2 billion.
+
+And you can understand the confusion that creates for, in this case, businesses, that were trying to plan for what funding might be available to them. So the point here, a billion pounds -- it could be a matter of discussion, but I think a billion pounds is a fair initial scheme -- would have allowed that early policy work to stand, and as additional funding became available, it could have been revised up.
+
+The point is that you're able to plan ahead without waiting for additional announcements that sometimes came in the space of several days, and which then meant that our announcements, based on policy work, were out of date quite fast.
+
+**Lady Hallett**: But couldn't announcements have equally been out of date quite fast the other way if the pandemic had taken a different course? So, I mean, that assumes, doesn't it, an element of hindsight because of the route the pandemic took, but equally, if there was an announcement of a billion pounds of upfront funding, and in fact it was all over in a week, you'd have done the planning and still had the same problems, wouldn't you, in that it wouldn't have been required?
+
+So I'm just wondering how -- I mean, is this looking at it through the lens of what did happen rather than at the different options that could occur?
+
+**Ms Kate Forbes**: It's certainly looking at it through the lens of what did happen, and if, for example, to use your words, the pandemic had been, you know, finished with in a week, as you describe, then of course the fiscal framework would have been able to respond, because it was the prolonged nature of the emergency that put so much pressure on the fiscal framework.
+
+**Lady Hallett**: But the sort of guarantee of £1 billion that's mooted in that witness statement, the first Barnett guarantee was for 12.7 billion, so a billion pounds, really, wouldn't have -- putting it frankly -- wouldn't have touched the sides, would it? So what's the point of having it, really?
+
+**Ms Kate Forbes**: So the relevance would have been to allow us to plan quickly in the first early days. I think, as the pandemic progressed, I recall discussions about the kind of flexibilities we wanted, and bear in mind that flexibilities were requested by devolved governments in Northern Ireland, Wales, and in Scotland. And one of the suggestions was this idea of advanced payments.
+
+So in October 2020, when we were discussing whether or not to do the circuit breaker, and we didn't have consequential funding, or in December 2021, around Omicron, it would have allowed us to say: we believe the economic response will cost X million. We believe that the health emergency requires us to intervene. So we pledge to spend this amount, and we could net it off subsequent payments.
+
+But because, legally, I must deliver a balanced budget and because officials were -- would not allow me to carry the risk of promising significant funding, that we reasonably did not have available to us, there was a restriction there.
+
+So I think that second suggestion that I'm giving, which was a suggestion that we had put to Treasury, probably makes more sense over the course of the pandemic, although I think Alyson Stafford's idea at the outset of the pandemic would have been helpful, if that makes sense.
+
+**Lady Hallett**: I understand the distinction and obviously, by the time of Omicron, we were a long way down the road from this point.
+
+**Ms Kate Forbes**: Yeah.
+
+**Lady Hallett**: And I'm just trying to deal with this idea of a sum of money at the outset. I mean, just taking the figures and dates you gave, consequential funding went from an order of millions to 2.2 billion within the space of four days. So what difference would having a guarantee of a billion of funding have done over the course of those four days when ultimately you'd have then received 2.2 billion through the consequentials?
+
+I'm just not -- trying to understand how this would have affected your ability to plan when everything was changing so quickly.
+
+**Ms Kate Forbes**: I think Alyson Stafford's comment of a notional figure of £1 billion could be revised. I think -- I mean, I can't speak for her as to why she had identified £1 billion. I think the principle, though, is very sound: of an upfront figure. I think it is unfair to suggest that the UK Government -- so I'm not suggesting that the UK Government should have known the full cost of the pandemic at the outset.
+
+So £1 billion feels fair. The Scottish Government's budget is, give or take, £55 billion. It feels like a fair figure, but you're absolutely right, and I do not disagree, that considering the fiscal movements over the course of the pandemic, £1 billion feels quite small.
+
+**Lady Hallett**: But I'm also trying to understand what it is that would trigger the giving of that guarantee of, say, a billion or whatever figure you took, 1 billion, half a billion, 10 billion, would this apply, what, when an emergency was declared, and how would anybody know when to declare that emergency and therefore free up that funding?
+
+**Ms Kate Forbes**: So I think that at the beginning of the pandemic it was quite clear, considering even the first announcement of consequential funding, that we were in very new territory. The UK Government does not make announcements like that for significant additional sums.
+
+Probably, the point at which they then had to revise it four days later demonstrated the scale of the challenge, and therefore, having an upfront figure would have been helpful.
+
+If I could illustrate it with another example, it --
+
+**Lady Hallett**: You can of course, but really what I'm interested in is looking ahead. That didn't happen. We know what did. But if this is being promoted as an idea for a future emergency, what would be -- what do you think would be the mechanism by which that funding would be released? There would presumably have to be some decision by the UK Government that events had reached a certain point at which to release that money, and so I just wonder, actually, whether having that arrangement might reduce flexibility, because there'd always be a risk that a government wouldn't want to announce that that point had been reached in order to release the funding?
+
+**Ms Kate Forbes**: I think that's a question about when and if a government recognises a civil emergency, another pandemic, that, bearing in mind the devolved governments were fully responsible for the health response, they should have full financial freedom to respond to that emergency or a pandemic as quickly as possible without fear around the funding position.
+
+Now, there would be two caveats to that. One is that if a -- if the full fund wasn't required or utilised, there could be a requirement to pay back the difference. So it allows them the freedom to respond quickly, but with the expectation that it doesn't cost the full billion pounds, for argument's sake, that could be paid back.
+
+And the second is the one that I'm probably more sympathetic to, which is that it's paid back over a longer period of time.
+
+**Lady Hallett**: English departments wouldn't get the ability to have advance sums paid to them that could then be paid back, would they? So do you think that would create a sense of unfairness or an actual unfairness as between the treatment of English departments and the devolved administrations?
+
+**Ms Kate Forbes**: Not at all, because I think there's already a precedent around the fiscal framework. I mean, it is worth saying that the fiscal framework at the time allowed for Scotland-specific shocks. So the fiscal framework recognised that there might be economic shocks at times, and the second part is that health was fully devolved, so the response on the health emergency had to be taken by the Scottish Government. And I think those are two differences in how English departments operate.
+
+**Lady Hallett**: All right, thank you.
+
+Can I move on to a slightly different issue. This is about the UK Reserve. I just want to pick up on some evidence we heard yesterday from former Chief Secretary to the Treasury, Steve Barclay. It is a fact that there was no claim made on the UK Reserve. And he was asked some questions about that and he said that a claim on the UK Reserve would be looked at on a UK-wide basis.
+
+I just wonder if you know what he meant by that, whether you understood that there was -- essentially it operated so that if Scotland made a successful claim, that would automatically trigger funding for other nations. Do you have a sense of how that would in fact work?
+
+**Ms Kate Forbes**: I don't. I know that we would only have made a claim on the reserve if we felt that we would be unable to deliver an annual, balanced budget. And I suppose my primary job, after funding the response, was to prudently manage the budget, and not overspend.
+
+**Lady Hallett**: Accepted, but it is an emergency reserve, isn't it? And so had circumstances required you to overspend, then you could have made that claim?
+
+**Ms Kate Forbes**: If I felt that the health response required it, then we would have looked at all options to manage the financial response.
+
+**Lady Hallett**: So I know it's not optimal and it's not something you'd want to do, but in terms of ultimately having an extra emergency lever that could be pulled, it is there for that reason?
+
+**Ms Kate Forbes**: Last-case scenario, yes.
+
+**Lady Hallett**: Okay. Can I move on again to the subject of borrowing.
+
+**Ms Kate Forbes**: Mm.
+
+**Lady Hallett**: And I'm just going to ask that part of David Phillips's report is put up.
+
+It's INQ000588134. Page 90, please, paragraph 180.2.
+
+He expresses this view, that:
+
+"The UK government is usually best placed to raise funding for a national emergency, given the large and liquid gilt market, and the Bank of England's liquidity and quantitative easing operations. Direct borrowing by the devolved or local governments would likely take longer and be more costly, especially if large amounts were being borrowed for the first time."
+
+**Ms Kate Forbes**: Mm.
+
+**Lady Hallett**: I just want to give you an opportunity to consider his view, and to ask, do you agree with him? Do you accept the issues that he's raising are real issues?
+
+**Ms Kate Forbes**: Can I make a distinction in my response between capital borrowing and resource borrowing?
+
+So capital borrowing is something that the Scottish Government does on a regular basis. We operate through -- with the National Loans Fund, it is a tried and tested approach, and it is managed in year.
+
+The pandemic called for revenue, not capital. And so we did not have a mechanism that was already operational for revenue borrowing. So, to that extent, I agree that to have established a revenue-borrowing mechanism may have taken longer.
+
+The only reason we were talking about additional borrowing powers at the time was to try to provide the flexibility that could otherwise have been provided by advance payments or advance consequentials, in other words the questions that we've just been -- we've been covering.
+
+So I think there's an element of truth, yes, that if amounts were being borrowed for the first time, that would have taken longer.
+
+**Lady Hallett**: But it's not just taking longer, is it; it's also, I think he's making the point, that even if the Scottish Government had the ability to do revenue borrowing, so not capital borrowing, it would be more expensive, as well, because there are simply not -- they don't have access to the large liquid gilt market that he speaks of, and the Bank of England's ability to engage in, for example, quantitative easing, so it's a value for money point. If there needs to be large-scale borrowing, the UK Government is much better placed to do it, is really his point.
+
+**Ms Kate Forbes**: I mean he's absolutely right to say that the devolved governments do not have the same institutions to borrow in the same way that the UK Government borrows.
+
+**Lady Hallett**: Can I move on to large levels of funding and levels of funding per capita. David Phillips deals with this in his report at page 21, paragraph 24.1.
+
+"... estimated that block grant funding per person was 129%, 123% and 129% of comparable spending in England, in Scotland, Wales and Northern Ireland respectively. This determined the baseline funding levels for subsequent years, including [during the pandemic]."
+
+So unpicking that, as we understand it, what he's saying there is that Scotland receives greater funding per person than England guaranteed under the Barnett formula. Do you accept that as the starting premise?
+
+**Ms Kate Forbes**: I mean, my premise is that -- starting premise is that the Barnett formula is essentially a population share. So any funding that is announced is calculated by a population share of funding. And so, in terms of his figures, I neither agree nor disagree with those figures. The approach that we take is that it is a population share.
+
+At times, that will mean that the Scottish economy, which is slightly different from the English economy, it will feel like there is additional money, but at other times, due to greater rurality, there will inevitably be higher costs in Scotland too. So I think those figures don't take into account times where there is going to inevitably be higher costs associated with interventions in each of the four nations.
+
+**Lady Hallett**: Accepting all of those caveats, it's still the case, isn't it, that per head, Scotland receives more funding than England, per head of population?
+
+**Ms Kate Forbes**: That's what David Phillips says.
+
+**Lady Hallett**: Well, do you agree?
+
+**Ms Kate Forbes**: Well, I agree in terms of the population share of the Barnett formula, and sometimes that reflects -- I just think that line doesn't take into account the higher costs. It is assuming that all parts of the United Kingdom have the same 100% share of costs. And those figures don't take into account the fact that in some parts of the United Kingdom, the starting costs are going to be higher, and that doesn't take that into account.
+
+**Lady Hallett**: Isn't the answer to Mr Wright's question, yes, Scotland does, but there's a good reason for it, which is, you say, there's higher cost? Isn't that the answer to Mr Wright's question?
+
+**Ms Kate Forbes**: That is a more eloquent way of putting it.
+
+**Mr Wright**: As I said, I accept all of the other sides of the argument, but the starting point is it's a higher level per head.
+
+And also, you were able to, weren't you, to carry over funding during the pandemic?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: Which resulted, do you accept, in Scotland receiving greater levels of funding than England per head. Because of that carry-over it added to the additional monies?
+
+**Ms Kate Forbes**: Not strictly, if you don't mind me saying so. So the carry-forward was entirely because of late consequentials in February 2021. So there was over a billion pounds confirmed for Scotland on 15 February 2021.
+
+Now, that funding needed to be spent, but to have accelerated the spending just so that it fell in that financial year would have been very unwise. So the UK Government confirmed that because, and only because, they had announced over a billion pounds for Scotland on 15 February 2021, that we could carry it forward. But that doesn't change the total quantum of funding throughout the pandemic. It's about which year it fell in.
+
+**Lady Hallett**: I understand your answer. And really, where I -- well, I'll get straight to the point. If you look at the cash spend per head, do you accept that relative to England -- so this is not taking into account what the money had to be spent on and where political priorities were in terms of who to support, and so on and so forth, but relative to England, Scotland was not underfunded during the pandemic?
+
+**Ms Kate Forbes**: No, and please let me say on record that my accusations have never been about underfunding. They have been about flexibility, predictability and transparency.
+
+**Lady Hallett**: Thank you.
+
+Can I move on slightly to the subject of lockdowns. We've heard evidence, and it may be no more than common sense, that the success of lockdowns or other substantial NPIs relies on associated economic support for compliance, support like the CJRS, the Job Retention Scheme.
+
+Now, that was a scheme that the Scottish Government couldn't implement unilaterally, it was a matter for the UK Government to implement that scheme. But we know that in December 2021 the Scottish Government called on the UK Government to extend the scheme owing to the Omicron outbreak. And that was considered to be a particular concern in Scotland; is that right?
+
+**Ms Kate Forbes**: That's right.
+
+**Lady Hallett**: And we know that the UK Government decided not to do that, preferring not to lock down. And the Scottish Government ultimately received £440 million in consequentials as a result of the threat of Omicron. How did that affect your ability to make decisions about economic support in that period?
+
+**Ms Kate Forbes**: So on 14 December, the First Minister announced interventions and a package of financial support of £100 million for Scottish business.
+
+In the weeks running up to 14 December, there were two things happening: one, I pressed the UK Government for any early sight on any additional consequentials that were coming, and was unequivocally informed that there wouldn't be further funding. And secondly, I went through every line of our budget to try and free up funding. And I think some of that was covered in previous modules.
+
+So we managed to find £100 million with the understanding that there would be no further consequential funding. I think on that very same day the UK Government announced £220 million of funding that only hours prior was not going to be announced for us. On 19 December that was then doubled to £440 million. And then I think on 21 December there was another £80 million, which shows the pattern that there was funding available, but up until the point at which we were going to announce the funding, there was no indication that that funding was coming.
+
+**Lady Hallett**: Thank you. I just want to deal with a paragraph in your statement, please. It's INQ000653414, where you say this:
+
+"If the pandemic worsened in England and the UK Government would commit to funding, which generated consequentials. However, if we needed to fund an initiative prior to the UK Government choosing to spend -- for example, if the pandemic worsened in Scotland prior to it worsening in England, necessitating additional spend in Scotland, then we could not secure further funding until the point at which England needed funding."
+
+I just want to drill down into that view you've expressed there. Is it really your view, then, that the UK Government would only announce further spending only where it considered conditions in England necessitated it?
+
+**Ms Kate Forbes**: The link is that the UK Government would only announce funding when it was required in their view, because that is only when consequential funding was generated. So if we, for example, could see that infection levels were higher, let's say in October 2020, we could only provide funding out of the funding that we had available. If the UK Government then decided to announce funding because conditions warranted it in England, it would generate consequential funding. But the consequential funding arriving and the conditions in Scotland were not connected.
+
+**Lady Hallett**: I'm not quite sure that exactly what you're saying in that paragraph. It appears to suggest that: unless England needed some extra funding, we wouldn't get anything in Scotland, regardless of the picture in Scotland. And I just wonder if that's really right and if you're really saying that: that the UK Government wouldn't have, for example, if the pandemic had, in Scotland, got much, much worse, are you really saying that unless it was bad in England we wouldn't have got any extra money and there wouldn't have been any means of getting any extra money?
+
+**Ms Kate Forbes**: That's the practical effect of what I'm saying, yes.
+
+**Lady Hallett**: That's the practical effect of the consequential system, isn't it?
+
+**Ms Kate Forbes**: Yes.
+
+**Lady Hallett**: But doesn't that rather assume that the government wouldn't say, in that circumstance, "But we're going to give you some emergency funding because things have got much worse in Scotland"?
+
+**Ms Kate Forbes**: Well, having had that very conversation with the UK Government more often than I can count, that was what happened. So, you know, I could give you ample examples of where we made very explicit requests of additional funding or economic interventions because of the worsening condition in Scotland. I know Mark Drakeford has also talked about the situation in Wales where that was the case. And additional funding was only available when it came through consequentials because of spend in England.
+
+So I do agree with what I've written here.
+
+**Lady Hallett**: The Inquiry has received evidence from witnesses in the UK Government that they were making all decisions in the interests -- the best interests of the UK as a whole, not just for England, and would reject the suggestion that the devolved administrations were an afterthought in any way. Do I take it from your answer that you don't essentially accept that, or do you accept that?
+
+**Ms Kate Forbes**: Well, I see no evidence to confirm that. I only see evidence to the contrary, and our discussions around the furlough scheme I think illustrates that point particularly effectively, where both Wales and Scotland had restrictions in place during October, and there were a number of requests, for example, for furlough to be extended. It was extended on 31 October, after interventions had been already introduced, costly interventions had already been introduced in Wales and Scotland, and it was only extended on 31 October because the Prime Minister announced restrictions that were going to take place in England.
+
+So I want to be clear, and I think this comes through my evidence, I don't believe that this was intentionally destructive. I only believe that the funding arrangements didn't allow for any other approach.
+
+**Lady Hallett**: Okay. Thank you.
+
+I'd just like to go to another part of David Phillips' report, please, so INQ000588134. This is paragraph 70, please, on page 35.
+
+We see there, about a third of the way through the paragraph:
+
+"Reviewing the evidence on health impacts, as summarised by excess mortality and deaths attributed on death certificates to Covid-19 ... find similar trends across the UK nations, with Scotland and Northern Ireland seeing, if anything, lower excess mortality and reported deaths that England up until March 2023. Reviewing the evidence on economic outcomes, the same authors highlight similar trends on earnings in employment and earnings in England, Scotland and Wales ... broadly similar shares of furloughed employees, similar residential property transaction trends, and for Scotland, similar trends in GDP ..."
+
+That's his reference to another study. But taking it together, I mean, it's -- effectively, he's expressing there the view that there was a symmetrical impact of this pandemic on all of the nations of the United Kingdom.
+
+Looking ahead, there might not be that sort of impact in a future pandemic. If there was an asymmetric shock, what measures or what mechanisms for funding do you think would be required to manage that sort of scenario?
+
+**Ms Kate Forbes**: So the fiscal framework did allow for a Scotland-specific shock. In other words, where the evidence indicate that the shock to Scotland was more acute, then there were some flexibilities permitted, for example in the carry-forward figures.
+
+I think I would go back to this question of having as much advance access to funding as possible, rather than rely on a drip-feed funding approach.
+
+So, for me, the question is not whether there's sufficient funding overall with the benefit of hindsight when you look at the full two years, the question is: in the throes of decision-making at any point in time, do you have the reassurance that you can afford the announcement that you are about to make?
+
+And that may look, in hindsight, like you did not need to fear, but without knowing what's happening next, you have to have the predictability, the flexibility and transparency of a budget to respond to the events as they unfold.
+
+And I think there are a number of mechanisms that could be introduced to -- to do that. I've covered two of them I think already. I still am particularly drawn to this one, because I am not asking -- I think sometimes it can be perceived -- to your earlier questions -- that I am suggesting that overall there wasn't enough funding, and that's not the point I'm making. The point I'm making is: do you know there will be enough funding at the point that you have to make the decision? And if there was an asymmetric shock in future, firstly, the fiscal framework does allow for some flexibilities, but, secondly, can the UK Government come to an arrangement with us where, for the benefit to the nation, they will say: okay, here's an upfront guarantee of X billion pound to spend; you can either repay that over 10 years, 5 years, or we accept that that is what it will cost.
+
+And that is just seen as an extraordinary emergency pot of funding that you can draw from.
+
+**Lady Hallett**: What I'd like to do is just to go to some of the conclusions David Phillips has expressed, and I would like you to consider certain parts of them and to have your response to them, as to where you think that sits in the context of the answer you've just given.
+
+So, first of all, paragraph 92. It's highlighted in bold. You suggest there:
+
+"We concluded some combination of relaxed borrowing rules and funding guarantees should be rapidly introduced in a future major fiscal shock where spending decisions are likely to need to be taken quickly and on rolling basis."
+
+Does that essentially align with -- with your position?
+
+**Ms Kate Forbes**: It aligns with my current position. It also aligns with the position that we set out during the pandemic.
+
+**Lady Hallett**: Thank you.
+
+Then 92.1 -- I think we need to go on to the next page. There we are.
+
+"From the perspective of the devolved governments, the headroom provided by the guarantees comes at no cost to them, whereas the headroom provided by borrowing may require repayment in subsequent years, if additional Barnett consequentials are not forthcoming allowing them to unwind the borrowing."
+
+That's signalling some caution about overreliance on borrowing, isn't it? It could have a longer term, negative impact on Scotland?
+
+**Ms Kate Forbes**: Yeah, I mean, borrowing will always be a more expensive approach to additional funding than Barnett consequentials, so yes.
+
+**Lady Hallett**: And then at the bottom there:
+
+"Enhanced borrowing powers would also give the devolved governments greater flexibility to decide how much extra they need to spend, potentially providing greater flexibility to address asymmetric impacts of a shock."
+
+I think that's the point you've been making about --
+
+**Ms Kate Forbes**: Yeah.
+
+**Lady Hallett**: -- an asymmetric shock. So does your view align with David Phillips, at least to that extent?
+
+**Ms Kate Forbes**: Yes, it does.
+
+**Lady Hallett**: Then 92.2, please. Thank you.
+
+About halfway through:
+
+"To the extent that certainty over funding and borrowing levels is valued highly by the UK and/or devolved governments, provision of most of the funding headroom deemed necessary via funding guarantees is likely to be more attractive. But if greater flexibility and/or responsibility for the devolved governments is seen as desirable, and/or the risk of the shock impacting asymmetrically across the nations of the UK is considered likely, greater reliance on enhanced borrowing powers will be more attractive."
+
+So he's really saying there, consequentials through the guarantee should be the cornerstone, with borrowing powers secondary to that, in a more limited way.
+
+Do you agree with that?
+
+**Ms Kate Forbes**: I agree with that.
+
+**Lady Hallett**: And then at 93, and I think this probably flows from what we've just looked at, therefore:
+
+"We concluded that decisions on the fiscal response to a future fiscal shock should be made on an ad hoc basis, rather than on the basis of a pre-defined set of quantitative rules."
+
+Really, it appears he's saying, "We don't know what the nature of a future shock would be, so having hard and fast rules is probably not a good way of going into emergency, but these should be in the playbook", is how it appears. Do you agree with that?
+
+**Ms Kate Forbes**: I very much agree with that. And I think you can do this on the basis of the three requirements that I mentioned earlier. What we need is flexibility, transparency and predictability. And the way in which those three are delivered is of less interest to me than ensuring that they are delivered.
+
+So, based on what a future shock might look like, there should be a funding mechanism that meets all three criteria.
+
+**Lady Hallett**: And so, drawing all of that together, in a future emergency, take decisions on an ad hoc basis rather than by pre-determined set principles; do you agree?
+
+**Ms Kate Forbes**: That's right. So we have -- there's two ways of interpreting that line. One is the fiscal framework you could say is a pre-defined set of rules that both governments have agreed, but that secondly, the Barnett formula is also pre-set. So if both governments can approach a future shock and lay out what is actually required financially, without setting it up in peacetime, if I can use that word, then I think that would be more advantageous to a future government.
+
+**Lady Hallett**: And in terms of what the actual response is, there needs to be a process, assess the shock, the nature of it, whether it's symmetrical, asymmetrical, or expected to be, and then respond with either guarantees, or borrowing flexibility, or both, if appropriate?
+
+**Ms Kate Forbes**: That's right. And there may be others also, yeah.
+
+**Lady Hallett**: One of the other suggestions that David Phillips makes in his report is that there should be in future an automatic ability to carry forward late increases in funding, or defer late decreases. Where do you stand on that as a suggestion?
+
+**Ms Kate Forbes**: I am strongly in favour of governments being allowed to carry forward funding, actually irrespective of whether it is late or otherwise, because it allows a government to make prudent financial decisions over year end that are in the best interests of the people, rather than squeezing funding into one year arbitrarily.
+
+**Lady Hallett**: I want to now move on to -- I mean, it's a topic you've touched on regularly in your evidence, but I want to look at it with a bit more focus, this point about predictability and timing of funding announcements and just take -- I'm just going to take a couple of examples, and explore them with you.
+
+So the first example is this point that on 11 March there's a £30 billion package of support announced by the UK Government, so there's a consequential for Scotland. That quickly went up within six days from 30 billion to 330 billion, that's the UK package, so therefore, a corresponding change in consequentials.
+
+And really, my question is, accepting what you say about everyone would like to know what's going to happen and everyone would like as much certainty as possible, how can you have certainty of any sort in a pandemic that is moving as quickly, as rapidly as this one was?
+
+**Ms Kate Forbes**: So I am extremely sympathetic to the notion that it was very difficult to have certainty. It was extremely difficult for the UK Government to have certainty, and I suppose we had the secondary impact of that uncertainty. So we were trying to plan ahead, but also dealing with the impact of the UK Government's uncertainty. So you're absolutely right in saying that even if you look at what the economists were saying in Q2 of 2020, even the IMF were suggesting that we would be into a period of relaxation towards the end of the year.
+
+So that had a bearing on what funding was announced for businesses upfront, because many expected it to be short lived. So the level of uncertainty was very significant.
+
+**Lady Hallett**: Yeah. And doesn't that mean, though, that any response is always going to be imperfect? There isn't a magic bullet here that can resolve all of these funding issues; do you accept that?
+
+**Ms Kate Forbes**: That's right, and I think I referenced that in my statement by saying that I did not think at any point there was a deliberate effort at untruthfulness, even when announcements were out of date within days, because the UK Government were responding at pace, like we were.
+
+**Lady Hallett**: Now, it's always tempting, perhaps, in those sort of circumstances, to say: well, if we'd have been kept better informed, if we'd have been involved in discussions, if we'd have had a seat at the table, then we might have known more what the thinking of the Treasury was and what the thinking of UK Government was. But how is any of that practical, in a fast-paced emergency? That's really what I'd really like you to consider and reflect on.
+
+**Ms Kate Forbes**: I think that's why I don't make the argument that if only we had had more meetings, the risks would have been eliminated. I think if you look at the UK Government's approach to extending furlough alone, it's first announced on 20 March; 17 April, they extend it; 12 May, they extend it; 30 June, there's a change; 22 October, the Job Support Scheme; 31 October, it's extended again; 5 November, it's extended again.
+
+In other words, that implies to me that on -- when it's first announced on 20 March, the UK Government don't know where they're going to end up. So we made repeated calls for it to be extended, and I'm very much of the view that the UK Government themselves were having to grapple with the information and respond to that.
+
+So it doesn't matter how many meetings I'd have had in that period; I don't think, internally, they knew where they would end up, let alone informing me of where they would end up.
+
+**Lady Hallett**: I mean, do you accept that so much of this is bound up in political judgement? A lot of these are political decisions. It's not a purely health response. There are political judgements to be made about opening up the economy, about when to provide job support, when not to provide job support. These are not straightforward decisions on which everyone is going to agree.
+
+**Ms Kate Forbes**: Yeah, I struggle to characterise it as political decisions. I think, if I look at my own experience, you're responding to the evidence in front of you, and that evidence, sometimes within days, is changing. And so if it felt very unpolitical in how we were responding, because the evidence was changing all the time.
+
+**Lady Hallett**: Okay. Can I just -- you may not have heard the Treasury's opening in this module, so I'm just going to touch on something that they said in opening.
+
+"... HM Treasury considered the impact across the whole of the UK, including regional variations. [The] Treasury has acknowledged that the pandemic underlined the need for more robust engagement mechanisms, better communication channels, and enhanced sharing of information with the Devolved Administrations to ensure coordinated responses in future crises. [The] Treasury has already taken steps to improve its ways of working with the devolved governments ..."
+
+Can I break that down. First, was your experience of the pandemic that it did highlight the need for more robust engagement mechanisms, better communication channels, and enhanced information sharing?
+
+**Ms Kate Forbes**: So I think there's very good examples of where that happened.
+
+**Lady Hallett**: Yes, we're going to come on to some of them --
+
+**Ms Kate Forbes**: Okay.
+
+**Lady Hallett**: -- but I'm just trying to -- as an overview, do you agree as a premise that it did expose those deficiencies?
+
+**Ms Kate Forbes**: Yes.
+
+**Lady Hallett**: Right. Do you recognise the description that things have got better and have improved?
+
+**Ms Kate Forbes**: I think it was difficult to see particular examples of improvement over the course of the pandemic. There were more meetings --
+
+**Lady Hallett**: Yes, since then.
+
+**Ms Kate Forbes**: Since then? Well, I haven't been Finance Secretary since towards the end of the pandemic so it's quite a difficult question for me to answer because I'm not in the throes of that direct engagement with the Treasury any more.
+
+**Lady Hallett**: But as Deputy First Minister, I mean, are you aware of improved communication, improved data sharing?
+
+**Ms Kate Forbes**: Well, I think that that one is one where I will -- I will struggle to answer, if you don't mind -- (overspeaking) --
+
+**Lady Hallett**: Well, I'm not going to push you. If you can't answer the question, you can't.
+
+**Ms Kate Forbes**: Thank you.
+
+**Lady Hallett**: I just want to pick up on one change, which is the old Finance Ministers Quadrilateral, which was a forum for engagement, we understand has been replaced by the Finance: Interministerial Standing Committee. I suspect somebody calls it "F:ISC". I don't know if they do, but that's what I'd call it.
+
+Had that change happened whilst you were still in your Treasury post?
+
+**Ms Kate Forbes**: Again, forgive me, I went on maternity leave in summer 2022, and that was prior to changes to the fiscal framework, and so forgive me for not being able to conclusively answer that.
+
+**Lady Hallett**: That's all right. So you can't help us as to whether that committee and the meetings it has are any better than the meetings that the quadrilateral used to have?
+
+**Ms Kate Forbes**: I'm afraid I can't answer that, no.
+
+**Lady Hallett**: All right.
+
+**Lady Hallett**: Do we have any information as to whether it's simply a change of name or if there's any change in substance? I appreciate Ms Forbes can't answer it, I just ...
+
+**Mr Wright**: Well, we have a corporate statement from the Treasury which sets out all the things it is said to do.
+
+**Lady Hallett**: Right, it's just that people do seem to like changing names without substance.
+
+**Mr Wright**: Yes, that's why I was rather wondering whether one set of meetings was any different to another, but anyway, we'll leave that there.
+
+Just to pick up on another example, because I said I'd give you a couple of examples that you can just perhaps comment upon, and I think this is the one that you've mentioned before about Omicron. You'd been asking the Chief Secretary to the Treasury, I think, as to whether additional funding might be granted and were told: no, there wouldn't be, and you should make decisions on the basis that there wouldn't be; is that right?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: And then, I think, it was 14 December as the First Minister was setting out the Scottish Government's Omicron support to business, you were told that 220 million was coming?
+
+**Ms Kate Forbes**: That's correct.
+
+**Lady Hallett**: And then that doubled to 440 million?
+
+**Ms Kate Forbes**: Within four days, yes.
+
+**Lady Hallett**: What practical difference would it have made if, on 1 December, when you pressed the Chief Secretary to the Treasury, he'd told you 440 million was coming as opposed to when you found out it was a few days later? And by practical difference, I don't mean it wouldn't have been as embarrassing having to stand up and say, "This is what we're doing" and then everything changed, I mean practically, in terms of actual delivery and -- of economic support, what difference would it have made?
+
+**Ms Kate Forbes**: I think it would have made three practical differences. The first may sound small but it's a big deal. For businesses who were extremely stressed and worried about the implications of the health interventions, they were constantly being met with changing goalposts.
+
+So the budget that we announced for business support was tailored to the pot of funding that we had available and not necessarily what we believed that they truly needed. That was then revised later on. That's stressful for a business that's told on one day something will be coming and then several days later, there's other funding.
+
+**Lady Hallett**: So, just breaking that down slightly, that's a sort of stress management issue for the individuals, but it's also an economic issue, is it, in the sense of it's about business confidence, it's about businesses being able to plan?
+
+**Ms Kate Forbes**: That's right, that's correct.
+
+**Lady Hallett**: Yes.
+
+**Ms Kate Forbes**: There are two other practical impacts. That £100 million was drawn from the Scottish Government's own funds. Now, I can't recall precisely where we redeployed it from, but it would have meant an equal and opposite reduction in other funds being spent by government. So obviously there would have been a -- this is not funding that sits in our bank account unallocated; it's allocated funding.
+
+The third is that in the budget meeting -- sorry, in the Cabinet meetings up to that point, the question around funding was very dominant in our conversations about responding to Omicron. Now, the First Minister was very clear and was consistent on this point throughout the pandemic: that we needed to respond to the health issues as they unfolded. But without furlough available during Omicron, that was a lot more challenging to do when you knew that there would be no funding available.
+
+So that clearly was an issue that Cabinet had to grapple with about causing economic harm without a means to mitigate that harm. And it therefore weighed heavily on Cabinet, and influenced the way that Cabinet approached it.
+
+So those are three examples, I think, that are quite practical.
+
+**Lady Hallett**: Okay thank you.
+
+Can I move on to a new topic, which is the Job Retention Scheme specifically and what I want to focus on, in terms of this scheme, is information sharing between the UK Government and the Scottish Government about design, implementation, and amendment of the scheme. And I'm going to ask if we could have up on the screen, please, INQ000655666.
+
+This is the statement of Liz Ditchburn, who is DG of Economy; is that right?
+
+**Ms Kate Forbes**: DG Economy, yes.
+
+**Lady Hallett**: Thank you. About halfway through -- thank you very much:
+
+"I did not see levels of consultation or engagement between the UK and Scottish Government on the CJRS that I would view as optimal. The impact of this was most detrimental to the Scottish Government's ability to mount an effective economic response with respect to review, amendment and cessation of these schemes."
+
+And it goes on about lack of knowledge and duration.
+
+**Ms Kate Forbes**: Mm.
+
+**Lady Hallett**: Can we break down CJRS a little bit. I mean, in terms of when it was stood up, it was stood up in about 55 hours, we've heard, from not existing to being announced, and then launched very quickly.
+
+Presumably you accept that at the inception point there was a need for absolute speed, and the UK Government acted with speed to stand up that scheme?
+
+**Ms Kate Forbes**: Completely.
+
+**Lady Hallett**: And so, given this criticism, would you say it would be unfair to apply that criticism to the standing up of CJRS?
+
+**Ms Kate Forbes**: Absolutely.
+
+**Lady Hallett**: Yes. Do you align yourself with that criticism, however, in terms of what then happened?
+
+**Ms Kate Forbes**: I would align myself with the sentiment of that statement because of the interplay between changes to the CJRS and the calls for the Scottish Government.
+
+Now, I think I've already outlined the fact it's clear that the UK Government themselves kept moving the goalposts precisely because of the uncertainty and the unpredictability of the pandemic. But I was not aware at any point of the Scottish Government's requests being taken into account in the amendment of the CJRS. And that becomes most obvious in October 2020.
+
+So when the Scottish Government implemented additional restrictions in the middle of October 2020, we actually introduced our own furlough support scheme on the basis that we'd been told unequivocally by the UK Government that there'd be no extension to CJRS.
+
+Now, on 31 October, as you will know, it's then extended until December.
+
+**Lady Hallett**: Can I just cut in there? I mean, someone can't tell you something if they don't know it themselves. So if the government in the United Kingdom didn't know it was going to extend the scheme, how can they tell you about it?
+
+**Ms Kate Forbes**: So that is true, but your original question was do I believe that the CJRS was response -- or the UK Government was responsive to questions or amendments that we requested, and I'm saying no.
+
+**Lady Hallett**: Yes, but if you're requesting something that at the time somebody doesn't think is necessary, they're entitled to say "no" do you, aren't they?
+
+**Ms Kate Forbes**: They are.
+
+**Lady Hallett**: The fact that they don't do what you say doesn't mean they're not listening to what you're saying?
+
+**Ms Kate Forbes**: But if I'm saying it on the basis of rapidly rising infections in Scotland and Wales, if the First Minister of Wales, Mark Drakeford, is actually going the extent of saying, "We will fund it, we will run it, but we cannot do it without your help", and the Scottish Government is saying, "Such is our concern, that we are going to introduce additional restrictions, and such is our concern about the economic harm, we're actually designing our own scheme", is it not a much better use of money, time, and resources for the Treasury to recognise what both governments are saying, and to at least give due consideration to extending it?
+
+Extending it on the eve of an England-only lockdown, after declining to extend it when both the Welsh Government and the Scottish Government requested it, does, I think, give evidence as to why I'm sympathetic to that statement by Liz Ditchburn.
+
+**Mr Wright**: All right, thank you.
+
+My Lady, I think it's time for the break.
+
+**Lady Hallett**: Certainly.
+
+As you remember, Ms Forbes, we have regular beaks. But I promise you we will finish your evidence, probably, I hope, by about noon.
+
+**The Witness**: Great. Thank you.
+
+**Lady Hallett**: I shall return at 11.30.
+
+*(11.14 am)*
+
+*(A short break)*
+
+*(11.31 am)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: Back to CJRS and the ability of the Scottish Government to interact with the UK Government on whether it should be extended, how it should be evolved over its life.
+
+There was obviously a decision not to extend the scheme, ultimately, and I think the Scottish Government position was that you wanted it to be extended because of the threat of Omicron, and then reintroduced; is that right?
+
+**Ms Kate Forbes**: I believe so, yeah.
+
+**Lady Hallett**: Now, rather than looking at this or asking you to look at it in terms of, obviously what you wanted didn't happen and therefore you say that wasn't constructive engagement, but going forwards, if we're in the same position again and there was a similar scheme, first of all, do you accept that if there are multiple potential decision makers, people may disagree about what is necessary?
+
+**Ms Kate Forbes**: I completely agree.
+
+**Lady Hallett**: And they may disagree about what is necessary particularly in a dynamic, pandemic-type environment?
+
+**Ms Kate Forbes**: I agree.
+
+**Lady Hallett**: And so rather than picking over CJRS and what did or didn't go well, what would be different next time? How should you engage in a future scheme? What would you change?
+
+**Ms Kate Forbes**: So could I suggest three things: one is -- you put to me that sometimes people disagree, and I think that's accepted. I think in the October example, the issue was we all disagreed until it was affecting English infections, so that's the point in the October scenario, and so ultimately it was extended, so ultimately, when the devolved governments asked for it to be extended it wasn't, but it was done so at a later date.
+
+So the learning from that is a more responsive approach in a health pandemic, that the economic interventions should follow the health issues, so where infections were rising, that should have triggered an extension, not at the point at which infections were rising in England.
+
+So if you're taking a health-first approach, you monitor where the infections are rising.
+
+The second point is that -- and I think it's Alyson Stafford that references this as well -- under HMRC, there is an indicator for Scottish taxpayers, so it's marked with an "S". So it is easier to identify within HMRC data, probably to a greater extent than for Wales and Northern Ireland, where Scottish taxpayers, who Scottish taxpayers are. So bearing in mind your point that CJRS was stood up within 55 hours, I think you said, I completely agree at the beginning there wasn't the operational capacity to do something distinct. But as Covid progressed, there could have been, perhaps, capacity to do something distinct.
+
+So I think that would be the second point, that in a future pandemic, you might want to look at whether there was something that could be run for Scotland instead.
+
+And I think the third point is where there are alternatives to CJRS, so I was always struck that, repeating Mark Drakeford's evidence, I recall the appetite from Wales to essentially run their own scheme but not having the operational capacity to run their own scheme. So you could suggest that there is an operational capacity for each devolved government to do their own thing, which they might have to fund, as well, but to do their own thing if they believed it necessary to do their own thing.
+
+**Lady Hallett**: On an economic argument, looking at the UK economy as a whole, wouldn't having the devolved nations running different furlough schemes that might not be running in England have the potential to be quite damaging economically, when you think about the supply chain and how integrated the supply chain is, and how there might be, therefore, a significant effect, and an employer in Berwick-on-Tweed can't furlough their worker, but one just north of the border can? I mean, how would that work?
+
+**Ms Kate Forbes**: Well, if we take the learning from the pandemic, there was, obviously, over the course of the pandemic, an increasing need to take a more targeted localised approach, for the very purpose of protecting the economy.
+
+So, in Scotland, we introduced local authority level restrictions. Now, that meant you were essentially trying to support as much of the economy as possible to remain open, whilst dealing with a targeted intervention. So I actually think the pandemic illustrates the value of more localised interventions in protecting the economy, so that as much of the economy as possible could actually operate.
+
+**Lady Hallett**: Can I move on to another topic, which is support for the self-employed.
+
+**Ms Kate Forbes**: Mm.
+
+**Lady Hallett**: And in particular, the Newly Self-Employed Hardship Fund that the Scottish Government established. I just really want to drill down into the strategy and design of that.
+
+Now, we've heard evidence that, in England, the newly self-employed were excluded from the Self-Employment Income Support Scheme because of the lag in filing a tax return and the year that had to be taken as the baseline year for a tax return.
+
+**Ms Kate Forbes**: Yeah.
+
+**Lady Hallett**: And we know or understand that in Scotland, you did introduce bespoke support for the newly self-employed: round 1, a grant of £2,000 in April 2020; and then a second grant, February 2021, I think, of £4,000.
+
+So that was a distinction in terms of Scotland and England.
+
+Now, the decision to try and do something for the newly self-employed is a policy decision; do you agree?
+
+**Ms Kate Forbes**: I do.
+
+**Lady Hallett**: As a matter of policy, we want to try to help this group of people. And we've heard evidence that in England, from a policy perspective, there was a desire to try to help that group of people. But equally, there were operational difficulties that were considered to prevent helping that group of people, given the level of risk of fraud, error, that was involved, and the practicality of implementing that sort of scheme.
+
+So it wasn't a divergence of policy; it was, do you accept, a difference in approach to whether that operational risk could be borne or not?
+
+**Ms Kate Forbes**: I think, certainly from my perspective, it illustrates the value of a devolved approach, and tailoring schemes to groups of people that felt excluded, and we could only do that when we were able to operationally. So I can't speak for the other governments, but you're absolutely right in saying that, for us, it wasn't just a policy desire; it was also being able to operationally deliver that.
+
+**Lady Hallett**: But wasn't it more than that? It was you were willing to deliver that operationally by taking risks that the UK Government, in England, was not willing to take in terms of combatting fraud, error, and being able to do the processing reliably.
+
+**Ms Kate Forbes**: I can't speak for why the UK Government made decisions or didn't make decisions. I know from our perspective, we were very conscious of fraud and risk. So, I believe that the operational approach that we took, whilst accepting that for some schemes, particularly the newly self-employed, the fraud risk might be higher, we were able to build in some controls and deliver the scheme.
+
+And you'll note that, in light of the question around fraud and error, of the £34 million that was allocated, only £11 million was actually spent. So I do believe we were able to manage that level of fraud and risk.
+
+**Lady Hallett**: Playing devil's advocate, another view of that is there wasn't actually a great pressing need for the support, because you allocated 34 million and only 11 million was -- was drawn. So it was taking a lot of time, presumably, to develop and administer that scheme for minimal benefit, to a very small group of people. I mean, that's the alternative view, isn't it?
+
+**Ms Kate Forbes**: So I have some sympathy with your devil's advocate position throughout the pandemic, because often the noise, either within Parliament or in the media, about particular sectors of the economy, did not marry with the reality of those who were struggling or suffering.
+
+So the approach I very intentionally took, as Finance Secretary, from the outset, was to try to free up funding to support those that were excluded or falling through the cracks. The newly self-employed was part of the first grouping of interventions, funds that we identified for those that had been identified as being left behind. And we put that funding in place. But you'll note from what happens later, in subsequent weeks, we very quickly discovered that if the newly self-employed scheme was significantly underfunded -- underspent, sorry, there was another scheme, the Pivotal Enterprise Resilience Fund, that we essentially tripled, because the demand was much greater than the funding that was allocated.
+
+So we were able to move funding between those schemes that were underspent to those schemes where the demand was considerably higher than we expected.
+
+**Lady Hallett**: But I'm just wondering if, notwithstanding that you could move the funds, it really demonstrates that it was a scheme that was poorly targeted. In other words, it was a scheme that was stood up that provided minimal support, and took time, presumably, to implement, and took risks?
+
+**Ms Kate Forbes**: Yeah, I mean, you know, Audit Scotland's review, I think, of fraud and risk throughout, gives me quite significant comfort, because they believed our estimate of fraud of between 1 and 2% across all the schemes was not unreasonable. So we definitely took steps to manage fraud and risk, but in light of quite significant concerns being identified about those who were left behind or excluded or fallen through of the cracks, I made a very intentional across to try and provide some funding.
+
+I think, also in terms of equalities assessments, those that were -- that are self-employed, we did subsequent equalities impact assessments, and found that, you know, there is some correlation between those who were newly self-employed and other equalities metrics.
+
+So I still think it was the right thing to do but it perhaps revealed a bigger issue, which is, in my evidence, around the data around businesses.
+
+**Lady Hallett**: Didn't Audit Scotland also say that a complete analysis of how funding had been used to support businesses remained difficult?
+
+**Ms Kate Forbes**: I think that it's fair to say that throughout, tracking funding at every point was very difficult, because of the way in which some funds that were announced that underspent were then redeployed into other funds and then also the fact that consequential funding was being announced, some of which we had already factored in. So I do think that tracking funding throughout, we did our level best, I did my level best, to try to be transparent and open, but the speed of the response, I think, made it difficult to track.
+
+**Lady Hallett**: I mean, wasn't it the case, for example, with the Newly Self-Employed Hardship Fund, that was administered by local authorities?
+
+**Ms Kate Forbes**: That's right.
+
+**Lady Hallett**: The application was essentially a tick-box self-certification that the applicant met the eligibility criteria; is that right?
+
+**Ms Kate Forbes**: That's right, yeah.
+
+**Lady Hallett**: And taking that forward in terms of monitoring, I mean accepting what you say about you doing your best to be open and transparent, there was a decision by the Scottish Government, wasn't there, effectively of light-touch monitoring of the local authorities, which is what led to Audit Scotland saying complete analysis of how that funding was actually used remains difficult, because you might have been open and transparent, but you were giving the responsibility to local authorities, and then deciding to monitor them in a very limited way?
+
+**Ms Kate Forbes**: Yeah, and I will claim full responsibility of a very intentional approach to minimise reporting responsibilities on councils in the first six months of the pandemic. During those first six months, local authorities were responsible for distributing multi-billion pounds' worth of funding, and the notion, at speed, the notion that I would have required half of them, let's say, to do the reporting, whilst businesses were in dire need of getting the funding quickly, was not something I was comfortable with.
+
+However, we retrospectively did monitor and there were reporting requirements on local authorities, and from early spring 2021 those figures were published on a regular basis for Parliament. But in the first six months, it was a very intentional decision to take that we would not lumber unnecessary reporting requirements on the same people who were, to be perfectly honest, working from dawn to dusk to distribute funding to businesses in need.
+
+**Lady Hallett**: I'm sure that's right, but wasn't the consequence of that that you couldn't really monitor or evaluate in real time, whether, like with the newly self-employed grant, it was hitting the target? Because if you're not getting the data back from local authorities, if you're not monitoring how they're doing, how are you meant to know whether the support you're offering and the money you're spending is actually getting to the right place?
+
+**Ms Kate Forbes**: Well, in terms of those first schemes, those were managed by the Local Government Finance Team in the Scottish Government. So they already had the very close relationships with local authorities. So they already -- they had close relationships with basically the Revenue and tax collecting officials within all local authorities. So I would suggest that the evidence coming back to us in real time was very helpful, and it was the only way in which I could then redeploy, for example, funding from the Newly Self-Employed Hardship Fund to other schemes.
+
+So that feedback loop may have been more qualitative than would otherwise have been the case if it was only reporting the data, but we had a very clear grasp on the data as well, and again, it's one area where I am very confident that we had -- we worked with local authorities hand-in-glove to get that real-time data back and try and redeploy funding as quickly as possible.
+
+**Lady Hallett**: Can I pick up on the local authorities theme in terms of clarity and certainty of funding.
+
+**Ms Kate Forbes**: Yeah.
+
+**Lady Hallett**: I'm just going to ask that we put up INQ000657855.
+
+And I'd like paragraph 2.26, which I believe is on page 9.
+
+"I don't remember where the" --
+
+Sorry, I should say this is Sir Jonathan Belford, Chief Officer, Finance, for Aberdeen City Council:
+
+"I don't remember where the starting point for data collection was, but it was clear that data was needed and a small group of COSLA, Scottish Government and Director of Finance representatives discussed this from an early stage. I would say that the process was iterative, there was an initial collection of cost pressure estimates, based on mobilisation and other costs, such as lost income, as well as savings. It was early in the financial year, limited amounts of accurate cost information were only just coming through the financial systems ..."
+
+And if we just go over the page, it talks about data collection.
+
+And then the next paragraph, 2.27, please.
+
+"I do accept that funding that the Scottish Government was distributing was based on what they were receiving, but it was frustrating at times when there were gaps between the value received and ... our understanding of ... how much had been committed to funding schemes by the Scottish Government. If I remember correctly this lack of transparency made it difficult to interpret or understand what was still being considered for distribution. The frustration arose from the void of information and left Local Authorities (and I expect other sectors) questioning if they were going to be supported to the level that was necessary or not."
+
+I mean, do you accept that there was a lack of transparency as between the Scottish Government and local authorities as to how much money they were going to receive and when they were going to get it?
+
+**Ms Kate Forbes**: I have quite a degree of sympathy with that position. I think its important to distinguish between funding directly for local authorities, so the loss of income point is a question of funding for the operations of local authorities. And that's very different, I think, from what this paragraph is saying about the funding schemes for business that went through local authorities. I think this accusation or this -- this characterisation is probably fair for both of them, but there was different approaches taken, for example, for the operational challenges of local authorities where we did undergo a process where I needed to know what their actual loss of income was, and we -- I commissioned that jointly with -- with COSLA, the [Convention] of Scottish Local Authorities. That was about how they continued to operate.
+
+Then secondly, on the business funding schemes, I think there was a general sense of frustration that businesses wanted to know whether there would be funding available for them, and I was often able to announce new funding schemes because of information we were receiving that wasn't yet in the public domain about some schemes being underspent. So I was able to redeploy that funding quite quickly in order to stand up new schemes and distribute more funding. But that was obviously not available to the public, and I think that was a frustration which -- it was just difficult to manage. The snapshots were often out of date within days.
+
+**Lady Hallett**: So things were moving very, very quickly?
+
+**Ms Kate Forbes**: Yeah.
+
+**Lady Hallett**: This was a fast-moving pandemic, circumstances were changing, so on and so forth. And so that -- that contributes to that.
+
+But do you accept that this, really, on a local authority to Scottish Government level, sounds very similar to the complaint you've been making about the UK Government, and that the UK Government's explanation for those difficulties is almost exactly the same as the explanation you've just given for not being able to give local authorities that certainty? This was a pandemic, things were moving quickly, and it just wasn't possible?
+
+**Ms Kate Forbes**: So let me unequivocally say that I agree that in a pandemic, things move very quickly. In terms of local government, I was very conscious from an early stage that they were on the frontline. So I would strongly argue that the level of engagement, particularly between officials and local government officials, was some of the closest across government because they were the delivery arm of the announcements that we made.
+
+Now, I had number of meetings with the COSLA spokesperson for finance, Gail Macgregor, and she frequently put that criticism to me: that they wanted as much notice as possible, and we certainly sought to give it, but at the time I think that we gave sufficient funding flexibility to local government for their own operational needs.
+
+The criticism was largely on announcements of funding, which then they were required to distribute, and not having clarity over where the funding was going to come from.
+
+**Lady Hallett**: Really what I would like you to address is how this is any different to the situation as between the Scottish Government and the UK Government?
+
+**Ms Kate Forbes**: I think it's --
+
+**Lady Hallett**: Isn't it exactly the same problem, just amplified in terms of the sums of money and the governments involved?
+
+**Ms Kate Forbes**: So I think there is a common theme, and I will accept that there is a common theme of all levels of government dealing with uncertainty. However, with local government, I think that the level of engagement was extremely close, and I think that the point I made around our local government finance officials and the Scottish Government leading in the first business funds, proves the point that they were already working hand in glove with officials.
+
+Now, I don't recall any similar co-working between the UK Government and the Scottish Government, but I think that the point that you're making is one I would accept: that the level of uncertainty throughout was extremely difficult to manage.
+
+**Lady Hallett**: But accepting that there was this close working, as you've described, notwithstanding that close working, that's still the impression, that there was a lack of transparency and a lack of certainty. So it might make everybody feel very valued and might make everybody feel better about themselves that everybody is talking to each other, but it doesn't actually change the fundamental problem, does it, which is that in a fast-moving scenario, you can't offer more certainty?
+
+**Ms Kate Forbes**: Where we -- I want to agree with you as much as I can, but I --
+
+**Lady Hallett**: I am happy for you to disagree.
+
+**Ms Kate Forbes**: -- but I think on these examples there is a fundamental difference. So if you take the questions around the individual inputs in the paper around the operation of funding, I mean, we literally underwent jointly an analysis of lost income by local government, which then I provided funding for.
+
+So I think it's very different, I don't recall anything like that happening between the Scottish Government and the UK Government. So I think we were able to work closely, close together. I think everybody would have liked more certainty in a very uncertain period, but with local government in particular, I think we did try and co-design, for want of a better cliché, co-design interventions that actually helped local government in the way that they needed assistance.
+
+**Lady Hallett**: I think I've probably got time to ask you one more very short question, on the subject of data. You'll be pleased to know that that's where I'm ending my questioning.
+
+I think there was a desire by the Scottish Government to have greater access to, for example, HMRC data. And because I'm limited for time and have to give way to a Core Participant, I'll just ask you in this way: are you aware of improvements in data sharing that arose as a result of those deficiencies in data-sharing capability being identified?
+
+**Ms Kate Forbes**: So two answers. On data generally about the economy, there was huge improvements over the course of the pandemic. So the level of data sharing around the economic analysis was really good.
+
+In terms of HMRC, I know that you had Sir James Harra, I think yesterday, and there was questions around data sharing with HMRC, I think I was reviewing the furlough support scheme package paper that was produced for the Scottish Government on 19 October 2020, and that talks about the engagement with HMRC. And it explicitly says in paragraph 34 that our understanding from HMRC was that there was no existing legal or technical gateway for this information to be shared, and that secondly, there would be potentially significant change and administration costs for HMRC to put in place arrangements if these could be agreed.
+
+Since then, there is now, after Module 1 report, there is, I think, improved mechanisms by which the Scottish Government and the UK Government can access data, the key will be to test those and apply them directly to HMRC. Can we do that directly with HMRC? And that is still, I think, an area that needs to be tested.
+
+**Mr Wright**: Right. Thank you very much.
+
+Those are my questions, my Lady, I think there is a --
+
+**Lady Hallett**: There's one, thank you, Mr Wright.
+
+Ms Hannett.
+
+Ms Hannett is just there.
+
+Questions From Ms Hannett KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Hannett**: Thank you, my Lady.
+
+Ms Forbes, I appear on behalf of the Long Covid Groups. Did you or the Scottish Government consider the potential for a significant proportion of the workforce being on extended sick leave or unable to work due to Long Covid?
+
+**Ms Kate Forbes**: I think we certainly became increasingly aware of the impact on Long Covid, and although I'm here in my capacity as Cabinet Secretary for Finance, I think my first awareness of the impact of Long Covid on the workforce was actually in a constituency capacity, where constituents were raising with me their concerns.
+
+Predominantly through government, we saw it as a -- as a health issue rather than an economic issue, I would say, particularly in those early years. There's since been some analysis led by the Scottish Government and actually the Scottish Parliament committee on the way in which Long Covid is part of the economically inactive figures, but I think in those early years, it was predominantly dealt with by the health directorate rather than the economy directorate.
+
+**Ms Hannett**: Thank you, my Lady.
+
+**Lady Hallett**: Thank you, Ms Hannett.
+
+That completes the questions we have for you, Ms Forbes. You may be glad to hear that's the last demand we're going to make of you to give evidence -- or at I hope it is. It's certainly the last time we're going to ask you to come and give evidence and make a witness statement, so thank you very much for all the help you've given to the Inquiry. I appreciate how busy you must be and I wish you a safe journey back to Scotland.
+
+**The Witness**: Thank you very much.
+
+**Lady Hallett**: Ms Dhanoa.
+
+**Ms Dhanoa**: My Lady, may I please call the next witness, Lady Diane Dodds.
+
+Lady Dodds
+----------
+
+*LADY DIANE DODDS (sworn).*
+
+**Lady Hallett**: Thank you for coming to help the Inquiry again, Lady Dodds.
+
+**The Witness**: No problem.
+
+Excuse me, I have a cold.
+
+**Lady Hallett**: There's plenty of water there, and tissues if you need them.
+
+**The Witness**: Thank you.
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Dhanoa**: Lady Dodds, you've provided a witness statement for this module of the Inquiry dated 17 September 2025, with reference number INQ000655659; is that correct?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And can you please confirm that the statement is true to the best of your knowledge and belief.
+
+**Lady Dodds**: I confirm.
+
+**Counsel Inquiry**: Lady Dodds, you were the Minister for the Economy in the Northern Ireland Executive from 11 January 2020 to 13 June 2021; is that correct?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And it's correct that the Northern Ireland Executive is a coalition government and each of its nine Executive departments, of which the Department for the Economy is one, is a separate legal entity?
+
+**Lady Dodds**: That is correct.
+
+**Counsel Inquiry**: Lady Dodds, I'm going to first look at funding available to the Department for the Economy, or the Northern Ireland Executive as a whole, to support the economic response.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And the Inquiry understands that the Minister for Finance, Conor Murphy, was responsible not only for funding but also engaging with HM Treasury. But I want to seek your views on some aspects of funding more broadly, if that's okay?
+
+**Lady Dodds**: Yeah, mm-hm.
+
+**Counsel Inquiry**: So is it correct that during the pandemic, Northern Ireland was predominantly funded through an allocation from the block grant which is based on the Barnett formula?
+
+**Lady Dodds**: Yes, that's right.
+
+**Counsel Inquiry**: Is it also correct that one of the ways in which Northern Ireland can also raise funds is via a United Kingdom Reserve, which is effectively a reserve of last resort? Are you aware of that?
+
+**Lady Dodds**: Yes, I am.
+
+**Counsel Inquiry**: And to the extent that you are aware, did Northern Ireland make a claim on the UK Reserve during the pandemic?
+
+**Lady Dodds**: Not that I'm aware.
+
+**Counsel Inquiry**: Steve Barclay, the former Chief Secretary to HM Treasury, gave evidence to the Inquiry yesterday and he was asked whether he accepted whether there was a difficulty for the devolved administrations in terms of their planning, their planning expenditure, and therefore their ultimate response before the introduction of the Barnett guarantee, and he said that the difficulty was probably less than it was for English departments.
+
+In part, he said that was because the starting point for the Barnett formula was more advantageous to the devolved administrations, in particular Northern Ireland received 129% of funding compared to England.
+
+He also referenced the Confidence and Supply Agreement which enabled Northern Ireland to receive additional funding on top of the Barnett funding. And he considered that the devolved administrations, and Northern Ireland in particular, received greater funding per head of population than England.
+
+Do you agree with that, as a premise?
+
+**Lady Dodds**: Well, I suppose we need to maybe separate that out a little bit. So Northern Ireland received the Barnett funding, but the funding from the Confidence and Supply Agreement was very specifically earmarked for particular projects. So for example, the introduction of multidisciplinary teams in the health service actually came, the initial funding for that actually came from the Confidence and Supply Agreement.
+
+The fund for -- let me see, the funding for, for example, Project Stratum, which was actually worked on and introduced by my department during the pandemic. But Project Stratum was about expanding broadband so that Northern Ireland had total coverage of broadband, and that was important. It didn't have so much impact during the pandemic, but it was important, and it has been really important to the economy since then.
+
+So the Confidence and Supply money was very much broken down. It wasn't free to be used as a response to the pandemic. It was very much allocated to particular pots of money.
+
+**Counsel Inquiry**: So to summarise, the funding that came from the Confidence and Supply Agreement, in your view, was less impactful?
+
+**Lady Dodds**: Well, it was -- well, it has been very impactful, but it was for issues that, so for example, the multidisciplinary teams. And I'm sure you've heard long hours of evidence about GP surgeries, whether they were open or not open. So we could talk about that, but, for example, Project Stratum now means that Northern Ireland is the best connected region in Europe.
+
+So, but -- so while it, in its initial stages, helped a little bit -- but it wasn't free to be used for schemes that might help the economy during the pandemic, as a response to the pandemic. Probably.
+
+**Counsel Inquiry**: And do you agree, just going back to what I had mentioned, I appreciate in the long passage that I cited to you, that Northern Ireland received greater funding per head of the population than in England?
+
+**Lady Dodds**: Well, if we -- so the Barnett funding has changed. So it was population-based, and then Northern Ireland had a top-up. Northern Ireland has since renegotiated that Barnett formula because there was some recognition in terms of the needs in Northern Ireland, given the history, et cetera, et cetera, that Northern Ireland needed a funding formula based on need. So we now have an interim funding settlement for Northern Ireland based on 124%. Some financial experts think that should be at around 127.
+
+So we have a better settlement now than we did have, but don't forget, Northern Ireland is really an economy and a society emerging from deep problems.
+
+**Counsel Inquiry**: Just moving to look at the funding that was provided by way of Barnett consequentials, you set out in your statement at paragraph 10 that the way funding was provided by Barnett consequentials meant that it was not always known what funds would be made available, and that forward knowledge of funding allocations would have assisted planning.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: Is that how you felt at the time?
+
+**Lady Dodds**: Yes. And I think that hindsight is a wonderful thing, of course, but when we look back, we will see that, for example, in the initial response phase, so those grant phases in Northern Ireland, what we talk about the 10K grant and 25K grant to business, so in that initial response phase. But we didn't have any security of funding, and I think that does help. And it's about the funding but it's also about the planning for funding, so that funding is directed to where it is most needed, and to those businesses that are most likely to fail, or are most fragile within that context.
+
+**Counsel Inquiry**: Yes, Lady Dodds, I was about to come on to the impact of the Barnett consequential funding and the timing of that funding in particular on specific schemes that the Department for the Economy was responsible for?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: If we can just bring up paragraph 10 of your statement.
+
+INQ000655659, paragraph 34, apologies, page 10. That refers to what you were just alluding to, which was in relation to the timing and the impact of the funding that becomes available.
+
+So here, you reference about halfway down the paragraph, the funding allocations that made --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- the first -- the £10,000 and the £25,000 business support schemes possible, the funding allowed the formation of those.
+
+**Lady Dodds**: Mm.
+
+**Counsel Inquiry**: Then you go on to say:
+
+"This did mean that it was not possible to develop Northern Ireland policy in advance of decisions being taken in Westminster. Once we were aware of funding becoming available the time available for development and roll-out was short as it was important to get support schemes operational as soon as possible."
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: So although helpful to have that funding in place to be able to develop schemes of this kind, it meant that operationally, the time to do so was limited?
+
+**Lady Dodds**: Yeah, I think the other pressure in terms of schemes, particularly at the start of the pandemic, was the need to get an economic response out as quickly as possible, and there was a lot of pressure to get an economic response out as quickly as possible.
+
+And in some of the evidence that I've been reviewing, colleagues in the Department for the Economy make the point very, very clearly that while pandemic modelling had been modelled on health, it had assumed a business-as-usual approach in terms of the economy, so therefore we were really putting out -- doing schemes almost in real time in response to a pandemic that we didn't know how it was going to progress, and how long it was going to be.
+
+And that was quite difficult and significant.
+
+**Counsel Inquiry**: If we could look at paragraph 36 on the next page, page 11 of your statement, you provide another example of delay, of the delay as we've already discussed, which was in relation to a different scheme --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- the Newly Self-Employed Support Scheme, and that was only announced on 3 December as it says, and again you reference that early confirmation of funding would have allowed better planning, particularly in relation to that specific support for targeted groups as the newly self-employed scheme set out to do?
+
+**Lady Dodds**: I think that aspect of the pandemic and our response to it was a little bit different to the early part of the pandemic. And we had more surety of funding at that stage in the pandemic, but what we didn't have was -- or sorry, what we had was also two schemes that had been put in place: the Covid business support schemes and the local one. So one run by the Department of Finance, one run by the Department for the Economy, and they were much more broad-spectrum schemes, and at that stage, that allowed us, then, to focus in more narrowly on people who, for whatever reason, had not received help so far.
+
+So I think it was a slightly -- I think I look at it in two stages, and I think it's slightly different in both of those.
+
+**Counsel Inquiry**: And that's perhaps because, by that point, December 2020, the Barnett guarantee funding had come into force?
+
+**Lady Dodds**: So, a couple of things, really, to say about the Barnett guarantee. Northern Ireland, as you referenced, is very particular in that each of the departments is its own legal entity, et cetera. And therefore, all of those issues would have been dealt with by the Finance Minister. All schemes in Northern Ireland had to have, therefore, the agreement of the Finance Minister and then the agreement of the Executive, so that we did have broad agreement across that, but the guarantee -- I have been thinking about this, and I cannot remember a specific conversation about the guarantee, other than that we had more surety of the support that we were going to get.
+
+**Counsel Inquiry**: So once the Barnett guarantee was in place, were you of the view that it allowed, effectively, a better opportunity to be able to prepare for the economic response?
+
+**Lady Dodds**: Well, it -- it gave a floor, if -- if you understand what I mean, to what we were doing. But remember, in that October, November period, we had an increasing number of Covid cases. We had increasing lockdowns. And therefore -- and at the same time, we also had a number of occasions when that guarantee was increased significantly to deal with the problems that we had.
+
+So we had a kind of a floor to work from, but we also then needed additional funding to respond in real time to the health needs that were in front of us and then the needs of the economy to be supported in order so that people, you know, would have jobs and businesses to go back to.
+
+**Counsel Inquiry**: And the funding provided by way of the Barnett guarantee, is that something that you would like to see repeated in a future emergency?
+
+**Lady Dodds**: I think that we do need some kind of response that allows us to plan more significantly than we did.
+
+I don't think anyone could have foreseen the pandemic and the way that the pandemic happened and played out. It was one of those incredible times to be in government. But -- so we will need something that actually gives us some sense of where we -- we will be, in terms of funding. And then we will also need, if it is -- if it is a need, the response as well.
+
+So I think that if you are going to plan for a future pandemic, you will need to be able to have some kind of surety of where your funding comes from, when it's going to come, and will it come at a time when you most need it.
+
+**Counsel Inquiry**: And I think in your statement itself you actually suggest a potential sort of recommendation in terms of funding which may link with what you've just said.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: You said one other option might be that Northern Ireland should have access to a fund that could be accessed in emergency situations without needing to wait for Barnett funding.
+
+**Lady Dodds**: Yes, yes. So some mechanism to respond more immediately and directly.
+
+I do think that there was -- when -- when funding came, we had enough funding, but it was the ability to plan that funding, respond -- and respond to the health needs, so it was kind of a two-pronged issue that we needed to be able to deal with.
+
+**Counsel Inquiry**: Aside from the Barnett guarantee, Northern Ireland also had the flexibility to carry forward --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- £2.1 billion of funding for the year '21 to the year '21/'22. Did you see that as a welcome development at the time?
+
+**Lady Dodds**: Yes. And that actually allowed us to not only continue with the support, but it allowed us actually to do some things that were useful for the economy in terms of recovery. So some very specific sectors that had been very, very badly hit by the pandemic, and the need for closure, that was really important.
+
+A good example of that is, prior to 2019, tourism had become quite a major contributor to the economy. So obviously Covid closed all of that down, lack of travel, et cetera, et cetera, but what -- actually we were able to put a Tourism Recovery Action Plan in place, which helped us to actually recover tourism. So that we could decide which markets we were going to target more carefully, we could devote more money to targeting those markets.
+
+And a good -- really good example of that was we increased the a number of visitors from the south of Ireland into Northern Ireland, because we obviously weren't going to get visitors from overseas. So it's those kind of things that it allowed us to put in place.
+
+**Counsel Inquiry**: Another suggestion or recommendation that's been made that I want to get your view on is that which has been made by Ian Snowden, and he was the Chief Executive of Land and Property Services in the Department of Finance during the pandemic?
+
+**Lady Dodds**: Yes, yes.
+
+**Counsel Inquiry**: And he recommends that it would be beneficial for HM Treasury to discuss and jointly agree an approach to emergency funding with devolved administrations in advance of any future event?
+
+In your view, is that something that was missing during the pandemic, and would be a welcome recommendation in future, to be able to have those discussions about what emergency funding would look like?
+
+**Lady Dodds**: I think that we will need some kind of discussion around this. Obviously I haven't been in the Northern Ireland Executive since 2021 and I am not sure whether some of those discussions may or may not have taken place, but there certainly does need to be pandemic planning for the future that is not just about health but that is also about the impact on the economy, the impact on employment, the impact on long-term unemployment that -- that some of it has caused.
+
+And I think that we should understand from what has happened, and learn lessons, and understand from the data that we now have, how that should work better for the future.
+
+**Counsel Inquiry**: David Phillips, the Inquiry's expert on devolved funding, also makes some suggestions about potential temporary changes to rules during future crises. And one particular suggestion that he sets out in his report is that there should be some combination of relaxed borrowing rules and funding guarantees should be rapidly introduced in a future major fiscal shock where spending decisions are likely to have to be taken quite quickly.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: Do you consider that to be a recommendation that you can see would be worthwhile in future?
+
+**Lady Dodds**: I can see it would be worthwhile. I say it with the caveat that I was the Economy Minister, not the Finance Minister, and therefore the deep implications of that are difficult for me to assess for you at this moment in time. But as an Economy Minister, wanting to plan for the protection of the economy, the recovery of the economy, it is really important that you understand where the money is going to come from and how it's going to come, in order to do that. If that makes sense.
+
+**Counsel Inquiry**: Yes, thank you.
+
+One point I just want to look at now which we've touched on is the position that the Department of Finance was in, in relation to its responsibility regarding funding and its engagement with HM Treasury. And you touch on this in your statement in particular, and you say that:
+
+"... direct access, where possible, is always better."
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And you said:
+
+"We were making policy decisions in an emergency situation and doing this at one step removed was always going to be difficult."
+
+From that, did you mean that perhaps having direct contact between the Department for the Economy and HM Treasury would have been helpful at the time?
+
+**Lady Dodds**: It potentially would have been helpful. I think that one of the problems that we all experienced was the lack of information. So we had copious meetings. Those were not, at times, the most productive meetings. I think, at best, you could say they were information gathering. They were certainly not decision making.
+
+But our meetings were always very -- with the department that we were most connected with. So mine would have been with the BEIS. They would -- Finance would always have connected with Treasury.
+
+And getting the crossover or the nuances might have been more helpful, yes.
+
+**Counsel Inquiry**: Yes. And we'll come on to look at that engagement --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- that you had with the former Business, Energy & Industrial Strategy Department.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: I want to now, before moving on to look at particular schemes that the Department for the Economy was responsible for establishing, the sort of framework that the Department for the Economy used in terms of rolling out its economic response, and it's correct that the economic response was guided by what was known as the Covid-19 strategic objectives, and that -- and they comprised of four stages?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: Could you just explain what those stages were and how they guided the economic response?
+
+**Lady Dodds**: So those stages were a response. So we were immediately trying to get support to businesses. Then they were about restarting. Then they were about recovery and renewal. So recovery and renewal would really have been the issues that I've described around trying to recover the tourism and hospitality, particularly targeting them, and the renewal would have been our work on long-term strategies for the economy, like the 10x Economy document, the Skills Strategy, Project Stratum, the kind of things that would help build a new economy.
+
+**Counsel Inquiry**: Did you find that having those clear objectives, guiding the response was helpful --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- and do you see that as if it were implemented in any future emergency, it would be helpful in a similar way? Or would you recommend any change to that?
+
+**Lady Dodds**: No, I think it is helpful. I'm kind of -- the kind of person who works better with a direction and a goal, and I think that having and understanding what you're trying to do. Now, it wasn't always perfect, because at times we had to respond when we thought, by the autumn of 2020, we would be in a more stable position, so we found ourselves again having to respond.
+
+But by the autumn of 2020 I think we had got much better at dealing with the supports for business, and therefore it allowed us to do other things.
+
+So there was a lot of learning in a very, very short space of time.
+
+**Counsel Inquiry**: You touched on earlier that for each scheme, the Northern Ireland Executive had to be informed?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And the Department of Finance had to make the decision about funding those particular schemes.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And so it -- you had mentioned that although each department within the Northern Ireland Executive operates as a separate legal entity --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- there was in fact the collaboration of that kind, where decisions about the schemes that were going to be established were in fact -- the Northern Ireland Executive was sighted on those?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And had to have -- or had to agree on what was being decided?
+
+**Lady Dodds**: Yes, that's accurate.
+
+**Counsel Inquiry**: In your statement you mention that you had provided Northern Ireland Executive colleagues with papers, but did feel at times that economic factors should have had more thought and attention. Do you consider that the Executive gave proper attention to the impact of the pandemic in relation to the economic consequences at the time, and did that improve as the pandemic went on?
+
+**Lady Dodds**: I think it improved as the pandemic went on. When we started at the start, it was really about support. It was about that response phase. We then, when we were starting to look at restart and recovery, we did produce a lot of information, a lot of papers in relation to the impact of the pandemic on the economy, the potential for huge unemployment should, for example, the Job Support Scheme be withdrawn quite quickly.
+
+Those are the kind of things. And actually, there was quite a bit of agreement around the Job Support Scheme. And I know that the Finance Minister took that up with Treasury, and so on. So I think it improved as time went on. I think were more aware of what we needed to do and how we needed to do it. And Invest Northern Ireland were spending an enormous amount of time doing specific schemes.
+
+**Counsel Inquiry**: And we'll come on to look at some specific schemes that they in fact administered --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- Invest Northern Ireland.
+
+We touched just a moment ago on some of the engagement you had with particular departments in the UK Government --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- the former department BEIS, which was one of them in your capacity. It's correct that between you and other Department for the Economy officials, you would have attended a number of different groups or meetings --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- with departments. And in fact some of those, the other devolved administrations, Scotland and Wales, were also in attendance?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And so there was a monthly meeting of the Business and Industry Inter-Ministerial Group which was led by the minister for the former BEIS department.
+
+To what extent did you consider at the time that those were of assistance with the economic response in Northern Ireland?
+
+**Lady Dodds**: I think they were good for disseminating information. They were certainly not decision making. Often decisions were made and maybe explained at those areas. We were able to raise issues at those particular meetings. So for example, if you think about the position of Northern Ireland vis à vis Great Britain, and the amount of food, for example, from Northern Ireland that would go to shops in Great Britain, a lot of food production in Northern Ireland, and then coming back, the other way, the things that we needed.
+
+So they were good in terms of security of food supply, and so on. But they were unable to get really, for example, for hauliers, to the core of their issues, which is when they were doing all of these things, but they couldn't get support from the UK Government, but they were doing an absolutely vital service.
+
+So they disseminated information, they allowed us to get to know each other. They did all of those things. It allowed you to raise those issues. But I can remember raising those issues on numerous occasions.
+
+**Counsel Inquiry**: And did you feel that they weren't dealt with adequately?
+
+**Lady Dodds**: Yes, at times, yeah.
+
+**Counsel Inquiry**: And in fact, you say in your statement, which chimes with what you've just said, that:
+
+"... often, when we were discussing measures, the planning for national schemes was well advanced and devolved administrations were simply informed that they would be introduced, ie our views were not sought on the design of the schemes."
+
+**Lady Dodds**: That's accurate. That is accurate. I mean, I think, for example, I don't think I had a conversation with anyone about Eat Out to Help Out, but at the same time the ramification of that in Northern Ireland was that we very, very quickly had to get together with the tourism and hospitality sector to provide guidance with them around safely doing this.
+
+So, you know, in the one hand we had a scheme, and we can talk about whether we liked it or didn't like it, really, but the ramification of that in Northern Ireland was that very, very quickly we had to get some kind of assurance that this would be implemented safely.
+
+**Counsel Inquiry**: And in future, Lady Dodds, how do you envisage engagement should be managed going forward to enable Northern Ireland to be better informed and to have a seat at the table in the design of the schemes?
+
+**Lady Dodds**: So national government is our national government, and I accept that entirely. But I think that communication with the devolved -- so not just at the time of the implementation of the scheme, but maybe one or two steps back might have actually helped in preparing the scheme that fitted the whole of the United Kingdom better.
+
+I mean, national government provided -- I mean, it was phenomenal amounts of money in terms of the job support schemes, those for the self-employed. These were enormous schemes where the economy could not have recovered in the way it did in Northern Ireland had we not had those.
+
+But just a little couple of steps removed would have helped us and also would have help us in disseminating the information to businesses about how those schemes worked.
+
+**Counsel Inquiry**: Yes, and you mentioned there particular national schemes that it would have been helpful to have known about earlier --
+
+**Lady Dodds**: Yes, yes.
+
+**Counsel Inquiry**: -- rather than at the time of implementation. And the examples being the Coronavirus Job Retention Scheme, as you mentioned the Job Support Scheme, but also the Self-Employment Income Support Scheme.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And you mention in your statement that you don't recall being consulted about the design of those schemes when you were minister --
+
+**Lady Dodds**: Not that I don't -- I don't think we were, actually, when I reflect upon it. And again, going back, if there was communication it would have been with the Department of Finance.
+
+I think that broader level of communication would be better, as well.
+
+**Counsel Inquiry**: So the Department for the Economy, along with the Department of Finance --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- being involved in those discussions --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- in the future?
+
+**Lady Dodds**: And it's not that -- sorry, just to add.
+
+**Counsel Inquiry**: Yes.
+
+**Lady Dodds**: I would have to say it's not that the Department of Finance didn't disseminate information, but I think you -- you get a better sense when you're in the room.
+
+**Counsel Inquiry**: One particular example I just want to look at is that which is set out in Paul Grocott's witness statement, who was the Deputy Secretary and Head of Economy Policy Group within the Department for the Economy, who also authored the Department for the Economy's corporate statement in this module.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: It's INQ000647938, paragraph 93, page 26.
+
+And he provides another example -- or fleshes out the impact of the lack of prior notification about the Self-Employment Income Support Scheme. And in fact what that meant in reality for Northern Ireland was that, as he says, sort of three lines down:
+
+"... a number of high level options were identified, no detailed design of the scheme had been undertaken and work on the options paper ceased when the UK Government announced its SEISS on 26 March 2020."
+
+It goes on to state that work had begun -- sorry, earlier on in the paragraph -- at least four to five days of working on a paper for a self-employed hardship scheme in Northern Ireland and that the Department for the Economy officials -- at the very bottom -- were able to get some idea of what the other devolved administrations were planning as well, which is another aspect of engagement.
+
+But just focusing on the work that had been done already, by the time that SEISS was announced, were you aware at the time that some work had already begun on a scheme in Northern Ireland, and in fact that's another example of perhaps the duplication of effort that could have been avoided?
+
+**Lady Dodds**: Yes. No, I completely agree. But I would have to say that the Northern Ireland self-employed hardship scheme would not have had the scope of the scheme that eventually came to Northern Ireland via national government. It couldn't have. It just couldn't have. So, while we had some time lost in relation to that, we ended up with a better scheme.
+
+**Counsel Inquiry**: So the hardship scheme itself wouldn't have materialised, and would not have, in your view, provided adequate support in the way it was envisaged?
+
+**Lady Dodds**: It certainly couldn't have had the scope of the national self-employed scheme, no.
+
+**Counsel Inquiry**: I'm going to move on now to pick up the Newly Self-Employed Support Scheme, so the particular bespoke scheme that was established by the Department for the Economy. And it was designed and implemented by the department but operationally delivered by Invest Northern Ireland, who you mentioned earlier.
+
+What was the rationale behind the scheme?
+
+**Lady Dodds**: Well, the rationale was that some people who had become newly self-employed but had not been able to submit a tax return in 2018/19, did not meet the eligibility for the self-employed scheme that our national government was running. And some of those people were also not able to access increased -- the increased benefit that might have come their way but -- and therefore were in some extreme hardship.
+
+But also to support new businesses and new entrepreneurs to make sure that we could get those people through a difficult time, and back into the economy and working when they were able to do so.
+
+So it -- it was about filling a gap but it was also about promoting and -- and helping the economy.
+
+**Counsel Inquiry**: Yes. And in terms of the design of the scheme, it's correct that it did not provide support to all self-employed individuals; as you say, it was designed to fill a specific gap --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- in SEISS. And so there were specific groups who were intentionally excluded from the scheme; is that correct?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And what was the thinking behind excluding specific types of self-employed people?
+
+**Lady Dodds**: I've thought a little bit about this, and I think that the purpose of the scheme was not to fill -- or we couldn't have filled every gap that existed in the self-employed scheme nationally. So it wasn't to fill every gap, but it was to try to give a specific number of people as much help as we could give them at that time.
+
+And it was also to designed to be broadly consistent with the self-employed scheme, so it adopted some of the exclusions that the self-employed scheme had. And you could argue whether that was good or bad, but we weren't in the business of trying to amend a national scheme, we wanted to run a scheme that targeted a specific group of self-employed people.
+
+**Counsel Inquiry**: So the exclusions mirrored those --
+
+**Lady Dodds**: They did, they did.
+
+**Counsel Inquiry**: -- exclusions in SEISS?
+
+**Lady Dodds**: They did. They did, yes.
+
+**Counsel Inquiry**: In the design of the scheme and the implementation of it, you refer in your statement to the importance of liaising with HMRC --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- in the design. But also -- we'll come on to this later -- there was also engagement with them in relation to another scheme --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- a business support scheme, the Limited Company Director's Support Scheme?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: But just focusing on the Newly Self-Employed Support Scheme, you mention in your statement that it was a difficult scheme to design and implement, in the sense that you recall a reticence from HMRC to cooperate and verify information. Could you expand on the difficulties at the time in relation to the Newly Self-Employed Support Scheme in engaging with HMRC, and what those challenges were.
+
+**Lady Dodds**: So the day-to-day management, the design management and so on of the scheme would have been done by officials, so officials from my department working with officials from HMRC. My recollection of this problem was that this kind of hesitancy to engage with a department was outside of their remit, and the difficulty of getting formal channels of communication in relation to that.
+
+Now, we eventually did, and we actually then, in the other scheme that you've referred to, had some very helpful suggestions from HMRC in delivering that scheme. So I think that government is very siloed, and very tunnel-visioned in some of the things it does. So you report to who you report to, and it's difficult to change that.
+
+And I think that was a little bit of a mentality in the system at the time and I think we did learn to overcome that, and I think we did better. And the next scheme was better. But we wanted to make a scheme that, one, targeted a specific group, that was delivered with as much probity around public money as we could ensure, and that was targeted at the right people.
+
+And I think HMRC -- well, I think eventually it did work, but my recollection is that it was difficult at the start.
+
+**Counsel Inquiry**: And just a last question in relation to the newly self-employed support scheme, there were amendments made --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- in early 2021 to the scheme, the first on 7 January, the second on 12 February. Just in relation to the sort of rationale for the amendments that were made, could you help with explaining -- I mean, the amendments were in relation to extending those who would be eligible to apply.
+
+**Lady Dodds**: So that was to allow people to have their information that they would normally have for tax reform -- form, actually, and a declaration, so that they could have all of that information in place so that we -- the spirit of the scheme was not to be -- not to exclude people, and the extension was to allow more people to actually be able to apply.
+
+So it was just that's the time of year when people are collating all of that information, and if it was helpful to do that, then we could do that. We could extend it and make sure.
+
+And again, the other one was again in the spirit and the policy intent was to allow people and their income thresholds to be changed slightly, not radically, just slightly, to allow people to apply. So that we could encompass as many people as could fit into the boundaries of the scheme as we could.
+
+**Counsel Inquiry**: And did those amendments come as a result of a call for the eligibility requirements to be widened by those within Northern Ireland?
+
+**Lady Dodds**: I can't remember that, honestly, specifically. But I do have records of officials who monitored the progress of the scheme, the applications to the scheme, saying that this would be a good thing to do and beneficial for another cohort of people to allow as many people into the scheme as we could.
+
+**Ms Dhanoa**: Thank you.
+
+My Lady, that brings me to the end of the topic.
+
+**Lady Hallett**: Certainly.
+
+I hope you are going to be all right to come back after lunch, Lady Dodds.
+
+**The Witness**: No, I do apologise --
+
+**Lady Hallett**: And I also hope we're not making you worse.
+
+**The Witness**: No, I do apologise, I have just kind of lost my voice a little bit.
+
+**Lady Hallett**: That's what I was about to say: if I had the power, I think I would ban you from speaking over lunch. But I really hope we haven't made you worse.
+
+**The Witness**: No, no.
+
+**Lady Hallett**: I shall return at 1.45, and I promise you, we will finish you as promptly as we can this afternoon.
+
+**The Witness**: Thank you.
+
+*(12.46 pm)*
+
+*(The Short Adjournment)*
+
+*(1.45 pm)*
+
+**Ms Dhanoa**: Thank you, my Lady.
+
+**Lady Hallett**: Thank you.
+
+**Ms Dhanoa**: Lady Dodds, I'm going to pick up now to look at the Limited Company Director's Support Scheme --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- which was another specific economic intervention that was designed by the Department for the Economy and similarly to the schemes that we looked at before the lunch break, it was implemented in partnership with Invest Northern Ireland.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: The scheme opened for applications on 21 January 2021, and it provided a one-off grant payment of £3,500 to the company of eligible applicants?
+
+**Lady Dodds**: Mm-hm.
+
+**Counsel Inquiry**: What was your understanding as to the rationale behind the scheme?
+
+**Lady Dodds**: Again, it was people who were not eligible for the self-employed scheme and who would only become eligible should they dissolve their company, and that was not going to be, that's not possible, not even -- couldn't be thought about. So it was to extend some help to those people in the circumstances that they found themselves, and there was -- quite a bit of thought had gone into the scheme, and into the design of it.
+
+**Counsel Inquiry**: And you mention in your statement that it was designed to fill the gaps left by SEISS.
+
+**Lady Dodds**: Yeah.
+
+**Counsel Inquiry**: Is that correct?
+
+**Lady Dodds**: Yeah, so it was really another one of those schemes that was to fill a gap. We were able to do it because we then had the funding to do it, and because of the other local restriction schemes were running on a week-to-week basis we had -- because all of the time during Covid, one of our greatest problems, so in England, schemes were implemented by local authorities but in Northern Ireland they were implemented by the department and Invest NI, and so we were always quite short of people to do those schemes and, to be fair, those people who worked on those schemes sometimes worked very long hours to make sure they got out on time.
+
+**Counsel Inquiry**: Why was support particularly for limited company directors as a group itself considered necessary? When did it become clear that they needed specific support?
+
+**Lady Dodds**: So there's quite, quite a significant sort of bit of research into the people who could not be targeted by either of the two national schemes, and this was a group of people who were in that position.
+
+And it's also, it's always about targeting those people but allowing companies to be sustainable for long enough in the hope that we would get them through the economic shocks of Covid so that they would be sustainable on the other side of that.
+
+So it's also about the recovery and renewal of the economy. A lot of these people have stood up, they're entrepreneurial, they own their own companies, they are creating a space in the economy or they are fulfilling a space in the economy, and it's important to actually support them. And they couldn't be supported through the other schemes.
+
+So it was to fill that gap, and it was to try to give help to a sector or a section of the working workforce that hadn't already got any help.
+
+**Counsel Inquiry**: And just to add to what you said, it's mentioned in Paul Grocott's statement that whilst sole company directors could be considered to be the same as self-employed sole traders, they're technically not self-employed --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- because they're treated as employees of their company?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And hence that is why they were not eligible --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- for accessing SEISS.
+
+**Lady Dodds**: Yeah.
+
+**Counsel Inquiry**: Similarly to the scheme we looked at before lunch, with the limited company directors' scheme, there was also engagement with HMRC that took place, is that correct, in relation to the --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- establishment of it?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And you explain in your statement there was much work done to collect data and information from HMRC, and in particular you state:
+
+"[It] required the cooperation of HMRC, and it was a negotiation to get this under way."
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: In relation to this particular scheme and what we had discussed earlier before lunch in relation to the sorts of challenges that the Department for the Economy experienced working with HMRC, were those similar challenges in relation to the scheme or was it different?
+
+**Lady Dodds**: I think by the time we did this scheme -- so the previous scheme was pre-Christmas, and by the time we did this scheme in January, we had established a better relationship. And actually, again, Paul Grocott details it very well in the statement, where he indicates how that engagement with HMRC actually changed the scheme a little bit, and made the scheme more impactful and -- and that it could operate better. And it was around their knowledge of the tax treatment of how -- how it would operate.
+
+So I think in general terms we had a better relationship. We had a good toing and froing of information, and that actually then helped us and enabled us to make a change to the scheme that was beneficial for the person it was targeted at, and allowed HMRC to be content with the way the scheme was developed.
+
+**Counsel Inquiry**: And I think you'd said earlier this morning that this was a particular example, in terms of the engagement with HMRC with this scheme, where actually their input was quite helpful?
+
+**Lady Dodds**: It was. It was. And I think it helped the individuals, as well. So it didn't just help the department and Invest NI in administering and designing; it helped the individual.
+
+**Counsel Inquiry**: And in relation to this particular scheme, but not too dissimilar to the other schemes that we've looked at, there were what I would term significant trade-offs in terms of the key risks --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- that were embedded within the scheme. How did the Department for the Economy manage the risks that it saw in terms of whether they were fraud risks, and how -- how did it go about trying to manage those set against, obviously, the speed at which these sorts of schemes were being rolled out?
+
+**Lady Dodds**: Well, one of the criticisms of the scheme was that it actually took too long to get to payment. And that was because we tried to have as robust a set of checks that we could have in order to make sure that the scheme was delivered with an assurance around public money.
+
+So, you know, and this was a scheme where we had quite a bit of toing and froing, probably more than some of the other schemes between officials and my office, about the running of the scheme and so on, and that was one of the criticisms that was in the general community of people who were targeted. But I think that that -- that was okay, in the sense that we were able to deliver something that we were -- had more assurance around. And that was a very big, big issue for us -- all along, actually, in all of the schemes, you know, that we were delivering, and using public money with assurance around it.
+
+**Counsel Inquiry**: So, by the time this scheme had been established, so early '21 --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- you've referenced the sort of checks that were able to be baked in. Is that because of the fact that it was at that stage of the pandemic and in fact the checks that were put in place couldn't have been put in place for the earlier schemes, and so there were lessons that could be learned?
+
+**Lady Dodds**: Well, I think by that stage we had learnt lessons, and I think that we all need to understand that in this process, from March 2020 to January '21, if we hadn't been learning lessons, then that would have been pretty bad for -- for any department. So I think we had learned lessons.
+
+But secondly, the scope of this scheme was much narrower than other schemes. So, therefore, we could do this detailed checking that we were able to do, and we had the cooperation of HMRC to enable us to do it.
+
+So I think that yes, lessons were learnt, and there are still many lessons to be learnt from -- from the way these things operate, but the scope of the -- it was quite limited, in -- I mean, I think -- my note says that it received 6,184 applications, with 5,857 being successful. So it -- it wasn't like the 10K scheme, where it was huge, it had 20,000-odd payments.
+
+**Counsel Inquiry**: And unlike some of the other support schemes that were designed by the Department for the Economy, this particular scheme had intentional gaps from -- from the beginning stages of how it was designed; is that correct?
+
+**Lady Dodds**: Yes, it did.
+
+**Counsel Inquiry**: So, particular types of company directors were intentionally excluded. From your understanding, why was that the decision that was taken early on?
+
+**Lady Dodds**: Again, it was one of those schemes that was not ... it was designed to be broadly in line with the self-employed scheme, and -- but it did limit company directors, for example, that held less than 25% shares in their company, so that we could get to people who were more impacted. It did limit, in terms of company directors who did not suffer at least a 40% decline in their profits or their income.
+
+So there was -- and of course again, it limited, like the self-employed scheme, those who earned more than 50K.
+
+So it's not -- it wasn't designed to be contrary but to be complementary and to fill that gap. And it was narrow and I accept that, but it was designed to do that.
+
+**Counsel Inquiry**: Would you say it was in fact more targeted to those groups or those types of limited company directors who needed the most support at the time --
+
+**Lady Dodds**: Yes, yes.
+
+**Counsel Inquiry**: -- given what the Department for the Economy had --
+
+**Lady Dodds**: Yes, I think that's fair. I think that's fair.
+
+**Counsel Inquiry**: Lady Dodds, I want to move on now to look at the Micro-business Hardship Fund, which was a form of support for business. What was the rationale behind that particular scheme?
+
+**Lady Dodds**: Well, the Micro-business Hardship Fund, was one of those schemes, again, one of those more targeted early schemes that we were able to do. So why target micro businesses? Well, we thought those were the companies that were probably least likely to be able to avail of the UK-wide loan schemes, and they were companies with one to nine employees, so they were very small and maybe more vulnerable than companies that could withstand a bigger economic shock.
+
+**Counsel Inquiry**: Yes, so it was targeted at those, as you say, who would struggle to satisfy --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- the criteria of, in particular, it's noted in Paul Grocott's statement, the Coronavirus Business Interruption Loan Scheme?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: But is it also correct that it was influenced by the Welsh Economic Resilience Fund?
+
+**Lady Dodds**: Yes, yes.
+
+**Counsel Inquiry**: And had discussions taken place between the Department for the Economy and the Welsh administration about the creation of the Micro-business Hardship Fund?
+
+**Lady Dodds**: No, I had no formal discussions at all with the Welsh Government in relation to that, but I know that my officials were always kind of horizon-scanning to see what other areas of the United Kingdom were doing, and this seemed to be one that was targeted that we could fulfil and that we could deliver.
+
+**Counsel Inquiry**: And the fund was to provide, is it correct, funding to, as you say, small micro businesses --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- of up to nine employees?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: But to businesses and, actually, qualifying social enterprises and charities?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: So were those the types of businesses that it was targeting?
+
+**Lady Dodds**: Yes. So small, vulnerable micro businesses. And I suppose it's useful to note that the Northern Ireland economy, 95% of the Northern Ireland economy is a small-business economy. So while we have some big companies, the engine of the Northern Ireland economy is small business.
+
+**Counsel Inquiry**: And do you think in future, given how that particular group is factored into the Northern Ireland economy and how prevalent it is, that it would be important to have a scheme like this perhaps at the outset, early on in an emergency?
+
+**Lady Dodds**: Yes, well, the 10K scheme also provided support, so if you were not able to get support under it, so that we didn't replicate support, so this was something that you could apply to, these small businesses could apply to and in general they are small businesses that are start-ups that have the potential to grow, and to make more of an impact on the economy. So their survival is important.
+
+**Counsel Inquiry**: The Inquiry's listening exercise, Every Story Matters, received contributions from small businesses in Northern Ireland, and they shared their experiences regarding accessing the Micro-business Hardship Fund, and I just want to take a look at one or two of the quotes we've received.
+
+Thank you. You'll see it on screen.
+
+So you'll see that the first one there, that essentially:
+
+"Business owners and managers described how they thought communication about decisions was unclear, and some said their experience put them off applying for other financial support."
+
+The first quote, essentially, that a managing director said that he was getting rejected but not really getting a clear reason. And not enough clarity.
+
+And the quote at the bottom, owner of a micro financial and professional services business, that they "couldn't remember specifically why it was rejected, but rejected so easily."
+
+Just in terms of accessing the scheme, were you or the Department for the Economy aware of any particular concerns around unclear communication in relation to the scheme, but also the fact that it deterred small businesses from applying for other support schemes that were available?
+
+**Lady Dodds**: Well, I don't know the particular incidents here, obviously, but all of the schemes were published on the Northern Ireland business info website. So there's a very, very clear line and visibility of what the scheme required, what the scheme would do, what the scheme required, what the deadlines were, et cetera, et cetera, and that Northern Ireland business info site is wide -- it is the go-to site that would be used for small business to do that.
+
+And there were also -- I mean, if I remember correctly, and I hope my memory isn't failing me, if I remember correctly, there were helplines and so on in relation to this, and the scheme -- we anticipated that the scheme would have around 7,000 applications. In effect, it had just shy, just a few shy of 5,000, and 4,000 were -- 4,200-odd were successful and only 766 were rejected.
+
+So the vast majority of people who applied to the scheme got help.
+
+**Counsel Inquiry**: Did you hear about any difficulties regarding accessing any of the other schemes?
+
+**Lady Dodds**: Well, I think there's always -- always some difficulties, because sometimes there's a misunderstanding about the evidence that's required for the scheme.
+
+I mean, apart from the 10K scheme, there was quite -- there was an application process for all of the schemes. So there might have been some, sort of, ideas about -- you know, or some misunderstandings about what was needed for the scheme, but, I mean, there is a very clear vision of what was needed and what the scheme was intended to do, and that was on that Northern Ireland business info site, which is the go-to. Most businesses in Northern Ireland would have known of that site. And all of the business organisations would have been directing people to that site.
+
+**Counsel Inquiry**: One of the features of the scheme was that the fund was cap at £10,000 for businesses paying business rates?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: And £5,000 for those who were not paying business rates?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: What was the rationale for that distinction?
+
+**Lady Dodds**: Well, if -- if you're paying business rates, you obviously have a premises. You -- you have electricity, you have overheads. If you're not paying business rates, then you may be working out of a local enterprise centre, renting a desk, renting a room. You know, your overheads will be much, much lower. So it's about the type of business, the type of microbusiness that we were wanting to target, and that -- that is the reason for it.
+
+And of course, you couldn't apply for it if you had been eligible for the 10K scheme or your business was under the industrial derating scheme that also applied in the 10K.
+
+**Counsel Inquiry**: Paul Grocott mentions in his statement that providing £10,000 per eligible business would have exceeded the available budget by nearly 38 million, which was 90%, as per the analysis that had been undertaken.
+
+So, were you aware at all that one of the reasons or perhaps the reason for not providing 10,000 per business was in relation to the funding available, or the budget?
+
+**Lady Dodds**: Well, we had a funding envelope agreed with the Finance Minister. We had to stick within that -- that funding envelope. We had also done some scoping about businesses who had a more substantial workforce as well, and they couldn't have been within -- that would have taken us completely out of the scope.
+
+So the way that we -- we were -- this worked was that we had a funding envelope, we had to stay within that funding envelope, and this was the way the scheme was designed to operate.
+
+And there was quite a significant bit of work done in identifying the businesses and how the scheme would work.
+
+**Counsel Inquiry**: Okay.
+
+I'm going to move on now to look at a different topic, in relation to data. And, in particular, looking at the department's use of data, firstly.
+
+Is it correct that the department used metrics which were set out in dashboards to be able to monitor the economic impact?
+
+**Lady Dodds**: Yes. Well, it was one of those things that we did. So, the Executive had a Covid dashboard which it published and produced for every Executive meeting, so that we would know what was going on in health, in terms of the pandemic, what was going on in terms of energy security, which was one of our greatest issues, which also came under the Department of the Economy. So we'd make sure that, you know, we had no red flags in relation to that.
+
+So it -- it published those. They were broad data. But there also was significant work done, particularly as the -- as the pandemic progressed, in the data in relation to economic recovery and resilience, and of the impact of the pandemic on the workforce.
+
+**Counsel Inquiry**: And did you consider that the dashboards in themselves were helpful as a way of monitoring the economic impact?
+
+**Lady Dodds**: They were useful. But I think that to really understand the economic impact, you had to really -- they were high level. So they were high level and useful, but if you really wanted to understand the economic impact of the pandemic, then you had to have the more detailed analytical work that we did regularly present to the Executive, and at times that work was -- it was a snapshot in time.
+
+So we did a piece of work prior to the extension of the Job Retention Scheme, which indicated the impact, if it was dropped, what this -- would happen in Northern Ireland, and the jobs that this would impact. Which was quite frightening, actually, at that stage. But then, of course, it was extended.
+
+So some of it is a snapshot of time and where we were at that particular time and didn't take account of subsequent and probably announcements that were made very soon after it was published.
+
+So it's important to keep on doing that work. It was very, very significant. And of course, it also helped us in targeting our recovery and renewal phase for the economy.
+
+**Counsel Inquiry**: And do you have any suggestions about how the dashboard or the way in which the economic impact has been monitored through an emergency could be improved? Do you think it needs regular updating in the future or something, a more wholesale change?
+
+**Lady Dodds**: Well, it depends what you want it for. So for Executive meetings and for general consumption and information, the dashboard was probably adequate. It showed where we were in terms of grant schemes, in terms of, you know, different impacts on health and so on. So it was high level and adequate and useful in that sense.
+
+But if you are really going to look at how -- at a pandemic, then you need to have more detailed information. But it's really difficult, because every one of these is specific and unique. And it's really difficult and it has to be done almost in time.
+
+**Counsel Inquiry**: Just picking up on a particular example, you mention in your statement that -- in relation to the 10K and 25K business schemes, you mentioned that:
+
+"It would have been better if we had more data, specifically prior modelling on the potential economic impacts [which] would have been useful ..."
+
+So was modelling a particular aspect that you thought was lacking, and did it constrain those schemes in any way?
+
+**Lady Dodds**: It didn't constrain the schemes. The 10K and the 25K schemes were very broad-spectrum schemes designed to get support to an economy. I mean, if we think back to 2020, we had never before been told to shut our doors and go home. We'd never been told that. It was a very, very unique and one-off situation. And as the Department for the Economy officials note, hadn't been modelled before because the pandemic had been a health modelling exercise, and had assumed a business-as-usual element to it.
+
+So therefore, it was all very, very unique and very difficult to do. And I think for future planning, I suppose the lesson that's to be learned is to be sure that we have as much data on which to base our predictions of how things go. And one of the things that the EY report indicates -- if I may just elaborate on it.
+
+**Counsel Inquiry**: Yes.
+
+**Lady Dodds**: One of the things that the EY report elaborates on, and I think this is very important, that across the Northern Ireland Executive and the different departments, data was collected in different ways. So it was hard to bring it all together in a comprehensive way that made sense across the board. And I think that we really need to be looking at how we collect that data and how it makes sense for future modelling of how things might take place, if that takes sense to you?
+
+**Counsel Inquiry**: Yes.
+
+**Lady Dodds**: And I think the other thing that I think about Covid and the lesson for the future in relation to this aspect of it is, Covid was dreadful in many ways, but it also was an accelerant in some elements of the economy, and certainly in the digitisation of the economy, was, you know, we went much further much quicker than we might otherwise have done, and therefore that with the digitisation of systems, we may also be able to collect data more uniformly and quicker, and that would -- I think that would be my hope for the future.
+
+**Counsel Inquiry**: Yes, and Lady Dodds, just for the assistance of those listening, the EY report was --
+
+**Lady Dodds**: Ernst & Young.
+
+**Counsel Inquiry**: -- the Ernst & Young report, and it was a lessons learned report?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: Yes.
+
+One particular reflection set out in Paul Grocott's statement which I just want to ask you about was that he identified that the main trade-off associated with delivery of the support schemes was the desire to develop them quickly, and managing the risks associated with delivering at pace. He said a recurring theme that impeded this assessment was the availability and access of good-quality data and the absence of a central register of businesses.
+
+So the particular absence of there being that central register of businesses, how did you see that as a particular difficulty in terms of the way in which the schemes were managed from a value-for-money perspective?
+
+**Lady Dodds**: I'm not sure that it ... so for the 10K scheme and the 25K scheme and particularly the 10K scheme, we relied very heavily on data from the LPS. So our local ratings system, Land & Property Services. And we relied very heavily on that because the assumption was that if you were a business paying business rates or in receipt, in this case, of small business rate relief, then that was a qualifying issue because you were continuing to pay, and the assumption was you wouldn't be paying if you were not any longer trading.
+
+So we had to rely on data that sometimes, one, we didn't own as the Department of the Economy, going back to that legal entity issue, and two, that we couldn't disaggregate enough to be absolutely sure of what was going on. And I think that having those registers would be helpful. And the lesson of the 10K scheme shows us how it could be helpful.
+
+**Counsel Inquiry**: Just picking up on this point about the absence of that central register, it is correct that during the pandemic, the Department for the Economy was able to draw upon data from other sources, such as the department of finances, Land & Property Services ratings database.
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: So that was a way in which, essentially, you were able to perhaps try and access that sort of data --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- that wasn't available from the central register.
+
+You've said in your statement that you had concerns about the ratings database, in particular, you recall asking questions as to the robustness of the data with particular assurances sought ahead of making automatic payments. Could you just explain what your concerns were about the Land & Property Services ratings database.
+
+**Lady Dodds**: So as I said in my previous response, it was okay in the sense that it helped us to identify all of those businesses who were in receipt of small business rate relief. We could identify and we later added those businesses to the scheme, who were industrial D rated. So it could identify all of that. But it couldn't identify a lot of the other things within the database, and the issue became very apparent to us when we realised that we could do -- so about 7,000 of the applications for payment were actually made by an automatic payment. In other words, the Land & Property Services, these businesses actually paid their rates, I presume by a direct debit or some mechanism whereby Land & Property Services held bank details for them. The rest had to make an application.
+
+And it was really that 7,000 that caused us the most problems, and where we actually found more of the difficulties. And those automatic payments, we did 7,000 of them, and the rest were by application. And the application ones, of course, could be checked.
+
+**Counsel Inquiry**: Just looking now at data sharing between the Department for the Economy and UK Government departments, so separate to the interdepartmental sharing we've touched on, it's correct that the department provided information on business impacts to the UK Government via BEIS department for inclusion in a UK-wide economic surveillance dashboard?
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: What was your experience in relation to that, but more broadly, data sharing between your department and BEIS, or the UK Government more widely?
+
+**Lady Dodds**: I personally -- I mean, I think that officials are best placed to describe that, because they would do this on -- on a much more regular basis.
+
+My overall impression of how we communicated between national government departments and the Department for the Economy was that we had copious amounts of meetings, we shared concerns -- as well as data that went into official channels, we shared concerns in those meetings. I've already flagged one up, which was the impact on hauliers and the issue of food security. And we shared concerns, but often it was difficult to make those concerns translate into actions.
+
+And I think that ... and I'm pretty sure that national government were not going to act on everything that any of the devolved administrations said. And that's fair enough. I accept that. But we did have some very, very specific issues in Northern Ireland which were of huge concern to us. One was that issue of food security. One was an issue of connectivity. So at one stage during the pandemic, we virtually had one flight a day into Northern Ireland.
+
+The impact on airports, the impact on communications and linkages for families and so on was very, very grave. And those were really huge concerns. And we had specific industries in Northern Ireland that we were also very concerned about, like aerospace. The impact on the aerospace industry in Northern Ireland of the pandemic was very, very huge and it has taken quite some time to recover from.
+
+And while I think those were flagged up as concerns, I suppose I always am a little bit niggled, I think -- I don't know whether that's a proper word to say in this context -- by the fact that it didn't produce enough action, because connectivity is a massive issue when you live in Northern Ireland, with the rest of the United Kingdom.
+
+**Counsel Inquiry**: Just looking ahead in terms of the, sort of, recommendations for the future emergencies, you've set out in your statement in your view there needs to be a whole-system approach, not only across both the government in Northern Ireland, the Executive, but also between Northern Ireland and the UK Government -- and you mentioned this earlier in your evidence -- so that what doesn't end up happening is that there's a siloed approach --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- to data collection and sharing that you felt was taking place during the pandemic?
+
+**Lady Dodds**: I think because people really didn't have a framework to step outside of, if you know what I mean. So government departments are accustomed to acting within their remit, and in a pandemic we need a much broader remit for government to operate within. And I think that ... I think many didn't know how to do that. And even in Northern Ireland it's quite difficult to do it because you're legally responsible for what happens in your own department.
+
+So it's quite difficult to do. So I think we need some kind of a framework that allows us to cooperate better, to share information better, and to discuss the impacts, because the impacts aren't always the same. If you lived in Manchester, you didn't have the connectivity problems of Belfast. So they're not always the same.
+
+**Counsel Inquiry**: And in terms of a suggestion about how that particular problem of siloed approach to working could be improved in future, you suggest in your statement that, as you've just said, whilst acknowledging each department is its own legal identity, a model which included collaboration should be considered in future planning.
+
+In your view, what would that model look like?
+
+**Lady Dodds**: Well, I think --
+
+**Counsel Inquiry**: How would I work?
+
+**Lady Dodds**: -- we had in Northern Ireland -- and I don't know whether we had it in the rest of the United Kingdom, but we had a Northern Ireland engagement forum. So at the start of the pandemic in Northern Ireland, we had a real -- a very real problem about working safely in our food production factories. And food production is really important in Northern Ireland and -- I mean, it's estimated that Northern Ireland food production feeds about 10 million people in the rest of the United Kingdom. So it wasn't just important for Northern Ireland; it was important for the rest of the United Kingdom. But we needed to make sure that those people who worked in our production lines were safe and could work safely.
+
+So I was actually tasked by the First and deputy First Minister to get together a forum where we worked together with the Department for the Economy, the Department of Health, the Chief Medical Officer was involved, the trade unions were involved, all of the business organisations were involved, and it was that kind of -- and they -- they put together a plan which helped us to establish safer working practices and really essential services that we couldn't allow to -- to close.
+
+So I think that kind of collaboration, and that was a very good example of collaboration, across -- gosh, a huge range of Sectors.
+
+**Counsel Inquiry**: Yes. The Ernst & Young lessons learned report, which you referred to in your statement, makes its own suggestion for a cross-departmental group on financial support which should be set up in the beginning of any future emergency. Is that the sort of thing which you see as a model, and which you set out in your statement as something that would be beneficial?
+
+**Lady Dodds**: Yes, so what happened in the pandemic is that I was going to the Finance Minister saying, "I really need to fund this" or "I need to fund something else". The Department for Communities was doing exactly the same thing. And if we'd had some kind of a broad-spectrum group, we could have, you know, discussed that more readily and said, "These are the needs; how do we finance it and how do we work it through?"
+
+But I think also it's important to say, hindsight, we now have hindsight in this, so we've an opportunity to learn, but it was difficult to do at the time.
+
+**Counsel Inquiry**: And do you think that idea of a cross-departmental group on financial support should form a part of a broader emergency plan --
+
+**Lady Dodds**: Yes.
+
+**Counsel Inquiry**: -- going forward?
+
+**Lady Dodds**: I see no reason -- but given the proviso that the legal responsibility for financial support lies with the Department of Finance. So I can't step outside that, so it is what it is.
+
+**Counsel Inquiry**: Lady Dodds, just before -- take a moment.
+
+Before I finish off, just one last question, and that's to ask whether you have any further observations or recommendations or reflections that you want to share that perhaps haven't been covered already in your evidence?
+
+**Lady Dodds**: No, I think we've had a broad discussion. I think the issue of data, the issue of access to data, which helps us to move more quickly, is probably, it's not the most exciting thing, but it actually is really, really important. And we saw that in the absence of accurate data, things can go wrong, or they can be slower than they need to be. And I think that was a huge lesson for us, because we had to go looking for it in all sorts of different places, and that was a huge lesson for us in the department.
+
+And as I say, that kind of collaboration that helps us to have a plan, and I hope that we learn and have the plan, so that some of these things are not new, or out of the blue to us in the future, because the most important thing is that we can respond quickly to anything, God forbid, that, you know, might happen again. I think that's important.
+
+My apologies for my coughing the whole way through. I do apologise.
+
+**Ms Dhanoa**: Well, you'll be pleased to know, Lady Dodds, I have no further questions for you.
+
+**The Witness**: Thank you.
+
+**Ms Dhanoa**: Thank you very much.
+
+**Lady Hallett**: And there's just one from Ms Hannett who is over there.
+
+**Ms Dhanoa**: Yes.
+
+Questions From Ms Hannett KC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Hannett**: Thank you, my Lady.
+
+I'm sorry to extend your period on the stand but I appear on behalf of the Long Covid Groups.
+
+You've referred in your evidence just now to the importance of data to understanding economic impacts. With this in mind, do you agree that the Department for the Economy should have taken steps to gather data on the impact of Long Covid on the workforce?
+
+**Lady Dodds**: So I suppose two things, really, in relation to that. When I was the Economy Minister, it was at the beginning, and roughly to the middle of that process. And I probably think that we didn't understand the impact of Long Covid until quite a few months into the pandemic. And I have spoken to quite a few families that have been impacted by Long Covid, so I think we didn't understand that until quite a few months into the pandemic.
+
+In terms of what the Department for the Economy do, so we monitor the workforce and we monitor issues within the workforce, and one of the biggest problems in Northern Ireland is the issue of those who -- and I hate using this phrase, but it's a technical phrase that everyone uses -- those who are economically inactive, those who can't work for any particular reason. And we know that during Covid that increased quite significantly, and today, it's still around 25%.
+
+I think during Covid we had it at about 29%.
+
+Did we identify that it was Long Covid? I don't know that we specifically named it in that way, but we knew that there were more people not in the workforce because of illness or other reasons, than we would normally expect to be in it.
+
+In Northern Ireland, then, the department that would then take these measures in relation to that, I'm sorry to be very technical, is the Department for Communities
+
+which has responsibility for things like sick pay and,
+
+you know, benefits and so on. And they would be much
+
+better placed to give statistics in relation to that.
+
+On a general point, I would say that, as a former
+
+Economy Minister, I think that the economies should be
+
+inclusive and that we should always be taking steps to
+
+make sure that those who are excluded from the
+
+workforce, for whatever reason, are included.
+
+**Ms Hannett KC**: Thank you.
+
+May I just follow up with one question, my Lady?
+
+You said you didn't have much understanding of
+
+Long Covid at the outset of the pandemic.
+
+**Lady Dodds**: No.
+
+**Ms Hannett KC**: Once that understanding had become clearer within a few
+
+months of the beginning of the pandemic, do you accept
+
+that with hindsight it would have been helpful at that
+
+point to have consideration of the economic impact of
+
+Long Covid and to gather data in that respect?
+
+**Lady Dodds**: I think that by the -- when we knew -- I mean, it's
+
+always important to have the data, it's always important
+
+to have an economy that is as inclusive as we can
+
+possibly make it and it's important also, maybe stepping
+
+slightly, my Lady, outside the remit, to have a health
+
+service that is as inclusive as possible of people who
+
+suffer from Long Covid, and that has not always been the case.
+
+So I think those are important, and I think it would have been better, it would have helped us more, it would have helped us understand the impact of the pandemic. But importantly, in planning for work, it would help us to take measures to make our economy more inclusive.
+
+**Ms Hannett**: Thank you, Lady Dodds.
+
+Thank you my Lady, I'm grateful.
+
+**Lady Hallett**: Thank you, Ms Hannett.
+
+Lady Dodds, that completes our questions for you. You don't have to persuade me of the importance of data collection and sharing. I think it's raised its head in every single module more than once, in every subject we touch.
+
+**The Witness**: Yes.
+
+**Lady Hallett**: So thank you very much indeed for your help and for coming over to help us.
+
+**The Witness**: And my apologies for the stuffy cold.
+
+**Lady Hallett**: Well, I just hope we haven't made you any worse.
+
+**The Witness**: No, it'll be fine.
+
+**Lady Hallett**: So I hope you do recover quickly, but I'm afraid some of these bugs do hang around.
+
+**The Witness**: Hopefully not for too long.
+
+**Lady Hallett**: Let's hope you get better very quickly.
+
+Thank you again for all your help.
+
+**The Witness**: Thank you very much.
+
+**Lady Hallett**: Very well, for reasons beyond the Inquiry's
+
+control, after you've raised one matter, I think that
+
+completes the evidence for today, doesn't it?
+
+**Mr Wright**: It does, my Lady, and that one matter is there
+
+have been a number of corrections in other statements
+
+this week, could we have permission, please, to publish
+
+them?
+
+**Lady Hallett**: You have.
+
+Thank you very much, in which case we have to
+
+adjourn now and I shall return for 10.00 tomorrow
+
+morning.
+
+*(2.32 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+
