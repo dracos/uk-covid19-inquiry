@@ -1,0 +1,2353 @@
+11 December 2025
+================
+
+*(9.59 am)*
+
+**Mr Hudson**: Good morning, my Lady. Can you see us and can you hear us?
+
+**Lady Hallett**: I can, thank you very much.
+
+**Mr Hudson**: My Lady, the first witness this morning is Lord King.
+
+**Lady Hallett**: Thank you.
+
+The King
+--------
+
+*THE RIGHT HONOURABLE LORD MERVYN KING (sworn).*
+
+**Lady Hallett**: Thank you for coming to help us, Lord King.
+
+**The Witness**: Pleasure to be here, my Lady.
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Mr Hudson**: Lord King, you are the former Governor of the Bank of England, and you were in post between 2003 and 2013; is that right?
+
+**The King**: Correct.
+
+**Counsel Inquiry**: You have provided a witness statement to the Inquiry with reference number INQ000656310.
+
+You are here to give evidence today primarily about monetary policy, and the actions taken by the Bank of England during the pandemic. Yours is an outside view of what was happening because you were, of course, not in post at the time; is that right?
+
+**The King**: Correct, yes.
+
+**Counsel Inquiry**: Lord King, we are planning to structure your evidence in two parts today. The first is to give an exposition of some fundamental principles related to both the bank and monetary policy, and the second is to take your perspective, perhaps a critical outside perspective, on the actions taken in respect of monetary policy by the bank during the pandemic.
+
+The first question I have for you, then, as a building block, the Bank of England is an independent central bank. Why do we have one?
+
+**The King**: Is it independent in respect of the decisions it takes on the operations of monetary policy. It's not independent in respect of its objectives. Those are given to the Bank by Parliament after decisions by the Chancellor. So, for example, in monetary policy the government sets the inflation target, currently 2% a year, and then the Monetary Policy Committee takes decisions to set interest rates or engage in quantitative easing to achieve that target.
+
+The reason for having that split between the objectives given to the elected government and the operational decisions given to the bank, and its committee, is to ensure that decisions on interest rates are taken out of day-to-day political flux and pressures.
+
+And before the bank was made independent, there were examples where governments would change interest rates, perhaps just before a by-election or reward itself after a budget that it felt went pretty well, but there was scepticism in financial markets that the real motivation for those decisions was economic as opposed to political.
+
+And I think that after the experience of high inflation in the 1970s and 1980s, that politicians came to feel that, actually, there was nothing to be gained by having day-to-day control of interest rates because they would simply end up being blamed for the vicissitudes of inflation, and everyone had something to gain by handing control on the day-to-day decisions on interest rates to an independent central bank.
+
+**Counsel Inquiry**: How does the nature of the relationship, then, between His Majesty's Government and the Bank of England operate in practice?
+
+**The King**: Well, in practice, the government will set the target for the Bank of England. There will be regular communications -- I used to meet every couple of weeks with the Chancellor -- and we'd talk about, you know, what the Bank of England was thinking about the state of the economy. And in turn, the Chancellor would be talking about his thoughts about how fiscal policy will evolve.
+
+But there was a very clear division of labour between the two, and at no stage since the Bank of England became independent in 1997 and when I left in the middle of 2013, was there any pressure from a politician of either major party to push interest rates in any direction that they wanted to see.
+
+They respected the independence of the bank.
+
+**Counsel Inquiry**: Internally and externally, what is the role of the Governor of the Bank of England?
+
+**The King**: Well, the Governor leads the institution, he sets a strategy for the institution. He has to explain that internally and also externally. He's chair, today, of the three major committees that set policy in the bank: the Monetary Policy Committee, which sets interest rates and decides on quantitative easing; the Financial Policy Committee, which engages in what's called macroprudential regulation, deciding on how large are the amounts of equity which banks have to issue in general; and then the Prudential Regulation Authority is now inside the Bank of England, and that body regulates individual banks.
+
+**Counsel Inquiry**: There are some words in there that may not be entirely familiar to everybody. What does "macroprudential regulation" mean and how does it contrast with "microprudential regulation"?
+
+**The King**: Well, it's a good question, because it's a relatively new concept. Essentially, the idea was to take a view of the financial system as a whole and try to identify various risks. That's one part of the work which the Financial Policy Committee does. But then the question is, what do you do about it if you think there are big risks?
+
+It can offer advice to the Prudential Regulation Authority about whether or not they ought to be tougher in forcing individual banks to issue more equity, so they have bigger buffers to absorb losses when they see that their loans go bad.
+
+And they do have specific powers also to mandate banks to limit the scale of lending to domestic or commercial property by ensuring that they can't lend, for example, if the loan-to-value ratio (the ratio of the mortgage to the value of the property) rises above a certain level.
+
+These are new instruments, I think they're still fairly controversial, but they have been used by the Bank of England in order to try to moderate the degree of risk in the financial system as a whole.
+
+Microprudential regulation is the remit of the Prudential Regulation Authority, which sets the regulations for individual banks. And they will say, for example, to Barclays or to Lloyds, either that your -- the amount of equity that you've issued is not high enough, or you need to take some other action in order to reduce the risks that you're taking with your balance sheet.
+
+That's to do with individual institutions. And of course they also have to decide on whether new institutions can be admitted to be regulated banks.
+
+**Counsel Inquiry**: And I think it's important to recognise that though your evidence today will focus on monetary policy, and the decisions of the Monetary Policy Committee of the bank, there are a larger suite of measures that were undertaken by the bank during the pandemic which perhaps fell under the umbrella of the Financial Policy Committee and the Prudential Regulation Committee?
+
+**The King**: Yes, I think that certainly the Financial Policy Committee changed its view about the amount of equity capital which banks had to issue. It relaxed that, so that banks would find it easier to keep lending to businesses that were under pressure and required more lending.
+
+Actions of the Prudential Regulation Authority are ones that almost by definition we, as outsiders, don't get to see, and there were no obvious bank failures during that period. So that is not something that, you know, I have anything to contribute on, but it's become a major part of the work of the Bank of England. If I could just illustrate with one number.
+
+**Counsel Inquiry**: Please.
+
+**The King**: When I left the Bank of England, just before I left, before we were once again responsible for regulating banks, there were fewer than 2,000 people working at the Bank of England, primarily on monetary policy and also on the Financial Policy Committee was up and running at that point.
+
+Today it's over 5,000 people, more than two and a half times as large, which shows the sheer burden of work which has been created by adding the regulatory responsibilities to the bank. And of course, that's adds enormously to the workload of the Governor himself.
+
+**Counsel Inquiry**: Thank you.
+
+To now move closer towards the meat of your evidence today, I'm going to ask you to explain some things about monetary policy.
+
+Firstly, could you do your best to give us a brief overview of what it is, monetary policy? What should we understand by that term?
+
+**The King**: Well, it's really all about changing the interest rate which the Bank of England sets, but I'll come back to that in a minute.
+
+The idea, really, is that in the economy there is a certain amount of total willingness to spend, it's called aggregate demand, and then there's the value of the ability of the economy to produce potential supply, valued at the desired price level given by the inflation target.
+
+Ideally you want these two things to be pretty equally balanced. In that situation there's no upward pressure or downward pressure on inflation.
+
+Now, occasionally, things change, either people become very optimistic and decide to spend more, or pessimistic and decide to spend less. And in those two situations what the Bank of England can do is to try either to slow down the speed of spending or to accelerate it.
+
+To speed up spending, then the idea is you cut interest rates in the economy, and to slow it down, you raise interest rates.
+
+How does the bank do that? The bank controls one interest rate only, which is the interest rate at which it lends to, or pays interest on deposits which the commercial banks hold with the Bank of England. So very large amounts of bank reserves are held by the Bank of England but they belong to the commercial banks. We have the bank account for the commercial banks.
+
+**Counsel Inquiry**: So if an individual deposits their money at a commercial bank, similarly, a commercial bank will deposit its money at the Bank of England?
+
+**The King**: Correct. And if that interest rate changes and the Bank of England announces that, which is called Bank Rate, if that changes, then the commercial banks know that if they wish to -- if the Bank Rate, for example, goes up, if they want to carry on lending to the private sector, then they really need to charge the private sector a bit more in order to compensate for the interest rate that they're going to be having to pay to obtain money, either from the Bank of England or, indeed, from other providers in the money markets in London, hedge funds and others.
+
+So Bank Rate does lead to a pretty much automatic passthrough to very short-term interest rates in the economy.
+
+Of course, mortgage rates and longer-term rates which are charged by banks if a bank makes a loan for, say, five or ten years. How do they decide what that rate should be? Well, they have to look not just at Bank Rate but where they think Bank Rate will go over the next five or ten years, and that is reflected in the curve in financial markets where people out there are lending and borrowing money at five years or seven years or three years, and you can see in those markets where people believe Bank Rate will go.
+
+Of course when banks lend on mortgages or commercial property or even more so when they're lending to business ventures, they won't want to lend just at Bank Rate or where they think Bank Rate will go, they want to add a risk premium to that to reflect the riskiness of the loan that they're making.
+
+So that matters too, but that's a factor which the commercial banks have to decide for themselves.
+
+**Counsel Inquiry**: Could you just explain what you mean by risk premium, please?
+
+**The King**: So if, for example, you said to me that you were starting a successful new business, you decided to abandon this Covid Inquiry, you had a great idea for a new business, and you were going to start next week and you didn't want money for very long, just for three months, I wouldn't want to be willing to lend money to you just at Bank Rate over the next three months. I'd say, "Well, it sounds a pretty good idea, I can't be sure, there's some risk you won't be able to repay the money so I'm going to charge you a bit more interest so that as you keep repaying it, I'm being compensated for the risk that I'm taking", and the whole spectrum of interest rates in the economy will reflect people's judgements about how safe it is to lend to various people.
+
+**Counsel Inquiry**: And there's no point taking a risk if there's no potential reward?
+
+**The King**: Yes.
+
+**Counsel Inquiry**: How is monetary policy, in as simple terms as is possible, different to fiscal policy?
+
+**The King**: So monetary policy operates really through both the interest rates which borrowers and lenders face in the economy, but also directly through the amount of money in the economy, and the amount of money in the economy really comprises two parts: some part is just the amount of banknotes that exist out there that people hold. That's only about 5% of the total, broad money supply. That is the money held by businesses, families, individuals, right across the economy. People who go out and spend.
+
+**Counsel Inquiry**: So the pound coins, the £5 notes, the £50 notes, all of that together comprises only 5% --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- of what you're terming "broad money" in the economy?
+
+**The King**: Yes, and the rest is primarily bank deposits. So you and I have bank deposits with our commercial bank, we can make payments out of that. It's accepted as a means of payment. That's the other 95% of money in the economy.
+
+Now, when interest rates go up or down, that leads to banks being willing to either to lend a bit less, if the interest rates have gone up, people don't want to borrow as much, so the amount of lending by banks to borrowers goes down.
+
+**Counsel Inquiry**: And the reason, presumably, people don't want to borrow as much when interest rates --
+
+**The King**: At a higher rate --
+
+**Counsel Inquiry**: -- are high is because there's more risk that they have to pay more back?
+
+**The King**: And when interest rates go down, it's cheaper to borrow. If the prospect for borrowing, whether it's to buy some equipment for a business or whether it's to buy a new television set at home, it seems more attractive because the cost of paying for it has gone down.
+
+In that way you can affect spending directly, but what also happens is that the amount of money in the economy, 95% of which is reflecting bank deposits, is affected by the amount of lending that banks do. Because most of the lending that banks do, that comprises the assets of the banking system. The loans that they have made are their claims on other people. It's their assets.
+
+When they make a loan to someone, so -- to a business, if I make a loan to you, then I'm going to open a bank account for you with my bank. And I'll credit you with the amount of the loan. That increases your bank account, your bank deposits. So when lending changes, bank deposits go up and down as well.
+
+**Counsel Inquiry**: So I would take on debt, perhaps, and --
+
+**The King**: You would take on debt as a liability to you. To me, as the bank, it's my asset. Your asset is the bank deposit which I've created for you --
+
+**Counsel Inquiry**: So that's the money I've gone and put in the bank and that the bank says: "We're holding this for you"?
+
+**The King**: Yeah.
+
+**Counsel Inquiry**: "It's available to you when you want it"?
+
+**The King**: Yes, and you can spend it whenever you want it. And that is a liability to me. It's your asset and my liability.
+
+And that affects the amount of money in the economy directly. Now, why does this matter? Easier to explain that in terms of quantitative easing, which we can come on to.
+
+**Counsel Inquiry**: Yes.
+
+**The King**: But when you change Bank Rate, which has been the normal method by which central banks influence monetary policy, they do so in order to either speed up or slow down the amounts of spending by the private sector.
+
+**Counsel Inquiry**: And is it right for us to understand fiscal policy as decisions made by the government on public spending?
+
+**The King**: Yes, so fiscal policy is decided by the central government and it's done by direct transfers of income, essentially. I mean, the government can spend directly itself, as it would, say, through NHS or defence or some other form of spending directly by government.
+
+**Counsel Inquiry**: Or the furlough scheme?
+
+**The King**: Or?
+
+**Counsel Inquiry**: The furlough scheme?
+
+**The King**: Or it could be transfers of income in which it would either lower taxes or raise taxes, or say to people, in this context of the furlough scheme: we will transfer money to you, the employer, so you can reimburse your employees, even though they're not turning up to work, because we don't want to break that relationship between the employer and the employee, because we think that the break is purely temporary.
+
+**Counsel Inquiry**: The reason I'm asking, really, is that your evidence today is going to focus on monetary policy.
+
+**The King**: Yes.
+
+**Counsel Inquiry**: And so to draw a distinction in our minds between monetary policy on the one hand and fiscal policy on the other, the Inquiry understands that they largely operate separately and should be thought of separately, but I think it's right to say that it's important for one to be aware of the other?
+
+**The King**: Absolutely. And that is always true, whether inside a pandemic period or outside it. So each -- each authority, the fiscal authority, the Treasury, and the monetary authority, the Bank of England, take their own decisions using their own well-defined monetary and fiscal instruments.
+
+But in order to set -- make their decisions, they need to take into account what the others are doing. It became, you know, trickier during Covid because in -- in normal times the fiscal authority sets its budget once a year and the Monetary Policy Committee says: okay, that's what the government doing in fiscal policy, we will meet once a month, or every six weeks, and we will set monetary policy in the light of the fiscal policy that's been set.
+
+**Counsel Inquiry**: Which is relatively constant --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- in normal times?
+
+**The King**: Yes, only changes once a year. Now, clearly during Covid --
+
+**Counsel Inquiry**: Pause for one moment, please. I can see that the screen has gone blank.
+
+**Lady Hallett**: Sorry, don't worry, I just dropped something.
+
+**Mr Hudson**: Thank you, my Lady.
+
+**Lady Hallett**: I've done it before.
+
+**Mr Hudson**: I'm sorry, Lord King. I interrupted you.
+
+**The Witness**: Where were we?
+
+**Counsel Inquiry**: Good question.
+
+**The King**: We talked about the separate responsibilities, but it was vital that each authority understands what the other is doing.
+
+**Counsel Inquiry**: And that -- and that fiscal policy during the pandemic was relatively inconstant compared to how it is usually?
+
+**The King**: Exactly, yes, exactly. You know, fiscal decisions were being taken -- understandably -- you know, if not daily, but certainly they changed at regular intervals.
+
+That required, obviously, close cooperation -- perhaps cooperation is the wrong word, but information sharing between the Chancellor and the Treasury and the Governor and the bank. And as far as one could tell, that worked extremely well.
+
+**Counsel Inquiry**: The next large concept is inflation. Broadly, what is inflation and why does it matter to individuals and businesses on a daily basis?
+
+**The King**: Inflation is a rise in the price of goods and services, which we all face from day to day. Things don't all go up at the same rate, but on average, if they're going up at a rapid rate you can tell that pretty easily, and all the evidence we have is inflation is pretty unpopular.
+
+**Counsel Inquiry**: Love it, loathe it, or enjoy it in moderation, why is the inflation target 2% rather than zero?
+
+**The King**: Well, there's nothing magic about the figure of 2 but there are two good reasons for thinking of 2% as being a good target, and it's one that's been chosen by almost all industrialised countries around the world.
+
+The central -- well, the Office for National Statistics, and statistical authorities around the world, do their very best to measure the rise in prices of goods and services month by month, and they go into shops and supermarkets and measure the price.
+
+The difficulty is that, quite often, the quality of what you're buying improves from year to year. This is particularly true in the case of durable goods, like motor cars or computers. And the ONS and others do their best to try to capture that but they can't capture it all. And most of the studies that have taken place would suggest that at least 1%, maybe 1-1.5% a year of measured inflation actually corresponds to a genuine improvement in the quality of those goods and services.
+
+So a measured 2% inflation may correspond to a real inflation rate of between 0.5% and 1%.
+
+If you're going to make monetary policy work, it's quite important, and we spent much of the time in the bank doing this, explaining to people what we were doing.
+
+The idea of explaining to people we're aiming at 1.73% inflation clearly doesn't make any sense. 2% is good enough, provided you stick to it. You can explain it, and you can try to meet it, and it provides a very good benchmark by which, whenever we went to House of Commons, to a Select Committee, and were grilled on "Why was inflation different from your target?", the benchmark was there, and we had to explain why it was above or below 2%.
+
+And I think therefore having a very clear numerical target for inflation helps a great deal. It is that this is what we're trying to achieve. We'll never hit it exactly spot on, although in the 25 years after it was introduced, inflation pretty much was an average of 2 or 2.1%. So I think it's the right target to hit, but of course there is nothing especially magic about 2 rather than 1.6 or 2.4, but there is something seriously better about 2 than, say, 4 because the people who advocate allowing the inflation target to go up tend to do so only when inflation happens to be above the target and it's convenient, then, to say perhaps, well, don't worry about that, we'll let it go up.
+
+**Counsel Inquiry**: Whatever the target is, what are the downsides to inflation being above it? Can you help us with some practical examples?
+
+**The King**: Well, I think it's quite tricky for inflation just to -- I mean, suppose the government say, "Well, we're going to -- it's a bit of a hassle to get down to 2%, you know, it means maybe unemployment stays a bit higher for longer, so let's just accept 4." Well, then, people notice, "Okay, it's going to be 4", right, so they then start to say, "Well, in that case we need a higher wage increase this year", and people selling things in shops or in businesses say --
+
+**Counsel Inquiry**: And presumably you need a higher wage increase because the goods on the shelf cost more than they did last year?
+
+**The King**: Yes, but once you start to go up like that, where's it going to end? And people may say to themselves, "Hmm, if they were quite keen to go to 4 from 2, you know, maybe at some point it could go up further", and you can quite rapidly get into a situation where inflation starts to accelerate away. That's really what happened in the 1970s, late '60s right through the 1970s.
+
+So, actually, being serious about the inflation target and trying to meet it is very important because once inflation starts to rise then it becomes very difficult to know what is the right price and what is the right wage that I should be paid? Because you start to see that people who get a wage increase in June as opposed to November, you know, there's quite big jumps in their relative position, and it becomes much harder for people to judge what is the right price or wage to pay for something.
+
+There is no benefit to allowing inflation to rise without limit.
+
+**Counsel Inquiry**: What are the downsides of inflation being below target?
+
+**The King**: If inflation goes too far below target then the risk is that what it's reflecting is that you're moving into a depression, not just a recession where output falls, but a depression where it falls substantially and stays there for a long while. The 1930s.
+
+And that can be self-fulfilling because if prices start to fall, then businesses that have borrowed money, say, they've borrowed so many pounds, thinking that they can sell their products for an appropriate price in pounds, if the value of that pound is -- if inflation is negative and you start to get into negative territory then the real burden of that debt, in terms of the goods that you've got to sell, becomes bigger and bigger.
+
+**Counsel Inquiry**: So if I bought a microwave for £100, planning to sell it for 120, but now it's actually worth, 90, that's a problem for -- (overspeaking) --
+
+**The King**: Yes, and then you can't repay your debt and you may have to sell something else. You contract your production even further, and you get into a self-fulfilling downward spiral, and that would be very damaging.
+
+So stability of the price level, "price stability" is the phrase that central banks use all the time. Keeping inflation close to the target has enormous value.
+
+**Counsel Inquiry**: You have explained how Bank Rate works. Comparing it with quantitative easing, which we will come on to next, what are the relative strengths of using Bank Rate to influence the economy?
+
+**The King**: Well, for a long while, Bank Rate has been the favoured method chosen. It's a relatively recent idea that we should always and only use Bank Rate. Quantitive easing is a phrase that was introduced during the financial crisis.
+
+**Counsel Inquiry**: By which you mean?
+
+**The King**: I'll explain quantitative easing in a minute.
+
+**Counsel Inquiry**: The financial crisis, by which you mean --
+
+**The King**: Financial crisis --
+
+**Counsel Inquiry**: -- 2007 to 2009?
+
+**The King**: 2008/9, when the banking system in the western world basically collapsed.
+
+The phrase that was introduced then, but it's essentially where the central bank buys government bonds. We can come back to how that works in a minute. But that was something that central banks have always done and in the 1980s it was called underfunding. The government was not selling as much debt to the private sector as it needed to finance its spending, the central bank was buying it instead. And -- so it's, it's not something we should think of as necessarily an instrument introduced for the first time in the financial crisis in 2008/9. It had been existed before.
+
+**Counsel Inquiry**: And the strength of Bank Rate as compared with quantitative easing?
+
+**The King**: Well, quantitative easing is directly affecting the amount of money in the economy. The Bank Rate is directly affecting the interest rates, which lenders charge either to people who borrow from them or to deposit money with them. But they have a very similar effect.
+
+What happens is both of these channels feed through to affect spending. So if interest rates go up, spending slows down. If interest rates go down, spending speeds up. And quantitative easing, the central bank buys, typically from financial institutions like pension funds, hedge funds, insurance companies and others, buys government bonds.
+
+When they do that, they give that institution a cheque for the amount of money they're paying to buy the government bonds.
+
+**Counsel Inquiry**: Now, could I just pause you there for one moment --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- because I think we're now moving smoothly, if I may say so, into quantitative easing.
+
+**The King**: We are, sorry, I'll --
+
+**Counsel Inquiry**: Government bonds --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- is an important concept within quantitative easing. Could you unpack that first before you go on to explain the way that it operates?
+
+**The King**: So the government finances its own expenditure in two ways. One is by taxes, raising taxes directly, income tax, VAT, many others taxes which we've learnt to hear about, if not love, in recent weeks. But it can also finance itself by borrowing, and by borrowing it issues bonds. It sells bonds to the private sector, both in Britain and overseas.
+
+And these bonds offer the buyer an interest rate every year until the bond matures, which can be either one year down the road or 30 years down the road or, in some cases, longer.
+
+So the government can borrow money and it issues those bonds, and they are typically known as gilts, because when they were first issued, they were literally gilt-edged around the edge. Sadly, we can't afford now to have our bonds edged in gold, but they were gilt-edged bonds. Gilts, government bonds.
+
+**Counsel Inquiry**: Could you provide us with a brief explanation of how quantitative easing affects the real economy? And if you could, could you please explain some of the channels thorough which it operates, particularly in so far as they were relevant during the pandemic.
+
+**The King**: Yes. So quantitative easing is where the Bank of England buys government bonds from the private sector, hedge funds, pensions funds, insurance companies and others. When it does that, it has to pay those institutions for the bonds which they give the Bank of England, and it does that in the form of a cheque, typically a digital cheque, which the institutions can then deposit into their bank accounts.
+
+So if a pension fund sold gilts to the Bank of England they would be able to deposit a cheque drawn on the Bank of England into their bank accounts, say in Lloyds. That means their bank deposit would go up. Lloyds would then take that cheque to the Bank of England and say, "Here's a cheque drawn on you, the Bank of England, I'm going to deposit into my bank account with you."
+
+So Lloyds Bank reserves with the Bank of England would also go up.
+
+**Counsel Inquiry**: So Lloyds Bank increases the amount of money in its own bank accounts, and then in the same pipeline way we discussed earlier, it deposits further money with the Bank of England and so the Bank of England's balance sheet, its deposits, go up as well?
+
+**The King**: Yes. So you've got the increase in the bank deposits of the private sector that sold the bonds to the Bank of England. That means that total bank deposits go up. Broad money supply goes up. One for one, with the scale of the action for quantitative easing.
+
+**Counsel Inquiry**: And you've already explained the amount of money in the economy that is comprised of bank deposits is 95% --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- and so it's much more impactful, one might think, than simply printing money in physical form?
+
+**The King**: Though it is printing money in electronic form.
+
+**Counsel Inquiry**: Yes.
+
+**The King**: Because it's adding to the deposits, the bank account deposits, one for one, with a scale of QE.
+
+Now, that's how it works in practice so what's the impact of that?
+
+**Counsel Inquiry**: Yes.
+
+**The King**: So the institutions, pension funds, hedge funds, and others, that find that they've sold bonds to the Bank of England, they've got much bigger bank accounts now, they don't really want to hold a lot of extra money in their bank account, so what are they going to do? Well, they'll buy other things. They're likely to buy some more government bonds to replenish their holdings of government bonds.
+
+In turn, that's going to push up the price of those government bonds, a the rise in a price of a government bond is going to push down the effective interest rate or yield on that bond. So --
+
+**Counsel Inquiry**: Just pause for one moment. The reason I think that the price will go up is because there is greater demand --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- or competition for the same assets --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- so it will be priced at a higher level?
+
+**The King**: Yes, they'll be going into the market to buy government bonds.
+
+**Counsel Inquiry**: Which have now become more prized than they were before, and we don't need to go into the mechanism of this because it can be quite complicated. But suffice to say, the assumption is if the price of a bond rises, the yield or its interest rate falls?
+
+**The King**: Yes. That means that people borrowing at longer-term interest rates will find it cheaper to borrow, so they're more inclined to borrow long term to finance investment, investment may go up, other kinds of spending may go up.
+
+But the institutions may not buy government bonds. They might buy equities. If they do that, correspondingly, the price of the equity goes up, and then the yield on the equity or the cost of capital goes down, it is cheaper then for companies to issue more equity to finance investment so they may invest more.
+
+Or the institutions might buy overseas assets, which would push down the value of sterling, make exports a little more competitive, our export demand may go up. But in exactly the same way, that boost in the total amount of money in the economy is likely to be expansionary.
+
+And if you do the opposite, which is what the Bank is doing at present --
+
+**Counsel Inquiry**: What do you mean, expansionary?
+
+**The King**: More spending. And if there's more spending, but no change in the supply in the economy, that's likely to push inflation up.
+
+Now, that may be a good thing to do if the starting point is where the amount of demand in the economy has fallen below the potential supply. So if you start in a situation where people suddenly became very pessimistic about the future and didn't want to spend, then it may make sense either to cut Bank Rate or to do quantitative easing in order to encourage people to spend more.
+
+**Counsel Inquiry**: Could you briefly explain the way in which quantitative easing can impact on addressing market dysfunction, perhaps with an example from your time as Governor?
+
+**The King**: Well, I don't think in my time we ever did QE in order to deal with market dysfunction.
+
+This clearly was an issue that came up in March 2020. It may be helpful to discuss it precisely in those circumstances.
+
+**Counsel Inquiry**: Yes.
+
+**The King**: In March 2020, some people say the government bond markets were becoming dysfunctional. I think what they meant by that was that prices were moving very rapidly by large amounts, unusually large amounts. I don't regard that as remotely surprising.
+
+In March 2020, the world learnt that we were in the middle of a global pandemic. That was bound to lead to very big changes in prices of financial assets, reflecting relative profitability of different countries, different businesses, and so on. No one really knew what was -- the effect of Covid was going to be on individual businesses, or indeed individual governments.
+
+And in that situation, there's so much uncertainty that there's a price discovery process. How do we know what's the right price to pay for a government bond? Well, initially you're very cautious so you try not to do too much buying and selling. You stay out of it for the moment. Activity falls. You watch what other people are willing to pay. That tells you something.
+
+And gradually, over a period of weeks, this process of toing and froing establishes a new price for government bonds, and indeed a price for many other things in the economy.
+
+Now, if that volatility is thought to be too damaging -- and I'm not sure that I would have concluded that, but if you do conclude that, one way of going into that market is to say: okay, we'd better go in and buy these bonds ourselves to establish a floor price, give people confidence that there is a value in these bonds -- (overspeaking) --
+
+**Counsel Inquiry**: And so --
+
+**The King**: -- into the market.
+
+**Counsel Inquiry**: And so somebody wondering whether to buy those government bonds would see the Bank of England buying them at price X --
+
+**The King**: (Witness nodded)
+
+**Counsel Inquiry**: -- and think the price is probably around X, then?
+
+**The King**: Yes, exactly.
+
+Now, of course, the consequence of that -- and that was the main justification provided for much of the QE in March 2020. But the logic of the argument is that once that dysfunction disappears, which it had done within two or three months, you would then reverse those purchases of government bonds and unwind your holdings.
+
+**Counsel Inquiry**: I don't want to unduly cut you off. We very much will come to that aspect of your evidence. I want to first reverse slightly and set the scene for the important principles in decision making that the bank has to be aware of when there is a large-scale economic shock?
+
+Presumably, it's crucial for the bank, as well as other economic actors, to accurately assess both the nature and the scale of the shock that is being faced.
+
+Could you help us with why it is important, if you agree that it is, to understand the nature and separately, the scale of the shock.
+
+**The King**: I think this is the main job of the Monetary Policy Committee. The broad principles about keeping demand in line with supply are very clear. The real challenge is to work out what's happened to both demand and supply, and so that you can decide which action is appropriate to bring them back into balance. And that requires monitoring both demand and supply in the economy.
+
+Most of the data and statistics that we have relate to demand. Fewer data refer to supply. But a challenge always is to think about both demand and supply, and indeed I would say, even more importantly, to ask the question, you know: what is going on here? To really understand the nature of the events that have occurred since the last decision was taken on interest rates or quantitative easing: what has happened since and what do we need to do now?
+
+And really to understand -- create a narrative of what is happening in the economy.
+
+**Counsel Inquiry**: And presumably, on the basis of what you've just said, the really crucial thing to do is, whatever data you have or don't have, to conceive of it in the right way?
+
+**The King**: Yes.
+
+**Counsel Inquiry**: To make an assessment of the data, interpret it, and calibrate a response accordingly?
+
+**The King**: Absolutely.
+
+**Counsel Inquiry**: It's not a case -- and I know we've heard other evidence in relation to science in this Inquiry, it's not a case of follow the numbers. Is it more a case of make an accurate assessment on the basis of the numbers you have?
+
+**The King**: That is absolutely crucial. It's making a good judgement of what the numbers mean. And I think -- you know, the way I used to describe it is, every three months the Bank of England would produce a new report which has a narrative about what is going on economy, what we have learnt since last time, have we changed our view on any element of the interpretation.
+
+But that judgement is about the nature and the scale of the difference and the balance between demand and supply.
+
+**Counsel Inquiry**: Do you agree in principle that this shock was one that was particularly unfamiliar in both nature and scale?
+
+**The King**: Absolutely. Unprecedented.
+
+**Counsel Inquiry**: And so, with that in mind, can we examine some of the decisions taken in March 2020, June, and then November 2020.
+
+In March 2020, actions were taken in relation to monetary policy in relation to both the Bank Rate and asset purchases or quantitative easing. In respect of the Bank Rate, on 11 March the Monetary Policy Committee voted to reduce the Bank Rate from 0.75% to 0.25%. And then again, as things became somewhat clearer, on 19 March they reduced it from 0.25% to 0.1%.
+
+The Inquiry understands this is termed as the "effective lower bound" in respect of Bank Rate, ie as close to zero as one can get.
+
+Could you explain for us why, in your view, the bank would take an approach of reducing Bank Rate before it considers other monetary policy interventions?
+
+**The King**: Well, of course, the change in Bank Rate was followed fairly quickly by a significant degree of quantitative easing.
+
+**Counsel Inquiry**: Yes.
+
+**The King**: Why you -- I mean, I suppose, it was just very easy for them to decide, as a committee, to -- to go down with Bank Rate. It may be that the bank had wanted to talk to the Treasury to reaffirm the arrangements for quantitative easing, which, you know, there was a guarantee from the Treasury to the bank. That may have been just an operational issue. But I regard these things as essentially having been taken together, in economic terms.
+
+I think what surprised me was that the judgement of the Monetary Policy Committee at the time, as revealed in the minutes, was that they felt the impact of Covid would be a much bigger shock to -- downward shock to demand than to supply. I found that puzzling at the time and I find it even more puzzling today.
+
+And I think there's been a recognition around the world that maybe central banks jumped too quickly to the conclusion that trying to boost aggregate demand was the right response.
+
+I understand that central banks felt that, in that situation, there was enormous pressure on them to do something. They were a public body, this was a major economic shock; they had to do something.
+
+The trouble is, that it doesn't follow that if there is bad news, that every bit of bad news justifies a monetary policy response. There may be other things. Or, in this case, it was for the government to take the appropriate actions, through, for example, the furlough scheme and other schemes. And the bank did contribute with, you know, the Term Funding Scheme.
+
+All of these things made sense. But a general monetary policy easing, I think was not easy to understand, either at the time or subsequently.
+
+**Counsel Inquiry**: We know, Lord King, that in March of 2020 the bank undertook £200 billion further of asset purchases, quantitative easing, QE, and that's one of the measures I think you're referring to alongside the reductions in Bank Rate --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- as being under the broad umbrella of monetary easing?
+
+**The King**: Yes.
+
+**Counsel Inquiry**: On one view, the bank viewed their asset purchases and their monetary policy interventions in March 2020 as being designed, above all else, to step in and correct market dysfunction.
+
+**The King**: Mm.
+
+**Counsel Inquiry**: From your understanding of the contemporaneous material, I'd like to ask you two questions. Firstly, does that motivation stand up to scrutiny? Was it actually the motivation at the time? And secondly, was it the correct motivation?
+
+**The King**: Well, I think it's understandable that, you know, I wouldn't have wanted to do it myself but I think, given the market dysfunction as it was perceived and given what other central banks were doing, I think it's understandable that the Bank of England decided, "Well, look, let's do it. Play on -- be on the safe side and let's do it."
+
+The trouble is it should have been unwound in the summer, because the logic behind doing it for the reasons of market dysfunction would have implied unwinding it later in the summer.
+
+There was another reason given, as I mentioned earlier, in the minutes of the MPC, which was a judgement that even leaving aside the market dysfunction argument, the impact of Covid was going to have a bigger effect on demand than on supply.
+
+I think that was a misjudgement and I certainly think that contributed to doing QE on a scale which did contribute to higher inflation further down the road.
+
+And I think the -- it goes to the heart of what I said earlier on about trying to understand what is going on here. Forget economist jargon about demand shocks and supply shocks. What is actually happening on the ground?
+
+And of course many of the data that came in would normally have been interpreted in terms of weak demand, you know, sales in shops down, theatre ticket sales down. But the reason they were down was not because people had become pessimistic and didn't want to spend, it's because they were banned from going to theatres or shops, or had decided for themselves that it wasn't safe to do so, or that social distancing made it a pretty unpleasant experience.
+
+So the big impact of Covid was really on the supply side, and it was the supply-side measures that were taken by the government to cope with Covid-19 that generated that shock that made it impossible for people to spend. It wasn't that they were pessimistic. And what it meant was that once those restrictions were going to be released, then there was going to be pent-up demand, which would spring back, which is exactly what happened.
+
+**Counsel Inquiry**: On one view, the public health restrictions introduced affected the way that people could behave, so limiting supply in that way. On another view, one might say that with the prospect of an infectious disease that was deadly for many, many people may have voluntarily chosen --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- to restrict their activity.
+
+**The King**: Absolutely.
+
+**Counsel Inquiry**: Does the argument that this was primarily a shock to supply, is it undermined by the notion of what people might voluntarily have done?
+
+**The King**: No, not at all. Covid itself was the shock, and I think, rather than thinking about supply and demand, it may just be better, what did people do? And either because they were told that they couldn't do certain things or because they made their own decisions about what to do, that meant that this was -- made it impossible -- people chose. You know, we were not going to contribute to production activity in the economy. We're not going to go to work. And this was not a reduction in spending that resulted from people's unwillingness to spend because they were pessimistic. It resulted from the nature of Covid itself.
+
+Once that had gone away, then there was no reason to suppose that their willingness to spend wouldn't just snap back again.
+
+**Counsel Inquiry**: Judging the Bank's actions in foresight rather than hindsight, was any of that knowable in March 2020?
+
+**The King**: I think it was. I think the number of people that commented about the fact that, you know, what the bank had done was to lead to a very significant increase in the broad money supply. They weren't alone in doing this. I mean, the Federal Reserve were absolutely in the same boat. So I don't think this is something where I would put, you know, blame at the door of the Bank of England.
+
+I think in many ways, blame at the door of the academic community, which wanted to use traditional models to think about this. But the fact is that the reason why spending fell, the reason why, you know, retailers couldn't sell, restaurants couldn't sell their meals, was because of the nature of Covid, not because there was some lack of general willingness to spend, for which monetary policy expansion would be the appropriate response.
+
+You know, if you start off with a balance between demand and supply, supply goes down, the last thing you want to do is to boost demand. That's going to give you inflation.
+
+And Covid, in many ways, was a textbook example of too much money chasing too few goods. Covid reduced the number of goods; the bank had increased the amount of money.
+
+**Counsel Inquiry**: So I think I understand from that, that your view, and perhaps it's a widely accepted view, is that in undertaking monetary easing, particularly in the form of additional quantitative easing, there was a risk at some point that there would be significantly higher inflation than was desirable.
+
+**The King**: That was a view that a minority of economists had. I was in that minority. I think there was, in the United States, which tends to have a disproportionate influence on economic debate, there was a group of people who became known as Team Transitory: any rise in inflation through, you know, Covid affecting supply chains and so on would be transitory and that meant that there was no need to raise interest rates, inflation would go away of its own accord.
+
+I didn't accept that and there are very distinguished economists in the States who didn't accept it. But nevertheless, it was, I would say, a majority view in the academic profession. And I think it's quite hard to blame central banks for not standing out from that; you know, they were influenced by it.
+
+But I think with the benefit of hindsight, many people will now say, "Well, Team Transitory got it wrong. We had to raise interest rates from close to zero to around 5%", and even five years on, inflation is still above target. So the idea that it went away of its own accord simply wasn't true.
+
+**Counsel Inquiry**: On the point of, perhaps, balancing risks in monetary policy decisions, particularly acute risks, at a time of high uncertainty and high economic turmoil, could I ask you to have a look at and then comment on the view of James Smith, who has produced an expert report for the Inquiry in this module.
+
+It's INQ000588133. It's paragraph 29 on page 11.
+
+**The King**: So I can see the paragraph in front of me.
+
+**Counsel Inquiry**: Yes. I'm afraid this isn't the one I ...
+
+**The King**: It's paragraph 29.
+
+**Counsel Inquiry**: Yes, this is the one that's on the page.
+
+**The King**: Yes.
+
+**Counsel Inquiry**: This paragraph, for context for you, comes after a graph that James Smith produced, a graph of VIX, which I think is a graph that, maybe in crude terms, demonstrates as you can see on the screen there, market volatility. I don't necessarily want to go into the technical details of this graph, but I'd like to put to you the narrative of paragraph 29, please.
+
+**The King**: Yes.
+
+**Counsel Inquiry**: And it's this:
+
+"As shown in figure 4 [which is the figure we've just looked at] measures of financial-market volatility reached very extreme levels -- even higher than during the financial crisis [of 2008] -- indicating large falls in asset prices. But after the first few months of the pandemic, there was a significant easing in financial conditions. It is striking that, during this period, the huge economic hit and the big swings in asset prices did not lead to the collapse of financial institutions or financial infrastructure. As discussed below, this was by no means assured before the crisis with the Bank of England repeatedly warning about [the] risks in the financial system and low levels of liquidity since the financial crisis ..."
+
+And the question I want to ask, really, is: was the risk in not undertaking quantitative easing far too great to contemplate regardless of the risk of inflation?
+
+**The King**: No, I don't think that at all. I think that if one was concerned about low levels of liquidity, it would have been better to have introduced, as has happened before, a scheme to provide liquidity to those institutions that were at risk, and then to withdraw that liquidity when conditions returned more to normal.
+
+The problem with doing quantitive easing is that it did a lot more than that. It actually boosted aggregate money supply. And that did create a bigger risk of inflation.
+
+So there were alternatives to dealing with it, but I think this paragraph demonstrates why I said it's so important to think about what is going on here.
+
+In the financial crisis 2008/9, it's true that the volatility and asset prices was less in some periods than it was in March 2020. But the risk to financial institutions, banks in particular, was much greater in 2008 than it was in 2020.
+
+By 2020, banks were better capitalised. They actually had quite a lot of liquidity in the form of these bank deposits with the Bank of England. They weren't facing the risks that we saw in 2008.
+
+So, rather than thinking about these abstract concepts, like, sort of, financial risks, or demand, or supply, I think it is very important, and this is what central banks really have to do, is to get to grips with what is actually happening in the economy.
+
+If there were concerns about, you know, a range of financial institutions in March 2020, then actually lending directly to them through a liquidity scheme would have been directly -- would have directed support where it was needed.
+
+But as this paragraph says, you know, after the first few months of the pandemic, there was a significant easing in financial conditions. So the need for support was reduced at that point. But the support itself was not withdrawn.
+
+**Counsel Inquiry**: So we'll move to that in just one moment. I just want to end our discussion of March 2020 with trying to understand how high you pitch the criticism, effectively, of the actions taken, not just by the bank but by the central banks around the developed world.
+
+Is it fair to characterise your view as being somewhat critical of the actions of the bank in March 2020, but had those actions been unwound quickly thereafter, there wouldn't be as much space between your argument and the argument of others?
+
+**The King**: Yes. And I think if they had been unwound, say, in the summer, then I would have no criticism. I think it's a fairly -- you know, I think you can argue either way whether it was sensible to do QE in March 2020, but if it had been withdrawn, it would have been withdrawn for the right reasons, and then I would have had no criticism.
+
+**Counsel Inquiry**: And presumably there's always a range of reasonable interpretations --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- reasonable responses, and it's for the committee of the day to make those decisions?
+
+**The King**: Yes. And I wasn't present, I don't know how concerned I would have been, but I don't think -- you know, if I had been concerned about financial disruption, I would have unwound it in the summer. Where I would have disagreed is the view that Covid was having a bigger effect on demand than on supply.
+
+**Counsel Inquiry**: I'm going to ask you next about June 2020 and then about November 2020.
+
+In June 2020 the bank undertook a further extension of quantitative easing of £100 billion. Of course, the Bank Rate at this stage was already at 0.1%, so there was little to be done in that regard.
+
+Before I ask you to give your view of whether or not that was the appropriate action to take, could you help us with your understanding of why the bank undertook that extra quantitative easing at the time?
+
+**The King**: I think you'll have to ask them to explain why they decided to add to it then.
+
+I suppose my concern about a lot of this is whenever events changed and there seemed to be a problem, the bank felt it had to step in and do something. And all if it could do really, in general terms, was yet more quantitative easing.
+
+And as I said, I think -- it is very important -- I think many central banks since the financial crisis have fallen into the trap of accepting the description of being the only game in town. And I think what Covid revealed was they're not the only game in town. The government is another, even more important game in town.
+
+**Counsel Inquiry**: And this chimes I think with the recognition that monetary policy and fiscal policy need to be aware of each other?
+
+**The King**: Yes, exactly.
+
+So when there are challenges that come up -- and, you know, it was a very difficult set of circumstances, there's no question about it -- it just takes enormous will-power to say, "I know there are problems, I know that you feel something should be done; actually monetary policy is not the right thing to do because it will threaten inflation down the road. We have to find a different way of dealing with it."
+
+That requires a great deal of strength too. And there are enormous pressures, you know, on the -- on the Governor in particular, to say, you know, "You've got to do something."
+
+And I think it's important to be able to resist that.
+
+**Counsel Inquiry**: And so in June 2020 -- we've tried to work out exactly how strong your view was in relation to March 2020, and you've explained that if it were unwound in the summer, you wouldn't have a particularly strong view.
+
+**The King**: Yes.
+
+**Counsel Inquiry**: I think your view does strengthen --
+
+**The King**: Yes, it does. From June onwards, yes.
+
+**Counsel Inquiry**: Why does it strengthen?
+
+**The King**: Because it was creating a risk to inflation.
+
+**Counsel Inquiry**: The risk to inflation was present in March 2020, but I think the balance was perhaps finer in your mind then?
+
+**The King**: Well, I think if you undo the boost to the money supply in March by withdrawing that increase in money supply in June, you're unlikely to have caused any long-run impact on inflation.
+
+**Counsel Inquiry**: What were the benefits of undertaking further quantitative easing in June 2020?
+
+**The King**: Well, I think it reflects the view, as shown in the minutes, that people on the committee felt that they were more worried about the downside risk to demand than they were -- they interpreted events as saying this is a big fall in demand, bigger than supply, and I'm puzzled by that.
+
+And I think that it was almost clear that once you remove the restrictions, and once there was a vaccine, and once Covid started to become less of a problem, that we would return to where we had been. And if people had been unable to spend for a period, then, actually, there'd be pent-up spending power which would then come out which would require monetary policy to respond to that.
+
+So I think, going into a period where you felt we're gradually moving towards a period where Covid would be less of a problem, it was strange to keep interest rates at rock bottom and yet to do more quantitative easing.
+
+**Counsel Inquiry**: I think your view is that with more broad money in the economy, in inflation is very likely.
+
+Is it your view that it's inevitable, or not?
+
+**The King**: No, I don't think it's inevitable and I don't think there's a mechanical link between a change in broad money and inflation. But when you see the amount of broad money in the economy rising by record rates and it was rising, you know, well into double-digit rates by the end of 2020, peaking at 15% in early 2021, you ought to be asking yourself the question: what is going on here? Why can I afford to ignore that?
+
+And there may be reasons, and no doubt in the 1980s there were good reasons at various times to say: these broad money figures are giving us a distorted picture of the underlying degree of inflationary pressure, perhaps because of changes in financial structure or regulation. There didn't seem any obvious explanation like that.
+
+But what the bank should have done at that point was certainly to have drawn attention to it, and said, "Well, we note that it's growing very rapidly, but for the following reasons we've decided to ignore it."
+
+That wasn't done. And I think this goes back to the question of how you calibrate the amount of quantitative easing. To my mind, the easiest step in calibrating it is to say: if we do quantitative easing of, say, 100 billion, then this is equivalent to an X% increase in broad money supply. Can we justify that, in terms of what's going on in the economy?
+
+And maybe you can, maybe you can't. But it's a way of calibrating it.
+
+It was very difficult for people outside all central banks, not just the Bank of England. And my critique here is not of the Bank of England as such; it's of all central banks in the industrialised world, that they just ignored what was happening to broad money and didn't make any attempt to say, "Well, we take note of it, we're not going to respond to it for the following reason", and I think you have to have an explanation as to why you're not going to respond to it. When the increases are so large.
+
+**Mr Hudson**: Thank you.
+
+My Lady, I don't know if now would be a convenient moment to have the mid-morning break?
+
+**Lady Hallett**: Certainly. I suspect Lord King needs to have a glass of water or two.
+
+I hope your voice survives, Lord King. We know you have other commitments, so the team will make sure you get away when you have to.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Thank you very much.
+
+I shall break now for 15 minutes, so come back at -- I can't see what the time is --
+
+**Mr Hudson**: 11.25.
+
+**Lady Hallett**: 11.25, yes, thank you.
+
+**Mr Hudson**: Thank you.
+
+*(11.09 am)*
+
+*(A short break)*
+
+*(11.25 am)*
+
+**Mr Hudson**: My Lady, can you see us and can you hear us?
+
+**Lady Hallett**: I can, thank you, Mr Hudson.
+
+**Mr Hudson**: Lord King, before we get back to questioning, just one matter of correction. I don't need it to be brought up, but you have alerted the Inquiry to a typographical error in your witness statement. Your witness statement is INQ000656310, page 3-paragraph 5, you owed this:
+
+"Doctors and politicians share one problem in common. Patients and voters want to believe that their voters and political leaders know what they're doing."
+
+And you meant "doctors and political leaders"?
+
+**The King**: Indeed.
+
+**Counsel Inquiry**: Returning to the substance of the questions, then, and November 2020, and the decision by the Bank of England to engage in a further £150 billion of quantitative easing, we've effectively rated your view as "not so strong" on March, "relatively strong" on June. Is your view "very strong", that the November extension was the wrong thing to do?
+
+**The King**: I think the same as in June. I wouldn't have -- I'm not persuaded by the arguments that were given for it. It's almost as if there was a view that there had to be some further monetary support of the economy if we were to come out of Covid and see economic growth again.
+
+And as I've explained, I think that the real issues, which were real and serious, were much more on the supply side which were government issues, rather than on the side of the bank. And I understand the pressures that would have been brought to bear on the bank. You know, "You must do something to help us, you must do something." But there are times when, you know, you have to say, "Well, there's no intellectual case for doing something on monetary policy, we will support you in other areas."
+
+And the bank did a lot of work in other areas, different schemes to lend to businesses for short periods, for longer periods, to boost liquidity. All of these things were sensible but it was the broad question of keeping interest rates very low for so long, and doing quantitative easing, not unwinding the March, but doing more in June and November. These things, I think, reflected what I would describe as an unfortunate judgement that the impact on demand as such was much greater than the impact on supply.
+
+And I understand why that came about. I think it was a judgement -- I mean, central banks speak to each other. Everyone would have been in the same position. What can we do to help?
+
+And it's very hard to stand out against that.
+
+**Counsel Inquiry**: Just one point of clarification. When you referred to pressure there, I think it's plain to those of us in the hearing room, but you didn't mean any improper pressure or political interference -- (overspeaking) --
+
+**The King**: No, certainly not improper. No, I just think that -- and not from senior politicians. I think even from within the bank or from officials in the Treasury, there would have been this view: we've just got to do everything we can.
+
+But there's no point doing everything we can if one of the things that you do has an adverse consequence of higher inflation, but doesn't actually help with any of the issues that you're facing. You do require very clear intellectual analysis of why you're doing what you're doing. And I think that was -- you know, it wasn't as clear as it should have been. And I've explained why, in terms of the failure to take into account the growth of broad money, but why on earth there was, in general, a wish to boost aggregate demand to deal with this situation.
+
+If I can refer, in my evidence -- refer to a comment which Professor Summers made in the United States, the former Treasury Secretary.
+
+He had pointed out long before that the Biden fiscal injections were way over the top in terms of what was needed, given any apparent disparity between aggregate demand and aggregate supply, the so-called "output gap", where aggregate demand falls below aggregate supply, which --
+
+**Counsel Inquiry**: Which would require a boost to demand --
+
+**The King**: Yeah, boost to demand.
+
+**Counsel Inquiry**: -- to bring the two closer together?
+
+**The King**: And as he pointed out, this -- you know, this isn't rocket science, this is, sort of, very basic stuff.
+
+But I think in the wish to be willing to do something, politicians and others got swept up in the idea that whatever you can think of doing, we just do.
+
+And that's a mistake. You've got to think very carefully about what it is you're doing and why.
+
+**Counsel Inquiry**: This is a very engaging intellectual difference of view, and a difference of judgements that may have been made at the time. The Inquiry is interested in getting to the bottom of what it can realistically look at as lessons to be learned for the future, the concrete steps of how could this be done better in future circumstances.
+
+I will come on to discuss data at a later point, but I think your main point is that this is a problem of assessment of the existing data rather than having simply more data?
+
+**The King**: Yes.
+
+**Counsel Inquiry**: Could you help us at all with concrete steps that could be taken to improve the situation, in your view.
+
+**The King**: Well, I think one very concrete one is that when central banks engage in quantitative easing, they provide an explanation in terms of the calibration of it: why 100 billion, not 200 billion? How do they think about it?
+
+**Counsel Inquiry**: -- (overspeaking) --
+
+**The King**: And I think one of the problems that central banks have had in -- ever since the financial crisis is the inability to think about quantitative easing in terms of its initial impact on the amount of broad money in the economy.
+
+One can certainly debate how, in particular circumstances, a given increase in the amount of money in the economy will affect the economy. That's a matter for assessment and debate, plenty of room for different opinions. But it's a way of calibrating, you know: why would you want to increase broad money by 7% or 15%? Some numbers that will help to provide an explanation.
+
+Nothing was really provided.
+
+And I think, you know, that is one thing I would -- I would suggest.
+
+More to the point, generally, I think there has been, you know -- and again, many central banks would deny this, but I do think in the House of Lords report recently on the Bank of England talked about this, that it's easy to fall into group think in central banks, you speak to each other, you recruit the same kinds of people from the same kinds of graduate schools. They have the same way of thinking about things, and it's quite important on policy-making committees to have at least one or two people who think about it in a different way from a different background.
+
+And it's too easy, in the world of economics, for people to assume that a certain way of thinking about things makes sense.
+
+I've always been impressed that in -- in jury trials in court, no one is allowed to say, "Oh, god, it's him again turning up", you stick to a narrative about what has happened in this particular case. "What's going on here?"
+
+And central banks are not so good at saying, "What is going on here?" They like to put it into compartments, "Well, this is a demand shock" or "This is a supply shock. That's how we respond to it."
+
+There needs to be much better focus on what's going on here, and to do that you need people whose natural instinct is to say, you know, "What actually happened? What's happening to this business, or that business?"
+
+One of the most useful people on the Monetary Policy Committee in my time was a non-economist who was prepared to ask the kind of questions that no economist was willing to ask because they didn't want to be shown up as not knowing the answer to it, and having that diverse range of opinions, I think, is very important. It doesn't determine the outcome, but you need to have something which is not just the output of the standard economic view.
+
+**Counsel Inquiry**: Thank you, Lord King.
+
+There are two final topics, if we have time. The first is to look at the inflation that came in 2021. And there is a table I'd like to draw your attention to which has been provided to the Inquiry by the United Kingdom Statistics Authority or the ONS.
+
+The reference number is INQ000657600, and there is a table at page (sic) -- thank you -- 106, which deals with CPI and PPI. And I'll ask you to unpack these concepts briefly, if we can.
+
+But in essence, what this table shows is a reference period of March 2021 to January 2022. The publication of the statistics comes roughly a month after the period they relate to.
+
+We have chosen this period because the first uptick that can be seen in inflation in this period, at least in respect of the Consumer Prices Index, is around April 2021, and we've ended on February 16, 2022, because we know in February 2022, Russia invaded Ukraine, and causation, if I can put it that way, becomes a little muddier.
+
+Firstly, the Consumer Prices Index, that's the measure of inflation to which the Bank's price stability objective of 2% is tied, isn't it?
+
+**The King**: Correct, yes.
+
+**Counsel Inquiry**: PPI is the Producer Price Index. Could you, as briefly as you can, explain what that is and how it relates to the CPI?
+
+**The King**: Well, this is referring only to those goods and services directly produced by businesses where they really transact with each other. So, you know, they can be input prices and output prices, if you're making steel or cardboard boxes or packaging, it will show up in the PPI.
+
+CPI is about the things that you and I buy, goods and services that households buy.
+
+**Counsel Inquiry**: We can see that PPI seems to uptick more quickly, earlier in time than CPI. Does that mean that PPI is an earlier indicator than CPI of where inflation might be in the future?
+
+**The King**: Yes, it is typically a leading indicator of where CPI will go.
+
+**Counsel Inquiry**: Is it as reliable as a statistic as CPI?
+
+**The King**: Well, CPI is an index of the thing we want to control, which is the inflation that households face. PPI is about what's going on in the business world. Sometimes, that may go up quite sharply and then come down quite sharply and may not be, therefore, a good indicator -- CPI may not change very much in that respect, but it is certainly something that we always looked at as a potential leading indicator to underlying inflationary trends, yes.
+
+**Counsel Inquiry**: The broad topic area here is concerned with actions taken or not taken by the Bank of England in this reference period. So effectively April '21 to January '22, in its decisions not until December 2021 to raise the Bank Rate in view of signals that we may be seeing increased rates of inflation.
+
+Are you critical the Bank's approach in 2021 in reacting into inflationary indicators or not?
+
+**The King**: Well, I think most central banks today would recognise that they were very slow to raise interest rates. They got into a habit of changing interest rates by maybe a quarter of a percent, 25 basis points, in the jargon, each time, rather than doing more.
+
+My own feeling is it would have been better to have recognised at some point in the first half of 2021 that it had been a mistake to stoke up demand too much, and therefore, you had to unwind a lot of that. That would have meant a much sharper rise in interest rates. It's quite striking that the Bank Rate didn't rise above its pre-Covid level until well into 2022.
+
+As you say, they did start to raise rates in December '21 but only by a small amount, and it was then still below where it had been before Covid hit.
+
+So it was a very slow response.
+
+The bank did then keep raising rates, yes. And they kept at it. So during '22, they certainly were catching up. I think most central banks would probably say they could have caught up faster, but at least they were going in the right direction.
+
+**Counsel Inquiry**: A point on the causes of inflation that we saw in April 2021 through to October 2022. October 2022 is of course outside our reference period but one might look to things that happened within our reference period to see whether they had an impact beyond it.
+
+We had a global pandemic which had effects of its own.
+
+**The King**: Yeah.
+
+**Counsel Inquiry**: The bank responded to the pandemic and in February '22, there was another huge economic shock globally.
+
+To what extent would you lay at the door of the decisions of the bank increased interest rates that were alarming in 2022?
+
+**The King**: Sorry, is that -- that lay at the door of the bank, the ...?
+
+**Counsel Inquiry**: The decisions taken by the bank during the pandemic in respect of monetary easing --
+
+**The King**: Yes.
+
+**Counsel Inquiry**: -- quantitative easing in particular. Do you think they caused the inflation we saw thereafter, and if so, to what extent?
+
+**The King**: Well, they contributed significantly to it, but not entirely. And there's no doubt that the events in February 2022, and maybe some other effects surrounding Covid, did contribute directly to the higher inflation, yes. But nevertheless, it wouldn't have gone up into double-digit figures, I think, had it not been for the monetary expansion which the bank engaged in, in 2020.
+
+**Counsel Inquiry**: Final topic, then, and that's data, looking towards the future.
+
+I wonder if I could have your statement up at paragraph 21 on the screen, please, the INQ reference number ... I will have in a moment. Thank you. It's INQ000656310.
+
+Here, you effectively make a recommendation for the data landscape in the United Kingdom. I'd like to read this out and then ask for some further reflections on this. You say:
+
+"The Bank made effective use of the available data on the effects of the pandemic on the economy. But the pandemic made the task of the Office for National Statistics more difficult. How, for example, can one measure the cost of a theatre ticket when all theatres are shut? My recommendation would be to set up some machinery so that in the event of a similar crisis a small special unit would quickly bring together experts from Treasury, Bank, ONS and other relevant departments to talk through how to find alternatives to data that had become unreliable, to think of data that would be helpful in tackling the crisis (such as national survey to discover how many people were suffering from the virus to calculate the implied mortality rate), and to suggest how administrative data could be used to complement the usual sources of ONS statistics."
+
+Is this a body that you see being stood up now, that can operate in the background, in terms of preparedness, or is this a crisis response body?
+
+**The King**: It's a crisis response body.
+
+I think my experience of different crises at the bank was that the kind of people you need to run an organisation in normal time are not necessarily the best ones equipped to lead it in crisis times.
+
+And I think here, you know, you've got -- all of these institutions inevitably are bureaucratic. That has very many benefits, because things are done in the right way, but it makes them pretty slow to deal with something unexpected.
+
+And I think here the -- I mean, I'll give an -- the theatre ticket example I gave, the ONS, you know, realised that certain things could not be bought and sold. So they tried to think about ways in which you could impute a price that wouldn't necessarily distort the resulting inflation measure.
+
+But it's very difficult to know how to do that. You could argue, for example, that if you're not allowed into a theatre, the price is almost infinite. How do you incorporate that in a price index?
+
+I think what it needs in a crisis, where these questions arise that you don't normally face, it's not just collecting data in the normal standard way, you need a group of bright young people to come together in a small unit and say: look, here are some big questions. What's the best anyway of tackling them?
+
+And then to feed that back so that the bureaucratic organisations can respond and collect new data that they themselves are not really inspired to think of collecting: what data to collect, how to impute prices when various things can't be bought and sold.
+
+There are many aspects of data that were affected by Covid. We need to take a completely fresh look. And I think a small, special unit, bringing people from the different departments together, especially bright young people, to talk through some of these issues and to make judgements about what to do in the crisis, would be very valuable.
+
+**Counsel Inquiry**: Lord King, thank you. That's the end of the questions I want to ask you. You've provided a helpful recommendation there at the end on data.
+
+Before we finish your evidence session today, are there any concluding thoughts that you wanted to leave the Inquiry with?
+
+**The King**: No, I don't think so. I think all my thoughts are in the -- the evidence.
+
+I think that, as I said in the conclusion of my written evidence, we are blessed with having outstanding public servants who are deeply committed to doing the right thing and did their very best. And any critique that I have made in my evidence is not of the individuals or the institutions for which they work; it is, in a sense, for the academic community in economics and the wider group of economists working in public policy that basically I think, you know, made central banks walk a little bit into a blind alley and ignore the role of money and inflation.
+
+That's not the fault of individual central banks or individuals within it, but it is a plea for having more diverse thinking in central banks.
+
+**Mr Hudson**: Lord King, thank you.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Lord King, that completes the questions we have for you. You mentioned there bright young people and outstanding civil servants. I can also attest to the value of both of those.
+
+And thank you very much for all the help that you've given to the Inquiry. I understand you've been extraordinarily helpful and cooperative, and I'm really grateful to you.
+
+I just hope you're not going on another speaking engagement now?
+
+**The Witness**: I fear I have a Zoom call, but I'll try to say as little as possible.
+
+**Lady Hallett**: Well, as somebody who has had to cope with public speaking with a bad -- having suffered some kind of bug and then got a voice going, I hope you survive.
+
+**The Witness**: I'm sure I --
+
+**Lady Hallett**: Anyway, thank you very much indeed for all your help. And obviously we'll bear very much in mind what's in your written statement as well.
+
+**The Witness**: Thank you. And every best wish for the Inquiry, thank you. It's very important.
+
+**Lady Hallett**: Thank you very much.
+
+Mr Wright.
+
+**Mr Wright**: My Lady, the next witness is Andrew Bailey.
+
+Mr Andrew Bailey
+----------------
+
+*MR ANDREW BAILEY (sworn).*
+
+Questions From Richard Wright KC, Lead Counsel to the Inquiry for Module 9
+--------------------------------------------------------------------------
+
+**Lady Hallett**: Thank you for joining us, Mr Bailey. I hope we haven't kept you waiting for too long.
+
+**The Witness**: Not at all.
+
+**Mr Wright**: Mr Bailey, you are the Governor of the Bank of England, and you have provided a statement to the Inquiry, and I'll just read the statement reference into the record, which is INQ000657513.
+
+Mr Bailey, I say you're the Governor of the Bank of England. You became Governor, as the Inquiry understands it, on 16 March 2020; is that right?
+
+**Mr Andrew Bailey**: That's correct, yes.
+
+**Counsel Inquiry**: But that wasn't the date that you started work at the bank, you had a long history of working at the bank before that, and had previously worked with the Governor, your predecessor, Mark Carney; is that right?
+
+**Mr Andrew Bailey**: And indeed Lord King, his predecessor, and his predecessor, Lord George, as well, so yes.
+
+**Counsel Inquiry**: Yes. I wouldn't want there to be the impression that you'd just walked in on 16 March --
+
+**Mr Andrew Bailey**: No, I had been out of the bank for a few years as chief executive of the FCA.
+
+**Counsel Inquiry**: Yes. Now, we just, if we can, need to deal with a few background issues.
+
+The Bank of England is an independent central bank, and we'll look at what independence means, and how it, in practice, operates.
+
+But is it right that the mission of the bank is to promote the good of the people of the United Kingdom by maintaining monetary and financial stability.
+
+**Mr Andrew Bailey**: That's correct, yes.
+
+**Counsel Inquiry**: And the corporate statement that the bank has provided says this about causes of any disturbance that may affect monetary or financial stability: that the bank is "agnostic" as to the cause of any such disturbance. And could you just explain what you mean by that.
+
+**Mr Andrew Bailey**: Well, in the first instance, it means that, of course, you know, we take no position on, you know, the rights and wrongs of those causes. We deal with the causes as we see them. So I think agnosticism should be viewed in that light. You know, we deal with the evidence as it -- as it is presented to us, as it were, or presents itself to us.
+
+**Counsel Inquiry**: And you make a reaction to that evidence --
+
+**Mr Andrew Bailey**: Indeed.
+
+**Counsel Inquiry**: -- acting in the overall interests --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- of the country?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And during the pandemic period, should we think about the central decision-making bodies in the bank, other than yourself as Governor, as being the Monetary Policy Committee, the Financial Policy Committee, and the Prudential Regulation Committee?
+
+**Mr Andrew Bailey**: Well, those are the policy committees. The bank has -- as an institution, has responsibilities which are particularly focused on obviously, then, conducting and implementing the policies that are decided upon, and that -- those responsibilities fall to the executive of the bank, which I'm the head of.
+
+**Counsel Inquiry**: I just want to pick up monetary policy as a concept --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and how -- what it is and how it's different to fiscal policy.
+
+Could you just explain that in simple terms.
+
+**Mr Andrew Bailey**: Well, monetary policy has, as its objective, what's called price stability. And that is defined in the UK, by statute, as being an inflation target, and it's defined as 2% annually.
+
+So the objective of the Bank of England in respect of monetary policy is to achieve price stability by achieving that inflation objective.
+
+Fiscal policy is completely separate to the Bank of England. That's the responsibility of the government, and that's a whole series of objectives that go much wider than that. So monetary policy, by comparison, is actually very narrowly focused.
+
+**Counsel Inquiry**: So, fiscal policy, we should think about how the government spends money -- how it generates money, how it spends money. The bank's focused on monetary policy?
+
+**Mr Andrew Bailey**: Yeah, well -- I mean, not for me to speak. But, I mean, the government has, obviously, objectives with fiscal policy; it's not just about, you know, raising and spending money. I mean, that's -- that's a means to an end, if you like, but I think it's obviously more important for the government to set that out than for the Bank of England.
+
+**Counsel Inquiry**: Yes, okay.
+
+And the Monetary Policy Committee, as a committee of the bank is independent of the Treasury; is that right?
+
+**Mr Andrew Bailey**: That's right, yes.
+
+**Counsel Inquiry**: And it takes its decisions as a committee by vote?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And as you've said, it has that statutory objective, because it's prescribed in statute --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- in the Bank of England Act 1998 to achieve price stability --
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: -- with a target of 2% inflation.
+
+**Mr Andrew Bailey**: Yes. I mean, I think it's important, just to interpret that, that the bank is not, in this respect, in respect of monetary policy, of course, independent of Parliament in that sense. Parliament has surpassed the legislation, so it's Parliament that has determined the framework. The government sets the objective, that is the 2% inflation target, annually. The Chancellor writes to the Governor annually.
+
+So independence is a very carefully crafted concept in that respect.
+
+**Counsel Inquiry**: Yes. And the Chancellor could change the target?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: That's the point?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: It's not the bank independently setting its -- (overspeaking) --
+
+**Mr Andrew Bailey**: No, and by the way, the UK system is a little bit different to many other countries in this respect, that in many other countries there isn't that formal target-setting role for the government.
+
+In many other systems, the objective is set by some form of -- usually statute or legislative body, and it's left to the central bank as to how they put it into effect. So the UK is a rather more formalised system in that sense.
+
+**Counsel Inquiry**: Yes, so that's one statutory objective, price stability. Subject to that, the bank is also required to support the economic policy of government relating to employment and growth --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- is that right?
+
+**Mr Andrew Bailey**: That's right. And it's important -- the language you've used is exactly correct. And it's so important to be precise on this, as you were, because it's what I call a hierarchical objective. So the critical language that you just said was the subject to that.
+
+**Counsel Inquiry**: Yes. And that's what I was going to come on to --
+
+**Mr Andrew Bailey**: -- no --
+
+**Counsel Inquiry**: -- no, don't worry, and give you an opportunity to explain, really, they need to be looked at in a hierarchical way --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and if you could just pick up on that, how those two things therefore sit one with the other.
+
+**Mr Andrew Bailey**: So what it means is that the primary and the overarching objective is the price stability objective, so it's the first objective, the inflation objective, and then the subject to that is interpreted primarily via a remit letter that the Chancellor sends to the Governor every year, which, again in the language of the Act, tells the bank and the Monetary Policy Committee what the policies of the government are, and therefore, you know, how we can interpret them in respect of the secondary objective.
+
+**Counsel Inquiry**: All right, thank you.
+
+We've heard from Lord King this morning, who has given some explanation from his perspective about inflation as a concept, and he has explained that there are different measures of inflation, different indices --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- that measure inflation, and we've picked up on the Producer Price Index, the PPI?
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: And the Consumer Price Index?
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: So there are different ways of measuring inflation but from the perspective of the public, thinking about what it's going to cost the public to buy goods, is the CPI that is really the --
+
+**Mr Andrew Bailey**: Well, it's important.
+
+**Counsel Inquiry**: -- index?
+
+**Mr Andrew Bailey**: Yes, so the remit, again, which the Chancellor writes to the Governor every year, is set in terms of CPI. And indeed, over the history of the Monetary Policy Committee, going back as you just mentioned to the legislation and its origin in 1997, there has only been one change, although as you said, the government can change it every year, there's only been one change when the index was changed from the RPIX, the Retail Price Index, which is the one that was used in the early days, to the CPI, which is the Consumer Price Index, which is the one that's been used for quite a long time now.
+
+**Counsel Inquiry**: Okay. And again, this was touched on by Lord King, but I'll give you an opportunity to speak to it. You don't set the target, but generally speaking, 2% has been the target for some time, and Lord King's evidence was that that is, generally speaking, about the target of most central banks that have inflationary targets, just briefly pick up on why -- the way he put it is there's no magic in 2 --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- as opposed to 1.8 or 2.2, but about 2%. Why?
+
+**Mr Andrew Bailey**: Yes. Well, I agree with him on that. There is no magic to this. The starting point, as I mentioned a few minutes ago, is what -- is price stability, which of course is words not numbers. So then, you know, the question is, well, how do you -- what is the meaning of price stability? So I think the best interpretation I can give you is one, actually, that I think originated with Alan Greenspan, the former chair of the United States Federal Reserve when he described price stability as a state where, you know, members of the public, firms, consumers and businesses, do not explicitly factor inflation, what they think inflation is, and is going to be, into their everyday decisions as to whether they, you know, buy something today or don't, or invest as a firm today or wait.
+
+They're, if you like, to go back to I think your original word "agnostic" on that front. And I think that's a useful definition but of course it's open to the challenge that it doesn't tell you what the number is. So the number, then, I think you have to get from saying, well, okay, that's a nice concept, turn that into a number. And I agree with Lord King that (a) -- not all central banks, by the way, have a numerical target but for those that do and those that talk about it, 2 is a number that is considered to be consistent with that principle that I just laid out that Alan Greenspan came up with.
+
+And you can ask, well, why isn't it zero, and my answer to that would be that you need some positive level, because relative prices do change. I mean, that's, you know, the price of this versus the price of that can change, you know, from time to time.
+
+And the risk of zero is that, you know, frankly we can't control inflation down to the last endpoint, and if it goes below zero and you get the risk of deflation, deflation is actually in many ways worse than inflation as a risk, because, going back to my point about whether, you know, people then -- people's decision making is influenced. If you think prices are going to go down over time then you will delay buying things, and that will, actually, you know, cause, you know, demand in the economy to shrink further. So it's wise to have it a bit above zero and therefore you end up with 2.
+
+**Counsel Inquiry**: Okay. So if there is any magic, that's it?
+
+**Mr Andrew Bailey**: That's it, yes.
+
+**Counsel Inquiry**: All right. So can we just look at the tools that you have available as Governor, as the bank, the tools you have to affect the rate or try and affect the rate of inflation. Is one of those tools, one of those levers, the Bank Rate?
+
+**Mr Andrew Bailey**: Well, it's the main tool, yes. So the setting of what we call the official interest rate is the main tool.
+
+**Counsel Inquiry**: How does that work?
+
+**Mr Andrew Bailey**: Well, it works in a sense that it is the rate that the Bank of England pays on so-called reserves held by the banks -- in accounts at the Bank of England which is, if you like, the sort of highest quality form of money in the economy. So that's the rate we pay to banks.
+
+And there's, if you like, a sort of -- you can think about it as a sort of ripple effect outwards that because we set that rate, that then sort of ripples outwards in terms of the rates that banks charge and pay, so it affect the rates they pay on the savings we hold at banks and it affects the rates that we pay when we borrow from banks, so if we have a mortgage or if we're a company. And that's, therefore, the mechanism that we use.
+
+We sort of set the rate that's sort of anchored, which is the official rate that we pay on reserves, expecting it then to sort of ripple out through the economy. And we therefore spend a lot of time looking at what we call the monetary transmission mechanism which is, if you like, that ripple effect -- (overspeaking) -- working.
+
+**Counsel Inquiry**: So if you put up the Bank Rate, commercial lenders put up their rates --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- therefore, if I've got money it becomes more attractive for me to save it, because I'll get a higher rate of return, to lodge it with a commercial bank. Equally, if I want to borrow money to spend, it's going to make it more expensive for me to do that?
+
+**Mr Andrew Bailey**: That's right, but if you don't mind me saying so, this mechanism changes over time, so let me give you the best example of this over the last sort of 20 years in this country, that if you go back 20 years, we all had mortgages that were what we called variable rates. What that meant was that if the Bank of England changed the Bank Rate, the next day -- you may remember there were always notices in newspapers saying, you know, I'm X bank and my bank, you know, my mortgage rate has changed by -- usually the same amount that we changed it by. Well, that's not true anymore. I mean, you know, most people have mortgages that are set for two years, five years, seven years, and so that ripple effect, this is why we have to spend so much time looking at it, you know, does change over time because, in other words, the effect of us changing rates has now been modulated through a, for instance, a mortgage system that actually takes longer to actually transmit.
+
+**Counsel Inquiry**: So looking at that and picking that up, this isn't a lever that you can pull, and necessarily expect to see immediate change, is that right?
+
+**Mr Andrew Bailey**: Well, that's right. I mean, it's a lever -- well, we obviously do pull it but it's a lever where we have to study very carefully, as I say, the length of time that reactions take.
+
+**Counsel Inquiry**: It's a bit like turning a supertanker, you put the helm over --
+
+**Mr Andrew Bailey**: You can --
+
+**Counsel Inquiry**: -- and it takes time for it to start to come round?
+
+**Mr Andrew Bailey**: Yes, you can think of it in those terms, yes.
+
+**Counsel Inquiry**: Okay.
+
+And another lever, if you like, that we've discussed this morning with Lord King is quantitative easing --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and/or tightening?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Can you just explain that, as a concept?
+
+**Mr Andrew Bailey**: Well, first of all, I mean, our -- and I think all central banks were in this position -- our strong order of sort of ranking is that the official interest rate, Bank Rate, is our tool of preference. So in all circumstances when it's open to us, we will use Bank Rate as the tool of monetary policy. We think it's most efficient and most effective.
+
+Now, the problem becomes what do you do when it gets near to zero, what we tend to call the lower bound --
+
+**Counsel Inquiry**: Can I just come in there to, I hope, make a point of context. When we were coming into the pandemic, when the country was coming into the pandemic --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- the rate was historically very low?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And very close to zero?
+
+**Mr Andrew Bailey**: Yes, and so the history of this is that -- well, really, as a cause of the global financial crisis, which happened sort of, you know, 2007/8, a little in 2009, during Lord King's time, the bank -- the MPC had to cut the Bank Rate down to nearly zero, so it was round about three-quarters of a percent, 0.75% eventually, when it got down to that low. And therefore -- and it persisted there for the whole of the period between the global financial crisis and the onset of Covid.
+
+**Counsel Inquiry**: Can I just pause you there, Mr Bailey, I'm being asked and I'm sorry, I've had to ask most witnesses, can you just slow down a little bit.
+
+**Mr Andrew Bailey**: Of course, yes.
+
+**Counsel Inquiry**: It's only because the stenographer needs to keep up.
+
+**Mr Andrew Bailey**: I apologise, yes.
+
+**Counsel Inquiry**: Her fingers are starting to smoke as they're typing so ...
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: If we can just slow it down a little bit?
+
+**Mr Andrew Bailey**: Fine, yes.
+
+**Counsel Inquiry**: Thank you.
+
+We'll start again. You were talking about the financial crisis?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: The Bank Rate had come down. It was about --
+
+**Mr Andrew Bailey**: Yes. So for the -- then the all of the period from really, sort of, the beginning of 2009 through to 2020, so the onset of Covid, the Bank Rate had been at what was considered pretty much the lower bound, which was just above zero.
+
+So to go back to your question of the role of quantitative easing, the question then arises, what are the tools that could be used in the event that, with -- if Bank Rate is considered to be at its lower bound -- and we may come on to this later, there is a debate as to whether lower bound really is the lower bound -- what are -- what do you do next if you find yourself in a position where inflation is going to miss the target on the downside? That's the 2% target, but you don't believe that you can cut Bank Rate any more in response to that?
+
+And that's where quantitative easing comes in.
+
+Now, quantitative easing in the simplest terms, I think, it's a fiendishly complicated area, I have to be honest. The simplest, I think, description I can give is that it involves the central bank buying longer-term assets so, if you like, taking them out of circulation, and putting money in instead. Central banks can create money in that sense.
+
+So you put in something that is liquid in return for something that is less liquid.
+
+And that liquidity goes on to the, as I said, the reserve accounts of the banks, so we buy the assets and the liquidity goes on to the reserve accounts that the banks hold at the Bank of England and is then available for, you know, lending, to support the economy. So that's the -- I think in the simplest terms I can sort of give you, that's the sort of simple version of it.
+
+It's not -- I mean, nobody I think I would know of would ever describe it as a tool that is as effective as the interest rate tool. We're in the world of second best here, at most.
+
+**Counsel Inquiry**: Right. So it's a secondary lever, and almost an emergency lever that you can use if --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- the Bank Rate is at the lower bound --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and therefore there's not much room to manoeuvre?
+
+**Mr Andrew Bailey**: That is right. Now, I mentioned a minute or two ago, I should say that there is a debate and indeed, you may be aware that the Bank of England, we had a debate during the Covid period which goes back to this question about is the lower bound of interest rates really a lower bound? Or --
+
+**Counsel Inquiry**: We'll come on to this --
+
+**Mr Andrew Bailey**: Okay.
+
+**Counsel Inquiry**: -- but let's pick it up here because --
+
+**Mr Andrew Bailey**: -- no, well --
+
+**Counsel Inquiry**: I'm quite happy to have a dialogue. So this is the idea, what, that you can move below zero into negative rates?
+
+**Mr Andrew Bailey**: Yes. So some central banks have used negative interest rates and therefore, in a sense, concluded that the lower bound isn't the lower bound. And we had quite an extensive -- we did quite a lot often work on this during the Covid period. I should say that prior to the Covid period I would say it was a subject of academic speculation rather than practical reality, but obviously it did come to the fore, and we did look at it and, you know, it is important that we did, and do.
+
+It's -- I mean, it is a difficult tool. It is by no means as efficient as moving positive interest rates around. I think there were a lot of questions about: are there problems just in the basic mechanics of systems? I mean, for instance, you know, do banks have systems that can allow you to enter negative numbers? But also, you know, how is it going to be received by the public? I mean, you know, what's the public going to think about it?
+
+I used to say, you know, I can reasonably think of the public saying, "I thought the whole point of this system was that when I deposit money with you, you pay me a return rather than the other way round"?
+
+So, you know, public perceptions matter.
+
+So it is not as effective a tool as positive interest rates, but it is there.
+
+You may come on to this. We concluded that, you know, we were still very doubtful about it as a tool.
+
+**Counsel Inquiry**: Can I just join the public puzzlement, and just try and understand how it might look in reality. So we can think about what it would mean, because the immediate reaction is, well, if it's a negative interest rate, then what, I've got to start paying the bank to hold my money?
+
+**Mr Andrew Bailey**: Yes, yes.
+
+Now, I should say that those countries that have used this approach have used it quite selectively, and it hasn't tended to apply to individuals' accounts. And that makes it less efficient too. But I think the simplest way I would put it, your apparent puzzlement at the whole notion of turning the system on its head is one that I would expect, if we tried it, the public would probably join you in and, if anything, amplify.
+
+**Counsel Inquiry**: Yes. There'd be lots of people queueing up at banks wanting their money out so they didn't have to pay them to keep it.
+
+**Mr Andrew Bailey**: Well, therein is an interesting question, because, of course, the response to that was: where would you go with your money if you didn't have it in the bank?
+
+And the answer, of course, is -- in principle, is: you could ask for bank notes. Because bank notes are not interest bearing. They carry zero interest.
+
+Now, in most circumstances, you would say, "Well, that's not as attractive to me as having my money in the bank", but of course if interest rates go negative, and if they go too negative, that changes.
+
+The question, of course, becomes a rather practical one at that point, is: where are you going to store them? How much is it going to cost you to store them? And so on. But it is an option, clearly.
+
+**Counsel Inquiry**: All right. We may pick that up again when we look at work the bank did to examine that during the crisis --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and other work that may or may not have happened since.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: But going back to quantitative easing and you having set out that it's not really the optimal way of controlling monetary --
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: -- operating monetary policy, we talked about the time lag in terms of adjustments to the Bank Rate?
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: Does quantitative easing have a similar time lag you need to factor in how long it will take for that --
+
+**Mr Andrew Bailey**: Yes, it does.
+
+**Counsel Inquiry**: -- to ripple out?
+
+**Mr Andrew Bailey**: Yes, it does. It has a -- I mean, it will have it own transmission mechanism, because it's a -- it's a very different method of transmission. You're not changing the interest rate on accounts, you're giving -- in a sense, you're creating liquidity and giving the option for that to be lent. But you don't know whether that will be lent.
+
+It is much -- so the transmission of quantitative easing is much more uncertain. I mean, the academic literature is -- you know, it's a rich field for academics. It is much more uncertain.
+
+And I think it's an importance point in this context that, you know, we're looking at here. You know, I would agree with people who say that it is, to borrow a phrase, state contingent. But in a way that we -- we understand fairly and perfectly.
+
+In other words, the impact of quantitative easing will be quite dependent, probably, on the state of the economy and the situation that it -- we're in. Another way of putting it is it may well have a different effect in a crisis to in a non-crisis situation.
+
+**Counsel Inquiry**: Quantitative easing is capable of being reversed, is that right --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- by quantitative tightening?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: So that's doing the opposite, is it, essentially?
+
+**Mr Andrew Bailey**: Yes, yes.
+
+**Counsel Inquiry**: Can we just pick up the downsides to quantitative easing as a mechanism. Is there an inherent risk or does it have an inherent risk of creating inflationary pressure, or at least the potential for inflationary pressure?
+
+**Mr Andrew Bailey**: Well, the reason for doing it is -- is that, actually. So, you know, you -- one would do it in a situation where you concluded that inflation was going to undershoot the target. And therefore, your aim was to actually, you know, bring inflation up to the target.
+
+So, in that sense, of course, that's the intention of it.
+
+**Counsel Inquiry**: And is that as crude -- and I know it'll be much more complicated than this, but if you create more liquidity, there's more money available, then people can access that and spend it?
+
+**Mr Andrew Bailey**: Well, yes. I mean, that's right. I mean, it creates a scope for that liquidity to be used -- so, for it -- for lending to happen, for instance, and, therefore, for it to be spent. I mean, that's essentially the transmission mechanism that you would expect.
+
+**Counsel Inquiry**: And is inflation inevitable as a consequence of quantitive easing?
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: Can you just explain that?
+
+**Mr Andrew Bailey**: Well, it's not inevitable for a number of reasons. One is because inflation is effectively the outcome of the balance between supply and demand in the economy. So, whether a particular action on monetary policy -- and this is true of interest rates as well -- creates inflation depends upon both how the demand side of the economy is moving and how the supply side of the economy is moving. There are many moving parts in the calculation of inflation.
+
+**Counsel Inquiry**: So, just to go back, to go to your point, its effects would depend on the state --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- of the economy --
+
+**Mr Andrew Bailey**: Yes, exactly.
+
+**Counsel Inquiry**: -- more generally?
+
+**Mr Andrew Bailey**: Yes, yes.
+
+**Counsel Inquiry**: So you can't say that it -- there's an automatic correlation --
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: -- you engage in a round of quantitative easing --
+
+**Mr Andrew Bailey**: No, no.
+
+**Counsel Inquiry**: -- and it will have this inflationary effect --
+
+**Mr Andrew Bailey**: The same is true, by the way, of any movement in interest rates as well.
+
+**Counsel Inquiry**: Yes, it will all depend on the state of the economy at the time you're making the change?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Right.
+
+So the three things -- those two levers, if you're going to pull them, have to be pulled bearing in mind the state of the economy?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Right.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And presumably before you make a decision about quantitative easing, you're looking at the state of the economy. Does the bank at least calculate what it thinks the inflationary effect of any round of quantitative easing will be?
+
+**Mr Andrew Bailey**: Yes, it does. Yes.
+
+**Counsel Inquiry**: And does it -- or is it, therefore, able to estimate, depending on the extent of a round of quantitive easing, what it thinks it will do to inflation and when it might do that?
+
+**Mr Andrew Bailey**: Well, the bank -- we always use forecasting tools as an input to our monetary policy decisions, and that's true whether we're moving Bank Rate or using quantitative easing. So, in that sense, there's nothing different about the quantitative easing process.
+
+**Counsel Inquiry**: Okay. Can we, having dealt with those background issues, move on to a new topic, which is, really, joined-up working as between the bank and the Treasury --
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: -- and those relationships between the Treasury and the bank.
+
+And in particular, I'm asking these questions to understand how you worked together with the Treasury during the emergency, whether there were any lessons that can be learnt from how that relationship did or didn't work, and whether any have been drawn.
+
+So that's the spirit in which I'm asking the questions.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: Now, on a personal level, you were new in post in March.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: The Chancellor was new in post in February.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: But presumably the two of you, as the heads of those organisations, if you like, had a personal relationship and were in close contact with one another?
+
+**Mr Andrew Bailey**: Indeed. I didn't actually know Rishi Sunak prior to -- well, as you said, the two of us being appointed, actually -- but we had a very close relationship. I mean, we were talking daily at the height of the -- of the Covid problems.
+
+**Counsel Inquiry**: And the evidence that both of you have provided to the Inquiry in writing makes it clear that each of you considered it to be a very positive working relationship?
+
+**Mr Andrew Bailey**: Mm, very.
+
+**Counsel Inquiry**: Can you just expand a little in terms of why you think it worked so well? Was it purely personality driven and that you both understood the concepts, or was there more to it than that?
+
+**Mr Andrew Bailey**: Well, let me come at that in a number of ways.
+
+First of all, as you said it at the beginning, I've had quite a long experience of central banking, and obviously much of the time we're operating in fairly normal circumstances, and sometimes we're operating in crisis circumstances. At this point, we were operating clearly in crisis circumstances, and I think the bank and the Treasury are institutions that -- you know, in my view, I have a huge regard for them in terms of what they do in a crisis. You know, we went through the financial crisis for instance. You know, I was heavily involved in -- centrally involved in that.
+
+So these are institutions that, you know, are -- I think, you know, are very effective in those circumstances, and -- and know how to work together. And I would carry that over into the relationship between Chancellor and myself. I think we're both, you know, people who, you know, know that, you know, we have a duty to the people of this country and we're going to get on and do it.
+
+And, you know, I salute Chancellor Sunak for his diligence and his commitment, and I found it, you know, a very effective working relationship. We were very straightforward with each other.
+
+People sometimes say: well, does that mean you were compromising independence?
+
+And I say: not at all. I mean, I think the people of this country expect us to work together. And we can respect each other's constitutional and statutory roles and the decisions we have to take. And we've always done that. But at the end of the day it means that we have to be joined up.
+
+I mean, the public are not going to thank us and forgive us if we don't do that, frankly. And that's always been my view. I think we have a commitment to the people of this country, and I honestly think the two of us went about dispensing it and dispensing it with, frankly, great commitment.
+
+**Counsel Inquiry**: I just want to pick up on that point about independence, and what you describe as the spurious views of anyone who regards you as having compromised independence by having these close relationships.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: The term you use on a number of occasions in your statement to describe the way the bank, both at your level with the Chancellor and at official level, work together is that you were working to make sure that the things you were both doing were consistent and complementary?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And you've used that phrase a few times.
+
+**Mr Andrew Bailey**: Yes, and it was a very carefully chosen phrase so, yes, thank you for picking up on it.
+
+**Counsel Inquiry**: I'd just like you to expand on that a little, because you've made this point that people may think that speaking to each other means we're compromising independence, how should the public really think about this relationship between Treasury and bank? Is consistent and complementary, really, how you would invite people to think about it?
+
+**Mr Andrew Bailey**: Yes, I think we, together, have a responsibility to the public, to the people of this country, to support the economy and to thereby support them, and never more so than the situation we found ourselves in in March 2020, it was an absolutely, you know, binding commitment.
+
+And we went about, I think, doing that with great, you know, commitment and dedication.
+
+What it doesn't mean -- let me give you an example where it would be stepping the wrong side of the line. I've never had a conversation with any Chancellor which said, "Well, you know, if I do this much QE, will you do that much over there?" Those conversations never happen. We take our decisions independently.
+
+Were we discussing in great depth what we were seeing in the economy, how we were interpreting it, there were other areas, and you'll see this, of course, in the various statements, where we were working closely -- let me give you an example. The Covid Financing Facility which we may come on to, which the bank acted as agent -- designed and then acted as agent for, for the Treasury, we were basically, of course actually working extremely closely together to put that into effect, you know, with a team at the bank, working to design it, operate it, but recognising that it was the Treasury's decision as to whether we did it, and, you know, that had the full support of me and the full support of Rishi Sunak to say: these are the things that we need to do to support the economy and support the public, and we'll get on and do them.
+
+**Counsel Inquiry**: Let's pick up with the CCFF if we can, because generally, in the Inquiry, we've only heard positive evidence about the CCFF.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: This was a system of providing liquidity, funding, to very large companies.
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: Is that right, that the bank was using its existing architecture to deliver that support --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- at the behest of the Treasury?
+
+**Mr Andrew Bailey**: Well, let me start with something that we may want to come back to, or we may be coming back to, because it slightly goes back to quantitative easing for a moment but I'll say it. There is, of course, another reason why we do quantitative easing at certain times and that's in crises for financial stability reasons.
+
+I'll stop there on quantitative easing and go to CCFF, but it's important. One of the things that -- the way that the March 2020 period gets described often and around the world, actually, is the so-called dash for cash. You may have heard this phrase. That was most evident in large companies seeking to build cash reserves in ways that we had really never seen before.
+
+So probably the best statistic I can give you, I think, is that I think the drawdown of cash which meant using things called committed borrowing lines, for instance, by large UK companies in March 2020 was 30 times the monthly average of 2019.
+
+By the way, you get exactly the same story if you look at the US, for instance, and other countries. This is an extreme position to be in, and it was clearly driven by fear that the economy was closing down and that they were in danger of insolvency unless they could liquefy as much as possible.
+
+Now, that puts extreme stress on the banking system and extreme stress on the economic system. And so we had to design as many, frankly, as many useful tools as we could to respond to that and the CCFF was one of those.
+
+And I'm very proud of the CCFF because -- I'll give you the storyline, actually. I mean, the afternoon, Sunday, 15 March, the day before I started my term -- I mean, I have to be very clear that Mark Carney was the Governor until that evening, midnight that evening, and by the way, you know, the central bank swap lines were done literally at ten o'clock that evening.
+
+**Counsel Inquiry**: So he walks out with his cactus in a box and you move --
+
+**Mr Andrew Bailey**: Well, we did them together, but I had a call with the senior bank staff on Sunday afternoon and they sort of put it to me, you know, "Have you got what you need for tomorrow, because it's looking a bit hairy?"
+
+And I said, well, the thing that worries me is that we've got this extreme cash demand going on in the company sector and how, if this goes further, we've got trouble, big trouble. And that was really the origin of saying we needed another tool targeted at big companies, and literally that afternoon, we had the first conversation on the CCFF.
+
+I think we took it to the Treasury -- I can't remember if it was Monday or Tuesday, so the next day or the day after. We launched it the following Monday and I think the first companies were starting to go through the process by Wednesday, so that's ten days.
+
+**Counsel Inquiry**: And we've heard evidence there was a nil loss rate from the CCFF.
+
+**Mr Andrew Bailey**: There was a nil loss rate, yeah.
+
+**Counsel Inquiry**: Yes, and --
+
+**Mr Andrew Bailey**: So -- and my staff were extremely innovative because, you know, many of the companies didn't have public -- well, there was a credit assessment process and many of the companies didn't have public ratings so we had to, you know, in a sense create -- obtain and create processes that mimicked that to make sure we could get to where we wanted to get to.
+
+**Counsel Inquiry**: And so, Mr Bailey, you would say there is a really clear example of this as you put it consistent and complementary working --
+
+**Mr Andrew Bailey**: This is the bank and Treasury -- honestly, you know, this was the bank and the Treasury at their best working together, you know, to solve a problem.
+
+**Counsel Inquiry**: But never that line being crossed --
+
+**Mr Andrew Bailey**: No, no.
+
+**Counsel Inquiry**: -- of the Chancellor saying, "Can you engage in some QE so that I can spend some money here" or things like that -- (overspeaking) --
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: And that's the line, as far as you are concerned --
+
+**Mr Andrew Bailey**: Yes, absolutely.
+
+**Counsel Inquiry**: -- in terms of independence?
+
+**Mr Andrew Bailey**: Yeah, yeah.
+
+**Counsel Inquiry**: Okay.
+
+You mentioned, and I just want to pick up on this briefly, about the Chancellor and yourself and officials, presumably, having conversations about the state of the economy.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Were you sharing data and analysis as between --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- the bank and the Treasury --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and were you finding it was coming both ways?
+
+**Mr Andrew Bailey**: Yes, very much so.
+
+So to give you a few, I think, key examples there, we moved very quickly to put into place access to and processing of high-frequency data. The bank had had a bit of a sort of leg-up on this because they had put into place a monitoring system when Brexit was implemented, to use mobility data around ports to track heavy goods vehicles, to get a much more immediate sense of what the effect on trade was.
+
+And so we were able to, in a sense, take that bit of machinery and build out from it, and incorporate things like mobility data, transport data, restaurant bookings data, payments data, which we tend to have access to, but we extended that a lot, to build a much more, sort of, short-term and immediate picture of what was and, more particularly, what wasn't happening in the economy, and then working with the Treasury. We got input from Treasury, we'd got input from the ONS on that, and that was very useful. I mean, I certainly was, you know, looking at that every day to say, well, what are we seeing and what are we not seeing?
+
+So that's, I think, a very good example.
+
+I then remember that -- I mean, there was obviously a lot of uncertainty about what the impact on the economy was going to be. We'd never had the economy go down to lockdown in this way before. I mean, there was a lot of speculation, I remember, that it was going to be the biggest fall in activity since the great frost in 170 -- whatever it was, 1709, I don't know.
+
+I mean, that's interesting, it's almost a sort of Trivial Pursuit fact, but it's not going to be terribly useful for analysis. But were in extreme circumstances.
+
+And then there were also big puzzles in the data, and I'll give you one which I'm sure, you know, Rishi Sunak may expand on because it was a big one, and that was public sector output.
+
+So the UK has a rather different way, for instance, of measuring output in the health service, in that it actually tries to count the stuff that happens and then to convert that into economic activity, a perfectly reasonable thing to do. I think the more traditional way is just to take the amount of spending and deflate it by an inflation number and get real activity.
+
+But the problem was that the stuff that was being counted in normal times wasn't happening and so it looked like output in the health service was actually coming down a lot, but of course this didn't really -- you know, this wasn't true clearly in the sense that, you know, the health service was working, you know, incredibly hard and incredibly well, and it was a great source of frustration to both of us that, you know, we just couldn't seem to get the reading of what's going on.
+
+So of course we were then trying to say, well, how can we, you know, how can we get alternative ways into this question?
+
+So a long answer, yeah, there was a huge amount of work going on on data.
+
+**Counsel Inquiry**: But it sounds, from your answer, and don't apologise for it being long -- and thank you, by the way, for actually slowing down --
+
+**Mr Andrew Bailey**: Is that okay? Right, good.
+
+**Counsel Inquiry**: I said I've asked a lot of witnesses to do it and I think you're the first one who actually has, so thank you for that.
+
+But it sounds like it was a very collaborative relationship --
+
+**Mr Andrew Bailey**: Oh, very, very.
+
+**Counsel Inquiry**: -- in terms of sharing data and generally, so I just want to pick up on that. If you take the personalities out of it --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- there's always a danger that, you know, you just happen to have two people who get on, but if you took the personalities out of it, structurally, did you have any concerns about how Treasury and bank engaged? Are there any lessons that can be learned, or new structures that are required, in your view? Or do you think things worked as you would have hoped and expected they would, in terms of that relationship between the Treasury and the bank?
+
+**Mr Andrew Bailey**: Well, that's a really interesting question. Really interesting.
+
+I've worked with the Treasury 40 years now -- yeah, so we worked, of course, as you'll imagine, extremely closely together on the financial crisis.
+
+It's -- I'm not the first person to say this, but if you -- you go back in history, bank-Treasury relations have been, sort of, interesting at times. I think some of the issues in the past, if you go back before the reforms of 1997, were that the roles were ill defined relative to -- well, particularly the Bank's role, actually, was ill defined, didn't say much to policy, for instance, relative to what they are now. And the same was true, to a considerable degree, of financial stability.
+
+But I -- look, I'll be honest, I -- I felt, coming in as Governor, that -- and this is not to do with Covid actually, interestingly, this was before Covid came along -- that we needed to work on, frankly, the Bank's relations with outside -- the outside world at times. And the Treasury was part of it.
+
+My objective -- what I wanted to do, when I came in as Governor, and I'd have gone on doing it, by the way, but Covid disrupted it, so I'll give you the -- sort of the tagline was what I called "human and humble" -- this is a phrase we've used in the bank -- to say that I don't want to compromise our independence and our quality of the work, but, frankly, I think the bank can improve the way it works with other organisations. And it's been an objective of mine.
+
+I think we've made progress, and, you know, Covid in a sense, I mean, did, if I'm honest, disrupt that, in the sense that obviously the -- the impact of the remote working. But actually it gave us a very -- on the other hand, it gave us a very focused case study to actually work on, and I -- I think it went well.
+
+**Counsel Inquiry**: One of the things Lord King touched on this morning was -- in a slightly different context, but I think it may be relevant to what you're saying, is this danger that, as central bankers, you tend to hang around with other central bankers and academic economists --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and there's -- a sort of sense of groupthink can develop.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: So the institution just thinks as an institution, and there isn't that engagement and, therefore, challenge that engagement can bring. Is that what you were trying to break down a little bit with this -- was it "human and humble" was the --
+
+**Mr Andrew Bailey**: Well, partly, although, let's be honest, the Treasury have been accused of groupthink as well, so I -- I'm not sure I would, if I'm -- put my, you know, hand on heart, I'm not sure talking more to the Treasury only gets you past --
+
+**Counsel Inquiry**: No.
+
+**Mr Andrew Bailey**: -- the point that Mervyn King was making. I --
+
+**Counsel Inquiry**: But, more generally, do you accept --
+
+**Mr Andrew Bailey**: Well, let me -- no, I'm happy to address that question.
+
+I think -- and I think he agrees with this, because we've talked about it many times and it's in his evidence -- in his written evidence to you -- I think the economics profession, you know, is open to that challenge over -- over the long course of history, in the sense that you get slightly, sort of, waves of thinking in the profession.
+
+I mean, they're always a bit -- a bit, sort of, exaggerated and a bit, sort of, caricatured, but people talk about Keynesianism and monetarism, those things are -- I mean, they're rather -- they're too high level to be useful as tags in many ways, but it is true that -- I'm sure it's not the only academic profession where you get these waves of, sort of, thinking that, sort of, take over the -- the discipline.
+
+And central banks are part of that.
+
+The thing that I would say, because, you know, I've talked to Mervyn about this many times, and I've heard him say it -- I mean, I would say this: if you look at the voting record of the Monetary Policy Committee, you know, we're not -- I can't even remember the last time we were unanimous. So it's not a committee that I think has that natural tendency. And I've actually -- I mean, I don't encourage people to vote, you know, randomly, obviously, and I don't necessarily encourage people to vote against me, but I've always said, look, you know, I think where we hold different views, we should hold them out to the public transparently. So I don't mind if people vote differently in that sense.
+
+**Counsel Inquiry**: And it's my fault entirely, because the interesting discourse we were having took me slightly off the point I was trying to take with you, but can we just go back to this -- relationships with the Treasury --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- and I think I'd asked you whether you thought the structures were appropriate, that --
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: -- to enable that important dialogue, or were there any further changes required, or has been undertaken, in terms of how the Treasury and the bank worked together?
+
+**Mr Andrew Bailey**: No, I think the working relationship was very good. I mean, I think -- I mean, I think Covid, for me, pointed to a few areas where, you know, the system creaked a bit more.
+
+I mean, look, I think -- and I don't -- I don't particularly fault anything for this because, you know, you can, sort of, plan for many things but not everything -- there were a few areas, going back to your point about data, where there were restrictions on access to data that were embedded in law -- I think a number of us have referred to these in our written submissions -- where it would have been nice if we could have -- yeah, it would be nice if we could have got into the sectoral data that the government has. But the law says that they can't share it.
+
+I think it would be helpful if we could get more easily sight of things like Universal Credit data. I mean, we don't want to know who it is, not -- know -- this is aggregate data, obviously.
+
+And then I think the whole area of interlinking and, sort of, drawing the, sort of, wisdom out of putting health data together with economic data was something that we hadn't put a lot of work into.
+
+Now, I -- let me say on that, that one of the most valuable things that we had access to -- and I want to put on record my huge thanks to him -- was the briefings that Chris Whitty gave us in the Bank of England, and for the committees. I mean, absolutely invaluable.
+
+But he and I have -- and we've continued to talk about it, actually, because there are puzzles today, many puzzles today actually, that persist. I don't think we've, still, done enough to say: how can we, sort of, put the economic data and the health data together, and, you know, get better wisdom out of it?
+
+So I -- I think that's an area that I would point to.
+
+**Counsel Inquiry**: So, access to more data that government holds, on an aggregate basis, because that will enable you to see, in more real time, the effects on the -- (overspeaking) --
+
+**Mr Andrew Bailey**: Yeah, I mean it -- I think it -- you know, it would -- in the best -- at least in the best world, if some -- if there would have been in the law a provision for somebody to say, "We're in a crisis, we can flip a switch and, yes, you can have the data in this situation."
+
+**Counsel Inquiry**: Yes, understood. And then try to build systems --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- through which you can integrate it?
+
+**Mr Andrew Bailey**: Look, I don't -- I don't want to suggest that it would have produced particularly different outcomes, but it would have been good to be able to see it.
+
+**Counsel Inquiry**: Yeah, okay.
+
+Can I make a start in the next topic area before we take the lunch break, which is the nature of this economic shock and, if you like, the novelty of this economic shock that Covid presented.
+
+And one of your jobs as Governor, and you can tell me whether you agree or disagree, Lord King put it like this: that the main job of the Monetary Policy Committee is to assess the nature and scale of any economic shock, but your job as Governor certainly --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: You agree with that --
+
+**Mr Andrew Bailey**: Very much so.
+
+**Counsel Inquiry**: -- as a proposition?
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: And the impact on demand and supply. And he spoke about how monitoring is so important --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and he drew a point that most data that the bank has access to, relates to demand, very often, rather than supply.
+
+But going back to the nature of the shock, this was unfamiliar, do you agree, in terms of its nature --
+
+**Mr Andrew Bailey**: Unprecedented.
+
+**Counsel Inquiry**: -- and its scale?
+
+**Mr Andrew Bailey**: It was unprecedented.
+
+**Counsel Inquiry**: Yes. And one of the things that made it unprecedented was this was a shock to the economy arising from outside the financial system?
+
+**Mr Andrew Bailey**: Well, it's partly that, and it's partly -- I mean, you know, there is really no precedent for, sort of, deciding to close the economy down.
+
+**Counsel Inquiry**: No. Because this was about the measures that were being taken to combat the virus on a health --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- basis.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And so did that, presumably, the fact that it was unprecedented means there was no example you could go back to --
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: -- there was no -- there was more uncertainty; is that fair?
+
+**Mr Andrew Bailey**: Yes. Oh, huge uncertainty.
+
+**Counsel Inquiry**: And did that make assessing the shock and how it might affect the economy more difficult?
+
+**Mr Andrew Bailey**: Oh, yes. I mean, obviously our line of sight was hugely, hugely impaired.
+
+**Counsel Inquiry**: And how did that line of sight being impaired affect your ability, the Bank's availability to calibrate the appropriate monetary response?
+
+**Mr Andrew Bailey**: Oh, it had -- I mean, it had a substantial effect. I mean, let me say two things on that which are important. First of all, the response that we made immediately in my first week as Governor, the big intervention we made in that week, was as much to do with financial stability as it was to do with monetary policy. That's important, because there's a whole other side to our activity which is financial stability.
+
+And we had to -- the judgements we had to make, you know, had to take that very much into account. But going forwards, I mean, you're right, we obviously were working with very, you know, much -- an impaired line of sight, and the second point I'd make, probably the best example of that I can give you in practical terms is that when we produced the quarterly monetary policy report in May, we did not, for the first time in the MPC's history, include a forecast.
+
+We had what's called a scenario. I'll explain the difference because you may say, well, that's a bit subtle, isn't it? But it's important.
+
+A forecast -- and I don't want -- because, you know, like Mervyn King, I don't want to overstate the role of this forecast in our decision making but it is, you know, it is central in the sense that it is our best view of what we think is going to happen to the economy.
+
+Now, we didn't have that line of sight to give that.
+
+The scenario is a bit different. The scenario is saying: if the following things were to happen, here's our sort of best line of thinking at the moment on how that would, if you like, pan out. So it's a very -- it's a different thing. It's not saying: this is our best view of what will happen; it's saying: if this were to happen, and we think the "if" has been constructed with a sort of best line of sight we have today, pulling together our knowledge of how sort of things fit together in the economy, it could turn out like this, but we're not putting anything like the degree of confidence on it that we would normally do.
+
+**Counsel Inquiry**: Right. And that, perhaps, illustrates the great degree, the great level of uncertainty --
+
+**Mr Andrew Bailey**: Yes, it does.
+
+**Counsel Inquiry**: -- (overspeaking) -- right.
+
+**Mr Andrew Bailey**: It does.
+
+**Mr Wright**: Thank you.
+
+Well, I think that is 12.45 so we have to take our break there, Mr Bailey.
+
+**The Witness**: Okay.
+
+**Mr Wright**: My Lady, is that a convenient moment?
+
+**Lady Hallett**: It is, Mr Wright.
+
+I am sorry we have got to break off, Mr Bailey, but I promise you that we will --
+
+**The Witness**: Not at all.
+
+**Lady Hallett**: -- finish you this afternoon, probably by three o'clock, I think.
+
+**The Witness**: That's fine.
+
+**Lady Hallett**: I know how busy you must be.
+
+**The Witness**: I quite understand.
+
+**Lady Hallett**: I shall return at 1.45.
+
+**The Witness**: Fine.
+
+*(12.45 pm)*
+
+*(The Short Adjournment)*
+
+*(1.45 pm)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: My Lady, can I check that you can still see and hear us?
+
+**Lady Hallett**: Yes.
+
+**Mr Wright**: Thank you.
+
+Mr Bailey, before the lunch break, we were discussing the novelty, if you like, of the economic shock that the pandemic presented. This wasn't a shock that arose within the financial system; this was primarily a health crisis that lent to an economic crisis.
+
+In terms of the nature of the shock, when a shock arises inside the economic system, very often that will be what might be termed a "demand-side shock" to the economy, would you agree? The demand in the economy drops off, people stop spending their money?
+
+**Mr Andrew Bailey**: Oh, sort of, if there is such a thing, a conventional economic shock? Yes. That's a reasonable way of putting it, that the supply capacity of the economy isn't so much affected, and so the focus is on the sort of the movement of the demand side relative to the supply side, yes.
+
+**Counsel Inquiry**: But in terms of the pandemic, I'd just like your view as to how you, at the time --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- saw the shock. Because, in a sense, we can all look back and say, "Well, knowing what we know now, this is what it was", but how were you seeing it at the time? Demand, supply? A mix of the two? Or is that an artificial way of looking at it?
+
+**Mr Andrew Bailey**: No, it's actually a very good way of looking at it in many ways. So I think our starting view was that both sides were going to be affected. So both the demand side and the supply side would be affected. And in a way, that follows from the sort of simple observation that if you close the economy down by virtue of a lockdown, obviously you're effectively closing both sides down, you're closing the supply side capacity of the economy and the demand capacity.
+
+Now, what, for us, was the -- that's important, don't get me wrong, but then the more important judgement was looking forwards.
+
+Now, obviously I should say we had no great sense as to how long Covid was going to go on for. But the question we had was, well, what are going to be the longer-term effects in terms of the impact on the demand side and the supply side? And there, I think, the supply side is more important than the demand side.
+
+There was a lot of talk, you may have picked up, about so-called "scarring". Scarring was a word that was used a lot. And what that means, I think, is how much damage to the supply -- I mean, "permanent", in inverted commas, in a sense, you know, how much lasting damage was going to be done to the supply capacity of the economy by Covid?
+
+So that, looking forwards, what balance of demand and supply were we likely to see coming out of it?
+
+And then, were there things that we could do, and should do, to limit the possibility of damage to the supply side of the economy? You know, did we have a role to play in that respect? Obviously government has an important role in that respect, but were there things we could do as well, and should do, therefore.
+
+**Counsel Inquiry**: And just in terms of demand shock, would you say that this is too simplistic a view, and I don't purport to repeat exactly what Lord King said, but his proposition was that demand in the economy really was the same; it was just that people couldn't go out. So people still wanted to go out and spend their money, it wasn't a confidence issue in the economy, it was just that they physically couldn't because they had to stay at home, and so it was perfectly reasonable to assume that as soon as you unlocked, everyone would go out and spend all the money that they had had.
+
+Do you think that's too simplistic a way of looking at it?
+
+**Mr Andrew Bailey**: Well, I do diverge from Lord King at this point, because I'm afraid -- and I'm also careful, here, not to judge with hindsight, because we don't have the benefit of hindsight when we make policy, and I often get accused of -- I often get hindsight put to me, but we could see this happening as time went by, that demand recovered very slowly. And even to this day -- you know, there's a very important debate to this day, it seems to me, as to what the long-term effects of Covid have been on the economy, because it's the case that we have, to this day, a very, very, frankly, you know, modest recovery.
+
+And probably -- let me give you, you know, a statistic here. Let's look at household consumption, which is probably one of the largest components of demand. And I use as the starting benchmark the end of 2019, so that's a reasonable pre-Covid point. I think I'm right in saying that, you know, to this day, household consumption is only about 1% above where it was at the end of 2019. So that's six years later.
+
+That is a very, very weak recovery.
+
+At the end of 2021, household consumption was actually 2.3% below where it was at the end of 2019. So, two years later we were still 2.3% below the level at which we went into Covid.
+
+GDP, which is overall demand in economy, at the end of 2021 was only 0.8% above where it was at the end of 2019.
+
+So I -- you know, I do diverge here. It was a very slow recovery. The idea that people were just primed to go out and spend money as soon as they could, it just doesn't fit the pattern of what we've seen.
+
+**Counsel Inquiry**: And, I mean, it's always difficult to attribute statistics like those you've just cited to one particular cause or another --
+
+**Mr Andrew Bailey**: No, indeed.
+
+**Counsel Inquiry**: -- there were many, many factors that were --
+
+**Mr Andrew Bailey**: Well, indeed.
+
+**Counsel Inquiry**: But I just wonder, whether the simplicity of the proposition I put to you misses out the, if you like, the scarring on the population that people have had a shock, and they've lost confidence. They don't know what is ahead, there is a sort of learning from --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- the fact that they're ill-prepared in terms of reserves going into the emergency, and --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and so people are keeping reserves, coming out of it?
+
+**Mr Andrew Bailey**: Yes, let me make three points on that. It's a very important point you make. First of all, I'll make a general point, if you don't mind, and it really is important to have this in mind, in terms of the -- when we talk about the period -- the whole period since between then and now, and I know your observation period cuts off, quite sensibly, in early 2022.
+
+And you're wise to do that, in the context of the economy, because the Ukraine war was a much bigger shock to the economy in inflation terms in our world than Covid. Let me just -- and we may come back to that.
+
+**Counsel Inquiry**: And we will come back to the -- (overspeaking) --
+
+**Mr Andrew Bailey**: Now, two things which I think really illustrate your point. One, we have, to this day, a much higher saving rate in the economy than we had pre-Covid. So the saving rate in the UK economy to this day is about double what it was pre-Covid and of course, that's another way of saying that household consumption is low because they're the sort of flip side of each other, if you like. If you don't spend you save.
+
+Now, I have to be honest, pre-Covid, you know, there was quite a lot of focus on how low the saving rate was, but I think you can see from that that there has been quite a marked change in behaviour. And indeed, to this day, one of the questions that we have is, you know, at what point might this change?
+
+The second observation I make on this, which is one of the really important questions, I think, for me in this whole debate on Covid, is -- and here I'm afraid the data are unhelpful because we run into the problems, and I know you've picked up on it in the various submissions with the Labour Force Survey -- but we clearly had a pick-up in people who were so-called inactive, not participating in the economy.
+
+Now, just a quick definition here. An unemployed person doesn't have a job and is seeking a job. An inactive person doesn't have a job and is not seeking a job. Now, that's an important distinction for us, because the first person is putting pressure on to the labour market in the sense that they are competing for jobs and that will influence wage setting. The second person is not, because they're not in the labour market.
+
+Now, we've seen -- we saw a rise in activity during Covid that was not unusual, internationally. It would appear, though, there's a fog of data, I'm afraid, that this inactivity has gone on longer in the UK. Quite where it is today I'm afraid is still very uncertain, but it does appear that Covid at least coincides with, I mean, there's a question now about causality and coincidence, with an increase in inactivity.
+
+And again, that comes, I should say, at both ends of the age spectrum, so young people and older people but not the people in the middle, and it does appear that that is another -- when people are asked why they're inactive, there has been an increase in long-term ill health as the reason given.
+
+**Mr Andrew Bailey**: So I think this begs a very important question, which is: what is the longer-run impact of Covid in this respect, in terms of, obviously, both medical conditions and also, then, labour force participation as well.
+
+**Counsel Inquiry**: And in turn, on the economy overall?
+
+**Mr Andrew Bailey**: And therefore on economy overall, yes.
+
+**Counsel Inquiry**: And so when we talk about hindsight and looking backwards, it may be some time before reliable data emerges that will enable a better appreciation of how all those things sit together?
+
+**Mr Andrew Bailey**: Yes. Well, I mean, I'm sure -- I hope -- I don't think you'll mind me saying this -- I mean it's one of the things that Chris Whitty said to us during one of the very many valuable sessions we had with him. He said, "There is -- look, there's just a lot we don't" -- and this was back in the, sort of, '22, probably, period -- "There's a lot we don't know about Long Covid" -- from a medical point of view, that is.
+
+**Lady Hallett**: Sorry, can I just interrupt for a second?
+
+Mr Bailey, if that was the reason, and I understand the importance of recognising Long Covid and understanding it, but if that were the reason, surely the UK figures would be similar to other countries? And you said earlier that the inactivity has gone on longer and worse in the UK.
+
+**Mr Andrew Bailey**: This is -- it's a really, really good question, because your basic presumption would be correct -- which must be the baseline starting point -- which is surely this is a phenomenon that you would see across countries in similar measure? And yet -- and I say, there is unfortunately a lot of fog in the data, but it would appear that this is somewhat different in the UK.
+
+Now, I have to be honest with you, I'm not the expert in this field, so, you know, I'd encourage probably to ask these questions to others, but -- who are, but I think it is a very, very important question as to why the UK appear -- appears to be -- to be different.
+
+**Mr Wright**: Can just deal with this next set of questions, really, in the abstract, so not in the context of this emergency but in any economic shock. As the central bank, you evaluate the shock and, as you look at what's happening, you work out what effect you think that's going to have on the economy, short term and longer term; is that right?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And then you think about how you could react?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And there will be a range of reactions?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: There's the "go big, go fast" reaction, which I think is taken from a paper you --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- wrote?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And that is --
+
+**Mr Andrew Bailey**: That's the March 2020, reaction.
+
+**Counsel Inquiry**: Yes, that's the March 2020 reaction. So you step in quickly and you do something really big --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- quickly?
+
+**Mr Andrew Bailey**: And deliberately.
+
+I mean, let me just on that say two things. One is, as I said before lunch, it a financial -- a big financial stability risk.
+
+**Counsel Inquiry**: Yes. Can I promise you, we will come on to that.
+
+**Mr Andrew Bailey**: Yes, yes, but the other thing -- I'm going to borrow a famous phrase now -- I mean, this is a question of how do you react in this situation when you see real evidence of -- of fear? And I'm going to borrow the famous phrase that Franklin Roosevelt -- you know, the only thing to fear is fear itself. And in March 2020 that was the situation we faced.
+
+I mean, we faced a very, very difficult economic and financial situation, going back to my point about, you know, how, for instance, companies were, I don't know, quite understandably, seeking to dramatically change their position in terms of liquidity in the financial system?
+
+And if we had stood back and let that happen, you know, there's a very good question: what would the outcome have been? I think it'd have been bad.
+
+**Counsel Inquiry**: And for which there is no counterfactual, because you did step in, so we'll never know. Is that --
+
+**Mr Andrew Bailey**: Well, that's always the case in a way --
+
+**Counsel Inquiry**: Exactly --
+
+**Mr Andrew Bailey**: Yeah -- yeah.
+
+**Counsel Inquiry**: And is that --
+
+**Mr Andrew Bailey**: I mean, you could obviously have a go at constructing the theoretical counterfactuals, but it must always be the case that we don't have the counterfactual because we obviously did step in.
+
+**Counsel Inquiry**: No. And there would be thousands of decisions made across --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- government and the bank that you could never feed into a reliable counterfactual, could you, of what if, what if, what if?
+
+**Mr Andrew Bailey**: No, this is the -- the problem of doing the -- sort of the full cost-benefit of this period and these policies, that you have to construct the counterfactual. And you obviously don't have that counterfactual, you would have to come up with some -- yes, some assumptions.
+
+**Counsel Inquiry**: Yes. And so there was the sort of "go big, go fast" option, which is what you did --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- in March 2020 --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- as a general option. There's obviously "do something a bit smaller", but we'll come on to why you went for "go big, go fast".
+
+Then there's also always, I suppose, the option of doing nothing. You can sit --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- on your hands as the central bank and say: we're just going to watch this play out, we're not going to pull any monetary policy levers.
+
+And I just want to give you an opportunity to deal with this. The way Lord King put it this morning was that there will always be these calls to do something, and enormous pressure, he acknowledged, to do something, but it doesn't mean that every bit of bad news requires a response.
+
+But where does that sit with you, as a proposition, generally, and then in terms of this pandemic?
+
+**Mr Andrew Bailey**: Well, look, this is honestly where -- I have great respect for Lord King, I worked for him. We're in a different place here. I honestly think that it is our duty, at that point, where it is something that directly affects our two objectives, our two objectives, remember, are monetary stability and financial stability. So where we judge that the consequences of this, were it left to its own course, as it were, would be a very severe outcome, a very severe threat to the economy, I mean, it's our duty to step in. It's our duty to the people of this country, frankly.
+
+So I do differ there; I'm afraid I think it was our duty and our responsibility to step in. And it worked. I mean, we did stabilise the situation. In very difficult circumstances.
+
+**Counsel Inquiry**: So you accept, as an abstract, of course you can always say we're going to do nothing, it's open to the bank to do that. In this crisis you took the judgement that you needed to do something --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and you did and we'll come on --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- to look at that. And just so the public understands, did you at least cycle through those options in terms of --
+
+**Mr Andrew Bailey**: Oh yes, yes.
+
+**Counsel Inquiry**: -- I mean, it wasn't the case that you never had doing nothing on the table. You looked at all the options available?
+
+**Mr Andrew Bailey**: Yes, we did, but I'm afraid both domestically and internationally, and internationally in the sense of, you know, financial markets are very closely, obviously, interconnected so we can't ignore the financial situation, we were in a moment of extreme crisis at that point. I mean, unsurprisingly, given what was happening.
+
+**Counsel Inquiry**: And so against that background, that was your judgement --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- based on what you were seeing?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Go big, go fast. What did that look like? Reduction to the Bank Rate? Two reductions?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: As we know and we've discussed, the Bank Rate was already very low.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: So that lever -- (overspeaking) -- you had a limited ability, through that lever.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: We discussed negative rates, and --
+
+**Mr Andrew Bailey**: Yes, and we were not actually really so much focused on negative rates at that point. That came later.
+
+**Counsel Inquiry**: No, all right.
+
+And then quantitative easing, and the first round of quantitative easing in the crisis in March 2020. I just want to deal with your volatility point now, because I think this is hopefully a convenient point at which to deal with it.
+
+**Mr Andrew Bailey**: Yeah, certainly.
+
+**Counsel Inquiry**: And we'll just -- I'll ask that the volatility index graph is put up, please. So this from INQ000588133. The graph is at page 12 and it's figure 4.
+
+There we are.
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: And I'm going to ask you to explain why you took the view that there was a need to step in, go big, go fast, in the context of that volatility, but I'm also going to, just so you know, give you the counternarrative, if you like, Lord King's evidence this morning, which was he said that volatility in bond markets was entirely unsurprising, there would be inevitable toing and froing in prices, and over a few weeks things would have settled down. And if it became too damaging, then at that point the bank could go in and buy up itself to stabilise the markets.
+
+So I'm just giving you that as the context for you to explain what you did and why at that time you did it.
+
+**Mr Andrew Bailey**: Well, first of all, what this chart shows, of course, is that volatility went up very dramatically. And it also shows that it came down very dramatically as well. And that's the point I made. I mean, the VIX, by the way, of course is an international measure, but it's a reasonable proxy for the UK.
+
+So it just -- it shows the very big increase in volatility but where I would differ from Lord King on this is that he only referred to the gilt market. My point, as I've mentioned a couple of times now, is that there was a much bigger thing going on in terms of the so-called 'dash for cash', and, you know, I mentioned before lunch the statistics on the demands that the company sector was placing on the banking system for cash.
+
+Let me give you another illustration of why it's much wider than just the gilt market. In more established periods of very high volatility, of the sort, by the way, if you look at the far right-hand side of this chart, we have seen this year, not as big, but you can see it nonetheless, that's related to, you know, the well-known sort of geopolitical norms, the tariff news, for instance.
+
+One of the things you see in more normal periods is a big move into gold, which we've seen this year. The gold price has gone up a lot.
+
+I say this because if we go to March 2020, we actually saw the opposite. This was so extreme, the gold price fell very sharply. So people did not even trust being in gold. They had to be in cash.
+
+So this, I think, illustrates why the risk here was much bigger, much bigger. And so I really cannot agree with the view, if you'd just sat tight it would all have gone away.
+
+**Counsel Inquiry**: And I would like, if you can, to expand a little on the risk. What do you actually mean, if you can conceptualise that. What are we talking about? The risk of what happening?
+
+**Mr Andrew Bailey**: Well, eventually, you would get to the point where the resources of the banking system were being strained by the demand for cash, potentially. Eventually, had we not stepped in and reverted things, I think you would have had a risk of company failures.
+
+**Counsel Inquiry**: And how is that related? Because they can't get access to --
+
+**Mr Andrew Bailey**: Cash.
+
+**Counsel Inquiry**: -- cash.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Can't get access to -- (overspeaking) --
+
+**Mr Andrew Bailey**: And so, you know, I think, you know, you could then, you know, project this out in a number of ways but I think we would have ended up with very disorderly conditions around us.
+
+**Counsel Inquiry**: I just want to take that a bit further. Do you mean, there, disorderly conditions economically, or are you actually saying --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- that -- does it go a bit further than that: that there was a crisis, people were scared --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- the country was being shut down, and if, at the same time, they're running out of cash and businesses are failing, then are you talking about disorder more generally?
+
+**Mr Andrew Bailey**: Yes, yes. I think it's very hard to sort of, you know, be precise about where all this would end up but I think that would be a hugely risky situation to be in. I mean, you've had -- I mean, it's unwise to sort of closely, in a sense, compare situations, but let me sort of slightly have a go, accepting that there was a big difference.
+
+When the First World War broke out, there was a big run on the City of London, and the Bank of England stepped in. Effectively, it closed down the city for some days. And the Bank of England had to step in. Now, the difference is that we were on the so-called gold standard at that point. But again, you know, you had a huge shock to the system, the First World War breaks out quite suddenly, there is a loss of confidence in the European financial system, the Bank of England had to step in.
+
+Now, you know, I'm afraid, you know, I'm very, very clear as a public official, and as a central banker, we cannot stand by and let that sort of thing, you know, rip, as it were. Sorry, I think that is just not compatible with our obligations to the public of this country.
+
+**Counsel Inquiry**: Okay. If the -- a counterview, just to have your position on it, if there was a threat to liquidity and businesses accessing cash, why not, rather than engaging in monetary policy measures like quantitative easing, why not set up schemes to finance business?
+
+**Mr Andrew Bailey**: Well, we did both, actually. But can I be clear, QE is not just a monetary policy instrument. It can be done for financial stability reasons. Now, you know, if you wish to, I mean, compare it with another, more recent well-known incident, the so-called LDI incident of a few years ago -- this is in the period of the Truss government when we had to step in, and we did a temporary intervention at that point. You know, I had to be very clear that it was not QE and some of the, you know, some of the sort of feeling that has generated was precisely because we had to do that, but that was because that was a time-limited intervention. We knew what solved that.
+
+We had no idea how long this was going to go on for. It was a different, a different beast altogether.
+
+**Counsel Inquiry**: And so your position seems to be that in March 2020 you did view this as a truly existential crisis really?
+
+**Mr Andrew Bailey**: Yes, yes.
+
+**Counsel Inquiry**: And the bank had to step in --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and had to do something big and bold.
+
+**Mr Andrew Bailey**: I'll put it to you that if we had not stepped in, I think we would be having this Inquiry today with a very different set of questions.
+
+**Counsel Inquiry**: And that, perhaps, goes back to my point about the counterfactual, we're only looking back in hindsight --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Okay.
+
+Now, let's take that on a little, into June of 2020.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And there was a further round of QE in June of 2020?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: And I'll give you an opportunity to explain why there was that further round, but, again, just putting the counterargument, so you can wrap it up and deal with all of it, is: okay, let's accept in March there was a need to go big, go fast. You do that.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: Come June, things are looking better, the country is starting to move towards opening up. You should have then started unwinding the position --
+
+**Mr Andrew Bailey**: Well --
+
+**Counsel Inquiry**: -- not expanding it?
+
+**Mr Andrew Bailey**: Let me -- let me say a number of things on that.
+
+First of all, we did scale back. So the big -- "go big, go fast" was the initial period. I can give you some numbers, if that would help. I think they're in the evidence. Hang on a minute.
+
+So, between March and June, we were buying assets at the rate, on average, of £13.5 billion a week. That's the fastest we've ever done. We scaled it back, so between June and August we did about 7, and from August through to May the next year we were doing about -- just over 4, and then for the last months, from May to December, 3.5. So we scaled back.
+
+Now, two things on, you know, the thinking there. The first thing is that -- let's go back to your point about supply and demand. Because our concern throughout was to limit the long-term damage to the supply capacity of the economy, because, in terms of our responsibilities, were that to happen, our job becomes much harder. It makes monetary policy harder because you've limited, one, the supply capacity relative to demand.
+
+So I very much look to -- I mentioned Alan Greenspan before lunch, I'm going to mention Alan Greenspan again now, one of his, I think, guiding principles for monetary policy was something called risk management, and this is something we cited in our explanations, where you are using monetary policy to lean against bad outcomes. So, in other words, to lean against -- because obviously Covid was still going on. Remember, we were having successive waves of Covid coming through. You know, we had further lockdowns remember. I'm sure you've been going through this, you know, a lot in this room.
+
+So, our description and explanation for what we did was very much deliberately framed in terms of that risk management approach of leaning against bad outcomes, what Alan Greenspan has called your, sort of, "least regrets" approach.
+
+Can I now -- and my third point, I'm actually going to go back to Lord King for a moment, because I have great respect for Lord King and we get on very well and we've worked together a lot, but he faced a very similar situation in the aftermath of financial crisis when the inflation got up to 5% or more.
+
+And by the way, you know, I think -- you know, pre-Ukraine, that was probably about what we were looking at, in terms of peak inflation. If you do the -- certainly -- you know, again, I'm abusing hindsight, but --
+
+**Counsel Inquiry**: Yes, well, I will pick up inflation -- (overspeaking) --
+
+**Mr Andrew Bailey**: But he made a very important point, and I'm going to quote something he said to the Treasury Select Committee in November 2011 which I always have in mind.
+
+**Counsel Inquiry**: I think, Mr Bailey, there is -- I sympathise with you wanting to use that, but I think there is a -- because it was said to a Select Committee in Parliament, we're not allowed to rely upon -- if you're saying it as a matter of historical fact, I think --
+
+**Mr Andrew Bailey**: Well, it's historical -- or I'll paraphrase it, if you like?
+
+**Counsel Inquiry**: Yes, that calms everybody in the room.
+
+**Mr Andrew Bailey**: Oh, okay.
+
+In the face of that inflation post-financial crisis, he was very clear to those he spoke to that his interpretation of the remit of monetary policy is that we do not cause undesirable volatility and output. In other words, we can make judgements, and the legislation allows us to do that, about how quickly we seek to bring inflation back to its target.
+
+And he was very clear that, in making that decision, we take into account not causing undesirable volatility and output.
+
+And that's important. Because, again, it frames our thinking in terms of the use of risk management that we were guarding against undesirable negative effects on supply capacity.
+
+So that's the framework in which, you know, my thinking was constructed.
+
+**Counsel Inquiry**: I don't want to overly simplify that, but were you taking, it seems, the "safety first" approach, you had an overall responsibility to take measures to protect the economy --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and to protect against potentially worse outcomes?
+
+**Mr Andrew Bailey**: Yes. Yes. I mean, that's -- in a way, that's a good way of describing the risk management approach, yes.
+
+**Counsel Inquiry**: Yes. And does the same -- or did the same analysis apply to your decision to have a further round --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- of QE --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- in November 2020 as well?
+
+**Mr Andrew Bailey**: Yes. And if you look at the state -- the language in the statement we used at the time, you'll see there's risk management language in there, yes.
+
+**Counsel Inquiry**: Okay.
+
+Can I then, unless there's any other particular --
+
+**Mr Andrew Bailey**: Well, the only other thing I'd add is to just reinforce a point I made a few minutes ago, which is -- by the way, this is not against a context in which demand appears to be out of control. You know, we've still got a very, frankly, gradual -- we are recovering but we're still well below the level we were pre-Covid.
+
+**Counsel Inquiry**: Okay. I want to go back to inflation.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Because I want to give you an opportunity to deal with this.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: You know, putting it bluntly, the argument that, well, it was the bank engaging in QE, in the scale it did. It wasn't necessary. That's fuelled inflation because once everyone was unlocked, everyone starts spending like mad. That sort of argument.
+
+**Mr Andrew Bailey**: Yes, well --
+
+**Counsel Inquiry**: I'll just put up some figures and then you can speak to it.
+
+**Mr Andrew Bailey**: Yes, sure, okay.
+
+**Counsel Inquiry**: Because you said a moment or two ago that you thought but for Ukraine, I think, inflation might have peaked at about 5%. I know you can't be precise about that but I just want to give you an opportunity to deal with it.
+
+So could we have up, please, INQ000657600. There we are. There's a little table of CPI and PPI from March 2021 --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- until that cut-off at the invasion of Ukraine in 2022.
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: Could I just ask you this: you said earlier that when you engage or think about engaging in QE, you can assume that there may be some inflationary effect and you can sort of calculate what you think that might be. Was the bank doing that then --
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: -- in March, June and November? And if you were, where did you think inflation was going to land, but for other world events?
+
+**Mr Andrew Bailey**: Well, you'll see that in our quarterly monetary policy reports that we published and, of course, our view did evolve over time. Our profile of inflation did get higher over time, that's true.
+
+Now, the reason for that is because we had, in this period in 2021, what now tends to be called the global supply chain shock, where the recovery of the world economy causes strains in supply chains. Some of that is because China was obviously badly affected by Covid. China is the source of goods, the biggest source of goods than anywhere else, not the source of all goods but the biggest source.
+
+I think the second reason, and this is important, is that one of the effects that the lockdowns had was to switch demand from services to goods. So in other words, we didn't go out and, you know, eat in restaurants and drink in pubs; we ordered stuff to our homes, and that stuff was more goods, and the things that we weren't doing was more services.
+
+So that was putting more strain -- it was putting more strain on the supply chain of goods, that's true.
+
+But I think as my former colleague Ben Broadbent has said in the submission he's made to you, it certainly looked by the time Ukraine happened, that that was peaking, that supply chain shock was peaking, and there was some recovery in world supply chains beginning. And again, you know, hindsight is the problem here but the hindsight analysis I think supports that: that the -- where the analysis -- the analytical tools that are used to isolate the global supply chain shock tends to support that view.
+
+And you can see this broadly in this table with CPI, you know, being at about 5.5 at the point when Ukraine happens.
+
+Yep, there it is.
+
+**Counsel Inquiry**: Okay. And so what effect did you, the bank, contemplate QE, the rounds of QE would have on inflation? Is it possible to separate it out of these figures?
+
+**Mr Andrew Bailey**: Very little, actually, in that sense, because -- and again, I think my former colleague Ben Broadbent has made this point very forcefully in his submission, far more of the impact on CPI was coming from the supply effects. So we, again, were using QE to lean against worse outcomes.
+
+**Counsel Inquiry**: Right. What would you say to the argument that when the inflationary trend started to emerge, the bank was too slow to increase rates? There was an increase in rates, but it should have been more aggressive?
+
+**Mr Andrew Bailey**: So I think, you know, it's a very good question. So let's take us -- if you don't mind, let's go to, sort of, summer, autumn, 2021. So this is the crucial period. You can see it in this table, of course, here.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Andrew Bailey**: The big question for us was what was going to be the consequence of ending the furlough scheme, in terms of the labour market. Now, remember the furlough scheme had been extended from its original endpoint. We were aware, I think I'm right in saying, that around about a million people were using the furlough scheme up to its final endpoints, which I think, if I remember rightly, was the end of September.
+
+So a big question for us was what was going to happen when it went away? And there are some very good materials that we always produce in every monetary -- quarterly monetary policy report where we compare our forecasts with those of outside forecasters. And all of us thought there would be an increase in unemployment, as the furlough scheme came away, that it would cause -- this is the scarring point again.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Andrew Bailey**: There would be an effect and it would therefore, obviously, have an effect on the balance of supply and demand. We were all wrong. It didn't happen.
+
+So, when I look back, and as I say, you know, we don't have hindsight -- the benefit of hindsight. None of us, I'm afraid, could have predicted the Ukraine war, clearly, I'm afraid, you know, that's not possible. I think we can debate the assumptions about the end of the furlough scheme. That's the other big, you know, larger element to this.
+
+Now, Mervyn King is right to say that the economics profession were all in the same boat. We were all rowing the same boat here. I think it's, if you like, a bit easy to then just talk about groupthink. There were reasons why I think we thought there would be damage to the supply side. It's not unreasonable to think: this is such a big intervention that it's going to cause, you know, a rocky transition. And the surprising thing is, it didn't.
+
+Now, I think the final point I'd make on this is that I think this is related to a point we were discussing before lunch, which is this withdrawal of labour from the economy that was going on as inactivity increased around this time and beyond. And that's a very complex set of supply-side activities that were very hard to predict, to be honest. You know, if you look back and say, "What didn't you predict?", well, that's the nub of it, I think.
+
+**Counsel Inquiry**: I mean, does it come to this, and I don't want to oversimplify again, but if you were seeing that trend in inflation in ordinary times, so when you hadn't had a global pandemic --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- and the country wasn't recovering from an unprecedented shock --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- then of course the bank would have increased rates --
+
+**Mr Andrew Bailey**: Of course, a different matter.
+
+**Counsel Inquiry**: -- much more aggressively, because increasing rates aggressively would have helped curb inflation.
+
+**Mr Andrew Bailey**: Yes, because I would assume that we would be seeing demand rising very strongly relative to supply.
+
+**Counsel Inquiry**: But that wasn't the --
+
+**Mr Andrew Bailey**: No.
+
+**Counsel Inquiry**: -- the scenario?
+
+**Mr Andrew Bailey**: No, not at all.
+
+**Counsel Inquiry**: And you were still juggling not just inflationary pressure but all the other issues in the economy that were you were trying to --
+
+**Mr Andrew Bailey**: Well --
+
+**Counsel Inquiry**: -- have an eye to --
+
+**Mr Andrew Bailey**: -- exactly because it's worth remembering that we raised rates from December 2021. That's the point at which the Omicron variant was taking hold. We had a lot of discussions, we had some very good discussions with Chris Whitty around this, actually, and we decided -- we took a very conscious decision to look through the outbreak of Omicron and say: I think it's now time for us to take a different approach.
+
+**Counsel Inquiry**: Yes, yes. And to take a point you've made, if your predictions -- if the banking world's predictions about what would happen at the end of furlough had been correct, and the bank had been increasing rates, then we might now be having a very different conversation about why on earth-- (overspeaking) --
+
+**Mr Andrew Bailey**: Oh, we'd be having a very different conversation, yes.
+
+**Counsel Inquiry**: Yes. Because what would have been the consequence of that if you're putting up rates at a time when people are losing their jobs and --
+
+**Mr Andrew Bailey**: Well, of course, obviously it is something we have to do, as central banks in certain circumstances. It's often named -- or given the title after a former chair of the Federal Reserve of "We take away the punch bowl as the party is getting going", as -- William McChesney Martin came up with that saying.
+
+Obviously, in the event of a demand shock we have to do that and we have to, you know, face up to the unpopularity of doing that and say that's what we have to do. So we would have had to do that, yes.
+
+**Counsel Inquiry**: Thank you very much.
+
+Could I just have a moment.
+
+The forecasting in an unprecedented situation was obviously very difficult.
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: Much more difficult than normal. And we've talked already about the data streams that were available --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- and how you were adapting to try to get more real-time information on what was really going on in the economy.
+
+**Mr Andrew Bailey**: Mm.
+
+**Counsel Inquiry**: Do you think that was a limiting factor in -- access to data, a limiting factor in the bank's ability to analyse and forecast?
+
+**Mr Andrew Bailey**: Well, let me draw an important distinction here. Real-time data are very useful for telling us and you what is going on today. And from that -- excuse me -- you know, we can often draw some inferences about what can happen in the future. But they're not what I call structural models, they're data models.
+
+Structural models are longer-term models that try to tell you, sort of, about how things relate together in the economy in more sort of structural ways and longer-term ways. And more real-time data doesn't solve that problem.
+
+I mean, it's useful -- don't get me wrong, it's totally useful, and we're great devourers of it, but we also recognise that those sort of data-driven models don't solve your sort of -- if -- we're making policy, really, at the two to three-year horizon, with monetary policy, because -- as we said early on about the transmission mechanism. So they don't really -- you know, they give you a starting point but they don't take you to the end, as it were. That's the point.
+
+So we were obviously looking at, you know, what tools we could develop that would help us in that respect.
+
+**Counsel Inquiry**: I mean, we've heard from a former Governor this morning, current Governor now, this is an opportunity, I suppose, to speak to a Governor in five, ten, twenty years' time. What tools do you wish you had had, what access to data, what analytical capability -- there may be none, but there may be some -- that you didn't have? And are things being done to put the bank in a better position next time?
+
+**Mr Andrew Bailey**: Well, I think I go back to some discussion we had before lunch. There were -- there were a few areas of data where, you know, I think we could have -- you know, it would have been interesting to see them, but I'm not sure it would necessarily have changed the -- what happened. So, you know, useful but not game changing.
+
+I think understanding more about the sort of -- the relationship between the medical side and the economic side, I think, is -- it's a field that I think we can usefully develop. It's something I've talked Chris Whitty a lot about.
+
+There were some things you may -- I think you -- this was referred to in one or two of the submissions you've had, called epi-macro models.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Andrew Bailey**: I would just say, please don't think there's some Holy Grail in there that if only you'd got it, it would tell you the answer.
+
+I mean, all models are simplifications of reality. That's useful, by the way, it's not -- not a bad thing, that's a good thing.
+
+Those were, sort of, models that were trying to, sort of, take a few bits of theory, if you like, and say: let's do a rather, sort of, simple model that incorporates one or two, sort of, possible, sort of, simple theoretical relationships. We don't have any data because we've got no history. We don't have any -- we can't go back to the plague or anything, that's not going to help us, but, you know, let's theoretically put those together and see what it might produce.
+
+Useful, but not the Holy Grail.
+
+**Counsel Inquiry**: But presumably you don't look back and think, you know, "Everything was perfect, wouldn't do anything differently"?
+
+Hindsight is a great thing, but have lessons been learned? What is the bank taking forwards from the pandemic?
+
+**Mr Andrew Bailey**: Yes, I mean, I think -- well, we've -- we've learned a lot of lessons on the operational side of things that, you know, we did and found useful and that we carried forward, changes that we -- we've made.
+
+I think, on the monetary side, we've had a whole big review by Ben Bernanke. That wasn't -- it was prompted by this experience, very clearly about that, but it was actually a much -- it had many -- it had most relevance for normal conditions, in terms of, you know, some of our -- some of our infrastructure, frankly, was too old. And although the staff did heroics with it during this period, they deserved better infrastructure. And they're getting it.
+
+Some of our models, frankly, haven't been -- you know, haven't been developed in ways that they could usefully be doing. That's happening. And some of the ways the committee explained things with -- back in -- last month, actually, we changed quite a bit of the presentation of policy. It's not particularly a Covid point but it's something that came out of that.
+
+**Counsel Inquiry**: Okay.
+
+Can I ask about two things in particular. One is a suggestion Lord King made, I just would like your reaction to it, which was he felt that, going forward, it would help if a central bank explained the calibration of quantitative easing at any particular time. So, in other words: why 100 million? Why 200 million?
+
+Where does that sit with you as suggestion?
+
+**Mr Andrew Bailey**: Well, I think that's a good thought. I would point -- because he didn't point to this. You know, we explained it in terms of what I described as the Alan Greenspan risk management approach. He didn't touch on that, I think, in his evidence or his written submissions -- certainly I didn't hear all of his evidence. So it was explained in those terms.
+
+All I would say is we have to guard against sort of what I call over-precision -- and he, by the way, is a great believer in this because I don't think he and I would disagree at all on this, but you do have to be a little bit careful. These things are very heroic.
+
+So if I come out and say, you know, if we do this, that will happen, I'm -- one of the things I've learnt over many years as a central banker is we make a lot of what I call conditional statements. It's our trade in -- and stock trade, you know, by which I mean I say, "If the following happens, then this ..."
+
+And that's often in terms of our policy response.
+
+They are immediately translated into unconditional statements, in the (unclear): "The Governor has said that the following is going to happen", when the Governor hasn't said that, the Governor has said, "If the following were to happen, then we might" -- and by the way, it happens a lot, it's not unique to this country. It's a general truth.
+
+**Counsel Inquiry**: -- (overspeaking) -- governors of central banks.
+
+**Mr Andrew Bailey**: And, you know, I'm philosophical.
+
+**Counsel Inquiry**: So that would be the danger of that sort of --
+
+**Mr Andrew Bailey**: Yes, that's the danger of it.
+
+**Counsel Inquiry**: Okay.
+
+Can I just pick up one other thing that we've touched on, and by all means develop it if you want, but we've talked about negative rates?
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: You said you didn't really consider negative rates in March 2020?
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: But thinking obviously developed --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- on the idea of negative rates during the --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- pandemic. And I'd just be interested to know, if you can tell us, developed in what way: that you considered it, ruled it out, or that you actually worked up how it could work?
+
+**Mr Andrew Bailey**: We worked out how it could work. So we had to do a lot of work on this, because we had to do a lot of work, particularly through our supervision -- our prudential regulations side because we had to go to the banks, we also had to look at our own systems and say: can they handle negative rates?
+
+Now, let me just explain this. It's all a bit prosaic but important. Are they -- can you actually input a negative number into the systems? And, you know, obviously if, you know, you know, if you multiply two positive numbers by each other, you get a positive number; if you multiply a negative number by a positive number, you get a negative. So is the system going to be blow up in the way it's coded, when you put a negative number in, you ask it to multiply that to get the interest -- so you get the interest payment out, you've got a positive -- you know, has it been coded without thinking about this, without in a sense incorporating this, and we're just going to blow up the system up at this point.
+
+So our supervisors had to do a lot of work and get each bank to do a lot of work to say: can your systems handle this? It's a little -- actually, I mean, I'd liken it, if you remember, a bit back to all the work we had to do on Y2K if you remember, the year 2000, when we had to say, you know, if you change the --
+
+**Counsel Inquiry**: The millennium bug?
+
+**Mr Andrew Bailey**: Yes, the millennium bug.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Andrew Bailey**: Can the systems actually handle it? So we had to do that work, and it took a few months of intensive work with the banks to establish, actually, that for the most part we could.
+
+**Counsel Inquiry**: And so in terms of a weapon in the Bank's armoury in a potential crisis, that work has been done --
+
+**Mr Andrew Bailey**: It's been done, and we are in a position now where we think that we could do it. Now, I just -- can I please now just say this for the record because I don't want people out there interpreting that the Governor is about to go off and do negative rates, but I think I've said this before, actually, it is in the toolbox.
+
+**Counsel Inquiry**: Yes, and that's the point --
+
+**Mr Andrew Bailey**: Yes.
+
+**Counsel Inquiry**: -- in March 2020 --
+
+**Mr Andrew Bailey**: It wasn't.
+
+**Counsel Inquiry**: Even if you had wanted to do it --
+
+**Mr Andrew Bailey**: It wasn't there.
+
+**Counsel Inquiry**: -- you just couldn't have done --
+
+**Mr Andrew Bailey**: No, no.
+
+**Counsel Inquiry**: -- it operationally, but that at least is something --
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: -- that has been worked through?
+
+**Mr Andrew Bailey**: Yeah.
+
+**Counsel Inquiry**: Okay, thank you very much.
+
+Well, Mr Bailey, those are my questions I wanted to cover. If you have any other reflection or observation you want to share with the Inquiry, then please take the opportunity to do so.
+
+**Mr Andrew Bailey**: Can I -- I think we've covered a lot of the ground. There's one more point I wanted to make it and it just goes back to what Lord King was saying. This comes back to this question about monetary aggregates and inflation. There's a lot of talk that increasing -- obviously, quantitative easing, as I said earlier, increases the stock of money. So in other words, it increases the monetary aggregate. But the relationship of money to inflation in economics requires one other thing to be taken into consideration, which is not in that, which is the so-called velocity of money. The way to think about that is how quickly does the stuff circulate around the economy, because inflation, when -- the monetary relationship with inflation is what's called M times V, money stock times velocity, and on the other side is inflation and transactions volume.
+
+Now, I say this because -- the story gets told: well, you increased the stock of money, therefore, as night follows day, inflation followed.
+
+But that doesn't follow. You have to look at what happened to the volatility -- the velocity, I'm sorry. And the velocity fell. The velocity fell very sharply.
+
+And so that actually offsets the thing.
+
+And this is consistent with the dash for cash. People were hoarding cash. I mean, the public were hoarding cash to a degree but actually much more of it was -- was companies wanting to liquefy, put into cash their balance sheets.
+
+And so, when you look at the inflationary consequences of this, you have to look at both of those elements. And it does always concern me that much of the commentary only looks at one of them. So that's -- I think that's the only other point I would make, that we probably haven't touched on.
+
+**Mr Wright**: Right. Thank you very much.
+
+I don't think there are any other questions.
+
+**Lady Hallett**: There are no other questions, Mr Wright.
+
+Thank you very much indeed, Mr Bailey. I do appreciate, given your very demanding job --
+
+**The Witness**: Not at all.
+
+**Lady Hallett**: -- to have the demands of the Inquiry put on top must be a bit of a nightmare, but I'm very grateful to you for your help. And I think with your help and Lord King's help this morning, I'm getting to grips with what is obviously an extraordinarily complex subject. I suspect you're like lawyers, central bankers, put five of you in a room and you'll come up with five different answers; am I right?
+
+**The Witness**: Oh, there's nine of us in the MPC and we can often -- you know, we can get any number of answers you want!
+
+**Lady Hallett**: Exactly.
+
+**The Witness**: That's what they always say about economists: if you put four of them in a room, you'll get six answers.
+
+**Lady Hallett**: Well, on that note --
+
+**The Witness**: Lovely.
+
+**Lady Hallett**: -- I'm extremely grateful to you. Thank you for all your help --
+
+**The Witness**: My pleasure.
+
+**Lady Hallett**: -- and in preparing your witness statement, which, obviously, I shall bear in mind, not just your oral evidence today.
+
+Thank you, that completes our demands on you. Thank you.
+
+Very well, I think that completes the evidence for the week, Mr Wright?
+
+**Mr Wright**: It does, my Lady. Thank you very much.
+
+**Lady Hallett**: In which case I shall sit again and I will be in person in the hearing room next week at 10.30 on Monday, 15 December.
+
+**Mr Wright**: Thank you.
+
+**Lady Hallett**: Thank you.
+
+*(2.43 pm)*
+
+*(The hearing adjourned until 10.30 on Monday, 15 December)*
+
