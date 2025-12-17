@@ -1,0 +1,1727 @@
+17 December 2025
+================
+
+*(10.00 am)*
+
+**Lady Hallett**: Ms Wilson.
+
+**Ms Wilson**: Good morning, my Lady. The first witness is Mr Gareth Davies.
+
+Mr Gareth Davies
+----------------
+
+*MR GARETH DAVIES (sworn).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Wilson**: You are Mr Gareth Davies; is that right?
+
+**Mr Gareth Davies**: That is right.
+
+**Counsel Inquiry**: The current Permanent Secretary at the Department for Business and Trade --
+
+**Mr Gareth Davies**: Yes.
+
+**Counsel Inquiry**: -- since February 2023. And as part of that role, you have overall responsibility for the effective running of the department, in addition to accounting officer responsibilities?
+
+**Mr Gareth Davies**: That is correct.
+
+**Counsel Inquiry**: Thank you. Just -- you've kindly provided the Inquiry with, I think, four statements in total, so just to introduce those for the record.
+
+You've provided a corporate statement split into three parts, so part A deals with the introduction and overview as well as lessons learned, with reference number INQ000653217.
+
+Part B, which focuses primarily on the loan schemes, with INQ000653218.
+
+Part C deals with the business grants schemes with reference INQ000653219.
+
+And importantly for our purposes today, a corporate statement which considers improvements and changes since the pandemic, with reference INQ000618258.
+
+Is that all correct?
+
+**Mr Gareth Davies**: That's correct.
+
+**Counsel Inquiry**: Thank you. And as I hinted at there, Mr Davies, today's evidence is going to be forward facing, focusing on changes since the pandemic, and since you've been in role, but also on what might be still yet to come in the future.
+
+So starting first, please, with preparedness and readiness for any economic shock in a future pandemic, we've heard over the course of the last few weeks about a range of views on planning and preparedness, some prefer no plans at all and regard themselves as anti-planning, they prefer some infrastructure in place, to the other end of the spectrum where some prefer off-the-shelf schemes ready to deploy in a future emergency.
+
+So looking to that future, where do you and the department sit in terms of planning?
+
+**Mr Gareth Davies**: Yeah. No, thank you, and I was very interested by the evidence given by some of your other witnesses during this module, particularly that of Tim Leunig, who I think fell very much into the former category.
+
+As ever, I think it's not -- this is not one thing or another. It's about how you get the balance right. I'm very informed by my experience previously at the Department for Transport, where I was responsible for transport security. There you have a series of incidences, particularly aviation security was a challenge, but right the way across the network.
+
+And we always had to get this balance right of having standard operating procedures for incidents that would happen repeatedly. You know, a classic example would be where you had Operation ADANA, where you lost contact with a plane. You needed to be very clear about roles and responsibilities and what people would need to do.
+
+But other cases, and actually I was responsible for the transport network during Covid, was new, and the risk, as ever, if you over-specify is people stop thinking and the key thing is to make sure the teams are actually, to be frank, engaging their brains rather than just going through rote processes.
+
+So it is a balancing act. I think what's really important in the planning and the playbooks, which I know we'll come to, is having -- capturing the lessons learned, is number 1, and making sure that we understand what works, what doesn't; crucially, what are the trade-offs as well, because often there's not a right answer, it's about getting the balance right between different risks you need to manage in the situation, being clear around who to consult with, and that can be both within government and with external stakeholders, and then thinking through to the core documentation you need to make sure you how you manage this.
+
+**Counsel Inquiry**: And one way, or one tool you're using to strike that balance, as you've mentioned, are the playbooks.
+
+**Mr Gareth Davies**: Mm-hm.
+
+**Counsel Inquiry**: So if I understand it right, there are -- you currently -- or you are preparing three playbooks: a DBT Pandemic Playbook, an Emergency Finance Playbook, and also a Grants Playbook.
+
+Now, it's right, isn't it, Mr Davies, those are all in draft form? They've not been approved by senior officials, ministers, other government departments, and they are a work in progress; is that fair?
+
+**Mr Gareth Davies**: I think that is a fair way to characterise them. I'd add there's another document, whether you call it a playbook, it's a concept for operations, a CONOPS document which sets out essentially how we operationalise the Cabinet Office and the book guidance, which is how you should run a crisis in a government department. So that's how we operationalise that.
+
+You're right, these are -- they're in draft. In some ways the playbooks are never finished, because you constantly want to iterate them based on the context of how you operate in government, in Whitehall, so the different sort of challenges, policy responsibilities you might have. So I always see them as different -- version controls rather than simply draft and then finalised.
+
+**Counsel Inquiry**: And in terms of the difference between, say, the Pandemic Playbook and then the more scheme-focused playbook, can you just elaborate on that, please.
+
+**Mr Gareth Davies**: Sure. If I just go one step back. The concept of operations, the CONOPS, is around any crisis more broadly, so that is, if you like, context neutral. The Pandemic is trying to bring together the specific lessons we learnt through Covid, and how that might apply, not just to a repetition of Covid but any pandemic schemes.
+
+Then the particular finance playbooks are then, if you like, a layer below those, to give details around how you do scheme design, to learn the lessons from what worked and what didn't with the loans and the grant schemes.
+
+**Counsel Inquiry**: And just taking you back to what you said at the beginning about it's important to strike the right balance between having that detail and retaining the corporate memory, but also maintaining that agility in a crisis, does that really come down to how you and your department will use those playbooks in the future?
+
+**Mr Gareth Davies**: I think it comes down to three things. Firstly, you're right, how we actually use the playbooks. It's important to make sure that they're both -- they're read but not, if you like, overly adhered to. You try to get that balance right, number 1.
+
+Number 2 is about how you structure the organisation. And since taking on responsibility for the department, I've restructured some of the teams to make sure we can have specialist knowledge embedded in the way in which the department's organised, so particularly the grants and loans directorate, which I'm happy to get on to more.
+
+And then, thirdly, it's about the culture of the department, and culture can sometimes feel a little bit, you know, hard to pin down, but what I mean by that is teams recognising the need to collaborate across their formal boundaries of teams, to be able to develop policies and products, like the grants and the loans, in the best possible way. So, for example, it's not just the responsibility of what you might call the "policy team" in Whitehall to develop this, they need to work in collaboration with the grants directorate, who bring the functional expertise about best practice in developing grants products.
+
+**Lady Hallett**: Can I ask you to slow down.
+
+**The Witness**: Of course.
+
+**Lady Hallett**: As you know, you're not the first witness we've had -- it's really difficult when you speak quickly as a natural pattern. I know, from my own cost. So if you can, I'd be really grateful.
+
+**The Witness**: I will try and slow down a little bit.
+
+**Ms Wilson**: You've touched there on culture and that being an important part of any future response. It's a very difficult thing to change, isn't it, certainly in any short amount of time?
+
+**Mr Gareth Davies**: Mm.
+
+**Counsel Inquiry**: How is the department going about looking at that change and bringing about that culture shift?
+
+**Mr Gareth Davies**: I agree. I mean, culture can feel -- as I said, can feel quite sort of will-o'-the-wisp in terms of how you -- you can describe what the "as is" is, but not how you're going to get to, if you like, the "to be", where you want to get to.
+
+I think about this as -- is as much about behaviours, and that's where culture really bites, so it's about what behaviours you want to see in your teams. I think of it in a number of steps.
+
+Firstly, you have to explain why this is important, and help people understand what you are trying to achieve, rather than just, sort of, setting out a set of rules.
+
+You have to give people the right training, and you'll have seen from the evidence statement, my witness statement, the work we put in to build up functional expertise in the department, also through some of the tabletop exercises.
+
+You then have to create some incentives, and by that I mean what happens if you don't follow the sort of behaviours, the collaboration you're looking to do. So for example, new programmes, new policies, new grant schemes, now will go through an investment committee and they require the initial fraud impact assessment, so that gives you the bite.
+
+And then finally, I always think about role modelling. It's not enough just to set out what you want to see as senior leaders, as a role modelling responsibility for myself, my senior leaders, and the executive committee of the department.
+
+**Counsel Inquiry**: And in particular focusing on the culture of collaboration, and how the DBT will work in a future pandemic with other departments, how do those playbooks help you work with other departments, in particular bearing in mind that the DVT has its own set of playbooks but we've also seen from other evidence that the Ministry of Housing and Local Government have a playbook, we know that the Treasury has its own set of playbooks. Is all of that being brought together?
+
+**Mr Gareth Davies**: This is where the Cabinet Office plays a critical role through the COBR function. They -- I think I mentioned earlier the role of the Amber Book guidance for the concept of operations. So they set the overall approach that they'll expect government departments to take. We then operationalise that within our context as the Business Department.
+
+I think where that helps is that you have a shared language across departments, although obviously the context in local government department or the Department for Health will be different to in my department. Having a shared language around both how you approach things, the sort of documentation you expect, the nature of the committees, the rhythm of business, can be incredibly helpful.
+
+I found this, for example, during my time at the Department for Transport during Covid because what it meant was you were able to bring people in from different departments into same team, but whilst they may not know the specific context of, say, aviation security, they would have the same language and understand the rhythm of the business and I think that is where that is really important.
+
+**Counsel Inquiry**: The Concept of Operations Book, or the document you've mentioned, is that owned by the Cabinet Office or is it owned by the Department for Business and Trade?
+
+**Mr Gareth Davies**: Cabinet Office owns what's called the Amber Book and that sets the overarching framework for how you handle crises. We then operationalise that as a concept of operations for DBT.
+
+**Counsel Inquiry**: Thank you. So in light of all of that, then, do you think it would be necessary to have an overarching playbook setting out roles and responsibilities or is that, do you think, already done within that amber playbook and the operational playbook?
+
+**Mr Gareth Davies**: I think it's a really good question. It's always that balance of over-specifying for a crisis that obviously is uncertain, and the risk of locking you into ways of working or processes that wouldn't be appropriate, you know, the classic challenge of fighting the last war. I think the Amber Book actually operates at the right level, it gives you the right levels of steer and structure without over-specifying but that's, you know, a personal judgement.
+
+**Counsel Inquiry**: One suggestion we've heard in evidence from Lord Sharma which I'd like to take your view on, is he suggested a memorandum of understanding so that the roles and responsibilities in a crisis are clear. He described it as a high-level document, a short document, one that could be adapted.
+
+Do you think that's something which is over-prescriptive or something which would be helpful in a future pandemic?
+
+**Mr Gareth Davies**: No, I thought he made a really interesting point around the role of a memorandum of understanding. I think, as ever, the question would be in the level of detail that memorandum of understanding went into. Something that was at the appropriate level, and I would think not much more than, you know, a dozen pages, something that people could read and have in their minds, as opposed to a sort of a 50, 100-page document, could be helpful. I think it might make explicit some of the things that are -- ways of working that people should know but, actually, in a crisis would be helpful to have explicitly set out rather than implicit.
+
+**Lady Hallett**: Can I just follow that up, Mr Davies, sorry to interrupt. I'm always very reluctant to make a recommendation where, you know, it's not necessary or it's going to cost money or it's going to take people time to resolve when they could be doing better things. Question: is it necessary?
+
+**Mr Gareth Davies**: So it's -- is it necessary? I think if you -- for people who have been working -- let's make it specific, I think a lot of this came out from the Treasury/the Department for Business relationships at the time. For those of us like myself and colleagues in the Treasury who have worked on that relationship, probably not necessary because we've got a good personal relationship, we know how we work, we've experienced that now through a series of crises post-Covid, be it Silicon Valley Bank, Jaguar Land Rover this year, British Steel. So on that basis no. The question comes I think, though, is when if in a crisis you are needing to scale up quickly with new members of staff, maybe from different departments that's where having -- and I emphasise at the right level, so I wouldn't see this being a big piece of work. I think at the right level of generality I think that could add value and just give some people guide ropes to work from.
+
+**Ms Wilson**: And you've mentioned there about good personal relationships currently, but one piece of evidence we've heard is that that is very personality dependent, and we don't know whether that still will -- the good relationships will still be the case in five or ten years' time. So having those guide ropes in place, does it help that, do you think?
+
+**Mr Gareth Davies**: I think yes, I think it could help that. Just reflecting more broadly on the Treasury-Department for Business relationship, I mean, I've worked in the public and private sector. There's always a tension between the finance function and a business line, because essentially, there's a natural tension there, the finance function wants to control funding, business lines tend to want to spend. Same, you know, same here, you know, as a Business Department, as the Department of Health, other departments, there's that. And when that works well, that tension can be actually very creative and can ensure value for money for the tax taxpayers.
+
+I think where, you know, the trick is making sure it doesn't break down and become overly adversarial. So having some, as I say, at the right level some broad guide ropes I think would be helpful there.
+
+The way I think about strengthening the relationship between my department and the Treasury is about the people and the relationships and I've invested time in that, but some of the -- also establishing processes to underpin that.
+
+So for example I mentioned, my Lady, about the different crises we've worked on over the last three years. I think nothing builds relationships as dealing with an issue together. Also, some of the regular rhythms of meetings can help. So for example, James Bowler, my opposite at the Treasury, and I chair a regular meeting of permanent secretaries on business and economic growth issues. There's a way of creating a shared understanding of the challenge, even if we then might disagree about some of the recommendations and how to act.
+
+So I think that combination of the people, the relationships, some process, is a way in which you can bridge this effectively.
+
+**Counsel Inquiry**: And that balance between having those guide ropes but also putting them into practice, is this where the pandemic preparedness exercise has come in? Can you provide us with a bit of information about, I think it's two exercises that have been undertaken?
+
+**Mr Gareth Davies**: Yes, so there have been two things we've done recently. One is the cross-Whitehall exercise, Pegasus, which was a rather novel form of virus, run over three days, run -- it was led by Cabinet Office and Department of Health. We were involved in those exercises from the business perspective. Treasury was similarly involved in that, and many -- facing very similar issues as we faced during the pandemic. So in other words, should we support businesses? How should we support businesses? And to what scale of intervention?
+
+What did we learn from that process? Firstly, I think we learnt, and having sat down with the team -- we haven't done the formal evaluation on this yet, so this is my initial take having discussed it with the team -- data sources are much richer than we had in 2020 so I think that is good. The collaboration we had with business groups was more effective, partly building on a lot of people's shared history, and back to my point around shared language and understanding. We had -- we were able to have a good dialogue with the Treasury about the sorts of interventions.
+
+I think where it was challenging and where I want to take away and reflect for what we need to improve on, is clarity of roles and responsibilities, as a business department yes, we are the Department for Business but other departments will lead on specific sectors.
+
+So for example, the Department for Culture, Media and Sport will lead on the creative industry sector. DEFRA, the environmental department, will lead on food manufacturing. Some of those -- that needs to be clarified.
+
+I think also -- but -- and I'm not sure this can ever be solved, but the challenge that always comes with roles and responsibilities and ways of working is when you're having to work at pace and I think that's a real -- that's a real challenge to think about how you can -- how you can have that natural iteration between a department proposing a policy intervention, the Treasury, quite rightly, challenging it, from a value for money, tax payer affordability perspective, and you iterate that.
+
+In a normal time, as I say, that can be a good creative process. When time scales are squeezed, it becomes incredibly important for the teams to work effectively and openly between themselves.
+
+**Counsel Inquiry**: Is that why you say earlier that the playbooks really are just a starting point and then you really have to react to the situation that's in front of you and the other departments?
+
+**Mr Gareth Davies**: Totally. I would say the playbooks are important because it forces people to make explicit what's implicit in their minds, creates a shared language. But this needs to be operationalised over literally tens of thousands of people, and you can have the best written playbook in the world, but if it's not -- if people aren't reading them, reflecting on them, being thoughtful about how they apply to the context they're facing, it's for nought.
+
+**Counsel Inquiry**: If I can just ask you to keep your answers slow, so the stenographer can catch up, thank you.
+
+**Mr Gareth Davies**: Yes.
+
+**Counsel Inquiry**: You raise an interesting point there about shared language. We know that obviously the DBT had those three playbooks. Have other government departments seen and commented on those playbooks or are they very much internal documents?
+
+**Mr Gareth Davies**: They primarily have been internal to date. From memory, I think they had been -- they're not particular -- they're not private, so I'm -- from memory, Treasury have certainly seen parts of them. Whether they have formally commented on or whether these are more informal discussions between teams, I'd have to come back to you on, but this is certainly -- the focus has been: how do we operationalise the broader structures that the Cabinet Office have recommended?
+
+**Counsel Inquiry**: And equally there are, I think, final, or what would appear to be more final playbooks in other departments, like the Ministry of Housing, Communities and Local Government and in Treasury, has the DBT had an opportunity to comment on those; do you know?
+
+**Mr Gareth Davies**: I'm sorry, I don't know.
+
+**Counsel Inquiry**: Do you think there would be a benefit in that, you know, recognising the point you make about having that shared language, sharing those, consulting on them, even just to a proportionate extent to make sure that there is that shared language and not duplicating areas?
+
+**Mr Gareth Davies**: Yeah, I totally agree. I mean, I would expect these documents to be shared through the normal Cabinet Office structures and the board that I know my emergency response team attends, so I'd expect them to be shared and discussed there. But as I say, I don't -- I haven't got confirmation of that so I wouldn't want to give false assurance.
+
+**Counsel Inquiry**: Thank you. And on one very specific example, the grants playbook, which -- you say in your statement it will set out the steps required for operationalising the grant schemes, were local authorities and the Local Government Association involved in drafting that playbook, or have they been consulted to date?
+
+**Mr Gareth Davies**: Yeah, no, I was -- I reflected on the evidence from the -- I think it was the Local Government Association earlier in this module. In terms of how my team has approached the playbook, I think we focused very much on how we would structure this. So there hasn't been formal consultation. I think I would reflect we probably rested too much on the Ipsos MORI evaluation of what worked, what didn't, which involved local authorities, and I think next stage would be actually -- I think what I'd take from the evidence I've heard is we need to do more in this area.
+
+**Counsel Inquiry**: Thank you. Because I think even in the playbook itself it recognises local government as a critical delivery partner.
+
+**Mr Gareth Davies**: It is.
+
+**Counsel Inquiry**: And the evidence which Ms Killian gave was that they felt they had real value to add to these playbooks, bearing in mind their local knowledge and knowledge of businesses, but also knowledge of the experience that they live through in the pandemic. So you recognise that as important?
+
+**Mr Gareth Davies**: Yeah, no, I totally -- I thought she made some very good points. As I say, I think we rested on the evaluation which local authorities did contribute to, but I think there is certainly value in having more detailed engagement afterwards.
+
+I think the one point I would make, though, is these playbooks are not about designing the schemes that we would use --
+
+**Counsel Inquiry**: No.
+
+**Mr Gareth Davies**: -- they're about how we would operationalise them. So that would be the nature of the consultation, but I'd certainly value that and I think that that's certainly something I would want to do as we do the next version of these grants and loans playbooks.
+
+**Counsel Inquiry**: It's about how you might consult with local government in an emergency. But that's important, isn't it, answering the "how", because everybody needs to be on the same page about it and what the expectations are?
+
+**Mr Gareth Davies**: Totally.
+
+**Counsel Inquiry**: Okay. Can I just come back to the other preparedness exercise, because I understand, in addition to the cross-Whitehall pandemic exercise, the department has run its own tabletop exercise this summer.
+
+**Mr Gareth Davies**: That -- sorry.
+
+**Counsel Inquiry**: Insofar as you are able to, there might be sensitivity issues there, but can you provide an overview of that --
+
+**Mr Gareth Davies**: Sure.
+
+**Counsel Inquiry**: -- and what learning has arisen from that, please.
+
+**Mr Gareth Davies**: So, just by way of background, I was very conscious, you know, as a new department -- the department was created, as you said, in February 2023 -- we have had to build a new emergency response structure, which, as I say, I drew heavily on my experience in the Department for Transport.
+
+Having worked in a number of departments, I often feel that departments that have a lot of crises can be better than those that have them infrequently, because of the muscle memory. I was keen to make sure, as a new department, that we worked our way through how a crisis would play out, particularly focused on the role of the executive committee. Lots of the issues we have faced as a department have been typically handled -- of a scale to be handled within a team or a group.
+
+I wanted to think -- I wanted to test how we would operationalise something that affected all parts of the department, so pretty much reaching across all 8,000 people in the Department for Business and Trade. I asked the Cabinet Office, along with myemergency response team, to create an exercise around a cyber attack that would impact both the internal department operational model but also businesses.
+
+What we learnt -- where -- what were the main points of learning there? Well, firstly, around the way in which we needed to be really clear on who had the senior responsible officer role in exco, the role of the director generals. Was that individuals, was it shared?
+
+I think where we have less experience compared to, say, Transport would be on shift rotas, ensuring 24/7 coverage of issues whilst giving personal resilience and, frankly, time off to recoup, and working our way through some of that. Also how we would contact people outside of the normal IT structures.
+
+So it was a very helpful exercise. I think this was -- that was very much the first one, so we were very much in learning mode. We have a second exercise planned for early 2026, which will look at a more significant cyber attack. And actually this is increasingly pertinent, given the experience we had after the exercise with Jaguar Land Rover.
+
+**Counsel Inquiry**: So, to sum up your position on preparedness, then, is it fair to say that it's a good idea, you think, to have those documents set in place as a starting point, but there has to be continuous learning and this muscle memory that you refer to, where those are tested, albeit in preparedness exercises, so that there is that operational resilience built in?
+
+**Mr Gareth Davies**: Yes. I mean, there's always a slight artificiality about tabletop exercises, but actually, you know, even just taking the team through it, even though it is, as I say, in a slightly artificial way, people can start to think themselves into how they would act, respond, where the pressures would come.
+
+And it gave a space for my top team to discuss how they would operate between themselves, how the -- where the inevitable fuzzy boundaries might be, and how they would handle those ambiguities.
+
+**Counsel Inquiry**: Thank you.
+
+Can I move on now to the second topic, and that of counter-fraud preparedness.
+
+We heard some evidence about the capacity of the DBT in terms of counter fraud, the capacity during the pandemic, and I understand there has been some improvement in the internal capabilities; is that right?
+
+**Mr Gareth Davies**: Yeah, well -- so, obviously I wasn't responsible for -- I wasn't there for BEIS, so it's hard -- it's hard for me to talk about them. But looking at -- what I can reflect on is what I inherited at the time of the creation of the new department.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Gareth Davies**: I think I was, to be frank, slightly surprised at the immaturity of the counter-fraud capacity in the department at that time. I inherited two people working in the department, four people working in the shared service that sat between myself, the Department for Energy, and the Department for Science, Innovation and Technology. Given the scale of the funds going between those three departments, that felt undercooked.
+
+So my focus has been since then to strengthen that function. We've commissioned the Public Sector Fraud Authority to review the way in which -- our reliance on NATIS, which is a function of a council for fraud enforcement work, and the role of the shared services. And as a result we have in-housed counter fraud within the department rather than relying on the shared service. So we've gone from essentially six people to, now, 27 people, just to give you a sort of sense of the capacity we now have.
+
+At the same time, it's -- in terms of capability, they now have been -- gone through training on counter fraud, counter-fraud awareness. So it feels that we're in a much stronger place. And part of the assurance I draw from the Public Sector Fraud Authority's audit of our counter-fraud capability, which put the department in the top quartile, and I delivered on nine out of 12 of the categories. So probably I'd describe that as a lot done but still a lot to do.
+
+**Counsel Inquiry**: You've mentioned there that you brought the capacity in-house, but it's right there's also the shared service that you've mentioned. Is that the one between DBT, the Department for Science, [Innovation] and Technology, and also the Department for Energy Security and Net Zero?
+
+**Mr Gareth Davies**: Yeah, so we have exited that relationship, because we wanted -- because of the scale of the payments, both historic and current, that go through my department. I wanted to make sure we had specialist capability in house, rather than relying on a shared service.
+
+This came on the back of the findings from the Deloitte report that I commissioned in 2024.
+
+**Counsel Inquiry**: But the department still has access to and, from your statement, a good working relationship with the Public Sector Fraud Authority as that centralised resource?
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: Which you'd imagine to be -- you'd call upon in a future pandemic?
+
+**Mr Gareth Davies**: Yeah, there are two -- so, sorry, to be clear, there are two -- if you like, two separate central (unclear) of support. One is the shared services, that was created between the three departments at the time of the creation of those departments. That's what we have exited.
+
+The Public Sector Fraud Authority, which is on -- under the Cabinet Office under Mark Cheeseman, we have a very strong working relationship with. So, for example, they sit on our Counter Fraud Board in the department.
+
+**Counsel Inquiry**: I think you set out in your statement that, in the event of a future crisis, the department anticipates making immediate contact with the Public Sector Fraud Authority and to engage them in the design and delivery of measures, and worked closely with them to mitigate any fraud risk that might arise?
+
+**Mr Gareth Davies**: Totally. And in some ways that language suggests that, you know, it will be a new thing to make contact with them. We have daily contact with them. There is a close working relationship between my teams and Mark's teams in the Public Sector Fraud Authority.
+
+**Counsel Inquiry**: So that's happening as -- in business as usual anyway, but you imagine it would be even more important in a future pandemic such as this one?
+
+**Mr Gareth Davies**: Totally. And, you know, not just in a future pandemic. When we are designing new grant programmes, we typically now draw on Public Sector Fraud Authority's input to help design in counter fraud from the start.
+
+I mean, that's my reflection, is the challenge with these programmes -- both the loans and the grant schemes, is we're playing catch-up because of the way in which they were designed at the start. So the crucial role is to make sure you design in counter fraud right from the start of the process rather than trying to do it after the event.
+
+**Counsel Inquiry**: Just on the model, in terms of balance between centralised resource and in-house capability, so I understand it, is it then that you have this centralised resource with the PSFA which is important and is being used regularly now, but also you -- the importance of developing your own internal capabilities, that that is specific and specialist in the operations of the DBT?
+
+**Mr Gareth Davies**: Yes, totally right. That's why we now have a team of, as I say, 27 people within the core department, the headquarters, if you like. That doesn't include people working in counter fraud, say, in the British Business Bank. There's probably a further -- I think it's around 20 people, for example, working on counter fraud within the British Business Bank. But it's that hub-spoke approach, where basically we draw on Public Sector Fraud Authority for best practice, advice, support on data sharing, but the responsibility sits clearly within the department.
+
+**Counsel Inquiry**: You've mentioned data sharing. That brings me nicely to the next topic I wanted to discuss with you.
+
+You explain in your statement that one reflection you had was that the better use and management of data, including data sharing, both internally and externally, was a key lesson learned in the deployment of the department's economic response, and I'm interested to understand what lessons you learned in terms of the barriers to data sharing, and how the department is overcoming those currently?
+
+**Mr Gareth Davies**: Yeah, reflecting and reviewing the experience of the grant and the loan schemes, the challenge has been that the data sharing requirements weren't specified upfront. So quite understandably, local authorities were able to say to us after the event "Well, you didn't ask, you haven't got the agreement in place for us to give you the details of who we should pay the grants to".
+
+And as ever, trying to tackle this after the fact is much harder than trying to tackle it upfront.
+
+So what we now have is standard terms, which now appear as grants and loan agreements so we can make sure we have all visibility and transparency but through our partner bodies, like the British Business Bank, to the Department to make sure we can have that visibility.
+
+We also, through the Public Sector Fraud Authority, have data-sharing agreements in place with banks, HMRC, to ensure that we have more accurate data for doing the pre-approvals checks. I mean, the gold standard, the critical data, is always HMRC. Because if you have the tax records, you then are able to ensure that there is no falsification of things like turnover, creditworthiness and the like. So that feels much stronger.
+
+As ever, you always need -- there's more work to do to make sure the sort of the ability to provide that data is more routine, rather than ad hoc. But I'm working closely with my colleagues in HMRC to achieve these.
+
+But in terms of the agreements that now appear in grant programmes, the way in which the sign-off process for new grants and loan schemes happens, I'm confident now we're able to -- we've learnt the lessons from the Covid experience and embedded that in the design of new schemes. And you saw that, for example, in some of the business grant programmes we've done for the storms back in '23, '24, and also the way in which we've designed some of the new programmes through the British Business Bank since.
+
+**Counsel Inquiry**: You've mentioned there how, I think what you were describing were legal barriers to data sharing, and that sounds like the agreements will --
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: -- be particularly helpful with that. Some of the evidence that we received in Module 2 was that the barriers to data sharing at times were more cultural than legal.
+
+**Mr Gareth Davies**: Mm-hm.
+
+**Counsel Inquiry**: I'm interested from your perspective as Permanent Secretary, how do you overcome those cultural barriers?
+
+**Mr Gareth Davies**: Yes, I think that's a very good reflection. I'd say, you know, I'd say there's legal, as discussed; there's cultural; there's also operational.
+
+**Counsel Inquiry**: Yeah.
+
+**Mr Gareth Davies**: By that I mean just organisational bandwidth. You can imagine if you're a busy organisation a request for data sharing is just another thing on your to-do list, so you have -- again, it's important to show why it's important and build an expectation that is seen at all sides.
+
+I think on the cultural point, it's around -- it comes a bit back to what I was talking about on the playbooks -- having a shared understanding of why this is important, setting out in advance the levels of expectations, and then working through, sending that signal as senior leaders between organisations how we're going to do this and the value we place on this. I'm very conscious, for example, with HMRC, they're a very busy organisation under a lot of pressure so it is important for me to be able to work with my opposite number, J-P Marks, to ensure, actually, his organisation sees the value of this.
+
+**Counsel Inquiry**: And those organisational barriers, I imagine, become even more acute in a crisis like a pandemic?
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: Have you any reflections on how that can be approached in future in terms of -- so, you know, you don't want to overly-burden a department who is already under a huge amount of pressure, but making sure that you also have the data that you need?
+
+**Mr Gareth Davies**: Yeah, this is where I think the playbooks come into their own, because you'll always need to design a scheme based on the context of the issue you're dealing with, the crisis you're dealing with. But if you have a clear set of defaults around how schemes are approved, you know, role of pre-approval checks, the role of data sharing agreements, that creates a norm. Now, that -- those norms are incredibly important in any large organisation and I think that's really what we build from.
+
+**Counsel Inquiry**: One topic which came up in the first week of evidence was the suggestion of a centralised team. It was something similar to that run by Robert Harrison who was Director General for Analysis in the Covid-19 Taskforce, bringing together the results of that data sharing and analysis to present a single picture, do you think something like that would be helpful in the future?
+
+**Mr Gareth Davies**: Um ... I'm always cautious when I hear suggestions of a central team. I just think there's always a risk of creating -- where will it actually add value? I think, on data sharing, what do we need from the centre, is ensuring that all parts of the system recognise the value, back to my earlier point about people being busy. So I think for me, what would be most valuable is less a central team, but more a recognition of the importance of data sharing at the centre, and that is baked into the highest level of guidance in terms of the pandemic, you know, the playbooks, the pandemic playbooks and the finance playbooks, rather than it being organised at the centre.
+
+**Counsel Inquiry**: I think some of the evidence we heard in relation to the benefits of that at the time, was that some perceived that it created this high-trust bubble in what might have been regarded as a lower-trust environment.
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: So rather than the organisational aspect of it, does that improve the cultural aspects in terms of sharing data analysis, particularly in a crisis?
+
+**Mr Gareth Davies**: I think I'd make a distinction between the importance of having, say, a single team working on analysis.
+
+**Counsel Inquiry**: Yeah.
+
+**Mr Gareth Davies**: I think that's incredibly important. Where I'm thinking around data sharing is around the fraud prevention and that I don't think you need to do centrally. I think you need to set the expectation centrally. The shared analysis, I totally agree on how that -- having a shared analytical understanding of the current context is important, then, for teams across -- to organise teams across government and create more trust.
+
+**Counsel Inquiry**: So it's the shared understanding of the context in that central team?
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: But rather the operational aspect of the response perhaps best retained in the relevant department?
+
+**Mr Gareth Davies**: Yes. So for example, I don't think it's particularly helpful or value-adding for, say, the Cabinet Office to have a list of who is being given a grant, I'm not quite sure what they would do with it. However, it is very important for the Cabinet Office to help government departments have a shared view about, say, incidence rates or the nature of the pandemic or who it's affecting, how -- you know, the shared view of the macro economy.
+
+**Counsel Inquiry**: Does that come back to the shared understanding about what might be helpful for the Cabinet Office to have, what might not be helpful, what might over-burden them, and having those conversations, whether set out in finance, or in real time?
+
+**Mr Gareth Davies**: Yes, totally. And that's where the value of exercises like Pegasus come into their own.
+
+**Counsel Inquiry**: Thank you.
+
+Can now move on to one of the playbooks in particular, the Small Business Finance: Emergency Playbook, really arising out of the DBT's experience of the loan schemes; is that right?
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: Who was involved or who has been involved to date in the design of that playbook? Does that include the British Business Bank, the PFSA? Are you able to provide some detail on that?
+
+**Mr Gareth Davies**: Yeah, so that playbook has been developed by the small business finance team within the Department in collaboration with, as you say, the British Business Bank, and the PSFA, the Public Sector Fraud Authority.
+
+**Counsel Inquiry**: And although I understand it is still in draft, is the idea that it would be reviewed and updated on an annual basis?
+
+**Mr Gareth Davies**: I don't know the frequency. We've decided, though, we wanted to update it post Pegasus and post this module.
+
+**Counsel Inquiry**: Yes, so it not just going to stay as it is --
+
+**Mr Gareth Davies**: No.
+
+**Counsel Inquiry**: -- it's going to be a living document incorporating that ongoing learning?
+
+**Mr Gareth Davies**: Yes, that's why, in some ways, I'm not a big fan of the word "draft" because it sort of suggests there will be a final version. I think it's more "versions", and the latest version, we want to update this version based on what comes through this module.
+
+**Counsel Inquiry**: The current version assumes the priority target of any future scheme would be SMEs?
+
+**Mr Gareth Davies**: Mm.
+
+**Counsel Inquiry**: Can you explain why the playbook or this version of the playbook is drafted in that way?
+
+**Mr Gareth Davies**: Yes, the version of the playbook is drafted in that way essentially given the scale and the issues we face with Bounce Bank Loans during Covid. Obviously we had the larger schemes for larger companies, CBILS and -- that -- that is a more well-structured way of working. We've got good experience on that and obviously the irregular payment rates were much lower on those schemes.
+
+How you deliver at pace to a large number of companies was the big challenge that I took from reviewing the evidence around the pandemic, and so we wanted to focus particularly on how you design in to any future programme, the counter-fraud measures we've touched on and the ability to move at pace and ensure we capture the right lessons.
+
+**Counsel Inquiry**: We'll come on to those in a moment but before we do, the Bounce Bank Loans weren't the only measure, we know, that the DBT delivered during the pandemic. There was also support to much larger businesses under CLBILS.
+
+**Mr Gareth Davies**: Yeah.
+
+**Counsel Inquiry**: And we've also got CBILS. So how do you envisage this playbook being useful for those different types of loans and the scale of that in the future, or is it only anticipated that it would be useful to SMEs?
+
+**Mr Gareth Davies**: At the moment it's particularly focused on SMEs, just given the complexity and the issues we faced on that. Depending on bandwidth and time, we will want to sort of set out the lessons from those other schemes for larger companies but they feel less pressing. The priority was really to be very clear and explicit about how to best design the scheme. As I say, moving at speed with the volume and then given the scale of irregular payments we faced on Bounce Bank Loans, that was of the priority for setting out how you'd approach this in any future pandemic.
+
+**Counsel Inquiry**: Is that an example, therefore, of the Department focusing on one particular area where there was, as you've reflected, lessons to learn and reflections which could be put in place, and changes in a future, but not being -- not overly constraining the department with unnecessary additional playbooks?
+
+**Mr Gareth Davies**: Exactly, yeah.
+
+**Counsel Inquiry**: Okay.
+
+**Mr Gareth Davies**: We wanted to focus our efforts and energies where we could make the biggest difference, frankly, where we'd add the most value.
+
+**Counsel Inquiry**: Okay. So you mentioned there that you wanted to design in counter-fraud measures from the start and so, as I understand it, the position from the playbook is certain mitigation or design features will be baked into any future design. How do you balance that specificity with needing to be agile in a future pandemic?
+
+**Mr Gareth Davies**: I think the agility comes from being able to build off existing programmes that are in place already. I think that's really where the value comes from this. The schemes in 2020 came off the Enterprise Finance Guarantee schemes which was very narrow in focus. Only a small number of private providers, relied very much on historical official statistics.
+
+What we now have in place is something called the Growth Guarantee Scheme, which provides up to £2 million for companies and a range of different finance, trade finance through to more classic guarantees and loans.
+
+It has 50 providers, ranging from your high street names, like Barclays, NatWest, through to more niche providers, social investment business and the like. So it's that platform gives you the ability to move with agility by having these designed in, and so what we have done with the Growth Guarantee Scheme, working with the British Business Bank, is have a very clear process for two things: firstly, how lenders are brought on to the scheme, because one of the challenges back with the enterprise finance Scheme and the Bounce Bank Loans, by only having a small number of private sector providers, it really limited our reach into businesses. Having 50 gives you much more flexibility. We were able to assess them properly upfront.
+
+And then we are very clear around the mandatory checks, credit checks, the use of -- I mentioned HMRC data, bank records, and prevent the need to rely on self-certification which happened before.
+
+**Counsel Inquiry**: And also, I understand it, that there are now in place enhanced measures against duplicate applications and also work in respect of the Cifas platforms; is that right?
+
+**Mr Gareth Davies**: Exactly. And by having this built in upfront it means you can move at speed so this is where you try and balance preparedness with the flexibility you'll need in any context.
+
+**Counsel Inquiry**: You have mentioned lender accreditation. And I'm interested to hear more about that. So is it the case now that the number of lenders you've mentioned are already effectively on panel and that will be reviewed going forward so that in the event of a future pandemic you've already got that resource in place?
+
+**Mr Gareth Davies**: Exactly. So as I say, I think there are around 50 providers on panel. One of the challenges with the Bounce Bank Loan Scheme is lenders at the time were less willing to lend to clients who weren't already existing customers and so that was one of the restrictions we had. Having 50 gives you that breadth of coverage, both geographically by size of company and by industry segment.
+
+**Counsel Inquiry**: Yes. You make a point in your statement about the diversity of lenders now accredited. Why is that important?
+
+**Mr Gareth Davies**: Diversity is important, as I say, partly for those reasons. Different industries will tend to focus on different providers. The Silicon Valley Bank, for example, from 2023, is really interesting there because there's a concentration of small, medium enterprises from a particular sector, the tech sector, with one institution. Often you'll find that different lenders have strong geographic focus, in particular regions, and so having that coverage gives you confidence you're able to move through the existing relationships rather than building brand new relationships in the middle of a crisis.
+
+**Lady Hallett**: Can I ask, sorry to interrupt yet again. Is 50 enough? Are there downsides to accrediting lenders in advance of a crisis, and if there are, what are they? And is 50 enough?
+
+**Mr Gareth Davies**: So I was just reflecting on, I'm trying to think what would be the maximum limit we could achieve.
+
+**Lady Hallett**: Subject to any possible downsides.
+
+**Mr Gareth Davies**: Yeah -- no, I mean, so the downsides are obviously the time it would take to onboard providers. There's also a question of their desire or willingness to do this. What I don't know is whether the constraint is on, if you like, the willingness to accept or the willingness to get on to the platform. It feels, 50, it's a judgement call, but given the sort of involvement of big national players, like Barclays, NatWest and Virgin Money, that gives you confidence you've got a good national coverage and then a number of specialist lenders.
+
+What I'm not aware of is any providers where we feel there's a gap, a particular industry or geographic gap, but I will take that away. It's a good question. I think -- as I say, the only downside is time and whether people would want to be on the scheme.
+
+**Lady Hallett**: But also would lenders necessarily want to be on the -- accredited on the scheme and then just be hanging around waiting for a crisis? Because presumably there's a limited number that you're going to use during normal times?
+
+**Mr Gareth Davies**: The limit is on the value, so for example, the Growth Guarantee Scheme, the limit is on the value of the scheme and the number of businesses we're supporting. That could be spread across a large number of lenders or a narrow number of lenders. So yes, you're right. So there might be a -- you know, I'm sure people would not want to go through the cost and hassle of getting accredited and getting no business.
+
+**Lady Hallett**: Yes.
+
+**Mr Gareth Davies**: But I'm not aware of anyone who feels there's an obvious gap when I've reviewed the 50.
+
+**Lady Hallett**: Thank you.
+
+**Ms Wilson**: Just following up on that point, I think at the start of the pandemic, there were 40 lenders accredited on the panel, and now, if there are only 50, do you think, in light of that, that is enough? Or as you say, is it more a case of the type, the range, the diversity of the lenders?
+
+**Mr Gareth Davies**: Yeah, and from what -- from conversations I've had with the team, with the British Business Bank, I'm not aware of any large gaps in terms of providers who might want to be on the scheme, either at national, sectoral, or geographic level.
+
+**Counsel Inquiry**: We've heard some reflections from Sir Charles Roxburgh during his evidence, and he was very frank about this, that one of the regrets he had was about not testing the operational readiness of the Enterprise Finance Guarantee scheme. Now, I know things have moved on, we've now got the Growth Guarantee Scheme, but is that operational readiness and testing built in to the use of this new scheme?
+
+**Mr Gareth Davies**: Yes. So this is where the, again, where the playbooks come into their own. There's a clear desire -- the way in which we designed the schemes is for flexibility. I think, reading Charles' evidence, part of the issue with the Enterprise Finance Guarantee was how it needed to scale up, but we have built in, from the way in which the growth scheme is designed, the flexibility needed for different types of products and the ability to move.
+
+I think part of -- one of my reflections, though, on the Pegasus exercise is the British Business Bank wasn't involved in that exercise and I think that would be helpful for subsequent exercises to work through that with them in -- on what that would look like in practice.
+
+**Counsel Inquiry**: Thank you.
+
+One other suggestion we've heard during the course of evidence, again from Lord Sharma, was this suggestion of a standing panel. He suggests this should consist of current, former civil servants, ministers, so a combination of people currently in post, and those with previous experience of the pandemic, but also some other relevant organisations, to meet, perhaps, he said, on a quarterly basis to keep updated all of the potential interventions.
+
+In light of what you said about the DBT's playbooks, these preparedness exercises, what's your view on that? Do you think it's necessary?
+
+**Mr Gareth Davies**: I don't think Whitehall is short of standing committees. I must admit, I'd need to be convinced. I'm not quite sure what it would do -- I can see the benefit of bringing together people's experience from the pandemic but that's what this Inquiry is doing. Having something that's standing, if there is not -- so senior people will want to be able to show they're making an impact and I'm not quite sure having, sort of, quarterly meetings, what they would do in those meetings.
+
+Yes, it's important to capture what worked, what didn't, during the pandemic, capture sort of the choices and trade-offs through the playbooks but personally I'm very sceptical about having another standing committee.
+
+**Counsel Inquiry**: Thank you, Mr Davies.
+
+Save for one question, those are all my questions. But I just wanted to give you an opportunity, as we have with other witnesses, to share any additional lessons learned and reflections that you might have that I've not touched on today?
+
+**Mr Gareth Davies**: Thank you. No, I think we have touched on all of my reflections. I think the main things that I have reflected on, both in my time in office, but also listening to the evidence coming through this committee, is how you get the balance right of specificity in a playbook and the flexibility you need for the context, and not ensuring team -- because it's not enough -- it is not about what's written down, it's how teams operationalise them and making sure teams don't go into autopilot. Number 1.
+
+The second thing I reflect on is you can have great processes, great relationships, but how you do that at speed, which is important in a crisis, is number 2.
+
+I think, on the sort of counter fraud more broadly, I mentioned about sort of the maturity level of the organisation, and just to really emphasise, I do think, whilst my teams have done a lot, and I think they should be commended for their work over the last three years, it's a lot done, a lot to do. It's not -- this is not -- I, by no means, think this is complete and certainly there's more I want to do particularly around fraud detection analytics in particular.
+
+And then the final, my final, just reflection, which is really building on some of the questions you raised, is around sort of engagement with stakeholders. I'd like to think of the Business Department being one of the more outward-facing departments in government, necessarily by nature of the way in which we work with businesses, but I am reflecting on what -- the evidence from the Local Government Association, and what that means for both how we embed those insights into the playbooks but what that means for departmental culture more broadly.
+
+**Ms Wilson**: Thank you, Mr Davies, I think there is one question from --
+
+**Lady Hallett**: There is indeed.
+
+Ms Sivakumaran, who is just there.
+
+Questions From Ms Sivakumaran
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Ms Sivakumaran**: Good morning, I ask questions on behalf of the Long Covid Groups. I have a discrete question on a topic that you haven't covered yet this morning, and what I want to ask is that high rates of workforce absences pose significant costs to businesses. Would you agree that there needs to be an assessment of the economic costs of workforce absences due to Long Covid with input from the Long Covid Groups, to inform government planning to mitigate those costs in future?
+
+**Mr Gareth Davies**: Thank you. What is important about how we design playbooks for businesses and how we think about our interventions with businesses will obviously be determined by the nature of any future pandemic. And that will be both the short-term, if you like, acute issues and also the chronic issues, in terms of what that means for business resilience. So it will be important for us to understand the nature of that, and what that -- that will then affect how we design the schemes and we'll obviously want to consult with a range of organisations in terms of how that will play out in practice.
+
+**Ms Sivakumaran**: Thank you.
+
+Questions From the Chair
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Thank you very much.
+
+Mr Davies, I was quite interested in what you're saying about cultural shift. The culture of an organisation usually takes its lead from people at the top.
+
+**Mr Gareth Davies**: Mm-hm.
+
+**Lady Hallett**: The Civil Service has, I appreciate not so much, maybe, at Permanent Secretary level, but if it has quite a churn of people moving between various departments, how do you make sure that the kind of cultural shift that you've been trying to put in place stays in the Department for Business and Trade if you move on to different and better things?
+
+**Mr Gareth Davies**: There's nowhere better than the Department for Business and Trade, in my view.
+
+**Lady Hallett**: Sorry, silly question! Let's take you out of it, but -- (overspeaking) --
+
+**Mr Gareth Davies**: No, it's very good -- no, I think it's a very good point about how you -- sort of the role you play.
+
+As I say, I always think culture comes down to behaviours, ultimately. The role modelling is important, so, for example, I very explicitly spend 20% of my time outside the organisation with stakeholders, particularly senior business leaders, because I think, as the Department for Business, you need to be actively engaged in that community.
+
+Part of this is around, though, how we create the right processes because I do think the processes outlive you. And so, for example, in the way in which we have the investment committee -- so all new policies, grant schemes, loans, go through an investment committee. And what I have done in my time is then redesign the way in which those sign-offs happen. So, for example, on counter fraud, that's now a key part of the processes, ensuring that you've had a full counter-fraud assessment.
+
+I think you need to embed that external engagement through some of those formal processes. Also, training as well. One thing I've done in the last year, for example, is put the whole of the department, pretty much all 8,000 people, through training around understanding businesses, what it feels like to be a business leader, cash flows, balance sheets, profit and loss, things a lifelong civil servant may not understand. Just that awareness and understanding at the same time.
+
+**Lady Hallett**: And is it by putting -- you mentioned in your reflections, you talked about how you operationalise policies, you said, and how you do that at speed. How are you going to get to the "at speed"? Because that's what's going to be necessary in the next crisis -- although I'm sure, as you say, you have several crises to deal with quite regularly.
+
+But is it by having the proper processes and the proper training? Is that how you -- because you raised the question, and didn't actually answer it, when you gave a reflection --
+
+**Mr Gareth Davies**: That's right.
+
+**Lady Hallett**: -- it's how you operationalise it and get things done at speed.
+
+**Mr Gareth Davies**: Yeah, the way I think about operating at speed is often you sound like you just -- people need to work faster, and actually I think it's more about preparation upfront. And so the agility comes from having had time to think about the issue, think about the choices and the trade-offs upfront, discuss that with other -- with stakeholders, like businesses, local authorities, in advance. So that's how you get the speed, because you've gone round the issues and you know what you want to do.
+
+So part of it, for example, in terms of that sort of collaboration with -- there's two angles of collaboration: collaboration across Whitehall departments and collaboration with local authorities and business leaders.
+
+On the former, actually sometimes moving people between departments can help, because that creates networks and people. You know, there's levels of trust that you can build from. So, for example, amongst some of the senior leaders I've recruited recently have been from the Treasury, and that deepens at all levels trust, understanding and ways of approaching it.
+
+But also it's around then, with -- externally, is ensuring that we incentivise people to spend time looking outwards not just inwards. So that's about some of the structures we create. I think that creates the ability, in a crisis, to pick up the phone.
+
+So, for example, Jaguar Land Rover is a really good example. Why we were able to move so quickly with Jaguar Land Rover is because I have a team structured who work with the automotive sector. They weren't going from a standing start, they were building off years of having worked collaboratively around how they would support inward investment, new model development, and understand the issues. So they were able to have both the informal as well as the formal conversations.
+
+**Lady Hallett**: Can I just go back finally to questions Ms Wilson was asking you about engaging with the local authorities. There's mention, in -- I can't remember what the document is called -- about the critical -- the local authorities being a critical delivery partner.
+
+**Mr Gareth Davies**: Yeah.
+
+**Lady Hallett**: But they hadn't been involved in any way in the preparation of the document. To what extent do you think the department has really thought about engagement with local authorities before the next crisis?
+
+**Mr Gareth Davies**: Mm-hm. So I think, as I touched on, I think we have rested too heavily on the formal evaluation rather than the relationships.
+
+**Lady Hallett**: Yeah.
+
+**Mr Gareth Davies**: Where I draw confidence is from how we operated through Storms Babet and Henk, which was back end of 2023, 2024, and we essentially had a tripartite relationship. We were providing business support, similar to Covid experience, application based rather than direct payments, using Section 31 powers.
+
+With the local authorities, but with the department for housing and local government, essentially structuring that relationship. And that triangle worked incredibly effectively, because they are -- obviously that -- the local government departments really know local authorities, we know businesses, and that combination I think was incredibly powerful.
+
+But I do reflect, from today and previous evidence sessions, whilst we have been focused as a department on how we strengthen our relationships and understanding with business, thinking about the local authority dimension is important.
+
+We have done a lot with mayors, because that feels like a natural economic geography and very relevant for us in our policy development, but I think there's more to do on local authorities.
+
+**Lady Hallett**: And I was just wondering, what is it that you're going to do as far as local authorities? I mean, what kind of work needs to be done? I mean, again, as I say, I don't want to say "Have a framework, have a this, have a that", and you don't need to persuade me about not having committees unless they're absolutely necessary, so what can be done to improve that engagement, so far as the department is concerned?
+
+**Mr Gareth Davies**: I don't want to -- I haven't come to a final, sort of, view on this, and I want to discuss it with my team, but initial reflections would be, one, next versions of the playbooks, so I'd want to iterate that through with the local -- you know, Local Government Association and others.
+
+Secondly, talking -- I want to talk to my counterpart in MHCLG, the local government department, to think about how we can better use their knowledge and networks, so, rather than creating something new, we're bringing them in from the start. But they're emerging views rather than fixed views.
+
+**Lady Hallett**: Well, if -- obviously you've got -- I'll be hearing closing submissions tomorrow, oral ones, but I'll also be receiving written ones, so if, in the time available, anything comes to you, please submit that. That will be very good to hear.
+
+**The Witness**: That's very kind, thank you.
+
+**Lady Hallett**: Thank you very much indeed for your evidence. It's been extremely helpful. You've obviously been very reflective, and I've been very interested in what you've had to say. Thank you very much indeed for your help.
+
+**The Witness**: That's very kind. Thank you, and thank you for your time. Thank you.
+
+**Lady Hallett**: I think that would now be a convenient moment to take a break. And I think, because you've been so efficient, you can have a 20-minute break, and I'll be back at 11.25.
+
+*(11.03 am)*
+
+*(A short break)*
+
+*(11.25 am)*
+
+**Lady Hallett**: Ms Wilson.
+
+**Ms Wilson**: Thank you, my Lady. The next witness is Ms Naomi Clayton.
+
+Ms Naomi Clayton
+----------------
+
+*MS NAOMI CLAYTON (affirmed).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Thank you for coming to help us.
+
+**Ms Wilson**: Good morning, Ms Clayton. You are the chief executive of the Institute for Employment Studies; is that right?
+
+**Ms Naomi Clayton**: Yes, that's correct.
+
+**Counsel Inquiry**: You've got over 20 years of experience in policy and research, focusing on employment skills and particularly addressing labour market disadvantage; is that right?
+
+**Ms Naomi Clayton**: Yes.
+
+**Counsel Inquiry**: And you have, helpfully, provided the Inquiry with a witness statement dated 19 September 2025, with reference number INQ000655699. Thank you.
+
+So just a little bit background, first, about the Institute for Employment Studies. Is it right that it's a not-for-profit organisation and an independent centre for research and insight on employment skills and labour markets?
+
+**Ms Naomi Clayton**: Yes, that's correct.
+
+**Counsel Inquiry**: And one of the organisation's aims is to improve outcomes for people at all stages of their working lives, so whether young people entering the labour market for the first time, or for those at the other end of their career transitioning into retirement?
+
+**Ms Naomi Clayton**: Yes.
+
+**Counsel Inquiry**: Can you help us with, briefly, how the organisation went about achieving those objectives during the pandemic?
+
+**Ms Naomi Clayton**: Yes. So, as a research organisation, we worked with a number of different organisations who commissioned us to undertake research on the impact of the pandemic on different groups, and to kind of look at the response required. So we undertook research on the impacts of the pandemic and what we thought the government response should be.
+
+We also, kind of, authored a number of blogs and briefings, giving kind of commentary on the impacts of the pandemic and some of the risks, in terms of the potential impacts, and made a number of recommendations.
+
+And then, at various points, I wasn't at the organisation at this time, but we were asked by kind of government and DWP at various points to give views on their response.
+
+**Counsel Inquiry**: So, in addition to being commissioned by those outside of government, you do work with government to provide your views and look to improve design of schemes where possible?
+
+**Ms Naomi Clayton**: Yes. So we work with government departments, to provide research and also evaluate programmes. So one of the most relevant that we evaluated was the Plan for Jobs Programme.
+
+**Counsel Inquiry**: And I think from your statement you say that the Plan for Jobs worked, it prevented an unemployment catastrophe, protected incomes, and helped firms through the worst of the crisis, so the evaluation was largely positive, wasn't it?
+
+**Ms Naomi Clayton**: Yes. We found that it was largely effective in achieving what it set out to achieve.
+
+**Counsel Inquiry**: Can you just tell us about some of the key strengths you saw, which the evaluation found about that plan?
+
+**Ms Naomi Clayton**: Yes. Well, the fact that it had multiple strands was a strength in that it had elements of support that were focused on groups that were most at risk and most kind of vulnerable to the impacts of the pandemic in terms of the labour market impact. So we saw a focus on young people and a focus on those who were at risk of long-term unemployment, so generally we felt it was well targeted in terms of aligning to known areas of risk.
+
+And it was generally, in terms of its design, we felt that it was grounded in the evidence on what worked to support people to find work.
+
+So in terms of the design of it, a lot of elements reflected what the evidence tell us works in terms of supporting people into work.
+
+**Counsel Inquiry**: Thank you. And I think you particularly identify the Coronavirus Job Retention Scheme and also the Kickstart scheme as particularly successful aspects of that plan?
+
+**Ms Naomi Clayton**: Yes. So in terms of the job retention scheme, we commented on the speed and scale of that initial response, and felt that that was very positive. We also felt that it was the single-most important economic intervention during the crisis, and we know that from government evaluations, it protected around four million jobs.
+
+So very important in keeping people kind of close to the labour market and employed, but also enabling employers to, kind of, start back up as the economy opened up.
+
+**Counsel Inquiry**: And with a particular eye on the future, and how aspects of the scheme might be refined in future, did you identify any weaknesses with either the plan for jobs or those two particular schemes?
+
+**Ms Naomi Clayton**: Yes. So, in terms of the Job Retention Scheme, we found that there were some groups that slipped through the cracks and weren't able to access support and were made redundant rather than being furloughed. So, I mean, we've looked at the impact of the pandemic on various groups, and we found that low-paid workers in particular, workers on more insecure contracts, were more likely to be made redundant.
+
+And we found that the scheme was overly-reliant on employers, kind of, doing the right thing. Most did, but obviously it was up to the employer whether they placed somebody on furlough. And in some cases, people on zero-hours contracts and on temporary contracts who were entitled to support didn't get it.
+
+So, there are some issues in terms of -- and there were some issues in terms of who was able to access support through that scheme, and some lessons for the future, in terms of how you might design such a scheme to prevent some people missing out on that support in future.
+
+**Counsel Inquiry**: Just touching on that, I'm very interested in any other ideas you might have, but one idea we have heard about is the suggestion of a right to request furlough, similar to the right to request part-time working which exists now. Do you have any views on that? Do you think it would be helpful?
+
+**Ms Naomi Clayton**: I think it's something that should be considered. We have talked about it in our commentary on the pandemic and the response to the pandemic and, you know, there's a sense that that may -- right to request furlough may reduce the number of people being redundant, being made redundant, and reduce some of the inequalities that we saw in terms of who was able to access support.
+
+But I think if we were to introduce something like a right to furlough, what's equally important is to ensure that both employers and workers understand their rights and the eligibility requirements, because we found that that was one of the issues during the pandemic, that, you know, some employers believed that staff who were actually eligible were not eligible. So there was a bit of a misunderstanding in terms of who was eligible and who wasn't.
+
+And generally, workers with kind of less, kind of, labour market power and, kind of, less understanding of their rights were less able to challenge employer decisions.
+
+**Lady Hallett**: There's a difference between right to furlough and right to request it. Ms Wilson's question was: do you believe that a right to request furlough is a good thing?
+
+**Ms Naomi Clayton**: Yes, in --
+
+**Lady Hallett**: You spoke about the right to furlough.
+
+**Ms Naomi Clayton**: Yes. No, I did mean -- I should clarify, I did mean right to request furlough.
+
+**Lady Hallett**: So, you're not advocating for a right to furlough, because that wouldn't work?
+
+**Ms Naomi Clayton**: No, but similar to, you know, the right to request flexible working, a right to request being furloughed.
+
+**Lady Hallett**: And do you think a right to request would actually make a difference if the employer was the kind -- you said many did the right thing, but there were one or two who didn't. Would it make a difference with that kind of employer, if you had the right to request it?
+
+**Ms Naomi Clayton**: It's difficult to know, and it's difficult to know how much of a difference that would make, but I think our sense is that it would make some difference, as long as it's coupled with clear information for employers and workers about, kind of, eligibility and rights.
+
+**Lady Hallett**: Thank you.
+
+**Ms Wilson**: Because one of the drawbacks we've heard about the right to furlough, thinking about it from a business perspective, is that considering the applications, the administrative burden of it in a crisis can actually be quite difficult, and also employers are facing very difficult decisions, often about the future of the business, and obviously a loss of the business means the loss of the jobs.
+
+So do you think the answer is better communication on its own or should that be coupled with the right to request furlough?
+
+**Ms Naomi Clayton**: Better -- just to clarify, better communication --
+
+**Counsel Inquiry**: Yeah, you've mentioned there would -- you thought that the key problem, really, was issues with communication, and employers and employees knowing who should qualify for furlough, knowing the rules around that.
+
+So do you think that alone would solve the issue, or do you think it needs to be a combination of the two?
+
+**Ms Naomi Clayton**: I think those two things combined. So, communication, ensuring kind of good awareness and understanding of eligibility, with the right to request flexible -- furlough.
+
+**Counsel Inquiry**: Thank you. Can I move now to another group who were particularly impacted. You mentioned in your statement younger people. The Inquiry has heard, as part of its listening exercise, Every Story Matters, from a number of young people about their experience of the pandemic, and they, together, told the Inquiry that they felt the pandemic had a long-term impact on their career prospects; they experienced gaps in employment; they missed out on various opportunities; and some in fact felt that their skills were regressing, for example there's an account from a young bricklayer who, without working, felt his skills had actually depleted.
+
+And if people did not have a job, they found it incredibly difficult to enter the labour market for the first time, for example we have one contributor who says:
+
+"I also remember how bleak the job market looked coming out of university, as well. It was almost like trying to land a job was impossible (as if it wasn't hard enough already!)."
+
+Do those sorts of experiences reflect what you found, your organisation found, in its research?
+
+**Ms Naomi Clayton**: Yes. You know, we found that young people were disproportionately impacted during the pandemic. They faced higher job loss and increased economic inactivity, and our research found that young people accounted for nearly half of the total fall in employment, despite only accounting for one in nine of those in work. So young people were quite clearly disproportionately impacted. And we found that some young people were more impacted than others particularly young men, black and Asian young people, and young people living in London and the devolved nations.
+
+**Counsel Inquiry**: You've mentioned there that there was -- that young people accounted for nearly -- for half, so nearly 46% of the total fall in employment. Can you explain, why was that?
+
+**Ms Naomi Clayton**: So, I mean, young people tend to be disproportionately impacted when there's an economic shock and a downturn in the economy.
+
+I think, in the pandemic, the impact of the pandemic felt fell disproportionately on young people in terms of labour market outcomes, because they were more likely to be employed in the sectors that were shut down, those sectors that were affected by the lockdowns. So hospitality, retail, leisure. And quite often they're also in jobs that have less secure contracts. And we saw people who were on, kind of, zero-hours contracts, and in -- on temporary contracts being affected more.
+
+So I think it's partly about the sectoral impacts of the pandemic, the impacts on different types of work, but as employers stopped hiring, it means that young people who were coming into the labour market, as you've described, will struggle to find work because employers aren't hiring.
+
+**Counsel Inquiry**: And is it right that a fall in employment generally is worrying, but a fall in employment for young people is a particular worry because it has a much longer-term effect on their futures and career prospects?
+
+**Ms Naomi Clayton**: Yes, yes. And, you know, there's very well-documented evidence on what we call the long-term scarring effect on young people. So the impacts on their long-term employment and earnings prospects, as well as the impacts on their health and wellbeing as well.
+
+**Counsel Inquiry**: You mentioned a moment ago about the differential impacts on some young people, I think you mentioned men and those living in London. What about the impact on young disabled people?
+
+**Ms Naomi Clayton**: So we saw that young -- well, disabled people in general were more likely to be impacted by the pandemic in terms of employment outcomes. So the employment rate for disabled people fell further during the pandemic than it did for non-disabled people.
+
+And whilst it can be difficult to ascertain the, kind of, impacts on very specific groups, the likelihood is that young disabled people will have been impacted more greatly than others.
+
+**Counsel Inquiry**: You've mentioned the jobs gap experienced by these particular groups, but the core of the CJRS, the furlough scheme, was to retain those links between employers, employees. That was really important for these groups, wasn't it?
+
+**Ms Naomi Clayton**: Yes, absolutely. Retaining those links from the point of view of the individual. So, knowing that they were still employed and that they'd had a job to go back to will have made quite a significant difference, as well as the support provided, obviously, financially through the scheme.
+
+But also, in terms of, as you said, retaining that link between employers and their workforce, meaning that when the economy opened back up and business activity start -- you know, started to increase, you know, businesses were able to get their businesses up and running much quicker than they would have been able to otherwise.
+
+**Counsel Inquiry**: You say in your statement that support in a crisis such as this really should be multi-stranded, particularly to benefit younger people. Can you elaborate on that?
+
+**Ms Naomi Clayton**: Yes. So, as I was referring to in the Plan for Jobs, I think one of the positive things was the response was multi-stranded, and you had several different programmes of employment support, including Kickstart and the youth employment offer, as well as Restart, which was focused on supporting people who were long-term unemployed.
+
+And having a multi-stranded approach means that you've got programmes that are designed to support groups that are at higher risk and you're able to design those programmes in a way that responds to the needs of those groups and provide tailored support.
+
+**Counsel Inquiry**: And in terms of tailored support, your organisation regards Kickstart as a well-targeted design decision; is that right?
+
+**Ms Naomi Clayton**: Yes. There were some issues with Kickstart, but generally, at the time, that sort of intervention I think proved to be somewhat effective, and particularly given the impact of the pandemic on young people, you know, a focus on young people and job subsidies for young people was warranted.
+
+**Counsel Inquiry**: I think -- are the issues you're referring to the delivery challenges of the scheme?
+
+**Ms Naomi Clayton**: Yes, in terms of the -- kind of the expectations of employers. In terms of recruits in terms of their skills and experience. You know, quite a few employers expected young people being recruited through Kickstart to have quite a high level of -- you know, or at least a higher level of skill and experience than perhaps was the case. Employers found the scheme quite difficult to navigate, so there were lots of unfilled vacancies. Partly because employers found the system quite difficult to navigate.
+
+And so, whilst it was high profile and, kind of, well targeted in terms of being -- support being designed to support young people, more could have been done to support employers to navigate Kickstart as a scheme and fill vacancies. And the scheme could have also done more to support and provide opportunities to young people with, kind of, multiple and more complex barriers too.
+
+**Counsel Inquiry**: So two things. In terms of the issue you've identified with employers, does that come back to better communication about, and managing expectations about the scheme?
+
+**Ms Naomi Clayton**: Yes, I think it does come back to communication and expectations and, in general, the effectiveness of employer engagement.
+
+**Counsel Inquiry**: You've mentioned there considering young people with complexities. What's -- one thing we've heard about is the possibility of expanding Kickstart in the future to young people on Personal Independence Payment. Would you support that?
+
+**Ms Naomi Clayton**: Yes, I think, you know, the scheme itself performed less well for young people with health conditions. And obviously, in terms of eligibility for the scheme, that was restricted to young people on Universal Credit, which meant that some young people on legacy benefits weren't eligible to access support.
+
+So I think access could be widened, but I think we'd need to make sure that wraparound support is in place, if we're to ensure that the scheme kind of provides kind of effective support and good outcomes for disabled young people and those with health conditions, and ensure that support is there for employers, too, to make the kinds of workplace adjustments, look at things like job design and job carving that means young people -- young disabled people are able to access those opportunities and they're meaningful, good-quality jobs.
+
+**Counsel Inquiry**: And all of those things would further the objective of Kickstart to, as you say, not only match young people with employers but good-quality employment that really give them a head start in the labour market, and they reap the benefits of that for years to come?
+
+**Ms Naomi Clayton**: Yes, absolutely. I think, you know, through any scheme, an intervention that's designed to support young people into the labour market, it -- there needs to be a focus on supporting people into meaningful, good-quality opportunities.
+
+**Counsel Inquiry**: In your statement you have identified Kickstart as a scheme which you suggest could remain dormant, and be available effectively off the shelf in a future pandemic. Is that your recommendation?
+
+**Ms Naomi Clayton**: Yes. Yes. Although we would suggest that, you know, similar to the Job Retention Scheme, that the design of Restart and the job retention scheme is looked at to address some of the issues that's been identified.
+
+**Counsel Inquiry**: Can we just have a part of your statement on the screen, please.
+
+INQ000655669. Bottom of page 22. It's just on the -- thank you.
+
+It's just on the point you've mentioned there, and so here is your suggestion in full, to:
+
+"[Establish] a standing employment response framework, outlining employment interventions and programmes ... that can be rapidly (re)activated. This would help avoid delays in deploying employment support if new schemes need to be designed from scratch. It would require cross-departmental planning between HM Treasury, DWP, BEIS and local authorities, and engagement with key stakeholders. It would also require setting clear criteria for when and how to redeploy these programmes."
+
+And it's particularly the last line, the last sentence I'm interested in. And I'm interested in what you mean by that, because, of course, any future pandemic is likely to be highly uncertain. We probably can't predict what that will look like now. So how do you set criteria for when and how something can be redeployed if you don't know what that future situation is?
+
+**Ms Naomi Clayton**: I think it's important to look at each individual intervention and programme, and what it's seeking to achieve. So something like Kickstart and kind of -- we've obviously referenced the Future Jobs Fund, which was a similar scheme run previously. It's being clear about when those sorts of programmes -- which are, you know, quite costly interventions, and obviously focus on kind of job subsidy -- when those programmes are likely to be most effective and most cost effective.
+
+So it's looking at -- really it's looking at the nature of different programmes, and, kind of, what objective and, kind of, particular issue each programme would be seeking to achieve.
+
+So it's having clarity about how a particular programme responds to a particular issue, really.
+
+**Counsel Inquiry**: Thank you.
+
+In the time that's left, I'd like to focus on some refinements to the design of the schemes, and looking at this from a forward-facing perspective and whether there are benefits to these suggestions, if there are trade-offs that you want to identify, and how those should be weighed up.
+
+We've heard evidence, as you've said at the outset, about the experience of the pandemic of those low earners, particularly those on the national minimum wage. And one suggestion we've heard about is that there should be a minimum floor within CJRS, to offer a minimum support to those on the minimum wage rather than a flat 80% rate.
+
+Do you have any views on that? Would you support it?
+
+**Ms Naomi Clayton**: I think that's something that should be considered, particularly given the disproportionate impact on low-paid workers that we saw in the pandemic, as we've outlined in our kind of research and evidence.
+
+So I think certainly it's something that should be considered, particularly given the financial impacts and, kind of, the extent to which low-paid workers were, kind of, pushed into debt and further into poverty during the pandemic.
+
+So I think it's certainly something that should be considered.
+
+**Counsel Inquiry**: You, in your statement, you provide helpful detail on the impact of groups, including those with childcare commitments and people reliant on different forms of employment including part-time work. And one aspect of furlough that we've heard about is about partial furlough, albeit that it was brought in slightly later in the pandemic. Is that a feature you would like to see in a future pandemic, and if so, at the start, or ...?
+
+**Ms Naomi Clayton**: So that would be similar to flexible furlough that was brought in in mid-2020. I think, again, similar to the minimum floor for the Job Retention Scheme, that is something that should be considered, and considered so that that sort of scheme benefits more workers.
+
+**Counsel Inquiry**: And the final suggestion that I want to run by you relates to economic inactivity. So we've heard from Andrew Bailey that there's a continued rise in the UK in economic inactivity, and that's gone on for longer in the UK than elsewhere, and also from our expert yesterday, who regarded the picture as concerning. He said it was unclear what the cause of that was, and that he, particularly from an economic perspective, recommended that that be looked into.
+
+Are you aware, on any research in this field, do you think it's a gap that needs to be looked into?
+
+**Ms Naomi Clayton**: I think there's been quite a lot of research done looking at the rises and kind of causes of the rises in economic inactivity in the UK. We know that levels of economic inactivity are relatively high, and there are record numbers of people, 2.8 million people, who are economically inactive due to long-term ill health. And that's kind of -- there are 700,000 more people who were economically inactive due to ill health compared to pre-pandemic.
+
+So it is a cause for concern. I think to date, there is quite a lot of research that's been done, and there's some, obviously, kind of major government reviews that are looking at these issues from different perspectives. So the Mayfield Review, looking at the role of employers in supporting workers to stay in work, and the Milburn Review, that's looking at young people and economic inactivity.
+
+I think we do need to do more research on exactly why we have such high levels of economic inactivity, particularly compared to other international countries. There are some questions on the reliability of the data that those figures are drawn from, particularly given the issues with the Labour Force Survey, but, you know, the data, you know, and administrative data, does suggest that we have high levels of people who are not participating in the labour market due to ill health. And I think there is a question about the degree to which those people who were either economically inactive before the pandemic or who left work due to ill health, so were forced to retire early during the pandemic, the support that they received. Because a lot of the support that we've talked about, you know, was focused on those who had, you know, recently or relatively recently been made redundant, lost their jobs and, you know, people who were kind of long-term unemployed, and meanwhile, people who were further away from the labour market, so people in that economically inactive group, were receiving less support, and in lots of cases, receiving no support at all.
+
+**Counsel Inquiry**: Thank you. I just want to give you an opportunity, as we have with all of the witnesses, to set out any additional lessons learned or recommendations you might have in terms of a future economic response.
+
+**Ms Naomi Clayton**: So, I've talked about, kind of, reflecting on the schemes that were put in place, and there's a lot of evaluation work that has been done to understand the effectiveness of those programmes and how and why they worked, and potentially, you know, had the impacts that were intended, and it's really important that we learn from those evaluations, and, you know, fairly detailed evaluations about what's worked and why.
+
+I think more broadly we need to ensure that we are building the infrastructure, particularly at the local level, to join up and integrate services so people at any time, but particularly during an economic shock like a pandemic, are able to access tailored, personalised support. The integration of services at the local level is really important.
+
+We've talked about the Plan for Jobs scheme. Generally, that proved effective, but one of the challenges in terms of implementation was, you know, we were quite rapidly introducing a number of new schemes, kind of -- work coaches and staff in Jobcentres quite often found it challenging to understand the detail and, kind of, eligibility requirements for each scheme. And there was, kind of, a lack of clarity in communications.
+
+So I think there are improvements that could be made in terms of the implementation of those schemes. But also we found that schemes worked most effectively and were able to integrate with other local support in a way that ensured that we were, kind of, less likely to duplicate support and more likely to be able to provide that kind of tailored, specialised support for individuals. That was dependent on having integrated services and quite strong infrastructure at the local level.
+
+So I think there's more that we can do now, ahead of any kind of future economic shock, or potentially pandemic, to improve that infrastructure to make sure that services are better coordinated and easier to implement.
+
+**Ms Wilson**: Thank you, Ms Clayton.
+
+I've no other questions, my Lady, but I understand there are some questions from the Trades Union --
+
+**Lady Hallett**: There are, thank you, Ms Wilson.
+
+Ms Peacock, who is over there.
+
+**Ms Peacock**: Thank you, my Lady.
+
+In keeping with time-efficient approach this morning, my questions have already been answered. Thank you.
+
+**Lady Hallett**: Thank you very much. There you are, you've already answered Ms Peacock's questions, you've pipped her.
+
+Thank you very much indeed for your help, Ms Clayton, I'm really grateful to you. And obviously you've thought about this subject a lot, and thank you for all the help you've given to the Inquiry. I don't know if any colleagues were involved in helping you, or was it just you?
+
+**Ms Naomi Clayton**: No, the team at IES helped too.
+
+**Lady Hallett**: Well, could you thank them from me as well, please.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Thank you very much.
+
+Right, well, I think, given the super-efficiency this morning, we're not going to have witnesses available until 1.15. So you get a longer lunch, as well.
+
+1.15, please.
+
+*(12.05 pm)*
+
+*(The Short Adjournment)*
+
+*(1.15 pm)*
+
+**Lady Hallett**: Mr Hudson.
+
+**Mr Hudson**: Thank you, my Lady. The first witness this afternoon is Dr Sarah Cumbers.
+
+Dr Sarah Cumbers
+----------------
+
+*DR SARAH CUMBERS (affirmed).*
+
+Questions From Counsel to the Inquiry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lady Hallett**: Thank you for coming along to help us, Dr Cumbers.
+
+**The Witness**: Thank you for having me.
+
+**Mr Hudson**: Dr Cumbers, you are the chief executive of the Royal Statistical Society, and you have provided to the Inquiry a witness statement with the reference number INQ000612632. Is that right?
+
+**Dr Sarah Cumbers**: Yes, that's correct.
+
+**Counsel Inquiry**: And you have provided that in your capacity as the Chief Executive --
+
+**Dr Sarah Cumbers**: (Witness nodded)
+
+**Counsel Inquiry**: -- of the Royal Statistical Society. And I think there's something you want to say on behalf of the Society at the outset of your evidence.
+
+**Dr Sarah Cumbers**: Yes, that's right, thank you.
+
+So the RSS is a professional body for data scientists and statisticians in the UK. We're also a charity and we work to support the public to -- we work to support the use of data and statistics in the public interest. So I've held this role at the RSS for just over two years, so I joined after the pandemic, and my work involves leading on the engagement with the official statistics system at an organisational level.
+
+I'd like to stress that I'm not a statistician and my input to the Inquiry today has been informed by the expertise of a range of RSS members, particularly from our Covid taskforce and also from our Public Statistics Advisory Group and I'd just like to extend my gratitude to those members for supporting me.
+
+**Counsel Inquiry**: Thank you. You've touched upon the Public Statistics Advisory Group. Could you briefly explain that group and how it relates to economic statistics?
+
+**Dr Sarah Cumbers**: Yes. So the Public Statistics Advisory Group has a role in supporting the RSS in developing policy positions and for providing advice on areas of public statistics. So anything that relates to the official statistics system. So that could include economic statistics but also the broad range of statistics had are produced by the official statistics system.
+
+**Counsel Inquiry**: Thank you. Your evidence today will focus on an outside and, perhaps at times, critical perspective of the work of the government during the pandemic and in particular, in looking towards the future in how things could be improved.
+
+Before we get to that, one backward-looking feature, if I may, and that's this: I think, in the witness statement you've provided, there is reference to the fact that the RSS found that pathways for engagement with the government became fewer during the pandemic. And I think there's a concession in there that that probably owed to the stress of the situation.
+
+**Dr Sarah Cumbers**: Mm.
+
+**Counsel Inquiry**: Notwithstanding the difficulties and the context, do you think that could have been managed better and should be managed better in the future?
+
+**Dr Sarah Cumbers**: Absolutely, yes. Everybody was under pressure during Covid, but ultimately preparedness for any crisis should involve mechanisms to ensure that expertise is flowing freely into government and those others who are making decisions. And that wasn't the case during Covid.
+
+**Counsel Inquiry**: The Inquiry is really quite interested in the practical in this regard. How ought that expertise to flow into government?
+
+**Dr Sarah Cumbers**: So during normal times, the RSS has good mechanisms of interaction with government, and those were in place before the pandemic. And so --
+
+**Counsel Inquiry**: Are those formal engagement groups? Committees? Roundtables?
+
+**Dr Sarah Cumbers**: Yes, those sorts of things, and also the formal consultation mechanisms, as well. And we would readily engage through those mechanisms, and do today. But my understanding from the RSS members who were involved in that time is that essentially those mechanisms ceased.
+
+**Counsel Inquiry**: So would your recommendation perhaps not necessarily be that those mechanisms remain in a business-as-usual forum, but there be some provision for this is how we will adapt within a crisis?
+
+**Dr Sarah Cumbers**: Absolutely, yes.
+
+**Counsel Inquiry**: I'd like to ask you now questions about the collection of economic data. We'll then move on to discuss data sharing across the UK Government and outside of it, followed by the analysis of that data and the statistics produced as a result.
+
+I wonder if, first, we could explore further something that's in your written witness statement at paragraphs 5.1.1 to 5.1.3.
+
+And a reminder, that's INQ000612632.
+
+Just on the subject of widening data, and you write as follows:
+
+"As we have indicated in [paragraph] 3, in economics there is a specific challenge in developing near real-time forecasting. Part of the answer to that challenge must involve the identification of new data sources that can help shed light on the key economic questions where timely information is required. We would advocate a process that begins by identifying economic questions that it would be helpful for the statistical system to be able to provide timely answers to -- both in normal times and in times of crisis."
+
+And then the first two sentences -- the first one sentence, so the next paragraph:
+
+"When these questions have been identified, the statistical system should be tasked with identifying the data that is needed in order to answer them."
+
+And then over the page, please. You reference the challenging nature accessing additional datasets, and state:
+
+"Efforts in this respect could be linked to the development of a National Data Library ... which could bring with it a greater sense of national data stewardship."
+
+What I'd like to do now is summarise a couple of the key concepts from that and then ask you to comment on my summary and elaborate.
+
+So can we draw from these paragraphs the following recommendations: firstly, begin by identifying the questions that might need to be answered in a time of crisis. And secondly, once you have identified the questions, go out and get the data that helps you identify the answers to those questions.
+
+**Dr Sarah Cumbers**: Yes. I would add an additional step, which is to identify the questions, then identify the data that could answer, and then think about where you're going to source that data from. So it's a three-step process.
+
+**Counsel Inquiry**: That's a broad conceptual way of looking at how the data system ought to operate. Do you have a sense of how that is different to how it currently operates?
+
+**Dr Sarah Cumbers**: I would say that what the pandemic ... what it shed light on was the fact that the official statistics system was very much, particularly in relation to economic statistics, relying on core economic statistics, and there hadn't been foresight in terms of the sorts of data that might be valuable in a crisis.
+
+So that process hadn't happened, of considering what might happen, for example, during an economic shock when, you know, the economy is not operating in the usual way that it is, but also then the mechanisms of measurement are challenged as well.
+
+And so, during Covid, those core economic statistics, there were challenges with the production of those statistics, and essentially, a whole new, sort of, demand for real-time economic statistics that could help decision makers to understand, in real time, what was happening to the economy.
+
+**Counsel Inquiry**: Could I perhaps split that into a discussion of novel and then core statistics. Beginning with the novel, we know that the ONS and other departments of government collected data from novel sources during the pandemic, for example Google mobility data, data from Revolut, OpenTable and the like, to try to assess what was happening in real time.
+
+We will hear from Mr Fitzner of the ONS after your evidence is concluded, but would you agree that that was a positive development and an appropriate response top the emergency?
+
+**Dr Sarah Cumbers**: Yes, absolutely. And the view of RSS members is although the ONS, like most organisations across the UK and globally, wasn't prepared in the sense that I've described, actually when the pandemic happened, the organisation very quickly pivoted and innovated and stood up new surveys, adapted existing surveys, and also, as you've described, identified new sources of data that could give real-time insight.
+
+**Counsel Inquiry**: And so is the point: credit where it's due --
+
+**Dr Sarah Cumbers**: (Witness nodded)
+
+**Counsel Inquiry**: -- but with greater preparedness it could have been even better than it was?
+
+**Dr Sarah Cumbers**: Yes.
+
+**Counsel Inquiry**: Turning, then, to core statistics. We know there have been recent developments, that I'm sure you'll be aware of, at the ONS, the Office for National Statistics, to focus on what they describe the quality over quantity. And I'd like to ask you about any unintended consequences that might arise for pandemic preparedness.
+
+And on that note I'd like for part of the ONS article of 12 November of this year to be brought up on screen.
+
+It's INQ000659841.
+
+And it reads as follows:
+
+"The announcement today [12 November 2025] include:
+
+"Reducing commitments in health: The ONS played an important role in supporting the UK's COVID-19 response ..."
+
+And I think this relates to the Coronavirus Infection Survey and similar statistics.
+
+"... and has continued to provide valued insights on health, drawing on the expertise and capabilities we developed during the pandemic. We will continue to produce statistics such as births, deaths and life expectancy that form part of our core population outputs. However, we will be reducing other health analysis work, engaging stakeholders and other parts of government to identify outputs that others should take forward."
+
+It seems as though the ONS effectively stepped up and helped to collect health data when it was needed as part of the effort to respond to the pandemic.
+
+Is it your sense that this is a welcome course correction, to focus on the quality of their core statistics rather than being spread too thinly, or do you have concerns that stepping away from health statistics might reduce the UK's preparedness to have that -- to have health data integrated into the economic response?
+
+**Dr Sarah Cumbers**: The first thing I would say is that the RSS recognises that it's been a challenging time for the official statistics system, and ONS in particular. And we very much welcome the recommendations of the Devereux Review and the response to that review with the Economic Statistics Recovery Plan and also the Survey Recovery Plan, and so RSS members are fully behind the actions that are now being taken in the short term. And I emphasise the short term, because we do also have concerns regarding the breadth of the portfolio of statistics that will be produced in the future, because ultimately -- I've talked earlier in my evidence about the importance of breadth and thinking about the core questions that are answered -- that need to be answered ahead of time. Well, if you've reduced your portfolio, then that reduces your agility and it reduces the likelihood that you're collecting broader data that could be of value.
+
+In relation to the particular question on health, my understanding from the contraction of the portfolio is that the -- is that the ONS have discussed the data collection with the UKHSA, and, you know, as it says within the statement here, others will be taking forward that work.
+
+So it's less of a concern specifically about health, from the RSS, and more a concern more generally about the contraction of the portfolio to focus on core statistics when, actually, the legislation is very clear that the ONS is there to provide a broad portfolio of statistics that meet user needs beyond the needs of government itself.
+
+**Counsel Inquiry**: Do you have a sense of the extent to which that is a criticism, if I can put it that highly, the contraction of breadth, do you have a sense of the extent to which that criticism is more properly levelled at the ONS or those resourcing the ONS?
+
+**Dr Sarah Cumbers**: I would argue that it's essential that the ONS receives the resource that's required to enable the full breadth of portfolio in future.
+
+**Counsel Inquiry**: I'd like to pick up perhaps a related topic in relation to surveys and administrative data. I wonder if you could begin by highlighting the key differences between the two?
+
+**Dr Sarah Cumbers**: Yes. So essentially, surveys involve asking a set of questions of a defined cohort of participants -- that could be online or it could be face-to-face -- whereas admin data is data that's collected elsewhere in government, so for example to support the delivery of services. So tax data from HMRC or health data from across the health service are two examples of admin data.
+
+**Counsel Inquiry**: Would this be a fair characterisation: that survey data, which I think is primarily what the ONS engages in, is data deliberately collected for the sake of having the data and producing statistics to inform policy or to understand the composition of the economy better, whereas administrative data is data that is collected as a byproduct of some other useful activity within government, for example, raising taxes?
+
+**Dr Sarah Cumbers**: Yes. Although my understanding is that the ONS -- and this was a trend that was accelerating before the pandemic -- was working a lot more with admin data. So the balance that you describe that they mainly work with surveys, yes, in terms of the, you know, generation, but actually the ONS is using a lot of admin data already.
+
+**Counsel Inquiry**: We've picked up a concern of the RSS within the witness statement related to the difficulties or the challenges in control that come with relying more heavily on administrative data as opposed to survey data. Could you firstly explain the difficulties, why you put that health warning on administrative data, and then secondly, explain what mitigations can be put in place?
+
+**Dr Sarah Cumbers**: Yeah. So the health warning is there because, you know, as we've discussed, surveys are designed and within the control of the ONS, whereas admin data coming from other departments is not within their control, and the evidence in my witness statement was written at a time when there was uncertainty about the future of the census in 2031 and a drive within the ONS to move towards an admin-based census, and there were concerns expressed, quite significant concerns expressed, by RSS members, about our readiness for that, particularly in light of the issue of control.
+
+The reason that it's an issue is that, as we've described, the admin data is there for a particular purpose and if that changes, if the service changes, if the data-sharing agreement, you know, expires or if there's an issue with, you know, with that data being shared, then essentially, that input could be switched off, which represents a risk.
+
+**Counsel Inquiry**: Grounding that in preparedness to economically respond to a future pandemic, can you help us with practical examples of why that might actually be a live issue?
+
+**Dr Sarah Cumbers**: In terms of practical examples, I think there's an example within Sir Ian Diamond's witness statement of the Department for Work and Pensions no longer sharing Universal Credit management information with the ONS and I would assume that that was a particular data-sharing agreement that was in place during Covid and that has now expired and hasn't been renewed. I don't know the details of that, but that's one example of the sort of thing that could happen as a result.
+
+So the mitigations are around ensuring that data-sharing agreements are in place, that there are good relationships between the data users at the ONS and the data providers. So there's good communication, there's advance notice of any changes so that that can be built in.
+
+**Counsel Inquiry**: We will come on to data sharing a little bit more substantively but I wonder if we could set aside the issues in the flows of data between different departments of central government. Qualitatively, what is the difficulty with just relying on administrative data, do away with surveys entirely and rely on data that's produced as part of some other useful function?
+
+**Dr Sarah Cumbers**: So, as has been described, the admin data, when it's not collected for a particular purpose, may not answer the question that you need to answer, in terms of developing a statistic to support decision making.
+
+**Counsel Inquiry**: Are there issues here about the adaptability of admin data in a time of crisis, for example with the opinions and lifestyle survey run by the ONS, they could adapt the questions they asked within that survey, adapt the frequency of it being carried out --
+
+**Dr Sarah Cumbers**: Yes.
+
+**Counsel Inquiry**: -- and therefore they had far more control and adaptability to respond to a crisis?
+
+**Dr Sarah Cumbers**: Yes, so essentially the system is more resilient when you're in control of the data that you're asking for.
+
+**Counsel Inquiry**: On data sharing, then, you've discussed a specific example. You touch on it at paragraph 2.1.4 of your witness statement which will be coming on screen in just a moment. And it's the sentence that begins "Second", you say:
+
+"Second, that further data sharing between central government and regional and local authorities should be encouraged -- particularly where controlled access is required, so that problems can be proactively identified and tackled at a local level."
+
+This is a spotlight on local, regional levels. But generally, what do you consider to be the barriers to data sharing and what can be achieved when data is effectively shared across the whole of government?
+
+**Dr Sarah Cumbers**: So, in relation to the barriers to data sharing, I would say that there are three main barriers. I would start with legislative, in the sense that there isn't a single legislation that covers data sharing. It's provided for within, you know, across health differently from the Digital Economy Act and the views of RSS members that that needs to be holistically reviewed.
+
+The powers that the legislation give are also important to consider, so the ONS was given enabling powers to use data for statistical and research purposes, and that differs from operational purposes. So that's also something that needs to be considered.
+
+So that's legislative.
+
+Then if we look at the technical challenges, interoperability between systems, dealing with legacy systems, the risk of errors through, you know, manual processes and these are significant.
+
+And then finally, cultural. Because I think even if you get the legislation right and you have a system that fully enabled data sharing, that still wouldn't necessarily mean that it would happen, and there were numerous examples within the witness statements that I was pointed to in preparation for today of different government departments and those outside of government, indicating that data wasn't flowing freely. And essentially, the RSS made a number of recommendations around data sharing going back as far as, I think it was 2014, our first data manifesto. So many of these changes were known about before the pandemic.
+
+We then updated that manifesto in 2019 and many of the same themes were present within that version, and we then made representations to the new government when elected last year to indicate that this was a pressing issue.
+
+Because this is an issue that sits across government departments, it really needs leadership at the highest level, so from the Prime Minister, to indicate that this is a challenge that needs to be embraced, data needs to be seen as a public good, and then, you know, the more granular steps put in place to enable that to be sorted out.
+
+**Counsel Inquiry**: On the second challenge you raised, interoperability, we have heard evidence that the Scottish Government, in order to more effectively target some of the business support that it provided to businesses in Scotland, would have liked to be able to analyse the data held by HMRC. It didn't in fact request the data, and the evidence we have got the gist of is that it wasn't really worth it. There was nothing they could do with it, even if they did receive it.
+
+Does that link in with your interoperability barrier?
+
+**Dr Sarah Cumbers**: I'd probably need to understand more about that specific example to be able to answer that question.
+
+**Counsel Inquiry**: That brings me to the next topic, then, economic statistics and analysis. I think there are -- I don't know if "concerns" is putting it too highly -- but questions that the RSS raises about for whose benefit economic statistics are produced.
+
+Often, in your statement, you've said that economic statistics are produced for the benefit of government. And a lot of the time the interests of government overlap with the interests of the public, but I think you say that that's not always the case.
+
+How can a system cater to the intentions of providing data that's useful to the public and data that's useful to government?
+
+**Dr Sarah Cumbers**: So I think the first step here is to start with an understanding of user needs, and those users will include users within government but also outside of government, and with that granular understanding of user needs, can then come a robust process of prioritisation and decision making about which statistics to collect. And that's not a process that's systematically undertaken at the moment, and one of the things that the RSS advocates for is to have, in a sense, a waiting list of statistics that aren't being developed at the moment, so there's transparency over the extent to which needs, both inside and outside of government, are being met.
+
+**Counsel Inquiry**: Secondly, I'd like to ask you about proxy economic indicators.
+
+I wonder if we could have paragraph 3.1.2 of your statement on screen. It's INQ000612632. And it's the "Sectoral and regional variations", please.
+
+You state this:
+
+"Sectoral and regional variations: The UK's economy is not monolithic: even in a more normal situation, different sectors and regions will experience trends that are not immediately reacted in aggregate data. This was even more true during the pandemic when sectors that relied on in-person contact slowed dramatically and other sectors were able to carry on to some extent. Proxy economic indicators often provide partial views, leading to potential misinterpretations of broader economic conditions."
+
+Can you, firstly, help us out with what are proxy economic indicators?
+
+**Dr Sarah Cumbers**: So we can go back to the initial part of our conversation this afternoon, where you mentioned the -- the novel data sources that the ONS started to use, and others, you know, for example, Treasury and HMRC started to use. So, for example, retail data, data about energy use, data about transport use. Essentially, this is data that gives you an indication about the performance of the economy, but they're not -- they don't have the same status as a core statistic.
+
+But you will find that the pattern of those indicators, you know, may follow the -- you know, the core statistics, and so you can use them as a more real-time proxy for core.
+
+**Counsel Inquiry**: So they are of some utility during a response to a crisis, in particular a pandemic. But are you cautioning against using them to extrapolate too far into a complete picture?
+
+**Dr Sarah Cumbers**: Cautioning, yes, in the same way that there's caution with any statistic in terms of the degree of uncertainty. What's important is that that uncertainty is known, which is why research and experimentation on these proxy indicators is really, really valuable, to understand the degree to which they do, sort of, you know, mirror, you know, the data that's collected for core statistics.
+
+**Counsel Inquiry**: So if, in the example of this pandemic, the ONS had been using the kinds of novel data sources we discussed earlier, habitually they may have developed a more comprehensive understanding of the limitations and how they might be improved to inform the response to a pandemic?
+
+**Dr Sarah Cumbers**: Yes. And that's something that the ONS continues to work on as -- there is an experimental set of indicators.
+
+**Counsel Inquiry**: There is a theme in your witness statement relating to the need for economic statistics to truly reflect the public's experience, and I'd like to pick up on one particular example and it's in relation to the Consumer Prices Index, CPI, which is the dominant inflation statistic. You explain in your witness statement that that statistic is weighted to give more emphasis to wealthy groups. Can you explain why that is?
+
+**Dr Sarah Cumbers**: So the way that CPI is calculated, it relies on a basket of goods, and essentially, you know, if -- there will be a greater degree of spend by people who have more disposable income, and so the inflation measure is weighted in that way to -- you know, to take that into account.
+
+**Counsel Inquiry**: And how might that change during times of uncertainty or disrupted usual economic activity?
+
+**Dr Sarah Cumbers**: So the ONS had to do a huge amount of work to maintain the inflation measures during Covid. As I've described it, the basket of goods -- you know, from our own personal experience, we know that there was a huge disruption in relation to, you know, for example, the degree of spend, you know, spent on household goods. There were items within that basket that disappeared overnight. You could no longer go to the theatre, for example, and the ONS was also unable to send their field force in to collect that information. And so there was a lot of work done to maintain that series during the pandemic.
+
+**Counsel Inquiry**: There's another measure of inflation, I think, that's now available, called the Household Costs Indices. The Inquiry understands that that was in development leading up to the pandemic, but it had to be suspended owing to the nature of the crisis. But it has now been produced.
+
+Could you identify the extent to which that helps decision makers understand inflation and its real-world impact on people during times of crisis?
+
+**Dr Sarah Cumbers**: It's been a longstanding priority of the RSS to advocate for the development of the Household Cost Indices, I think going back to around 2016, where challenges with the Retail Prices Index were developed.
+
+And what the HCIs do is to calculate inflation according to particular characteristics of individuals. So it will look at income deciles, for example. It will look at whether people have a mortgage or not, whether they have a student loan, whether they have children, whether they're retired. And in that way, you can take a far more granular look at the impacts of inflation. And, in fact, the data that we now have shows that there was quite a significant gap between inflation as estimated by the Consumer Prices Index and by the HCIs for people on low incomes during the cost of living crisis.
+
+And that's really important, because it means that the impact of inflation at the time -- we didn't have that data during the cost of living crisis. This was data that -- the measures were introduced following that crisis.
+
+And it's -- I mean, essentially, with that information, it enables support to be more targeted. But there is also another aspect here which is important, and this is why it's so important that people's lived experience is represented in the statistics, which is that if it's not, then people living in the UK, if they can't see themselves in that data, then it has an impact on trust, and it has an impact on the degree to which they trust, you know, what the government is saying, and also their ability to then measure, you know, the impact of actions that the government take.
+
+So it's important for a number of different reasons.
+
+**Counsel Inquiry**: On inflation, and specifically how statistics on inflation can inform a response to a pandemic or a crisis, the former Chancellor, Rishi Sunak, gave evidence to the Inquiry over the last two days. One of the points he made in relation to his assessment at the time of the impact of the pandemic on vulnerable groups and the extent to which they may need support through the benefit system was that inflation was at a very low rate in 2020, which will have affected the rate at which prices of goods were going up.
+
+Is the Household Costs Indices, had it been available, is that perhaps a measure which would have enabled decision makers like him to understand on a more granular basis precisely what was going on and how the composition of inflation statistics might actually be impacting different groups on the ground?
+
+**Dr Sarah Cumbers**: Yes, it would have done.
+
+**Counsel Inquiry**: You have just referenced trust, public trust, in statistics. And you make reference in your witness statement to the following. I won't ask for it to be brought up, but you say:
+
+"Data and evidence underpinning policy making must be published when decisions are announced and communication of data must be politically neutral."
+
+Can you help us with why it is desirable to publish the underpinning data and evidence for policy making?
+
+**Dr Sarah Cumbers**: It's a fundamental principle of good decision making that you explain the rationales of your decisions so that people can understand the factors that have been taken into account, the evidence that you had, the uncertainty, you know, perhaps the options that were considered, so that people can understand the nature of the decision.
+
+**Counsel Inquiry**: Two questions arising. The first is specifically in relation to responding to a pandemic, in your view, is that a more acute reason why publishing data is helpful, or is it just a general point?
+
+**Dr Sarah Cumbers**: It's a general point. I'd say it's even more essential during a pandemic.
+
+**Counsel Inquiry**: And secondly, do you have any kind of insight into whether that's a feasible thing for government to do, in each policy decision it makes, to publish the underlying data and the evidence?
+
+**Dr Sarah Cumbers**: Yes, I --
+
+**Counsel Inquiry**: With the caveat that you're, of course, not in government; you're offering an outside perspective?
+
+**Dr Sarah Cumbers**: What I can say is that I'm sure that there are many examples of where that practice is followed, and so that essentially sets the standard and indicates it can be done and in the RSS's view should be done across the board.
+
+**Counsel Inquiry**: I'm putting you on the spot a little bit.
+
+**Dr Sarah Cumbers**: I knew you were going to ask that. I can't think of an example but I can share one afterwards if that is helpful.
+
+**Counsel Inquiry**: That may well be helpful. By example, are you referring to comparison with another country or specific policies within the UK where the data has been published?
+
+**Dr Sarah Cumbers**: Within the UK.
+
+**Counsel Inquiry**: Thank you.
+
+Dr Cumbers, those are the specific questions I wanted to ask you. Are there any concluding reflections that you have on the use of economic statistics during this pandemic and how they might be improved in the future for preparedness for another pandemic, or to respond in the moment to another pandemic?
+
+**Dr Sarah Cumbers**: There's one point that we haven't touched on which was of significant importance to our members, which links in with the public's understanding of statistics, which is about the communication of statistics, and when thinking about the skills that statisticians and others communicating during the pandemic had, in relation to economic statistics, that's an area where we would -- there's certainly room for improvement in the future. We would recommend that all statisticians and personnel communicating statistics receive training to make sure that they're able to fully articulate, and to explain simply, you know, the -- essentially the translation of complex analysis into policy-relevant insights in an accessible way.
+
+One thing that's particularly important is the articulation around uncertainty and how trade-offs are made, and again, that's not something that was always done well during the pandemic.
+
+And finally, to ensure that communication is specific to particular audiences. So it needs to vary between decision makers and the public, and that's something that's important to get right for the future. So any pandemic preparedness plan should include a focus on communication.
+
+**Counsel Inquiry**: Can I just probe one matter a little bit more, and that's on communicating uncertainty.
+
+**Dr Sarah Cumbers**: Mm.
+
+**Counsel Inquiry**: We've heard from another witness, Lord King, the former Governor of the Bank of England, that doctors and politicians like to be seen to know the answer, and therefore find it difficult, sometimes, to explain uncertainty. On one view, in a time of crisis, uncertainty is problematic for the public. People want a certain answer. Do you have concerns or does the RSS have concerns about how that might come back to bite a politician or a doctor in the future if uncertainty wasn't communicated at the outset?
+
+**Dr Sarah Cumbers**: Sorry, can you just repeat the question?
+
+**Counsel Inquiry**: Yes, the question is why does communicating uncertainty matter?
+
+**Dr Sarah Cumbers**: Okay. It matters so that there is full transparency around the confidence in the decision that's been made. Yeah.
+
+**Mr Hudson**: Thank you.
+
+My Lady, those are my questions.
+
+**Lady Hallett**: Thank you very much, Mr Hudson.
+
+There are no further questions for you, Dr Cumbers. Thank you very much indeed, I appreciate if you're not a statistician yourself, although you are the chief executive of the organisation, it can't have been that easy and it must have taken a lot of work and your colleagues have obviously been extremely helpful.
+
+So thank you to you for taking the trouble to help the Inquiry and thank you to your colleagues who helped you.
+
+**The Witness**: Thank you.
+
+**Lady Hallett**: Thank you.
+
+Mr Wright.
+
+**Mr Wright**: My Lady, the last witness is Grant Fitzner.
+
+**Lady Hallett**: Mr Fitzner, I don't know if it is relevant to the statistics -- I can never say that word -- well done, Mr Hudson, you managed to do it. I don't know if it is relevant, but you are the last witness of this module.
+
+**The Witness**: I am, so I guess I get the final word.
+
+**Lady Hallett**: You do.
+
+Mr Grant Fitzner
+----------------
+
+*MR GRANT FITZNER (affirmed).*
+
+Questions From Richard Wright KC, Lead Counsel to the Inquiry for Module 9
+--------------------------------------------------------------------------
+
+**Mr Wright**: Good afternoon, Mr Fitzner. You are Chief Economist and Director of Macroeconomic and Environmental Statistics and Analysis -- try saying that again -- at the Office for National Statistics, I think.
+
+**Mr Grant Fitzner**: Yes, that's correct.
+
+**Counsel Inquiry**: Thank you. And you've provided two statements to the Inquiry, INQ000605523, and INQ000657600.
+
+In terms of the pandemic, the Inquiry understands you were responsible for the initial coordination of the Office for National Statistics pandemic response from March 2020; is that right?
+
+**Mr Grant Fitzner**: That's right. For essentially the period of -- well, the first half of the year going into the summer, I and one or two colleagues played that coordination role. That was then replaced by a larger coordination team.
+
+We also had ONS staff working in the Cabinet Office to kind of improve that flow of information between the two organisations.
+
+**Counsel Inquiry**: Thank you. And if in ordinary times the ONS is responsible for collecting, analysing and disseminating statistics about the UK economy in particular, because that's the focus of this module, in the context of the pandemic, was one of its core functions to inform decision makers and the public with data and analytical insight into that data?
+
+**Mr Grant Fitzner**: Yes, I think that quickly became a major part of our activity. It's not that official statistics, the sort of regular GDP price and other statistics that we were publishing weren't important, but they couldn't answer all the questions that policymakers were coming to us with so we very quickly realised that we needed to stand up new, and I think to use the term "novel" data sources to help answer those questions.
+
+**Counsel Inquiry**: Okay. And we're going to explore how that developed, and how easy it was to pivot in that way from functions in ordinary time into functions in the course of an emergency.
+
+Just by way of background, I mean, really, what you're doing when you -- you have to have the data, so that's the raw material, if you like, and then you analyse that data and interpret it; is that right? It's providing the interpretation to the raw data, the graph behind the raw data.
+
+**Mr Grant Fitzner**: I think the logic chain is a little bit more detailed than that. I mean, the first thing is to really be clear about what the question is that you're trying to answer otherwise you may end up collecting data that actually doesn't meet the need. So really understand what people need to know. Identify the relevant data sources. They may be readily available. You may actually have to go out and actively collect them, for example we did a lot of web scraping during the pandemic to collate from online sources. Then you need to securely ingest those into the organisation, quite often accompanied by a data-sharing agreement with the data provider. Then analyse and, most importantly, I think in a way, disseminate across government, central agreement, devolved administrations, et cetera, so that analysts and policy officials in other departments and organisations can utilise that data.
+
+And then alongside that, of course, there was a public-facing activity. We published a lot of data analysis during the course of the pandemic that was effectively new.
+
+**Counsel Inquiry**: Which was about providing the public with as much information as you could?
+
+**Mr Grant Fitzner**: That's right.
+
+**Counsel Inquiry**: And also may have had a role of reassuring the public about what the actual state of play was in a sort of authoritative sense rather than a data-backed sense?
+
+**Mr Grant Fitzner**: Yes, although I think it's a bit more than that. Our role is not simply to inform government; it's really to inform the public as well. And of course there are households, businesses, other organisations and individuals who need to make decisions, and you would hope that they would look to the ONS for some of the information they can use to make well-informed decisions.
+
+And so I think that public-facing role is a really important part of what we do at the ONS.
+
+**Counsel Inquiry**: And if people are going to rely on what you're producing to make those sorts of decisions, there's an important component of trust as between you and the public, the public being able to trust what they're seeing in order to make a judgement based upon it?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: Yes. And is there a communication challenge there, generally, in terms of communicating with the public?
+
+**Mr Grant Fitzner**: I think there's a number of communication challenges. One is, if effectively you're doubling the amount of things that you publish compared with pre-pandemic, how do you make that information digestible, accessible to the average member of the public?
+
+I mean, I think one of the challenges we face is we have multiple different audiences. We have, if you like, a member of the public who may not know much about statistics or analysis or data, he just wants to know, say, what's the rate of inflation or, in the case of the pandemic, you know, what's happening with infection rates, for example.
+
+But you also have the more specialist users, both in government and beyond, who have a more technical and analytical focus and probably want data that is more granular. Often they just want the datasets so they can do their own analysis with, and we really need to be able to cater to both of those audiences.
+
+**Counsel Inquiry**: All right. In ordinary times, in normal times, in terms of the core economic data that you collect -- I'm just going to ask that paragraph from Professor Diamond's statement goes up which sort of sets this out.
+
+It's INQ000605523.
+
+And we see there, in the context of the "Labour market" part of his statement:
+
+"166. The ONS produces a wide range of monthly labour market statistics. These include employment, unemployment, economic inactivity, earnings, job vacancies, and redundancies, drawing on a range of household and business surveys, as well as administrative data."
+
+So that's in, sort of, normal times, steady state, the sort of things that you're doing at the ONS; is that right?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: Yes. And the core surveys, so this is survey data, would typically include, first of all, the Labour Force Survey; is that right?
+
+**Mr Grant Fitzner**: Yes, although if we're talking about labour market statistics, we publish and have for some time published a wide range of labour market statistics. So that includes the Labour Force Survey but also includes a survey of job vacancies, of redundancies, workforce jobs, which is an industry survey, average weekly earnings. And from -- actually from pre-pandemic times we started publishing monthly HMRC real-time information on payrolls.
+
+**Counsel Inquiry**: Okay. But just breaking them down, the Labour Force Survey, that's a household survey, is this right, on employment, unemployment, hours worked, occupation, industry? So that gives you the ability --
+
+**Mr Grant Fitzner**: Yes, that's right.
+
+**Counsel Inquiry**: -- to produce stats on the labour market?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: There's also an Annual Survey of Hours and Earnings, which is an employer survey, is that right, looking at earnings and pay distribution?
+
+**Mr Grant Fitzner**: Yes, it's an employer survey based on a sample drawn from the HMRC payroll data.
+
+**Counsel Inquiry**: Yes. The Annual Business Survey, which is a survey on businesses looking at turnover, employment, purchases. So that's looking at statistics relating to business and industry?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: Then also the Living Costs and Food Survey, so this is focusing really on household spending, is that right, and informs core statistics on inflation, for example?
+
+**Mr Grant Fitzner**: And also on GDP, yes, that's correct.
+
+**Counsel Inquiry**: Then also a survey that looks at wealth and assets, so looking at -- a household survey looking at property, pensions, savings, levels of debt. So you can look at the levels of wealth that might not be obvious just from income, wages, but this is wealth and you can look at inequality through that lens; is that right?
+
+**Mr Grant Fitzner**: That's correct, yes.
+
+**Counsel Inquiry**: And in ordinary times, who would you say are the key users of the statistics that you produce about the economy, and I'm just interested to identify them and what they use your statistics for. And can we think, first of all, in terms of -- in government terms. The Treasury? Are they a -- (overspeaking) -- recipient?
+
+**Mr Grant Fitzner**: The Treasury, the Department for Business, other departments to a lesser extent, obviously the Office for Budget Responsibility but also, importantly, the Bank of England.
+
+**Counsel Inquiry**: And then outside government, are there non-government stakeholders like the Royal Statistical Society and others?
+
+**Mr Grant Fitzner**: Yes, although I'd also mentioned business and particularly financial markets. It's really important in the UK, given the size of the financial markets, that we publish accurate and timely economic statistics so that people in the city, for example, can assess what the rate of inflation is, the level of public debt there is, how fast the economy is growing, (unclear) because that affects, well, it affects market prices and you can see that when we publish data that perhaps may not be in line with the census, you can see market rates change. So it's really important that those data are as good as we can make them.
+
+**Counsel Inquiry**: I can imagine in the pandemic that there will have been increased demands for data, people wanted as much data as they could get their hands on, potentially for different reasons, you know, from a government perspective --
+
+**Mr Grant Fitzner**: Sure.
+
+**Counsel Inquiry**: -- they're setting economic policy. And then from a business perspective in terms of reacting to the pandemic.
+
+I just wonder if those increased demands put you under strain, and if there was any complexity in sort of balancing how you met those needs as between the needs of government that was demanding certain statistics to make decisions, and the non-government stakeholders?
+
+**Mr Grant Fitzner**: Well, as I said earlier, there was a big increase in the amount of data statistics and analysis that we published over the course of the pandemic, particularly in 2020 and 2021. In the first few months we didn't have any additional staff although we did start recruiting later in the year. So effectively, we had to make the best use of the people we had when we went into the lockdown, the first lockdown, and that meant taking people off of other work, including fieldwork, and those core statistical production teams that were producing economic statistics and deploying them onto things like the business impact survey, the household survey, the Covid survey, and also bringing in more real-time indicators, as well.
+
+So there was a significant diversion of effort on to the pandemic response.
+
+**Counsel Inquiry**: That's understandable, but if you assume a recovery from the pandemic, that diversion, has that had a longer-term cost and consequence?
+
+**Mr Grant Fitzner**: I think it has. I think the prioritisation statement that we published in November was referenced earlier, and what we effectively say there is that we need to focus more on the quality of our official statistics, and that inevitably means doing less, reducing the quantity and potentially the some of the breadth of the statistics that we produce.
+
+I think it was really striking post-pandemic when I was looking at what other national statistic institutions were doing, they were stopping and unwinding their pandemic response faster than we did. I think we maintained it for a longer period and as the quote about health statistics showed, we've been continuing -- in fact we've continued to put a significant amount of effort into health statistics over the last five years as well.
+
+Now, I think during the pandemic, everyone rose above and beyond. People were working very long hours and we were able to maintain both those core official statistics and the pandemic-related data statistics analysis through basically people working hard, and some additional recruitment.
+
+That's not sustainable for a five-period, because, you know, when you take people out of statistical production teams, when you have unfilled vacancies, then clearly challenges emerge, quality issues emerge, as we have seen over the last couple of years.
+
+And I think what the prioritisation statement was really trying to signal is that we are focusing more on those core statistics to get the quality back to where it needs to be.
+
+**Counsel Inquiry**: I just want to pick that up, the idea that it's not sustainable. Is that a resource problem, or is it more than just a resource problem? If you had more resources, could you sustain doing all of those things and do them at the level of quality that you would want to do? And, linked to that, I mean, you don't want to be doing things for which there is no benefit, you know, so just gathering data and analysing it for no real purpose --
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: -- in ordinary time, and I just wonder how you meet that challenge of being able to stand something up to deal with an emergency without having a lot of slack in the system in ordinary times.
+
+**Mr Grant Fitzner**: Well, I think generally, when you go out and talk to users, they always want more. They want more statistics, they want a wider range of statistics. And I think one of the key challenges for the ONS in recent years has been that it's been to really be clear about what our core mission is and to focus on delivering that to the quality that people expect. You cannot be all things to all people, because demand is almost infinite out there, so ultimately you have to make choices and that involves potentially doing less in some areas.
+
+Now, additional resources could mean that we could do more. But ultimately, there are limits to budgets and of course, you know, many parts of government at the moment are facing fairly challenging budget settlements. I think we've been able to maintain a reasonable level of resourcing, but in order to justify that I think we need to show that we're focusing on our core business.
+
+**Counsel Inquiry**: Would having that narrower focus on your core business affect at all your ability to respond to another emergency?
+
+**Mr Grant Fitzner**: Well, not necessarily. I mean, we had fewer people at the start of the pandemic than we have now. I think the issue was more about the sustainability. Like I said, you can expect people to kind of work past midnight and then be back on their laptops at 4.00 am maybe in the middle of a crisis, which I did see during the first lockdown, but you can't maintain that for an extended period and you just risk burning people out.
+
+And I think that's one of the important distinctions between a national emergency and business as usual: that in normal times, you want to make sure that you are properly resourcing teams and focusing on delivering the right things. In a pandemic, people are more than willing to go above and beyond to deliver that but they can't do that forever.
+
+But, you know, I think, given the constraints that we had at the time, we responded quite fast, and as Sarah Cumbers was talking about, introduced a range of novel datasets that I think were very informative informing both policymakers and the public about both the impacts of the pandemic and the government response.
+
+**Counsel Inquiry**: I suppose the key question is, really, looking ahead, do you think you're in the same position if there was another emergency, you'd have to ask people to burn the midnight oil in that way and just to do more? Or do you think you're better prepared generally, and that things have developed so that it's easier to produce that sort of data?
+
+**Mr Grant Fitzner**: Well, I know you want me to look ahead, but I think it might be worth also looking back at where we were pre-pandemic, just briefly, if you'll indulge me.
+
+**Counsel Inquiry**: Of course.
+
+**Mr Grant Fitzner**: So back in 2016, Professor Sir Charles Bean published an independent review of economic statistics, and amongst the recommendations in his review was that we introduced more economic analysis into the organisation, more data science capabilities, make greater use of big data and, indeed, bring more big data into the organisation and use it more actively along with more administrative data. And establish a data science campus.
+
+Now, what that meant is that when the pandemic hit, we had a significant team of data scientists who could, as I said, do the data scraping and bring a range of novel data sources. We already had a small set of real-time indicators that we'd been producing, including shipping data, road traffic data.
+
+We had established relationships with two financial institutions who were providing high frequency card spending data, and we also had introduced, a few years before that, monthly GDP, which meant that we had a more timely take on the state of economic activity than if you were just solely reliant on quarterly GDP estimates.
+
+So, those things really helped in 2020, during the pandemic, to be able to provide not only more timely updates on the state of the economy, but also bringing in a whole range of additional data sources. And I think what really struck me in the first lockdown is the number of companies and businesses that were approaching us offering their data.
+
+You know, we introduced kind of a quick process to assess whether that additional data would be valuable and useful for policymakers and the public, and onboarded -- found ways of onboarding that quickly and starting to share that across government.
+
+So, I think, in some ways, the Bean Review laid some of the groundwork for our ability to respond quickly when the pandemic hit.
+
+In terms of where we go next, I've read the RSS written evidence and I agree with most of their recommendations. I think that most of them are very sensible. One point I would probably take a different position on is the one that we need to, kind of, work out what the economic questions will be for the next crisis, and make sure that we have the data ready to hand when that hits.
+
+I think that's assuming that the next crisis will be the same as the last one, and I think the challenge is every national emergency will probably have different characteristics and there may be different data requirements and I don't think it's really possible to anticipate what those may be in advance of that.
+
+However, we continue to have access to that financial transactions high-frequency data, we have access to scanner data from several major retailers which we'll be incorporating into our headline inflation numbers from next year -- and, frankly, it would have been very helpful in 2020 if we'd had that information. Government also has access to high-frequency mobility data.
+
+So some of those -- we found those were incredibly granular and regular in the way that we used frequency during the pandemic response and we would probably use again in the event of another pandemic or national crisis. So that would be a good starting point.
+
+The fact that we have lots of analysts with the ability to quickly stand up new data sources in response to the questions that we're getting from policymakers means I think we could respond flexibly to the next crisis, whatever form that may take.
+
+**Counsel Inquiry**: And --
+
+**Lady Hallett**: Just before you go on, could you slow down.
+
+**Mr Grant Fitzner**: Oh, sorry, yes.
+
+**Lady Hallett**: I have a very patient bunch of stenographers, but I'm afraid --
+
+**Mr Grant Fitzner**: Apologies.
+
+**Lady Hallett**: -- they've been tested this week.
+
+Sorry to interrupt.
+
+**Mr Wright**: No, not at all.
+
+No, my fault, I should have asked you to slow down.
+
+So I think what you're saying, essentially, is that you need to retain agility, so the ability to respond to whatever the nature of the next crisis is. You can't assume it will be a crisis in which one set of data or another will definitely be needed or useful, so you retain agility. That means you need to retain that sort of analytical function, and to be -- to have an analytical function that can be deployed in an agile way, depending on the nature of the crisis; is that right?
+
+**Mr Grant Fitzner**: That's right. Having -- data is not enough. You need the capacity to identify or, as Sarah said, source, ingest, analyse, and then disseminate that data. And for that you need people who are good at data analysis. Fortunately at the ONS we have many people with those skills.
+
+**Counsel Inquiry**: Yes. I suppose key to that is you need to have access to the data?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: And you've said access arrangements were good, but have got a bit better since the pandemic? Is that right?
+
+**Mr Grant Fitzner**: I think we have -- I think not just us but wider government has access to, and more regularly uses, a wider range of real-time indicators than pre-pandemic, because I think the benefits of those were really evident to analysts across government.
+
+**Counsel Inquiry**: Right. I just want to move on, really, to look at four interrelated topics but first, really, to look at whether there was a strategy across government on data collection during the pandemic. And then to pick up a discrete point that's arisen in the evidence in this module about whether there can or should be a sort of household dataset. That's been mooted as an idea: if there was a household dataset, that might assist decision making.
+
+Then I'd like to pick up, you know, any practical steps about how you think economic data can be effectively shared across government, and whether there's any further learning there.
+
+And then, finally, just to pick up a point about data is one thing, but this analytical function, the analytical capability of government on a cross-government basis and how that might be improved.
+
+If we look at the pandemic, you've talked about the increase in demands for data that were placed on you by all sorts of people but how did you, as an organisation, make decisions about what data to collect, what new or novel data to collect during the pandemic?
+
+**Mr Grant Fitzner**: I think it was, in large part, a response to the questions that we were getting, not just from the Cabinet Office but from other departments.
+
+The sort of questions we were getting were: are people actually social distancing? What's happening to consumer spending? What's the impact of Covid on trade and supply chains?
+
+And a bit further into the pandemic, you know: how many businesses are interested in taking up the furlough scheme? For example. Those are examples; there were many more.
+
+Now, some of those we could answer with the existing data sources, but many we found that the official statistics were essentially collected for a different purpose and couldn't answer those questions or couldn't answer them in a timely or granular way, which is what policymakers wanted. Which is why we stood up the Business Impact of COVID-19 Survey. We kind of pivoted an existing household survey that we did every couple of months to a fortnightly and then a weekly survey of households. And of course we took responsibility for the Covid Infection Survey, along with the other real-time indicators I referenced earlier.
+
+So if you put all that together alongside our official statistics, we had quite a comprehensive suite of data. Now --
+
+**Counsel Inquiry**: Can I just -- before you move on, can I ask, those requests that were coming in for data, were they coming in in a coordinated way or were they just flying in with different government departments saying, "Well, I want to know this" and "I want to know that"? And I just wonder, when you talk about limited resource and everyone working very hard, whether that could have been better coordinated?
+
+**Mr Grant Fitzner**: There was some degree of coordination. There were regular conversations between departments, and certainly for the Cabinet Office played an important coordinating role.
+
+I mean, in some cases it was kind of obvious who would lead. Obviously the Department for Transport led on transport real-time indicators, for example. We led on financial transactions data because we already had that relationship and those data supplies.
+
+There was telecoms data that was used for mobility analysis which we had access to but several other departments I think also used sometimes for different purposes.
+
+And increasingly over the course of 2020, we shared more of that data with the devolved administrations as well.
+
+**Counsel Inquiry**: Okay. You said --
+
+**Mr Grant Fitzner**: So, well, I'd say there was a degree of coordination -- there was lots of collaboration, lots of conversations. I think usually it was fairly clear who would lead on, you know, providing the data analysis on a particular area, but a lot of information was flowing across government and being used for different purposes. So, for example, to inform SAGE meetings, to inform Cabinet meetings, to inform ministers, to inform officials.
+
+I mean, one of the things that I think the Cabinet Office did well was to find secure ways of sharing a lot of that information through things like Covid dashboards, et cetera, which made that accessible to government analysts, or analysts across government. I think that worked well.
+
+**Counsel Inquiry**: So that's really what I'm interested in. You've mentioned the Cabinet Office a couple of times there, first in that they were very helpful in terms of what sort of data they were after, though other departments were coming in with particular requests.
+
+Did you find that sort of coordinating function, particularly as the pandemic developed, things being focused through the Cabinet Office and the Covid-19 Taskforce made life easier for you in terms of getting one set of requests --
+
+**Mr Grant Fitzner**: I think it did, because we weren't -- we didn't have to field multiple requests from multiple sources.
+
+I mean, obviously we still spoke to several departments and had bilateral conversations as well, but that coordinating function I think worked quite effectively.
+
+Obviously in the early days it was quite a small team. As I said, we seconded some statisticians to the Cabinet Office to help coordinate that, and I think the fact that we'd had ONS colleagues in the Cabinet Office who could just pick up the phone to me and tell me, you know, "We need to find X", you know, I could talk to the campus or talk to my other analysts and make sure that we got that information.
+
+That worked well and I think it worked at pace.
+
+But in the early days, obviously, people were kind of still setting up teams and ways of coordinating. So, you know, it took a few weeks for that to bed down.
+
+**Counsel Inquiry**: And in a future emergency, whatever the nature of it, do you think it would be beneficial to have that coordinating function from the outset coming from the centre or do you think it's still important to retain all of those links with all the other departments as well?
+
+**Mr Grant Fitzner**: I think it would be sensible unless the nature of that national crisis meant that it would be more sensible for one of -- another department to coordinate it. So, for example, if it's a transport-related issue, maybe the Department for Transport might be better placed to coordinate.
+
+**Counsel Inquiry**: But if it was a true national crisis of the type that the pandemic presented, do you think a central coordinating function would be a better way of engaging with the ONS?
+
+**Mr Grant Fitzner**: I think it's essential, really.
+
+**Counsel Inquiry**: Yes.
+
+And you spoke about the surveys that you developed -- I think just to note this, because we're really interested in economic surveys, but there was the Coronavirus Infection Survey, which gave the health picture -- important, though, to inform the economic policy making of government, but it provided the health picture.
+
+And then there was also the Business Impact of COVID-19 Survey; is that right?
+
+**Mr Grant Fitzner**: That's right.
+
+**Counsel Inquiry**: And why was that stood up in particular?
+
+**Mr Grant Fitzner**: Firstly, we needed something that was more regular than the monthly business surveys we were using for monthly GDP but secondly, there was a whole range of questions that the Treasury, Department of Business and others want us to ask business. So, for example, when the Coronavirus Job Retention Scheme was being developed, colleagues in other departments were not sure what the level of take-up would be, so we asked business, you know: would you be interested? How likely would you be to be involved in the scheme? Which actually tracked the HMRC data quite closely and I think that was kind of useful to give people a sense of that. Likewise the SEISS scheme.
+
+So we asked about those. We asked about what businesses were doing in terms of their use of labour, were they standing people down, how many people were taking up furlough, how severely had business operations been impacted? Et cetera.
+
+I mean, we asked a range of questions and we found that it was quite a flexible tool because as the pandemic evolved and the questions changed, we were able to quickly, you know, add new questions on to the survey, and go back to departments within a couple of weeks in terms of "Here's what business think."
+
+**Counsel Inquiry**: And I mean, you may say it's for those who used it to make economic decisions that I should be directing this, but did you have a sense of how valuable economic decision makers were finding the data you were getting from that survey? Were you getting feedback about it?
+
+**Mr Grant Fitzner**: Well, we did get lots of feedback at the time, usually people wanting more, or more granular or more timely, as they always do. But yes, I think we got lots of positive feedback. So I think we were ultimately able to answer most of the questions that were coming our way. I mean, we were told that our weekly financial transactions report landed on the desk of the Prime Minister and was amongst his favourite reading. I don't know if that anecdote is true, but, you know, that kind of insight, that really timely insight, we just didn't have before the pandemic.
+
+**Counsel Inquiry**: It's always tempting to say, well, that worked well, so let's bake that in as something we'd definitely do next time, but you've just picked up that, actually, one of the benefits of this survey was that it could be variable, you could target different things --
+
+**Mr Grant Fitzner**: Yeah.
+
+**Counsel Inquiry**: -- so do you think it's important to sort of bank the learning of how valuable it could be as a survey, but not have too many hard and fast rules about how it would be stood up in a future emergency?
+
+**Mr Grant Fitzner**: Well, we have continued with that survey although, obviously, we changed some of -- a significant number of the questions, because --
+
+**Counsel Inquiry**: That's what I'm really getting at --
+
+**Mr Grant Fitzner**: We have found that it's of continuing use and certainly other departments, as well, find it useful to use that as a vehicle to engage with business. Yes.
+
+**Counsel Inquiry**: But not having prescriptive questions that will never change because you don't know what data is going to be important?
+
+**Mr Grant Fitzner**: Well, I think with something like kind of a monthly or fortnightly business survey, you want a combination of questions that you ask every month, so you can get a continuous time series of business activity, and more topical questions that you kind of rotate through as issues change.
+
+So for example, we had questions around prices and cost of living impacts when inflation picked up in 2022. As other policy issues emerge, we've used that survey to ask about a whole range of other issues.
+
+**Counsel Inquiry**: So in a future emergency that survey could continue --
+
+**Mr Grant Fitzner**: That would be available and we could quickly stand that up and potentially increase the frequency, say, to weekly if we needed to.
+
+**Counsel Inquiry**: I think you also made changes to existing surveys; is that right?
+
+**Mr Grant Fitzner**: Well, you may be referring to the opinion and lifestyle survey, which is a household survey --
+
+**Counsel Inquiry**: I am --
+
+**Mr Grant Fitzner**: -- which we did have before the pandemic but we only -- we didn't -- its frequency was increased to fortnightly and then weekly, and again, in terms of finding out what households are doing, how they responded to the pandemic, that was very useful and that also started to pick up on other emerging trends during the pandemic such -- or rather after lockdown about working from home, for example.
+
+So again, we have continued that survey, although not at the frequency that we had during the pandemic.
+
+**Counsel Inquiry**: Okay. And then you've mentioned new data sources. You were getting access to lots of new data sources that gave you much more sort of real-time information; is that right?
+
+**Mr Grant Fitzner**: Yes. We had many organisations offering their data to us. We clearly couldn't take all of it on board, some because it kind of duplicated data we already had access to, others because we didn't consider it would add significantly to our ability to answer those questions. But we did take on a series of other data sources in addition to the data that we collected ourselves or had already -- were already producing.
+
+**Mr Wright**: Okay, thank you.
+
+My Lady, I think that's break time.
+
+**Lady Hallett**: I hope you were warned that we take regular breaks, and I shall return at 2.45.
+
+*(2.30 pm)*
+
+*(A short break)*
+
+*(2.45 pm)*
+
+**Lady Hallett**: Mr Wright.
+
+**Mr Wright**: Thank you, my Lady.
+
+Can I just pick up the Labour Force Survey. I think that there were some difficulties with the survey in the crisis, is that right, because it depended on face-to-face interviews?
+
+**Mr Grant Fitzner**: Yes, the Labour Force Survey has five waves and the first wave, certainly pre-pandemic, was typically conducted face-to-face, often people, our field workers sitting in someone's living room and going through a set of questions using a laptop.
+
+We found that worked better than kind of a written paper to complete, because, you know, experienced field workers are able to move through the questions and also answer any questions from respondents.
+
+Now, that clearly wasn't possible during the first lockdown so we had to explore other ways of collecting that data. So it did impact for a couple of months in terms of response rates and the quality of that labour force data, absolutely.
+
+**Counsel Inquiry**: We heard from Governor Bailey of the Bank of England that having this sort of real-time information about the labour market can be quite important in terms of setting monetary policy, for example when the Job Retention Scheme was going to end, there was an assumption about likely unemployment, that might have been relevant to a decision about interest rates?
+
+So it's pretty important to have that information. So is this right, that there is some work going on in terms of, for the future, the Transform Labour Force Survey; is that right?
+
+**Mr Grant Fitzner**: Yes, that's correct.
+
+**Counsel Inquiry**: So that's trying to future-proof things so that you can get that data in crisis?
+
+**Mr Grant Fitzner**: It's moving to a digital-first approach which means that people can complete the survey on their mobile phone or tablet or laptop. And also, it's a reduced set of questions. We've tried to strip it down to a core so it doesn't take 15 minutes to complete in the hope that that would obviously improve response rates because the respondent burden is significantly less.
+
+**Counsel Inquiry**: Right. Can I just pick up the Labour Force Survey in the context of Long Covid and whether that would have been a useful mechanism of trying to capture evidence about Long Covid.
+
+**Mr Grant Fitzner**: It could have. I mean, we did collect Long Covid data through a range of surveys at the time. I'm not sure if the LFS was necessarily the most appropriate vehicle to ask that, although we do ask some questions on the Labour Force Survey about health but in the context of economic incapacity, so when people say that they're not working and not actively looking for work, we ask them to give reasons and ill health is one of the reasons that people have given.
+
+So that --
+
+**Counsel Inquiry**: Sorry, does ill health get drilled down any further into what, you know, what sort of ill health? Or --
+
+**Mr Grant Fitzner**: I think generally no, but there may have been instances in the past that I'm not aware of where we have asked follow-up questions. But we did publish data analysis on Long Covid in 2021, 2022. And, you know, there'd been a number of pieces of analysis published on the ONS website around it.
+
+**Counsel Inquiry**: I mean, on this point about inactivity, it was, again, some of the evidence that the Governor gave at the conclusion of his evidence, he pointed to the recovery of the economy after Covid but picked up this trend of inactivity in the labour market --
+
+**Mr Grant Fitzner**: Mm.
+
+**Counsel Inquiry**: -- and expressed his own concern about that and also that it was very difficult to understand necessarily what that inactivity was or could be attributed to. Has the ONS been looking at that and trying to drill down into that sort of pool of people --
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: -- who are inactive in the labour market?
+
+**Mr Grant Fitzner**: We did publish more detailed analysis to suggest that it was one of the factors contributing to the rise in economic inactivity yes, but not the only one.
+
+**Counsel Inquiry**: What was one of them, Long Covid?
+
+**Mr Grant Fitzner**: Long Covid, yes.
+
+**Counsel Inquiry**: Okay.
+
+You mentioned earlier the health data that you were collecting and you carried on collecting that for a long time post-pandemic?
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: And that's now been wound back; is that right?
+
+**Mr Grant Fitzner**: That's -- well, I think what the prioritisation statement said is we are looking to wind down that area of activity over time.
+
+**Counsel Inquiry**: Yes.
+
+**Mr Grant Fitzner**: Now, one of the constraints is that, for some of that work, we have multi-year contracts with people to, kind of, conduct those surveys.
+
+**Counsel Inquiry**: Okay.
+
+**Mr Grant Fitzner**: So it may take some time.
+
+**Counsel Inquiry**: Can I just ask, from an economic perspective, that -- having a picture of health data could inform, couldn't it, economic decision making and policy? And I just wonder whether that would leave economic decision makers without a potentially valuable source of information in a future crisis?
+
+**Mr Grant Fitzner**: Well, I think if the ONS were the only ones collecting and producing data statistics list that would be the case, but of course the UK Health Security Agency, the NHS, Department of Health and Social Care and other agencies do publish a lot of statistics and analysis on health. I think this in area where, apart from the kind of things like births, deaths and marriages and the weekly deaths, which actually proved to be quite important during the pandemic, this is not an area where we have unique expertise. So I don't think it's a case that if we reduce our activity in this area that there would be significant data gaps.
+
+**Counsel Inquiry**: No, and then this really -- that's really why I asked the question, because it goes to this point about whether across government there is a strategy for having the right sort of data. As you say, lots of different people can be collecting that data?
+
+**Mr Grant Fitzner**: Yeah.
+
+**Counsel Inquiry**: So you might not be doing it yourselves, but it's still being done. But I just wonder how is all that then linked up and put back together to inform crisis planning response?
+
+**Mr Grant Fitzner**: So under the aegis of the Government Statistical Service there are, I guess, working groups across various themes including health where all those who produced statistics and analysis in a particular field will sit down and kind of map what each of them are doing, look to identify any potential major data gaps and achieve a degree of coordination of effort across those agencies and departments. And I know that happens in health, that happens in other areas as well. And quite often that will typically involve devolved administrations as well.
+
+Now, that doesn't mean there are no gaps in health but certainly those conversations are happening and I think if there are significant gaps, that would be on people's radar.
+
+**Counsel Inquiry**: Okay. New data sources. I mean, we could list them. There were many, many new data sources that you were able to access: financial transactions, mobile telephone network data that might show movement of people; Pret A Manger transactions, Google data, you know, these are all new.
+
+But the real question is -- I mean, that's great, lots of people are offering you data and access to it, and you can access it; my question is about coordination of that, particularly if you're under resource pressure. Was there any sense of a central coordinating function or is it left to you to make a decision about what you think will or will not help in any particular emergency? Should there be any co-ordinating function?
+
+**Mr Grant Fitzner**: As I mentioned, a lot of that information was pooled together by the Cabinet Office on a Covid Data Dashboard. There was also an API which enabled that data to be downloaded by government analysts.
+
+I think it matters less who collects that data, provided it's disseminated effectively and securely across government, and that did happen. And with the Department for Transport example, it wouldn't have made sense for the ONS to lead on that. Likewise on business, there may be some elements where the Department for Business is better placed, for example, or indeed, now, the Department for Energy, Security and Net Zero to collect energy-related data, and then share that and make that widely available.
+
+So I think that coordination did happen. We were providing daily and weekly feeds into the Cabinet Office, we were sharing that with other departments and I think that was widely used across government to -- actually not just to inform, if you like, the national pandemic response, but also ask other questions.
+
+And I think one of the elements of some of those data sources, which perhaps people may have underestimated is the incredible granularity of that data. To give you an example, when Eat Out to Help Out was introduced -- or when 9 o'clock curfews were introduced at restaurants, we could tell when people were leaving restaurants and going to their 7-Elevens down the road to buy alcohol, we could see it in the spending data, and we could map that across different parts of the UK.
+
+When there were regional lockdowns we could see whether people were travelling outside of that area to do their shopping. You know, we had incredibly granular data and we were able to answer many questions using that.
+
+**Counsel Inquiry**: Right. Can I move on to another topic that I flagged up, the idea of a household dataset.
+
+**Mr Grant Fitzner**: Mm.
+
+**Counsel Inquiry**: And this really originated in an expert report that Gemma Tetlow produced for the Inquiry.
+
+I'll ask if we can put up INQ000588130, paragraph 27 -- there we are.
+
+"The absence of a UK household dataset based on administrative data also significantly limits the UK's ability to support incomes through fiscal transfers, and to understand who is in most need of those transfers in the event of an emergency."
+
+It sets out:
+
+"... extensive individual-level data from the tax system ... tax ... National Insurance, and household-level data for some households in the benefits system ... does not have comprehensive household-level information ... The government should explore the feasibility and cost of developing [that] dataset ..."
+
+And that's really what I want to ask you about. I mean, it sounds like a great idea to have a household dataset, data on every household in the United Kingdom, so you can target money exactly where it needs to be. But cost feasibility? Where does that sit with you?
+
+**Mr Grant Fitzner**: Well, I think reading the full paragraph, my impression is this is really more around household income than household expenditure. We publish a wide range of household data, covering income expenditure and wealth. Not all of it -- you mentioned earlier the Living Costs and Food Survey -- is as timely as potentially you might want in a national crisis. So I can see the case for potentially bringing together administrative data, but we already have access to, and publish, the HMRC payroll employee data on a monthly basis, for example.
+
+DWP obviously have extensive benefit data.
+
+I think while there may be some benefits of bringing that dataset together, I'm not -- I think she may be over-selling the potential benefits during a national crisis versus some of the other data that we already have access to.
+
+But it's -- I think it's fair to point out that when we published the Economic Statistics Plan in June, we did set out our ambition to make further progress on household financial statistics and in the update we published earlier this month we said that we would engage with users in a wide range of forums in publishing a plan, in the spring of next year, which really sets out what we plan to do in this area so work is under way on that.
+
+**Counsel Inquiry**: Right. I want to move on to, sort of, data sharing across government.
+
+**Mr Grant Fitzner**: Mm.
+
+**Counsel Inquiry**: Dr Leunig gave evidence to the Inquiry, and the way he put it in his statement, in fairly stark terms, was to say:
+
+"His Majesty's Government is appalling at sharing data across departments, the data architecture is atrocious and specialist skills are underrated, and underpaid. The government has been ..."
+
+And he went on:
+
+"The government has been let down repeatedly by the ONS which was supposed to be leading in this area and has failed to deliver in the way that it was expected to ... there is a culture across government of not sharing information with other government departments."
+
+There's a lot to unpack there. That's not -- you know, I'm quite happy, given he's made the criticism, for you to defend the ONS, but I am very much interested in your view about the wider point, which is that the government is really bad at sharing data. How does that sit with you as a proposition?
+
+**Mr Grant Fitzner**: I think it has -- there has been significant progress but it's fair to say there are still challenges. And I think, if you look at what happened during the pandemic, the apparently insuperable obstacles to sharing data that occurred prior to the first lockdown in many cases were no longer evident during the pandemic. And that's, of course, because we're in a national emergency and people found ways to share data in the way that perhaps in the past they hadn't always been incentivised to do.
+
+I think data sharing in terms of where we are now is better than it is pre-pandemic. But there are still challenges. I mean, one of them is a lot of agencies collect administrative data for administrative purposes, and so the useful statistics or to inform policy, and to share with other departments, is not necessarily their top priority.
+
+Also, they are understandably concerned about potential data leaks, and so one element of how we've engaged with departments is to really demonstrate that we can securely hold data from other departments and we can be trusted to not only ingest that data but to share it with other users across government.
+
+Now, that has been challenging but we have made quite a bit of progress on data linking.
+
+You talked earlier about Long Covid and economic activity in the connection with health, so we have been working with other departments on building a linked dataset that could help to answer that question, for example, and we're working on other linked datasets with other government departments to do that.
+
+Now, not all of that may be kind of widely known in the public, but certainly that was not the case five years ago. And I think the fact that the value of data sharing and data linking were self-evident during the pandemic, and also, that we actually have a lot more data scientists and analysts across government who are used to using large, complex, linked datasets means that also our capacity to do that kind of work has improved, and that's also led to a greater appetite, I think, for accessing datasets.
+
+**Counsel Inquiry**: I mean, who would have the, you know, the convening power to make this happen in government? If it hasn't been happening, how does it happen? Does it need the centre, the Cabinet Office, to say this has got to happen or --
+
+**Mr Grant Fitzner**: Of course -- of course the government set out its ambition last year to establish a national data library and I think that would be a national kind of coordinating vehicle when that is up and running.
+
+**Counsel Inquiry**: And I mean, Dr Leunig was critical of the ONS, and I want to give you an opportunity to set out your position, but I mean, what ability does the ONS have to influence the sharing of data across government, and coordinate it?
+
+**Mr Grant Fitzner**: Well, there are some powers under the Digital Economy Act which do give us some powers to effectively demand data, whether it is from a private business or from other parts of government. But going back to the trust point, generally we found that we get better quality data and a better working relationship if we can get access to those datasets through conversations through demonstrating how we can -- you know, securely store that data and to demonstrate why we need it than if we launch some sort of legal -- go through some sort of legal process, because the reality is that if you're dealing with large, complex datasets and people don't want to provide it, either they will try to stop providing that dataset or may provide it in a way which is effectively unusable.
+
+So I think trusted relationships between departments and with other data providers is -- has proven much more successful in practice.
+
+Now, that does tend to take time to build those trusted relationships, but as I said earlier, you know, we have access to quite a lot of HMRC data, VAT, corporation tax, payrolled employees. We're increasingly using that in our official statistics. We have access to a significant number of real-time indicators, as well, continuing some of those since the pandemic. Other parts of government are also likewise, I think, have made more progress on data sharing and data linking than where we were a few years ago.
+
+So you could say progress has been slower than one would have hoped, and there are still some obstacles, I think that's true, but I wouldn't undersell the progress that's been made in the last five years.
+
+**Counsel Inquiry**: So you would hope that, in a future emergency, Dr Leunig wouldn't have to send an email saying "Arggghhh" to a colleague in frustration at data sharing -- (overspeaking) --
+
+**Mr Grant Fitzner**: One would certainly hope not. Although I think one area that I think Gemma Tetlow and a couple of other people have mentioned is the restrictions around health data.
+
+**Counsel Inquiry**: Yeah.
+
+**Mr Grant Fitzner**: That has proved a major barrier not just to government analysts but to researchers in this field. Having to get permissions from each individual hospital in order to access patient data, for example, has been a major impediment. And I think the level of restrictions around some of that data have proven excessive and have inhibited research and analysis in this field.
+
+We are working with some other departments to, kind of, try to improve that by establishing a secure space in which that kind of data can be shared securely.
+
+**Counsel Inquiry**: All right.
+
+Can I move on, then, to the fourth topic, which was, you know, data is one thing, analysis.
+
+And we heard evidence in the course of these hearings from Rob Harrison, who headed the directorate general of analysis in the Cabinet Office, and presumably you're familiar with that as --
+
+**Mr Grant Fitzner**: Yes.
+
+**Counsel Inquiry**: And that became a coordinating analytical function in the Cabinet Office which was able to provide, or, as he put it, to create this, sort of, high-trust bubble so there was one set of analysis to inform, you know, key decisions.
+
+How important do you think that that sort of model is?
+
+**Mr Grant Fitzner**: Well, effectively we're describing a hub and spoke model, where you have the coordinating team in the centre. But that wouldn't have worked if you hadn't had statisticians and data scientists and other analysts across government feeding into that.
+
+**Counsel Inquiry**: Yes, quite. Because the way he described it is each department would do its own analysis of data, produce that, and then this would act as a sort of coordinating function, bring that all together and present a snapshot for decision makers?
+
+**Mr Grant Fitzner**: That's right.
+
+**Counsel Inquiry**: And do you think that was a useful approach?
+
+**Mr Grant Fitzner**: Absolutely and I'm not sure how you would manage in terms of informing the government response in terms of the next national pandemic or crisis, if you didn't have that coordinating function.
+
+**Counsel Inquiry**: Right. And how would that -- I mean, it still exists in a slightly different form, is the evidence we've heard.
+
+**Mr Grant Fitzner**: Mm.
+
+**Counsel Inquiry**: And does the ONS work with that central body now? And is that helping the ONS in terms of its prioritisation of work and so on?
+
+**Mr Grant Fitzner**: We do. We have ONS staff in the Joint Data and Analysis Centre, JDAC. We regularly engage with -- well, not just the Cabinet Office, with other departments. And I think the issue, though -- and this partly goes back to the RSS point about contingency for the next crisis -- is we don't necessarily need 50 or 100 or 200 people sitting around waiting for the next crisis. I think we've demonstrated that we and other departments have the ability to scale up quickly in response in a national crisis.
+
+**Counsel Inquiry**: Right.
+
+**Mr Grant Fitzner**: But that does require having people with the right analytical skills in your organisations.
+
+**Counsel Inquiry**: Yes. So it's about having the skill set, and the right skill sets, to respond?
+
+**Mr Grant Fitzner**: Yes, it's not just about the data; it's about the capacity and the collaboration.
+
+**Counsel Inquiry**: Just on the subject of scaling up, I mean these sound to me, as a layperson, like pretty specialist skill sets. I mean, if you need to scale up, are there lots of data analysts that you can -- data scientists that you can just call up at short notice?
+
+**Mr Grant Fitzner**: Well, there are lots of data analysts out there. Of course, many in the private sector are probably being paid significantly more than in the Civil Service. But, you know, we do get a lot of people who want to work in government and serve the public good. And also find that the sort of work that you would do, whether it's at the ONS or a policy department, really interesting and relevant to their careers.
+
+**Counsel Inquiry**: Those are the topics I wanted to cover. I want to give you an opportunity to share any further reflections or observations you might have, really forward looking in terms of whether there's any other work that you think can or should be done now to put us in a better position to respond in a future emergency?
+
+**Mr Grant Fitzner**: Well, I think it's always good to take pause from time to time and reflect on whether we are at the level of preparedness and have the level of capacity to respond quickly if we need to. And I'm sure -- and there are obvious lessons from what happened in 2020. I mean, my overall assessment is that -- and I've talked about some of this before -- is that that combination of data, collaboration, capacity, and communication is really essential. So you need some degree of coordination but you also need people who have the ability to respond in a crisis.
+
+I think the ONS made a positive contribution during the pandemic and obviously we stand ready to respond to if there should be another pandemic or national emergency. But I think the key point about what happened during the pandemic was very much a collaborative exercise across government, and we probably are better placed now than we were five years ago. As I said, we have -- we and other government departments and agencies have access to more high-frequency granular datasets than we did then. We have a lot more data scientists working in government than we did then and I think all of us will have learned some lessons from 2020 in terms of what worked and what didn't.
+
+So I think that has put us in a better place than where we were in March 2020.
+
+**Mr Wright**: Thank you very much.
+
+Those are my questions, my Lady. I don't think there are any --
+
+**Lady Hallett**: There are no other questions.
+
+Mr Fitzner, thank you very much indeed for your help and I'm sure the help of your colleagues who I'm sure assisted you in preparing for the Inquiry's session this afternoon.
+
+I found it a bit spooky when you said that you could tell that when there was a 9 o'clock curfew and people were popping to the corner shop to buy their alcohol to take home, but I'm sure you needed that kind of data to provide decision makers or policymakers with the information they needed.
+
+Thank you very much indeed. The point you made about health data is something I have heard before in this Inquiry, and I have very much got that point on board. Although I appreciate it was not the focus of your evidence this afternoon, it's something I'm particularly conscious of. And I'm really grateful to you and your colleagues. Thank you very much for your help.
+
+**The Witness**: Thank you very much.
+
+**Lady Hallett**: I think that completes the evidence, Mr Wright.
+
+**Mr Wright**: It does, my Lady. Thank you.
+
+**Lady Hallett**: Thank you very much indeed. I shall return at 10.00 tomorrow morning to hear the closing submissions of Core Participants, and the plan is to finish them by lunchtime tomorrow.
+
+Thank you.
+
+*(3.11 pm)*
+
+*(The hearing adjourned until 10.00 am the following day)*
+
